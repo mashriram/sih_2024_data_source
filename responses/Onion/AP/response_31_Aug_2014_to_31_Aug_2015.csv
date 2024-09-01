@@ -1,0 +1,1456 @@
+0,1,2,3,4,5,6,7,8,9
+1,Kurnool,Alur,Onion,Beelary-Red,Medium,615,875,714,15 Nov 2014
+2,Kurnool,Alur,Onion,Beelary-Red,Medium,625,800,714,20 Nov 2014
+3,Kurnool,Alur,Onion,Beelary-Red,Medium,800,990,850,02 Nov 2014
+4,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1000,900,07 Dec 2014
+5,Kurnool,Alur,Onion,Beelary-Red,Medium,830,1020,960,12 Dec 2014
+6,Kurnool,Alur,Onion,Beelary-Red,Medium,850,1050,950,26 Oct 2014
+7,Kurnool,Alur,Onion,Beelary-Red,Medium,1050,1250,1150,31 Dec 2014
+8,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,07 May 2015
+9,Kurnool,Alur,Onion,Beelary-Red,Medium,1900,2100,2000,24 Apr 2015
+10,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2300,2200,08 Jul 2015
+11,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2600,2400,27 Jun 2015
+12,Kurnool,Alur,Onion,Beelary-Red,Medium,2400,2800,2600,30 Jul 2015
+13,Kurnool,Alur,Onion,Beelary-Red,Medium,2700,3100,2900,17 Aug 2015
+14,Kurnool,Alur,Onion,Beelary-Red,Medium,3400,4400,3900,28 Aug 2015
+15,Kurnool,Banaganapalli,Onion,Local,Medium,600,800,700,07 Oct 2014
+16,Chittor,Chittor(Rythu Bazar),Onion,1st Sort,Large,4000,6000,5000,29 Aug 2015
+17,Chittor,Chittor(Rythu Bazar),Onion,1st Sort,Large,4500,6000,5000,28 Aug 2015
+18,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,1800,2200,2000,04 Jun 2015
+19,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,01 Jul 2015
+20,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,30 Jun 2015
+21,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Medium,Medium,2600,2600,2600,08 Jun 2015
+22,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,11 Apr 2015
+23,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,22,22,22,14 May 2015
+24,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,24 Jun 2015
+25,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,3400,3400,3400,23 Jul 2015
+26,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,02 Jul 2015
+27,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,03 Jul 2015
+28,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,14 Jun 2015
+29,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,18 Jul 2015
+30,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,19 Oct 2014
+31,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,28 Oct 2014
+32,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,26 Apr 2015
+33,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,01 Nov 2014
+34,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,19 Nov 2014
+35,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,22 Feb 2015
+36,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,03 Jun 2015
+37,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,12 May 2015
+38,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,22 Jun 2015
+39,Kurnool,Kurnool,Onion,Local,FAQ,540,1455,1135,10 Dec 2014
+40,Kurnool,Kurnool,Onion,Local,Medium,540,1505,1160,01 Dec 2014
+41,Kurnool,Kurnool,Onion,Local,Medium,560,1470,1145,03 Dec 2014
+42,Kurnool,Kurnool,Onion,Local,Medium,590,1405,1150,11 Dec 2014
+43,Kurnool,Kurnool,Onion,Local,Medium,635,1220,900,22 Sep 2014
+44,Kurnool,Kurnool,Onion,Local,Medium,710,1145,910,25 Apr 2015
+45,Kurnool,Kurnool,Onion,Local,Medium,730,1430,920,30 Apr 2015
+46,Kurnool,Kurnool,Onion,Local,Medium,750,1355,1150,20 Sep 2014
+47,Kurnool,Kurnool,Onion,Local,Medium,800,1450,1105,15 May 2015
+48,Kurnool,Kurnool,Onion,Local,Medium,925,1465,1125,17 Apr 2015
+49,Kurnool,Kurnool,Onion,Local,Medium,1020,1425,1285,23 Mar 2015
+50,Kurnool,Alur,Onion,Beelary-Red,Medium,600,1000,600,22 Nov 2014
+51,Kurnool,Alur,Onion,Beelary-Red,Medium,720,720,720,17 Nov 2014
+52,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1000,900,25 Oct 2014
+53,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1040,960,09 Nov 2014
+54,Kurnool,Alur,Onion,Beelary-Red,Medium,820,1020,950,08 Nov 2014
+55,Kurnool,Alur,Onion,Beelary-Red,Medium,900,1100,1000,30 Oct 2014
+56,Kurnool,Alur,Onion,Beelary-Red,Medium,1300,1550,1420,17 Dec 2014
+57,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,01 Jun 2015
+58,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,19 Apr 2015
+59,Kurnool,Alur,Onion,Beelary-Red,Medium,1900,2100,2000,28 May 2015
+60,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2200,2100,16 Jul 2015
+61,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2400,2200,11 Jun 2015
+62,Kurnool,Alur,Onion,Beelary-Red,Medium,2150,2350,2250,12 Feb 2015
+63,Kurnool,Alur,Onion,Beelary-Red,Medium,2280,2350,2310,06 Feb 2015
+64,Kurnool,Alur,Onion,Beelary-Red,Medium,2400,3200,2800,03 Aug 2015
+65,Kurnool,Alur,Onion,Beelary-Red,Medium,2800,3200,3000,10 Aug 2015
+66,Kurnool,Alur,Onion,Beelary-Red,Medium,2900,3300,3100,07 Aug 2015
+67,Kurnool,Alur,Onion,Beelary-Red,Medium,3400,4400,3900,27 Aug 2015
+68,Chittor,Chittor(Rythu Bazar),Onion,1st Sort,Large,1800,3000,2000,21 Aug 2015
+69,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,20 May 2015
+70,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,30 Apr 2015
+71,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,1800,2200,2000,09 Jun 2015
+72,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,1800,2200,2000,10 Jun 2015
+73,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,04 Jul 2015
+74,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Medium,Medium,2600,2600,2600,26 Jun 2015
+75,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,06 Jun 2015
+76,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,18 Jul 2015
+77,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,03 Apr 2015
+78,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,10 Apr 2015
+79,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,12 Apr 2015
+80,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,23 Apr 2015
+81,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,30 Apr 2015
+82,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,22,22,22,21 May 2015
+83,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,24,24,24,02 Jun 2015
+84,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,17 Jun 2015
+85,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,29 Jun 2015
+86,West Godavari,Kovvur,Onion,New Pune,Medium,1900,2300,2100,20 Jul 2015
+87,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,16 Oct 2014
+88,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,17 Oct 2014
+89,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,02 Dec 2014
+90,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,06 Nov 2014
+91,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,23 Jan 2015
+92,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,08 Nov 2014
+93,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,20 May 2015
+94,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,24 Feb 2015
+95,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,30 May 2015
+96,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,05 Aug 2015
+97,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,13 Aug 2015
+98,Kurnool,Alur,Onion,Beelary-Red,Medium,666,833,720,24 Nov 2014
+99,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1200,1000,06 Dec 2014
+100,Kurnool,Alur,Onion,Beelary-Red,Medium,1400,1800,1600,15 Apr 2015
+101,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2200,2000,28 Apr 2015
+102,Kurnool,Alur,Onion,Beelary-Red,Medium,1850,2200,2000,14 Jan 2015
+103,Kurnool,Alur,Onion,Beelary-Red,Medium,2280,2380,2320,02 Feb 2015
+104,Kurnool,Alur,Onion,Beelary-Red,Medium,2500,2800,2700,25 Jul 2015
+105,Kurnool,Alur,Onion,Beelary-Red,Medium,2550,2750,2650,15 Jun 2015
+106,Kurnool,Alur,Onion,Beelary-Red,Medium,3400,4400,3900,25 Aug 2015
+107,Kurnool,Alur,Onion,Beelary-Red,Medium,3800,4000,3900,31 Aug 2015
+108,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,05 May 2015
+109,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,07 Apr 2015
+110,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,29 Apr 2015
+111,West Godavari,Eluru,Onion,Onion,Medium,2600,2600,2600,03 Jul 2015
+112,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,23 Apr 2015
+113,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,02 Jul 2015
+114,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,20 Jul 2015
+115,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,29 Jun 2015
+116,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,06 Apr 2015
+117,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,16 May 2015
+118,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,21 Apr 2015
+119,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,28 Apr 2015
+120,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,22,22,22,14 May 2015
+121,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,24 Jun 2015
+122,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,3400,3400,3400,25 Jul 2015
+123,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,14 Nov 2014
+124,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,24 Nov 2014
+125,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,07 Jan 2015
+126,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,12 Oct 2014
+127,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,15 Feb 2015
+128,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,15 May 2015
+129,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,18 May 2015
+130,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,24 Apr 2015
+131,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,25 Feb 2015
+132,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,29 May 2015
+133,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,03 Aug 2015
+134,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,06 Aug 2015
+135,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,15 Oct 2014
+136,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,13 Jul 2015
+137,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,21 Jun 2015
+138,West Godavari,Kovvur,Onion,Onion,Medium,2000,4000,2000,31 Aug 2015
+139,West Godavari,Kovvur,Onion,Onion,Medium,2200,2600,2400,25 Jun 2015
+140,Kurnool,Kurnool,Onion,Local,Medium,530,1495,1120,06 Dec 2014
+141,Kurnool,Kurnool,Onion,Local,Medium,665,1320,1170,07 Jan 2015
+142,Kurnool,Kurnool,Onion,Local,Medium,755,1455,1135,05 May 2015
+143,Kurnool,Kurnool,Onion,Local,Medium,780,1235,940,24 Mar 2015
+144,Kurnool,Kurnool,Onion,Local,Medium,870,1215,1050,01 Apr 2015
+145,Kurnool,Kurnool,Onion,Local,Medium,935,1310,1180,10 Apr 2015
+146,Kurnool,Kurnool,Onion,Local,Medium,1030,1300,1140,09 Apr 2015
+147,Kurnool,Alur,Onion,Beelary-Red,Medium,700,900,800,16 Nov 2014
+148,Kurnool,Alur,Onion,Beelary-Red,Medium,780,960,840,05 Dec 2014
+149,Kurnool,Alur,Onion,Beelary-Red,Medium,850,950,900,08 Dec 2014
+150,Kurnool,Alur,Onion,Beelary-Red,Medium,1000,1500,1250,04 Apr 2015
+151,Kurnool,Alur,Onion,Beelary-Red,Medium,1020,1320,1260,29 Dec 2014
+152,Kurnool,Alur,Onion,Beelary-Red,Medium,1350,1750,1550,08 Jan 2015
+153,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,16 May 2015
+154,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,25 Apr 2015
+155,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,12 May 2015
+156,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2200,2000,26 Apr 2015
+157,Kurnool,Alur,Onion,Beelary-Red,Medium,1900,2100,2000,23 Apr 2015
+158,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2300,2150,23 Jul 2015
+159,Kurnool,Alur,Onion,Beelary-Red,Medium,2400,2600,2500,29 Jul 2015
+160,Kurnool,Alur,Onion,Beelary-Red,Medium,2500,3000,2700,01 Aug 2015
+161,Kurnool,Banaganapalli,Onion,Local,Medium,600,800,700,26 Sep 2014
+162,Kurnool,Banaganapalli,Onion,Local,Medium,600,800,700,29 Sep 2014
+163,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,15 May 2015
+164,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,28 May 2015
+165,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,23 Jun 2015
+166,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,03 Apr 2015
+167,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,07 May 2015
+168,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,09 Apr 2015
+169,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,22,22,22,22 May 2015
+170,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,03 Jun 2015
+171,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,05 Jun 2015
+172,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,27 Jun 2015
+173,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,3400,3400,3400,25 Jul 2015
+174,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,12 May 2015
+175,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,25 Apr 2015
+176,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,22,22,22,15 May 2015
+177,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,11 Nov 2014
+178,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,15 Dec 2014
+179,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,24 Oct 2014
+180,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,09 Nov 2014
+181,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,25 Apr 2015
+182,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,26 Nov 2014
+183,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,11 Dec 2014
+184,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,11 Oct 2014
+185,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,14 May 2015
+186,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,16 Feb 2015
+187,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,17 Jan 2015
+188,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,21 Nov 2014
+189,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,28 Feb 2015
+190,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,13 Dec 2014
+191,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,24 Dec 2014
+192,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,30 Jul 2015
+193,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,18 Jul 2015
+194,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,23 Jul 2015
+195,Kurnool,Kurnool,Onion,Local,Medium,1105,1485,1295,16 Mar 2015
+196,Kurnool,Kurnool,Onion,Local,Medium,1200,1755,1630,04 Feb 2015
+197,Kurnool,Kurnool,Onion,Local,Medium,1215,1445,1360,04 Mar 2015
+198,Kurnool,Kurnool,Onion,Local,Medium,1520,2645,2050,23 Jul 2015
+199,Kurnool,Kurnool,Onion,Local,Medium,2000,3300,2760,29 Jul 2015
+200,Kurnool,Kurnool,Onion,Local,Medium,2250,3380,2890,04 Aug 2015
+201,Nellore,Nellore,Onion,Local,Medium,2000,2400,2200,06 Oct 2014
+202,Nellore,Nellore,Onion,Onion,Medium,2000,2400,2200,01 Oct 2014
+203,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,09 Mar 2015
+204,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,16 Mar 2015
+205,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,27 May 2015
+206,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,30 Mar 2015
+207,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,23 May 2015
+208,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2600,2400,04 Jun 2015
+209,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,04 Dec 2014
+210,Kurnool,Pattikonda,Onion,Local,Medium,1300,1500,1400,15 Dec 2014
+211,Kurnool,Pattikonda,Onion,Local,Medium,1800,2000,1900,03 Jun 2015
+212,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,02 Oct 2014
+213,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,21 Nov 2014
+214,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,25 Nov 2014
+215,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1200,900,25 Oct 2014
+216,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,900,18 Oct 2014
+217,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,900,21 Oct 2014
+218,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,1000,25 Apr 2015
+219,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1000,15 Oct 2014
+220,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1600,1200,28 Oct 2014
+221,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,15 May 2015
+222,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1200,06 Feb 2015
+223,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1100,27 Jun 2015
+224,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1200,15 Jun 2015
+225,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1400,23 Jan 2015
+226,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1500,02 Jan 2015
+227,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1850,1400,15 Mar 2015
+228,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1700,1300,04 Jun 2015
+229,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1800,1400,13 Jun 2015
+230,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,09 Mar 2015
+231,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,20 Jun 2015
+232,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,25 Jun 2015
+233,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1600,05 Jan 2015
+234,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2000,1500,13 Mar 2015
+235,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2000,1500,23 Jun 2015
+236,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2000,1600,20 Jan 2015
+237,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2100,1600,18 Jul 2015
+238,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,2200,1600,23 Jul 2015
+239,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,17 Dec 2014
+240,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,24 Jul 2015
+241,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,26 Jul 2015
+242,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,28 Jun 2015
+243,West Godavari,Kovvur,Onion,Onion,Medium,2000,4000,2000,25 Aug 2015
+244,Kurnool,Kurnool,Onion,Local,Medium,470,1200,850,26 Sep 2014
+245,Kurnool,Kurnool,Onion,Local,Medium,580,1625,1155,02 Dec 2014
+246,Kurnool,Kurnool,Onion,Local,Medium,650,1250,1055,21 May 2015
+247,Kurnool,Kurnool,Onion,Local,Medium,675,1720,1265,30 Dec 2014
+248,Kurnool,Kurnool,Onion,Local,Medium,680,1760,1480,18 Dec 2014
+249,Kurnool,Kurnool,Onion,Local,Medium,705,1485,1150,18 Sep 2014
+250,Kurnool,Kurnool,Onion,Local,Medium,770,1405,1105,25 Oct 2014
+251,Kurnool,Kurnool,Onion,Local,Medium,810,1200,1010,19 May 2015
+252,Kurnool,Kurnool,Onion,Local,Medium,845,1175,960,02 Apr 2015
+253,Kurnool,Kurnool,Onion,Local,Medium,1000,1315,1185,13 Apr 2015
+254,Kurnool,Kurnool,Onion,Local,Medium,1055,1830,1595,03 Sep 2014
+255,Kurnool,Kurnool,Onion,Local,Medium,1090,1250,1135,11 Apr 2015
+256,Kurnool,Kurnool,Onion,Local,Medium,1110,1845,1425,05 Jun 2015
+257,Kurnool,Kurnool,Onion,Local,Medium,1185,1490,1355,30 Jan 2015
+258,Kurnool,Kurnool,Onion,Local,Medium,1190,1520,1335,05 Mar 2015
+259,Kurnool,Kurnool,Onion,Local,Medium,1270,1440,1315,02 Mar 2015
+260,Kurnool,Kurnool,Onion,Local,Medium,1280,1805,1530,14 Feb 2015
+261,Kurnool,Kurnool,Onion,Onion,Medium,545,1525,1130,08 Dec 2014
+262,Nellore,Nellore,Onion,Local,Medium,1200,1400,1300,21 Nov 2014
+263,Nellore,Nellore,Onion,Local,Medium,1400,1600,1500,17 Nov 2014
+264,Nellore,Nellore,Onion,Local,Medium,1500,1700,1600,09 Nov 2014
+265,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,04 Sep 2014
+266,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,27 Sep 2014
+267,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,04 Apr 2015
+268,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2600,2400,07 May 2015
+269,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,07 Apr 2015
+270,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2600,2400,13 May 2015
+271,Vijayanagaram,Parvathipuram,Onion,Onion,Medium,1800,2000,1900,04 Feb 2015
+272,Kurnool,Pattikonda,Onion,Hybrid,Medium,4400,4500,4500,29 Aug 2015
+273,Kurnool,Pattikonda,Onion,Local,Medium,1300,1500,1400,10 Dec 2014
+274,Kurnool,Pattikonda,Onion,Local,Medium,1300,1500,1400,11 Dec 2014
+275,Kurnool,Pattikonda,Onion,Local,Medium,1300,1500,1400,14 Dec 2014
+276,Kurnool,Pattikonda,Onion,Local,Medium,1800,2000,1900,17 Jun 2015
+277,Kurnool,Pattikonda,Onion,Local,Medium,2400,2600,2500,08 Jan 2015
+278,Kurnool,Pattikonda,Onion,Local,Medium,2400,2600,2500,13 Jan 2015
+279,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1100,800,19 Nov 2014
+280,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,07 Oct 2014
+281,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,08 Oct 2014
+282,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,900,15 Apr 2015
+283,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1100,08 Dec 2014
+284,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,10 Dec 2014
+285,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,11 Dec 2014
+286,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1200,07 Feb 2015
+287,West Godavari,Tadepalligudem,Onion,Medium,FAQ,850,1500,1200,13 May 2015
+288,West Godavari,Tadepalligudem,Onion,Medium,FAQ,850,1500,1200,14 May 2015
+289,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,27 Jun 2015
+290,Kurnool,Kurnool,Onion,Local,Medium,650,1275,1100,10 Sep 2014
+291,Kurnool,Kurnool,Onion,Local,Medium,650,1560,1115,11 Oct 2014
+292,Kurnool,Kurnool,Onion,Local,Medium,670,1995,1370,16 Dec 2014
+293,Kurnool,Kurnool,Onion,Local,Medium,730,1290,950,27 Apr 2015
+294,Kurnool,Kurnool,Onion,Local,Medium,740,1540,1215,12 Jan 2015
+295,Kurnool,Kurnool,Onion,Local,Medium,900,1705,1405,17 Jun 2015
+296,Kurnool,Kurnool,Onion,Local,Medium,1030,1805,1430,06 Jun 2015
+297,Kurnool,Kurnool,Onion,Local,Medium,1110,1470,1275,09 Mar 2015
+298,Kurnool,Kurnool,Onion,Local,Medium,1240,1645,1485,25 Feb 2015
+299,Kurnool,Kurnool,Onion,Local,Medium,2100,4010,3010,17 Aug 2015
+300,Nellore,Nellore,Onion,Local,Medium,1500,1700,1600,10 Nov 2014
+301,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,05 Sep 2014
+302,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,28 Apr 2015
+303,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,31 Mar 2015
+304,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2000,4800,4600,28 Aug 2015
+305,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,05 Apr 2015
+306,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,28 May 2015
+307,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,14 Nov 2014
+308,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1200,900,23 Oct 2014
+309,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1600,1200,01 Nov 2014
+310,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1100,06 Nov 2014
+311,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1100,09 May 2015
+312,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1100,18 May 2015
+313,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,05 Mar 2015
+314,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1500,03 Jan 2015
+315,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1850,1400,16 Mar 2015
+316,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2000,1600,21 Jan 2015
+317,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2100,1600,16 Jul 2015
+318,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2100,1600,19 Jul 2015
+319,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,2200,1600,21 Jul 2015
+320,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1400,2300,1800,21 Dec 2014
+321,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2800,10 Aug 2015
+322,Kurnool,Kurnool,Onion,Local,Medium,1100,1745,1480,19 Jun 2015
+323,Kurnool,Kurnool,Onion,Local,Medium,1180,1545,1300,27 Feb 2015
+324,Kurnool,Kurnool,Onion,Local,Medium,1355,1685,1545,03 Jun 2015
+325,Kurnool,Kurnool,Onion,Local,Medium,1525,1675,1590,13 Feb 2015
+326,Kurnool,Kurnool,Onion,Local,Medium,2290,3500,2800,14 Aug 2015
+327,Nellore,Nellore,Onion,Local,Medium,1200,1600,1400,19 Nov 2014
+328,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,12 Mar 2015
+329,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2600,2400,06 May 2015
+330,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2600,2400,08 May 2015
+331,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,3200,3600,3400,28 Jul 2015
+332,Kurnool,Pattikonda,Onion,Local,Medium,1200,1300,1200,07 Dec 2014
+333,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,06 Dec 2014
+334,Kurnool,Pattikonda,Onion,Local,Medium,1300,1500,1400,13 Dec 2014
+335,Kurnool,Pattikonda,Onion,Local,Medium,1800,2000,1900,12 Sep 2014
+336,Kurnool,Pattikonda,Onion,Local,Medium,2400,2600,2500,29 Jan 2015
+337,Kurnool,Pattikonda,Onion,Local,Medium,4400,4500,4400,30 Aug 2015
+338,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,03 Oct 2014
+339,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,12 Oct 2014
+340,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,13 Nov 2014
+341,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1500,1000,04 Apr 2015
+342,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1100,01 Jul 2015
+343,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1600,1200,13 Feb 2015
+344,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1600,1200,14 Feb 2015
+345,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1400,11 Jan 2015
+346,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1500,04 Jan 2015
+347,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1850,1400,17 Mar 2015
+348,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1850,1400,18 Mar 2015
+349,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1850,1400,19 Mar 2015
+350,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,1900,1500,07 Jun 2015
+351,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,1900,1500,08 Jun 2015
+352,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,1900,1500,10 Jun 2015
+353,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1300,2500,1900,27 Jul 2015
+354,Kurnool,Alur,Onion,Beelary-Red,Medium,714,714,714,25 Nov 2014
+355,Kurnool,Alur,Onion,Beelary-Red,Medium,830,1150,1000,13 Dec 2014
+356,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,17 May 2015
+357,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,04 Jun 2015
+358,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,29 May 2015
+359,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,30 May 2015
+360,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2400,2200,09 Jul 2015
+361,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2500,2300,28 Jun 2015
+362,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2600,2400,23 Jun 2015
+363,Chittor,Chittor(Rythu Bazar),Onion,1st Sort,Large,1800,3000,2000,25 Aug 2015
+364,Chittor,Chittor(Rythu Bazar),Onion,2nd Sort,Large,18,22,20,01 May 2015
+365,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,02 Apr 2015
+366,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,1800,3000,2000,07 Aug 2015
+367,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,16 Apr 2015
+368,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,27 Apr 2015
+369,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,24,24,24,29 May 2015
+370,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,24 Apr 2015
+371,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,10 Jul 2015
+372,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,13 Jul 2015
+373,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,17 Apr 2015
+374,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,26 Jan 2015
+375,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,04 Nov 2014
+376,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,20 Apr 2015
+377,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,09 Feb 2015
+378,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,18 Dec 2014
+379,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,23 Dec 2014
+380,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,25 May 2015
+381,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,31 May 2015
+382,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,01 Jul 2015
+383,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,09 Aug 2015
+384,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,10 May 2015
+385,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,12 Jun 2015
+386,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,13 Oct 2014
+387,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,17 Jun 2015
+388,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,19 Aug 2015
+389,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,20 Aug 2015
+390,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,21 Dec 2014
+391,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,22 Jul 2015
+392,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,06 Jul 2015
+393,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,11 Jul 2015
+394,West Godavari,Kovvur,Onion,Other,Medium,1400,1800,1600,14 Apr 2015
+395,Kurnool,Kurnool,Onion,Local,Medium,600,1455,1215,14 May 2015
+396,Kurnool,Kurnool,Onion,Local,Medium,670,1630,1150,19 Sep 2014
+397,Kurnool,Kurnool,Onion,Local,Medium,700,1750,1300,31 Dec 2014
+398,Kurnool,Kurnool,Onion,Local,Medium,720,1500,1200,29 Dec 2014
+399,Kurnool,Kurnool,Onion,Local,Medium,735,1325,1035,25 May 2015
+400,Kurnool,Kurnool,Onion,Local,Medium,820,1745,1460,09 Feb 2015
+401,Kurnool,Kurnool,Onion,Local,Medium,835,1370,1145,28 Jan 2015
+402,Kurnool,Kurnool,Onion,Local,Medium,870,1850,1560,27 Oct 2014
+403,Kurnool,Alur,Onion,Beelary-Red,Medium,770,830,800,19 Nov 2014
+404,Kurnool,Alur,Onion,Beelary-Red,Medium,800,800,800,09 Sep 2014
+405,Kurnool,Alur,Onion,Beelary-Red,Medium,1210,1460,1320,09 Jan 2015
+406,Kurnool,Alur,Onion,Beelary-Red,Medium,1500,1700,1600,11 Apr 2015
+407,Kurnool,Alur,Onion,Beelary-Red,Medium,1580,1780,1680,14 Apr 2015
+408,Kurnool,Alur,Onion,Beelary-Red,Medium,1650,1850,1750,16 Apr 2015
+409,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2400,2200,03 Jul 2015
+410,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2500,2300,10 Jul 2015
+411,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2600,2400,25 Jun 2015
+412,Kurnool,Alur,Onion,Beelary-Red,Medium,2400,3000,2700,15 Aug 2015
+413,Kurnool,Alur,Onion,Beelary-Red,Medium,2400,3200,2800,16 Aug 2015
+414,Kurnool,Alur,Onion,Beelary-Red,Medium,2600,3400,3000,04 Aug 2015
+415,Kurnool,Alur,Onion,Beelary-Red,Medium,2650,2750,2700,17 Jun 2015
+416,Kurnool,Banaganapalli,Onion,Local,Medium,600,800,700,25 Sep 2014
+417,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,09 Apr 2015
+418,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,27 May 2015
+419,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,21 May 2015
+420,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,02 Jul 2015
+421,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,08 Jul 2015
+422,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,20 Jun 2015
+423,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,25 Jun 2015
+424,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2400,3000,2600,29 Jul 2015
+425,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,17 Apr 2015
+426,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,19 Jul 2015
+427,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,21 Jun 2015
+428,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,3400,3400,3400,24 Jul 2015
+429,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,05 Apr 2015
+430,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,06 May 2015
+431,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,09 May 2015
+432,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,26 Apr 2015
+433,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,29 Apr 2015
+434,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,22,22,22,20 May 2015
+435,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,07 Jul 2015
+436,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,19 Jun 2015
+437,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,26 Jun 2015
+438,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,03 May 2015
+439,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,12 Nov 2014
+440,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,21 Oct 2014
+441,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,25 Oct 2014
+442,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,01 Jun 2015
+443,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,04 Sep 2014
+444,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,07 Nov 2014
+445,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,22 May 2015
+446,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,08 Aug 2015
+447,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,09 May 2015
+448,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,12 Aug 2015
+449,West Godavari,Kovvur,Onion,Onion,Medium,2000,4000,2000,22 Aug 2015
+450,Kurnool,Kurnool,Onion,Local,Medium,725,1250,970,24 Apr 2015
+451,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,25 Feb 2015
+452,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1500,01 Jan 2015
+453,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1800,1400,05 Jun 2015
+454,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1800,1400,11 Jun 2015
+455,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,11 Mar 2015
+456,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,2000,1500,10 Jul 2015
+457,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1200,1000,02 Apr 2015
+458,Kurnool,Alur,Onion,Beelary-Red,Medium,820,1040,960,06 Nov 2014
+459,Kurnool,Alur,Onion,Beelary-Red,Medium,830,830,830,11 Sep 2014
+460,Kurnool,Alur,Onion,Beelary-Red,Medium,850,1100,920,14 Dec 2014
+461,Kurnool,Alur,Onion,Beelary-Red,Medium,900,1000,950,23 Oct 2014
+462,Kurnool,Alur,Onion,Beelary-Red,Medium,900,1500,1200,21 Dec 2014
+463,Kurnool,Alur,Onion,Beelary-Red,Medium,1300,1500,1400,05 Apr 2015
+464,Kurnool,Alur,Onion,Beelary-Red,Medium,1480,1760,1640,13 Jan 2015
+465,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,13 May 2015
+466,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2200,2000,27 Apr 2015
+467,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2400,2200,24 Jul 2015
+468,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2300,2200,01 Jul 2015
+469,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2400,2300,07 Jul 2015
+470,Kurnool,Alur,Onion,Beelary-Red,Medium,2300,3000,2700,14 Aug 2015
+471,Kurnool,Alur,Onion,Beelary-Red,Medium,2600,2800,2700,14 Jun 2015
+472,Kurnool,Alur,Onion,Beelary-Red,Medium,2700,3100,2900,13 Aug 2015
+473,Kurnool,Alur,Onion,Beelary-Red,Medium,2800,3000,2900,12 Aug 2015
+474,Chittor,Chittor(Rythu Bazar),Onion,1st Sort,Large,1800,3000,2000,19 Aug 2015
+475,Chittor,Chittor(Rythu Bazar),Onion,1st Sort,Large,1800,5000,2000,26 Aug 2015
+476,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,22 Apr 2015
+477,Chittor,Chittor(Rythu Bazar),Onion,Other,Large,1800,3000,2000,14 Aug 2015
+478,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,13 Apr 2015
+479,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,26 Apr 2015
+480,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2000,2000,2000,05 Aug 2015
+481,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,07 Jul 2015
+482,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,22 Jun 2015
+483,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,4000,4000,4000,29 Jul 2015
+484,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,13 May 2015
+485,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2000,2000,2000,04 Aug 2015
+486,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,01 Jul 2015
+487,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,06 Jul 2015
+488,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,09 Jun 2015
+489,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,04 May 2015
+490,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,13 Jan 2015
+491,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,16 Dec 2014
+492,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,21 Sep 2014
+493,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,28 Jan 2015
+494,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,29 Nov 2014
+495,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,03 Apr 2015
+496,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,03 Sep 2014
+497,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,27 Apr 2015
+498,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,01 Sep 2014
+499,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,08 May 2015
+500,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,16 Jun 2015
+501,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,17 Aug 2015
+502,Kurnool,Kurnool,Onion,Local,Medium,630,1555,1200,17 Sep 2014
+503,Kurnool,Kurnool,Onion,Local,Medium,650,1485,1165,10 Oct 2014
+504,Kurnool,Kurnool,Onion,Local,Medium,690,2025,1450,15 Dec 2014
+505,Kurnool,Kurnool,Onion,Local,Medium,720,1245,1100,08 Jan 2015
+506,Kurnool,Alur,Onion,Beelary-Red,Medium,800,950,880,01 Dec 2014
+507,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1000,900,17 Oct 2014
+508,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1100,950,27 Oct 2014
+509,Kurnool,Alur,Onion,Beelary-Red,Medium,820,960,880,13 Nov 2014
+510,Kurnool,Alur,Onion,Beelary-Red,Medium,850,950,900,19 Oct 2014
+511,Kurnool,Alur,Onion,Beelary-Red,Medium,850,1050,950,31 Oct 2014
+512,Kurnool,Alur,Onion,Beelary-Red,Medium,950,1250,1050,22 Dec 2014
+513,Kurnool,Alur,Onion,Beelary-Red,Medium,1180,1360,1260,30 Dec 2014
+514,Kurnool,Alur,Onion,Beelary-Red,Medium,1500,1700,1600,10 Jan 2015
+515,Kurnool,Alur,Onion,Beelary-Red,Medium,1580,1780,1680,13 Apr 2015
+516,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,22 Apr 2015
+517,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2200,2000,18 Jul 2015
+518,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2200,2000,20 Jul 2015
+519,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2200,2000,27 May 2015
+520,Kurnool,Alur,Onion,Beelary-Red,Medium,2050,2280,2100,03 Feb 2015
+521,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2300,2200,18 Jun 2015
+522,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2500,2300,13 Jul 2015
+523,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2400,2300,01 May 2015
+524,Kurnool,Alur,Onion,Beelary-Red,Medium,2400,3200,2800,02 Aug 2015
+525,Kurnool,Alur,Onion,Beelary-Red,Medium,2600,3000,2800,05 Aug 2015
+526,Kurnool,Alur,Onion,Beelary-Red,Medium,2800,3200,3000,06 Aug 2015
+527,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,16 May 2015
+528,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,16 Apr 2015
+529,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Medium,Medium,20,20,20,06 Apr 2015
+530,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,02 May 2015
+531,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,18 Apr 2015
+532,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2000,2000,2000,06 Aug 2015
+533,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,05 Jul 2015
+534,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,07 Jun 2015
+535,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,13 Jun 2015
+536,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,14 Jul 2015
+537,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,07 Apr 2015
+538,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,10 May 2015
+539,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,22,22,22,26 May 2015
+540,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,24,24,24,30 May 2015
+541,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2000,2000,2000,05 Aug 2015
+542,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,09 Jul 2015
+543,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,11 Jun 2015
+544,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,18 Jun 2015
+545,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,4000,4000,4000,29 Jul 2015
+546,Kurnool,Koilkunta,Onion,Other,FAQ,600,800,700,02 May 2015
+547,West Godavari,Kovvur,Onion,New Pune,Medium,1800,2200,2000,27 May 2015
+548,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,06 Dec 2014
+549,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,17 Nov 2014
+550,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,01 Feb 2015
+551,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,21 Jan 2015
+552,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,27 Nov 2014
+553,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,03 Nov 2014
+554,Kurnool,Alur,Onion,Beelary-Red,Medium,625,833,750,21 Nov 2014
+555,Kurnool,Alur,Onion,Beelary-Red,Medium,900,1000,950,28 Nov 2014
+556,Kurnool,Alur,Onion,Beelary-Red,Medium,1100,1200,1150,18 Dec 2014
+557,Kurnool,Alur,Onion,Beelary-Red,Medium,1300,1550,1400,06 Apr 2015
+558,Kurnool,Alur,Onion,Beelary-Red,Medium,1440,1680,1560,10 Apr 2015
+559,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,08 Jun 2015
+560,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,15 May 2015
+561,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,21 Apr 2015
+562,Kurnool,Alur,Onion,Beelary-Red,Medium,1900,2100,2000,25 May 2015
+563,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2400,2200,21 Jul 2015
+564,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2400,2200,30 Jun 2015
+565,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2400,2300,14 Jul 2015
+566,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2600,2400,13 Jun 2015
+567,Kurnool,Alur,Onion,Beelary-Red,Medium,2600,3000,2800,26 Jul 2015
+568,Kurnool,Alur,Onion,Beelary-Red,Medium,2800,3200,3000,08 Aug 2015
+569,Chittor,Chittor(Rythu Bazar),Onion,1st Sort,Large,1800,3000,2000,20 Aug 2015
+570,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,1800,2200,2000,03 Jun 2015
+571,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2000,2400,2200,16 Jun 2015
+572,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,07 Jul 2015
+573,West Godavari,Eluru,Onion,Onion,Medium,2600,2600,2600,14 Jun 2015
+574,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,22,22,22,23 May 2015
+575,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2000,2000,2000,04 Aug 2015
+576,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,04 Jun 2015
+577,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,06 Jul 2015
+578,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,08 Jul 2015
+579,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,21 Jul 2015
+580,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,19 Apr 2015
+581,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,22 Apr 2015
+582,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,04 Jul 2015
+583,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,05 Jul 2015
+584,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,25 Jun 2015
+585,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,28 Jun 2015
+586,West Godavari,Kovvur,Onion,Onion,Medium,200,2400,2200,05 Jul 2015
+587,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,19 Apr 2015
+588,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,29 Jan 2015
+589,West Godavari,Kovvur,Onion,Onion,Medium,1300,1800,1700,23 Sep 2014
+590,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,15 Apr 2015
+591,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,22 Jan 2015
+592,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,30 Jan 2015
+593,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,22 Dec 2014
+594,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,22 Nov 2014
+595,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,24 May 2015
+596,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,30 Oct 2014
+597,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,18 Aug 2015
+598,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,20 Dec 2014
+599,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,31 Jul 2015
+600,West Godavari,Kovvur,Onion,Onion,Medium,2000,4000,2000,23 Aug 2015
+601,West Godavari,Kovvur,Onion,Onion,Medium,2800,3200,3000,28 Jul 2015
+602,Kurnool,Kurnool,Onion,Local,Medium,920,1310,1140,15 Apr 2015
+603,Kurnool,Kurnool,Onion,Local,Medium,930,1320,1160,06 Apr 2015
+604,Kurnool,Kurnool,Onion,Local,Medium,940,1370,1140,16 May 2015
+605,Kurnool,Kurnool,Onion,Local,Medium,1100,1555,1355,28 Feb 2015
+606,Kurnool,Kurnool,Onion,Local,Medium,1130,1560,1385,31 Jan 2015
+607,Kurnool,Kurnool,Onion,Local,Medium,1165,1770,1510,07 Jul 2015
+608,Kurnool,Kurnool,Onion,Local,Medium,1185,1680,1365,02 Jul 2015
+609,Kurnool,Kurnool,Onion,Local,Medium,1235,1630,1360,26 Jun 2015
+610,Kurnool,Kurnool,Onion,Local,Medium,1410,2650,2000,22 Jul 2015
+611,Kurnool,Kurnool,Onion,Local,Medium,2000,3260,2570,10 Aug 2015
+612,Kurnool,Kurnool,Onion,Local,Medium,2280,3190,2810,12 Aug 2015
+613,Nellore,Nellore,Onion,Local,Medium,1400,1600,1500,12 Nov 2014
+614,Nellore,Nellore,Onion,Local,Medium,1400,1600,1500,15 Nov 2014
+615,Nellore,Nellore,Onion,Local,Medium,1400,1700,1600,08 Nov 2014
+616,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,26 Sep 2014
+617,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,20 Feb 2015
+618,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,21 Mar 2015
+619,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,24 Mar 2015
+620,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,01 May 2015
+621,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,03 Jun 2015
+622,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2600,2400,05 May 2015
+623,Kurnool,Pattikonda,Onion,Local,Medium,900,1000,900,22 Oct 2014
+624,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,17 Dec 2014
+625,Kurnool,Pattikonda,Onion,Local,Medium,2300,2500,2400,04 Feb 2015
+626,Kurnool,Pattikonda,Onion,Local,Medium,4300,4500,4400,31 Aug 2015
+627,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,02 Dec 2014
+628,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,09 Oct 2014
+629,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,10 Oct 2014
+630,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,24 Nov 2014
+631,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,26 Nov 2014
+632,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,1000,22 Apr 2015
+633,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1000,07 Nov 2014
+634,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1000,13 Oct 2014
+635,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1100,19 Apr 2015
+636,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1700,1200,29 Oct 2014
+637,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1600,1100,24 Mar 2015
+638,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,05 May 2015
+639,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,07 May 2015
+640,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1100,08 May 2015
+641,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1200,11 Feb 2015
+642,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1200,15 Feb 2015
+643,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1200,16 Feb 2015
+644,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1500,1200,13 Dec 2014
+645,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1800,1500,29 Dec 2014
+646,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,18 Jun 2015
+647,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2000,1500,14 Mar 2015
+648,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2700,07 Aug 2015
+649,West Godavari,Tadepalligudem,Onion,Medium,FAQ,3000,4500,3800,22 Aug 2015
+650,West Godavari,Tadepalligudem,Onion,Medium,FAQ,3000,4700,3900,23 Aug 2015
+651,Kurnool,Alur,Onion,Beelary-Red,Medium,666,666,666,12 Sep 2014
+652,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1200,1000,03 Apr 2015
+653,Kurnool,Alur,Onion,Beelary-Red,Medium,820,950,880,10 Dec 2014
+654,Kurnool,Alur,Onion,Beelary-Red,Medium,830,1020,980,12 Nov 2014
+655,Kurnool,Alur,Onion,Beelary-Red,Medium,850,1050,950,04 Nov 2014
+656,Kurnool,Alur,Onion,Beelary-Red,Medium,900,1000,950,22 Oct 2014
+657,Kurnool,Alur,Onion,Beelary-Red,Medium,950,1100,1020,15 Dec 2014
+658,Kurnool,Alur,Onion,Beelary-Red,Medium,1300,1500,1400,16 Dec 2014
+659,Kurnool,Alur,Onion,Beelary-Red,Medium,1300,1550,1440,07 Apr 2015
+660,Kurnool,Alur,Onion,Beelary-Red,Medium,1300,1800,1500,20 Dec 2014
+661,Kurnool,Alur,Onion,Beelary-Red,Medium,1450,1760,1620,12 Jan 2015
+662,Kurnool,Alur,Onion,Beelary-Red,Medium,1550,1750,1650,12 Apr 2015
+663,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,18 May 2015
+664,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,19 May 2015
+665,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,11 May 2015
+666,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2200,2000,10 Jun 2015
+667,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2200,2100,02 Jun 2015
+668,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2200,2100,24 May 2015
+669,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2300,2150,05 Jul 2015
+670,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2300,2200,17 Jul 2015
+671,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2500,2300,21 Jun 2015
+672,Kurnool,Alur,Onion,Beelary-Red,Medium,2150,2550,2350,22 Jun 2015
+673,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2400,2300,02 May 2015
+674,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2400,2300,11 Jul 2015
+675,Kurnool,Alur,Onion,Beelary-Red,Medium,2300,2500,2400,06 May 2015
+676,Kurnool,Alur,Onion,Beelary-Red,Medium,3500,4500,4000,24 Aug 2015
+677,Chittor,Chittor(Rythu Bazar),Onion,1st Sort,Large,1800,3000,2000,22 Aug 2015
+678,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,08 Apr 2015
+679,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,19 May 2015
+680,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,23 Apr 2015
+681,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,1800,2200,2000,05 Jun 2015
+682,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,1800,2200,2000,06 Jun 2015
+683,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,18 Jun 2015
+684,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,19 Jun 2015
+685,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,01 May 2015
+686,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,05 Apr 2015
+687,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,08 Apr 2015
+688,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,17 Jul 2015
+689,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,17 Jun 2015
+690,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,17 Apr 2015
+691,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,20 Apr 2015
+692,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,22,22,22,18 May 2015
+693,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2000,2000,2000,07 Aug 2015
+694,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,14 Jul 2015
+695,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,21 Jun 2015
+696,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,06 Oct 2014
+697,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,06 Sep 2014
+698,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,07 Sep 2014
+699,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,08 Jan 2015
+700,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1000,900,21 Oct 2014
+701,Kurnool,Alur,Onion,Beelary-Red,Medium,1850,2050,1950,06 Jun 2015
+702,Kurnool,Alur,Onion,Beelary-Red,Medium,1900,2100,2000,26 May 2015
+703,Kurnool,Alur,Onion,Beelary-Red,Medium,1950,2050,2000,10 May 2015
+704,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2350,2250,05 Feb 2015
+705,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2400,2300,30 Apr 2015
+706,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2600,2400,24 Jun 2015
+707,Kurnool,Alur,Onion,Beelary-Red,Medium,3500,4800,4100,22 Aug 2015
+708,Chittor,Chittor(Rythu Bazar),Onion,2nd Sort,Large,1800,2200,2000,18 Aug 2015
+709,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,10 Apr 2015
+710,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,21 Apr 2015
+711,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2000,2400,2200,11 Jun 2015
+712,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2000,3000,2600,12 Aug 2015
+713,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,09 Jul 2015
+714,West Godavari,Eluru,Onion,Onion,Medium,20,20,20,08 Apr 2015
+715,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,30 Apr 2015
+716,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,22,22,22,17 May 2015
+717,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,13 Jul 2015
+718,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,25 Jun 2015
+719,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,16 Apr 2015
+720,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,18 Apr 2015
+721,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,22,22,22,23 May 2015
+722,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,22,22,22,27 May 2015
+723,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,24,24,24,31 May 2015
+724,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,13 Jun 2015
+725,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,21 Jul 2015
+726,West Godavari,Kovvur,Onion,Onion,FAQ,1100,1500,1300,09 Sep 2014
+727,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,12 Jan 2015
+728,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,28 Nov 2014
+729,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,04 Dec 2014
+730,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,16 Apr 2015
+731,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,19 Jan 2015
+732,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,07 Feb 2015
+733,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,14 Oct 2014
+734,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,17 Feb 2015
+735,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,15 Jul 2015
+736,West Godavari,Kovvur,Onion,Onion,Medium,2000,4000,2000,29 Aug 2015
+737,Kurnool,Kurnool,Onion,Local,Medium,600,1240,880,04 Oct 2014
+738,Kurnool,Kurnool,Onion,Local,Medium,610,1330,1080,14 Oct 2014
+739,Kurnool,Kurnool,Onion,Local,Medium,620,1500,1170,09 Oct 2014
+740,Kurnool,Kurnool,Onion,Local,Medium,650,1505,1160,08 Oct 2014
+741,Kurnool,Kurnool,Onion,Local,Medium,660,1430,1100,01 Nov 2014
+742,Kurnool,Kurnool,Onion,Local,Medium,700,1250,1000,17 Jan 2015
+743,Kurnool,Kurnool,Onion,Local,Medium,700,1945,1335,19 Dec 2014
+744,Kurnool,Kurnool,Onion,Local,Medium,740,1495,1085,28 May 2015
+745,Kurnool,Kurnool,Onion,Local,Medium,745,1240,1050,21 Apr 2015
+746,Kurnool,Kurnool,Onion,Local,Medium,750,1605,1555,10 Jan 2015
+747,Kurnool,Kurnool,Onion,Local,Medium,750,1970,1345,17 Dec 2014
+748,Kurnool,Kurnool,Onion,Local,Medium,770,1200,960,30 Mar 2015
+749,Kurnool,Alur,Onion,Beelary-Red,Medium,755,980,830,11 Nov 2014
+750,Kurnool,Alur,Onion,Beelary-Red,Medium,780,980,880,02 Dec 2014
+751,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1050,950,05 Nov 2014
+752,Kurnool,Alur,Onion,Beelary-Red,Medium,1050,1250,1150,28 Dec 2014
+753,Kurnool,Alur,Onion,Beelary-Red,Medium,1320,1560,1430,05 Jan 2015
+754,Kurnool,Alur,Onion,Beelary-Red,Medium,1750,1850,1800,18 Apr 2015
+755,Kurnool,Alur,Onion,Beelary-Red,Medium,1900,2100,2000,21 May 2015
+756,Kurnool,Alur,Onion,Beelary-Red,Medium,1950,2050,2000,09 May 2015
+757,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2200,2100,22 May 2015
+758,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2400,2300,12 Jul 2015
+759,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2500,2300,05 May 2015
+760,Kurnool,Alur,Onion,Beelary-Red,Medium,2900,3500,3200,19 Aug 2015
+761,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,02 May 2015
+762,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,15 Apr 2015
+763,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,14 Jul 2015
+764,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,18 Jun 2015
+765,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,24,24,24,29 May 2015
+766,West Godavari,Kovvur,Onion,Onion,FAQ,1800,2200,2000,25 Dec 2014
+767,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,15 Nov 2014
+768,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,22 Sep 2014
+769,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,01 Aug 2015
+770,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,26 May 2015
+771,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,16 Jul 2015
+772,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,21 Jul 2015
+773,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,25 Jul 2015
+774,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,07 Jul 2015
+775,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,12 Jul 2015
+776,Kurnool,Kurnool,Onion,Local,Medium,620,1555,965,25 Sep 2014
+777,Kurnool,Kurnool,Onion,Local,Medium,640,1400,1175,09 Sep 2014
+778,Kurnool,Kurnool,Onion,Local,Medium,670,1495,1000,13 Jan 2015
+779,Kurnool,Kurnool,Onion,Local,Medium,700,1370,880,01 May 2015
+780,Kurnool,Kurnool,Onion,Local,Medium,705,1530,1295,06 Jan 2015
+781,Kurnool,Kurnool,Onion,Local,Medium,730,1605,1360,30 Oct 2014
+782,Kurnool,Kurnool,Onion,Local,Medium,745,1530,1050,29 May 2015
+783,Kurnool,Kurnool,Onion,Local,Medium,750,1630,1070,30 May 2015
+784,Kurnool,Kurnool,Onion,Local,Medium,760,1440,1140,23 May 2015
+785,Kurnool,Kurnool,Onion,Local,Medium,770,1560,1390,19 Jan 2015
+786,Kurnool,Kurnool,Onion,Local,Medium,785,1750,1295,26 Dec 2014
+787,Kurnool,Kurnool,Onion,Local,Medium,1090,1505,1205,10 Mar 2015
+788,Kurnool,Kurnool,Onion,Local,Medium,1150,1495,1280,14 Mar 2015
+789,Kurnool,Kurnool,Onion,Local,Medium,1430,1705,1520,10 Feb 2015
+790,Kurnool,Kurnool,Onion,Local,Medium,1455,2220,1760,20 Jul 2015
+791,Kurnool,Kurnool,Onion,Local,Medium,1900,3650,2800,28 Jul 2015
+792,Kurnool,Kurnool,Onion,Local,Medium,2410,4250,3240,19 Aug 2015
+793,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,09 Sep 2014
+794,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,12 Sep 2014
+795,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,16 Sep 2014
+796,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,10 Mar 2015
+797,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,23 Mar 2015
+798,Vijayanagaram,Parvathipuram,Onion,Onion,Medium,1800,2000,1900,02 Feb 2015
+799,Kurnool,Kurnool,Onion,Local,Medium,725,1530,1100,27 May 2015
+800,Kurnool,Kurnool,Onion,Local,Medium,730,1300,1175,13 May 2015
+801,Kurnool,Kurnool,Onion,Local,Medium,765,1265,1020,23 Apr 2015
+802,Kurnool,Kurnool,Onion,Local,Medium,1030,1650,1455,10 Jun 2015
+803,Kurnool,Kurnool,Onion,Local,Medium,1100,1665,1400,07 Feb 2015
+804,Kurnool,Kurnool,Onion,Local,Medium,1145,1920,1675,11 Jun 2015
+805,Kurnool,Kurnool,Onion,Local,Medium,1190,1515,1370,07 Mar 2015
+806,Kurnool,Kurnool,Onion,Local,Medium,1200,1555,1360,13 Jun 2015
+807,Kurnool,Kurnool,Onion,Local,Medium,1305,1705,1590,03 Feb 2015
+808,Kurnool,Kurnool,Onion,Local,Medium,1430,2090,1675,17 Jul 2015
+809,Kurnool,Kurnool,Onion,Local,Medium,1930,3195,2700,01 Aug 2015
+810,Nellore,Nellore,Onion,Local,Medium,2000,2400,2200,04 Oct 2014
+811,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,03 Mar 2015
+812,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,04 Mar 2015
+813,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,19 Feb 2015
+814,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,28 Feb 2015
+815,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,13 Mar 2015
+816,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,26 May 2015
+817,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,08 Dec 2014
+818,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,16 Dec 2014
+819,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,19 Dec 2014
+820,Kurnool,Pattikonda,Onion,Local,Medium,2400,2600,2500,06 Jan 2015
+821,Kurnool,Pattikonda,Onion,Local,Medium,4400,4500,4400,27 Aug 2015
+822,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,01 Oct 2014
+823,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,05 Oct 2014
+824,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,900,17 Oct 2014
+825,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1100,20 Apr 2015
+826,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1600,1200,03 Nov 2014
+827,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1600,1200,27 Oct 2014
+828,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1350,1000,30 Apr 2015
+829,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,16 May 2015
+830,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1500,1100,09 Apr 2015
+831,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,10 May 2015
+832,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1200,09 Feb 2015
+833,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1100,28 Jun 2015
+834,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1200,14 Jun 2015
+835,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1700,1400,20 Mar 2015
+836,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,27 Feb 2015
+837,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1900,1500,27 Dec 2014
+838,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1700,1300,01 Jun 2015
+839,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1400,06 Jul 2015
+840,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,19 Jun 2015
+841,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2000,1500,22 Jun 2015
+842,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,2200,1600,24 Jul 2015
+843,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2800,08 Aug 2015
+844,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2800,12 Aug 2015
+845,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,4000,3200,25 Aug 2015
+846,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,4000,3200,29 Aug 2015
+847,Kurnool,Alur,Onion,Beelary-Red,Medium,700,950,800,01 Nov 2014
+848,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1050,980,04 Dec 2014
+849,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1100,1000,28 Oct 2014
+850,Kurnool,Alur,Onion,Beelary-Red,Medium,830,980,890,10 Nov 2014
+851,Kurnool,Alur,Onion,Beelary-Red,Medium,1120,1580,1310,04 Jan 2015
+852,Kurnool,Alur,Onion,Beelary-Red,Medium,1480,1800,1640,11 Jan 2015
+853,Kurnool,Alur,Onion,Beelary-Red,Medium,1500,1800,1650,09 Apr 2015
+854,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,20 May 2015
+855,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2200,2000,19 Jul 2015
+856,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2200,2100,22 Jul 2015
+857,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2400,2200,04 Jul 2015
+858,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2400,2200,19 Jun 2015
+859,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2300,2200,02 Jul 2015
+860,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2400,2300,26 Jun 2015
+861,Kurnool,Alur,Onion,Beelary-Red,Medium,2500,3000,2700,28 Jul 2015
+862,Kurnool,Alur,Onion,Beelary-Red,Medium,2600,3000,2800,11 Aug 2015
+863,Kurnool,Alur,Onion,Beelary-Red,Medium,2800,3200,3000,09 Aug 2015
+864,Kurnool,Alur,Onion,Beelary-Red,Medium,2800,3200,3000,20 Aug 2015
+865,Kurnool,Alur,Onion,Beelary-Red,Medium,3000,3600,3300,21 Aug 2015
+866,Kurnool,Alur,Onion,Beelary-Red,Medium,3000,4000,3500,29 Aug 2015
+867,Kurnool,Alur,Onion,Beelary-Red,Medium,3500,4500,4000,26 Aug 2015
+868,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,24 Apr 2015
+869,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,29 May 2015
+870,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,04 Apr 2015
+871,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,12 Apr 2015
+872,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,22,22,22,18 May 2015
+873,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,04 Jul 2015
+874,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,19 Jun 2015
+875,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,28 Jun 2015
+876,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,02 Apr 2015
+877,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,09 Apr 2015
+878,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,22,22,22,28 May 2015
+879,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,03 Jun 2015
+880,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,06 Jun 2015
+881,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,16 Jun 2015
+882,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,16 Nov 2014
+883,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,18 Apr 2015
+884,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,23 Oct 2014
+885,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,03 Dec 2014
+886,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,04 Feb 2015
+887,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,12 Dec 2014
+888,West Godavari,Kovvur,Onion,Onion,Medium,1500,1900,1700,15 Jan 2015
+889,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,02 Nov 2014
+890,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,06 Jan 2015
+891,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,14 Feb 2015
+892,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,21 May 2015
+893,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,23 May 2015
+894,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,05 Jun 2015
+895,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,06 Jun 2015
+896,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,20 Feb 2015
+897,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,07 Jun 2015
+898,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,16 Aug 2015
+899,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,19 Dec 2014
+900,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,26 Dec 2014
+901,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,31 Aug 2014
+902,West Godavari,Kovvur,Onion,Onion,Medium,1800,4000,2000,30 Aug 2015
+903,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,18 Jun 2015
+904,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,30 Jun 2015
+905,West Godavari,Kovvur,Onion,Onion,Medium,2600,3000,2800,27 Jul 2015
+906,Kurnool,Kurnool,Onion,Local,Medium,580,1380,1145,09 Dec 2014
+907,Kurnool,Kurnool,Onion,Local,Medium,615,1440,1150,31 Oct 2014
+908,Kurnool,Kurnool,Onion,Local,Medium,660,1370,1045,16 Sep 2014
+909,Kurnool,Kurnool,Onion,Local,Medium,680,1330,1095,15 Sep 2014
+910,Kurnool,Kurnool,Onion,Local,Medium,730,1490,1220,23 Jan 2015
+911,Kurnool,Kurnool,Onion,Local,Medium,775,1325,1030,22 May 2015
+912,Kurnool,Kurnool,Onion,Local,Medium,780,1600,1305,05 Jan 2015
+913,Kurnool,Kurnool,Onion,Local,Medium,810,1800,1555,28 Oct 2014
+914,Kurnool,Kurnool,Onion,Local,Medium,1105,1455,1300,12 Mar 2015
+915,Kurnool,Kurnool,Onion,Local,Medium,1140,1595,1355,27 Jun 2015
+916,Kurnool,Kurnool,Onion,Local,Medium,1390,1520,1400,03 Mar 2015
+917,Kurnool,Kurnool,Onion,Local,Medium,1630,2600,2125,25 Jul 2015
+918,Kurnool,Kurnool,Onion,Local,Medium,2230,4400,3520,28 Aug 2015
+919,Nellore,Nellore,Onion,Local,Medium,2100,2400,2200,02 Oct 2014
+920,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,13 Sep 2014
+921,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,20 Sep 2014
+922,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,26 Feb 2015
+923,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,17 Mar 2015
+924,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,18 Mar 2015
+925,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,13 Apr 2015
+926,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,12 Dec 2014
+927,Kurnool,Pattikonda,Onion,Local,Medium,1600,1800,1700,23 Jan 2015
+928,Kurnool,Pattikonda,Onion,Local,Medium,2300,2500,2400,06 Feb 2015
+929,Kurnool,Pattikonda,Onion,Local,Medium,2300,2500,2400,30 Jan 2015
+930,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,03 Dec 2014
+931,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1250,900,27 Nov 2014
+932,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1500,1000,05 Apr 2015
+933,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1700,1200,30 Oct 2014
+934,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1350,1000,28 Apr 2015
+935,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1600,1100,23 Mar 2015
+936,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1600,1100,25 Mar 2015
+937,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,12 Dec 2014
+938,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1500,1200,17 Dec 2014
+939,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1300,19 Feb 2015
+940,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,02 Mar 2015
+941,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,28 Feb 2015
+942,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1400,24 Jan 2015
+943,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1500,1200,16 Dec 2014
+944,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1300,2500,1900,26 Jul 2015
+945,Kurnool,Kurnool,Onion,Local,Medium,765,1220,1035,02 May 2015
+946,Kurnool,Kurnool,Onion,Local,Medium,900,1345,1140,09 May 2015
+947,Kurnool,Kurnool,Onion,Local,Medium,965,1395,1230,07 Apr 2015
+948,Kurnool,Kurnool,Onion,Local,Medium,1025,1410,1250,18 Mar 2015
+949,Kurnool,Kurnool,Onion,Local,Medium,1050,1400,1290,19 Mar 2015
+950,Kurnool,Kurnool,Onion,Local,Medium,1120,1900,1545,12 Jun 2015
+951,Kurnool,Kurnool,Onion,Local,Medium,1280,1850,1650,05 Feb 2015
+952,Kurnool,Kurnool,Onion,Local,Medium,1310,1970,1675,13 Jul 2015
+953,Kurnool,Kurnool,Onion,Local,Medium,1405,1830,1685,21 Feb 2015
+954,Kurnool,Kurnool,Onion,Local,Medium,2050,3370,2850,31 Jul 2015
+955,Kurnool,Kurnool,Onion,Local,Medium,2320,4000,3100,18 Aug 2015
+956,Nellore,Nellore,Onion,Local,Medium,2100,2400,2200,03 Oct 2014
+957,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,23 Sep 2014
+958,Prakasam,Ongole(Rythu Bazar),Onion,1st Sort,Medium,2200,2400,2300,30 Apr 2015
+959,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,15 Mar 2015
+960,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,06 Apr 2015
+961,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,11 Apr 2015
+962,Prakasam,Ongole(Rythu Bazar),Onion,Other,Medium,2200,2400,2300,14 Apr 2015
+963,Kurnool,Pattikonda,Onion,Local,Medium,4500,4500,4500,28 Aug 2015
+964,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,11 Oct 2014
+965,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,01 Feb 2015
+966,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,02 Feb 2015
+967,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,09 Dec 2014
+968,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1500,1200,27 Jan 2015
+969,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,20 May 2015
+970,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,03 Mar 2015
+971,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,04 Mar 2015
+972,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,21 Jun 2015
+973,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,2200,1600,20 Jul 2015
+974,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1200,2000,1800,18 Dec 2014
+975,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2600,3300,2900,19 Aug 2015
+976,West Godavari,Tadepalligudem,Onion,Medium,FAQ,3000,4700,3900,24 Aug 2015
+977,Chittor,Tirupati,Onion,Onion,Small,31,35,33,20 Aug 2015
+978,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,11 Apr 2015
+979,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,18 Jan 2015
+980,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,14 Jan 2015
+981,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,17 May 2015
+982,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,18 Feb 2015
+983,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,22 Apr 2015
+984,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,23 Feb 2015
+985,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,31 Oct 2014
+986,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,02 Jun 2015
+987,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,11 Aug 2015
+988,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,09 Jul 2015
+989,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,24 Jun 2015
+990,West Godavari,Kovvur,Onion,Onion,Medium,2000,4000,2000,24 Aug 2015
+991,Kurnool,Kurnool,Onion,Local,Medium,550,1500,1125,05 Dec 2014
+992,Kurnool,Kurnool,Onion,Local,Medium,590,1360,940,07 Oct 2014
+993,Kurnool,Kurnool,Onion,Local,Medium,600,1570,1165,12 Dec 2014
+994,Kurnool,Kurnool,Onion,Local,Medium,615,1370,1125,24 Oct 2014
+995,Kurnool,Kurnool,Onion,Local,Medium,665,1460,1115,07 May 2015
+996,Kurnool,Kurnool,Onion,Local,Medium,720,1395,1150,06 Sep 2014
+997,Kurnool,Kurnool,Onion,Local,Medium,730,1275,1030,25 Mar 2015
+998,Kurnool,Kurnool,Onion,Local,Medium,730,1330,1050,20 May 2015
+999,Kurnool,Kurnool,Onion,Local,Medium,750,1280,1050,20 Apr 2015
+1000,Kurnool,Kurnool,Onion,Local,Medium,765,1560,1170,01 Jun 2015
+1001,Kurnool,Kurnool,Onion,Local,Medium,960,1495,1135,11 May 2015
+1002,Kurnool,Kurnool,Onion,Local,Medium,1130,1855,1495,04 Jun 2015
+1003,Kurnool,Kurnool,Onion,Local,Medium,1135,1845,1395,04 Jul 2015
+1004,Kurnool,Kurnool,Onion,Local,Medium,1310,2045,1750,14 Jul 2015
+1005,Kurnool,Kurnool,Onion,Local,Medium,1325,1640,1595,11 Feb 2015
+1006,Kurnool,Kurnool,Onion,Local,Medium,1445,1875,1655,11 Jul 2015
+1007,Kurnool,Kurnool,Onion,Local,Medium,2100,3440,2850,05 Aug 2015
+1008,Kurnool,Kurnool,Onion,Local,Medium,2490,4450,3610,26 Aug 2015
+1009,Nellore,Nellore,Onion,Local,Medium,2000,2400,2200,05 Oct 2014
+1010,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,21 Sep 2014
+1011,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,27 Feb 2015
+1012,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,03 Apr 2015
+1013,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,08 Apr 2015
+1014,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,20 Dec 2014
+1015,Kurnool,Pattikonda,Onion,Local,Medium,2300,2500,2400,05 Feb 2015
+1016,Kurnool,Pattikonda,Onion,Local,Medium,4400,4500,4400,26 Aug 2015
+1017,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,11 Nov 2014
+1018,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1100,800,15 Nov 2014
+1019,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1100,800,16 Nov 2014
+1020,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1700,1400,21 Mar 2015
+1021,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1300,22 Feb 2015
+1022,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1300,24 Feb 2015
+1023,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,14 Jul 2015
+1024,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,26 Feb 2015
+1025,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1500,1200,15 Dec 2014
+1026,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1800,1400,12 Jun 2015
+1027,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1400,07 Jul 2015
+1028,Kurnool,Kurnool,Onion,Local,Medium,485,1295,1075,09 Jan 2015
+1029,Kurnool,Kurnool,Onion,Local,Medium,550,1200,1000,13 Sep 2014
+1030,Kurnool,Kurnool,Onion,Local,Medium,565,1180,940,26 Mar 2015
+1031,Kurnool,Kurnool,Onion,Local,Medium,610,1490,1200,05 Sep 2014
+1032,Kurnool,Kurnool,Onion,Local,Medium,725,1295,950,29 Apr 2015
+1033,Kurnool,Kurnool,Onion,Local,Medium,775,1405,1115,06 May 2015
+1034,Kurnool,Kurnool,Onion,Local,Medium,800,1505,1340,21 Jan 2015
+1035,Kurnool,Kurnool,Onion,Local,Medium,800,1560,1250,27 Jan 2015
+1036,Kurnool,Kurnool,Onion,Local,Medium,940,1550,1335,29 Oct 2014
+1037,Kurnool,Kurnool,Onion,Local,Medium,950,1345,1160,16 Apr 2015
+1038,Kurnool,Kurnool,Onion,Local,Medium,1070,1770,1510,09 Jun 2015
+1039,Kurnool,Kurnool,Onion,Local,Medium,1180,1630,1310,25 Jun 2015
+1040,Kurnool,Kurnool,Onion,Local,Medium,1350,1755,1675,09 Jul 2015
+1041,Kurnool,Kurnool,Onion,Local,Medium,1410,1700,1585,20 Feb 2015
+1042,Kurnool,Kurnool,Onion,Local,Medium,2000,3450,2900,03 Aug 2015
+1043,Kurnool,Kurnool,Onion,Local,Medium,2040,3290,2680,06 Aug 2015
+1044,Kurnool,Kurnool,Onion,Local,Medium,2100,5210,4100,24 Aug 2015
+1045,Kurnool,Kurnool,Onion,Local,Medium,2130,4960,4400,21 Aug 2015
+1046,Kurnool,Kurnool,Onion,Local,Medium,2470,4450,3710,29 Aug 2015
+1047,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,06 Sep 2014
+1048,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,19 Sep 2014
+1049,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,02 Apr 2015
+1050,Prakasam,Ongole(Rythu Bazar),Onion,Other,Medium,2200,2400,2300,11 May 2015
+1051,Kurnool,Pattikonda,Onion,Local,Medium,1000,1200,1100,01 Jan 2015
+1052,Kurnool,Pattikonda,Onion,Local,Medium,2300,2500,2400,27 Jan 2015
+1053,Kurnool,Pattikonda,Onion,Local,Medium,2400,2600,2500,07 Jan 2015
+1054,Kurnool,Pattikonda,Onion,Local,Medium,3400,3500,3400,18 Aug 2015
+1055,Kurnool,Pattikonda,Onion,Local,Medium,3400,3500,3400,20 Aug 2015
+1056,Kurnool,Pattikonda,Onion,Local,Medium,3400,3500,3500,17 Aug 2015
+1057,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,06 Oct 2014
+1058,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,22 Nov 2014
+1059,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,900,16 Oct 2014
+1060,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,900,19 Oct 2014
+1061,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,1000,24 Apr 2015
+1062,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1100,21 Apr 2015
+1063,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1000,11 Apr 2015
+1064,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1500,1000,28 Mar 2015
+1065,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1600,1100,26 Mar 2015
+1066,West Godavari,Tadepalligudem,Onion,Medium,FAQ,750,1400,1100,12 May 2015
+1067,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1100,17 May 2015
+1068,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1100,02 Jul 2015
+1069,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1200,04 Jul 2015
+1070,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1200,05 Jul 2015
+1071,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1300,21 Feb 2015
+1072,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1700,1300,02 Jun 2015
+1073,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1800,1500,08 Jan 2015
+1074,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2000,1500,12 Mar 2015
+1075,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,2000,1500,11 Jul 2015
+1076,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,2200,1600,22 Jul 2015
+1077,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1000,900,24 Oct 2014
+1078,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1020,900,20 Oct 2014
+1079,Kurnool,Alur,Onion,Beelary-Red,Medium,830,830,830,08 Sep 2014
+1080,Kurnool,Alur,Onion,Beelary-Red,Medium,900,1050,970,29 Oct 2014
+1081,Kurnool,Alur,Onion,Beelary-Red,Medium,980,1020,1000,27 Nov 2014
+1082,Kurnool,Alur,Onion,Beelary-Red,Medium,1050,1300,1150,23 Dec 2014
+1083,Kurnool,Alur,Onion,Beelary-Red,Medium,1250,1650,1450,07 Jan 2015
+1084,Kurnool,Alur,Onion,Beelary-Red,Medium,1700,2100,1900,09 Jun 2015
+1085,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,05 Jun 2015
+1086,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,14 May 2015
+1087,Kurnool,Alur,Onion,Beelary-Red,Medium,1900,2100,2000,03 Jun 2015
+1088,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2500,2300,12 Jun 2015
+1089,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2500,2300,29 Jun 2015
+1090,Kurnool,Alur,Onion,Beelary-Red,Medium,2130,2380,2250,13 Feb 2015
+1091,Kurnool,Alur,Onion,Beelary-Red,Medium,2150,2320,2220,04 Feb 2015
+1092,Kurnool,Alur,Onion,Beelary-Red,Medium,2500,3100,2800,27 Jul 2015
+1093,Kurnool,Alur,Onion,Beelary-Red,Medium,3800,4000,3900,30 Aug 2015
+1094,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,02 Apr 2015
+1095,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,20,20,20,24 Apr 2015
+1096,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,22,22,22,20 May 2015
+1097,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,10 Jul 2015
+1098,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,11 Jun 2015
+1099,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,07 May 2015
+1100,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,27 Apr 2015
+1101,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2000,2000,2000,06 Aug 2015
+1102,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,07 Jun 2015
+1103,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,08 Jun 2015
+1104,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,19 Jul 2015
+1105,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,22 Jun 2015
+1106,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,27 Jun 2015
+1107,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,3400,3400,3400,24 Jul 2015
+1108,West Godavari,Kovvur,Onion,Onion,Medium,1200,1600,1400,26 Oct 2014
+1109,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,07 Oct 2014
+1110,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,09 Apr 2015
+1111,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,09 Oct 2014
+1112,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,10 Nov 2014
+1113,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,13 Nov 2014
+1114,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,18 Oct 2014
+1115,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,27 Oct 2014
+1116,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,01 Dec 2014
+1117,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,04 Apr 2015
+1118,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,31 Jan 2015
+1119,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,07 May 2015
+1120,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,08 Feb 2015
+1121,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,12 Feb 2015
+1122,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,16 May 2015
+1123,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,02 Aug 2015
+1124,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,03 Jul 2015
+1125,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,07 Aug 2015
+1126,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,08 Jul 2015
+1127,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,09 Jun 2015
+1128,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,15 Aug 2015
+1129,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,17 Jul 2015
+1130,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,14 Jun 2015
+1131,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,20 Jun 2015
+1132,West Godavari,Kovvur,Onion,Onion,Medium,2000,4000,2000,21 Aug 2015
+1133,Kurnool,Kurnool,Onion,Local,Medium,470,1200,795,23 Sep 2014
+1134,Kurnool,Kurnool,Onion,Local,Medium,695,1585,1205,08 May 2015
+1135,Kurnool,Kurnool,Onion,Local,Medium,840,1570,1450,24 Feb 2015
+1136,Kurnool,Kurnool,Onion,Local,Medium,965,1260,1070,04 Apr 2015
+1137,Kurnool,Kurnool,Onion,Local,Medium,1130,1500,1300,17 Mar 2015
+1138,Kurnool,Kurnool,Onion,Local,Medium,1180,1745,1345,20 Jun 2015
+1139,Kurnool,Kurnool,Onion,Local,Medium,1280,1700,1550,12 Feb 2015
+1140,Kurnool,Kurnool,Onion,Local,Medium,1900,3020,2550,27 Jul 2015
+1141,Kurnool,Kurnool,Onion,Local,Medium,2060,3250,2580,11 Aug 2015
+1142,Kurnool,Kurnool,Onion,Local,Medium,2100,3270,2800,13 Aug 2015
+1143,Kurnool,Kurnool,Onion,Local,Medium,2335,3400,2855,30 Jul 2015
+1144,Kurnool,Kurnool,Onion,Local,Medium,2490,4390,3560,20 Aug 2015
+1145,Nellore,Nellore,Onion,Local,Medium,1400,1600,1500,11 Nov 2014
+1146,Nellore,Nellore,Onion,Local,Medium,1400,1600,1500,16 Nov 2014
+1147,Nellore,Nellore,Onion,Local,Medium,2000,2400,2200,07 Oct 2014
+1148,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,17 Sep 2014
+1149,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,24 Sep 2014
+1150,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,01 Mar 2015
+1151,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,02 Mar 2015
+1152,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2000,2400,2200,05 Mar 2015
+1153,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,27 Mar 2015
+1154,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2400,2600,2500,06 Jun 2015
+1155,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,29 Apr 2015
+1156,Kurnool,Pattikonda,Onion,Local,Medium,1600,1800,1700,22 Jan 2015
+1157,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,01 Dec 2014
+1158,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,04 Dec 2014
+1159,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,23 Nov 2014
+1160,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1100,800,17 Nov 2014
+1161,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,900,20 Oct 2014
+1162,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,900,22 Oct 2014
+1163,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1100,05 Dec 2014
+1164,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1100,06 Dec 2014
+1165,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1300,1000,27 Apr 2015
+1166,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1350,1000,02 May 2015
+1167,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,04 Feb 2015
+1168,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,03 May 2015
+1169,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1100,03 Jul 2015
+1170,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1400,12 Jan 2015
+1171,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1800,1500,09 Jan 2015
+1172,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1800,1500,28 Dec 2014
+1173,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3800,3000,30 Aug 2015
+1174,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2800,09 Aug 2015
+1175,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2800,3400,3000,21 Aug 2015
+1176,Chittor,Tirupati,Onion,Local,Small,30,35,33,21 Aug 2015
+1177,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,08 Mar 2015
+1178,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2000,1600,22 Jan 2015
+1179,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2100,1600,17 Jul 2015
+1180,Chittor,Tirupati,Onion,Local,Small,30,35,33,18 Aug 2015
+1181,Chittor,Tirupati,Onion,Local,Small,32,36,34,24 Aug 2015
+1182,Kurnool,Pattikonda,Onion,Local,Medium,4300,4500,4400,25 Aug 2015
+1183,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1100,800,20 Nov 2014
+1184,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,12 Nov 2014
+1185,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,1000,26 Apr 2015
+1186,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1100,18 Apr 2015
+1187,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1500,1000,02 Apr 2015
+1188,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1600,1200,02 Nov 2014
+1189,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1350,1000,29 Apr 2015
+1190,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1500,1100,06 Apr 2015
+1191,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1500,1100,08 Apr 2015
+1192,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,04 May 2015
+1193,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,21 May 2015
+1194,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,22 May 2015
+1195,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1100,05 Nov 2014
+1196,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1200,10 Feb 2015
+1197,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1300,18 Feb 2015
+1198,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,01 Mar 2015
+1199,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,10 Mar 2015
+1200,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1600,06 Jan 2015
+1201,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2700,06 Aug 2015
+1202,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2600,3100,2800,01 Aug 2015
+1203,Kurnool,Kurnool,Onion,Local,Medium,860,1355,1150,12 May 2015
+1204,Kurnool,Kurnool,Onion,Local,Medium,1000,1650,1270,04 Sep 2014
+1205,Kurnool,Kurnool,Onion,Local,Medium,1245,2075,1575,08 Jul 2015
+1206,Kurnool,Kurnool,Onion,Local,Medium,1275,1585,1380,24 Jun 2015
+1207,Kurnool,Kurnool,Onion,Local,Medium,1395,1740,1560,16 Feb 2015
+1208,Kurnool,Kurnool,Onion,Local,Medium,1545,1790,1595,02 Feb 2015
+1209,Kurnool,Kurnool,Onion,Local,Medium,1920,3000,2500,07 Aug 2015
+1210,Kurnool,Kurnool,Onion,Local,Medium,2450,5800,4750,22 Aug 2015
+1211,Nellore,Nellore,Onion,Local,Medium,1400,1600,1500,13 Nov 2014
+1212,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,10 Sep 2014
+1213,Prakasam,Ongole(Rythu Bazar),Onion,1st Sort,Medium,2200,2400,2300,25 May 2015
+1214,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,20 Mar 2015
+1215,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,10 Apr 2015
+1216,Kurnool,Pattikonda,Onion,Local,Medium,800,1000,900,10 Oct 2014
+1217,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,05 Dec 2014
+1218,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,09 Dec 2014
+1219,Kurnool,Pattikonda,Onion,Local,Medium,1900,2000,1900,16 Jun 2015
+1220,Kurnool,Pattikonda,Onion,Local,Medium,3300,3500,3400,14 Aug 2015
+1221,Kurnool,Pattikonda,Onion,Local,Medium,3300,3500,3400,19 Aug 2015
+1222,Kurnool,Pattikonda,Onion,Local,Medium,4300,4500,4400,22 Aug 2015
+1223,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,04 Oct 2014
+1224,West Godavari,Tadepalligudem,Onion,Medium,FAQ,500,1200,900,10 Nov 2014
+1225,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1000,08 Nov 2014
+1226,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1100,07 Dec 2014
+1227,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1450,1000,29 Mar 2015
+1228,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,03 Feb 2015
+1229,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1100,05 Feb 2015
+1230,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1400,1100,06 May 2015
+1231,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1200,17 Feb 2015
+1232,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1400,10 Jan 2015
+1233,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1300,15 Jul 2015
+1234,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1800,1500,30 Dec 2014
+1235,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1700,1300,03 Jun 2015
+1236,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1800,1400,06 Jun 2015
+1237,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1400,12 Jul 2015
+1238,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,07 Mar 2015
+1239,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,2000,1500,24 Jun 2015
+1240,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1400,2300,1900,22 Dec 2014
+1241,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2700,05 Aug 2015
+1242,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2600,3300,2900,18 Aug 2015
+1243,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2800,11 Aug 2015
+1244,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2800,14 Aug 2015
+1245,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3200,2900,17 Aug 2015
+1246,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2600,3100,2800,04 Aug 2015
+1247,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2600,4100,3400,27 Aug 2015
+1248,Kurnool,Alur,Onion,Beelary-Red,Medium,715,715,715,23 Nov 2014
+1249,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1000,900,18 Oct 2014
+1250,Kurnool,Alur,Onion,Beelary-Red,Medium,800,1020,980,30 Nov 2014
+1251,Kurnool,Alur,Onion,Beelary-Red,Medium,1050,1200,1120,11 Dec 2014
+1252,Kurnool,Alur,Onion,Beelary-Red,Medium,1050,1230,1160,19 Dec 2014
+1253,Kurnool,Alur,Onion,Beelary-Red,Medium,1050,1560,1250,06 Jan 2015
+1254,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,08 May 2015
+1255,Kurnool,Alur,Onion,Beelary-Red,Medium,1800,2000,1900,31 May 2015
+1256,Kurnool,Alur,Onion,Beelary-Red,Medium,2100,2300,2200,15 Jul 2015
+1257,Kurnool,Alur,Onion,Beelary-Red,Medium,2200,2400,2300,29 Apr 2015
+1258,Kurnool,Alur,Onion,Beelary-Red,Medium,2500,2700,2600,16 Jun 2015
+1259,Kurnool,Alur,Onion,Beelary-Red,Medium,2500,2900,2700,31 Jul 2015
+1260,Kurnool,Alur,Onion,Beelary-Red,Medium,2800,3200,3000,18 Aug 2015
+1261,Kurnool,Alur,Onion,Beelary-Red,Medium,3500,4500,4000,23 Aug 2015
+1262,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,17 Apr 2015
+1263,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,1800,2200,2000,02 Jun 2015
+1264,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,1800,3000,2000,30 Jul 2015
+1265,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2500,3000,2600,28 Jul 2015
+1266,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,03 Jul 2015
+1267,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,04 Apr 2015
+1268,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,11 Apr 2015
+1269,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,17 Jul 2015
+1270,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,20 Jul 2015
+1271,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,3400,3400,3400,23 Jul 2015
+1272,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,01 Oct 2014
+1273,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,05 Oct 2014
+1274,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,06 Apr 2015
+1275,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,12 Apr 2015
+1276,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,30 Apr 2015
+1277,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,05 Apr 2015
+1278,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,13 Apr 2015
+1279,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,01 Jan 2015
+1280,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,05 Jan 2015
+1281,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,10 Oct 2014
+1282,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,11 Feb 2015
+1283,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,16 Jan 2015
+1284,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,20 Nov 2014
+1285,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,23 Nov 2014
+1286,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,31 Dec 2014
+1287,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,04 Aug 2015
+1288,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,10 Jun 2015
+1289,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,11 May 2015
+1290,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,14 Aug 2015
+1291,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,27 Aug 2015
+1292,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,28 Dec 2014
+1293,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,13 Jun 2015
+1294,Kurnool,Kurnool,Onion,Local,Medium,545,1525,1130,08 Dec 2014
+1295,Kurnool,Kurnool,Onion,Local,Medium,620,1400,1280,15 Oct 2014
+1296,Kurnool,Kurnool,Onion,Local,Medium,650,1285,1065,11 Sep 2014
+1297,Kurnool,Kurnool,Onion,Local,Medium,670,1590,1305,22 Jan 2015
+1298,Kurnool,Kurnool,Onion,Local,Medium,700,1150,955,27 Mar 2015
+1299,Kurnool,Kurnool,Onion,Local,Medium,800,1880,1300,23 Dec 2014
+1300,Kurnool,Kurnool,Onion,Local,Medium,820,1770,1280,24 Dec 2014
+1301,Kurnool,Kurnool,Onion,Local,Medium,1000,1920,1515,08 Jun 2015
+1302,Kurnool,Kurnool,Onion,Local,Medium,1035,1785,1260,15 Jun 2015
+1303,Kurnool,Kurnool,Onion,Local,Medium,1075,1635,1460,03 Jul 2015
+1304,Kurnool,Kurnool,Onion,Local,Medium,1145,1550,1305,29 Jun 2015
+1305,Kurnool,Kurnool,Onion,Local,Medium,1250,1530,1315,26 Feb 2015
+1306,Kurnool,Kurnool,Onion,Local,Medium,1265,1635,1495,23 Feb 2015
+1307,Kurnool,Kurnool,Onion,Local,Medium,1270,1600,1470,23 Jun 2015
+1308,Kurnool,Kurnool,Onion,Local,Medium,1450,1815,1650,10 Jul 2015
+1309,Kurnool,Kurnool,Onion,Local,Medium,1450,2150,1775,15 Jul 2015
+1310,Kurnool,Kurnool,Onion,Local,Medium,1500,2400,1955,24 Jul 2015
+1311,Kurnool,Kurnool,Onion,Local,Medium,1510,1725,1695,19 Feb 2015
+1312,Kurnool,Kurnool,Onion,Local,Medium,2000,3180,2550,08 Aug 2015
+1313,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,15 Sep 2014
+1314,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,30 Sep 2014
+1315,Prakasam,Ongole(Rythu Bazar),Onion,1st Sort,Medium,2000,2200,2100,21 May 2015
+1316,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,08 Mar 2015
+1317,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,11 Mar 2015
+1318,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2200,2400,2300,09 Apr 2015
+1319,Vijayanagaram,Parvathipuram,Onion,Local,Medium,600,650,625,04 Oct 2014
+1320,Kurnool,Pattikonda,Onion,Local,Medium,1000,1200,1100,05 Jan 2015
+1321,Kurnool,Pattikonda,Onion,Local,Medium,3800,4000,3900,21 Aug 2015
+1322,Kurnool,Pattikonda,Onion,Local,Medium,4500,4500,4500,24 Aug 2015
+1323,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1100,800,18 Nov 2014
+1324,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1500,1000,03 Apr 2015
+1325,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1350,1000,01 May 2015
+1326,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1500,1000,27 Mar 2015
+1327,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1100,04 Nov 2014
+1328,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1100,30 Jun 2015
+1329,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1600,1200,12 Feb 2015
+1330,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1300,23 Feb 2015
+1331,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1500,1200,14 Dec 2014
+1332,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1400,08 Jul 2015
+1333,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1400,13 Jul 2015
+1334,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1000,1900,1500,06 Mar 2015
+1335,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,2300,1600,25 Jul 2015
+1336,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1200,2000,1800,20 Dec 2014
+1337,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3000,2800,13 Aug 2015
+1338,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,3800,3000,31 Aug 2015
+1339,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2600,3100,2800,02 Aug 2015
+1340,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,10 Aug 2015
+1341,West Godavari,Kovvur,Onion,Onion,Medium,1900,2300,2100,19 Jul 2015
+1342,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,04 Jul 2015
+1343,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,19 Jun 2015
+1344,West Godavari,Kovvur,Onion,Onion,Medium,2800,3200,3000,29 Jul 2015
+1345,Kurnool,Kurnool,Onion,Local,Medium,1000,1785,1420,18 Jun 2015
+1346,Kurnool,Kurnool,Onion,Local,Medium,1160,1975,1425,22 Jun 2015
+1347,Kurnool,Kurnool,Onion,Local,Medium,1185,1525,1215,29 Jan 2015
+1348,Kurnool,Kurnool,Onion,Local,Medium,1185,1555,1275,11 Mar 2015
+1349,Kurnool,Kurnool,Onion,Local,Medium,2140,4200,3500,27 Aug 2015
+1350,Nellore,Nellore,Onion,Local,Medium,1400,1600,1500,14 Nov 2014
+1351,Nellore,Nellore,Onion,Local,Medium,1400,1600,1500,18 Nov 2014
+1352,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,06 Mar 2015
+1353,Prakasam,Ongole(Rythu Bazar),Onion,Onion,Medium,2000,2400,2200,21 Feb 2015
+1354,Kurnool,Pattikonda,Onion,Local,Medium,2300,2500,2400,02 Jun 2015
+1355,Kurnool,Pattikonda,Onion,Local,Medium,2400,2600,2500,09 Jan 2015
+1356,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1200,900,26 Oct 2014
+1357,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,900,14 Apr 2015
+1358,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1000,09 Nov 2014
+1359,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1450,1000,01 Apr 2015
+1360,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1000,12 Apr 2015
+1361,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1400,1000,13 Apr 2015
+1362,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1500,1100,07 Apr 2015
+1363,West Godavari,Tadepalligudem,Onion,Medium,FAQ,700,1500,1100,10 Apr 2015
+1364,West Godavari,Tadepalligudem,Onion,Medium,FAQ,750,1400,1100,11 May 2015
+1365,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1100,19 May 2015
+1366,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1500,1200,08 Feb 2015
+1367,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1700,1400,22 Mar 2015
+1368,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1200,2000,1800,19 Dec 2014
+1369,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,4000,3200,28 Aug 2015
+1370,Kurnool,Alur,Onion,Beelary-Red,Medium,715,715,715,18 Nov 2014
+1371,Kurnool,Alur,Onion,Beelary-Red,Medium,750,1000,833,07 Nov 2014
+1372,Kurnool,Alur,Onion,Beelary-Red,Medium,800,870,800,03 Dec 2014
+1373,Kurnool,Alur,Onion,Beelary-Red,Medium,850,1000,950,03 Nov 2014
+1374,Kurnool,Alur,Onion,Beelary-Red,Medium,860,980,920,29 Nov 2014
+1375,Kurnool,Alur,Onion,Beelary-Red,Medium,1600,2000,1800,07 Jun 2015
+1376,Kurnool,Alur,Onion,Beelary-Red,Medium,1760,1880,1820,17 Apr 2015
+1377,Kurnool,Alur,Onion,Beelary-Red,Medium,2000,2200,2100,23 May 2015
+1378,Kurnool,Alur,Onion,Beelary-Red,Medium,2150,2350,2250,06 Jul 2015
+1379,Kurnool,Alur,Onion,Beelary-Red,Medium,2150,2450,2300,20 Jun 2015
+1380,Chittor,Chittor(Rythu Bazar),Onion,1st Sort,Large,4500,6000,5000,27 Aug 2015
+1381,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,16,20,18,14 May 2015
+1382,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,18,22,20,30 May 2015
+1383,Chittor,Chittor(Rythu Bazar),Onion,Bangalore-Samall,Large,2200,2600,2400,27 Jun 2015
+1384,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2000,2000,2000,07 Aug 2015
+1385,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Onion,Onion,Medium,2600,2600,2600,01 Jul 2015
+1386,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,01 May 2015
+1387,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,08 Apr 2015
+1388,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,20,20,20,11 May 2015
+1389,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,24,24,24,01 Jun 2015
+1390,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,05 Jun 2015
+1391,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,15 Jun 2015
+1392,West Godavari,"Eluru-II,RBZ",Onion,Onion,Medium,2600,2600,2600,20 Jun 2015
+1393,West Godavari,Kovvur,Onion,Onion,FAQ,1100,1500,1300,10 Sep 2014
+1394,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,01 May 2015
+1395,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,04 Oct 2014
+1396,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,07 Dec 2014
+1397,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,08 Apr 2015
+1398,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,08 Dec 2014
+1399,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,09 Jan 2015
+1400,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,11 Jan 2015
+1401,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,22 Oct 2014
+1402,West Godavari,Kovvur,Onion,Onion,Medium,1300,1700,1500,25 Nov 2014
+1403,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,05 Feb 2015
+1404,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,14 Dec 2014
+1405,West Godavari,Kovvur,Onion,Onion,Medium,1400,1800,1600,20 Jan 2015
+1406,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,02 Jan 2015
+1407,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,02 Sep 2014
+1408,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,05 Nov 2014
+1409,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,06 Feb 2015
+1410,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,19 Feb 2015
+1411,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,19 May 2015
+1412,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,27 Feb 2015
+1413,West Godavari,Kovvur,Onion,Onion,Medium,1600,2000,1800,29 Oct 2014
+1414,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,28 May 2015
+1415,West Godavari,Kovvur,Onion,Onion,Medium,1800,2200,2000,30 Dec 2014
+1416,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,23 Jun 2015
+1417,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,26 Jun 2015
+1418,West Godavari,Kovvur,Onion,Onion,Medium,2000,2400,2200,29 Jun 2015
+1419,West Godavari,Kovvur,Onion,Onion,Medium,2000,4000,2000,26 Aug 2015
+1420,Kurnool,Kurnool,Onion,Local,Medium,400,1725,1205,02 Jan 2015
+1421,Kurnool,Kurnool,Onion,Local,Medium,540,1450,1125,04 Dec 2014
+1422,Kurnool,Kurnool,Onion,Local,Medium,580,1450,1100,13 Oct 2014
+1423,Kurnool,Kurnool,Onion,Local,Medium,630,1480,1150,03 Nov 2014
+1424,Kurnool,Kurnool,Onion,Local,Medium,735,1300,1020,22 Apr 2015
+1425,Kurnool,Kurnool,Onion,Local,Medium,740,1400,1260,06 Nov 2014
+1426,Kurnool,Kurnool,Onion,Local,Medium,770,1710,1245,20 Dec 2014
+1427,Kurnool,Kurnool,Onion,Local,Medium,780,1575,1050,26 May 2015
+1428,Kurnool,Kurnool,Onion,Local,Medium,945,1635,1460,06 Feb 2015
+1429,Kurnool,Kurnool,Onion,Local,Medium,1100,1500,1350,01 Jul 2015
+1430,Kurnool,Kurnool,Onion,Local,Medium,1125,1475,1360,13 Mar 2015
+1431,Kurnool,Kurnool,Onion,Local,Medium,1130,1565,1320,30 Jun 2015
+1432,Kurnool,Kurnool,Onion,Local,Medium,1215,1700,1530,02 Sep 2014
+1433,Kurnool,Kurnool,Onion,Local,Medium,1425,2405,1830,21 Jul 2015
+1434,Kurnool,Kurnool,Onion,Local,Medium,2100,4640,3510,25 Aug 2015
+1435,Kurnool,Kurnool,Onion,Local,Medium,2120,4190,3500,31 Aug 2015
+1436,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,14 Sep 2014
+1437,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,18 Sep 2014
+1438,Nellore,Nellore,Onion,Local,Medium,2100,2600,2300,22 Sep 2014
+1439,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,19 Mar 2015
+1440,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2400,2300,22 May 2015
+1441,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,2200,2600,2400,12 May 2015
+1442,Prakasam,Ongole(Rythu Bazar),Onion,Local,Medium,3000,3600,3300,25 Jul 2015
+1443,Kurnool,Pattikonda,Onion,Local,Medium,1200,1400,1300,18 Dec 2014
+1444,Kurnool,Pattikonda,Onion,Local,Medium,1800,2000,1900,19 Jan 2015
+1445,Kurnool,Pattikonda,Onion,Local,Medium,2300,2500,2400,25 Jan 2015
+1446,Kurnool,Pattikonda,Onion,Local,Medium,2300,2500,2400,26 Jan 2015
+1447,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1200,900,24 Oct 2014
+1448,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1300,1000,23 Apr 2015
+1449,West Godavari,Tadepalligudem,Onion,Medium,FAQ,600,1400,1000,14 Oct 2014
+1450,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1100,26 Jun 2015
+1451,West Godavari,Tadepalligudem,Onion,Medium,FAQ,800,1600,1100,29 Jun 2015
+1452,West Godavari,Tadepalligudem,Onion,Medium,FAQ,900,1700,1300,20 Feb 2015
+1453,West Godavari,Tadepalligudem,Onion,Medium,FAQ,1100,1900,1500,09 Jun 2015
+1454,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2500,4000,3200,26 Aug 2015
+1455,West Godavari,Tadepalligudem,Onion,Medium,FAQ,2600,3100,2800,03 Aug 2015
