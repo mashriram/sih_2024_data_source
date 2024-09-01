@@ -1,0 +1,919 @@
+0,1,2,3,4,5,6,7,8,9
+1,Hissar,Adampur,Wheat,Other,FAQ,2041,2041,2041,05 May 2022
+2,Hissar,Adampur(Agroha),Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+3,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2019,2021,2020,30 Apr 2022
+4,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2019,2022,2020,05 May 2022
+5,Ambala,Barara,Wheat,Other,FAQ,2015,2018,2015,19 Apr 2022
+6,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,02 May 2022
+7,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+8,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2020,25 Apr 2022
+9,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2020,26 Apr 2022
+10,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+11,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2100,2250,2100,03 May 2022
+12,Jind,Jullana,Wheat,Other,FAQ,2020,2040,2040,09 May 2022
+13,Kaithal,Kaithal,Wheat,Other,FAQ,2015,2025,2025,16 Apr 2022
+14,Kaithal,Kaithal,Wheat,Other,FAQ,2015,2025,2025,18 Apr 2022
+15,Kaithal,Kaithal,Wheat,Other,FAQ,2015,2040,2025,21 Apr 2022
+16,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2080,2080,2080,16 Jun 2022
+17,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,14 Apr 2022
+18,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,26 Apr 2022
+19,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,14 May 2022
+20,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+21,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+22,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,15 May 2022
+23,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,03 May 2022
+24,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,24 Apr 2022
+25,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,05 Apr 2022
+26,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,11 May 2022
+27,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,30 Apr 2022
+28,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,02 Apr 2022
+29,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+30,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+31,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+32,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2021,2020,19 Apr 2022
+33,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+34,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,19 May 2022
+35,Panipat,Panipat,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+36,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+37,Rewari,Rewari,Wheat,Other,FAQ,2015,2086,2040,15 Jun 2022
+38,Rewari,Rewari,Wheat,Other,FAQ,2060,2063,2062,09 Jun 2022
+39,Rewari,Rewari,Wheat,Other,FAQ,2075,2231,2200,19 Apr 2022
+40,Rewari,Rewari,Wheat,Other,FAQ,2121,2280,2200,05 May 2022
+41,Rewari,Rewari,Wheat,Other,FAQ,2125,2200,2160,18 Apr 2022
+42,Rewari,Rewari,Wheat,Other,FAQ,2149,2172,2160,07 May 2022
+43,Rewari,Rewari,Wheat,Other,FAQ,2151,2221,2200,11 May 2022
+44,Jind,Safidon,Wheat,Other,FAQ,2015,2041,2021,21 Apr 2022
+45,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2016,2015,07 Apr 2022
+46,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,05 Apr 2022
+47,Bhiwani,Siwani,Wheat,Other,FAQ,2025,2050,2030,07 May 2022
+48,Bhiwani,Siwani,Wheat,Other,FAQ,2050,2050,2050,18 May 2022
+49,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,19 Apr 2022
+50,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,25 Apr 2022
+51,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,07 Apr 2022
+52,Jind,Uchana,Wheat,Other,FAQ,2015,2025,2016,19 Apr 2022
+53,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,10 Apr 2022
+54,Jind,Uchana,Wheat,Other,FAQ,2016,2050,2040,09 May 2022
+55,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,04 May 2022
+56,Hissar,Uklana,Wheat,Other,FAQ,2015,2020,2015,16 Apr 2022
+57,Hissar,Adampur,Wheat,Other,FAQ,2040,2050,2040,25 Apr 2022
+58,Hissar,Adampur,Wheat,Other,FAQ,2041,2041,2041,14 Jun 2022
+59,Hissar,Adampur(Agroha),Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+60,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2018,2022,2020,01 May 2022
+61,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,22 Apr 2022
+62,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,28 Apr 2022
+63,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2015,2015,21 May 2022
+64,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2016,12 Apr 2022
+65,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2025,2020,15 Apr 2022
+66,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2040,2040,06 May 2022
+67,Kaithal,Cheeka,Wheat,Other,FAQ,2020,2020,2020,29 Apr 2022
+68,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+69,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,21 May 2022
+70,Sirsa,Ding,Wheat,Other,FAQ,2015,2060,2015,23 May 2022
+71,Sirsa,Ding,Wheat,Other,FAQ,2020,2025,2020,28 May 2022
+72,Sirsa,Ding,Wheat,Other,FAQ,2215,2215,2215,25 Jun 2022
+73,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2025,2015,04 Apr 2022
+74,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2025,2015,06 Apr 2022
+75,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2020,2020,2020,09 Apr 2022
+76,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2100,2100,2100,26 May 2022
+77,Jind,Jullana,Wheat,Other,FAQ,2015,2015,2015,27 May 2022
+78,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2300,2300,2300,19 Apr 2022
+79,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,17 Apr 2022
+80,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,02 May 2022
+81,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,13 May 2022
+82,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+83,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,10 Apr 2022
+84,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+85,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+86,Jind,Narwana,Wheat,Other,FAQ,2015,2030,2022.5,27 Apr 2022
+87,Jind,Narwana,Wheat,Other,FAQ,2015,2030,2022.5,28 Apr 2022
+88,Jind,Narwana,Wheat,Other,FAQ,2015,2035,2025,05 May 2022
+89,Jind,Narwana,Wheat,Other,FAQ,2015,2040,2027.5,14 May 2022
+90,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+91,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+92,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+93,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2100,2120,2100,16 May 2022
+94,Karnal,Nigdu,Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+95,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2015,2015,24 Apr 2022
+96,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,21 Apr 2022
+97,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,17 Apr 2022
+98,Jind,Pillukhera,Wheat,Other,FAQ,2015,2020,2015,14 Apr 2022
+99,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2015,2015,27 Apr 2022
+100,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2025,2015,21 Apr 2022
+101,Rewari,Rewari,Wheat,Other,FAQ,2070,2080,2080,10 Jun 2022
+102,Rewari,Rewari,Wheat,Other,FAQ,2100,2201,2150,17 May 2022
+103,Rewari,Rewari,Wheat,Other,FAQ,2120,2220,2170,23 Apr 2022
+104,Rewari,Rewari,Wheat,Other,FAQ,2175,2185,2180,03 May 2022
+105,Jind,Safidon,Wheat,Other,FAQ,2015,2100,2021,19 Apr 2022
+106,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,26 Apr 2022
+107,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,08 Apr 2022
+108,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,14 Apr 2022
+109,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,25 Apr 2022
+110,Bhiwani,Siwani,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+111,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,03 May 2022
+112,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,25 May 2022
+113,Hissar,Adampur,Wheat,Other,FAQ,2016,2080,2050,18 Apr 2022
+114,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2018,2021,2019,06 May 2022
+115,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2020,2022,2021,27 Apr 2022
+116,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+117,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+118,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2020,2015,04 Apr 2022
+119,Ambala,Barara,Wheat,Other,FAQ,2015,2015,2015,04 Apr 2022
+120,Ambala,Barara,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+121,Ambala,Barara,Wheat,Other,FAQ,2015,2018,2017,25 Apr 2022
+122,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,04 Apr 2022
+123,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+124,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+125,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+126,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+127,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2040,2040,05 May 2022
+128,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+129,Sirsa,Ding,Wheat,Other,FAQ,2205,2207,2205,18 Jun 2022
+130,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+131,Jind,Jullana,Wheat,Other,FAQ,2015,2015,2015,20 May 2022
+132,Jind,Jullana,Wheat,Other,FAQ,2015,2040,2020,05 May 2022
+133,Jind,Jullana,Wheat,Other,FAQ,2015,2070,2040,20 Apr 2022
+134,Jind,Jullana,Wheat,Other,FAQ,2020,2040,2020,08 May 2022
+135,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2050,2050,2050,21 Jun 2022
+136,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,19 Apr 2022
+137,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+138,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+139,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,23 Apr 2022
+140,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,27 Apr 2022
+141,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,26 Apr 2022
+142,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+143,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,26 Apr 2022
+144,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,28 Apr 2022
+145,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+146,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+147,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,10 May 2022
+148,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,17 Apr 2022
+149,Mahendragarh-Narnaul,Narnaul,Wheat,Other,FAQ,2025,2025,2025,07 Apr 2022
+150,Jind,Narwana,Wheat,Other,FAQ,2015,2035,2025,01 May 2022
+151,Jind,Narwana,Wheat,Other,FAQ,2015,2035,2025,06 May 2022
+152,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2020,2020,13 Apr 2022
+153,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+154,Karnal,Nigdu,Wheat,Other,FAQ,2015,2016,2015,19 Apr 2022
+155,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,25 Apr 2022
+156,Jind,Pillukhera,Wheat,Other,FAQ,2020,2020,2020,24 Apr 2022
+157,Rewari,Rewari,Wheat,Other,FAQ,2050,2151,2100,20 May 2022
+158,Jind,Safidon,Wheat,Other,FAQ,2015,2015,2015,06 May 2022
+159,Jind,Safidon,Wheat,Other,FAQ,2015,2041,2025,22 Apr 2022
+160,Jind,Safidon,Wheat,Other,FAQ,2015,2100,2100,17 Apr 2022
+161,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2017,2016,12 Apr 2022
+162,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2020,2017,15 Apr 2022
+163,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,27 Apr 2022
+164,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,29 Apr 2022
+165,Gurgaon,Sohna,Wheat,Other,FAQ,2015,2025,2020,11 Apr 2022
+166,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,24 May 2022
+167,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2016,23 Apr 2022
+168,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,02 May 2022
+169,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,18 Apr 2022
+170,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2016,03 May 2022
+171,Jind,Uchana,Wheat,Other,FAQ,2015,2025,2016,20 Apr 2022
+172,Jind,Uchana,Wheat,Other,FAQ,2016,2035,2025,16 May 2022
+173,Jind,Uchana,Wheat,Other,FAQ,2016,2050,2035,11 May 2022
+174,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+175,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+176,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,06 May 2022
+177,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,30 May 2022
+178,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+179,Mahendragarh-Narnaul,Ateli,Wheat,Other,FAQ,1900,1900,1900,08 Jul 2022
+180,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2020,2015,03 Apr 2022
+181,Ambala,Barara,Wheat,Other,FAQ,2015,2015,2015,30 Apr 2022
+182,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,09 May 2022
+183,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+184,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2020,09 Apr 2022
+185,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2020,28 Apr 2022
+186,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2025,2020,18 Apr 2022
+187,Kaithal,Cheeka,Wheat,Other,FAQ,2020,2020,2020,24 Apr 2022
+188,Kaithal,Cheeka,Wheat,Other,FAQ,2040,2040,2040,02 May 2022
+189,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+190,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+191,Sirsa,Ding,Wheat,Other,FAQ,2040,2040,2040,09 May 2022
+192,Sirsa,Ding,Wheat,Other,FAQ,2040,2040,2040,14 May 2022
+193,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2050,2050,2050,29 Apr 2022
+194,Jind,Jullana,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+195,Jind,Jullana,Wheat,Other,FAQ,2015,2020,2015,13 Apr 2022
+196,Jind,Jullana,Wheat,Other,FAQ,2015,2050,2020,28 Apr 2022
+197,Jind,Jullana,Wheat,Other,FAQ,2020,2050,2050,13 May 2022
+198,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2200,2200,2200,22 Apr 2022
+199,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+200,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,10 Apr 2022
+201,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+202,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+203,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,04 May 2022
+204,Ambala,Mullana(saha),Wheat,Other,FAQ,2020,2020,2020,18 Apr 2022
+205,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2020,2015,14 Apr 2022
+206,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2020,2020,26 Apr 2022
+207,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,05 May 2022
+208,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,26 Apr 2022
+209,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2020,2015,07 Apr 2022
+210,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,10 Apr 2022
+211,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2030,2015,14 Apr 2022
+212,Kaithal,Pai(Rajaund),Wheat,Other,FAQ,2015,0,2015,17 Apr 2022
+213,Jind,Pillukhera,Wheat,Other,FAQ,2015,2020,2015,19 Apr 2022
+214,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2025,2015,12 Apr 2022
+215,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2025,2015,25 Apr 2022
+216,Rewari,Rewari,Wheat,Other,FAQ,2080,2300,2180,04 May 2022
+217,Rewari,Rewari,Wheat,Other,FAQ,2142,2142,2142,04 Jun 2022
+218,Rewari,Rewari,Wheat,Other,FAQ,2158,2231,2200,20 Apr 2022
+219,Jind,Safidon,Wheat,Other,FAQ,2015,2015,2015,31 May 2022
+220,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2025,2020,21 Apr 2022
+221,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,28 May 2022
+222,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2017,2016,09 May 2022
+223,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,02 May 2022
+224,Bhiwani,Tosham,Wheat,Other,FAQ,2020,2020,2020,05 Apr 2022
+225,Bhiwani,Tosham,Wheat,Other,FAQ,2050,2050,2050,04 Apr 2022
+226,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,29 Apr 2022
+227,Jind,Uchana,Wheat,Other,FAQ,2040,2040,2040,13 May 2022
+228,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2015,2015,10 Apr 2022
+229,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+230,Ambala,Barara,Wheat,Other,FAQ,2015,2020,2015,13 Apr 2022
+231,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,30 Apr 2022
+232,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2020,27 Apr 2022
+233,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2030,2030,30 Apr 2022
+234,Sirsa,Ding,Wheat,Other,FAQ,2170,2170,2170,06 Jun 2022
+235,Jind,Jullana,Wheat,Other,FAQ,2015,2060,2040,19 Apr 2022
+236,Jind,Jullana,Wheat,Other,FAQ,2020,2020,2020,01 Jun 2022
+237,Jind,Jullana,Wheat,Other,FAQ,2030,2030,2030,18 May 2022
+238,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2080,2080,2080,24 Apr 2022
+239,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+240,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,04 Apr 2022
+241,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+242,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+243,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+244,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+245,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+246,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,23 Apr 2022
+247,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,17 Apr 2022
+248,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,09 May 2022
+249,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,16 Apr 2022
+250,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,20 Apr 2022
+251,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2017,2015,27 Apr 2022
+252,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+253,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+254,Jind,Narwana,Wheat,Other,FAQ,2015,2030,2025,10 May 2022
+255,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+256,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2021,2021,01 May 2022
+257,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,24 Apr 2022
+258,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,25 Apr 2022
+259,Rewari,Rewari,Wheat,Other,FAQ,2016,2086,2050,07 Apr 2022
+260,Rewari,Rewari,Wheat,Other,FAQ,2040,2086,2060,06 Apr 2022
+261,Rewari,Rewari,Wheat,Other,FAQ,2060,2100,2080,13 Apr 2022
+262,Jind,Safidon,Wheat,Other,FAQ,2015,2015,2015,20 May 2022
+263,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,23 Apr 2022
+264,Jind,Uchana,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+265,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2016,26 Apr 2022
+266,Hissar,Uklana,Wheat,Other,FAQ,2015,2070,2040,19 Apr 2022
+267,Hissar,Adampur,Wheat,Other,FAQ,2015,2100,2050,21 Apr 2022
+268,Hissar,Adampur(Agroha),Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+269,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2020,2022,2021,29 Apr 2022
+270,Ambala,Barara,Wheat,Other,FAQ,2015,2015,2015,28 Apr 2022
+271,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+272,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,27 Apr 2022
+273,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2015,2015,31 May 2022
+274,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2021,2017,17 Apr 2022
+275,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2023,2017,20 Apr 2022
+276,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,27 Apr 2022
+277,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+278,Sirsa,Ding,Wheat,Other,FAQ,2040,2040,2040,10 May 2022
+279,Sirsa,Ding,Wheat,Other,FAQ,2040,2040,2040,25 Apr 2022
+280,Sirsa,Ding,Wheat,Other,FAQ,2180,2180,2180,07 Jun 2022
+281,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2025,2015,10 Apr 2022
+282,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2020,2020,2020,20 Apr 2022
+283,Jind,Jullana,Wheat,Other,FAQ,2015,2050,2020,23 Apr 2022
+284,Jind,Jullana,Wheat,Other,FAQ,2020,2020,2020,03 Jun 2022
+285,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+286,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+287,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,17 Apr 2022
+288,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,09 May 2022
+289,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+290,Hissar,Narnaud(Bass),Wheat,Other,FAQ,2015,2040,2020,25 May 2022
+291,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+292,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+293,Jind,Narwana,Wheat,Other,FAQ,2015,2020,2017.5,23 May 2022
+294,Jind,Narwana,Wheat,Other,FAQ,2015,2030,2022.5,24 Apr 2022
+295,Jind,Narwana,Wheat,Other,FAQ,2015,2030,2022.5,25 Apr 2022
+296,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2020,2015,15 Apr 2022
+297,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2021,2021,29 Apr 2022
+298,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,09 May 2022
+299,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2015,2015,05 Apr 2022
+300,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,09 Apr 2022
+301,Karnal,Nilokheri,Wheat,Other,FAQ,2025,2045,2030,17 Apr 2022
+302,Kaithal,Pai(Rajaund),Wheat,Other,FAQ,2015,2025,2015,21 Apr 2022
+303,Jind,Pillukhera,Wheat,Other,FAQ,2015,2020,2015,26 Apr 2022
+304,Jind,Pillukhera,Wheat,Other,FAQ,2015,2025,2015,15 Apr 2022
+305,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2025,2015,18 Apr 2022
+306,Rewari,Rewari,Wheat,Other,FAQ,2016,2200,2100,22 Apr 2022
+307,Rewari,Rewari,Wheat,Other,FAQ,2070,2100,2080,14 Jun 2022
+308,Rewari,Rewari,Wheat,Other,FAQ,2100,2200,2150,13 May 2022
+309,Jind,Safidon,Wheat,Other,FAQ,2015,2090,2050,25 Apr 2022
+310,Jind,Safidon,Wheat,Other,FAQ,2016,2016,2016,10 May 2022
+311,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2016,2016,27 Apr 2022
+312,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2017,2016,08 Apr 2022
+313,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2018,2016,13 Apr 2022
+314,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2021,2018,19 Apr 2022
+315,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+316,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,11 May 2022
+317,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+318,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+319,Bhiwani,Siwani,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+320,Bhiwani,Siwani,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+321,Bhiwani,Siwani,Wheat,Other,FAQ,2050,2050,2050,27 May 2022
+322,Gurgaon,Sohna,Wheat,Other,FAQ,2015,2015,2015,05 Apr 2022
+323,Gurgaon,Sohna,Wheat,Other,FAQ,2015,2020,2015,07 Apr 2022
+324,Hissar,Adampur,Wheat,Other,FAQ,2020,2020,2020,15 Apr 2022
+325,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2018,2022,2020,04 May 2022
+326,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2018,2022,2020,22 Apr 2022
+327,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+328,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+329,Ambala,Barara,Wheat,Other,FAQ,2015,2020,2015,11 Apr 2022
+330,Ambala,Barara,Wheat,Other,FAQ,2015,2020,2015,23 Apr 2022
+331,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,10 May 2022
+332,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+333,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2015,2015,10 May 2022
+334,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2025,2020,21 Apr 2022
+335,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2040,2020,03 May 2022
+336,Sirsa,Ding,Wheat,Other,FAQ,2016,2060,2060,24 May 2022
+337,Jind,Jullana,Wheat,Other,FAQ,2015,2015,2015,24 May 2022
+338,Jind,Jullana,Wheat,Other,FAQ,2015,2040,2020,02 May 2022
+339,Jind,Jullana,Wheat,Other,FAQ,2015,2050,2020,18 Apr 2022
+340,Jind,Jullana,Wheat,Other,FAQ,2020,2040,2040,14 May 2022
+341,Jind,Jullana,Wheat,Other,FAQ,2020,2050,2050,12 May 2022
+342,Karnal,Jundla,Wheat,Other,FAQ,2015,2040,2015,14 Apr 2022
+343,Kaithal,Kaithal,Wheat,Other,FAQ,2015,2030,2025,20 Apr 2022
+344,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2015,2015,2015,16 Jul 2022
+345,Rewari,Kosli,Wheat,Other,FAQ,4000,4000,4000,03 Jun 2022
+346,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,12 Apr 2022
+347,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,27 Apr 2022
+348,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+349,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,17 Apr 2022
+350,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+351,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,05 May 2022
+352,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,14 Apr 2022
+353,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,10 Apr 2022
+354,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+355,Jind,Narwana,Wheat,Other,FAQ,2015,2030,2022.5,23 Apr 2022
+356,Jind,Narwana,Wheat,Other,FAQ,2015,2035,2025,02 May 2022
+357,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2020,2015,16 Apr 2022
+358,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2021,2021,30 Apr 2022
+359,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,03 May 2022
+360,Panipat,Panipat,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+361,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+362,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+363,Jind,Pillukhera,Wheat,Other,FAQ,2015,2020,2015,28 Apr 2022
+364,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2025,2015,15 Apr 2022
+365,Rewari,Rewari,Wheat,Other,FAQ,2041,2080,2060,11 Apr 2022
+366,Rewari,Rewari,Wheat,Other,FAQ,2050,2080,2065,12 Apr 2022
+367,Rewari,Rewari,Wheat,Other,FAQ,2100,2221,2180,27 Apr 2022
+368,Rewari,Rewari,Wheat,Other,FAQ,2100,2271,2180,26 Apr 2022
+369,Rewari,Rewari,Wheat,Other,FAQ,2111,2255,2200,09 May 2022
+370,Jind,Safidon,Wheat,Other,FAQ,2015,2025,2016,13 Apr 2022
+371,Jind,Safidon,Wheat,Other,FAQ,2015,2025,2025,08 Apr 2022
+372,Jind,Safidon,Wheat,Other,FAQ,2015,2100,2050,18 Apr 2022
+373,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2019,2016,18 Apr 2022
+374,Kurukshetra,Shahabad,Wheat,Local,FAQ,2016,2016,2016,02 May 2022
+375,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+376,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,22 Apr 2022
+377,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,30 May 2022
+378,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,11 Apr 2022
+379,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2017,2016,30 Apr 2022
+380,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,20 Apr 2022
+381,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+382,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,05 May 2022
+383,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+384,Hissar,Adampur(Agroha),Wheat,Other,FAQ,2015,2015,2015,22 Apr 2022
+385,Mahendragarh-Narnaul,Ateli,Wheat,Other,FAQ,2200,2200,2200,21 May 2022
+386,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+387,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+388,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+389,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,04 May 2022
+390,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+391,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+392,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+393,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+394,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+395,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2050,2015,22 Apr 2022
+396,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2020,2020,2020,23 May 2022
+397,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2025,2025,2025,02 Apr 2022
+398,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2050,2050,2050,05 May 2022
+399,Jind,Jullana,Wheat,Other,FAQ,2020,2060,2040,30 Apr 2022
+400,Kaithal,Kaithal,Wheat,Other,FAQ,2015,2025,2025,13 Apr 2022
+401,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2085,2090,2085,30 Apr 2022
+402,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,25 Apr 2022
+403,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,25 Apr 2022
+404,Ambala,Mullana,Wheat,Other,FAQ,2020,2020,2020,18 Apr 2022
+405,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,27 Apr 2022
+406,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+407,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+408,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+409,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,18 Apr 2022
+410,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,28 Apr 2022
+411,Ambala,Naraingarh,Wheat,Other,FAQ,2016,2016,2016,15 Jul 2022
+412,Hissar,Narnaud(Bass),Wheat,Other,FAQ,2015,2040,2020,09 May 2022
+413,Hissar,Narnaund,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+414,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+415,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+416,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,22 Apr 2022
+417,Jind,Narwana,Wheat,Other,FAQ,2015,2035,2025.5,09 May 2022
+418,Jind,Narwana,Wheat,Other,FAQ,2015,2040,2027.5,30 May 2022
+419,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2020,2015,09 Apr 2022
+420,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,02 May 2022
+421,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+422,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,16 Apr 2022
+423,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,19 Apr 2022
+424,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2030,2015,18 Apr 2022
+425,Kaithal,Pai,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+426,Jind,Pillukhera,Wheat,Other,FAQ,2015,2020,2015,23 Apr 2022
+427,Jind,Pillukhera,Wheat,Other,FAQ,2015,2020,2015,27 Apr 2022
+428,Jind,Pillukhera,Wheat,Other,FAQ,2015,2021,2015,21 Apr 2022
+429,Jind,Pillukhera,Wheat,Other,FAQ,2015,2025,2015,18 Apr 2022
+430,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2020,2015,22 Apr 2022
+431,Rewari,Rewari,Wheat,Other,FAQ,2070,2125,2100,25 May 2022
+432,Jind,Safidon,Wheat,Other,FAQ,2015,2050,2020,27 Apr 2022
+433,Jind,Safidon,Wheat,Other,FAQ,2016,2016,2016,11 May 2022
+434,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2015,2015,14 May 2022
+435,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,04 May 2022
+436,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+437,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,27 Apr 2022
+438,Bhiwani,Siwani,Wheat,Other,FAQ,2050,2050,2050,08 Apr 2022
+439,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2017,2016,29 Apr 2022
+440,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,27 May 2022
+441,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+442,Hissar,Uklana,Wheat,Other,FAQ,2015,2070,2040,21 Apr 2022
+443,Hissar,Uklana,Wheat,Other,FAQ,2040,2040,2040,21 May 2022
+444,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2018,2022,2020,18 Apr 2022
+445,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2015,2015,01 Apr 2022
+446,Ambala,Barara,Wheat,Other,FAQ,2015,2015,2015,05 Apr 2022
+447,Ambala,Barara,Wheat,Other,FAQ,2015,2015,2015,29 Apr 2022
+448,Ambala,Barara,Wheat,Other,FAQ,2015,2019,2015,16 Apr 2022
+449,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,26 Apr 2022
+450,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2017,10 Apr 2022
+451,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+452,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+453,Sirsa,Ding,Wheat,Other,FAQ,2020,2025,2020,31 May 2022
+454,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2031,2015,08 Apr 2022
+455,Jind,Jullana,Wheat,Other,FAQ,2015,2030,2020,06 May 2022
+456,Karnal,Jundla,Wheat,Other,FAQ,2015,2020,2015,15 Apr 2022
+457,Kaithal,Kaithal,Wheat,Other,FAQ,2016,2016,2016,04 Apr 2022
+458,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2050,2080,2050,10 May 2022
+459,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2100,2100,2100,25 May 2022
+460,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,21 Apr 2022
+461,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+462,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,17 Apr 2022
+463,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,04 May 2022
+464,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+465,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,04 Apr 2022
+466,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+467,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+468,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,05 Apr 2022
+469,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,30 Apr 2022
+470,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,04 May 2022
+471,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,15 Apr 2022
+472,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,23 Apr 2022
+473,Jind,Narwana,Wheat,Other,FAQ,2015,2040,2027.5,11 May 2022
+474,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2021,2015,23 Apr 2022
+475,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2025,2020,27 Apr 2022
+476,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2030,2015,13 Apr 2022
+477,Panipat,Panipat,Wheat,Other,FAQ,2015,2015,2015,10 Apr 2022
+478,Panipat,Panipat,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+479,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,06 May 2022
+480,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,27 May 2022
+481,Jind,Pillukhera,Wheat,Other,FAQ,2015,2025,2015,29 Apr 2022
+482,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2021,2015,10 Apr 2022
+483,Rewari,Rewari,Wheat,Other,FAQ,2016,2021,2021,01 Jun 2022
+484,Rewari,Rewari,Wheat,Other,FAQ,2021,2100,2100,08 Jun 2022
+485,Rewari,Rewari,Wheat,Other,FAQ,2057,2057,2057,20 Jun 2022
+486,Rewari,Rewari,Wheat,Other,FAQ,2150,2200,2170,10 May 2022
+487,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2015,2015,05 Apr 2022
+488,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2017,2016,16 Apr 2022
+489,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2020,2016,23 Apr 2022
+490,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+491,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,15 Apr 2022
+492,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,16 Apr 2022
+493,Gurgaon,Sohna,Wheat,Other,FAQ,2015,2020,2015,06 Apr 2022
+494,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,16 Apr 2022
+495,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+496,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+497,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,23 Apr 2022
+498,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,11 Apr 2022
+499,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,19 May 2022
+500,Hissar,Adampur,Wheat,Other,FAQ,2000,2000,2000,22 Jun 2022
+501,Hissar,Adampur,Wheat,Other,FAQ,2041,2041,2041,24 May 2022
+502,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2017,2021,2019,21 Apr 2022
+503,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2017,2022,2019,19 Apr 2022
+504,Ambala,Barara,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+505,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,05 Apr 2022
+506,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2020,2015,29 Apr 2022
+507,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2015,2015,17 May 2022
+508,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2017,2016,08 Apr 2022
+509,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2020,16 Apr 2022
+510,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,18 May 2022
+511,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+512,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,22 Apr 2022
+513,Sirsa,Ding,Wheat,Other,FAQ,2040,2040,2040,02 May 2022
+514,Sirsa,Ding,Wheat,Other,FAQ,2050,2050,2050,20 May 2022
+515,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+516,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2200,2015,26 Apr 2022
+517,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2050,2050,2050,27 Mar 2022
+518,Jind,Jullana,Wheat,Other,FAQ,2015,2050,2040,26 Apr 2022
+519,Kaithal,Kaithal,Wheat,Other,FAQ,2015,2025,2025,14 Apr 2022
+520,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2050,2050,2050,12 May 2022
+521,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,16 Apr 2022
+522,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,23 Apr 2022
+523,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,26 Apr 2022
+524,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+525,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,14 May 2022
+526,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+527,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,01 May 2022
+528,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,31 May 2022
+529,Mahendragarh-Narnaul,Narnaul,Wheat,Other,FAQ,2017,2017,2017,20 Apr 2022
+530,Mahendragarh-Narnaul,Narnaul,Wheat,Other,FAQ,2025,2025,2025,24 Apr 2022
+531,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2021,2020,18 Apr 2022
+532,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2100,2100,2100,02 May 2022
+533,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+534,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2020,2015,07 Apr 2022
+535,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2025,2015,11 Apr 2022
+536,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2025,2015,20 Apr 2022
+537,Rewari,Rewari,Wheat,Other,FAQ,2025,2082,2045,08 Apr 2022
+538,Rewari,Rewari,Wheat,Other,FAQ,2028,2051,2040,05 Apr 2022
+539,Jind,Safidon,Wheat,Other,FAQ,2015,2025,2016,11 Apr 2022
+540,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2017,2016,09 Apr 2022
+541,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2017,2016,10 Apr 2022
+542,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2019,2016,17 Apr 2022
+543,Kurukshetra,Shahabad,Wheat,Local,FAQ,2016,2018,2017,11 Apr 2022
+544,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,02 May 2022
+545,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+546,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,10 Apr 2022
+547,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+548,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+549,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,10 Apr 2022
+550,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,13 Apr 2022
+551,Gurgaon,Sohna,Wheat,Other,FAQ,2015,2020,2015,09 Apr 2022
+552,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,18 Apr 2022
+553,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+554,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+555,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,07 May 2022
+556,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,21 Apr 2022
+557,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,26 Apr 2022
+558,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,25 Apr 2022
+559,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,21 May 2022
+560,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,30 Apr 2022
+561,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+562,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,30 Apr 2022
+563,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,22 Apr 2022
+564,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,24 Apr 2022
+565,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+566,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+567,Hissar,Uklana,Wheat,Other,FAQ,2015,2020,2015,14 Apr 2022
+568,Hissar,Uklana,Wheat,Other,FAQ,2040,2040,2040,09 May 2022
+569,Hissar,Adampur,Wheat,Other,FAQ,2015,2015,2015,26 May 2022
+570,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,1900,2020,2015,07 Apr 2022
+571,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2016,2020,2018,17 Apr 2022
+572,Ambala,Barara,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+573,Ambala,Barara,Wheat,Other,FAQ,2015,2020,2015,12 Apr 2022
+574,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+575,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2015,2015,14 May 2022
+576,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2015,2015,19 May 2022
+577,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,23 Apr 2022
+578,Sirsa,Ding,Wheat,Other,FAQ,2020,2025,2020,30 May 2022
+579,Sirsa,Ding,Wheat,Other,FAQ,2215,2215,2215,22 Jun 2022
+580,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+581,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2100,2100,2100,04 May 2022
+582,Jind,Jullana,Wheat,Other,FAQ,2015,2040,2020,04 May 2022
+583,Jind,Jullana,Wheat,Other,FAQ,2040,2040,2040,15 May 2022
+584,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2050,2050,2050,02 May 2022
+585,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,13 Apr 2022
+586,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,14 May 2022
+587,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,20 Apr 2022
+588,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,28 Apr 2022
+589,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+590,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,23 Apr 2022
+591,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+592,Mahendragarh-Narnaul,Narnaul,Wheat,Other,FAQ,2017,2200,2200,21 Apr 2022
+593,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,17 Apr 2022
+594,Jind,Narwana,Wheat,Other,FAQ,2015,2035,2025,07 May 2022
+595,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2015,2015,10 Apr 2022
+596,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+597,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,01 May 2022
+598,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+599,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,24 May 2022
+600,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,25 Apr 2022
+601,Kaithal,Pai(Rajaund),Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+602,Kaithal,Pai(Rajaund),Wheat,Other,FAQ,2015,2015,2015,22 Apr 2022
+603,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2025,2015,23 Apr 2022
+604,Rewari,Rewari,Wheat,Other,FAQ,2020,2100,2050,24 May 2022
+605,Rewari,Rewari,Wheat,Other,FAQ,2051,2053,2052,26 May 2022
+606,Rewari,Rewari,Wheat,Other,FAQ,2061,2061,2061,27 May 2022
+607,Rewari,Rewari,Wheat,Other,FAQ,2100,2150,2120,21 May 2022
+608,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2015,2015,20 May 2022
+609,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2016,2016,30 Apr 2022
+610,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2018,2016,24 Apr 2022
+611,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2018,2016,25 Apr 2022
+612,Kurukshetra,Shahabad,Wheat,Local,FAQ,2016,2016,2016,04 May 2022
+613,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,09 Apr 2022
+614,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,18 Apr 2022
+615,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,22 Apr 2022
+616,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+617,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+618,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,13 Apr 2022
+619,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,17 May 2022
+620,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,17 Apr 2022
+621,Hissar,Uklana,Wheat,Other,FAQ,2015,2021,2016,27 Apr 2022
+622,Hissar,Uklana,Wheat,Other,FAQ,2040,2040,2040,18 May 2022
+623,Hissar,Uklana,Wheat,Other,FAQ,2040,2040,2040,19 May 2022
+624,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,12 Apr 2022
+625,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,20 May 2022
+626,Hissar,Uklana,Wheat,Other,FAQ,2021,2021,2021,24 Apr 2022
+627,Hissar,Adampur,Wheat,Other,FAQ,2020,2020,2020,13 Apr 2022
+628,Hissar,Adampur(Agroha),Wheat,Other,FAQ,2015,2015,2015,25 Apr 2022
+629,Faridabad,Ballabhgarh,Wheat,Other,FAQ,2015,2015,2015,05 Apr 2022
+630,Ambala,Barara,Wheat,Other,FAQ,2015,2015,2015,27 Apr 2022
+631,Ambala,Barara,Wheat,Other,FAQ,2015,2020,2015,09 Apr 2022
+632,Ambala,Barara,Wheat,Other,FAQ,2015,2020,2020,26 Apr 2022
+633,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,17 Apr 2022
+634,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+635,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2015,2015,05 Apr 2022
+636,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2021,2020,22 Apr 2022
+637,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2025,2017,19 Apr 2022
+638,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+639,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,30 Apr 2022
+640,Sirsa,Ding,Wheat,Other,FAQ,2210,2210,2210,20 Jun 2022
+641,Jind,Jullana,Wheat,Other,FAQ,2015,2070,2040,29 Apr 2022
+642,Jind,Jullana,Wheat,Other,FAQ,2020,2020,2020,21 May 2022
+643,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,09 May 2022
+644,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,18 Apr 2022
+645,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,22 Apr 2022
+646,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,28 Apr 2022
+647,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+648,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,22 Apr 2022
+649,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+650,Ambala,Mullana,Wheat,Other,FAQ,2015,2020,2015,24 Apr 2022
+651,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+652,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+653,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,24 Apr 2022
+654,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,25 Apr 2022
+655,Mahendragarh-Narnaul,Narnaul,Wheat,Other,FAQ,2016,2017,2016,27 Apr 2022
+656,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+657,Jind,Narwana,Wheat,Other,FAQ,2015,2030,2022.5,26 Apr 2022
+658,Jind,Narwana,Wheat,Other,FAQ,2015,2030,2022.5,29 Apr 2022
+659,Jind,Narwana,Wheat,Other,FAQ,2015,2030,2022.5,30 Apr 2022
+660,Jind,Narwana,Wheat,Other,FAQ,2015,2035,2025,04 May 2022
+661,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+662,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2015,2015,23 Apr 2022
+663,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,22 Apr 2022
+664,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+665,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,18 May 2022
+666,Jind,Pillukhera,Wheat,Other,FAQ,2015,2020,2015,22 Apr 2022
+667,Jind,Pillukhera,Wheat,Other,FAQ,2015,2025,2015,05 May 2022
+668,Rewari,Rewari,Wheat,Other,FAQ,2021,2050,2035,06 Jun 2022
+669,Rewari,Rewari,Wheat,Other,FAQ,2080,2671,2250,28 Apr 2022
+670,Rewari,Rewari,Wheat,Other,FAQ,2100,2231,2170,14 May 2022
+671,Rewari,Rewari,Wheat,Other,FAQ,2121,2300,2200,21 Apr 2022
+672,Jind,Safidon,Wheat,Other,FAQ,2015,2026,2025,09 Apr 2022
+673,Jind,Safidon,Wheat,Other,FAQ,2015,2050,2025,26 Apr 2022
+674,Jind,Safidon,Wheat,Other,FAQ,2016,2016,2016,30 Apr 2022
+675,Jind,Safidon,Wheat,Other,FAQ,2016,2090,2060,24 Apr 2022
+676,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2025,2020,20 Apr 2022
+677,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+678,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,20 Apr 2022
+679,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,04 May 2022
+680,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+681,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+682,Hissar,Adampur,Wheat,Other,FAQ,2015,2100,2050,22 Apr 2022
+683,Hissar,Adampur(Agroha),Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+684,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2019,2022,2020,02 May 2022
+685,Ambala,Barara,Wheat,Other,FAQ,2015,2018,2015,21 Apr 2022
+686,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+687,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2020,23 Apr 2022
+688,Kaithal,Cheeka,Wheat,Other,FAQ,2040,2040,2040,07 May 2022
+689,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,17 Apr 2022
+690,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+691,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,19 May 2022
+692,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+693,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2025,2015,01 Apr 2022
+694,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2025,2015,05 Apr 2022
+695,Jind,Jullana,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+696,Jind,Jullana,Wheat,Other,FAQ,2020,2020,2020,23 May 2022
+697,Jind,Jullana,Wheat,Other,FAQ,2020,2040,2040,07 May 2022
+698,Jind,Jullana,Wheat,Other,FAQ,2020,2050,2040,10 May 2022
+699,Jind,Jullana,Wheat,Other,FAQ,2050,2050,2050,16 May 2022
+700,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2090,2100,2090,06 May 2022
+701,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2115,2115,2115,26 Apr 2022
+702,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2300,2300,2300,18 Apr 2022
+703,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,02 May 2022
+704,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2016,2016,15 Apr 2022
+705,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,02 May 2022
+706,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,03 May 2022
+707,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+708,Ambala,Mullana(saha),Wheat,Other,FAQ,2020,2020,2020,25 Apr 2022
+709,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,03 May 2022
+710,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+711,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,13 Apr 2022
+712,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2020,2020,17 Apr 2022
+713,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2020,2020,25 Apr 2022
+714,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+715,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,29 Apr 2022
+716,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+717,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,11 Apr 2022
+718,Kaithal,Pai,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+719,Kaithal,Pai(Rajaund),Wheat,Other,FAQ,2015,0,2015,19 Apr 2022
+720,Panipat,Panipat,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+721,Panipat,Panipat,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+722,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,07 May 2022
+723,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+724,Kurukshetra,Pipli,Wheat,WL711,FAQ,2015,2025,2015,14 Apr 2022
+725,Rewari,Rewari,Wheat,Other,FAQ,2050,2051,2050,30 May 2022
+726,Rewari,Rewari,Wheat,Other,FAQ,2060,2065,2065,11 Jun 2022
+727,Rewari,Rewari,Wheat,Other,FAQ,2200,2240,2220,29 Apr 2022
+728,Jind,Safidon,Wheat,Other,FAQ,2015,2015,2015,25 May 2022
+729,Jind,Safidon,Wheat,Other,FAQ,2015,2025,2016,14 Apr 2022
+730,Jind,Safidon,Wheat,Other,FAQ,2015,2051,2016,23 Apr 2022
+731,Jind,Safidon,Wheat,Other,FAQ,2016,2016,2016,02 May 2022
+732,Jind,Safidon,Wheat,Other,FAQ,2016,2025,2025,08 May 2022
+733,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2016,2015,06 Apr 2022
+734,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+735,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,21 Apr 2022
+736,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2015,10 May 2022
+737,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+738,Hissar,Adampur,Wheat,Other,FAQ,2015,2050,2015,03 May 2022
+739,Hissar,Adampur,Wheat,Other,FAQ,2041,2041,2041,02 Jun 2022
+740,Hissar,Adampur(Agroha),Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+741,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+742,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,25 Apr 2022
+743,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+744,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,29 Apr 2022
+745,Sirsa,Ding,Wheat,Other,FAQ,2040,2040,2040,28 Apr 2022
+746,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2025,2015,07 Apr 2022
+747,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2025,2025,2025,03 Apr 2022
+748,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2025,2025,2025,09 May 2022
+749,Jind,Jullana,Wheat,Other,FAQ,2015,2015,2015,10 Apr 2022
+750,Jind,Jullana,Wheat,Other,FAQ,2015,2015,2015,26 May 2022
+751,Jind,Jullana,Wheat,Other,FAQ,2015,2020,2015,14 Apr 2022
+752,Jind,Jullana,Wheat,Other,FAQ,2015,2050,2020,25 Apr 2022
+753,Jind,Jullana,Wheat,Other,FAQ,2015,2050,2040,17 Apr 2022
+754,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,09 May 2022
+755,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+756,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,01 May 2022
+757,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+758,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,29 Apr 2022
+759,Ambala,Mullana,Wheat,Other,FAQ,2015,2020,2015,25 Apr 2022
+760,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,02 May 2022
+761,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+762,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,25 Apr 2022
+763,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,19 Apr 2022
+764,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,29 Apr 2022
+765,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2125,2015,22 Apr 2022
+766,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,2015,2021,2015,22 Apr 2022
+767,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,10 Apr 2022
+768,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,22 May 2022
+769,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,12 Apr 2022
+770,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2031,2015,20 Apr 2022
+771,Jind,Pillukhera,Wheat,Other,FAQ,2020,2020,2020,30 Apr 2022
+772,Rewari,Rewari,Wheat,Other,FAQ,2100,2140,2120,18 May 2022
+773,Rewari,Rewari,Wheat,Other,FAQ,2100,2185,2150,12 May 2022
+774,Panipat,Samalkha,Wheat,Other,FAQ,2015,2016,2015,09 Apr 2022
+775,Panipat,Samalkha,Wheat,Other,FAQ,2015,2016,2016,08 Apr 2022
+776,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2016,2016,26 Apr 2022
+777,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2017,2016,28 Apr 2022
+778,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+779,Bhiwani,Siwani,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+780,Bhiwani,Siwani,Wheat,Other,FAQ,2050,2050,2050,12 May 2022
+781,Bhiwani,Siwani,Wheat,Other,FAQ,2050,2050,2050,31 May 2022
+782,Gurgaon,Sohna,Wheat,Other,FAQ,2000,2100,2050,30 Mar 2022
+783,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,14 May 2022
+784,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,27 Apr 2022
+785,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,08 Apr 2022
+786,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,14 Apr 2022
+787,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,16 Apr 2022
+788,Jind,Uchana,Wheat,Other,FAQ,2015,2017,2016,21 Apr 2022
+789,Hissar,Uklana,Wheat,Other,FAQ,2015,2015,2015,05 May 2022
+790,Hissar,Uklana,Wheat,Other,FAQ,2015,2050,2016,26 Apr 2022
+791,Hissar,Uklana,Wheat,Other,FAQ,2020,2020,2020,17 Apr 2022
+792,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,15 Apr 2022
+793,Jind,Uchana,Wheat,Other,FAQ,2040,2045,2040,12 May 2022
+794,Hissar,Uklana,Wheat,Other,FAQ,2015,2040,2015,23 Apr 2022
+795,Hissar,Uklana,Wheat,Other,FAQ,2015,2100,2040,29 Apr 2022
+796,Hissar,Adampur,Wheat,Other,FAQ,2015,2055,2015,17 Apr 2022
+797,Hissar,Adampur,Wheat,Other,FAQ,2020,2020,2020,16 Apr 2022
+798,Hissar,Adampur(Agroha),Wheat,Other,FAQ,2015,2015,2015,27 Apr 2022
+799,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2018,2022,2020,24 Apr 2022
+800,Ambala,Barara,Wheat,Other,FAQ,2015,2020,2015,18 Apr 2022
+801,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2020,2016,11 Apr 2022
+802,Kaithal,Cheeka,Wheat,Other,FAQ,2015,2025,2016,14 Apr 2022
+803,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,09 May 2022
+804,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+805,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,18 Apr 2022
+806,Sirsa,Ding,Wheat,Other,FAQ,2040,2040,2040,26 Apr 2022
+807,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+808,Jind,Jullana,Wheat,Other,FAQ,2015,2055,2020,11 May 2022
+809,Jind,Jullana,Wheat,Other,FAQ,2050,2050,2050,01 May 2022
+810,Kaithal,Kaithal,Wheat,Other,FAQ,2015,2025,2025,15 Apr 2022
+811,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2045,2045,2045,05 May 2022
+812,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2050,2050,2050,09 May 2022
+813,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,28 Apr 2022
+814,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2040,2020,30 Apr 2022
+815,Ambala,Mullana,Wheat,Other,FAQ,2020,2020,2020,21 Apr 2022
+816,Ambala,Mullana,Wheat,Other,FAQ,2020,2020,2020,23 Apr 2022
+817,Ambala,Mullana,Wheat,Other,FAQ,2020,2020,2020,27 Apr 2022
+818,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,01 May 2022
+819,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,20 Apr 2022
+820,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,22 Apr 2022
+821,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,11 May 2022
+822,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,02 May 2022
+823,Mahendragarh-Narnaul,Narnaul,Wheat,Other,FAQ,2025,2025,2025,22 Apr 2022
+824,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+825,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,08 Apr 2022
+826,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,19 Apr 2022
+827,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,28 May 2022
+828,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2015,2015,02 May 2022
+829,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2025,2015,15 Apr 2022
+830,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,04 May 2022
+831,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,08 May 2022
+832,Rewari,Rewari,Wheat,Other,FAQ,2016,2080,2045,09 Apr 2022
+833,Rewari,Rewari,Wheat,Other,FAQ,2020,2070,2040,31 May 2022
+834,Rewari,Rewari,Wheat,Other,FAQ,2021,2032,2025,03 Jun 2022
+835,Rewari,Rewari,Wheat,Other,FAQ,2069,2069,2069,07 Jun 2022
+836,Rewari,Rewari,Wheat,Other,FAQ,2081,2101,2090,28 May 2022
+837,Rewari,Rewari,Wheat,Other,FAQ,2100,2151,2120,19 May 2022
+838,Rewari,Rewari,Wheat,Other,FAQ,2125,2200,2150,25 Apr 2022
+839,Jind,Safidon,Wheat,Other,FAQ,2015,2021,2015,10 Apr 2022
+840,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,07 Apr 2022
+841,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+842,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,25 Apr 2022
+843,Kaithal,Siwan,Wheat,147 Average,FAQ,2015,2015,2015,22 Apr 2022
+844,Bhiwani,Siwani,Wheat,Other,FAQ,2030,2040,2030,18 Apr 2022
+845,Bhiwani,Tosham,Wheat,Other,FAQ,2015,2015,2015,14 Apr 2022
+846,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,09 Apr 2022
+847,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2015,31 May 2022
+848,Jind,Uchana,Wheat,Other,FAQ,2015,2016,2016,28 Apr 2022
+849,Hissar,Uklana,Wheat,Other,FAQ,2015,2025,2016,20 Apr 2022
+850,Hissar,Adampur,Wheat,Other,FAQ,2000,2000,2000,29 Jun 2022
+851,Hissar,Adampur,Wheat,Other,FAQ,2041,2041,2041,25 May 2022
+852,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2018,2022,2020,03 May 2022
+853,Ambala,Ambala City(Subji Mandi),Wheat,147 Average,FAQ,2019,2021,2020,25 Apr 2022
+854,Ambala,Barara,Wheat,Other,FAQ,2015,2020,2015,14 Apr 2022
+855,Ambala,Barara,Wheat,Other,FAQ,2015,2020,2018,20 Apr 2022
+856,Ambala,Barara,Wheat,Other,FAQ,2015,2040,2015,15 Apr 2022
+857,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,2015,2015,2015,23 Apr 2022
+858,Kaithal,Cheeka,Wheat,Other,FAQ,2040,2040,2040,04 May 2022
+859,Kaithal,Dhand,Wheat,Other,FAQ,2015,2015,2015,28 Apr 2022
+860,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,12 Apr 2022
+861,Sirsa,Ding,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+862,Sirsa,Ding,Wheat,Other,FAQ,2015,2020,2015,25 May 2022
+863,Sirsa,Ding,Wheat,Other,FAQ,2020,2020,2020,26 May 2022
+864,Jind,Jullana,Wheat,Other,FAQ,2015,2015,2015,25 May 2022
+865,Jind,Jullana,Wheat,Other,FAQ,2015,2020,2015,15 Apr 2022
+866,Jind,Jullana,Wheat,Other,FAQ,2015,2020,2020,17 May 2022
+867,Jind,Jullana,Wheat,Other,FAQ,2015,2060,2040,22 Apr 2022
+868,Kaithal,Kaithal,Wheat,Other,FAQ,2015,2030,2025,19 Apr 2022
+869,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2015,2100,2015,11 Apr 2022
+870,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2200,2200,2200,27 Apr 2022
+871,Kurukshetra,Ladwa,Wheat,Local,FAQ,2016,2040,2025,04 May 2022
+872,Kurukshetra,Ladwa,Wheat,Other,FAQ,2015,2015,2015,04 May 2022
+873,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,16 May 2022
+874,Ambala,Mullana,Wheat,Other,FAQ,2015,2015,2015,22 Apr 2022
+875,Ambala,Mullana(saha),Wheat,Other,FAQ,2015,2015,2015,29 Apr 2022
+876,Ambala,Naneola,Wheat,Other,FAQ,2015,2015,2015,15 Apr 2022
+877,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,04 Apr 2022
+878,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,06 Apr 2022
+879,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+880,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,07 May 2022
+881,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,21 Apr 2022
+882,Ambala,Naraingarh,Wheat,Other,FAQ,2015,2016,2015,26 Apr 2022
+883,Hissar,Narnaund,Wheat,Other,FAQ,2015,2015,2015,16 Apr 2022
+884,Jind,Narwana,Wheat,Other,FAQ,2015,2015,2015,21 Apr 2022
+885,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,10 May 2022
+886,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,17 Apr 2022
+887,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2015,2015,2015,28 Apr 2022
+888,Karnal,Nigdu,Wheat,Other,FAQ,2015,2020,2015,20 Apr 2022
+889,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2015,2015,07 May 2022
+890,Karnal,Nilokheri,Wheat,Other,FAQ,2015,2015,2015,26 Apr 2022
+891,Kaithal,Pai(Rajaund),Wheat,Other,FAQ,2015,2025,2015,20 Apr 2022
+892,Panipat,Panipat,Wheat,Other,FAQ,2015,2015,2015,11 Apr 2022
+893,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,11 May 2022
+894,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,13 Apr 2022
+895,Jind,Pillukhera,Wheat,Other,FAQ,2015,2015,2015,17 May 2022
+896,Jind,Pillukhera,Wheat,Other,FAQ,2015,2020,2015,20 Apr 2022
+897,Rewari,Rewari,Wheat,Other,FAQ,2021,2021,2021,02 Jun 2022
+898,Rewari,Rewari,Wheat,Other,FAQ,2025,2200,2100,16 Apr 2022
+899,Rewari,Rewari,Wheat,Other,FAQ,2100,2100,2100,16 May 2022
+900,Rewari,Rewari,Wheat,Other,FAQ,2100,2251,2180,02 May 2022
+901,Jind,Safidon,Wheat,Other,FAQ,2015,2025,2016,12 Apr 2022
+902,Jind,Safidon,Wheat,Other,FAQ,2015,2026,2021,15 Apr 2022
+903,Jind,Safidon,Wheat,Other,FAQ,2016,2016,2016,29 May 2022
+904,Jind,Safidon,Wheat,Other,FAQ,2016,2095,2050,29 Apr 2022
+905,Jind,Safidon,Wheat,Other,FAQ,2021,2025,2025,07 Apr 2022
+906,Panipat,Samalkha,Wheat,Other,FAQ,2015,2016,2015,10 Apr 2022
+907,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2015,2015,04 Apr 2022
+908,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2017,2016,14 Apr 2022
+909,Kurukshetra,Shahabad,Wheat,Local,FAQ,2015,2020,2016,22 Apr 2022
+910,Ambala,Shahzadpur,Wheat,Other,FAQ,2015,2015,2015,05 May 2022
+911,Bhiwani,Siwani,Wheat,Other,FAQ,2015,2015,2015,09 Apr 2022
+912,Kurukshetra,Thanesar,Wheat,Other,FAQ,2015,2025,2016,28 Apr 2022
+913,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,18 May 2022
+914,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,24 May 2022
+915,Jind,Uchana,Wheat,Other,FAQ,2016,2016,2016,27 May 2022
+916,Jind,Uchana,Wheat,Other,FAQ,2020,2025,2020,10 May 2022
+917,Jind,Uchana,Wheat,Other,FAQ,2040,2060,2040,14 May 2022
+918,Hissar,Uklana,Wheat,Other,FAQ,2015,2020,2015,18 Apr 2022

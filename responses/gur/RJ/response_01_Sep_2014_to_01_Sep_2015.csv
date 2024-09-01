@@ -1,0 +1,693 @@
+0,1,2,3,4,5,6,7,8,9
+1,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2275,2850,2510,11 Sep 2014
+2,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2280,2810,2730,20 Feb 2015
+3,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2290,2740,2730,02 Jan 2015
+4,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2370,2780,2740,21 Mar 2015
+5,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2390,2775,2725,07 Mar 2015
+6,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2425,2910,2525,13 Oct 2014
+7,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2610,2700,2690,01 Dec 2014
+8,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2610,2710,2690,29 Dec 2014
+9,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,03 Dec 2014
+10,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,10 Feb 2015
+11,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,18 Feb 2015
+12,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2700,2675,07 Jul 2015
+13,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2700,2675,10 Jul 2015
+14,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2850,2725,22 Jun 2015
+15,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,04 Aug 2015
+16,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,17 Dec 2014
+17,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,19 Jan 2015
+18,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2800,2900,2850,24 Apr 2015
+19,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,09 Dec 2014
+20,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,09 Feb 2015
+21,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,23 Dec 2014
+22,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2850,2725,26 Jun 2015
+23,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,10 Nov 2014
+24,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,27 Aug 2015
+25,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,29 Jul 2015
+26,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2300,2390,2350,10 Apr 2015
+27,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2800,2700,04 May 2015
+28,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2750,2850,2800,05 May 2015
+29,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,09 Mar 2015
+30,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,20 Feb 2015
+31,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2600,28 Apr 2015
+32,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2565,2800,2715,03 Feb 2015
+33,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,16 Dec 2014
+34,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,25 Nov 2014
+35,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2625,2850,2755,31 Dec 2014
+36,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,1950,2790,2130,17 Oct 2014
+37,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,1975,2920,2235,27 Oct 2014
+38,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,11 Nov 2014
+39,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2110,2750,2710,02 May 2015
+40,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2140,2785,2730,29 Jul 2015
+41,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2210,2700,2670,26 Nov 2014
+42,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2210,2890,2740,17 Jan 2015
+43,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2250,2790,2425,25 Jul 2015
+44,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2710,2680,18 Feb 2015
+45,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2740,2730,18 Apr 2015
+46,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2540,2740,2680,25 Aug 2015
+47,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2610,2740,2710,10 Dec 2014
+48,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2700,2600,24 Nov 2014
+49,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,06 May 2015
+50,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,26 Feb 2015
+51,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,29 Apr 2015
+52,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2900,2750,13 Jan 2015
+53,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2750,2725,15 May 2015
+54,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,01 Jun 2015
+55,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2800,29 Jul 2015
+56,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,17 Aug 2015
+57,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,24 Jul 2015
+58,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2500,2800,2650,25 Mar 2015
+59,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,04 Mar 2015
+60,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,16 Mar 2015
+61,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2750,13 Feb 2015
+62,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2650,2850,2750,18 Jun 2015
+63,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,18 Dec 2014
+64,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,25 May 2015
+65,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,15 Nov 2014
+66,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,16 Jul 2015
+67,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,20 Jul 2015
+68,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,06 Aug 2015
+69,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,29 Aug 2015
+70,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2310,2378,2345,11 Apr 2015
+71,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2310,2397,2354,28 Apr 2015
+72,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2550,2650,2600,12 Feb 2015
+73,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2700,2650,20 Mar 2015
+74,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,28 Aug 2015
+75,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,23 Feb 2015
+76,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,25 Feb 2015
+77,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2410,11 Jun 2015
+78,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2435,03 Jul 2015
+79,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2475,08 May 2015
+80,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2450,2730,2700,08 Sep 2014
+81,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2550,2800,2700,22 Jan 2015
+82,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,04 Dec 2014
+83,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2640,2850,2750,12 Jan 2015
+84,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2645,2750,2745,05 Nov 2014
+85,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2645,2750,2745,07 Nov 2014
+86,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2150,2780,2710,19 Dec 2014
+87,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2210,2730,2510,25 Nov 2014
+88,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2350,2960,2495,26 Sep 2014
+89,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2400,2790,2710,08 Aug 2015
+90,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2430,2920,2510,14 Oct 2014
+91,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2500,2900,2560,18 Nov 2014
+92,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2610,2780,2670,27 Dec 2014
+93,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2650,2710,2700,19 Nov 2014
+94,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2800,2650,24 Feb 2015
+95,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2800,2650,28 Apr 2015
+96,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,07 Jan 2015
+97,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,04 May 2015
+98,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2700,2675,13 Jul 2015
+99,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2800,3000,2900,13 Nov 2014
+100,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,01 Dec 2014
+101,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,18 Nov 2014
+102,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,28 Nov 2014
+103,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2750,01 Aug 2015
+104,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2800,25 Nov 2014
+105,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,12 Dec 2014
+106,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,04 Feb 2015
+107,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,20 Aug 2015
+108,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3100,3050,27 Oct 2014
+109,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3300,3200,03 Sep 2014
+110,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2250,2350,2300,06 Apr 2015
+111,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2340,2460,2410,18 Apr 2015
+112,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2625,2620,19 Feb 2015
+113,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2675,2655,18 Mar 2015
+114,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2605,2625,2615,25 Feb 2015
+115,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,1800,3000,2400,11 Mar 2015
+116,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,17 Aug 2015
+117,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,24 Feb 2015
+118,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2425,17 Jun 2015
+119,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2450,2730,2700,17 Sep 2014
+120,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2750,2730,23 Sep 2014
+121,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2460,2755,2750,16 Oct 2014
+122,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,21 Nov 2014
+123,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,23 Dec 2014
+124,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2630,2850,2765,07 Jan 2015
+125,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2640,2850,2750,13 Jan 2015
+126,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,1850,3250,3225,03 Nov 2014
+127,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2010,2730,2710,13 Nov 2014
+128,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2010,2735,2711,15 Nov 2014
+129,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2100,2750,2450,07 May 2015
+130,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2250,2800,2450,13 Sep 2014
+131,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2270,2690,2680,02 Dec 2014
+132,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2290,2795,2785,26 Feb 2015
+133,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2300,2725,2690,27 Jan 2015
+134,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2710,2750,2730,30 Dec 2014
+135,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2700,2600,02 Dec 2014
+136,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,17 Jun 2015
+137,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,01 Jul 2015
+138,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,19 May 2015
+139,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,28 Nov 2014
+140,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,31 Dec 2014
+141,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2750,2725,13 May 2015
+142,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2750,2725,14 May 2015
+143,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,08 Dec 2014
+144,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,12 Dec 2014
+145,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,29 Jan 2015
+146,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,15 Dec 2014
+147,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,27 Nov 2014
+148,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,20 Aug 2015
+149,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2500,2700,2600,24 Nov 2014
+150,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2700,2650,05 Jan 2015
+151,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,28 Feb 2015
+152,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2850,2775,04 Jun 2015
+153,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,16 Dec 2014
+154,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,24 Jan 2015
+155,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,14 Aug 2015
+156,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,25 Aug 2015
+157,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3100,3050,29 Oct 2014
+158,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,07 Oct 2014
+159,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2540,2650,2610,17 Feb 2015
+160,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2630,2620,07 Mar 2015
+161,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2700,2650,09 Feb 2015
+162,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2800,2700,23 Feb 2015
+163,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,02 Mar 2015
+164,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,13 Feb 2015
+165,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2590,2500,18 Jul 2015
+166,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2425,29 Jun 2015
+167,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2435,02 Jul 2015
+168,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2450,2730,2700,11 Sep 2014
+169,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2460,2755,2750,21 Oct 2014
+170,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2700,2600,14 Jul 2015
+171,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2700,2600,17 Jul 2015
+172,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2560,2800,2710,02 Feb 2015
+173,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2560,2800,2710,29 Jan 2015
+174,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,05 Dec 2014
+175,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,08 Dec 2014
+176,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2230,2710,2690,20 Nov 2014
+177,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2230,2795,2780,25 Feb 2015
+178,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2600,2670,2610,29 Nov 2014
+179,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2720,2790,2780,05 Feb 2015
+180,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,1600,2800,2700,06 Feb 2015
+181,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2507,2700,2575,13 Aug 2015
+182,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,08 Jul 2015
+183,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,10 Jun 2015
+184,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,03 Mar 2015
+185,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,16 Mar 2015
+186,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,27 Feb 2015
+187,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2850,2750,23 Jun 2015
+188,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,10 Nov 2014
+189,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,23 Jan 2015
+190,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,23 Jul 2015
+191,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,26 Nov 2014
+192,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,18 Aug 2015
+193,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2900,3000,2950,11 Nov 2014
+194,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3100,3300,3200,28 Oct 2014
+195,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,21 May 2015
+196,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,14 Nov 2014
+197,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,17 Jan 2015
+198,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,11 Aug 2015
+199,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2900,06 Jan 2015
+200,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2300,2410,2350,09 Apr 2015
+201,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2305,2366,2340,16 Apr 2015
+202,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2605,2620,2615,27 Feb 2015
+203,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2610,2655,2635,04 Mar 2015
+204,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2620,2660,2640,03 Mar 2015
+205,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,1800,3000,2400,17 Mar 2015
+206,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,25 Aug 2015
+207,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,26 Feb 2015
+208,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2425,15 Jun 2015
+209,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2425,23 Jun 2015
+210,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2480,13 May 2015
+211,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2450,2730,2700,03 Sep 2014
+212,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2450,2730,2700,09 Sep 2014
+213,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2450,2730,2700,16 Sep 2014
+214,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2755,2750,09 Oct 2014
+215,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2550,2800,2700,07 May 2015
+216,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,11 Dec 2014
+217,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,18 Dec 2014
+218,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2610,2850,2750,30 Dec 2014
+219,Sirohi,Abu Road,Gur(Jaggery),Other,FAQ,3100,3175,3150,10 Mar 2015
+220,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,1850,2830,2350,30 Oct 2014
+221,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2230,2790,2780,13 Feb 2015
+222,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2350,2920,2730,26 May 2015
+223,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2430,2910,2450,08 Oct 2014
+224,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2611,2750,2711,12 Dec 2014
+225,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2800,2650,28 Aug 2015
+226,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,05 Jan 2015
+227,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,04 Dec 2014
+228,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,10 Dec 2014
+229,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,19 Feb 2015
+230,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,21 May 2015
+231,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2700,2675,03 Jul 2015
+232,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,27 Jan 2015
+233,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,27 May 2015
+234,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2850,2775,04 Jun 2015
+235,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,08 Jan 2015
+236,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,14 Nov 2014
+237,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,19 Aug 2015
+238,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,25 Aug 2015
+239,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,3100,3050,27 Oct 2014
+240,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2500,2550,2525,29 May 2015
+241,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2700,2650,07 May 2015
+242,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2700,2650,08 May 2015
+243,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,03 Mar 2015
+244,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2750,20 Jan 2015
+245,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,08 Dec 2014
+246,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,06 Nov 2014
+247,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3100,3300,3200,28 Oct 2014
+248,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2660,2650,02 Mar 2015
+249,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2760,2855,2805,06 May 2015
+250,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,28 Jul 2015
+251,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,30 Jul 2015
+252,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,11 Feb 2015
+253,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2400,03 Jun 2015
+254,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2495,23 Jul 2015
+255,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,3000,2500,22 May 2015
+256,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2460,2755,2750,17 Oct 2014
+257,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2460,2755,2750,22 Oct 2014
+258,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2560,2800,2710,30 Jan 2015
+259,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,29 Dec 2014
+260,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,24 Nov 2014
+261,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2640,2750,2745,31 Oct 2014
+262,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,1950,2430,2050,29 Oct 2014
+263,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2200,2750,2700,15 Jan 2015
+264,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2210,2790,2740,12 Feb 2015
+265,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2260,2801,2455,16 Sep 2014
+266,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2750,2725,27 Feb 2015
+267,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2340,2780,2730,03 Mar 2015
+268,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2340,2780,2730,11 Jul 2015
+269,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2340,2790,2730,09 Jul 2015
+270,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2410,2930,2460,07 Oct 2014
+271,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2430,2730,2580,15 Aug 2015
+272,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2615,2710,2680,16 Apr 2015
+273,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2710,2780,2740,03 Feb 2015
+274,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,01 May 2015
+275,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,02 Mar 2015
+276,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,20 Feb 2015
+277,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2850,2750,15 Jun 2015
+278,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,22 Jan 2015
+279,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,11 Aug 2015
+280,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,06 May 2015
+281,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,10 Dec 2014
+282,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,29 Apr 2015
+283,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,03 Jun 2015
+284,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,13 Oct 2014
+285,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,09 Jan 2015
+286,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,18 Aug 2015
+287,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,24 Jul 2015
+288,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,08 Nov 2014
+289,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3300,3200,08 Sep 2014
+290,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3300,3200,11 Sep 2014
+291,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3100,3300,3200,05 Sep 2014
+292,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3100,3300,3200,27 Sep 2014
+293,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2604,2687,2623,24 Mar 2015
+294,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2605,2660,2640,13 Mar 2015
+295,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,24 Aug 2015
+296,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,10 Aug 2015
+297,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,10 Feb 2015
+298,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2400,02 Jun 2015
+299,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2425,2730,2700,02 Sep 2014
+300,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,20 Nov 2014
+301,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2750,2745,12 Nov 2014
+302,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2200,2755,2735,24 Nov 2014
+303,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2200,2760,2740,22 Nov 2014
+304,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2230,2770,2750,16 Jan 2015
+305,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2750,2710,22 Jun 2015
+306,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2780,2730,11 Mar 2015
+307,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2340,2780,2735,27 Jun 2015
+308,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2350,2880,2840,02 Jun 2015
+309,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2380,2710,2630,24 Aug 2015
+310,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,07 May 2015
+311,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,11 May 2015
+312,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2900,2800,25 Nov 2014
+313,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,03 Jun 2015
+314,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,28 Jan 2015
+315,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2700,2650,07 Jan 2015
+316,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,11 May 2015
+317,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,19 Feb 2015
+318,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2750,09 Mar 2015
+319,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,04 Aug 2015
+320,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,15 Dec 2014
+321,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,23 Jul 2015
+322,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,01 Sep 2015
+323,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2800,3000,2900,18 Oct 2014
+324,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2800,3000,2900,22 Oct 2014
+325,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2550,2650,2600,16 Feb 2015
+326,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2605,2645,2626,23 Mar 2015
+327,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2610,2620,2615,09 Mar 2015
+328,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2750,2730,30 Sep 2014
+329,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2460,2755,2750,13 Oct 2014
+330,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2550,2800,2700,21 Jan 2015
+331,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2550,2800,2700,23 Jan 2015
+332,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,15 Dec 2014
+333,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,19 Dec 2014
+334,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2640,2750,2745,30 Oct 2014
+335,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,1960,2910,2230,20 Oct 2014
+336,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2300,2890,2480,24 Sep 2014
+337,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2760,2740,29 Apr 2015
+338,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2780,2730,29 Jun 2015
+339,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2410,2780,2750,21 Aug 2015
+340,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,09 Dec 2014
+341,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,09 Feb 2015
+342,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,19 Dec 2014
+343,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,23 Feb 2015
+344,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,25 Feb 2015
+345,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,29 Dec 2014
+346,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,06 Aug 2015
+347,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,18 Feb 2015
+348,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,19 Nov 2014
+349,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2750,13 Jan 2015
+350,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2650,2700,2675,10 Jul 2015
+351,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2800,3100,3000,14 Oct 2014
+352,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2800,3100,3000,15 Oct 2014
+353,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2300,2360,2340,08 Apr 2015
+354,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2625,2615,14 Mar 2015
+355,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,12 Aug 2015
+356,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2490,20 Jul 2015
+357,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2435,10 Jul 2015
+358,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2460,24 Apr 2015
+359,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2420,2730,2700,01 Sep 2014
+360,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2560,2800,2710,05 Feb 2015
+361,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,28 Nov 2014
+362,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2635,2850,2760,09 Jan 2015
+363,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2660,2750,2740,13 Nov 2014
+364,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2200,2720,2710,06 Jan 2015
+365,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2211,2711,2675,27 Nov 2014
+366,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2790,2745,11 Jun 2015
+367,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2810,2720,31 Jul 2015
+368,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2350,2860,2830,03 Jun 2015
+369,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2600,2680,2660,20 Apr 2015
+370,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,19 Nov 2014
+371,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,30 Dec 2014
+372,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2900,2750,13 Feb 2015
+373,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2750,2725,18 May 2015
+374,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,11 Dec 2014
+375,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,18 Dec 2014
+376,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,04 Feb 2015
+377,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,05 Aug 2015
+378,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,15 Jan 2015
+379,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,07 Aug 2015
+380,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,10 Mar 2015
+381,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,12 Aug 2015
+382,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,24 Aug 2015
+383,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,28 Jul 2015
+384,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,11 Mar 2015
+385,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,15 Jul 2015
+386,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,22 Dec 2014
+387,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,26 Feb 2015
+388,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,10 Oct 2014
+389,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,05 Feb 2015
+390,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,17 Nov 2014
+391,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,26 Nov 2014
+392,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2900,3000,2950,11 Nov 2014
+393,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,05 Nov 2014
+394,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3300,3200,02 Oct 2014
+395,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3100,3200,3150,30 Sep 2014
+396,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3100,3300,3200,25 Sep 2014
+397,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2250,2340,2300,27 Mar 2015
+398,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2304,2383,2353,29 Apr 2015
+399,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2320,2410,2365,24 Apr 2015
+400,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2350,2450,2400,17 Apr 2015
+401,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2500,2650,2600,05 Feb 2015
+402,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2550,2650,2600,10 Feb 2015
+403,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2700,2650,11 Feb 2015
+404,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2630,2700,2680,11 Mar 2015
+405,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2800,2900,2850,01 May 2015
+406,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,1800,3000,2400,16 Mar 2015
+407,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,07 Aug 2015
+408,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,19 Feb 2015
+409,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2425,16 Jun 2015
+410,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2425,24 Jun 2015
+411,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2435,08 Jul 2015
+412,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,3000,2500,21 May 2015
+413,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2480,12 May 2015
+414,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2550,2800,2700,15 Jan 2015
+415,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2200,2710,2610,11 Feb 2015
+416,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2200,2810,2710,10 Jan 2015
+417,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2450,2950,2730,03 Sep 2014
+418,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,08 May 2015
+419,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,04 Mar 2015
+420,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,15 Jul 2015
+421,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,29 Jun 2015
+422,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,29 Nov 2014
+423,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2750,2725,12 May 2015
+424,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2750,03 Aug 2015
+425,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,05 Feb 2015
+426,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,16 Jul 2015
+427,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,21 Aug 2015
+428,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2800,3000,2900,22 Oct 2014
+429,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,3200,3100,03 Nov 2014
+430,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,3200,3100,07 Nov 2014
+431,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,3200,3100,30 Oct 2014
+432,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2700,2650,07 Jul 2015
+433,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,04 Dec 2014
+434,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,04 May 2015
+435,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,17 Mar 2015
+436,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,18 Mar 2015
+437,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2750,21 Jan 2015
+438,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2650,2700,2675,06 Jul 2015
+439,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,09 Oct 2014
+440,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,13 Dec 2014
+441,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,28 Jan 2015
+442,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2850,2775,08 Jun 2015
+443,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,12 Jan 2015
+444,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,22 Aug 2015
+445,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2800,3000,2900,16 Oct 2014
+446,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,01 Nov 2014
+447,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2300,2400,2350,30 Mar 2015
+448,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2305,2378,2344,25 Apr 2015
+449,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2550,2650,2600,06 Feb 2015
+450,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2620,2610,18 Feb 2015
+451,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2650,2630,10 Mar 2015
+452,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2610,2620,2615,01 Mar 2015
+453,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2610,2630,2620,26 Feb 2015
+454,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2610,2635,2625,19 Mar 2015
+455,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2610,2635,2630,15 Mar 2015
+456,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2615,2655,2635,17 Mar 2015
+457,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,05 Aug 2015
+458,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,16 Feb 2015
+459,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2425,30 Jun 2015
+460,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2430,01 Jul 2015
+461,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2435,06 Jul 2015
+462,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,3000,2500,26 May 2015
+463,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2750,2720,19 Sep 2014
+464,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2750,2725,22 Sep 2014
+465,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2460,2755,2750,20 Oct 2014
+466,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2200,2710,2610,10 Feb 2015
+467,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2210,2750,2730,21 Nov 2014
+468,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2690,2710,2700,09 Dec 2014
+469,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2800,2650,21 Jul 2015
+470,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,09 Jun 2015
+471,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,22 May 2015
+472,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2900,2800,05 Dec 2014
+473,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2850,2750,18 Jun 2015
+474,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2850,2750,19 Jun 2015
+475,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,20 Jul 2015
+476,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,14 Aug 2015
+477,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2900,06 Jan 2015
+478,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2800,2900,2850,12 Nov 2014
+479,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2800,2900,2850,27 Apr 2015
+480,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,3200,3100,31 Oct 2014
+481,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2700,2650,10 Jun 2015
+482,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,01 Jul 2015
+483,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,11 Feb 2015
+484,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,13 Mar 2015
+485,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,21 Nov 2014
+486,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2750,03 Aug 2015
+487,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2650,2850,2750,22 Jun 2015
+488,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2750,2725,16 May 2015
+489,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,19 Jan 2015
+490,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,10 Aug 2015
+491,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2800,3000,2900,17 Oct 2014
+492,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3300,3200,02 Sep 2014
+493,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2500,2700,2600,15 Feb 2015
+494,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2615,2605,28 Feb 2015
+495,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,3500,2500,27 May 2015
+496,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2475,30 Apr 2015
+497,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2490,15 May 2015
+498,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2460,2755,2750,15 Oct 2014
+499,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2560,2800,2710,09 Feb 2015
+500,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,22 Dec 2014
+501,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2630,2850,2765,05 Jan 2015
+502,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2630,2850,2765,06 Jan 2015
+503,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2640,2750,2750,27 Oct 2014
+504,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2645,2750,2745,10 Nov 2014
+505,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2700,18 Nov 2014
+506,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2550,2800,2700,16 Jan 2015
+507,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,10 Dec 2014
+508,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,26 Nov 2014
+509,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2720,2750,2730,14 Nov 2014
+510,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2560,2800,2700,28 Jan 2015
+511,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,19 Nov 2014
+512,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,09 Dec 2014
+513,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2630,2850,2760,01 Jan 2015
+514,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2725,2750,2730,17 Nov 2014
+515,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2100,2750,2100,30 Apr 2015
+516,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2210,2840,2640,18 Jun 2015
+517,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2790,2710,21 Jan 2015
+518,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2340,2780,2775,25 Mar 2015
+519,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2390,2970,2480,29 Sep 2014
+520,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2425,2910,2530,10 Oct 2014
+521,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2750,2675,12 Jun 2015
+522,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,01 Dec 2014
+523,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,11 Mar 2015
+524,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,21 Nov 2014
+525,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,26 May 2015
+526,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,17 Nov 2014
+527,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,10 Aug 2015
+528,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2500,2700,2600,02 Dec 2014
+529,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2500,2700,2600,18 Jul 2015
+530,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2500,2800,2650,21 Jul 2015
+531,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,20 Dec 2014
+532,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,23 May 2015
+533,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,30 Dec 2014
+534,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2850,2750,20 Jun 2015
+535,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2800,05 Dec 2014
+536,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2800,06 Dec 2014
+537,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2850,2775,05 Jun 2015
+538,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,24 Aug 2015
+539,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,31 Oct 2014
+540,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3100,3300,3200,15 Sep 2014
+541,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2300,2480,2420,23 Apr 2015
+542,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2306,2410,2360,30 Apr 2015
+543,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2400,2500,2450,31 Mar 2015
+544,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,1800,3000,2400,10 Mar 2015
+545,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,01 Sep 2015
+546,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,20 Aug 2015
+547,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,04 Aug 2015
+548,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,31 Jul 2015
+549,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,03 Mar 2015
+550,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,18 Feb 2015
+551,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2495,22 Jul 2015
+552,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2400,04 Jun 2015
+553,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2435,07 Jul 2015
+554,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2435,09 Jul 2015
+555,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,3000,2500,29 May 2015
+556,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2480,11 May 2015
+557,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2490,18 May 2015
+558,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2750,2715,18 Sep 2014
+559,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2750,2740,07 Oct 2014
+560,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2755,2750,10 Oct 2014
+561,Sirohi,Abu Road,Gur(Jaggery),Other,FAQ,2975,3025,3000,08 Jan 2015
+562,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2190,2730,2615,03 Dec 2014
+563,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2230,2780,2710,31 Dec 2014
+564,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2250,2800,2450,09 Sep 2014
+565,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2810,2790,16 Jun 2015
+566,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2480,2710,2490,31 Aug 2015
+567,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2700,2650,20 Nov 2014
+568,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,23 Dec 2014
+569,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,25 May 2015
+570,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,30 Jan 2015
+571,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2900,2750,21 Jan 2015
+572,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2650,2700,2675,06 Jul 2015
+573,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2800,2750,02 Jun 2015
+574,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,02 Feb 2015
+575,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,02 Jan 2015
+576,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,12 Jan 2015
+577,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,22 Jul 2015
+578,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,26 Dec 2014
+579,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2800,3000,2900,21 Oct 2014
+580,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2500,2700,2600,20 Mar 2015
+581,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2700,2650,20 May 2015
+582,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,02 Mar 2015
+583,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,03 Dec 2014
+584,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,12 Mar 2015
+585,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,16 Feb 2015
+586,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,23 Feb 2015
+587,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,29 Dec 2014
+588,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,29 Jan 2015
+589,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,01 Jan 2015
+590,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,03 Feb 2015
+591,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,10 Jan 2015
+592,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,27 Nov 2014
+593,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2800,3000,2900,20 Oct 2014
+594,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,03 Nov 2014
+595,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,29 Sep 2014
+596,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2300,2360,2330,15 Apr 2015
+597,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2648,2640,26 Mar 2015
+598,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2600,2680,2650,21 Mar 2015
+599,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2610,2630,2620,20 Feb 2015
+600,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2610,2630,2625,12 Mar 2015
+601,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,11 Aug 2015
+602,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,06 Aug 2015
+603,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,04 Mar 2015
+604,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2470,27 Apr 2015
+605,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2750,2735,01 Oct 2014
+606,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2800,2700,14 Jan 2015
+607,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2550,2800,2700,19 Jan 2015
+608,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2550,2800,2700,27 Jan 2015
+609,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,12 Dec 2014
+610,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,27 Nov 2014
+611,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2635,2850,2770,08 Jan 2015
+612,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,1971,2915,2235,22 Oct 2014
+613,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2210,2790,2610,20 Dec 2014
+614,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2780,2730,19 Mar 2015
+615,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2410,2930,2630,15 Oct 2014
+616,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2480,2680,2590,28 Aug 2015
+617,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2300,2800,2650,12 Feb 2015
+618,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2600,2500,14 Jul 2015
+619,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2750,2700,24 Jun 2015
+620,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,22 Dec 2014
+621,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,16 Dec 2014
+622,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,3100,3050,29 Oct 2014
+623,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2700,2650,20 Nov 2014
+624,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,29 Nov 2014
+625,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,30 Jan 2015
+626,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,31 Dec 2014
+627,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2650,2800,2725,16 Jun 2015
+628,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,07 Aug 2015
+629,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,15 Aug 2015
+630,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2800,2900,2850,12 Nov 2014
+631,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2300,2370,2350,13 Apr 2015
+632,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2300,2500,2400,07 Apr 2015
+633,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2550,2650,2600,13 Feb 2015
+634,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,1800,3000,2400,12 Mar 2015
+635,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,1800,3000,2400,13 Mar 2015
+636,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,1800,3000,2400,18 Mar 2015
+637,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,19 Aug 2015
+638,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,12 Feb 2015
+639,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2350,27 Feb 2015
+640,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2495,21 Jul 2015
+641,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2420,12 Jun 2015
+642,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2455,2750,2730,24 Oct 2014
+643,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2700,2600,11 Jul 2015
+644,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2550,2800,2700,20 Jan 2015
+645,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2560,2800,2710,06 Feb 2015
+646,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2640,2750,2745,03 Nov 2014
+647,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2645,2750,2745,11 Nov 2014
+648,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2640,2750,2745,29 Oct 2014
+649,Sirohi,Abu Road,Gur(Jaggery),Other,FAQ,2330,2350,2340,08 Aug 2015
+650,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2310,2720,2710,15 Apr 2015
+651,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2340,2745,2730,30 Jun 2015
+652,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2590,2730,2600,23 Dec 2014
+653,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2610,2700,2680,27 Mar 2015
+654,Ajmer,Ajmer (Grain),Gur(Jaggery),Other,FAQ,2700,2740,2710,13 Apr 2015
+655,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2500,2700,2600,17 Jul 2015
+656,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2750,2675,11 Jun 2015
+657,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,12 Mar 2015
+658,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,16 Feb 2015
+659,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2700,24 Dec 2014
+660,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2850,2725,30 Jun 2015
+661,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,03 Feb 2015
+662,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,09 Jan 2015
+663,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,2900,2800,16 Jan 2015
+664,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2700,3000,2850,31 Aug 2015
+665,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2800,3000,2900,20 Oct 2014
+666,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,3100,3050,05 Nov 2014
+667,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2700,2700,19 May 2015
+668,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2800,2700,19 Dec 2014
+669,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2850,2700,29 Jun 2015
+670,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2600,2900,2750,14 Jan 2015
+671,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2650,2700,2675,09 Jul 2015
+672,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2800,2750,11 Oct 2014
+673,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,2900,2800,02 Feb 2015
+674,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2700,3000,2850,21 Aug 2015
+675,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,2800,3000,2900,21 Oct 2014
+676,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,04 Nov 2014
+677,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3000,3200,3100,07 Nov 2014
+678,Jaipur,Jaipur(Grain)(Chandpole),Gur(Jaggery),Other,FAQ,3100,3300,3200,17 Sep 2014
+679,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2306,2389,2356,27 Apr 2015
+680,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2602,2678,2654,25 Mar 2015
+681,Chittorgarh,Kapasan,Gur(Jaggery),Yellow,FAQ,2605,2630,2620,16 Mar 2015
+682,Churu,Sadulpur,Gur(Jaggery),Other,FAQ,2200,2200,2200,30 Mar 2015
+683,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2450,2300,18 Aug 2015
+684,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2300,08 Aug 2015
+685,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2500,2490,27 Jul 2015
+686,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2400,08 Jun 2015
+687,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2000,2900,2400,10 Jun 2015
+688,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2460,22 Apr 2015
+689,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2400,2800,2475,04 May 2015
+690,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2725,02 Dec 2014
+691,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2600,2800,2730,01 Dec 2014
+692,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,2630,2850,2760,02 Jan 2015

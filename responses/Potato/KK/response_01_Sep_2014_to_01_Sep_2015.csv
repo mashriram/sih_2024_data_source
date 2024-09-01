@@ -1,0 +1,2792 @@
+0,1,2,3,4,5,6,7,8,9
+1,Hassan,Arasikere,Potato,Local,FAQ,1000,1000,1000,28 May 2015
+2,Bangalore,Bangalore,Potato,Chips,FAQ,1000,1300,1200,18 Apr 2015
+3,Bangalore,Bangalore,Potato,Chips,FAQ,1000,1400,1200,03 Aug 2015
+4,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,08 Apr 2015
+5,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,26 Aug 2015
+6,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1500,1400,15 Jun 2015
+7,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,07 Jul 2015
+8,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,18 Jun 2015
+9,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,27 Jun 2015
+10,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1700,1600,29 Jan 2015
+11,Bangalore,Bangalore,Potato,Chips,FAQ,1700,1900,1800,06 Feb 2015
+12,Bangalore,Bangalore,Potato,Chips,Large,1400,1600,1500,30 Jan 2015
+13,Bangalore,Bangalore,Potato,Chips,Medium,2000,2400,2200,16 Sep 2014
+14,Bangalore,Bangalore,Potato,Chips,Medium,2600,3000,2800,28 Oct 2014
+15,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,18 Jun 2015
+16,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,03 Aug 2015
+17,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,950,26 Mar 2015
+18,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,950,31 Mar 2015
+19,Bangalore,Bangalore,Potato,Potato,FAQ,600,1300,1000,21 May 2015
+20,Bangalore,Bangalore,Potato,Potato,FAQ,600,1400,1000,18 Mar 2015
+21,Bangalore,Bangalore,Potato,Potato,FAQ,700,1400,1100,20 Feb 2015
+22,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,11 May 2015
+23,Bangalore,Bangalore,Potato,Potato,FAQ,800,1300,1000,10 Apr 2015
+24,Bangalore,Bangalore,Potato,Potato,FAQ,900,1200,1100,25 Apr 2015
+25,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,07 Feb 2015
+26,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,08 Jan 2015
+27,Bangalore,Bangalore,Potato,Potato,Medium,1200,1700,1450,26 Dec 2014
+28,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1400,21 Feb 2015
+29,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,800,18 Jun 2015
+30,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,800,24 Jul 2015
+31,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1000,26 Jun 2015
+32,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1160,24 Apr 2015
+33,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,31 Jul 2015
+34,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,31 May 2015
+35,Belgaum,Belgaum,Potato,Local,FAQ,800,1100,1000,14 Jun 2015
+36,Belgaum,Belgaum,Potato,Local,FAQ,900,2600,1500,08 Jan 2015
+37,Belgaum,Belgaum,Potato,Local,Medium,900,2400,1500,14 Sep 2014
+38,Belgaum,Belgaum,Potato,Local,Medium,900,2600,1500,05 Nov 2014
+39,Belgaum,Belgaum,Potato,Local,Medium,900,2600,1500,07 Nov 2014
+40,Hassan,Belur,Potato,Chandermukhi,FAQ,700,700,700,04 Aug 2015
+41,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,23 Feb 2015
+42,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,1000,1000,1000,27 Sep 2014
+43,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,29 Sep 2014
+44,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,800,18 May 2015
+45,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,1000,04 Jul 2015
+46,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1100,900,12 Aug 2015
+47,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1000,08 Jun 2015
+48,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1000,10 Jun 2015
+49,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1100,26 Aug 2015
+50,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1700,1600,03 Jan 2015
+51,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1200,1100,09 Mar 2015
+52,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1200,1100,21 Feb 2015
+53,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1600,1500,14 Jan 2015
+54,Hassan,Arasikere,Potato,Local,FAQ,1000,1000,1000,02 Jun 2015
+55,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,18 Mar 2015
+56,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,24 Aug 2015
+57,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1500,1450,09 Mar 2015
+58,Bangalore,Bangalore,Potato,Chips,FAQ,1600,1800,1700,02 Jan 2015
+59,Bangalore,Bangalore,Potato,Chips,FAQ,1700,1900,1800,05 Feb 2015
+60,Bangalore,Bangalore,Potato,Chips,FAQ,1800,2100,1900,24 Jan 2015
+61,Bangalore,Bangalore,Potato,Chips,Large,650,750,700,16 Feb 2015
+62,Bangalore,Bangalore,Potato,Chips,Medium,2000,2600,2400,27 Sep 2014
+63,Bangalore,Bangalore,Potato,Chips,Medium,2300,2600,2400,20 Sep 2014
+64,Bangalore,Bangalore,Potato,Chips,Medium,2400,2600,2450,22 Sep 2014
+65,Bangalore,Bangalore,Potato,Chips,Medium,2400,3000,2700,27 Oct 2014
+66,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,1000,02 Mar 2015
+67,Bangalore,Bangalore,Potato,Potato,FAQ,700,900,800,14 Aug 2015
+68,Bangalore,Bangalore,Potato,Potato,FAQ,700,1300,1100,23 Apr 2015
+69,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,21 Aug 2015
+70,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,06 Jul 2015
+71,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,27 Jun 2015
+72,Bangalore,Bangalore,Potato,Potato,FAQ,800,1150,950,01 Jul 2015
+73,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,14 Jul 2015
+74,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1050,12 May 2015
+75,Bangalore,Bangalore,Potato,Potato,FAQ,800,1300,1100,06 Feb 2015
+76,Bangalore,Bangalore,Potato,Potato,FAQ,800,1300,1150,13 Mar 2015
+77,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1500,1300,23 Jan 2015
+78,Bangalore,Bangalore,Potato,Potato,Medium,1100,1300,1200,30 Dec 2014
+79,Bangalore,Bangalore,Potato,Potato,Medium,2000,2400,2200,22 Nov 2014
+80,Kolar,Bangarpet,Potato,Jalander,Medium,2000,3500,2600,15 Sep 2014
+81,Kolar,Bangarpet,Potato,Local,FAQ,1000,1400,1200,23 Mar 2015
+82,Kolar,Bangarpet,Potato,Local,FAQ,1000,1600,1200,09 Apr 2015
+83,Kolar,Bangarpet,Potato,Local,FAQ,1000,1800,1400,02 Jan 2015
+84,Kolar,Bangarpet,Potato,Local,FAQ,1000,1800,1400,15 Jan 2015
+85,Kolar,Bangarpet,Potato,Local,FAQ,1200,1500,1300,18 Apr 2015
+86,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1400,27 Jan 2015
+87,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,900,02 Aug 2015
+88,Belgaum,Belgaum,Potato,Local,FAQ,600,1200,1000,10 May 2015
+89,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1200,14 Feb 2015
+90,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1200,27 Mar 2015
+91,Belgaum,Belgaum,Potato,Local,FAQ,600,1700,1230,05 Feb 2015
+92,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,900,21 Aug 2015
+93,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,900,13 May 2015
+94,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,900,27 Jun 2015
+95,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,14 Aug 2015
+96,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,29 Jul 2015
+97,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1100,18 Mar 2015
+98,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1200,17 Apr 2015
+99,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1230,12 Feb 2015
+100,Belgaum,Belgaum,Potato,Local,FAQ,800,1500,1200,05 Apr 2015
+101,Belgaum,Belgaum,Potato,Local,FAQ,800,1600,1300,11 Mar 2015
+102,Belgaum,Belgaum,Potato,Local,FAQ,800,1700,1300,21 Jan 2015
+103,Belgaum,Belgaum,Potato,Local,FAQ,900,1300,1000,10 Jun 2015
+104,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1400,18 Jan 2015
+105,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1400,19 Jan 2015
+106,Belgaum,Belgaum,Potato,Local,Medium,900,2400,1500,15 Sep 2014
+107,Hassan,Arasikere,Potato,Local,FAQ,1000,1000,1000,06 Jul 2015
+108,Hassan,Arasikere,Potato,Local,Medium,2000,2000,2000,30 Jan 2015
+109,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1000,1400,1200,11 Aug 2015
+110,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1000,1600,1300,17 Jan 2015
+111,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1400,1600,1500,02 Mar 2015
+112,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,16 Apr 2015
+113,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,18 Aug 2015
+114,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,27 Mar 2015
+115,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1600,1400,03 Mar 2015
+116,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,19 Aug 2015
+117,Bangalore,Bangalore,Potato,Chips,Medium,2200,2400,2300,20 Oct 2014
+118,Bangalore,Bangalore,Potato,Local,FAQ,1300,1400,1350,09 Mar 2015
+119,Bangalore,Bangalore,Potato,Local,Medium,1800,2000,1900,25 Nov 2014
+120,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,900,28 Mar 2015
+121,Bangalore,Bangalore,Potato,Potato,FAQ,700,1400,1100,11 Mar 2015
+122,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,29 Aug 2015
+123,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,07 Jul 2015
+124,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,10 Jun 2015
+125,Bangalore,Bangalore,Potato,Potato,FAQ,800,1400,1100,07 Mar 2015
+126,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1500,1450,06 Jan 2015
+127,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1500,1450,07 Jan 2015
+128,Bangalore,Bangalore,Potato,Potato,Medium,2000,2300,2200,25 Oct 2014
+129,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3200,2200,22 Sep 2014
+130,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3200,2400,21 Nov 2014
+131,Kolar,Bangarpet,Potato,Jalander,Medium,1900,3200,2400,26 Sep 2014
+132,Kolar,Bangarpet,Potato,Jalander,Medium,2100,3600,2400,23 Sep 2014
+133,Kolar,Bangarpet,Potato,Local,FAQ,1000,1400,1200,30 Apr 2015
+134,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1400,02 Mar 2015
+135,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,960,16 Aug 2015
+136,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,900,15 May 2015
+137,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,900,04 Jul 2015
+138,Belgaum,Belgaum,Potato,Local,FAQ,700,1800,1340,29 Jan 2015
+139,Belgaum,Belgaum,Potato,Local,FAQ,800,1100,1000,22 Aug 2015
+140,Belgaum,Belgaum,Potato,Local,FAQ,800,1300,1100,27 Feb 2015
+141,Belgaum,Belgaum,Potato,Local,FAQ,900,2400,1500,02 Jan 2015
+142,Belgaum,Belgaum,Potato,Local,Medium,800,2100,1400,12 Nov 2014
+143,Belgaum,Belgaum,Potato,Local,Medium,1000,2500,1600,17 Sep 2014
+144,Hassan,Belur,Potato,Chandermukhi,FAQ,700,700,700,03 Aug 2015
+145,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,1000,1000,1000,01 Jun 2015
+146,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,1000,1000,1000,09 Sep 2014
+147,Kolar,Chickkaballapura,Potato,Jalander,FAQ,900,1400,1075,26 Aug 2015
+148,Kolar,Chickkaballapura,Potato,Jalander,FAQ,2000,4000,2150,23 Jan 2015
+149,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,12 Oct 2014
+150,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,800,20 May 2015
+151,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1100,11 Mar 2015
+152,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1100,22 Aug 2015
+153,Kolar,Chickkaballapura,Potato,Local,FAQ,500,1800,1700,21 Jan 2015
+154,Kolar,Chickkaballapura,Potato,Local,Large,500,1600,1400,02 Feb 2015
+155,Kolar,Chickkaballapura,Potato,Local,Large,500,2400,2200,17 Nov 2014
+156,Kolar,Chickkaballapura,Potato,Local,Medium,400,1600,1500,27 Dec 2014
+157,Kolar,Chickkaballapura,Potato,Local,Medium,2000,2200,2100,10 Sep 2014
+158,Kolar,Chickkaballapura,Potato,Local,Medium,2000,2200,2100,27 Sep 2014
+159,Belgaum,Belgaum,Potato,Local,Medium,1000,2200,1500,25 Oct 2014
+160,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,500,500,500,02 Mar 2015
+161,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,600,600,600,25 Sep 2014
+162,Kolar,Chickkaballapura,Potato,Jalander,FAQ,900,1150,1075,21 Aug 2015
+163,Kolar,Chickkaballapura,Potato,Jalander,FAQ,2000,4000,2150,14 Jan 2015
+164,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,10 Oct 2014
+165,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,25 Nov 2014
+166,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,1000,27 Jun 2015
+167,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1000,900,05 Aug 2015
+168,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1200,1100,14 Mar 2015
+169,Kolar,Chickkaballapura,Potato,Local,FAQ,500,1800,1700,17 Jan 2015
+170,Kolar,Chickkaballapura,Potato,Local,Medium,400,1800,1650,15 Dec 2014
+171,Kolar,Chickkaballapura,Potato,Local,Medium,500,2300,2000,07 Dec 2014
+172,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,700,1200,900,29 Aug 2015
+173,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1400,1200,13 Feb 2015
+174,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1700,2200,2000,17 Sep 2014
+175,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,29 May 2015
+176,Hassan,Hassan,Potato,Potato,FAQ,636,1000,814,09 Apr 2015
+177,Hassan,Hassan,Potato,Potato,FAQ,700,800,800,10 Jun 2015
+178,Hassan,Hassan,Potato,Potato,FAQ,753,1299,1000,19 Mar 2015
+179,Hassan,Hassan,Potato,Potato,FAQ,900,1000,900,29 May 2015
+180,Hassan,Hassan,Potato,Potato,FAQ,955,1000,1000,25 Feb 2015
+181,Hassan,Hassan,Potato,Potato,FAQ,1039,1039,1039,24 Mar 2015
+182,Hassan,Hassan,Potato,Potato,Medium,846,1995,900,16 Oct 2014
+183,Hassan,Hassan,Potato,Potato,Medium,1580,2083,1800,27 Nov 2014
+184,Hassan,Hassan,Potato,Potato,Medium,1853,2021,2021,27 Dec 2014
+185,Chitradurga,Holalkere,Potato,Potato,Medium,1400,1400,1400,03 Nov 2014
+186,Chitradurga,Holalkere,Potato,Potato,Medium,2000,2000,2000,17 Oct 2014
+187,Hassan,Holenarsipura,Potato,Local,FAQ,500,500,500,30 Aug 2015
+188,Bangalore,Hoskote,Potato,Local,FAQ,500,545,535,23 Jun 2015
+189,Bangalore,Hoskote,Potato,Local,FAQ,1200,2500,2000,30 Sep 2014
+190,Bangalore,Hoskote,Potato,Local,FAQ,1500,2500,2200,28 Jan 2015
+191,Bangalore,Hoskote,Potato,Local,FAQ,1700,1900,1800,06 Jun 2015
+192,Bellary,Hospet,Potato,Other,FAQ,1100,1100,1100,16 May 2015
+193,Bellary,Hospet,Potato,Potato,FAQ,1000,1600,1000,22 Aug 2015
+194,Bellary,Hospet,Potato,Potato,Medium,800,1200,900,01 Sep 2015
+195,Bellary,Hospet,Potato,Potato,Medium,800,1200,1000,11 May 2015
+196,Bellary,Hospet,Potato,Potato,Medium,800,1300,1100,16 Jun 2015
+197,Bellary,Hospet,Potato,Potato,Medium,1000,1000,1000,29 Jul 2015
+198,Bellary,Hospet,Potato,Potato,Medium,1000,1900,1000,16 Mar 2015
+199,Bellary,Hospet,Potato,Potato,Medium,1200,1200,1200,06 Jul 2015
+200,Bellary,Hospet,Potato,Potato,Medium,1500,2600,1800,19 Nov 2014
+201,Bellary,Hospet,Potato,Potato,Medium,1600,1600,1600,07 Feb 2015
+202,Bellary,Hospet,Potato,Potato,Medium,1800,1800,1800,13 Dec 2014
+203,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1600,1800,1700,02 Jan 2015
+204,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2600,1700,11 Sep 2014
+205,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2600,1800,13 Sep 2014
+206,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1800,2900,2400,05 Sep 2014
+207,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,900,700,04 Jun 2015
+208,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1370,1250,07 Mar 2015
+209,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1050,1050,1050,04 Mar 2015
+210,Dharwad,Hubli (Amaragol),Potato,Other,Medium,400,800,600,16 Apr 2015
+211,Kolar,Chickkaballapura,Potato,Local,Large,500,1600,1400,31 Jan 2015
+212,Kolar,Chickkaballapura,Potato,Local,Large,600,2200,2000,05 Dec 2014
+213,Kolar,Chickkaballapura,Potato,Local,Medium,500,2300,2100,03 Dec 2014
+214,Kolar,Chickkaballapura,Potato,Local,Medium,600,2200,2000,01 Dec 2014
+215,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,01 Sep 2015
+216,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,07 Aug 2015
+217,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1100,900,27 Mar 2015
+218,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,18 May 2015
+219,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,20 May 2015
+220,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,25 Jul 2015
+221,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,29 May 2015
+222,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1700,2200,2000,28 Jan 2015
+223,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2200,2000,13 Jan 2015
+224,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1550,2000,1800,08 Sep 2014
+225,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1700,2100,1900,19 Sep 2014
+226,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1700,2200,2000,28 Jan 2015
+227,Davangere,Davangere,Potato,Potato,FAQ,1100,1200,1150,21 Aug 2015
+228,Davangere,Davangere,Potato,Potato,FAQ,1200,1300,1250,19 Jun 2015
+229,Hassan,Hassan,Potato,Potato,FAQ,600,600,600,03 Feb 2015
+230,Hassan,Hassan,Potato,Potato,FAQ,699,854,800,23 Apr 2015
+231,Hassan,Hassan,Potato,Potato,FAQ,700,800,700,17 Aug 2015
+232,Hassan,Hassan,Potato,Potato,FAQ,708,1090,1041,26 Feb 2015
+233,Hassan,Hassan,Potato,Potato,FAQ,800,800,800,16 Jun 2015
+234,Hassan,Hassan,Potato,Potato,FAQ,800,800,800,27 Mar 2015
+235,Hassan,Hassan,Potato,Potato,FAQ,900,1000,1000,27 May 2015
+236,Hassan,Hassan,Potato,Potato,FAQ,982,1299,1200,19 Feb 2015
+237,Hassan,Hassan,Potato,Potato,FAQ,984,984,984,23 Jun 2015
+238,Hassan,Hassan,Potato,Potato,FAQ,1000,1000,1000,16 May 2015
+239,Hassan,Hassan,Potato,Potato,Medium,1258,2190,1908,30 Oct 2014
+240,Hassan,Hassan,Potato,Potato,Medium,2281,2281,2281,05 Dec 2014
+241,Hassan,Holenarsipura,Potato,Local,FAQ,500,500,500,10 Aug 2015
+242,Hassan,Holenarsipura,Potato,Local,FAQ,600,600,600,24 Aug 2015
+243,Hassan,Holenarsipura,Potato,Local,Medium,500,500,500,07 Oct 2014
+244,Hassan,Holenarsipura,Potato,Local,Medium,625,625,625,27 Sep 2014
+245,Hassan,Holenarsipura,Potato,Local,Medium,800,800,800,09 Oct 2014
+246,Hassan,Holenarsipura,Potato,Local,Medium,1000,1000,1000,28 Oct 2014
+247,Bangalore,Hoskote,Potato,Local,FAQ,1000,1500,1200,11 Mar 2015
+248,Bangalore,Hoskote,Potato,Local,FAQ,1600,1750,1700,22 May 2015
+249,Bellary,Hospet,Potato,Potato,Medium,1000,1200,1100,07 Jul 2015
+250,Bellary,Hospet,Potato,Potato,Medium,1000,2000,1500,11 Nov 2014
+251,Bellary,Hospet,Potato,Potato,Medium,1100,2000,1700,15 Sep 2014
+252,Bellary,Hospet,Potato,Potato,Medium,1200,2000,1600,05 Nov 2014
+253,Bellary,Hospet,Potato,Potato,Medium,1400,2500,1600,07 Oct 2014
+254,Bellary,Hospet,Potato,Potato,Medium,1600,1600,1600,25 Oct 2014
+255,Bellary,Hospet,Potato,Potato,Small,1700,1700,1700,13 Sep 2014
+256,Dharwad,Hubli (Amaragol),Potato,Local,Medium,200,700,500,28 Mar 2015
+257,Dharwad,Hubli (Amaragol),Potato,Local,Medium,500,2400,1200,21 Oct 2014
+258,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1200,2800,1850,03 Oct 2014
+259,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1300,2350,1650,10 Nov 2014
+260,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1500,2700,2000,09 Oct 2014
+261,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,300,900,650,30 Mar 2015
+262,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,900,900,18 Mar 2015
+263,Hassan,Arasikere,Potato,Local,FAQ,1000,1000,1000,23 May 2015
+264,Hassan,Arasikere,Potato,Local,Medium,1000,2500,1000,01 Jan 2015
+265,Chikmagalur,Bagepalli,Potato,Potato,FAQ,800,1200,1000,05 Mar 2015
+266,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1200,1800,1400,06 May 2015
+267,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,01 Apr 2015
+268,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,13 Apr 2015
+269,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,23 Mar 2015
+270,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,24 Mar 2015
+271,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,08 May 2015
+272,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,10 Jul 2015
+273,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,11 May 2015
+274,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,16 May 2015
+275,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1600,1400,10 Mar 2015
+276,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1500,1450,03 Jul 2015
+277,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,24 Jun 2015
+278,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1700,1550,13 Mar 2015
+279,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1800,1600,13 Feb 2015
+280,Bangalore,Bangalore,Potato,Chips,FAQ,1600,1800,1700,08 Jun 2015
+281,Bangalore,Bangalore,Potato,Chips,FAQ,1600,1800,1700,19 Feb 2015
+282,Bangalore,Bangalore,Potato,Chips,FAQ,1600,2000,1700,31 Jan 2015
+283,Bangalore,Bangalore,Potato,Chips,Medium,2000,2400,2200,14 Oct 2014
+284,Bangalore,Bangalore,Potato,Chips,Medium,2200,2400,2300,17 Oct 2014
+285,Bangalore,Bangalore,Potato,Chips,Medium,2200,2400,2300,18 Oct 2014
+286,Bangalore,Bangalore,Potato,Potato,FAQ,700,1300,1100,16 Mar 2015
+287,Bangalore,Bangalore,Potato,Potato,FAQ,700,1400,1000,08 Apr 2015
+288,Bangalore,Bangalore,Potato,Potato,FAQ,700,1400,1050,11 Feb 2015
+289,Bangalore,Bangalore,Potato,Potato,FAQ,800,1150,950,04 Jul 2015
+290,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,15 Jun 2015
+291,Bangalore,Bangalore,Potato,Potato,FAQ,800,1400,1100,25 Feb 2015
+292,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1700,1500,19 Jan 2015
+293,Bangalore,Bangalore,Potato,Potato,Large,700,1400,1050,10 Feb 2015
+294,Kolar,Bangarpet,Potato,Jalander,Medium,2000,3800,2400,24 Oct 2014
+295,Kolar,Bangarpet,Potato,Jalander,Medium,2000,3800,2400,28 Oct 2014
+296,Kolar,Bangarpet,Potato,Local,FAQ,1200,1700,1400,08 Aug 2015
+297,Kolar,Bangarpet,Potato,Local,Medium,1200,1800,1400,27 Jan 2015
+298,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,800,21 May 2015
+299,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,900,03 Jun 2015
+300,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,900,10 Jul 2015
+301,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1100,20 Mar 2015
+302,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1200,07 Feb 2015
+303,Belgaum,Belgaum,Potato,Local,FAQ,800,1200,1000,29 Aug 2015
+304,Belgaum,Belgaum,Potato,Local,FAQ,800,1400,1200,20 Feb 2015
+305,Belgaum,Belgaum,Potato,Local,FAQ,800,1700,1250,15 Mar 2015
+306,Belgaum,Belgaum,Potato,Local,Medium,700,1800,1360,28 Jan 2015
+307,Belgaum,Belgaum,Potato,Local,Medium,800,2600,1460,30 Oct 2014
+308,Belgaum,Belgaum,Potato,Local,Medium,900,2450,1300,22 Sep 2014
+309,Belgaum,Belgaum,Potato,Local,Medium,900,2500,1300,17 Oct 2014
+310,Belgaum,Belgaum,Potato,Local,Medium,900,2600,1300,24 Nov 2014
+311,Belgaum,Belgaum,Potato,Local,Medium,1000,2500,1600,18 Sep 2014
+312,Hassan,Belur,Potato,Chandermukhi,FAQ,700,700,700,15 Aug 2015
+313,Kolar,Chickkaballapura,Potato,Jalander,FAQ,800,1300,1075,29 Aug 2015
+314,Kolar,Chickkaballapura,Potato,Jalander,FAQ,950,1100,1075,22 Aug 2015
+315,Kolar,Chickkaballapura,Potato,Local,FAQ,200,900,700,04 Apr 2015
+316,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,04 Apr 2015
+317,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,13 Apr 2015
+318,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,24 Apr 2015
+319,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1200,1000,20 Feb 2015
+320,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1200,1000,21 Feb 2015
+321,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2200,2000,24 Jan 2015
+322,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2300,2000,19 Jan 2015
+323,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,15 Sep 2014
+324,Chikmagalur,Chikkamagalore,Potato,Other,Medium,2000,2400,2200,14 Nov 2014
+325,Davangere,Davangere,Potato,Potato,FAQ,1200,1500,1350,22 May 2015
+326,Hassan,Hassan,Potato,Potato,FAQ,800,900,900,05 Jun 2015
+327,Hassan,Hassan,Potato,Potato,FAQ,1000,1000,1000,13 May 2015
+328,Chitradurga,Holalkere,Potato,Potato,Medium,1500,2300,1620,21 Oct 2014
+329,Chitradurga,Holalkere,Potato,Potato,Small,1000,1000,1000,18 Sep 2014
+330,Bellary,Hospet,Potato,Potato,FAQ,1200,1200,1200,21 Jun 2015
+331,Bellary,Hospet,Potato,Potato,FAQ,1300,2000,1800,25 Mar 2015
+332,Bellary,Hospet,Potato,Potato,Medium,1200,1800,1600,19 Oct 2014
+333,Bellary,Hospet,Potato,Potato,Medium,1200,2000,1800,27 Jan 2015
+334,Bellary,Hospet,Potato,Potato,Medium,1800,2000,2000,22 Dec 2014
+335,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,200,1300,750,30 Jan 2015
+336,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,400,1220,850,31 Jan 2015
+337,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1600,1050,05 Jan 2015
+338,Dharwad,Hubli (Amaragol),Potato,Local,Medium,300,700,500,28 Feb 2015
+339,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2600,1700,27 Oct 2014
+340,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1500,2600,1900,05 Nov 2014
+341,Dharwad,Hubli (Amaragol),Potato,Local,Medium,2000,2400,2200,17 Oct 2014
+342,Dharwad,Hubli (Amaragol),Potato,Local,Medium,2000,3400,2650,25 Nov 2014
+343,Dharwad,Hubli (Amaragol),Potato,Local,Medium,2700,2800,2750,20 Sep 2014
+344,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,200,900,650,29 Aug 2015
+345,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,200,1000,600,31 Aug 2015
+346,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,1500,1000,17 Jan 2015
+347,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1150,950,21 Mar 2015
+348,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,750,950,850,03 Aug 2015
+349,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1100,800,06 Feb 2015
+350,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1050,1100,1050,28 Feb 2015
+351,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1100,1200,1150,19 May 2015
+352,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1250,1300,1250,10 Feb 2015
+353,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,800,650,09 May 2015
+354,Dharwad,Hubli (Amaragol),Potato,Other,Medium,600,800,650,09 Apr 2015
+355,Dharwad,Hubli (Amaragol),Potato,Other,Medium,600,850,700,06 May 2015
+356,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1200,3000,1800,27 Nov 2014
+357,Dharwad,Hubli (Amaragol),Potato,Other,Medium,2200,2400,2300,07 Oct 2014
+358,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,750,10 Apr 2015
+359,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,19 Jun 2015
+360,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1800,1200,08 Jan 2015
+361,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1030,950,10 Feb 2015
+362,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1250,1050,11 Mar 2015
+363,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,950,1000,950,12 Feb 2015
+364,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1800,2000,1900,03 Jan 2015
+365,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,500,820,660,03 Apr 2015
+366,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,500,1050,850,27 May 2015
+367,Hassan,Arasikere,Potato,Local,FAQ,1000,2000,1500,26 May 2015
+368,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1000,1400,1200,22 Apr 2015
+369,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1400,1600,1500,07 Feb 2015
+370,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,05 May 2015
+371,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,06 May 2015
+372,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,10 Apr 2015
+373,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,29 Apr 2015
+374,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,02 May 2015
+375,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1400,1350,25 Apr 2015
+376,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,06 Jul 2015
+377,Bangalore,Bangalore,Potato,Chips,FAQ,1350,1600,1500,06 Jun 2015
+378,Bangalore,Bangalore,Potato,Chips,Medium,1600,2000,1800,28 Jan 2015
+379,Bangalore,Bangalore,Potato,Chips,Medium,2000,2400,2200,15 Oct 2014
+380,Bangalore,Bangalore,Potato,Local,Medium,1600,1800,1700,25 Oct 2014
+381,Bangalore,Bangalore,Potato,Potato,FAQ,700,900,800,13 Aug 2015
+382,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,27 Jul 2015
+383,Bangalore,Bangalore,Potato,Potato,FAQ,700,1100,900,10 Jul 2015
+384,Bangalore,Bangalore,Potato,Potato,FAQ,700,1100,900,25 Jul 2015
+385,Bangalore,Bangalore,Potato,Potato,FAQ,700,1300,1000,30 Apr 2015
+386,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,05 Aug 2015
+387,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,19 Jun 2015
+388,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,09 Jun 2015
+389,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,17 Jun 2015
+390,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1100,25 Jun 2015
+391,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,04 Feb 2015
+392,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1600,1300,24 Jan 2015
+393,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,13 Jan 2015
+394,Bangalore,Bangalore,Potato,Potato,Medium,1000,1100,1050,29 Dec 2014
+395,Bangalore,Bangalore,Potato,Potato,Medium,1000,1200,1100,17 Dec 2014
+396,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3200,2100,15 Nov 2014
+397,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3200,2400,20 Oct 2014
+398,Kolar,Bangarpet,Potato,Jalander,Medium,2100,3600,2500,18 Sep 2014
+399,Kolar,Bangarpet,Potato,Jalander,Medium,2400,3800,3000,11 Sep 2014
+400,Kolar,Bangarpet,Potato,Local,FAQ,1200,1700,1300,12 Mar 2015
+401,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1400,07 Feb 2015
+402,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1400,18 Feb 2015
+403,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1400,23 Feb 2015
+404,Belgaum,Belgaum,Potato,Local,FAQ,600,1200,900,02 Mar 2015
+405,Belgaum,Belgaum,Potato,Local,FAQ,600,1700,1230,06 Feb 2015
+406,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,900,06 May 2015
+407,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,900,07 May 2015
+408,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,30 May 2015
+409,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1200,29 Mar 2015
+410,Belgaum,Belgaum,Potato,Local,FAQ,800,1100,1000,24 Aug 2015
+411,Belgaum,Belgaum,Potato,Local,FAQ,800,1300,1150,04 Mar 2015
+412,Belgaum,Belgaum,Potato,Local,FAQ,800,1600,1300,12 Mar 2015
+413,Belgaum,Belgaum,Potato,Local,FAQ,900,1300,1000,11 Jun 2015
+414,Belgaum,Belgaum,Potato,Local,Medium,800,1600,1300,25 Jan 2015
+415,Belgaum,Belgaum,Potato,Local,Medium,800,2000,1460,29 Oct 2014
+416,Belgaum,Belgaum,Potato,Local,Medium,800,2400,1200,26 Nov 2014
+417,Belgaum,Belgaum,Potato,Local,Medium,900,2500,1600,25 Sep 2014
+418,Belgaum,Belgaum,Potato,Local,Medium,1000,2400,1600,06 Sep 2014
+419,Belgaum,Belgaum,Potato,Local,Medium,1000,2500,1600,19 Sep 2014
+420,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,2350,1800,15 Sep 2014
+421,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1100,2850,1750,05 Sep 2014
+422,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1800,1900,1850,02 Sep 2014
+423,Dharwad,Hubli (Amaragol),Potato,Other,Medium,2500,2600,2550,11 Oct 2014
+424,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1000,750,29 Jun 2015
+425,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1100,800,23 Apr 2015
+426,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,550,1000,800,21 Mar 2015
+427,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,750,20 Apr 2015
+428,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1000,800,08 Aug 2015
+429,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,04 Apr 2015
+430,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1100,900,25 Feb 2015
+431,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,950,900,24 Jun 2015
+432,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1100,950,14 Mar 2015
+433,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1050,950,22 May 2015
+434,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,600,1000,800,22 Apr 2015
+435,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1200,2400,1650,12 Dec 2014
+436,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1400,1500,1450,26 Jan 2015
+437,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1900,2000,1950,24 Dec 2014
+438,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1900,2100,2000,22 Dec 2014
+439,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2300,2150,10 Sep 2014
+440,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2700,2300,11 Dec 2014
+441,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2400,2300,10 Oct 2014
+442,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2450,2350,15 Oct 2014
+443,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2300,2550,2450,11 Oct 2014
+444,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2300,2700,2500,15 Nov 2014
+445,Mysore,Hunsur,Potato,Potato,Medium,600,600,600,16 Sep 2014
+446,Mysore,K.R.Nagar,Potato,Potato,FAQ,800,800,800,31 Aug 2015
+447,Mysore,K.R.Nagar,Potato,Potato,Medium,944,944,944,13 Oct 2014
+448,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,06 Sep 2014
+449,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,11 Sep 2014
+450,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,20 Sep 2014
+451,Bangalore,Kanakapura,Potato,Local,FAQ,1200,1500,1250,15 Apr 2015
+452,Kolar,Kolar,Potato,Local,FAQ,900,1200,1000,30 Jul 2015
+453,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,30 Apr 2015
+454,Kolar,Kolar,Potato,Local,FAQ,1000,1500,1300,11 Feb 2015
+455,Kolar,Kolar,Potato,Local,FAQ,1000,1600,1400,28 Jan 2015
+456,Kolar,Kolar,Potato,Local,FAQ,1400,1600,1500,02 Feb 2015
+457,Kolar,Kolar,Potato,Local,FAQ,1400,1800,1600,07 Jan 2015
+458,Kolar,Kolar,Potato,Local,FAQ,1500,1800,1650,12 Jan 2015
+459,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1800,05 Jan 2015
+460,Kolar,Kolar,Potato,Local,FAQ,1600,1800,1700,22 Jan 2015
+461,Kolar,Kolar,Potato,Local,Medium,1000,1600,1400,28 Jan 2015
+462,Kolar,Kolar,Potato,Local,Medium,1500,2500,1900,08 Sep 2014
+463,Kolar,Malur,Potato,Potato,FAQ,1000,1300,1200,30 Apr 2015
+464,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1190,01 Jul 2015
+465,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1210,18 May 2015
+466,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1270,22 May 2015
+467,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1300,15 Apr 2015
+468,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1200,07 May 2015
+469,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1300,24 Feb 2015
+470,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1430,19 Feb 2015
+471,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1330,03 Mar 2015
+472,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1350,26 Feb 2015
+473,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,04 Apr 2015
+474,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,25 Aug 2015
+475,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,29 Aug 2015
+476,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1500,1350,17 Aug 2015
+477,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1400,1350,14 May 2015
+478,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,04 Mar 2015
+479,Bangalore,Bangalore,Potato,Chips,FAQ,1600,1800,1650,20 Feb 2015
+480,Bangalore,Bangalore,Potato,Chips,FAQ,1700,1900,1800,03 Feb 2015
+481,Bangalore,Bangalore,Potato,Chips,FAQ,1700,1900,1850,20 Jan 2015
+482,Bangalore,Bangalore,Potato,Chips,FAQ,1800,2000,1900,22 Jan 2015
+483,Bangalore,Bangalore,Potato,Chips,Medium,2200,2600,2400,07 Oct 2014
+484,Bangalore,Bangalore,Potato,Chips,Medium,2200,2600,2400,09 Oct 2014
+485,Bangalore,Bangalore,Potato,Local,Medium,1600,2000,1800,30 Oct 2014
+486,Bangalore,Bangalore,Potato,Potato,FAQ,500,1200,900,06 Jun 2015
+487,Bangalore,Bangalore,Potato,Potato,FAQ,600,1100,1000,13 May 2015
+488,Bangalore,Bangalore,Potato,Potato,FAQ,700,1200,950,20 Mar 2015
+489,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,17 Apr 2015
+490,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,18 Jun 2015
+491,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1050,24 Apr 2015
+492,Bangalore,Bangalore,Potato,Potato,FAQ,800,1500,1150,23 Feb 2015
+493,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,05 Feb 2015
+494,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,03 Feb 2015
+495,Bangalore,Bangalore,Potato,Potato,Medium,1000,1500,1300,12 Dec 2014
+496,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3300,2300,28 Nov 2014
+497,Kolar,Bangarpet,Potato,Jalander,Medium,1850,3300,2200,24 Nov 2014
+498,Kolar,Bangarpet,Potato,Local,FAQ,1000,1800,1400,08 Jan 2015
+499,Kolar,Bangarpet,Potato,Local,FAQ,1000,1800,1400,13 Jan 2015
+500,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1500,16 Feb 2015
+501,Kolar,Bangarpet,Potato,Local,FAQ,1250,1800,1500,04 Feb 2015
+502,Kolar,Bangarpet,Potato,Local,FAQ,2860,3100,3050,07 May 2015
+503,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,900,17 Jul 2015
+504,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,800,02 Jul 2015
+505,Belgaum,Belgaum,Potato,Local,FAQ,600,1200,1060,11 Apr 2015
+506,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1000,24 Jun 2015
+507,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,900,22 Jun 2015
+508,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,900,05 Jul 2015
+509,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,900,29 Jun 2015
+510,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,12 Aug 2015
+511,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,23 Feb 2015
+512,Belgaum,Belgaum,Potato,Local,FAQ,800,1200,1100,26 Apr 2015
+513,Belgaum,Belgaum,Potato,Local,FAQ,800,1300,1100,25 Feb 2015
+514,Belgaum,Belgaum,Potato,Local,FAQ,800,1600,1300,13 Mar 2015
+515,Belgaum,Belgaum,Potato,Local,FAQ,800,1700,1300,23 Jan 2015
+516,Belgaum,Belgaum,Potato,Local,FAQ,800,2100,1400,16 Jan 2015
+517,Belgaum,Belgaum,Potato,Local,Medium,800,2400,1200,28 Nov 2014
+518,Belgaum,Belgaum,Potato,Local,Medium,1000,2300,1500,20 Oct 2014
+519,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,715,715,715,19 Sep 2014
+520,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,1000,1000,1000,27 Oct 2014
+521,Kolar,Chickkaballapura,Potato,Jalander,FAQ,2000,4000,2150,17 Jan 2015
+522,Kolar,Chickkaballapura,Potato,Jalander,Large,2000,4000,2150,21 Dec 2014
+523,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,850,12 May 2015
+524,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,800,13 May 2015
+525,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,30 May 2015
+526,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1000,950,08 Jun 2015
+527,Dharwad,Hubli (Amaragol),Potato,Other,Medium,400,1000,700,07 May 2015
+528,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,500,500,08 May 2015
+529,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1200,2400,1700,29 Sep 2014
+530,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,1100,800,14 May 2015
+531,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,850,750,19 Mar 2015
+532,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,950,850,15 Jun 2015
+533,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,26 May 2015
+534,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,1000,850,29 Jul 2015
+535,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,900,850,15 Jul 2015
+536,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,900,850,17 Feb 2015
+537,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,950,26 Mar 2015
+538,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,830,950,900,20 Mar 2015
+539,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1100,1000,08 May 2015
+540,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,950,1050,1000,25 Mar 2015
+541,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1200,1200,07 Feb 2015
+542,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1500,1450,26 Jan 2015
+543,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,2200,2100,06 Jan 2015
+544,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,600,1000,850,13 Apr 2015
+545,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2600,2400,09 Oct 2014
+546,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2650,2400,06 Nov 2014
+547,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2300,2500,2400,30 Sep 2014
+548,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2500,2700,2600,01 Nov 2014
+549,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2550,2700,2600,05 Nov 2014
+550,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2750,2900,2800,30 Oct 2014
+551,Mysore,K.R.Nagar,Potato,Potato,FAQ,700,700,700,22 Aug 2015
+552,Mysore,K.R.Nagar,Potato,Potato,FAQ,800,800,800,27 Aug 2015
+553,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,13 Aug 2015
+554,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,19 Aug 2015
+555,Mysore,K.R.Nagar,Potato,Potato,Medium,800,1000,923,26 Sep 2014
+556,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,20 Oct 2014
+557,Bangalore,Kanakapura,Potato,Local,Medium,2000,2800,2500,03 Sep 2014
+558,Kolar,Kolar,Potato,Local,FAQ,800,1000,900,06 Apr 2015
+559,Kolar,Kolar,Potato,Local,FAQ,800,1100,1000,02 Apr 2015
+560,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,15 Feb 2015
+561,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,30 Jun 2015
+562,Kolar,Kolar,Potato,Local,FAQ,1000,1400,1200,13 Feb 2015
+563,Kolar,Kolar,Potato,Local,FAQ,1000,1500,1300,18 Feb 2015
+564,Kolar,Kolar,Potato,Local,Medium,1000,2300,2000,22 Sep 2014
+565,Kolar,Kolar,Potato,Local,Medium,1500,2400,2200,28 Sep 2014
+566,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1160,27 Jul 2015
+567,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1170,29 Apr 2015
+568,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1187,19 May 2015
+569,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1200,23 Jul 2015
+570,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1350,07 Mar 2015
+571,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1400,13 Feb 2015
+572,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1250,06 Aug 2015
+573,Kolar,Malur,Potato,Potato,FAQ,1200,1700,1600,12 Feb 2015
+574,Kolar,Malur,Potato,Potato,FAQ,1300,1800,1520,06 Jan 2015
+575,Kolar,Malur,Potato,Potato,FAQ,1500,1800,1645,07 Jan 2015
+576,Kolar,Malur,Potato,Potato,Medium,1800,2200,2000,18 Nov 2014
+577,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,900,750,17 Jun 2015
+578,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1200,900,11 Feb 2015
+579,Kolar,Chickkaballapura,Potato,Local,FAQ,200,900,800,11 Apr 2015
+580,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,11 Jul 2015
+581,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,15 Apr 2015
+582,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,20 Apr 2015
+583,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,22 Apr 2015
+584,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,750,25 Jun 2015
+585,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1000,23 Jun 2015
+586,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1100,21 Mar 2015
+587,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1500,1400,04 Feb 2015
+588,Kolar,Chickkaballapura,Potato,Local,Large,300,1700,1500,05 Jan 2015
+589,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1400,1200,18 Feb 2015
+590,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1300,1700,1500,13 Mar 2015
+591,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2300,2000,16 Jan 2015
+592,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1700,2400,2000,27 Oct 2014
+593,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,17 Oct 2014
+594,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2400,2100,20 Oct 2014
+595,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1900,2300,2100,29 Sep 2014
+596,Chikmagalur,Chikkamagalore,Potato,Other,Medium,2600,3000,2800,28 Nov 2014
+597,Hassan,Hassan,Potato,Potato,FAQ,350,1000,700,01 Sep 2015
+598,Hassan,Hassan,Potato,Potato,FAQ,533,1000,1000,16 Jul 2015
+599,Hassan,Hassan,Potato,Potato,FAQ,650,912,700,26 Aug 2015
+600,Hassan,Hassan,Potato,Potato,FAQ,800,1000,1000,09 Jun 2015
+601,Hassan,Hassan,Potato,Potato,FAQ,900,1000,1000,19 May 2015
+602,Hassan,Hassan,Potato,Potato,FAQ,1254,1258,1258,31 Jan 2015
+603,Hassan,Hassan,Potato,Potato,Medium,1200,1622,1200,27 Oct 2014
+604,Hassan,Hassan,Potato,Potato,Medium,1593,1593,1593,21 Nov 2014
+605,Hassan,Holenarsipura,Potato,Local,FAQ,600,600,600,22 Aug 2015
+606,Hassan,Holenarsipura,Potato,Local,FAQ,800,800,800,03 Aug 2015
+607,Bangalore,Hoskote,Potato,Local,FAQ,1800,2000,1900,30 Jun 2015
+608,Bellary,Hospet,Potato,Potato,FAQ,900,1700,1200,01 Jul 2015
+609,Bellary,Hospet,Potato,Potato,Medium,900,1200,1000,11 Aug 2015
+610,Bellary,Hospet,Potato,Potato,Medium,1000,1200,1000,20 May 2015
+611,Bellary,Hospet,Potato,Potato,Medium,1000,1300,1100,02 Jun 2015
+612,Bellary,Hospet,Potato,Potato,Medium,1200,1600,1200,29 Apr 2015
+613,Bellary,Hospet,Potato,Potato,Medium,1800,2000,1800,24 Dec 2014
+614,Bellary,Hospet,Potato,Potato,Small,1800,1800,1800,16 Nov 2014
+615,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,740,500,27 Feb 2015
+616,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,600,1300,950,23 Jan 2015
+617,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,300,850,550,23 Mar 2015
+618,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1200,850,07 Feb 2015
+619,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1300,1200,07 Aug 2015
+620,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1450,1050,17 Feb 2015
+621,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,1400,1000,03 Feb 2015
+622,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,900,850,09 Jun 2015
+623,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1200,1050,11 Aug 2015
+624,Dharwad,Hubli (Amaragol),Potato,Other,Medium,300,500,400,15 May 2015
+625,Dharwad,Hubli (Amaragol),Potato,Other,Medium,600,2150,1550,10 Sep 2014
+626,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,550,1000,850,04 Jul 2015
+627,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,750,25 Jun 2015
+628,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1100,850,05 May 2015
+629,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,14 Aug 2015
+630,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,09 Feb 2015
+631,Belgaum,Belgaum,Potato,Local,Medium,1800,2500,2050,10 Sep 2014
+632,Hassan,Belur,Potato,Chandermukhi,FAQ,625,700,700,07 Aug 2015
+633,Hassan,Belur,Potato,Chandermukhi,FAQ,666,666,666,22 Aug 2015
+634,Hassan,Belur,Potato,Chandermukhi,FAQ,700,700,700,05 Aug 2015
+635,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,1250,1250,1250,29 Apr 2015
+636,Kolar,Chickkaballapura,Potato,Jalander,Large,2000,4000,2150,09 Sep 2014
+637,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,28 Sep 2014
+638,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1000,03 Jun 2015
+639,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1300,1100,18 Mar 2015
+640,Kolar,Chickkaballapura,Potato,Local,FAQ,500,1200,1100,09 Feb 2015
+641,Kolar,Chickkaballapura,Potato,Local,Large,2000,2400,2200,15 Oct 2014
+642,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,03 Aug 2015
+643,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,700,1000,900,30 Mar 2015
+644,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1300,1100,13 May 2015
+645,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1400,1200,17 Jul 2015
+646,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2200,2000,31 Jan 2015
+647,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2400,2000,23 Oct 2014
+648,Hassan,Hassan,Potato,Potato,FAQ,522,1000,1000,21 May 2015
+649,Hassan,Hassan,Potato,Potato,FAQ,600,700,700,18 Aug 2015
+650,Hassan,Hassan,Potato,Potato,FAQ,667,667,667,10 Aug 2015
+651,Hassan,Hassan,Potato,Potato,FAQ,682,1000,900,28 May 2015
+652,Hassan,Hassan,Potato,Potato,FAQ,699,1000,1000,30 Jul 2015
+653,Hassan,Hassan,Potato,Potato,FAQ,700,861,700,28 Aug 2015
+654,Hassan,Hassan,Potato,Potato,FAQ,800,1000,1000,08 May 2015
+655,Hassan,Hassan,Potato,Potato,FAQ,960,960,960,10 Mar 2015
+656,Hassan,Hassan,Potato,Potato,FAQ,960,960,960,21 Jul 2015
+657,Hassan,Hassan,Potato,Potato,FAQ,1000,2400,1064,12 Feb 2015
+658,Hassan,Hassan,Potato,Potato,FAQ,1012,1012,1012,02 Mar 2015
+659,Hassan,Hassan,Potato,Potato,FAQ,1250,1250,1250,01 Apr 2015
+660,Hassan,Hassan,Potato,Potato,FAQ,1468,1468,1468,27 Jan 2015
+661,Hassan,Hassan,Potato,Potato,Medium,800,800,800,21 Oct 2014
+662,Hassan,Hassan,Potato,Potato,Medium,1000,2300,1600,26 Sep 2014
+663,Hassan,Hassan,Potato,Potato,Medium,1467,1589,1568,25 Oct 2014
+664,Hassan,Hassan,Potato,Potato,Medium,1468,1468,1468,27 Jan 2015
+665,Hassan,Hassan,Potato,Potato,Medium,2138,2501,2501,20 Nov 2014
+666,Hassan,Holenarsipura,Potato,Local,Medium,800,800,800,21 Oct 2014
+667,Hassan,Holenarsipura,Potato,Potato,Medium,777,777,777,24 Sep 2014
+668,Bangalore,Hoskote,Potato,Kuber,FAQ,1300,1600,1400,29 Jun 2015
+669,Bangalore,Hoskote,Potato,Local,FAQ,1200,1600,1400,08 Apr 2015
+670,Bangalore,Hoskote,Potato,Local,FAQ,1500,1650,1550,26 May 2015
+671,Bellary,Hospet,Potato,Potato,FAQ,1000,1000,1000,11 Apr 2015
+672,Bellary,Hospet,Potato,Potato,FAQ,1200,1200,1200,24 Aug 2015
+673,Bellary,Hospet,Potato,Potato,Medium,1000,1600,1200,14 Jul 2015
+674,Bellary,Hospet,Potato,Potato,Medium,1100,2000,1600,24 Nov 2014
+675,Bellary,Hospet,Potato,Potato,Medium,1200,1500,1500,02 Sep 2014
+676,Bellary,Hospet,Potato,Potato,Medium,1200,2000,1800,19 Jan 2015
+677,Bellary,Hospet,Potato,Potato,Medium,2000,3000,2500,10 Dec 2014
+678,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,400,1100,700,14 Feb 2015
+679,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1750,1200,03 Jan 2015
+680,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,550,1100,800,05 Feb 2015
+681,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,900,1100,1000,13 Feb 2015
+682,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1000,1650,1250,08 Jan 2015
+683,Dharwad,Hubli (Amaragol),Potato,Local,Medium,500,550,500,30 Mar 2015
+684,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1800,1900,1850,31 Dec 2014
+685,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1900,2300,2100,18 Dec 2014
+686,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2500,2300,01 Sep 2014
+687,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2400,2300,13 Sep 2014
+688,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2800,2500,01 Dec 2014
+689,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2800,2900,2850,28 Oct 2014
+690,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,01 Sep 2015
+691,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,06 Jun 2015
+692,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,23 Jun 2015
+693,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,16 Sep 2014
+694,Kolar,Kolar,Potato,Local,FAQ,900,1300,1100,22 Mar 2015
+695,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,26 Mar 2015
+696,Kolar,Kolar,Potato,Local,FAQ,1500,1850,1650,11 Jan 2015
+697,Kolar,Malur,Potato,Potato,FAQ,900,1400,1000,10 Jun 2015
+698,Kolar,Malur,Potato,Potato,FAQ,900,1500,930,02 Jul 2015
+699,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1330,09 Mar 2015
+700,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1200,27 Apr 2015
+701,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1220,01 Jun 2015
+702,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1130,06 Jul 2015
+703,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1300,27 Mar 2015
+704,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1330,26 Mar 2015
+705,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1400,06 Feb 2015
+706,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1440,02 Feb 2015
+707,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1470,07 Feb 2015
+708,Kolar,Malur,Potato,Potato,FAQ,1300,1900,1330,02 Jan 2015
+709,Kolar,Malur,Potato,Potato,Medium,1200,2300,1240,17 Dec 2014
+710,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,1000,750,13 Aug 2015
+711,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1200,900,24 Aug 2015
+712,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,17 Apr 2015
+713,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,24 Jul 2015
+714,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1100,1000,08 Jun 2015
+715,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1100,1000,10 Jun 2015
+716,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1300,1600,1550,08 Jan 2015
+717,Hassan,Sakaleshpura,Potato,Potato,Medium,1200,1200,1200,22 Sep 2014
+718,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,25 Aug 2015
+719,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,02 Jun 2015
+720,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,18 May 2015
+721,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,01 Jul 2015
+722,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,06 Feb 2015
+723,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,06 Jul 2015
+724,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,07 Apr 2015
+725,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,11 Feb 2015
+726,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,13 Apr 2015
+727,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,13 Mar 2015
+728,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,15 Jun 2015
+729,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,21 Jul 2015
+730,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,23 Mar 2015
+731,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,30 Jun 2015
+732,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,22 Jan 2015
+733,Kolar,Srinivasapur,Potato,Local,FAQ,200,1000,238,09 Feb 2015
+734,Kolar,Srinivasapur,Potato,Potato,Medium,1000,1800,1500,16 Dec 2014
+735,Kolar,Srinivasapur,Potato,Potato,Medium,1300,2000,1500,09 Dec 2014
+736,Tumkur,Tumkur,Potato,Other,FAQ,180,2500,2200,24 Jan 2015
+737,Tumkur,Tumkur,Potato,Other,FAQ,1200,1400,1300,25 Apr 2015
+738,Hassan,Arasikere,Potato,Local,FAQ,1000,1000,1000,27 Apr 2015
+739,Bangalore,Bangalore,Potato,Chips,FAQ,1000,1600,1400,29 Jul 2015
+740,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,31 Mar 2015
+741,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,21 Aug 2015
+742,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,23 Apr 2015
+743,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,22 Apr 2015
+744,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1600,1450,22 May 2015
+745,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1600,1450,27 May 2015
+746,Bangalore,Bangalore,Potato,Chips,FAQ,1350,1600,1500,05 Jun 2015
+747,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,21 Feb 2015
+748,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,25 Jun 2015
+749,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1800,1600,09 Feb 2015
+750,Bangalore,Bangalore,Potato,Chips,Medium,1600,1800,1700,27 Jan 2015
+751,Bangalore,Bangalore,Potato,Potato,FAQ,500,1200,900,29 May 2015
+752,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,900,27 Mar 2015
+753,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,950,15 May 2015
+754,Bangalore,Bangalore,Potato,Potato,FAQ,600,1300,950,18 May 2015
+755,Bangalore,Bangalore,Potato,Potato,FAQ,600,1500,1100,06 Mar 2015
+756,Bangalore,Bangalore,Potato,Potato,FAQ,700,1200,950,07 Aug 2015
+757,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,24 Aug 2015
+758,Bangalore,Bangalore,Potato,Potato,FAQ,800,1150,950,03 Jul 2015
+759,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1100,20 Apr 2015
+760,Bangalore,Bangalore,Potato,Potato,FAQ,800,1300,1000,15 Apr 2015
+761,Bangalore,Bangalore,Potato,Potato,FAQ,800,1400,1100,16 Apr 2015
+762,Bangalore,Bangalore,Potato,Potato,FAQ,900,1300,1100,02 Feb 2015
+763,Bangalore,Bangalore,Potato,Potato,Medium,2200,2400,2300,23 Oct 2014
+764,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3200,2400,15 Oct 2014
+765,Kolar,Bangarpet,Potato,Jalander,Medium,1900,3200,2400,07 Oct 2014
+766,Kolar,Bangarpet,Potato,Jalander,Medium,2000,3700,3300,10 Sep 2014
+767,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,800,22 May 2015
+768,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,900,16 Jul 2015
+769,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1160,22 Apr 2015
+770,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1160,23 Apr 2015
+771,Belgaum,Belgaum,Potato,Local,FAQ,600,1400,1200,31 Jan 2015
+772,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,900,09 Jul 2015
+773,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,900,20 Jun 2015
+774,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,18 May 2015
+775,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1100,09 Apr 2015
+776,Belgaum,Belgaum,Potato,Local,FAQ,800,1100,1000,13 Jun 2015
+777,Belgaum,Belgaum,Potato,Local,FAQ,800,1200,1000,30 Aug 2015
+778,Belgaum,Belgaum,Potato,Local,FAQ,800,1200,1100,27 Apr 2015
+779,Belgaum,Belgaum,Potato,Local,FAQ,800,1500,1200,06 Apr 2015
+780,Belgaum,Belgaum,Potato,Local,FAQ,800,1600,1300,24 Jan 2015
+781,Belgaum,Belgaum,Potato,Local,Medium,900,1900,1300,09 Oct 2014
+782,Belgaum,Belgaum,Potato,Local,Medium,900,2350,1530,03 Sep 2014
+783,Belgaum,Belgaum,Potato,Local,Medium,900,2350,1530,04 Sep 2014
+784,Belgaum,Belgaum,Potato,Local,Medium,900,2400,1360,12 Oct 2014
+785,Belgaum,Belgaum,Potato,Local,Medium,900,2450,1300,20 Sep 2014
+786,Belgaum,Belgaum,Potato,Local,Medium,1000,2800,1500,02 Nov 2014
+787,Kolar,Chickkaballapura,Potato,Jalander,FAQ,2000,4000,2150,06 Jan 2015
+788,Kolar,Chickkaballapura,Potato,Jalander,Large,2000,4000,2150,19 Dec 2014
+789,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,07 Sep 2014
+790,Kolar,Chickkaballapura,Potato,Local,FAQ,200,800,700,10 Apr 2015
+791,Chikmagalur,Bagepalli,Potato,Potato,FAQ,600,1000,800,13 May 2015
+792,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1500,1700,1600,09 Feb 2015
+793,Bangalore,Bangalore,Potato,Chips,FAQ,1100,1500,1300,06 Aug 2015
+794,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,12 May 2015
+795,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1500,1300,16 Jul 2015
+796,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,05 Mar 2015
+797,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,16 Mar 2015
+798,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1800,1600,12 Feb 2015
+799,Bangalore,Bangalore,Potato,Chips,FAQ,1600,2000,1800,28 Jan 2015
+800,Bangalore,Bangalore,Potato,Chips,FAQ,1800,1900,1850,07 Feb 2015
+801,Bangalore,Bangalore,Potato,Chips,Medium,2200,2400,2300,10 Oct 2014
+802,Bangalore,Bangalore,Potato,Chips,Medium,2200,2600,2400,16 Oct 2014
+803,Bangalore,Bangalore,Potato,Chips,Medium,2200,2600,2400,17 Sep 2014
+804,Bangalore,Bangalore,Potato,Chips,Medium,2400,2800,2600,09 Sep 2014
+805,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2200,17 Jun 2015
+806,Bangalore,Bangalore,Potato,Local,Large,2200,2600,2450,11 Nov 2014
+807,Bangalore,Bangalore,Potato,Local,Large,2500,2700,2600,19 Nov 2014
+808,Bangalore,Bangalore,Potato,Local,Medium,1800,2000,1900,22 Nov 2014
+809,Bangalore,Bangalore,Potato,Potato,FAQ,500,1250,900,28 May 2015
+810,Bangalore,Bangalore,Potato,Potato,FAQ,500,1300,900,04 Apr 2015
+811,Bangalore,Bangalore,Potato,Potato,FAQ,600,1100,900,05 May 2015
+812,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,1000,03 Mar 2015
+813,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,10 Aug 2015
+814,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,31 Jul 2015
+815,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,1000,29 Apr 2015
+816,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1300,26 Feb 2015
+817,Bangalore,Bangalore,Potato,Potato,Medium,700,1000,900,18 Dec 2014
+818,Bangalore,Bangalore,Potato,Potato,Medium,700,1000,900,19 Dec 2014
+819,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3000,2200,18 Nov 2014
+820,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3300,2300,27 Nov 2014
+821,Kolar,Bangarpet,Potato,Jalander,Medium,2100,3600,2400,20 Sep 2014
+822,Kolar,Bangarpet,Potato,Local,FAQ,600,1400,900,12 May 2015
+823,Kolar,Bangarpet,Potato,Local,FAQ,900,1300,1100,27 Apr 2015
+824,Kolar,Bangarpet,Potato,Local,FAQ,1000,1400,1200,21 Mar 2015
+825,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,800,01 Jul 2015
+826,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,900,03 Aug 2015
+827,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,980,29 May 2015
+828,Belgaum,Belgaum,Potato,Local,FAQ,600,1200,900,01 Mar 2015
+829,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,900,19 Aug 2015
+830,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,900,20 Aug 2015
+831,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,07 Jun 2015
+832,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,16 May 2015
+833,Belgaum,Belgaum,Potato,Local,FAQ,800,1100,950,11 Jul 2015
+834,Belgaum,Belgaum,Potato,Local,FAQ,800,1300,1100,26 Feb 2015
+835,Belgaum,Belgaum,Potato,Local,FAQ,800,2300,1400,11 Jan 2015
+836,Belgaum,Belgaum,Potato,Local,FAQ,800,2300,1480,03 Jan 2015
+837,Belgaum,Belgaum,Potato,Local,FAQ,900,2400,1500,01 Jan 2015
+838,Belgaum,Belgaum,Potato,Local,Medium,1000,2500,1600,01 Sep 2014
+839,Belgaum,Belgaum,Potato,Local,Medium,1000,2600,1600,15 Nov 2014
+840,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,04 Feb 2015
+841,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,625,625,625,17 Mar 2015
+842,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,625,625,625,05 Sep 2014
+843,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,625,625,625,22 Sep 2014
+844,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1360,23 Feb 2015
+845,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1420,31 Jan 2015
+846,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1570,17 Jan 2015
+847,Kolar,Malur,Potato,Potato,Medium,1800,2200,2000,19 Nov 2014
+848,Kolar,Malur,Potato,Potato,Medium,1800,2400,2000,09 Dec 2014
+849,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,26 May 2015
+850,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,30 May 2015
+851,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1400,1000,07 Feb 2015
+852,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1600,1150,06 Feb 2015
+853,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,23 Jun 2015
+854,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,05 Mar 2015
+855,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,19 Mar 2015
+856,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1300,1100,01 Apr 2015
+857,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1200,1100,04 Apr 2015
+858,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1300,1200,30 Mar 2015
+859,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1800,2000,1900,25 Nov 2014
+860,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,2000,2200,2100,15 Sep 2014
+861,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,2000,2200,2100,17 Sep 2014
+862,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,04 Aug 2015
+863,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,21 Aug 2015
+864,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,08 May 2015
+865,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,28 May 2015
+866,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,05 Feb 2015
+867,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,06 Mar 2015
+868,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,09 Jul 2015
+869,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,16 Jun 2015
+870,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,18 Jun 2015
+871,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,20 Oct 2014
+872,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,23 Sep 2014
+873,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,25 Sep 2014
+874,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,31 Oct 2014
+875,Raichur,Sindhanur,Potato,Potato,FAQ,450,550,520,16 Mar 2015
+876,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,19 Aug 2015
+877,Udupi,Udupi,Potato,Potato,FAQ,1200,1500,1300,05 Aug 2015
+878,Udupi,Udupi,Potato,Potato,FAQ,1500,1900,1700,08 Jul 2015
+879,Chikmagalur,Bagepalli,Potato,Potato,FAQ,600,1200,900,06 Jan 2015
+880,Bangalore,Bangalore,Potato,Chips,FAQ,1000,1600,1400,28 Jul 2015
+881,Bangalore,Bangalore,Potato,Chips,FAQ,1100,1600,1400,24 Jul 2015
+882,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,20 Aug 2015
+883,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,27 Aug 2015
+884,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,14 Jul 2015
+885,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,15 May 2015
+886,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,17 Jun 2015
+887,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,22 Jun 2015
+888,Bangalore,Bangalore,Potato,Chips,Medium,2500,2800,2650,25 Oct 2014
+889,Bangalore,Bangalore,Potato,Local,Large,500,600,550,16 Feb 2015
+890,Bangalore,Bangalore,Potato,Potato,FAQ,700,1100,950,16 Jul 2015
+891,Bangalore,Bangalore,Potato,Potato,FAQ,700,1100,950,17 Jul 2015
+892,Bangalore,Bangalore,Potato,Potato,FAQ,700,1200,950,30 Mar 2015
+893,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,31 Aug 2015
+894,Bangalore,Bangalore,Potato,Potato,FAQ,800,1150,950,02 Jul 2015
+895,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1400,1200,23 May 2015
+896,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1600,1500,20 Jan 2015
+897,Bangalore,Bangalore,Potato,Potato,Large,550,750,600,16 Feb 2015
+898,Bangalore,Bangalore,Potato,Potato,Medium,1000,1400,1200,28 Jan 2015
+899,Bangalore,Bangalore,Potato,Potato,Medium,2500,2750,2625,06 Dec 2014
+900,Kolar,Bangarpet,Potato,Jalander,Medium,1900,3200,2400,27 Sep 2014
+901,Kolar,Bangarpet,Potato,Local,FAQ,600,1200,900,20 May 2015
+902,Kolar,Bangarpet,Potato,Local,FAQ,1000,1800,1400,19 Jan 2015
+903,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1500,12 Feb 2015
+904,Belgaum,Belgaum,Potato,Local,FAQ,500,1000,800,25 Jul 2015
+905,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,900,15 Jul 2015
+906,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,900,05 Jun 2015
+907,Belgaum,Belgaum,Potato,Local,FAQ,600,1200,1060,12 Apr 2015
+908,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1200,25 Mar 2015
+909,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,22 Mar 2015
+910,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1100,18 Apr 2015
+911,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1100,23 Mar 2015
+912,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1200,07 Mar 2015
+913,Belgaum,Belgaum,Potato,Local,FAQ,700,1800,1360,28 Jan 2015
+914,Belgaum,Belgaum,Potato,Local,FAQ,800,1100,1000,15 Jun 2015
+915,Belgaum,Belgaum,Potato,Local,FAQ,800,1700,1250,14 Mar 2015
+916,Belgaum,Belgaum,Potato,Local,Medium,800,2100,1400,13 Nov 2014
+917,Belgaum,Belgaum,Potato,Local,Medium,900,2500,1300,16 Oct 2014
+918,Belgaum,Belgaum,Potato,Local,Medium,900,2800,1500,30 Nov 2014
+919,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,1000,1000,1000,03 Sep 2014
+920,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,1000,1000,1000,11 Sep 2014
+921,Kolar,Chickkaballapura,Potato,Jalander,FAQ,800,1200,1075,20 Aug 2015
+922,Kolar,Chickkaballapura,Potato,Jalander,FAQ,900,1150,1075,24 Aug 2015
+923,Kolar,Chickkaballapura,Potato,Jalander,FAQ,900,1200,1075,01 Sep 2015
+924,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,800,28 Mar 2015
+925,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,09 May 2015
+926,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,25 Apr 2015
+927,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,1000,01 Jul 2015
+928,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1000,02 Mar 2015
+929,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1200,1100,16 Feb 2015
+930,Kolar,Chickkaballapura,Potato,Local,Large,500,1700,1600,24 Jan 2015
+931,Kolar,Chickkaballapura,Potato,Local,Medium,400,1600,1500,29 Dec 2014
+932,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,03 Jun 2015
+933,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,29 Aug 2015
+934,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1400,1600,1500,21 Jan 2015
+935,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,1600,1550,22 Jan 2015
+936,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,2500,2700,2600,16 Oct 2014
+937,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,11 Aug 2015
+938,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,04 Jun 2015
+939,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,15 Apr 2015
+940,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,15 May 2015
+941,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,19 May 2015
+942,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,17 Mar 2015
+943,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,18 Mar 2015
+944,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,24 Feb 2015
+945,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,23 Jan 2015
+946,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,10 Oct 2014
+947,Chikmagalur,Tarikere,Potato,Potato,FAQ,1000,1000,1000,29 Aug 2015
+948,Tumkur,Tumkur,Potato,Other,Medium,1700,2500,2300,20 Oct 2014
+949,Udupi,Udupi,Potato,Potato,FAQ,1300,1700,1500,03 Jun 2015
+950,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,900,15 Jul 2015
+951,Kolar,Chickkaballapura,Potato,Local,Large,2000,2600,2300,29 Oct 2014
+952,Kolar,Chickkaballapura,Potato,Local,Medium,500,2300,2100,06 Dec 2014
+953,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,01 Jun 2015
+954,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,02 Mar 2015
+955,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,15 Jul 2015
+956,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1200,1000,25 Feb 2015
+957,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1400,1200,11 Feb 2015
+958,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1200,1800,1500,23 Mar 2015
+959,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1600,2000,1800,06 May 2015
+960,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,10 Oct 2014
+961,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,24 Nov 2014
+962,Madikeri(Kodagu),Gonikappal,Potato,Local,FAQ,333,333,333,21 May 2015
+963,Hassan,Hassan,Potato,Potato,FAQ,500,667,667,05 Aug 2015
+964,Hassan,Hassan,Potato,Potato,FAQ,500,840,840,25 Jul 2015
+965,Hassan,Hassan,Potato,Potato,FAQ,604,1018,875,11 Jun 2015
+966,Hassan,Hassan,Potato,Potato,FAQ,699,800,800,04 Jul 2015
+967,Hassan,Hassan,Potato,Potato,FAQ,795,1000,1000,09 Jul 2015
+968,Hassan,Hassan,Potato,Potato,FAQ,831,831,831,16 Mar 2015
+969,Hassan,Hassan,Potato,Potato,FAQ,840,925,925,30 Jun 2015
+970,Hassan,Hassan,Potato,Potato,FAQ,1288,1288,1288,10 Feb 2015
+971,Hassan,Hassan,Potato,Potato,Medium,900,900,900,08 Sep 2014
+972,Hassan,Hassan,Potato,Potato,Medium,926,2176,2176,12 Dec 2014
+973,Hassan,Hassan,Potato,Potato,Medium,1000,2000,1000,11 Sep 2014
+974,Hassan,Holenarsipura,Potato,Local,FAQ,500,500,500,07 Aug 2015
+975,Hassan,Holenarsipura,Potato,Local,FAQ,525,525,525,11 Aug 2015
+976,Hassan,Holenarsipura,Potato,Local,FAQ,625,625,625,19 Aug 2015
+977,Hassan,Holenarsipura,Potato,Local,FAQ,625,625,625,20 Aug 2015
+978,Hassan,Holenarsipura,Potato,Local,FAQ,916,916,916,08 Aug 2015
+979,Hassan,Holenarsipura,Potato,Local,Medium,979,979,979,23 Sep 2014
+980,Bangalore,Hoskote,Potato,Local,FAQ,1200,1380,1280,18 Sep 2014
+981,Bangalore,Hoskote,Potato,Local,FAQ,1400,1600,1500,22 Apr 2015
+982,Bellary,Hospet,Potato,Potato,FAQ,1000,1000,1000,19 May 2015
+983,Bellary,Hospet,Potato,Potato,FAQ,1000,1900,1500,10 Mar 2015
+984,Bellary,Hospet,Potato,Potato,Medium,700,1100,1000,21 Jul 2015
+985,Bellary,Hospet,Potato,Potato,Medium,1100,2000,1600,01 Sep 2014
+986,Bellary,Hospet,Potato,Potato,Medium,1200,2000,1800,29 Dec 2014
+987,Bellary,Hospet,Potato,Potato,Medium,1400,1400,1400,28 Feb 2015
+988,Bellary,Hospet,Potato,Potato,Medium,1800,2000,1800,17 Dec 2014
+989,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1400,900,12 Jan 2015
+990,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,700,700,700,02 Mar 2015
+991,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,700,1650,1050,19 Jan 2015
+992,Dharwad,Hubli (Amaragol),Potato,Local,Medium,500,2300,1200,20 Oct 2014
+993,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,1100,1050,28 Jan 2015
+994,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2400,1500,18 Oct 2014
+995,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1500,2500,1900,06 Nov 2014
+996,Dharwad,Hubli (Amaragol),Potato,Local,Medium,2200,2700,2350,25 Sep 2014
+997,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,200,900,650,22 Aug 2015
+998,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1500,950,13 Jan 2015
+999,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,700,700,25 May 2015
+1000,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1000,900,19 Feb 2015
+1001,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1500,1150,29 Jan 2015
+1002,Dharwad,Hubli (Amaragol),Potato,Local,Medium,800,2400,1600,08 Nov 2014
+1003,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2800,1800,17 Sep 2014
+1004,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1200,2800,1900,29 Sep 2014
+1005,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,900,800,13 Mar 2015
+1006,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1000,950,28 Jan 2015
+1007,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1200,950,25 Feb 2015
+1008,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1200,1200,22 Jun 2015
+1009,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1250,1250,1250,18 Jun 2015
+1010,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1500,1600,1550,01 Jan 2015
+1011,Dharwad,Hubli (Amaragol),Potato,Other,Medium,650,700,650,28 Apr 2015
+1012,Dharwad,Hubli (Amaragol),Potato,Other,Medium,800,1200,1000,26 Jan 2015
+1013,Dharwad,Hubli (Amaragol),Potato,Other,Medium,900,1000,950,28 Jan 2015
+1014,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,950,750,02 Jul 2015
+1015,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,720,1000,850,24 Apr 2015
+1016,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,1050,850,28 Feb 2015
+1017,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,860,830,25 Aug 2015
+1018,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,950,850,24 Jul 2015
+1019,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,13 May 2015
+1020,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1050,900,29 Aug 2015
+1021,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1650,1550,19 Jan 2015
+1022,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1900,2000,1950,23 Dec 2014
+1023,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2100,2400,2250,12 Sep 2014
+1024,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2100,2600,2400,18 Nov 2014
+1025,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2100,2800,2550,03 Dec 2014
+1026,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2250,2500,2350,13 Oct 2014
+1027,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2500,2700,2600,24 Nov 2014
+1028,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2550,2650,2600,21 Nov 2014
+1029,Mysore,K.R.Nagar,Potato,Potato,FAQ,647,647,647,25 Aug 2015
+1030,Mysore,K.R.Nagar,Potato,Potato,Medium,1346,1346,1346,29 Sep 2014
+1031,Bangalore,Kanakapura,Potato,Local,FAQ,1500,2000,1750,22 Jan 2015
+1032,Bangalore,Kanakapura,Potato,Local,FAQ,1800,2000,1900,19 Mar 2015
+1033,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,01 Jul 2015
+1034,Kolar,Kolar,Potato,Local,FAQ,1200,1600,1400,10 Jan 2015
+1035,Kolar,Kolar,Potato,Local,FAQ,1200,1800,1600,28 May 2015
+1036,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1800,18 Jun 2015
+1037,Kolar,Kolar,Potato,Local,Medium,1500,2400,2200,26 Sep 2014
+1038,Kolar,Kolar,Potato,Local,Medium,2000,2500,2300,23 Oct 2014
+1039,Kolar,Kolar,Potato,Local,Medium,2000,3000,2180,21 Nov 2014
+1040,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1160,28 May 2015
+1041,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1170,25 May 2015
+1042,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1118,08 Jun 2015
+1043,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1200,16 Apr 2015
+1044,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1260,13 Apr 2015
+1045,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1300,18 Apr 2015
+1046,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1370,18 Feb 2015
+1047,Kolar,Malur,Potato,Potato,FAQ,1300,1900,1540,01 Jan 2015
+1048,Kolar,Malur,Potato,Potato,Medium,1800,2400,2000,15 Dec 2014
+1049,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,1300,900,09 Feb 2015
+1050,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,1300,900,12 Feb 2015
+1051,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,1400,950,05 Feb 2015
+1052,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,27 Feb 2015
+1053,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,09 Apr 2015
+1054,Tumkur,Tumkur,Potato,Other,FAQ,1600,2300,1900,21 Jan 2015
+1055,Tumkur,Tumkur,Potato,Other,Medium,1800,2450,2200,21 Oct 2014
+1056,Udupi,Udupi,Potato,Potato,FAQ,1100,1300,1200,12 Aug 2015
+1057,Udupi,Udupi,Potato,Potato,FAQ,1200,1500,1300,15 Jul 2015
+1058,Udupi,Udupi,Potato,Potato,FAQ,1200,1500,1300,29 Jul 2015
+1059,Udupi,Udupi,Potato,Potato,FAQ,1900,2300,2100,07 Jan 2015
+1060,Bangalore,Bangalore,Potato,Chips,FAQ,1100,1300,1200,15 Apr 2015
+1061,Bangalore,Bangalore,Potato,Chips,FAQ,1100,1700,1450,25 Jul 2015
+1062,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,24 Apr 2015
+1063,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,28 Apr 2015
+1064,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,05 Aug 2015
+1065,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,20 Apr 2015
+1066,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,26 Feb 2015
+1067,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,28 Aug 2015
+1068,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,28 Mar 2015
+1069,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,30 Apr 2015
+1070,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,31 Aug 2015
+1071,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1500,1350,07 Apr 2015
+1072,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1600,1400,21 Jul 2015
+1073,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1600,1400,28 May 2015
+1074,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,13 May 2015
+1075,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1550,1400,04 Jul 2015
+1076,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,12 Jun 2015
+1077,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,20 Jun 2015
+1078,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1800,1600,11 Feb 2015
+1079,Bangalore,Bangalore,Potato,Chips,FAQ,1500,1700,1600,27 Feb 2015
+1080,Bangalore,Bangalore,Potato,Chips,Large,1400,1800,1600,10 Feb 2015
+1081,Bangalore,Bangalore,Potato,Chips,Medium,2200,2700,2500,25 Sep 2014
+1082,Bangalore,Bangalore,Potato,Chips,Medium,2200,2800,2400,29 Sep 2014
+1083,Bangalore,Bangalore,Potato,Chips,Medium,2400,2600,2500,23 Sep 2014
+1084,Bangalore,Bangalore,Potato,Chips,Medium,2400,3000,2700,04 Sep 2014
+1085,Bangalore,Bangalore,Potato,Potato,FAQ,500,1200,1000,26 May 2015
+1086,Bangalore,Bangalore,Potato,Potato,FAQ,600,1100,950,14 May 2015
+1087,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,1000,20 May 2015
+1088,Bangalore,Bangalore,Potato,Potato,FAQ,600,1400,1000,24 Mar 2015
+1089,Bangalore,Bangalore,Potato,Potato,FAQ,700,900,800,18 Aug 2015
+1090,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,06 Aug 2015
+1091,Bangalore,Bangalore,Potato,Potato,FAQ,700,1200,950,19 Mar 2015
+1092,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,20 Aug 2015
+1093,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,1000,24 Jun 2015
+1094,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,16 Jun 2015
+1095,Bangalore,Bangalore,Potato,Potato,FAQ,800,1400,1100,12 Mar 2015
+1096,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,27 Feb 2015
+1097,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1400,1200,25 May 2015
+1098,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,14 Jan 2015
+1099,Bangalore,Bangalore,Potato,Potato,Medium,1000,1800,1500,11 Dec 2014
+1100,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3200,2400,14 Oct 2014
+1101,Kolar,Bangarpet,Potato,Jalander,Medium,2000,3600,2500,16 Sep 2014
+1102,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1500,11 Apr 2015
+1103,Belgaum,Belgaum,Potato,Local,FAQ,500,1000,800,27 Jul 2015
+1104,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,800,03 Jul 2015
+1105,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,900,04 Jun 2015
+1106,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1000,25 Jun 2015
+1107,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1200,26 Mar 2015
+1108,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1230,04 Feb 2015
+1109,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,23 May 2015
+1110,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,25 May 2015
+1111,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1100,10 Apr 2015
+1112,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1200,16 Apr 2015
+1113,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1050,900,19 May 2015
+1114,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,850,1050,950,21 Jul 2015
+1115,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1000,950,11 Feb 2015
+1116,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1250,1100,09 Jan 2015
+1117,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1120,1120,1120,10 Mar 2015
+1118,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,17 Jan 2015
+1119,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1500,2000,1700,29 Dec 2014
+1120,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2600,2500,14 Nov 2014
+1121,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2600,2500,29 Sep 2014
+1122,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2500,2600,2550,08 Oct 2014
+1123,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2700,3000,2850,05 Dec 2014
+1124,Mysore,K.R.Nagar,Potato,Potato,FAQ,900,900,900,26 Aug 2015
+1125,Mysore,K.R.Nagar,Potato,Potato,FAQ,966,966,966,24 Aug 2015
+1126,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,07 Aug 2015
+1127,Mysore,K.R.Nagar,Potato,Potato,FAQ,1200,1200,1200,23 May 2015
+1128,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,09 Sep 2014
+1129,Bangalore,Kanakapura,Potato,Local,FAQ,1500,2200,1950,20 Mar 2015
+1130,Kolar,Kolar,Potato,Local,FAQ,1000,1300,1150,24 Mar 2015
+1131,Kolar,Kolar,Potato,Local,FAQ,1100,1400,1300,25 Feb 2015
+1132,Kolar,Kolar,Potato,Local,FAQ,1400,1600,1500,27 Jan 2015
+1133,Kolar,Kolar,Potato,Local,FAQ,1400,1700,1500,04 Feb 2015
+1134,Kolar,Kolar,Potato,Local,Medium,1400,1600,1500,27 Jan 2015
+1135,Kolar,Kolar,Potato,Local,Medium,1500,3000,2800,30 Oct 2014
+1136,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1200,20 May 2015
+1137,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1280,24 Mar 2015
+1138,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1330,18 Mar 2015
+1139,Kolar,Malur,Potato,Potato,FAQ,1000,1600,1060,08 Jan 2015
+1140,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1200,28 Feb 2015
+1141,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1220,31 Jul 2015
+1142,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1250,11 May 2015
+1143,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1200,03 Jun 2015
+1144,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1300,06 Apr 2015
+1145,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1320,21 Feb 2015
+1146,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1340,27 Feb 2015
+1147,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1600,19 Jan 2015
+1148,Kolar,Mulabagilu,Potato,Potato,Medium,1000,1750,1375,27 Dec 2014
+1149,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,1300,900,13 Feb 2015
+1150,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,26 Aug 2015
+1151,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1000,950,21 Jul 2015
+1152,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1100,1400,1250,21 Feb 2015
+1153,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1500,2200,1850,03 Sep 2014
+1154,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1700,2000,1850,15 Dec 2014
+1155,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,16 Apr 2015
+1156,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,21 May 2015
+1157,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,03 Mar 2015
+1158,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,17 Jun 2015
+1159,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,24 Jul 2015
+1160,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,01 Jan 2015
+1161,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,05 Jan 2015
+1162,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,11 Sep 2014
+1163,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,18 Sep 2014
+1164,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,22 Sep 2014
+1165,Kolar,Srinivasapur,Potato,Potato,FAQ,800,1200,1000,29 Aug 2015
+1166,Kolar,Srinivasapur,Potato,Potato,FAQ,1000,1500,1333,11 Feb 2015
+1167,Bangalore,Bangalore,Potato,Chips,FAQ,1000,1600,1400,27 Jul 2015
+1168,Bangalore,Bangalore,Potato,Chips,FAQ,1100,1300,1200,08 Jul 2015
+1169,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,09 Apr 2015
+1170,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1500,1350,01 Jun 2015
+1171,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1500,1350,14 Aug 2015
+1172,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,18 May 2015
+1173,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1600,1450,20 May 2015
+1174,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1800,1550,23 May 2015
+1175,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1800,1550,25 May 2015
+1176,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1800,1600,11 Mar 2015
+1177,Bangalore,Bangalore,Potato,Chips,FAQ,1600,2000,1800,16 Jan 2015
+1178,Bangalore,Bangalore,Potato,Chips,FAQ,1700,1900,1800,23 Jan 2015
+1179,Bangalore,Bangalore,Potato,Chips,FAQ,1900,2000,1950,06 Jan 2015
+1180,Bangalore,Bangalore,Potato,Chips,Medium,2000,2200,2100,13 Oct 2014
+1181,Bangalore,Bangalore,Potato,Chips,Medium,2400,2800,2600,12 Sep 2014
+1182,Bangalore,Bangalore,Potato,Potato,FAQ,500,1200,900,05 Jun 2015
+1183,Bangalore,Bangalore,Potato,Potato,FAQ,600,1400,1000,23 Mar 2015
+1184,Bangalore,Bangalore,Potato,Potato,FAQ,600,1400,1100,28 Feb 2015
+1185,Bangalore,Bangalore,Potato,Potato,FAQ,700,1500,1100,12 Feb 2015
+1186,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,26 Aug 2015
+1187,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,12 Jun 2015
+1188,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,15 Jul 2015
+1189,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,30 Jun 2015
+1190,Bangalore,Bangalore,Potato,Potato,FAQ,800,1300,1050,13 Apr 2015
+1191,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,28 Jan 2015
+1192,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,02 Jan 2015
+1193,Bangalore,Bangalore,Potato,Potato,Large,1000,1400,1200,30 Jan 2015
+1194,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3600,2400,27 Oct 2014
+1195,Kolar,Bangarpet,Potato,Local,FAQ,1200,1500,1300,16 Apr 2015
+1196,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1400,20 Feb 2015
+1197,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,800,20 May 2015
+1198,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,800,22 Jul 2015
+1199,Belgaum,Belgaum,Potato,Local,FAQ,600,1400,1200,02 Feb 2015
+1200,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,07 Aug 2015
+1201,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1100,19 Mar 2015
+1202,Belgaum,Belgaum,Potato,Local,FAQ,800,1300,1150,05 Mar 2015
+1203,Belgaum,Belgaum,Potato,Local,FAQ,800,1300,1150,30 Apr 2015
+1204,Belgaum,Belgaum,Potato,Local,FAQ,800,1400,1200,19 Feb 2015
+1205,Belgaum,Belgaum,Potato,Local,Medium,800,2700,1200,21 Nov 2014
+1206,Belgaum,Belgaum,Potato,Local,Medium,1800,2300,2050,11 Sep 2014
+1207,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,1000,1000,1000,03 Jan 2015
+1208,Kolar,Chickkaballapura,Potato,Jalander,FAQ,800,1200,1075,30 Aug 2015
+1209,Kolar,Chickkaballapura,Potato,Jalander,FAQ,900,1200,1075,25 Aug 2015
+1210,Kolar,Chickkaballapura,Potato,Jalander,Large,2000,4000,2150,05 Dec 2014
+1211,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,700,01 Apr 2015
+1212,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,29 Apr 2015
+1213,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1000,800,29 Jul 2015
+1214,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1100,24 Feb 2015
+1215,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1200,1100,25 Feb 2015
+1216,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1500,1400,27 Jan 2015
+1217,Kolar,Chickkaballapura,Potato,Local,FAQ,500,1300,1100,18 Feb 2015
+1218,Kolar,Chickkaballapura,Potato,Local,Medium,500,2200,2000,02 Dec 2014
+1219,Kolar,Chickkaballapura,Potato,Local,Medium,2000,2400,2200,11 Oct 2014
+1220,Hassan,Arasikere,Potato,Local,Medium,1000,1000,1000,08 Jan 2015
+1221,Chikmagalur,Bagepalli,Potato,Potato,FAQ,900,1100,1000,02 May 2015
+1222,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1500,1800,1700,10 Feb 2015
+1223,Bangalore,Bangalore,Potato,Chips,FAQ,1100,1200,1150,12 Aug 2015
+1224,Bangalore,Bangalore,Potato,Chips,FAQ,1100,1500,1300,11 Aug 2015
+1225,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,19 Mar 2015
+1226,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,26 Mar 2015
+1227,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1450,1350,07 May 2015
+1228,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,15 Jul 2015
+1229,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1500,1450,01 Jul 2015
+1230,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1650,1550,06 Mar 2015
+1231,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1800,1700,12 Jan 2015
+1232,Bangalore,Bangalore,Potato,Chips,FAQ,1600,1800,1700,27 Jan 2015
+1233,Bangalore,Bangalore,Potato,Chips,Medium,2200,2400,2300,19 Sep 2014
+1234,Bangalore,Bangalore,Potato,Chips,Medium,2600,3000,2700,10 Sep 2014
+1235,Bangalore,Bangalore,Potato,Potato,FAQ,500,1200,1000,27 May 2015
+1236,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,24 Jul 2015
+1237,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,950,25 Mar 2015
+1238,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,1000,19 May 2015
+1239,Bangalore,Bangalore,Potato,Potato,FAQ,600,1300,950,06 Apr 2015
+1240,Bangalore,Bangalore,Potato,Potato,FAQ,600,1500,1000,07 Apr 2015
+1241,Bangalore,Bangalore,Potato,Potato,FAQ,650,1400,1050,17 Mar 2015
+1242,Bangalore,Bangalore,Potato,Potato,FAQ,700,900,800,17 Aug 2015
+1243,Bangalore,Bangalore,Potato,Potato,FAQ,700,1100,950,21 Jul 2015
+1244,Bangalore,Bangalore,Potato,Potato,FAQ,700,1400,1000,09 Apr 2015
+1245,Bangalore,Bangalore,Potato,Potato,FAQ,700,1400,1100,18 Feb 2015
+1246,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,08 Jul 2015
+1247,Bangalore,Bangalore,Potato,Potato,FAQ,800,1150,950,29 Jun 2015
+1248,Bangalore,Bangalore,Potato,Potato,FAQ,800,1150,1000,23 Jun 2015
+1249,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,18 Apr 2015
+1250,Bangalore,Bangalore,Potato,Potato,FAQ,900,1100,1000,08 Jun 2015
+1251,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1300,1250,01 Jan 2015
+1252,Bangalore,Bangalore,Potato,Potato,Medium,600,900,800,24 Dec 2014
+1253,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3200,2000,29 Oct 2014
+1254,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3500,2200,09 Oct 2014
+1255,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3600,2200,13 Nov 2014
+1256,Kolar,Bangarpet,Potato,Local,FAQ,1000,1400,1200,28 Mar 2015
+1257,Kolar,Bangarpet,Potato,Local,Medium,1500,2500,2200,26 Sep 2014
+1258,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,800,17 Jun 2015
+1259,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,800,19 Jun 2015
+1260,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,980,27 May 2015
+1261,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,980,28 May 2015
+1262,Belgaum,Belgaum,Potato,Local,FAQ,600,1200,900,28 Feb 2015
+1263,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1200,15 Feb 2015
+1264,Belgaum,Belgaum,Potato,Local,FAQ,600,1400,1200,01 Feb 2015
+1265,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,06 Jun 2015
+1266,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,22 Feb 2015
+1267,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,30 Jul 2015
+1268,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1200,08 Feb 2015
+1269,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1200,30 Mar 2015
+1270,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1230,13 Feb 2015
+1271,Belgaum,Belgaum,Potato,Local,FAQ,700,1800,1340,30 Jan 2015
+1272,Belgaum,Belgaum,Potato,Local,FAQ,800,1200,1000,01 Apr 2015
+1273,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,800,30 Mar 2015
+1274,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1000,900,19 Aug 2015
+1275,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1100,900,04 Mar 2015
+1276,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1000,06 Jun 2015
+1277,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1000,20 Jun 2015
+1278,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1800,1600,07 Jan 2015
+1279,Kolar,Chickkaballapura,Potato,Local,FAQ,500,1700,1600,19 Jan 2015
+1280,Kolar,Chickkaballapura,Potato,Local,Large,600,2400,2200,22 Nov 2014
+1281,Kolar,Chickkaballapura,Potato,Local,Large,2000,2200,2100,22 Oct 2014
+1282,Kolar,Chickkaballapura,Potato,Local,Medium,400,1600,1500,23 Dec 2014
+1283,Kolar,Chickkaballapura,Potato,Local,Medium,2000,2200,2100,20 Sep 2014
+1284,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,22 Aug 2015
+1285,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,24 Jun 2015
+1286,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1300,1000,03 Jul 2015
+1287,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1400,1200,01 Jul 2015
+1288,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1200,1800,1500,18 Mar 2015
+1289,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1400,1700,1500,05 Jan 2015
+1290,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2000,2600,2400,02 Jan 2015
+1291,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1900,2300,2100,26 Sep 2014
+1292,Davangere,Davangere,Potato,Potato,FAQ,1100,1400,1250,08 May 2015
+1293,Davangere,Davangere,Potato,Potato,FAQ,1200,1300,1250,05 Jun 2015
+1294,Davangere,Davangere,Potato,Potato,FAQ,1300,1400,1350,24 Apr 2015
+1295,Kolar,Gowribidanoor,Potato,Potato,FAQ,800,1200,1000,21 Jan 2015
+1296,Hassan,Hassan,Potato,Potato,FAQ,500,1000,800,13 Aug 2015
+1297,Hassan,Hassan,Potato,Potato,FAQ,500,1050,700,24 Aug 2015
+1298,Hassan,Hassan,Potato,Potato,FAQ,600,800,700,19 Aug 2015
+1299,Hassan,Hassan,Potato,Potato,FAQ,686,947,900,30 May 2015
+1300,Hassan,Hassan,Potato,Potato,FAQ,790,1000,1000,23 May 2015
+1301,Hassan,Hassan,Potato,Potato,FAQ,798,1000,1000,15 May 2015
+1302,Hassan,Hassan,Potato,Potato,FAQ,800,1055,1055,05 Mar 2015
+1303,Hassan,Hassan,Potato,Potato,FAQ,824,827,827,31 Mar 2015
+1304,Hassan,Hassan,Potato,Potato,FAQ,978,978,978,19 Jun 2015
+1305,Hassan,Hassan,Potato,Potato,Medium,1511,1511,1511,25 Nov 2014
+1306,Chitradurga,Holalkere,Potato,Potato,Medium,1450,1450,1450,29 Sep 2014
+1307,Hassan,Holenarsipura,Potato,Local,FAQ,428,428,428,16 Aug 2015
+1308,Hassan,Holenarsipura,Potato,Local,FAQ,600,600,600,21 Aug 2015
+1309,Bangalore,Hoskote,Potato,Local,FAQ,1000,1500,1200,01 Apr 2015
+1310,Bangalore,Hoskote,Potato,Local,FAQ,1300,1500,1400,29 Apr 2015
+1311,Bellary,Hospet,Potato,Potato,Medium,1000,1500,1000,13 May 2015
+1312,Bellary,Hospet,Potato,Potato,Medium,1100,2500,1500,28 Oct 2014
+1313,Bellary,Hospet,Potato,Potato,Medium,1200,2000,1400,16 Feb 2015
+1314,Bellary,Hospet,Potato,Potato,Medium,1200,2000,1500,09 Feb 2015
+1315,Bellary,Hospet,Potato,Potato,Medium,1400,1800,1800,30 Dec 2014
+1316,Bellary,Hospet,Potato,Potato,Medium,1400,2000,1600,02 Dec 2014
+1317,Bellary,Hospet,Potato,Potato,Medium,1800,1800,1800,18 Oct 2014
+1318,Bellary,Hospet,Potato,Potato,Medium,1800,2000,2000,15 Dec 2014
+1319,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,400,1100,700,16 Feb 2015
+1320,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2400,1600,16 Oct 2014
+1321,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1700,2600,2100,31 Oct 2014
+1322,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,200,1500,800,13 Apr 2015
+1323,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,300,1000,650,23 Apr 2015
+1324,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,1250,1150,16 Mar 2015
+1325,Hassan,Arasikere,Potato,Local,Medium,2500,2700,2700,03 Jan 2015
+1326,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1000,1600,1400,25 Apr 2015
+1327,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1400,1600,1500,21 Feb 2015
+1328,Bangalore,Bangalore,Potato,Chips,FAQ,1100,1500,1300,10 Aug 2015
+1329,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,25 Mar 2015
+1330,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,13 Aug 2015
+1331,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1600,1400,29 May 2015
+1332,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1500,1450,17 Mar 2015
+1333,Bangalore,Bangalore,Potato,Chips,FAQ,1500,1700,1600,25 Feb 2015
+1334,Bangalore,Bangalore,Potato,Chips,FAQ,1700,1900,1800,04 Feb 2015
+1335,Bangalore,Bangalore,Potato,Chips,FAQ,1800,2000,1900,19 Jan 2015
+1336,Bangalore,Bangalore,Potato,Chips,Medium,2200,2400,2300,21 Oct 2014
+1337,Bangalore,Bangalore,Potato,Chips,Medium,2400,2600,2500,30 Oct 2014
+1338,Bangalore,Bangalore,Potato,Potato,FAQ,500,1200,900,01 Jun 2015
+1339,Bangalore,Bangalore,Potato,Potato,FAQ,500,1200,900,30 May 2015
+1340,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,28 Jul 2015
+1341,Bangalore,Bangalore,Potato,Potato,FAQ,700,1100,900,09 Jul 2015
+1342,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,04 Aug 2015
+1343,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,27 Aug 2015
+1344,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,11 Jun 2015
+1345,Bangalore,Bangalore,Potato,Potato,FAQ,800,1500,1200,05 Mar 2015
+1346,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,29 Jan 2015
+1347,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1500,1400,05 Jan 2015
+1348,Bangalore,Bangalore,Potato,Potato,FAQ,1300,1700,1500,17 Jan 2015
+1349,Bangalore,Bangalore,Potato,Potato,Medium,2000,2400,2200,25 Nov 2014
+1350,Kolar,Bangarpet,Potato,Jalander,Medium,1900,3200,2400,24 Sep 2014
+1351,Kolar,Bangarpet,Potato,Jalander,Medium,2000,3800,3200,09 Sep 2014
+1352,Kolar,Bangarpet,Potato,Jalander,Medium,2500,3800,3200,13 Sep 2014
+1353,Kolar,Bangarpet,Potato,Local,FAQ,1000,1600,1200,26 Mar 2015
+1354,Kolar,Bangarpet,Potato,Local,FAQ,1000,1850,1350,03 Jan 2015
+1355,Kolar,Bangarpet,Potato,Local,FAQ,1000,1850,1450,21 Jan 2015
+1356,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1300,27 Feb 2015
+1357,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1400,31 Jan 2015
+1358,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1200,16 Feb 2015
+1359,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,900,21 Jun 2015
+1360,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,06 Aug 2015
+1361,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,17 May 2015
+1362,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,21 Feb 2015
+1363,Belgaum,Belgaum,Potato,Local,FAQ,800,1500,1200,04 Apr 2015
+1364,Belgaum,Belgaum,Potato,Local,FAQ,800,1700,1300,22 Jan 2015
+1365,Belgaum,Belgaum,Potato,Local,FAQ,800,2300,1480,05 Jan 2015
+1366,Belgaum,Belgaum,Potato,Local,FAQ,900,1300,1100,28 Aug 2015
+1367,Belgaum,Belgaum,Potato,Local,FAQ,900,2200,1500,17 Jan 2015
+1368,Belgaum,Belgaum,Potato,Local,Medium,800,2700,1200,20 Nov 2014
+1369,Belgaum,Belgaum,Potato,Local,Medium,900,2400,1500,01 Jan 2015
+1370,Belgaum,Belgaum,Potato,Local,Medium,1000,2600,1600,16 Nov 2014
+1371,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,13 Sep 2014
+1372,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,800,15 May 2015
+1373,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,18 Apr 2015
+1374,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,27 May 2015
+1375,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,1000,24 Jun 2015
+1376,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1200,1100,27 Feb 2015
+1377,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1400,1300,14 Feb 2015
+1378,Kolar,Chickkaballapura,Potato,Jalander,FAQ,2000,4000,2150,13 Jan 2015
+1379,Kolar,Chickkaballapura,Potato,Jalander,Large,2000,4000,2150,24 Sep 2014
+1380,Kolar,Chickkaballapura,Potato,Jalander,Large,2000,4000,2150,31 Oct 2014
+1381,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,02 Nov 2014
+1382,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,19 Nov 2014
+1383,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,24 Oct 2014
+1384,Kolar,Chickkaballapura,Potato,Local,FAQ,200,900,800,13 Apr 2015
+1385,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,800,23 May 2015
+1386,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,06 May 2015
+1387,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1200,1100,07 Mar 2015
+1388,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1600,1500,12 Jan 2015
+1389,Kolar,Chickkaballapura,Potato,Local,FAQ,500,1700,1500,23 Jan 2015
+1390,Kolar,Chickkaballapura,Potato,Local,Medium,500,2100,1800,13 Dec 2014
+1391,Kolar,Chickkaballapura,Potato,Local,Medium,1600,2400,2200,08 Nov 2014
+1392,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,700,1000,800,17 Aug 2015
+1393,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,21 Aug 2015
+1394,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,24 Jul 2015
+1395,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1500,1200,27 Jun 2015
+1396,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1200,1800,1500,16 Mar 2015
+1397,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1400,1800,1500,03 Jan 2015
+1398,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1750,2200,2000,20 Sep 2014
+1399,Davangere,Davangere,Potato,Potato,FAQ,800,1200,1000,02 May 2015
+1400,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,04 Apr 2015
+1401,Hassan,Hassan,Potato,Potato,FAQ,500,993,970,10 Jul 2015
+1402,Hassan,Hassan,Potato,Potato,FAQ,700,782,700,31 Aug 2015
+1403,Hassan,Hassan,Potato,Potato,FAQ,897,1000,1000,22 May 2015
+1404,Hassan,Hassan,Potato,Potato,FAQ,900,900,900,11 Aug 2015
+1405,Hassan,Hassan,Potato,Potato,FAQ,1500,1794,1500,09 Jan 2015
+1406,Hassan,Hassan,Potato,Potato,Medium,1200,2642,2175,06 Nov 2014
+1407,Hassan,Hassan,Potato,Potato,Medium,1676,1676,1676,15 Oct 2014
+1408,Hassan,Holenarsipura,Potato,Local,FAQ,666,666,666,09 Aug 2015
+1409,Hassan,Holenarsipura,Potato,Local,Medium,800,800,800,26 Oct 2014
+1410,Hassan,Holenarsipura,Potato,Potato,Medium,800,800,800,13 Oct 2014
+1411,Bangalore,Hoskote,Potato,Local,FAQ,1600,1800,1700,24 Jul 2015
+1412,Bellary,Hospet,Potato,Potato,FAQ,1000,1200,1000,24 Mar 2015
+1413,Bellary,Hospet,Potato,Potato,Medium,1000,1000,1000,02 Aug 2015
+1414,Bellary,Hospet,Potato,Potato,Medium,1100,1400,1200,18 May 2015
+1415,Bellary,Hospet,Potato,Potato,Medium,1200,1200,1200,28 Jul 2015
+1416,Bellary,Hospet,Potato,Potato,Medium,1200,1900,1200,02 Feb 2015
+1417,Bellary,Hospet,Potato,Potato,Medium,1400,1800,1600,10 Feb 2015
+1418,Bellary,Hospet,Potato,Potato,Medium,1400,2000,1500,11 Mar 2015
+1419,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,400,900,650,10 Mar 2015
+1420,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1100,800,06 Feb 2015
+1421,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1500,900,24 Jan 2015
+1422,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1000,1200,1100,27 Jan 2015
+1423,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1200,2800,1850,25 Oct 2014
+1424,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1200,2900,2100,06 Sep 2014
+1425,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1700,2600,2100,12 Sep 2014
+1426,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,400,1050,700,17 Aug 2015
+1427,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1500,1000,21 Jan 2015
+1428,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,950,850,15 Apr 2015
+1429,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1200,1000,26 Jan 2015
+1430,Hassan,Arasikere,Potato,Local,Medium,1500,2500,1500,06 Jan 2015
+1431,Chikmagalur,Bagepalli,Potato,Potato,FAQ,800,1200,1000,05 Jan 2015
+1432,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1400,1600,1500,31 Jan 2015
+1433,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,27 Apr 2015
+1434,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,04 Aug 2015
+1435,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,06 Apr 2015
+1436,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1500,1350,30 May 2015
+1437,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1600,1400,02 Mar 2015
+1438,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1600,1400,16 Jun 2015
+1439,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1600,1450,19 May 2015
+1440,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1600,1450,21 May 2015
+1441,Bangalore,Bangalore,Potato,Chips,FAQ,1350,1600,1500,09 Jun 2015
+1442,Bangalore,Bangalore,Potato,Chips,FAQ,1350,1600,1500,11 Jun 2015
+1443,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,19 Jun 2015
+1444,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,23 Jun 2015
+1445,Bangalore,Bangalore,Potato,Chips,FAQ,1500,1800,1600,23 Feb 2015
+1446,Bangalore,Bangalore,Potato,Chips,FAQ,1500,1800,1650,24 Feb 2015
+1447,Bangalore,Bangalore,Potato,Chips,FAQ,1600,2000,1800,13 Jan 2015
+1448,Bangalore,Bangalore,Potato,Chips,FAQ,1700,1900,1800,08 Jan 2015
+1449,Bangalore,Bangalore,Potato,Chips,FAQ,1800,1900,1850,05 Jan 2015
+1450,Bangalore,Bangalore,Potato,Chips,Medium,2400,2600,2500,05 Sep 2014
+1451,Bangalore,Bangalore,Potato,Chips,Medium,2400,2600,2500,06 Sep 2014
+1452,Bangalore,Bangalore,Potato,Local,FAQ,800,1400,1100,10 Jun 2015
+1453,Bangalore,Bangalore,Potato,Local,Medium,2800,3000,2900,31 Oct 2014
+1454,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,950,16 May 2015
+1455,Bangalore,Bangalore,Potato,Potato,FAQ,700,1300,1000,02 May 2015
+1456,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,25 Aug 2015
+1457,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,30 Jul 2015
+1458,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,08 May 2015
+1459,Bangalore,Bangalore,Potato,Potato,FAQ,800,1250,1050,07 May 2015
+1460,Bangalore,Bangalore,Potato,Potato,FAQ,800,1500,1100,24 Feb 2015
+1461,Bangalore,Bangalore,Potato,Potato,FAQ,900,1200,1100,27 Apr 2015
+1462,Bangalore,Bangalore,Potato,Potato,FAQ,900,1300,1100,21 Feb 2015
+1463,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1500,1350,12 Jan 2015
+1464,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1600,1500,21 Jan 2015
+1465,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1800,1600,03 Jan 2015
+1466,Bangalore,Bangalore,Potato,Potato,Medium,800,1400,1100,16 Dec 2014
+1467,Bangalore,Bangalore,Potato,Potato,Medium,1200,1400,1300,31 Dec 2014
+1468,Bangalore,Bangalore,Potato,Potato,Medium,1500,1900,1800,15 Dec 2014
+1469,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3600,2200,10 Nov 2014
+1470,Kolar,Bangarpet,Potato,Jalander,Medium,1850,3300,2200,25 Nov 2014
+1471,Kolar,Bangarpet,Potato,Jalander,Medium,2100,3600,2400,19 Sep 2014
+1472,Kolar,Bangarpet,Potato,Local,FAQ,1000,1820,1460,20 Jan 2015
+1473,Kolar,Bangarpet,Potato,Local,FAQ,1200,1700,1300,03 Mar 2015
+1474,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,960,17 Aug 2015
+1475,Belgaum,Belgaum,Potato,Local,FAQ,600,1150,980,08 Aug 2015
+1476,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,900,08 May 2015
+1477,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,900,28 Jun 2015
+1478,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,05 Aug 2015
+1479,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,13 Aug 2015
+1480,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,24 May 2015
+1481,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1100,19 Apr 2015
+1482,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1230,11 Feb 2015
+1483,Kolar,Chickkaballapura,Potato,Local,Medium,500,2400,2000,19 Dec 2014
+1484,Kolar,Chickkaballapura,Potato,Local,Medium,500,2600,2300,12 Dec 2014
+1485,Kolar,Chickkaballapura,Potato,Local,Medium,2000,2400,2200,18 Oct 2014
+1486,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,04 Aug 2015
+1487,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,11 Aug 2015
+1488,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,700,1000,800,14 Aug 2015
+1489,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,19 Aug 2015
+1490,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,20 Apr 2015
+1491,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,22 Apr 2015
+1492,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1300,1000,04 Jul 2015
+1493,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1600,2000,1800,17 Apr 2015
+1494,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2300,2000,09 Jan 2015
+1495,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2400,2000,30 Jan 2015
+1496,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1700,2200,1900,03 Sep 2014
+1497,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,10 Jul 2015
+1498,Davangere,Davangere,Potato,Potato,FAQ,1500,1700,1600,07 Aug 2015
+1499,Madikeri(Kodagu),Gonikappal,Potato,Local,Medium,667,667,667,10 Sep 2014
+1500,Hassan,Hassan,Potato,Potato,FAQ,500,861,800,12 Aug 2015
+1501,Hassan,Hassan,Potato,Potato,FAQ,500,1000,700,20 Aug 2015
+1502,Hassan,Hassan,Potato,Potato,FAQ,594,1000,700,27 Aug 2015
+1503,Hassan,Hassan,Potato,Potato,FAQ,800,800,800,15 Jul 2015
+1504,Hassan,Hassan,Potato,Potato,FAQ,800,800,800,20 Jun 2015
+1505,Hassan,Hassan,Potato,Potato,FAQ,900,1000,1000,26 May 2015
+1506,Hassan,Hassan,Potato,Potato,FAQ,1000,1000,1000,18 May 2015
+1507,Hassan,Hassan,Potato,Potato,Medium,1381,1381,1381,15 Nov 2014
+1508,Hassan,Hassan,Potato,Potato,Medium,2891,2891,2891,11 Dec 2014
+1509,Hassan,Holenarsipura,Potato,Local,FAQ,625,625,625,23 Aug 2015
+1510,Hassan,Holenarsipura,Potato,Local,FAQ,700,700,700,01 Sep 2015
+1511,Hassan,Holenarsipura,Potato,Local,Medium,700,794,794,18 Sep 2014
+1512,Bangalore,Hoskote,Potato,Local,FAQ,1700,1900,1800,20 Jun 2015
+1513,Bangalore,Hoskote,Potato,Potato,FAQ,1500,2000,1850,04 Feb 2015
+1514,Bellary,Hospet,Potato,Potato,Medium,1000,1200,1200,13 Jul 2015
+1515,Bellary,Hospet,Potato,Potato,Medium,1400,2000,1600,18 Feb 2015
+1516,Bellary,Hospet,Potato,Potato,Medium,1600,1600,1600,28 Sep 2014
+1517,Bellary,Hospet,Potato,Potato,Medium,2000,2000,2000,02 Nov 2014
+1518,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,200,900,650,26 Mar 2015
+1519,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,900,700,11 Feb 2015
+1520,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,800,1000,900,24 Feb 2015
+1521,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,850,1150,950,03 Feb 2015
+1522,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1000,1100,1050,28 Jan 2015
+1523,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2200,1100,18 Sep 2014
+1524,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2400,1650,14 Oct 2014
+1525,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2700,1900,15 Sep 2014
+1526,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2800,1800,13 Oct 2014
+1527,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1400,2800,1800,21 Nov 2014
+1528,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1400,2800,1900,27 Sep 2014
+1529,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1800,2900,2200,10 Oct 2014
+1530,Dharwad,Hubli (Amaragol),Potato,Local,Medium,2100,2600,2300,22 Sep 2014
+1531,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,400,1500,800,21 May 2015
+1532,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1300,950,10 Mar 2015
+1533,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,950,1000,950,27 Jul 2015
+1534,Dharwad,Hubli (Amaragol),Potato,Other,Medium,250,750,550,27 Apr 2015
+1535,Hassan,Arasikere,Potato,Local,FAQ,1000,1000,1000,06 Apr 2015
+1536,Hassan,Arasikere,Potato,Local,Medium,1000,1000,1000,09 Sep 2014
+1537,Hassan,Arasikere,Potato,Local,Medium,1800,1800,1800,16 Jan 2015
+1538,Bangalore,Bangalore,Potato,Chips,FAQ,1000,1600,1400,30 Jul 2015
+1539,Bangalore,Bangalore,Potato,Chips,FAQ,1100,1500,1300,07 Aug 2015
+1540,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1300,1250,30 Mar 2015
+1541,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,01 Sep 2015
+1542,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1400,1300,20 Mar 2015
+1543,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1500,1350,31 Jul 2015
+1544,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1600,1400,17 Jul 2015
+1545,Bangalore,Bangalore,Potato,Chips,FAQ,1200,1600,1500,07 Mar 2015
+1546,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1500,1400,09 Jul 2015
+1547,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,30 Jun 2015
+1548,Bangalore,Bangalore,Potato,Chips,FAQ,1700,1900,1800,02 Feb 2015
+1549,Bangalore,Bangalore,Potato,Chips,FAQ,1800,2000,1900,21 Jan 2015
+1550,Bangalore,Bangalore,Potato,Chips,Medium,2200,2600,2500,29 Oct 2014
+1551,Bangalore,Bangalore,Potato,Chips,Medium,2400,2600,2500,08 Sep 2014
+1552,Bangalore,Bangalore,Potato,Chips,Medium,2400,2600,2500,11 Sep 2014
+1553,Bangalore,Bangalore,Potato,Chips,Medium,2400,2700,2500,30 Sep 2014
+1554,Bangalore,Bangalore,Potato,Chips,Medium,3000,3200,3100,31 Oct 2014
+1555,Bangalore,Bangalore,Potato,Local,FAQ,1200,1300,1250,10 Mar 2015
+1556,Bangalore,Bangalore,Potato,Potato,FAQ,600,1100,900,06 May 2015
+1557,Bangalore,Bangalore,Potato,Potato,FAQ,600,1300,1000,22 May 2015
+1558,Bangalore,Bangalore,Potato,Potato,FAQ,700,1400,1100,19 Feb 2015
+1559,Bangalore,Bangalore,Potato,Potato,FAQ,700,1400,1150,22 Apr 2015
+1560,Bangalore,Bangalore,Potato,Potato,FAQ,700,1500,1300,13 Feb 2015
+1561,Bangalore,Bangalore,Potato,Potato,FAQ,800,1150,1000,22 Jun 2015
+1562,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1500,1200,27 Jan 2015
+1563,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1600,1300,04 Mar 2015
+1564,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1600,1400,16 Jan 2015
+1565,Bangalore,Bangalore,Potato,Potato,Medium,1000,1500,1200,27 Jan 2015
+1566,Bangalore,Bangalore,Potato,Potato,Medium,1200,1700,1500,27 Dec 2014
+1567,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3000,2200,19 Nov 2014
+1568,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3100,2200,20 Nov 2014
+1569,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3200,2400,13 Oct 2014
+1570,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3200,2400,21 Oct 2014
+1571,Kolar,Bangarpet,Potato,Local,FAQ,600,1000,900,06 Jun 2015
+1572,Kolar,Bangarpet,Potato,Local,FAQ,1000,1400,1200,23 Apr 2015
+1573,Kolar,Bangarpet,Potato,Local,FAQ,1000,1800,1200,06 Jul 2015
+1574,Kolar,Bangarpet,Potato,Local,FAQ,1200,1500,1300,17 Aug 2015
+1575,Kolar,Bangarpet,Potato,Local,FAQ,1200,1700,1300,09 Mar 2015
+1576,Kolar,Bangarpet,Potato,Local,FAQ,1200,1700,1300,16 Mar 2015
+1577,Belgaum,Belgaum,Potato,Local,FAQ,500,1000,800,26 Jul 2015
+1578,Belgaum,Belgaum,Potato,Local,FAQ,600,1150,980,09 Aug 2015
+1579,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,900,06 Jul 2015
+1580,Belgaum,Belgaum,Potato,Local,FAQ,800,1100,950,12 Jul 2015
+1581,Belgaum,Belgaum,Potato,Local,FAQ,800,1300,1000,08 Jul 2015
+1582,Belgaum,Belgaum,Potato,Local,FAQ,800,2100,1400,14 Jan 2015
+1583,Belgaum,Belgaum,Potato,Local,FAQ,800,2300,1480,04 Jan 2015
+1584,Belgaum,Belgaum,Potato,Local,FAQ,900,1300,1100,26 Aug 2015
+1585,Belgaum,Belgaum,Potato,Local,FAQ,900,2600,1500,09 Jan 2015
+1586,Belgaum,Belgaum,Potato,Local,Medium,800,2600,1460,31 Oct 2014
+1587,Belgaum,Belgaum,Potato,Local,Medium,900,2350,1530,05 Sep 2014
+1588,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1650,2100,1900,16 Jan 2015
+1589,Dharwad,Hubli (Amaragol),Potato,Other,Medium,400,680,650,31 Mar 2015
+1590,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,700,600,27 May 2015
+1591,Dharwad,Hubli (Amaragol),Potato,Other,Medium,900,2500,2050,06 Sep 2014
+1592,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,1000,750,08 Jul 2015
+1593,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,900,800,27 Aug 2015
+1594,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1000,750,06 Jul 2015
+1595,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1000,800,11 May 2015
+1596,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1050,850,09 May 2015
+1597,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,950,850,17 Aug 2015
+1598,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,06 May 2015
+1599,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,16 Jun 2015
+1600,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1100,900,16 Mar 2015
+1601,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,1050,900,22 Jun 2015
+1602,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1100,950,06 Jun 2015
+1603,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1100,950,09 Jun 2015
+1604,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,850,1000,950,23 Feb 2015
+1605,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,880,930,900,16 Feb 2015
+1606,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1000,950,24 Feb 2015
+1607,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1200,1050,13 Mar 2015
+1608,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1250,1150,19 Feb 2015
+1609,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1500,2200,1800,19 Dec 2014
+1610,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2300,2400,2350,20 Sep 2014
+1611,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2500,2700,2600,29 Nov 2014
+1612,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2500,2750,2600,31 Oct 2014
+1613,Mysore,Hunsur,Potato,Potato,Medium,375,375,375,31 Aug 2015
+1614,Mysore,K.R.Nagar,Potato,Potato,FAQ,600,600,600,26 Mar 2015
+1615,Mysore,K.R.Nagar,Potato,Potato,Medium,800,1000,888,27 Sep 2014
+1616,Mysore,K.R.Nagar,Potato,Potato,Medium,833,833,833,30 Sep 2014
+1617,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,07 Nov 2014
+1618,Kolar,Kolar,Potato,Local,FAQ,800,1300,1100,12 Apr 2015
+1619,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,14 May 2015
+1620,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,16 Apr 2015
+1621,Kolar,Kolar,Potato,Local,Medium,1500,2500,2300,16 Oct 2014
+1622,Kolar,Kolar,Potato,Local,Medium,2000,4000,3500,10 Nov 2014
+1623,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1123,13 Jul 2015
+1624,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1180,21 May 2015
+1625,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1190,17 Jun 2015
+1626,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1220,30 May 2015
+1627,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1250,28 Mar 2015
+1628,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1320,12 May 2015
+1629,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1300,12 Jun 2015
+1630,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1600,09 Jan 2015
+1631,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1650,12 Jan 2015
+1632,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1700,21 Jan 2015
+1633,Kolar,Malur,Potato,Potato,Medium,1700,2400,1770,03 Dec 2014
+1634,Kolar,Malur,Potato,Potato,Medium,1800,2200,2000,08 Dec 2014
+1635,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,25 Apr 2015
+1636,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1400,1050,27 Jan 2015
+1637,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1400,1050,29 Jan 2015
+1638,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,07 Apr 2015
+1639,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,15 Apr 2015
+1640,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,2000,2800,2400,30 Oct 2014
+1641,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,28 Feb 2015
+1642,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,06 Apr 2015
+1643,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,10 Jul 2015
+1644,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,24 Jun 2015
+1645,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1300,1150,11 Mar 2015
+1646,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,1800,1650,06 Jan 2015
+1647,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,2000,2600,2300,22 Nov 2014
+1648,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,31 Aug 2015
+1649,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,05 May 2015
+1650,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,02 Jul 2015
+1651,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,09 Jan 2015
+1652,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,14 Jan 2015
+1653,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,16 Jan 2015
+1654,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,30 Jan 2015
+1655,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,09 Sep 2014
+1656,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,29 Sep 2014
+1657,Udupi,Udupi,Potato,Potato,FAQ,1300,1600,1500,27 May 2015
+1658,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,11 May 2015
+1659,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,23 Apr 2015
+1660,Shimoga,Shimoga,Potato,Local,FAQ,1400,1600,1500,24 Apr 2015
+1661,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,09 Feb 2015
+1662,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,02 Feb 2015
+1663,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,21 Jan 2015
+1664,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,13 Oct 2014
+1665,Kolar,Srinivasapur,Potato,Potato,FAQ,950,1850,1600,01 Jan 2015
+1666,Kolar,Srinivasapur,Potato,Potato,Medium,650,1600,1000,22 Dec 2014
+1667,Kolar,Srinivasapur,Potato,Potato,Medium,700,1750,1000,21 Dec 2014
+1668,Kolar,Srinivasapur,Potato,Potato,Medium,1000,1800,1500,20 Dec 2014
+1669,Udupi,Udupi,Potato,Potato,FAQ,1200,1500,1300,29 Apr 2015
+1670,Udupi,Udupi,Potato,Potato,FAQ,1500,2000,1800,04 Mar 2015
+1671,Belgaum,Belgaum,Potato,Local,FAQ,800,1300,1150,29 Apr 2015
+1672,Belgaum,Belgaum,Potato,Local,Medium,900,2400,1360,11 Oct 2014
+1673,Belgaum,Belgaum,Potato,Local,Medium,900,2600,1500,06 Nov 2014
+1674,Belgaum,Belgaum,Potato,Local,Medium,1000,2300,1500,10 Oct 2014
+1675,Belgaum,Belgaum,Potato,Local,Medium,1000,2600,1600,17 Nov 2014
+1676,Belgaum,Belgaum,Potato,Local,Medium,1000,2600,1600,29 Sep 2014
+1677,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,300,300,300,24 Jun 2015
+1678,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,1125,1125,1125,23 Oct 2014
+1679,Kolar,Chickkaballapura,Potato,Jalander,FAQ,2000,4000,2150,21 Jan 2015
+1680,Kolar,Chickkaballapura,Potato,Jalander,Large,2000,4000,2150,11 Nov 2014
+1681,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,800,15 Aug 2015
+1682,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1000,800,22 Jul 2015
+1683,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1100,16 Mar 2015
+1684,Kolar,Chickkaballapura,Potato,Local,Medium,2000,2200,2100,13 Sep 2014
+1685,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,10 Aug 2015
+1686,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,27 Jul 2015
+1687,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1800,1500,16 Feb 2015
+1688,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1300,2000,1500,21 Jan 2015
+1689,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1600,2100,1800,18 Sep 2014
+1690,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,15 Oct 2014
+1691,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,25 Sep 2014
+1692,Chikmagalur,Chikkamagalore,Potato,Other,Medium,2200,2900,2600,29 Nov 2014
+1693,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,03 Jul 2015
+1694,Davangere,Davangere,Potato,Potato,FAQ,1200,1300,1250,15 May 2015
+1695,Hassan,Hassan,Potato,Potato,FAQ,495,1338,911,16 Apr 2015
+1696,Hassan,Hassan,Potato,Potato,FAQ,539,1000,938,25 Jun 2015
+1697,Hassan,Hassan,Potato,Potato,FAQ,667,1000,900,02 Jun 2015
+1698,Hassan,Hassan,Potato,Potato,FAQ,682,1013,800,18 Jun 2015
+1699,Hassan,Hassan,Potato,Potato,FAQ,800,900,900,06 Jun 2015
+1700,Hassan,Hassan,Potato,Potato,FAQ,800,1000,900,08 Jun 2015
+1701,Hassan,Hassan,Potato,Potato,FAQ,1000,12000,1000,06 May 2015
+1702,Hassan,Hassan,Potato,Potato,FAQ,1225,1992,1500,22 Jan 2015
+1703,Hassan,Hassan,Potato,Potato,Medium,1123,1123,1123,28 Nov 2014
+1704,Hassan,Hassan,Potato,Potato,Medium,1545,1545,1545,29 Sep 2014
+1705,Hassan,Hassan,Potato,Potato,Medium,2000,2000,2000,19 Sep 2014
+1706,Hassan,Holenarsipura,Potato,Local,Medium,714,714,714,19 Sep 2014
+1707,Bangalore,Hoskote,Potato,Local,FAQ,1600,1900,1700,30 Apr 2015
+1708,Bangalore,Hoskote,Potato,Local,FAQ,2000,4000,3000,27 Oct 2014
+1709,Bellary,Hospet,Potato,Other,Medium,800,1200,1100,24 Apr 2015
+1710,Bellary,Hospet,Potato,Potato,FAQ,900,900,900,04 Jul 2015
+1711,Bellary,Hospet,Potato,Potato,FAQ,1000,1200,1000,04 Aug 2015
+1712,Bellary,Hospet,Potato,Potato,FAQ,1000,1600,1200,23 Jun 2015
+1713,Bellary,Hospet,Potato,Potato,Medium,800,1200,1000,18 Aug 2015
+1714,Bellary,Hospet,Potato,Potato,Medium,1200,2000,1800,08 Sep 2014
+1715,Bellary,Hospet,Potato,Potato,Medium,1600,1700,1600,09 Sep 2014
+1716,Bellary,Hospet,Potato,Potato,Small,1400,2500,1600,17 Sep 2014
+1717,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,1100,650,12 Feb 2015
+1718,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,400,1600,1000,17 Jan 2015
+1719,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,600,900,750,26 Feb 2015
+1720,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,700,1600,1000,01 Jan 2015
+1721,Dharwad,Hubli (Amaragol),Potato,Local,Medium,3000,3500,3250,24 Nov 2014
+1722,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,700,650,28 Mar 2015
+1723,Udupi,Udupi,Potato,Potato,FAQ,1000,1400,1200,11 Mar 2015
+1724,Udupi,Udupi,Potato,Potato,FAQ,1500,1900,1700,13 May 2015
+1725,Belgaum,Belgaum,Potato,Local,FAQ,800,1200,1000,31 Aug 2015
+1726,Belgaum,Belgaum,Potato,Local,FAQ,800,1400,1200,18 Feb 2015
+1727,Belgaum,Belgaum,Potato,Local,FAQ,900,1300,1100,27 Aug 2015
+1728,Belgaum,Belgaum,Potato,Local,FAQ,900,2400,1500,07 Jan 2015
+1729,Belgaum,Belgaum,Potato,Local,Medium,900,2100,1300,22 Oct 2014
+1730,Belgaum,Belgaum,Potato,Local,Medium,1000,2300,1500,18 Oct 2014
+1731,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,26 Nov 2014
+1732,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,27 Sep 2014
+1733,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,29 Nov 2014
+1734,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,800,16 May 2015
+1735,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,800,27 Apr 2015
+1736,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,1000,02 Jul 2015
+1737,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,1000,13 Jun 2015
+1738,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1000,900,08 Aug 2015
+1739,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1600,1400,28 Jan 2015
+1740,Kolar,Chickkaballapura,Potato,Local,FAQ,500,1400,1300,11 Feb 2015
+1741,Kolar,Chickkaballapura,Potato,Local,Large,2000,2200,2100,24 Sep 2014
+1742,Kolar,Chickkaballapura,Potato,Local,Medium,400,1500,1400,27 Jan 2015
+1743,Kolar,Chickkaballapura,Potato,Local,Medium,400,1600,1400,28 Jan 2015
+1744,Kolar,Chickkaballapura,Potato,Local,Medium,500,2200,2000,09 Dec 2014
+1745,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,10 Jul 2015
+1746,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,11 May 2015
+1747,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1400,1200,12 Feb 2015
+1748,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1500,1200,07 Jan 2015
+1749,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1800,1500,09 Mar 2015
+1750,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,23 Sep 2014
+1751,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,17 Jul 2015
+1752,Davangere,Davangere,Potato,Potato,Medium,2800,3000,2900,07 Nov 2014
+1753,Hassan,Hassan,Potato,Potato,FAQ,468,800,700,25 Aug 2015
+1754,Hassan,Hassan,Potato,Potato,FAQ,600,1267,1000,14 Aug 2015
+1755,Hassan,Hassan,Potato,Potato,FAQ,800,1000,900,03 Jun 2015
+1756,Hassan,Hassan,Potato,Potato,FAQ,952,952,952,14 Jul 2015
+1757,Hassan,Hassan,Potato,Potato,FAQ,1057,1057,1057,16 Feb 2015
+1758,Hassan,Hassan,Potato,Potato,FAQ,1320,1524,1500,16 Jan 2015
+1759,Hassan,Hassan,Potato,Potato,FAQ,1372,1583,1583,20 Jan 2015
+1760,Hassan,Hassan,Potato,Potato,Medium,1537,1537,1537,15 Sep 2014
+1761,Hassan,Hassan,Potato,Potato,Medium,1614,1709,1709,31 Dec 2014
+1762,Hassan,Hassan,Potato,Potato,Medium,1720,2333,1822,19 Dec 2014
+1763,Hassan,Holenarsipura,Potato,Local,FAQ,500,500,500,31 Jul 2015
+1764,Hassan,Holenarsipura,Potato,Local,FAQ,600,600,600,25 Aug 2015
+1765,Hassan,Holenarsipura,Potato,Local,Medium,1000,1000,1000,22 Oct 2014
+1766,Bangalore,Hoskote,Potato,Potato,FAQ,1300,1400,1350,31 Aug 2015
+1767,Bellary,Hospet,Potato,Potato,FAQ,800,800,800,27 Jun 2015
+1768,Bellary,Hospet,Potato,Potato,FAQ,1000,1000,1000,15 Mar 2015
+1769,Bellary,Hospet,Potato,Potato,FAQ,2000,2000,2000,14 Jan 2015
+1770,Bellary,Hospet,Potato,Potato,Medium,1000,1000,1000,17 Aug 2015
+1771,Bellary,Hospet,Potato,Potato,Medium,1100,1200,1100,30 May 2015
+1772,Bellary,Hospet,Potato,Potato,Medium,1200,1800,1500,17 Nov 2014
+1773,Bellary,Hospet,Potato,Potato,Medium,1200,1800,1500,23 Dec 2014
+1774,Bellary,Hospet,Potato,Potato,Medium,1800,1800,1800,11 Oct 2014
+1775,Bellary,Hospet,Potato,Potato,Small,1800,1800,1800,07 Sep 2014
+1776,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,1000,650,25 Feb 2015
+1777,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,400,1000,700,23 Feb 2015
+1778,Belgaum,Belgaum,Potato,Local,Medium,900,2600,1300,23 Nov 2014
+1779,Belgaum,Belgaum,Potato,Local,Medium,1000,2200,1500,26 Oct 2014
+1780,Belgaum,Belgaum,Potato,Local,Medium,1000,2300,1500,19 Oct 2014
+1781,Belgaum,Belgaum,Potato,Local,Medium,1000,2800,1500,03 Nov 2014
+1782,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,400,400,400,11 Aug 2015
+1783,Chamrajnagar,Chamaraj Nagar,Potato,Local,Medium,1000,1000,1000,18 Sep 2014
+1784,Kolar,Chickkaballapura,Potato,Jalander,FAQ,2000,4000,2150,07 Jan 2015
+1785,Kolar,Chickkaballapura,Potato,Jalander,Large,2000,4000,2150,15 Oct 2014
+1786,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,08 Sep 2014
+1787,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1100,28 Feb 2015
+1788,Kolar,Chickkaballapura,Potato,Local,Medium,400,1800,1500,24 Dec 2014
+1789,Kolar,Chickkaballapura,Potato,Local,Medium,400,1800,1700,20 Dec 2014
+1790,Kolar,Chickkaballapura,Potato,Local,Medium,500,2400,2200,10 Dec 2014
+1791,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,05 Aug 2015
+1792,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,29 Jul 2015
+1793,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,08 May 2015
+1794,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1200,1000,23 Feb 2015
+1795,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1400,1200,28 Feb 2015
+1796,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1200,1800,1500,23 Jan 2015
+1797,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1300,1800,1500,05 Sep 2014
+1798,Davangere,Davangere,Potato,Potato,FAQ,900,1200,1050,10 Apr 2015
+1799,Davangere,Davangere,Potato,Potato,FAQ,1100,1200,1150,26 Jun 2015
+1800,Davangere,Davangere,Potato,Potato,FAQ,1100,1200,1150,31 Jul 2015
+1801,Davangere,Davangere,Potato,Potato,Medium,2800,3000,2900,14 Nov 2014
+1802,Hassan,Hassan,Potato,Potato,FAQ,550,1000,1000,07 May 2015
+1803,Hassan,Hassan,Potato,Potato,FAQ,598,1000,880,06 Aug 2015
+1804,Hassan,Hassan,Potato,Potato,FAQ,704,823,823,17 Jul 2015
+1805,Hassan,Hassan,Potato,Potato,FAQ,1000,1000,1000,05 May 2015
+1806,Hassan,Hassan,Potato,Potato,FAQ,1000,1000,1000,11 May 2015
+1807,Hassan,Hassan,Potato,Potato,FAQ,1000,1000,1000,12 May 2015
+1808,Hassan,Hassan,Potato,Potato,Medium,800,1000,1000,16 Sep 2014
+1809,Hassan,Holenarsipura,Potato,Local,FAQ,500,500,500,31 Aug 2015
+1810,Hassan,Holenarsipura,Potato,Local,Medium,500,500,500,26 Sep 2014
+1811,Hassan,Holenarsipura,Potato,Local,Medium,800,800,800,24 Oct 2014
+1812,Hassan,Holenarsipura,Potato,Potato,Medium,750,750,750,10 Oct 2014
+1813,Bangalore,Hoskote,Potato,Local,FAQ,1500,1700,1600,09 Jun 2015
+1814,Bellary,Hospet,Potato,Potato,FAQ,1500,2000,1600,28 Jan 2015
+1815,Bellary,Hospet,Potato,Potato,Medium,700,1600,1200,05 Aug 2015
+1816,Bellary,Hospet,Potato,Potato,Medium,900,1500,1000,06 May 2015
+1817,Bellary,Hospet,Potato,Potato,Medium,1200,1500,1400,15 Jun 2015
+1818,Bellary,Hospet,Potato,Potato,Medium,1200,2000,1800,25 Feb 2015
+1819,Bellary,Hospet,Potato,Potato,Medium,1300,2000,1800,04 Feb 2015
+1820,Bellary,Hospet,Potato,Potato,Medium,1800,1800,1800,06 Jan 2015
+1821,Bellary,Hospet,Potato,Potato,Medium,1800,1800,1800,20 Sep 2014
+1822,Bellary,Hospet,Potato,Potato,Medium,1800,1800,1800,29 Nov 2014
+1823,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1100,750,09 Feb 2015
+1824,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,700,1400,1000,22 Jan 2015
+1825,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2400,1700,12 Nov 2014
+1826,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1200,2400,1700,08 Oct 2014
+1827,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1250,800,22 Apr 2015
+1828,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,1250,1000,14 Mar 2015
+1829,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,1400,1000,12 Jan 2015
+1830,Kolar,Chickkaballapura,Potato,Local,Medium,2000,2400,2200,25 Oct 2014
+1831,Kolar,Chickkaballapura,Potato,Local,Medium,2200,2600,2400,08 Oct 2014
+1832,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,25 Aug 2015
+1833,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,700,1100,900,28 Mar 2015
+1834,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,08 Jun 2015
+1835,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,31 Jul 2015
+1836,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1400,1200,09 Feb 2015
+1837,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1500,1200,29 Jun 2015
+1838,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1100,1500,1300,04 Feb 2015
+1839,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1250,1800,1500,11 Mar 2015
+1840,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1300,1700,1500,06 Jan 2015
+1841,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2300,2000,04 May 2015
+1842,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1600,2000,1800,30 Sep 2014
+1843,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1700,2400,2000,27 Sep 2014
+1844,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,21 Nov 2014
+1845,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2400,2200,29 Oct 2014
+1846,Kolar,Chintamani,Potato,Local,FAQ,700,1700,1100,09 Jun 2015
+1847,Hassan,Hassan,Potato,Potato,FAQ,786,869,869,13 Feb 2015
+1848,Hassan,Hassan,Potato,Potato,FAQ,800,800,800,15 Jun 2015
+1849,Hassan,Hassan,Potato,Potato,FAQ,820,1200,900,02 Jul 2015
+1850,Hassan,Hassan,Potato,Potato,Medium,1454,1454,1454,30 Sep 2014
+1851,Hassan,Hassan,Potato,Potato,Medium,2168,2547,2168,13 Nov 2014
+1852,Chitradurga,Holalkere,Potato,Potato,Medium,1400,1400,1400,05 Nov 2014
+1853,Hassan,Holenarsipura,Potato,Local,FAQ,500,500,500,12 Aug 2015
+1854,Hassan,Holenarsipura,Potato,Local,FAQ,650,650,650,26 Jul 2015
+1855,Hassan,Holenarsipura,Potato,Local,Medium,850,850,850,22 Sep 2014
+1856,Bangalore,Hoskote,Potato,Potato,FAQ,1400,1500,1450,10 Aug 2015
+1857,Bellary,Hospet,Potato,Potato,FAQ,900,1200,1000,31 Mar 2015
+1858,Bellary,Hospet,Potato,Potato,FAQ,900,1600,1200,15 Apr 2015
+1859,Bellary,Hospet,Potato,Potato,FAQ,1000,1900,1400,18 Mar 2015
+1860,Bellary,Hospet,Potato,Potato,FAQ,1600,2000,1800,13 Jan 2015
+1861,Bellary,Hospet,Potato,Potato,Medium,900,900,900,12 Aug 2015
+1862,Bellary,Hospet,Potato,Potato,Medium,900,1200,1000,05 May 2015
+1863,Bellary,Hospet,Potato,Potato,Medium,1000,1100,1000,12 May 2015
+1864,Bellary,Hospet,Potato,Potato,Medium,1100,1200,1200,25 May 2015
+1865,Bellary,Hospet,Potato,Potato,Medium,1100,1800,1400,13 Oct 2014
+1866,Bellary,Hospet,Potato,Potato,Medium,1100,1800,1500,29 Sep 2014
+1867,Bellary,Hospet,Potato,Potato,Medium,1500,2000,1600,28 Jan 2015
+1868,Bellary,Hospet,Potato,Potato,Medium,1800,1800,1800,27 Dec 2014
+1869,Bellary,Hospet,Potato,Potato,Medium,2000,2000,2000,07 Nov 2014
+1870,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1200,850,29 Jan 2015
+1871,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1300,1400,1350,20 Jan 2015
+1872,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,3100,2000,28 Oct 2014
+1873,Dharwad,Hubli (Amaragol),Potato,Local,Medium,2000,2700,2350,30 Oct 2014
+1874,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,300,1000,650,18 May 2015
+1875,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,800,700,27 Mar 2015
+1876,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,950,900,27 Aug 2015
+1877,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,900,700,28 Mar 2015
+1878,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1050,850,23 Jun 2015
+1879,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,1200,850,29 Apr 2015
+1880,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1100,900,25 Apr 2015
+1881,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,950,850,11 Aug 2015
+1882,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1000,750,21 Feb 2015
+1883,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,800,1400,1100,13 Jan 2015
+1884,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2600,1800,10 Sep 2014
+1885,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1200,2000,1500,07 Oct 2014
+1886,Dharwad,Hubli (Amaragol),Potato,Local,Medium,2650,2775,2700,26 Sep 2014
+1887,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,400,1100,700,04 Feb 2015
+1888,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,1400,850,09 Feb 2015
+1889,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,1200,1100,01 Apr 2015
+1890,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,1500,1050,03 Jan 2015
+1891,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,750,1500,1000,19 Jan 2015
+1892,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1250,1050,24 Jan 2015
+1893,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1500,1400,20 Jan 2015
+1894,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,650,550,14 Apr 2015
+1895,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,2200,1600,16 Sep 2014
+1896,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,850,750,30 Mar 2015
+1897,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1150,850,27 Apr 2015
+1898,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1050,900,03 Jun 2015
+1899,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1100,850,30 Apr 2015
+1900,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,950,850,01 Sep 2015
+1901,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1000,950,18 May 2015
+1902,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1000,2400,2000,06 Sep 2014
+1903,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1400,1500,1450,28 Jan 2015
+1904,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1500,1900,1700,27 Dec 2014
+1905,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2600,2400,17 Nov 2014
+1906,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2350,2600,2450,08 Nov 2014
+1907,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2500,3000,2800,06 Dec 2014
+1908,Mysore,K.R.Nagar,Potato,Potato,FAQ,300,300,300,08 Jul 2015
+1909,Mysore,K.R.Nagar,Potato,Potato,FAQ,833,833,833,31 Jul 2015
+1910,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,21 Aug 2015
+1911,Mysore,K.R.Nagar,Potato,Potato,Medium,875,1000,967,12 Sep 2014
+1912,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,04 Sep 2014
+1913,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,10 Nov 2014
+1914,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,27 Oct 2014
+1915,Kolar,Kolar,Potato,Local,FAQ,1500,1800,1600,14 Jan 2015
+1916,Kolar,Kolar,Potato,Local,FAQ,1500,1800,1600,30 Jan 2015
+1917,Kolar,Malur,Potato,Potato,FAQ,900,1200,909,30 Jun 2015
+1918,Kolar,Malur,Potato,Potato,FAQ,900,1400,1034,24 Jun 2015
+1919,Kolar,Malur,Potato,Potato,FAQ,1000,1200,1086,15 Jul 2015
+1920,Kolar,Malur,Potato,Potato,FAQ,1000,1350,1250,02 May 2015
+1921,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1100,17 Aug 2015
+1922,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1100,14 May 2015
+1923,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1150,17 Mar 2015
+1924,Kolar,Malur,Potato,Potato,FAQ,1000,1600,1400,29 Jan 2015
+1925,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1230,23 Apr 2015
+1926,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1400,10 Mar 2015
+1927,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1500,10 Feb 2015
+1928,Kolar,Malur,Potato,Potato,Medium,1800,2400,2000,29 Nov 2014
+1929,Kolar,Mulabagilu,Potato,Potato,Medium,1000,1800,1400,31 Dec 2014
+1930,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,800,700,28 Mar 2015
+1931,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,900,750,16 Jun 2015
+1932,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,25 May 2015
+1933,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,26 Feb 2015
+1934,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,22 Jun 2015
+1935,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1350,1100,16 Feb 2015
+1936,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1400,1150,14 Jan 2015
+1937,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1150,1050,26 Feb 2015
+1938,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,850,650,11 May 2015
+1939,Dharwad,Hubli (Amaragol),Potato,Other,Medium,600,750,650,20 Mar 2015
+1940,Dharwad,Hubli (Amaragol),Potato,Other,Medium,2300,2400,2350,22 Sep 2014
+1941,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,800,21 Apr 2015
+1942,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1050,850,18 Apr 2015
+1943,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,900,800,10 Aug 2015
+1944,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,950,800,13 Aug 2015
+1945,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,950,850,05 Aug 2015
+1946,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,18 Feb 2015
+1947,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,18 Jun 2015
+1948,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,1050,900,13 Jun 2015
+1949,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,900,850,11 Jul 2015
+1950,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,900,850,14 Jul 2015
+1951,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,900,850,28 Aug 2015
+1952,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1100,1000,05 Mar 2015
+1953,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1100,1050,12 Jan 2015
+1954,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1050,1100,1050,21 Jan 2015
+1955,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1350,1250,14 Feb 2015
+1956,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1350,1250,24 Jan 2015
+1957,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1250,1700,1450,14 Jan 2015
+1958,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,2000,1750,02 Jan 2015
+1959,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,800,850,800,31 Mar 2015
+1960,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1800,2450,2100,02 Sep 2014
+1961,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1900,2300,2100,20 Dec 2014
+1962,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2400,2200,17 Oct 2014
+1963,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2900,2500,04 Dec 2014
+1964,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2350,2650,2450,22 Nov 2014
+1965,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2600,2500,20 Oct 2014
+1966,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2650,2500,19 Nov 2014
+1967,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2800,2600,08 Dec 2014
+1968,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2500,2700,2600,25 Nov 2014
+1969,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2500,2750,2650,26 Nov 2014
+1970,Mysore,K.R.Nagar,Potato,Potato,FAQ,500,500,500,02 Mar 2015
+1971,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,16 May 2015
+1972,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,19 Apr 2015
+1973,Kolar,Kolar,Potato,Local,FAQ,1200,1500,1400,17 Feb 2015
+1974,Kolar,Kolar,Potato,Local,FAQ,1250,1500,1428,05 Mar 2015
+1975,Kolar,Kolar,Potato,Local,FAQ,1400,1600,1500,05 Feb 2015
+1976,Kolar,Kolar,Potato,Local,FAQ,1500,1800,1600,08 Jan 2015
+1977,Kolar,Malur,Potato,Potato,FAQ,1000,1300,1150,20 Jul 2015
+1978,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1111,05 Aug 2015
+1979,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1150,15 May 2015
+1980,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1300,04 Mar 2015
+1981,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1310,25 Mar 2015
+1982,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1300,02 Mar 2015
+1983,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1310,23 Mar 2015
+1984,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1410,28 Jan 2015
+1985,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1480,03 Feb 2015
+1986,Kolar,Malur,Potato,Potato,FAQ,1300,1800,1530,13 Jan 2015
+1987,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,25 May 2015
+1988,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1100,950,07 May 2015
+1989,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1700,1350,16 Jan 2015
+1990,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1900,2200,2000,07 Jan 2015
+1991,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,750,900,800,11 Apr 2015
+1992,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,750,950,850,02 Jun 2015
+1993,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2200,2150,17 Dec 2014
+1994,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2700,2200,15 Sep 2014
+1995,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2300,2450,2350,26 Sep 2014
+1996,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2600,2700,2650,03 Nov 2014
+1997,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,18 May 2015
+1998,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,03 Sep 2014
+1999,Mysore,K.R.Nagar,Potato,Potato,Medium,1001,1001,1001,22 Sep 2014
+2000,Mysore,K.R.Nagar,Potato,Potato,Medium,1083,1083,1083,17 Sep 2014
+2001,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,04 Mar 2015
+2002,Kolar,Kolar,Potato,Local,FAQ,1000,1300,1100,20 Feb 2015
+2003,Kolar,Kolar,Potato,Local,FAQ,1500,1800,1600,09 Jan 2015
+2004,Kolar,Kolar,Potato,Local,FAQ,1600,1800,1700,06 Jan 2015
+2005,Kolar,Malur,Potato,Potato,FAQ,900,1400,980,18 Jun 2015
+2006,Kolar,Malur,Potato,Potato,FAQ,900,1400,1000,21 Jul 2015
+2007,Kolar,Malur,Potato,Potato,FAQ,900,1400,1060,23 Jun 2015
+2008,Kolar,Malur,Potato,Potato,FAQ,1000,1300,1160,19 Aug 2015
+2009,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1300,16 Mar 2015
+2010,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1410,11 Mar 2015
+2011,Kolar,Malur,Potato,Potato,FAQ,1100,1800,1600,30 Jan 2015
+2012,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1400,05 Feb 2015
+2013,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1520,11 Feb 2015
+2014,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1550,22 Jan 2015
+2015,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1600,14 Jan 2015
+2016,Kolar,Malur,Potato,Potato,Medium,1000,2200,1105,23 Dec 2014
+2017,Kolar,Mulabagilu,Potato,Potato,Medium,2000,3000,2500,04 Dec 2014
+2018,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,06 May 2015
+2019,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,05 Jun 2015
+2020,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,08 Jul 2015
+2021,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,22 Jul 2015
+2022,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,29 Jun 2015
+2023,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1100,1050,20 Aug 2015
+2024,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1100,1300,1200,09 Mar 2015
+2025,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,1300,1250,16 Feb 2015
+2026,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1300,1400,1350,04 Feb 2015
+2027,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,05 Jun 2015
+2028,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,07 May 2015
+2029,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,09 Jun 2015
+2030,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,11 Jun 2015
+2031,Shimoga,Shimoga,Potato,Local,FAQ,1400,1600,1500,29 Apr 2015
+2032,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,09 Apr 2015
+2033,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,20 Mar 2015
+2034,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,26 Mar 2015
+2035,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,02 Jan 2015
+2036,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,07 Jan 2015
+2037,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,07 Oct 2014
+2038,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,08 Sep 2014
+2039,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,17 Oct 2014
+2040,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1000,950,11 Jun 2015
+2041,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1600,2000,1800,18 Dec 2014
+2042,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,2400,2800,2600,09 Oct 2014
+2043,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,01 Sep 2015
+2044,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,24 Aug 2015
+2045,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,03 Jun 2015
+2046,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,12 May 2015
+2047,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,04 Mar 2015
+2048,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,09 Mar 2015
+2049,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,14 Jul 2015
+2050,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,16 Mar 2015
+2051,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,17 Jul 2015
+2052,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,20 Feb 2015
+2053,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,25 Jun 2015
+2054,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,30 Mar 2015
+2055,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,31 Mar 2015
+2056,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,01 Sep 2014
+2057,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,03 Sep 2014
+2058,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,25 Oct 2014
+2059,Raichur,Sindhanur,Potato,Local,FAQ,800,810,800,09 Mar 2015
+2060,Udupi,Udupi,Potato,Potato,FAQ,1400,1800,1600,04 Feb 2015
+2061,Udupi,Udupi,Potato,Potato,FAQ,1500,1900,1700,11 Feb 2015
+2062,Kolar,Srinivasapur,Potato,Potato,FAQ,1250,1600,1400,08 Jan 2015
+2063,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1640,24 Jan 2015
+2064,Kolar,Malur,Potato,Potato,Medium,1300,1900,1540,01 Jan 2015
+2065,Kolar,Malur,Potato,Potato,Medium,1600,2200,1750,26 Dec 2014
+2066,Kolar,Malur,Potato,Potato,Medium,1700,2200,1760,22 Dec 2014
+2067,Kolar,Malur,Potato,Potato,Medium,1800,2400,2000,11 Dec 2014
+2068,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,900,750,21 May 2015
+2069,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,10 Apr 2015
+2070,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,25 Jul 2015
+2071,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,04 Mar 2015
+2072,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,07 Mar 2015
+2073,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1100,1300,1200,10 Mar 2015
+2074,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,1400,1300,20 Feb 2015
+2075,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1800,2400,2100,12 Nov 2014
+2076,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1800,2400,2100,14 Nov 2014
+2077,Bangalore,Ramanagara,Potato,Potato,FAQ,1500,1600,1500,09 Apr 2015
+2078,Shimoga,Shimoga,Potato,Local,FAQ,1000,1200,1100,07 Aug 2015
+2079,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,27 Aug 2015
+2080,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,28 Apr 2015
+2081,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,08 Jul 2015
+2082,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,10 Feb 2015
+2083,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,27 Jul 2015
+2084,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,27 Mar 2015
+2085,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,30 Jul 2015
+2086,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,02 Sep 2014
+2087,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,10 Sep 2014
+2088,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,17 Sep 2014
+2089,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,27 Oct 2014
+2090,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,29 Oct 2014
+2091,Kolar,Srinivasapur,Potato,Local,FAQ,700,1600,1000,12 Jan 2015
+2092,Kolar,Srinivasapur,Potato,Potato,Medium,800,1500,909,26 Dec 2014
+2093,Tumkur,Tumkur,Potato,Other,FAQ,1100,1400,1280,06 Mar 2015
+2094,Tumkur,Tumkur,Potato,Other,Medium,1900,3050,2650,15 Oct 2014
+2095,Udupi,Udupi,Potato,Potato,Medium,3000,3500,3300,03 Dec 2014
+2096,Belgaum,Belgaum,Potato,Local,FAQ,800,1600,1300,25 Jan 2015
+2097,Belgaum,Belgaum,Potato,Local,FAQ,800,1700,1250,16 Mar 2015
+2098,Belgaum,Belgaum,Potato,Local,Medium,900,1500,1300,15 Oct 2014
+2099,Belgaum,Belgaum,Potato,Local,Medium,900,2450,1300,21 Sep 2014
+2100,Belgaum,Belgaum,Potato,Local,Medium,900,2600,1300,22 Nov 2014
+2101,Belgaum,Belgaum,Potato,Local,Medium,900,2600,1500,29 Nov 2014
+2102,Belgaum,Belgaum,Potato,Local,Medium,1000,2200,1500,27 Oct 2014
+2103,Belgaum,Belgaum,Potato,Local,Medium,1000,2400,1600,07 Sep 2014
+2104,Belgaum,Belgaum,Potato,Local,Medium,1000,2600,1600,27 Sep 2014
+2105,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,27 Mar 2015
+2106,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,1000,25 Mar 2015
+2107,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1200,1100,23 Mar 2015
+2108,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1600,1500,11 Jan 2015
+2109,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1700,1600,10 Jan 2015
+2110,Kolar,Chickkaballapura,Potato,Local,FAQ,400,1700,1600,16 Jan 2015
+2111,Kolar,Chickkaballapura,Potato,Local,FAQ,500,1400,1200,13 Feb 2015
+2112,Kolar,Chickkaballapura,Potato,Local,Medium,500,1400,1300,26 Jan 2015
+2113,Kolar,Chickkaballapura,Potato,Local,Medium,1600,2200,2000,10 Nov 2014
+2114,Kolar,Chickkaballapura,Potato,Local,Medium,1800,2400,2200,06 Sep 2014
+2115,Kolar,Chickkaballapura,Potato,Local,Medium,2000,2200,2100,03 Sep 2014
+2116,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,700,1000,800,26 Aug 2015
+2117,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1300,1000,06 Jul 2015
+2118,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1400,1000,08 Jul 2015
+2119,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1200,1000,22 Jul 2015
+2120,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1400,1200,10 Feb 2015
+2121,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1500,1200,30 Jun 2015
+2122,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1100,1300,1200,03 Jun 2015
+2123,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2200,2000,27 Jan 2015
+2124,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1600,2000,1800,10 Sep 2014
+2125,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,17 Nov 2014
+2126,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,12 Jun 2015
+2127,Davangere,Davangere,Potato,Potato,FAQ,1200,1400,1300,05 Mar 2015
+2128,Davangere,Davangere,Potato,Potato,FAQ,1200,1600,1400,14 Aug 2015
+2129,Madikeri(Kodagu),Gonikappal,Potato,Local,FAQ,750,750,750,15 May 2015
+2130,Hassan,Hassan,Potato,Potato,FAQ,670,950,890,26 Mar 2015
+2131,Hassan,Hassan,Potato,Potato,FAQ,787,1075,1000,12 Mar 2015
+2132,Hassan,Hassan,Potato,Potato,FAQ,795,1058,1058,30 Jan 2015
+2133,Hassan,Hassan,Potato,Potato,FAQ,900,1000,1000,25 May 2015
+2134,Hassan,Hassan,Potato,Potato,FAQ,915,1543,1200,29 Jan 2015
+2135,Hassan,Hassan,Potato,Potato,FAQ,1795,1795,1795,08 Jan 2015
+2136,Hassan,Hassan,Potato,Potato,Large,600,1000,1000,21 Jan 2015
+2137,Hassan,Hassan,Potato,Potato,Medium,553,553,553,18 Nov 2014
+2138,Hassan,Hassan,Potato,Potato,Medium,1162,1840,1818,26 Dec 2014
+2139,Hassan,Holenarsipura,Potato,Local,FAQ,833,833,833,06 Aug 2015
+2140,Hassan,Holenarsipura,Potato,Potato,Medium,857,857,857,01 Oct 2014
+2141,Bangalore,Hoskote,Potato,Local,FAQ,1000,1200,1100,28 Apr 2015
+2142,Bellary,Hospet,Potato,Potato,FAQ,1000,1000,1000,29 Mar 2015
+2143,Bellary,Hospet,Potato,Potato,FAQ,1200,1200,1200,08 Jun 2015
+2144,Bellary,Hospet,Potato,Potato,FAQ,1200,1200,1200,25 Jul 2015
+2145,Bellary,Hospet,Potato,Potato,FAQ,1200,2000,1600,03 Mar 2015
+2146,Bellary,Hospet,Potato,Potato,Medium,1200,1800,1500,01 Dec 2014
+2147,Bellary,Hospet,Potato,Potato,Medium,1400,1800,1600,08 Dec 2014
+2148,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1000,900,29 Aug 2015
+2149,Kolar,Chickkaballapura,Potato,Local,Large,600,2000,1800,24 Nov 2014
+2150,Kolar,Chickkaballapura,Potato,Local,Medium,800,2400,2200,27 Oct 2014
+2151,Kolar,Chickkaballapura,Potato,Local,Medium,2000,2200,2100,17 Sep 2014
+2152,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,600,1000,800,31 Aug 2015
+2153,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2200,2000,12 Jan 2015
+2154,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2300,2000,02 May 2015
+2155,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2400,2100,22 Sep 2014
+2156,Davangere,Davangere,Potato,Potato,FAQ,1100,1200,1150,28 Aug 2015
+2157,Hassan,Hassan,Potato,Potato,FAQ,500,829,700,21 Aug 2015
+2158,Hassan,Hassan,Potato,Potato,FAQ,670,1500,1500,05 Feb 2015
+2159,Hassan,Hassan,Potato,Potato,FAQ,700,1000,1000,14 May 2015
+2160,Hassan,Hassan,Potato,Potato,FAQ,950,950,950,20 Feb 2015
+2161,Hassan,Hassan,Potato,Potato,FAQ,1000,1000,1000,19 Jan 2015
+2162,Hassan,Hassan,Potato,Potato,FAQ,1112,1112,1112,24 Apr 2015
+2163,Hassan,Hassan,Potato,Potato,Medium,500,500,500,01 Sep 2014
+2164,Hassan,Hassan,Potato,Potato,Medium,687,1800,1200,18 Sep 2014
+2165,Hassan,Hassan,Potato,Potato,Medium,1554,1725,1725,22 Sep 2014
+2166,Hassan,Holenarsipura,Potato,Local,FAQ,500,500,500,26 Aug 2015
+2167,Hassan,Holenarsipura,Potato,Local,FAQ,500,500,500,29 Jul 2015
+2168,Hassan,Holenarsipura,Potato,Local,FAQ,1200,1200,1200,05 Aug 2015
+2169,Hassan,Holenarsipura,Potato,Local,Medium,646,646,646,20 Sep 2014
+2170,Hassan,Holenarsipura,Potato,Local,Medium,660,660,660,03 Oct 2014
+2171,Hassan,Holenarsipura,Potato,Local,Medium,800,800,800,19 Oct 2014
+2172,Hassan,Holenarsipura,Potato,Local,Medium,800,800,800,25 Sep 2014
+2173,Hassan,Holenarsipura,Potato,Local,Medium,800,800,800,28 Sep 2014
+2174,Bellary,Hospet,Potato,Potato,FAQ,700,1200,1200,27 Apr 2015
+2175,Bellary,Hospet,Potato,Potato,FAQ,1000,1000,1000,03 Aug 2015
+2176,Bellary,Hospet,Potato,Potato,FAQ,1400,1400,1400,18 Jan 2015
+2177,Bellary,Hospet,Potato,Potato,Medium,900,1200,1200,03 Jun 2015
+2178,Bellary,Hospet,Potato,Potato,Medium,900,1400,1000,28 Apr 2015
+2179,Bellary,Hospet,Potato,Potato,Medium,1000,1000,1000,03 Jan 2015
+2180,Bellary,Hospet,Potato,Potato,Medium,1000,1800,1200,12 Jan 2015
+2181,Bellary,Hospet,Potato,Potato,Medium,1200,1600,1200,10 Jun 2015
+2182,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1800,1000,07 Jan 2015
+2183,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,850,1100,950,07 Feb 2015
+2184,Dharwad,Hubli (Amaragol),Potato,Local,Medium,900,2500,1700,15 Nov 2014
+2185,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2700,1800,11 Oct 2014
+2186,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,2800,1850,19 Sep 2014
+2187,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1200,2600,1650,29 Nov 2014
+2188,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,300,1400,850,20 Apr 2015
+2189,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,1550,1000,05 Jan 2015
+2190,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,800,700,11 Jul 2015
+2191,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,1000,950,06 Aug 2015
+2192,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,750,1350,950,17 Mar 2015
+2193,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1100,1000,02 Mar 2015
+2194,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,950,1300,1150,31 Jan 2015
+2195,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1200,1100,23 Jan 2015
+2196,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1250,1150,23 Feb 2015
+2197,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1300,1400,1350,15 Jun 2015
+2198,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,800,650,11 Apr 2015
+2199,Dharwad,Hubli (Amaragol),Potato,Other,Medium,760,800,760,07 Apr 2015
+2200,Dharwad,Hubli (Amaragol),Potato,Other,Medium,600,800,700,02 Apr 2015
+2201,Dharwad,Hubli (Amaragol),Potato,Other,Medium,650,750,650,18 Apr 2015
+2202,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1000,3300,1800,03 Sep 2014
+2203,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1200,2700,1900,09 Oct 2014
+2204,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1500,2300,1850,01 Sep 2014
+2205,Dharwad,Hubli (Amaragol),Potato,Other,Medium,2200,2400,2300,29 Oct 2014
+2206,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,750,31 Jul 2015
+2207,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,750,17 Apr 2015
+2208,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,800,01 Jul 2015
+2209,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1050,850,20 Jun 2015
+2210,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1100,800,28 Apr 2015
+2211,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1100,850,21 Feb 2015
+2212,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,960,800,30 Jun 2015
+2213,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,950,800,04 Aug 2015
+2214,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,930,850,09 Jul 2015
+2215,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,980,850,30 May 2015
+2216,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,12 May 2015
+2217,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,950,1000,950,29 Jan 2015
+2218,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,950,1400,1150,31 Jan 2015
+2219,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1250,1200,10 Jan 2015
+2220,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1350,1300,03 Feb 2015
+2221,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1900,2000,1950,05 Jan 2015
+2222,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,500,800,650,01 Apr 2015
+2223,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2400,2200,16 Sep 2014
+2224,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2100,2200,2100,16 Dec 2014
+2225,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2600,2400,12 Nov 2014
+2226,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2700,2550,25 Oct 2014
+2227,Mysore,K.R.Nagar,Potato,Potato,FAQ,600,600,600,20 May 2015
+2228,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,19 May 2015
+2229,Mysore,K.R.Nagar,Potato,Potato,FAQ,1250,1250,1250,30 May 2015
+2230,Mysore,K.R.Nagar,Potato,Potato,Medium,750,1000,896,07 Oct 2014
+2231,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,02 Sep 2014
+2232,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,10 Sep 2014
+2233,Kolar,Kolar,Potato,Local,FAQ,800,1200,1000,04 Apr 2015
+2234,Kolar,Kolar,Potato,Local,FAQ,1800,2000,1900,19 Jan 2015
+2235,Kolar,Kolar,Potato,Local,Medium,1500,2500,2200,04 Sep 2014
+2236,Kolar,Kolar,Potato,Local,Medium,1500,2500,2300,07 Sep 2014
+2237,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1100,15 Jun 2015
+2238,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1100,16 Jun 2015
+2239,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1430,06 May 2015
+2240,Kolar,Malur,Potato,Potato,FAQ,1200,1800,1570,27 Jan 2015
+2241,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1500,20 Jan 2015
+2242,Kolar,Malur,Potato,Potato,Medium,1300,2000,1366,29 Dec 2014
+2243,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,1300,900,10 Feb 2015
+2244,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,900,750,15 Jun 2015
+2245,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,900,750,27 May 2015
+2246,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,15 Jul 2015
+2247,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,23 Apr 2015
+2248,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,30 Jun 2015
+2249,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1000,950,20 Mar 2015
+2250,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1100,1000,09 Jun 2015
+2251,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1100,1050,18 Aug 2015
+2252,Bellary,Hospet,Potato,Potato,Medium,1400,1800,1600,22 Sep 2014
+2253,Bellary,Hospet,Potato,Potato,Medium,1600,1600,1600,23 Nov 2014
+2254,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,200,900,650,19 Mar 2015
+2255,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1100,900,02 Feb 2015
+2256,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,650,1550,1100,21 Jan 2015
+2257,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1000,1600,1300,06 Jan 2015
+2258,Dharwad,Hubli (Amaragol),Potato,Local,Medium,500,700,600,25 Mar 2015
+2259,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,1200,1100,27 Jan 2015
+2260,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1100,2600,1700,23 Sep 2014
+2261,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1200,1100,11 Feb 2015
+2262,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1200,1100,18 Aug 2015
+2263,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1300,1250,12 Feb 2015
+2264,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,2200,1600,13 Sep 2014
+2265,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1200,2400,1650,24 Nov 2014
+2266,Dharwad,Hubli (Amaragol),Potato,Other,Medium,2200,3100,2600,30 Oct 2014
+2267,Dharwad,Hubli (Amaragol),Potato,Other,Medium,2700,2800,2750,26 Nov 2014
+2268,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,800,21 Aug 2015
+2269,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1100,850,07 Apr 2015
+2270,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,800,700,27 Mar 2015
+2271,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,900,800,04 Mar 2015
+2272,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1600,1100,20 Jan 2015
+2273,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1100,980,06 Apr 2015
+2274,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1000,950,21 May 2015
+2275,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1400,1300,06 Feb 2015
+2276,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1400,1300,13 Feb 2015
+2277,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,850,900,850,28 May 2015
+2278,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2400,2300,17 Sep 2014
+2279,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2500,2450,18 Oct 2014
+2280,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2650,2550,07 Nov 2014
+2281,Mysore,K.R.Nagar,Potato,Potato,Medium,800,800,800,23 Oct 2014
+2282,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,19 Sep 2014
+2283,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,23 Sep 2014
+2284,Mysore,K.R.Nagar,Potato,Potato,Medium,1056,1056,1056,25 Sep 2014
+2285,Bangalore,Kanakapura,Potato,Local,FAQ,1500,2000,1800,09 Apr 2015
+2286,Bangalore,Kanakapura,Potato,Local,Medium,2500,3000,2600,17 Sep 2014
+2287,Kolar,Kolar,Potato,Local,FAQ,800,1000,900,03 Apr 2015
+2288,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,06 Mar 2015
+2289,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,25 Mar 2015
+2290,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,29 Apr 2015
+2291,Kolar,Kolar,Potato,Local,FAQ,1000,1300,1100,11 Mar 2015
+2292,Kolar,Kolar,Potato,Local,FAQ,1000,1600,1500,26 Jan 2015
+2293,Kolar,Kolar,Potato,Local,FAQ,1000,1800,1600,11 Jun 2015
+2294,Kolar,Kolar,Potato,Local,FAQ,1200,1400,1300,26 May 2015
+2295,Kolar,Kolar,Potato,Local,FAQ,1200,1500,1300,01 Jan 2015
+2296,Kolar,Kolar,Potato,Local,FAQ,1500,1800,1600,03 Jan 2015
+2297,Kolar,Kolar,Potato,Local,FAQ,1500,1800,1600,21 Jan 2015
+2298,Kolar,Kolar,Potato,Local,FAQ,1500,1800,1600,23 Jan 2015
+2299,Kolar,Malur,Potato,Potato,FAQ,100,1400,1180,23 May 2015
+2300,Kolar,Malur,Potato,Potato,FAQ,900,1500,1000,04 Jul 2015
+2301,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1084,09 Jun 2015
+2302,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1130,29 Jul 2015
+2303,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1370,16 Feb 2015
+2304,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1142,14 Jul 2015
+2305,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1200,900,22 Jan 2015
+2306,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1600,1000,02 Jan 2015
+2307,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,1500,1000,10 Jan 2015
+2308,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1000,900,20 Feb 2015
+2309,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1250,1050,12 Mar 2015
+2310,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1100,1150,1100,03 Jun 2015
+2311,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1100,1150,1100,27 Feb 2015
+2312,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1350,1400,1350,23 Jun 2015
+2313,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1500,2300,1850,04 Sep 2014
+2314,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1500,2500,1900,23 Sep 2014
+2315,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,750,09 Apr 2015
+2316,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,800,15 Apr 2015
+2317,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,940,800,06 Aug 2015
+2318,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,700,700,18 Mar 2015
+2319,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,950,850,22 Aug 2015
+2320,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,24 Aug 2015
+2321,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,950,850,31 Aug 2015
+2322,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,950,900,11 Jun 2015
+2323,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,02 Feb 2015
+2324,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,950,900,03 Jul 2015
+2325,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1050,950,10 Jun 2015
+2326,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,950,1050,1000,17 Jun 2015
+2327,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1500,1450,28 Jan 2015
+2328,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1500,1900,1700,30 Dec 2014
+2329,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1600,2300,1950,05 Sep 2014
+2330,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2950,2450,29 Oct 2014
+2331,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2400,2300,14 Oct 2014
+2332,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2800,2500,02 Dec 2014
+2333,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2300,2400,2350,19 Sep 2014
+2334,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2500,2450,22 Sep 2014
+2335,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2700,2900,2800,27 Oct 2014
+2336,Mysore,K.R.Nagar,Potato,Potato,FAQ,750,750,750,18 Aug 2015
+2337,Bangalore,Kanakapura,Potato,Local,FAQ,2000,2000,2000,23 Jan 2015
+2338,Kolar,Kolar,Potato,Local,FAQ,1000,1400,1200,16 Mar 2015
+2339,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1800,02 Jan 2015
+2340,Kolar,Kolar,Potato,Local,Medium,2000,2400,2200,11 Sep 2014
+2341,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1190,16 May 2015
+2342,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1300,06 Mar 2015
+2343,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1300,13 Mar 2015
+2344,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1350,12 Mar 2015
+2345,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1250,20 Apr 2015
+2346,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1250,31 Mar 2015
+2347,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1280,30 Mar 2015
+2348,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1310,21 Mar 2015
+2349,Kolar,Malur,Potato,Potato,Medium,1600,2400,1760,19 Dec 2014
+2350,Kolar,Malur,Potato,Potato,Medium,1800,2200,2180,06 Dec 2014
+2351,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,25 Feb 2015
+2352,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1200,900,22 Aug 2015
+2353,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,09 Jul 2015
+2354,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,16 Jul 2015
+2355,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,06 Mar 2015
+2356,Mysore,Mysore (Bandipalya),Potato,Potato,Large,2000,2200,2100,16 Sep 2014
+2357,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1800,2400,2100,13 Nov 2014
+2358,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,22 May 2015
+2359,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,27 May 2015
+2360,Shimoga,Shimoga,Potato,Local,FAQ,1400,1600,1500,30 Apr 2015
+2361,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,11 Mar 2015
+2362,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,15 Jul 2015
+2363,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,24 Mar 2015
+2364,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,26 Feb 2015
+2365,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,29 Jul 2015
+2366,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,31 Jul 2015
+2367,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,29 Jan 2015
+2368,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,12 Sep 2014
+2369,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,16 Oct 2014
+2370,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,28 Jan 2015
+2371,Kolar,Srinivasapur,Potato,Local,FAQ,500,1200,600,16 Apr 2015
+2372,Kolar,Srinivasapur,Potato,Potato,Medium,1100,1850,1700,30 Dec 2014
+2373,Tumkur,Tumkur,Potato,Other,FAQ,1350,2000,1750,05 May 2015
+2374,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,26 Aug 2015
+2375,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1200,25 Apr 2015
+2376,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1230,22 Jun 2015
+2377,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1200,28 Apr 2015
+2378,Kolar,Malur,Potato,Potato,FAQ,1200,1700,1580,04 Feb 2015
+2379,Kolar,Malur,Potato,Potato,FAQ,1300,1800,1440,03 Jan 2015
+2380,Kolar,Malur,Potato,Potato,Medium,1800,2200,2000,10 Dec 2014
+2381,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,800,700,26 Mar 2015
+2382,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,900,750,18 Jun 2015
+2383,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,05 May 2015
+2384,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,07 May 2015
+2385,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,02 Jun 2015
+2386,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,04 Jul 2015
+2387,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1100,1000,12 Jun 2015
+2388,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1100,1000,19 Aug 2015
+2389,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,1600,1550,20 Jan 2015
+2390,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1500,2100,1800,02 Sep 2014
+2391,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1500,2200,1850,04 Sep 2014
+2392,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1700,2000,1850,16 Dec 2014
+2393,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,2500,2600,2550,13 Oct 2014
+2394,Shimoga,Shimoga,Potato,Local,FAQ,1000,1200,1100,05 Aug 2015
+2395,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,06 Aug 2015
+2396,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,06 May 2015
+2397,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,17 Apr 2015
+2398,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,25 May 2015
+2399,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,01 Apr 2015
+2400,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,02 Mar 2015
+2401,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,05 Mar 2015
+2402,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,16 Feb 2015
+2403,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,23 Feb 2015
+2404,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,25 Feb 2015
+2405,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,29 Jun 2015
+2406,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,19 Jan 2015
+2407,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,27 Jan 2015
+2408,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,04 Sep 2014
+2409,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,05 Sep 2014
+2410,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,27 Jan 2015
+2411,Kolar,Srinivasapur,Potato,Local,FAQ,800,1800,1400,16 Feb 2015
+2412,Kolar,Srinivasapur,Potato,Potato,FAQ,950,1800,1500,20 Feb 2015
+2413,Kolar,Srinivasapur,Potato,Potato,FAQ,1000,1850,1600,03 Jan 2015
+2414,Udupi,Udupi,Potato,Potato,FAQ,1200,1500,1300,22 Apr 2015
+2415,Udupi,Udupi,Potato,Potato,FAQ,1300,1700,1500,18 Feb 2015
+2416,Udupi,Udupi,Potato,Potato,FAQ,1800,2200,2000,21 Jan 2015
+2417,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1000,2600,1600,13 Oct 2014
+2418,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,850,750,16 Apr 2015
+2419,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,900,800,07 Aug 2015
+2420,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,930,860,19 Aug 2015
+2421,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,1000,850,27 Jul 2015
+2422,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1050,900,12 Mar 2015
+2423,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1000,950,22 Jul 2015
+2424,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1350,1300,23 Jan 2015
+2425,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1750,2400,2050,13 Dec 2014
+2426,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2400,2300,18 Sep 2014
+2427,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2300,2500,2400,25 Sep 2014
+2428,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2500,2450,27 Sep 2014
+2429,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2600,2650,2600,24 Oct 2014
+2430,Bangalore,Kanakapura,Potato,Local,FAQ,1500,2000,1800,11 Mar 2015
+2431,Kolar,Malur,Potato,Potato,FAQ,1000,1500,1209,11 Jun 2015
+2432,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1210,22 Apr 2015
+2433,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1270,17 Apr 2015
+2434,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1320,25 Feb 2015
+2435,Kolar,Malur,Potato,Potato,Medium,1800,2400,2000,01 Dec 2014
+2436,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,01 Jun 2015
+2437,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,30 Jul 2015
+2438,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,01 Sep 2015
+2439,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1200,1100,12 Mar 2015
+2440,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,14 Aug 2015
+2441,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,29 May 2015
+2442,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,03 Jul 2015
+2443,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,04 Feb 2015
+2444,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,16 Jul 2015
+2445,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,18 Feb 2015
+2446,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,19 Mar 2015
+2447,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,06 Jan 2015
+2448,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,08 Jan 2015
+2449,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,13 Jan 2015
+2450,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,20 Jan 2015
+2451,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,14 Oct 2014
+2452,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,15 Oct 2014
+2453,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,19 Sep 2014
+2454,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,30 Oct 2014
+2455,Kolar,Srinivasapur,Potato,Potato,FAQ,1000,1500,1250,01 Sep 2015
+2456,Kolar,Srinivasapur,Potato,Potato,Medium,750,1850,1500,23 Dec 2014
+2457,Tumkur,Tumkur,Potato,Other,FAQ,1950,2600,2300,31 Jan 2015
+2458,Udupi,Udupi,Potato,Potato,FAQ,1200,1600,1400,01 Apr 2015
+2459,Udupi,Udupi,Potato,Potato,FAQ,1200,1600,1400,06 May 2015
+2460,Udupi,Udupi,Potato,Potato,FAQ,1800,2000,1900,14 Jan 2015
+2461,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1200,1200,05 Mar 2015
+2462,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1200,1200,29 Jul 2015
+2463,Dharwad,Hubli (Amaragol),Potato,Other,Medium,300,1700,950,19 Sep 2014
+2464,Dharwad,Hubli (Amaragol),Potato,Other,Medium,800,850,800,10 Jul 2015
+2465,Dharwad,Hubli (Amaragol),Potato,Other,Medium,2300,2400,2350,20 Sep 2014
+2466,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1100,800,15 May 2015
+2467,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,950,800,02 Apr 2015
+2468,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,1000,850,05 Jun 2015
+2469,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,1000,900,10 Jul 2015
+2470,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,900,850,14 Apr 2015
+2471,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,900,850,16 Jul 2015
+2472,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,930,850,18 Aug 2015
+2473,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1000,950,26 Feb 2015
+2474,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,930,1060,980,04 Jun 2015
+2475,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1100,1500,1250,22 Jan 2015
+2476,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1200,1200,07 Mar 2015
+2477,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,950,1030,1000,20 May 2015
+2478,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1400,2000,1700,26 Dec 2014
+2479,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1500,2300,1800,15 Dec 2014
+2480,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2500,2300,10 Nov 2014
+2481,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2700,2400,10 Dec 2014
+2482,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,15 Apr 2015
+2483,Mysore,K.R.Nagar,Potato,Potato,Medium,800,1000,909,09 Oct 2014
+2484,Mysore,K.R.Nagar,Potato,Potato,Medium,823,1000,960,18 Sep 2014
+2485,Mysore,K.R.Nagar,Potato,Potato,Medium,1025,1025,1025,14 Oct 2014
+2486,Bangalore,Kanakapura,Potato,Local,FAQ,1500,2000,1800,06 Feb 2015
+2487,Bangalore,Kanakapura,Potato,Local,FAQ,1800,2000,1900,10 Mar 2015
+2488,Bangalore,Kanakapura,Potato,Local,Medium,1500,1800,1600,23 Oct 2014
+2489,Bangalore,Kanakapura,Potato,Local,Medium,1500,2000,1800,05 Nov 2014
+2490,Kolar,Kolar,Potato,Local,FAQ,800,1200,1000,24 Apr 2015
+2491,Kolar,Kolar,Potato,Local,FAQ,800,1400,1100,26 Feb 2015
+2492,Kolar,Kolar,Potato,Local,FAQ,800,1800,1600,23 Apr 2015
+2493,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,19 Feb 2015
+2494,Kolar,Kolar,Potato,Local,FAQ,1200,1800,1600,21 May 2015
+2495,Kolar,Kolar,Potato,Local,FAQ,1500,1700,1600,25 Jan 2015
+2496,Kolar,Kolar,Potato,Local,Medium,1500,1700,1600,25 Jan 2015
+2497,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,18 Aug 2015
+2498,Kolar,Malur,Potato,Potato,FAQ,900,1400,1000,10 Aug 2015
+2499,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1050,03 Aug 2015
+2500,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1100,28 Jul 2015
+2501,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1300,05 Mar 2015
+2502,Kolar,Malur,Potato,Potato,FAQ,1000,1800,1050,16 Jan 2015
+2503,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1230,20 Mar 2015
+2504,Kolar,Malur,Potato,Potato,FAQ,1100,1600,1500,13 May 2015
+2505,Kolar,Malur,Potato,Potato,FAQ,1300,1800,1400,05 Jan 2015
+2506,Kolar,Malur,Potato,Potato,Medium,1600,2200,1810,24 Dec 2014
+2507,Kolar,Malur,Potato,Potato,Medium,1800,2500,2000,18 Dec 2014
+2508,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,800,700,24 Mar 2015
+2509,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,01 Jul 2015
+2510,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,02 Jul 2015
+2511,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,20 Apr 2015
+2512,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,800,1400,1100,18 Sep 2014
+2513,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,2000,2600,2300,20 Nov 2014
+2514,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,800,700,25 Mar 2015
+2515,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1000,800,25 Jul 2015
+2516,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1450,1300,02 Feb 2015
+2517,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,750,700,04 Jul 2015
+2518,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,750,800,750,17 Jul 2015
+2519,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,950,1200,950,11 Mar 2015
+2520,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1100,1050,06 Mar 2015
+2521,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1300,1250,06 Apr 2015
+2522,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1300,1350,1300,14 Feb 2015
+2523,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1300,1350,1300,20 Jun 2015
+2524,Dharwad,Hubli (Amaragol),Potato,Other,Medium,400,2000,1400,17 Sep 2014
+2525,Dharwad,Hubli (Amaragol),Potato,Other,Medium,450,550,500,17 Apr 2015
+2526,Dharwad,Hubli (Amaragol),Potato,Other,Medium,600,750,650,21 Apr 2015
+2527,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1000,1900,1500,09 Sep 2014
+2528,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1000,2500,1800,25 Sep 2014
+2529,Dharwad,Hubli (Amaragol),Potato,Other,Medium,1500,2600,2000,16 Oct 2014
+2530,Dharwad,Hubli (Amaragol),Potato,Other,Medium,2400,2500,2450,30 Sep 2014
+2531,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,1050,850,07 Jul 2015
+2532,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,900,700,30 Jul 2015
+2533,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1000,750,29 May 2015
+2534,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,850,750,12 Aug 2015
+2535,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,950,800,02 Mar 2015
+2536,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,800,01 Jun 2015
+2537,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,950,850,20 Aug 2015
+2538,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,16 May 2015
+2539,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1000,950,17 Mar 2015
+2540,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,950,1100,1000,13 Jan 2015
+2541,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1100,1200,1150,05 Feb 2015
+2542,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1500,2000,1750,25 Dec 2014
+2543,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2300,2150,08 Sep 2014
+2544,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2000,2700,2400,27 Nov 2014
+2545,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2400,2300,16 Oct 2014
+2546,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2300,2400,2350,11 Sep 2014
+2547,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2500,2450,07 Oct 2014
+2548,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2800,2600,28 Nov 2014
+2549,Mysore,K.R.Nagar,Potato,Potato,FAQ,750,1000,882,20 Aug 2015
+2550,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,05 Jun 2015
+2551,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,10 Aug 2015
+2552,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,17 Aug 2015
+2553,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,01 Sep 2014
+2554,Mysore,K.R.Nagar,Potato,Potato,Medium,1000,1000,1000,25 Oct 2014
+2555,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,07 Apr 2015
+2556,Kolar,Kolar,Potato,Local,FAQ,1800,2000,1900,20 Jan 2015
+2557,Kolar,Kolar,Potato,Local,Medium,1500,2000,1800,15 Sep 2014
+2558,Kolar,Kolar,Potato,Local,Medium,1500,2200,1800,20 Sep 2014
+2559,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,22 Aug 2015
+2560,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1190,27 May 2015
+2561,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1200,01 Apr 2015
+2562,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1300,04 Apr 2015
+2563,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1240,08 May 2015
+2564,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1350,20 Feb 2015
+2565,Kolar,Malur,Potato,Potato,FAQ,1400,1800,1430,23 Jan 2015
+2566,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,18 Aug 2015
+2567,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,20 Apr 2015
+2568,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,20 May 2015
+2569,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,22 Apr 2015
+2570,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,07 Jul 2015
+2571,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,19 Jun 2015
+2572,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,12 Jan 2015
+2573,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,28 Oct 2014
+2574,Kolar,Srinivasapur,Potato,Local,FAQ,600,1400,800,12 Mar 2015
+2575,Udupi,Udupi,Potato,Potato,FAQ,1300,1600,1500,01 Jul 2015
+2576,Udupi,Udupi,Potato,Potato,FAQ,1400,1800,1600,25 Feb 2015
+2577,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,1650,1575,23 Jan 2015
+2578,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,1500,1800,1650,19 Dec 2014
+2579,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,17 Aug 2015
+2580,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,26 Aug 2015
+2581,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,13 May 2015
+2582,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,26 May 2015
+2583,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,27 Apr 2015
+2584,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,10 Jul 2015
+2585,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,10 Mar 2015
+2586,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,13 Feb 2015
+2587,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,19 Feb 2015
+2588,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,22 Jul 2015
+2589,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,24 Jun 2015
+2590,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,25 Mar 2015
+2591,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,27 Feb 2015
+2592,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,28 Jul 2015
+2593,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,16 Sep 2014
+2594,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,23 Oct 2014
+2595,Kolar,Srinivasapur,Potato,Local,FAQ,1000,1550,1333,29 Jan 2015
+2596,Udupi,Udupi,Potato,Potato,FAQ,1100,1300,1200,25 Mar 2015
+2597,Udupi,Udupi,Potato,Potato,FAQ,1200,1500,1300,22 Jul 2015
+2598,Udupi,Udupi,Potato,Potato,FAQ,1400,1800,1600,10 Jun 2015
+2599,Kolar,Malur,Potato,Potato,Medium,1600,2000,1740,27 Dec 2014
+2600,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,900,750,18 May 2015
+2601,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,900,750,19 Jun 2015
+2602,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,900,750,19 May 2015
+2603,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,03 Jul 2015
+2604,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,16 Apr 2015
+2605,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,18 Mar 2015
+2606,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1400,1500,1450,24 Jan 2015
+2607,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,700,1400,1050,27 Jan 2015
+2608,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,20 Aug 2015
+2609,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,03 Aug 2015
+2610,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,08 Jun 2015
+2611,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,10 Jun 2015
+2612,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,10 Apr 2015
+2613,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,12 Feb 2015
+2614,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,12 Mar 2015
+2615,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,22 Jun 2015
+2616,Shimoga,Shimoga,Potato,Local,FAQ,2800,3000,2900,28 Jan 2015
+2617,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,09 Oct 2014
+2618,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,15 Sep 2014
+2619,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,30 Sep 2014
+2620,Udupi,Udupi,Potato,Potato,FAQ,1200,1400,1300,18 Mar 2015
+2621,Hassan,Arasikere,Potato,Local,FAQ,1000,1000,1000,29 Apr 2015
+2622,Bangalore,Bangalore,Potato,Chips,FAQ,1000,1300,1200,17 Apr 2015
+2623,Bangalore,Bangalore,Potato,Chips,FAQ,1300,1600,1450,26 May 2015
+2624,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1500,1450,02 Jul 2015
+2625,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,12 Mar 2015
+2626,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,18 Feb 2015
+2627,Bangalore,Bangalore,Potato,Chips,FAQ,1400,1600,1500,29 Jun 2015
+2628,Bangalore,Bangalore,Potato,Chips,FAQ,1500,1700,1600,28 Feb 2015
+2629,Bangalore,Bangalore,Potato,Chips,FAQ,1600,1900,1750,01 Jan 2015
+2630,Bangalore,Bangalore,Potato,Chips,FAQ,1700,2000,1850,03 Jan 2015
+2631,Bangalore,Bangalore,Potato,Chips,FAQ,1800,2200,2000,17 Jan 2015
+2632,Bangalore,Bangalore,Potato,Chips,FAQ,1900,2000,1950,07 Jan 2015
+2633,Bangalore,Bangalore,Potato,Chips,Medium,2200,2400,2300,15 Sep 2014
+2634,Bangalore,Bangalore,Potato,Chips,Medium,2200,2500,2300,18 Sep 2014
+2635,Bangalore,Bangalore,Potato,Chips,Medium,2400,2600,2500,26 Sep 2014
+2636,Bangalore,Bangalore,Potato,Potato,FAQ,500,1300,900,01 Apr 2015
+2637,Bangalore,Bangalore,Potato,Potato,FAQ,600,900,750,12 Aug 2015
+2638,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,11 Aug 2015
+2639,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,01 Sep 2015
+2640,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,19 Aug 2015
+2641,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,28 Aug 2015
+2642,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,29 Jul 2015
+2643,Bangalore,Bangalore,Potato,Potato,FAQ,800,1150,1000,20 Jun 2015
+2644,Bangalore,Bangalore,Potato,Potato,FAQ,800,1300,1000,09 Feb 2015
+2645,Bangalore,Bangalore,Potato,Potato,FAQ,800,1300,1100,31 Jan 2015
+2646,Bangalore,Bangalore,Potato,Potato,FAQ,900,1200,1100,28 Apr 2015
+2647,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1500,1300,22 Jan 2015
+2648,Bangalore,Bangalore,Potato,Potato,Medium,700,1000,900,22 Dec 2014
+2649,Bangalore,Bangalore,Potato,Potato,Medium,700,1000,900,23 Dec 2014
+2650,Bangalore,Bangalore,Potato,Potato,Medium,1000,1400,1300,30 Oct 2014
+2651,Kolar,Bangarpet,Potato,Jalander,Medium,1800,3300,2200,22 Nov 2014
+2652,Kolar,Bangarpet,Potato,Jalander,Medium,2000,3600,2600,17 Sep 2014
+2653,Kolar,Bangarpet,Potato,Jalander,Medium,2400,3800,3000,12 Sep 2014
+2654,Kolar,Bangarpet,Potato,Local,FAQ,600,1400,900,18 May 2015
+2655,Kolar,Bangarpet,Potato,Local,FAQ,1000,1400,1200,05 May 2015
+2656,Kolar,Bangarpet,Potato,Local,FAQ,1200,1800,1500,09 Feb 2015
+2657,Kolar,Bangarpet,Potato,Local,FAQ,1200,2000,1400,14 Aug 2015
+2658,Belgaum,Belgaum,Potato,Local,FAQ,600,1200,1000,09 May 2015
+2659,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,900,14 May 2015
+2660,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,1000,19 Jul 2015
+2661,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,01 Jun 2015
+2662,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1200,15 Apr 2015
+2663,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1200,08 Mar 2015
+2664,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1200,28 Mar 2015
+2665,Belgaum,Belgaum,Potato,Local,FAQ,800,1100,1000,23 Aug 2015
+2666,Belgaum,Belgaum,Potato,Local,FAQ,800,1200,1100,25 Apr 2015
+2667,Belgaum,Belgaum,Potato,Local,FAQ,800,2300,1400,10 Jan 2015
+2668,Belgaum,Belgaum,Potato,Local,FAQ,900,1300,1000,12 Jun 2015
+2669,Belgaum,Belgaum,Potato,Local,Medium,800,2400,1200,27 Nov 2014
+2670,Belgaum,Belgaum,Potato,Local,Medium,800,2700,1200,19 Nov 2014
+2671,Belgaum,Belgaum,Potato,Local,Medium,900,2400,1500,13 Sep 2014
+2672,Belgaum,Belgaum,Potato,Local,Medium,900,2500,1600,26 Sep 2014
+2673,Belgaum,Belgaum,Potato,Local,Medium,1000,2600,1600,28 Sep 2014
+2674,Belgaum,Belgaum,Potato,Local,Medium,1800,2300,2050,12 Sep 2014
+2675,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,1000,1000,1000,23 May 2015
+2676,Kolar,Chickkaballapura,Potato,Jalander,FAQ,950,1350,1075,27 Aug 2015
+2677,Kolar,Chickkaballapura,Potato,Jalander,Large,2000,4000,2150,16 Sep 2014
+2678,Kolar,Chickkaballapura,Potato,Jalander,Medium,2000,4000,2150,06 Sep 2014
+2679,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,900,08 Jul 2015
+2680,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,1000,06 Jul 2015
+2681,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,1000,17 Jun 2015
+2682,Kolar,Chickkaballapura,Potato,Local,FAQ,300,1000,900,25 Jul 2015
+2683,Kolar,Chickkaballapura,Potato,Local,FAQ,500,1400,1300,26 Jan 2015
+2684,Kolar,Chickkaballapura,Potato,Local,Medium,500,2000,1700,26 Dec 2014
+2685,Kolar,Chickkaballapura,Potato,Local,Medium,500,2200,2000,08 Dec 2014
+2686,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,500,900,700,28 Aug 2015
+2687,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1500,1200,02 Feb 2015
+2688,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1600,1300,06 Feb 2015
+2689,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1600,1300,07 Feb 2015
+2690,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1800,1500,25 Mar 2015
+2691,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1200,1800,1500,20 Mar 2015
+2692,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1800,2300,2000,14 Jan 2015
+2693,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,01 Sep 2014
+2694,Chikmagalur,Chikkamagalore,Potato,Other,Medium,1800,2200,2000,27 Jan 2015
+2695,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,17 Apr 2015
+2696,Davangere,Davangere,Potato,Potato,FAQ,1100,1200,1150,24 Jul 2015
+2697,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2250,02 Jan 2015
+2698,Hassan,Hassan,Potato,Potato,FAQ,700,837,700,29 Aug 2015
+2699,Hassan,Hassan,Potato,Potato,FAQ,800,1000,1000,01 Jun 2015
+2700,Hassan,Hassan,Potato,Potato,FAQ,823,823,823,22 Jun 2015
+2701,Hassan,Hassan,Potato,Potato,FAQ,900,1000,950,20 May 2015
+2702,Hassan,Hassan,Potato,Potato,FAQ,915,1538,1500,01 Jan 2015
+2703,Hassan,Hassan,Potato,Potato,FAQ,2138,2138,2138,17 Jan 2015
+2704,Hassan,Hassan,Potato,Potato,Medium,900,2000,1555,04 Sep 2014
+2705,Hassan,Hassan,Potato,Potato,Medium,2363,2363,2363,04 Dec 2014
+2706,Hassan,Hassan,Potato,Potato,Medium,2458,2458,2458,14 Oct 2014
+2707,Hassan,Holenarsipura,Potato,Local,FAQ,800,800,800,18 Aug 2015
+2708,Hassan,Holenarsipura,Potato,Local,Medium,600,600,600,15 Oct 2014
+2709,Hassan,Holenarsipura,Potato,Local,Medium,653,653,653,21 Sep 2014
+2710,Hassan,Holenarsipura,Potato,Local,Medium,800,800,800,29 Sep 2014
+2711,Bangalore,Hoskote,Potato,Local,FAQ,900,2000,1850,25 Mar 2015
+2712,Bangalore,Hoskote,Potato,Local,FAQ,1500,1700,1600,19 Aug 2015
+2713,Bellary,Hospet,Potato,Potato,FAQ,600,600,600,18 Apr 2015
+2714,Bellary,Hospet,Potato,Potato,FAQ,800,1500,1200,08 Jul 2015
+2715,Bellary,Hospet,Potato,Potato,FAQ,1100,1100,1100,30 Jun 2015
+2716,Bellary,Hospet,Potato,Potato,FAQ,1200,1200,1200,29 Aug 2015
+2717,Bellary,Hospet,Potato,Potato,FAQ,1200,1500,1200,24 Jun 2015
+2718,Bellary,Hospet,Potato,Potato,Medium,800,1100,1000,26 Aug 2015
+2719,Bellary,Hospet,Potato,Potato,Medium,900,1200,1000,26 May 2015
+2720,Bellary,Hospet,Potato,Potato,Medium,1000,1500,1200,22 Jul 2015
+2721,Bellary,Hospet,Potato,Potato,Medium,1000,1600,1200,09 Jun 2015
+2722,Bellary,Hospet,Potato,Potato,Medium,1200,1900,1800,16 Dec 2014
+2723,Bellary,Hospet,Potato,Potato,Medium,1400,1400,1400,25 Jan 2015
+2724,Bellary,Hospet,Potato,Potato,Medium,1600,1700,1700,20 Jan 2015
+2725,Bellary,Hospet,Potato,Potato,Medium,1800,1800,1800,07 Dec 2014
+2726,Bellary,Hospet,Potato,Potato,Medium,1800,1900,1800,25 Nov 2014
+2727,Bellary,Hospet,Potato,Potato,Medium,2000,2000,2000,17 Mar 2015
+2728,Bellary,Hospet,Potato,Potato,Small,1600,1600,1600,05 Oct 2014
+2729,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,1000,650,17 Feb 2015
+2730,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1100,850,20 Feb 2015
+2731,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,700,1550,1050,10 Jan 2015
+2732,Dharwad,Hubli (Amaragol),Potato,Local,Medium,1000,3000,1800,03 Nov 2014
+2733,Dharwad,Hubli (Amaragol),Potato,Local,Medium,2650,3001,2800,02 Sep 2014
+2734,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,400,1600,1000,08 Jan 2015
+2735,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1700,1250,06 Jan 2015
+2736,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1900,1650,09 Jan 2015
+2737,Dharwad,Hubli (Amaragol),Potato,Other,Medium,400,700,550,12 May 2015
+2738,Dharwad,Hubli (Amaragol),Potato,Other,Medium,600,800,700,29 Apr 2015
+2739,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,950,750,28 Jul 2015
+2740,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,23 Mar 2015
+2741,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1100,900,17 Jul 2015
+2742,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1000,950,27 Feb 2015
+2743,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1200,1200,20 Feb 2015
+2744,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1400,1350,30 Jan 2015
+2745,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1750,2000,1850,01 Jan 2015
+2746,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,500,750,650,24 Mar 2015
+2747,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,850,1000,900,23 May 2015
+2748,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,1600,2400,2000,04 Sep 2014
+2749,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2200,2300,2250,03 Sep 2014
+2750,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2500,2450,03 Oct 2014
+2751,Dharwad,Hubli (Amaragol),Potato,Potato,Medium,2400,2700,2550,20 Nov 2014
+2752,Mysore,Hunsur,Potato,Potato,Medium,750,750,750,23 Sep 2014
+2753,Mysore,Hunsur,Potato,Potato,Medium,1000,1000,1000,25 Sep 2014
+2754,Mysore,K.R.Nagar,Potato,Potato,FAQ,875,875,875,29 Aug 2015
+2755,Mysore,K.R.Nagar,Potato,Potato,FAQ,1000,1000,1000,14 Aug 2015
+2756,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,03 Mar 2015
+2757,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,17 Mar 2015
+2758,Kolar,Kolar,Potato,Local,FAQ,1500,1800,1680,13 Jan 2015
+2759,Kolar,Kolar,Potato,Local,Medium,1000,1600,1500,26 Jan 2015
+2760,Kolar,Kolar,Potato,Local,Medium,1200,1500,1300,01 Jan 2015
+2761,Kolar,Malur,Potato,Potato,FAQ,900,1400,1000,29 May 2015
+2762,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1220,05 Jun 2015
+2763,Kolar,Malur,Potato,Potato,FAQ,1100,1400,1270,05 May 2015
+2764,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1300,24 Apr 2015
+2765,Kolar,Malur,Potato,Potato,FAQ,1100,1500,1350,19 Mar 2015
+2766,Kolar,Malur,Potato,Potato,FAQ,1200,1500,1250,16 Jul 2015
+2767,Kolar,Malur,Potato,Potato,FAQ,1200,1600,1500,09 Feb 2015
+2768,Kolar,Malur,Potato,Potato,Medium,1400,2400,1640,20 Dec 2014
+2769,Kolar,Malur,Potato,Potato,Medium,1800,2200,2000,16 Dec 2014
+2770,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,22 Apr 2015
+2771,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,24 Apr 2015
+2772,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,25 Jun 2015
+2773,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1200,1050,21 Aug 2015
+2774,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1300,1600,1550,09 Jan 2015
+2775,Mysore,Mysore (Bandipalya),Potato,Potato,Medium,2400,2600,2500,25 Oct 2014
+2776,Hassan,Sakaleshpura,Potato,Potato,FAQ,600,600,600,25 Aug 2015
+2777,Shimoga,Shimoga,Potato,Local,FAQ,1000,1200,1100,12 Aug 2015
+2778,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,10 Aug 2015
+2779,Shimoga,Shimoga,Potato,Local,FAQ,1200,1400,1300,13 Aug 2015
+2780,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,01 Jun 2015
+2781,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,14 May 2015
+2782,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,04 Apr 2015
+2783,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,06 Apr 2015
+2784,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,23 Jun 2015
+2785,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,21 Oct 2014
+2786,Shimoga,Shimoga,Potato,Local,Medium,2800,3000,2900,26 Sep 2014
+2787,Kolar,Srinivasapur,Potato,Local,FAQ,600,1200,1000,30 Apr 2015
+2788,Kolar,Srinivasapur,Potato,Local,FAQ,600,1500,750,10 Apr 2015
+2789,Kolar,Srinivasapur,Potato,Potato,Medium,1000,1825,1569,25 Dec 2014
+2790,Kolar,Srinivasapur,Potato,Potato,Medium,1300,2200,2000,18 Dec 2014
+2791,Udupi,Udupi,Potato,Potato,FAQ,1800,2200,2000,15 Apr 2015

@@ -1,0 +1,2237 @@
+0,1,2,3,4,5,6,7,8,9
+1,Adilabad,Adilabad(Rythu Bazar),Tomato,Hybrid,Large,3000,3000,3000,25 Jun 2015
+2,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,2800,2800,2800,01 Jul 2015
+3,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2500,2500,2500,31 Jul 2015
+4,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2800,2800,2800,05 Jul 2015
+5,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,04 Mar 2015
+6,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,10 Oct 2014
+7,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,17 Apr 2015
+8,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,600,500,09 Feb 2015
+9,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,600,500,30 Sep 2014
+10,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,06 Jan 2015
+11,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1400,1000,19 Nov 2014
+12,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,17 Jan 2015
+13,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2600,2000,07 Jul 2015
+14,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2600,2000,19 Jul 2015
+15,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2400,1800,22 Jun 2015
+16,Ranga Reddy,Chevella,Tomato,Local,Large,500,500,500,08 Jan 2015
+17,Ranga Reddy,Chevella,Tomato,Local,Large,1000,1000,1000,17 Dec 2014
+18,Ranga Reddy,Chevella,Tomato,Local,Medium,200,200,200,30 Mar 2015
+19,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,14 Apr 2015
+20,Ranga Reddy,Chevella,Tomato,Local,Medium,320,320,320,10 Apr 2015
+21,Ranga Reddy,Chevella,Tomato,Local,Medium,400,400,400,27 Apr 2015
+22,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,04 Oct 2014
+23,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,08 Feb 2015
+24,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,13 Oct 2014
+25,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,19 Feb 2015
+26,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,27 May 2015
+27,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,29 Jan 2015
+28,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,30 Aug 2015
+29,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,31 Jan 2015
+30,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,21 Jun 2015
+31,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,20 Nov 2014
+32,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,07 Jul 2015
+33,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,6,12,9,31 Aug 2015
+34,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,8,14,11,16 Aug 2015
+35,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,8,14,11,30 Aug 2015
+36,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,8,15,11,29 Aug 2015
+37,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,13 Aug 2015
+38,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,20,26,23,23 Jul 2015
+39,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,22,28,25,20 Jun 2015
+40,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,26,32,29,11 Jul 2015
+41,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,30,36,33,14 Jul 2015
+42,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,21 Aug 2015
+43,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,16 Aug 2015
+44,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,800,600,14 May 2015
+45,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,600,27 Aug 2015
+46,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,800,1800,1300,12 Jun 2015
+47,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1600,1300,27 Jul 2015
+48,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,17 Jun 2015
+49,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,20 Jul 2015
+50,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,29 Jun 2015
+51,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,26 Jul 2015
+52,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3200,3200,3200,22 Jul 2015
+53,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,4000,4000,4000,13 Jul 2015
+54,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,4000,4000,4000,13 Jun 2015
+55,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,4000,4000,4000,14 Jul 2015
+56,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,1800,1800,1800,06 Aug 2015
+57,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,12 Mar 2015
+58,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,27 Sep 2014
+59,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,02 Oct 2014
+60,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,16 Oct 2014
+61,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,18 Oct 2014
+62,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,20 Oct 2014
+63,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,600,500,07 Feb 2015
+64,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1100,800,22 Aug 2015
+65,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,600,500,11 Apr 2015
+66,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,08 Aug 2015
+67,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,700,19 Jan 2015
+68,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1000,800,05 May 2015
+69,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,1600,1400,15 Sep 2014
+70,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,1800,1400,06 Dec 2014
+71,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2800,2400,09 Jul 2015
+72,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,14 Sep 2014
+73,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,21 Sep 2014
+74,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,03 Apr 2015
+75,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,20 Apr 2015
+76,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,03 Jun 2015
+77,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,08 Oct 2014
+78,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,09 Feb 2015
+79,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,22 May 2015
+80,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,28 Jan 2015
+81,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,07 Nov 2014
+82,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,17 Jun 2015
+83,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,01 Nov 2014
+84,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,04 Aug 2015
+85,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,20 Aug 2015
+86,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,16,22,19,22 Jul 2015
+87,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,16,22,19,28 Jul 2015
+88,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,18,25,21,25 Jul 2015
+89,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,22,28,25,26 Jul 2015
+90,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,1000,600,20 Aug 2015
+91,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,08 Aug 2015
+92,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,600,28 Aug 2015
+93,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,800,1400,1100,08 Jun 2015
+94,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1800,1400,28 Jul 2015
+95,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,300,500,400,28 Feb 2015
+96,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,300,600,450,16 Dec 2014
+97,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,12 Nov 2014
+98,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,21 Oct 2014
+99,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,14 Oct 2014
+100,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,1200,800,05 Nov 2014
+101,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,2500,2500,2500,22 Jun 2015
+102,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,2800,2800,2800,29 Jul 2015
+103,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,27 Jul 2015
+104,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,4000,4000,4000,12 Jul 2015
+105,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,4000,4000,4000,20 Jul 2015
+106,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2800,2800,2800,02 Jun 2015
+107,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,1800,1800,1800,07 Aug 2015
+108,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,1800,1800,1800,15 Aug 2015
+109,Hyderabad,Bowenpally,Tomato,Tomato,Medium,100,200,200,26 Mar 2015
+110,Hyderabad,Bowenpally,Tomato,Tomato,Medium,100,400,300,03 Apr 2015
+111,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,09 Apr 2015
+112,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,13 Apr 2015
+113,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,700,500,23 Dec 2014
+114,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,600,500,13 Feb 2015
+115,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,17 Feb 2015
+116,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1000,700,15 May 2015
+117,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1200,800,19 May 2015
+118,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,01 Jan 2015
+119,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,18 Nov 2014
+120,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,1000,27 Oct 2014
+121,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1400,1100,02 Sep 2014
+122,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1600,1400,03 Jun 2015
+123,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1600,1400,06 Jun 2015
+124,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,2000,1600,21 Jul 2015
+125,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1200,03 Dec 2014
+126,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1200,16 Sep 2014
+127,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1800,1400,08 Jun 2015
+128,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1200,09 Sep 2014
+129,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2200,1800,20 Jun 2015
+130,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,1600,1400,12 Sep 2014
+131,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,29 Aug 2015
+132,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,580,580,580,14 Jan 2015
+133,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,06 Mar 2015
+134,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,10 Mar 2015
+135,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,12 Mar 2015
+136,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,19 Apr 2015
+137,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,24 Feb 2015
+138,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,27 Feb 2015
+139,Ranga Reddy,Chevella,Tomato,Local,Medium,350,350,350,06 Apr 2015
+140,Ranga Reddy,Chevella,Tomato,Local,Medium,400,400,400,26 Apr 2015
+141,Ranga Reddy,Chevella,Tomato,Local,Medium,400,400,400,29 Apr 2015
+142,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,06 May 2015
+143,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,11 Oct 2014
+144,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,11 Sep 2014
+145,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,30 Jan 2015
+146,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,31 May 2015
+147,Ranga Reddy,Chevella,Tomato,Local,Medium,750,750,750,03 Jan 2015
+148,Ranga Reddy,Chevella,Tomato,Local,Medium,750,750,750,05 Jan 2015
+149,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,29 Jun 2015
+150,Ranga Reddy,Chevella,Tomato,Local,Medium,850,850,850,20 Jun 2015
+151,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1300,2200,1750,10 Jul 2015
+152,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1300,2200,1750,13 Jul 2015
+153,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1300,2200,1750,14 Jul 2015
+154,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1300,2200,1750,15 Jul 2015
+155,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1600,2000,1800,02 Jul 2015
+156,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,01 Apr 2015
+157,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,13 Mar 2015
+158,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,18 Dec 2014
+159,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,09 Jan 2015
+160,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,03 Nov 2014
+161,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,10 Nov 2014
+162,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,30 Oct 2014
+163,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,07 Nov 2014
+164,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,28 Jan 2015
+165,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,500,1500,1000,02 Dec 2014
+166,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1400,1200,10 Sep 2014
+167,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1600,2000,1800,27 May 2015
+168,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,17 Mar 2015
+169,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,18 Mar 2015
+170,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,27 Mar 2015
+171,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,14 Oct 2014
+172,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,20 Nov 2014
+173,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,30 Jan 2015
+174,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1100,900,25 Nov 2014
+175,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,27 Aug 2015
+176,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,28 Oct 2014
+177,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,11 Dec 2014
+178,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,14 May 2015
+179,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1100,1500,1300,30 Jul 2015
+180,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,26 May 2015
+181,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1600,2000,1800,01 Jun 2015
+182,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1600,2000,1800,12 Jun 2015
+183,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2600,3000,2800,20 Jul 2015
+184,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,35,06 Jan 2015
+185,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,22 Mar 2015
+186,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,26 Sep 2014
+187,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,29 Apr 2015
+188,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,31,55,43,01 Feb 2015
+189,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,36,50,43,16 Feb 2015
+190,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,90,70,17 Sep 2014
+191,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,100,80,30 Nov 2014
+192,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,116,88,04 Sep 2014
+193,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,76,110,93,09 Sep 2014
+194,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,130,105,18 Aug 2015
+195,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,91,125,108,11 Sep 2014
+196,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,100,290,195,15 Jul 2015
+197,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,141,265,203,27 Jun 2015
+198,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,164,236,200,16 Jun 2015
+199,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,236,290,263,08 Jul 2015
+200,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1200,900,20 Sep 2014
+201,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,01 Oct 2014
+202,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,02 Feb 2015
+203,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,13 Oct 2014
+204,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,800,700,12 Jan 2015
+205,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,13 Dec 2014
+206,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,10 Jan 2015
+207,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,16 Jan 2015
+208,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,17 Sep 2014
+209,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,29 Aug 2015
+210,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,12000,1000,11 Aug 2015
+211,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1100,1500,1300,24 Sep 2014
+212,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,04 Jun 2015
+213,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1400,1800,1600,19 Sep 2014
+214,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1400,1800,1600,24 May 2015
+215,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1500,2500,2000,13 Sep 2014
+216,Mahbubnagar,Kalwakurthy,Tomato,Hybrid,Medium,26,50,38,10 Apr 2015
+217,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,35,90,63,04 Nov 2014
+218,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,36,56,46,13 Jan 2015
+219,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,36,70,53,05 May 2015
+220,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,28 Nov 2014
+221,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,170,110,26 May 2015
+222,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,105,83,05 Jun 2015
+223,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,70,100,85,12 Aug 2015
+224,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,70,110,90,04 Dec 2014
+225,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,70,130,100,16 Aug 2015
+226,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,130,200,165,18 Jun 2015
+227,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,140,170,155,02 Jul 2015
+228,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,172,250,211,20 Jun 2015
+229,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,235,300,268,06 Jul 2015
+230,Khammam,Khammam,Tomato,Tomato,FAQ,1200,1500,1200,01 Jun 2015
+231,Khammam,Khammam,Tomato,Tomato,FAQ,1200,1600,1200,29 May 2015
+232,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,17 Dec 2014
+233,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,20 Oct 2014
+234,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,10 Jan 2015
+235,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,13 Oct 2014
+236,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,21 Jan 2015
+237,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1000,900,30 Dec 2014
+238,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,29 Nov 2014
+239,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1600,1300,05 Dec 2014
+240,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,17 Aug 2015
+241,Hyderabad,L B Nagar,Tomato,Tomato,Medium,500,800,650,16 Apr 2015
+242,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,15 Aug 2015
+243,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,25 Aug 2015
+244,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,05 May 2015
+245,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,09 May 2015
+246,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1000,900,21 Apr 2015
+247,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1000,1200,1100,12 May 2015
+248,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2800,2400,10 Jul 2015
+249,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,400,600,500,22 Aug 2015
+250,Adilabad,Adilabad(Rythu Bazar),Tomato,Hybrid,Large,2800,2800,2800,07 Jul 2015
+251,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,4000,4000,4000,11 Jul 2015
+252,Adilabad,Adilabad(Rythu Bazar),Tomato,Other,Large,4000,4000,4000,12 Jun 2015
+253,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,1800,1800,1800,05 Aug 2015
+254,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2800,2800,2800,02 Jul 2015
+255,Hyderabad,Bowenpally,Tomato,Tomato,Medium,100,400,300,25 Mar 2015
+256,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,05 Feb 2015
+257,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,29 Mar 2015
+258,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,19 Oct 2014
+259,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1000,700,13 Aug 2015
+260,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,05 Jan 2015
+261,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,16 Aug 2015
+262,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,15 Aug 2015
+263,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,16 May 2015
+264,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,800,20 May 2015
+265,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1600,1400,04 Sep 2014
+266,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1200,22 May 2015
+267,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1800,1400,30 May 2015
+268,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1800,01 Jul 2015
+269,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1800,30 Jun 2015
+270,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2200,1800,18 Jun 2015
+271,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2400,2200,29 Jun 2015
+272,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,17 Apr 2015
+273,Ranga Reddy,Chevella,Tomato,Local,Medium,350,350,350,05 Apr 2015
+274,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,01 Sep 2014
+275,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,04 Feb 2015
+276,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,05 Jun 2015
+277,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,08 Jun 2015
+278,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,10 Jun 2015
+279,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,13 Jun 2015
+280,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,16 May 2015
+281,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,27 Aug 2015
+282,Ranga Reddy,Chevella,Tomato,Local,Medium,850,850,850,18 Jun 2015
+283,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,13 Aug 2015
+284,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,14 Dec 2014
+285,Ranga Reddy,Chevella,Tomato,Local,Medium,1500,1500,1500,25 Jul 2015
+286,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,05 Aug 2015
+287,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,23 Jul 2015
+288,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,09 Jul 2015
+289,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,20,26,23,11 Jun 2015
+290,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,28,35,31,15 Jul 2015
+291,Hyderabad,Erragadda(Rythu Bazar),Tomato,Tomato,Medium,28,35,31,16 Jul 2015
+292,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,12 Apr 2015
+293,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,06 Aug 2015
+294,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,300,500,400,15 Apr 2015
+295,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,600,29 Aug 2015
+296,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,03 Jul 2015
+297,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,28 Jun 2015
+298,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1200,1600,1400,01 Jun 2015
+299,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1300,2200,1750,08 Jul 2015
+300,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,500,1000,750,31 Jul 2015
+301,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,900,1000,950,24 Jul 2015
+302,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1200,1600,1400,10 Jun 2015
+303,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1400,1500,1450,07 Jun 2015
+304,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1500,1800,1650,08 Jun 2015
+305,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1500,1800,1650,29 Jun 2015
+306,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1800,2000,1900,20 Jul 2015
+307,Mahbubnagar,Shadnagar,Tomato,Local,Medium,300,500,400,11 Aug 2015
+308,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,07 Aug 2015
+309,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,29 Aug 2015
+310,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,21 Aug 2015
+311,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,30 Aug 2015
+312,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,10 Oct 2014
+313,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,900,800,04 Aug 2015
+314,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,900,800,04 Nov 2014
+315,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1400,1200,14 Sep 2014
+316,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,50,80,65,14 Apr 2015
+317,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,80,100,90,01 Sep 2015
+318,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,150,125,27 Aug 2015
+319,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,175,250,200,02 Sep 2014
+320,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,200,200,07 Oct 2014
+321,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,300,250,04 Sep 2014
+322,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,300,350,325,18 Jun 2015
+323,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,07 Aug 2015
+324,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,15 Dec 2014
+325,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,16 Nov 2014
+326,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,8,14,11,05 Aug 2015
+327,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,15 Aug 2015
+328,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,26,32,29,18 Jul 2015
+329,Hyderabad,Erragadda(Rythu Bazar),Tomato,Tomato,Medium,30,36,33,14 Jul 2015
+330,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,03 Apr 2015
+331,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,05 Apr 2015
+332,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,15 Aug 2015
+333,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,07 May 2015
+334,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,500,900,700,04 Jun 2015
+335,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,01 Oct 2014
+336,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,06 Apr 2015
+337,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,14 Mar 2015
+338,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,19 Dec 2014
+339,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,24 Mar 2015
+340,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,24 Feb 2015
+341,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,300,500,400,19 Apr 2015
+342,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,11 Feb 2015
+343,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,31 Jan 2015
+344,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,02 Jan 2015
+345,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,13 Nov 2014
+346,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,18 Nov 2014
+347,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,18 Oct 2014
+348,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1600,1100,02 Sep 2014
+349,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1800,1400,10 Dec 2014
+350,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1500,2500,2000,23 May 2015
+351,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1800,2200,2000,30 May 2015
+352,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,2000,2200,2100,25 May 2015
+353,Hyderabad,Hyderabad (F&V),Tomato,Tomato,Medium,400,800,600,21 Nov 2014
+354,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,01 Apr 2015
+355,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,05 Mar 2015
+356,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,14 Mar 2015
+357,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,21 Mar 2015
+358,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,26 Mar 2015
+359,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,11 Feb 2015
+360,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,13 Apr 2015
+361,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,16 Feb 2015
+362,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,18 Jan 2015
+363,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,11 Oct 2014
+364,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,15 Dec 2014
+365,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,16 Dec 2014
+366,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,25 Apr 2015
+367,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,25 Oct 2014
+368,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,12 Nov 2014
+369,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,15 Nov 2014
+370,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,27 Apr 2015
+371,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,29 Jan 2015
+372,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,600,800,700,29 Aug 2015
+373,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,11 Nov 2014
+374,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,15 Dec 2014
+375,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,26 Nov 2014
+376,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,12 Dec 2014
+377,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,25 Nov 2014
+378,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1800,2400,2100,08 Dec 2014
+379,Hyderabad,L B Nagar,Tomato,Tomato,Medium,200,400,300,04 Apr 2015
+380,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,500,400,25 Feb 2015
+381,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,28 Apr 2015
+382,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,30 Jan 2015
+383,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,02 Aug 2015
+384,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1000,900,18 Aug 2015
+385,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,1600,1400,01 Jun 2015
+386,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2400,2000,18 Jun 2015
+387,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2600,2300,11 Jul 2015
+388,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2400,2600,2500,14 Jul 2015
+389,Medak,Sadasivpet(Sangareddy),Tomato,Local,FAQ,1500,1500,1500,06 May 2015
+390,Medak,Sadasivpet(Sangareddy),Tomato,Local,FAQ,2000,2400,2200,11 Jul 2015
+391,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,300,400,350,28 Aug 2015
+392,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,300,400,350,29 Aug 2015
+393,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1200,1600,1400,15 Jun 2015
+394,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1400,1400,1400,06 Jun 2015
+395,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,2000,2000,2000,22 Jun 2015
+396,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,2000,2500,2250,15 Jul 2015
+397,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,3000,4000,3500,14 Jun 2015
+398,Mahbubnagar,Shadnagar,Tomato,Local,Medium,600,800,700,30 Apr 2015
+399,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,25 Aug 2015
+400,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,02 Nov 2014
+401,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,09 Nov 2014
+402,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,25 Oct 2014
+403,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,18 Oct 2014
+404,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,50,70,60,04 Apr 2015
+405,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,120,110,26 Feb 2015
+406,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,120,150,135,13 Aug 2015
+407,Adilabad,Adilabad(Rythu Bazar),Tomato,Deshi,Large,2000,2000,2000,18 Jun 2015
+408,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,25 Jul 2015
+409,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2500,2800,2800,06 Jun 2015
+410,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2000,2000,2000,21 Aug 2015
+411,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,4000,4000,4000,16 Jul 2015
+412,Hyderabad,Bowenpally,Tomato,Tomato,Medium,100,400,300,05 Apr 2015
+413,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,14 Feb 2015
+414,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,500,400,11 Feb 2015
+415,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,500,400,15 Mar 2015
+416,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,01 Feb 2015
+417,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,03 Oct 2014
+418,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,12 Oct 2014
+419,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,600,500,23 Jan 2015
+420,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1000,800,25 Aug 2015
+421,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1200,1000,10 Dec 2014
+422,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1300,27 Jul 2015
+423,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2400,2000,17 Jun 2015
+424,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2600,2300,18 Jul 2015
+425,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,12 Sep 2014
+426,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,25 May 2015
+427,Ranga Reddy,Chevella,Tomato,Local,Medium,200,200,200,29 Mar 2015
+428,Ranga Reddy,Chevella,Tomato,Local,Medium,250,250,250,21 Mar 2015
+429,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,03 Mar 2015
+430,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,15 Apr 2015
+431,Ranga Reddy,Chevella,Tomato,Local,Medium,350,350,350,22 Apr 2015
+432,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,01 Oct 2014
+433,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,05 Sep 2014
+434,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,06 Sep 2014
+435,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,15 Oct 2014
+436,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,21 Feb 2015
+437,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,23 Feb 2015
+438,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,29 May 2015
+439,Ranga Reddy,Chevella,Tomato,Local,Medium,850,850,850,27 Jun 2015
+440,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,20 Dec 2014
+441,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,22 Jul 2015
+442,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,20,26,23,21 Jul 2015
+443,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,22,28,25,18 Jun 2015
+444,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,27 Apr 2015
+445,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,800,600,06 May 2015
+446,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1200,500,03 Aug 2015
+447,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1800,1400,03 Jun 2015
+448,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1800,1400,24 Jul 2015
+449,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,300,500,400,15 Apr 2015
+450,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,300,500,400,30 Sep 2014
+451,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,15 Nov 2014
+452,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,08 Oct 2014
+453,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,13 May 2015
+454,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,06 Nov 2014
+455,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1200,900,21 Apr 2015
+456,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1500,1250,23 Apr 2015
+457,Adilabad,Adilabad(Rythu Bazar),Tomato,Hybrid,Large,2000,2000,2000,20 Jun 2015
+458,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,2500,2500,2500,30 Jul 2015
+459,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,24 Jul 2015
+460,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,4000,4000,4000,18 Jul 2015
+461,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2800,2800,2800,01 Jun 2015
+462,Adilabad,Adilabad(Rythu Bazar),Tomato,Other,Large,3000,3000,3000,16 Jun 2015
+463,Nizamabad,Armoor,Tomato,Hybrid,Medium,600,600,600,19 Nov 2014
+464,Nizamabad,Armoor,Tomato,Hybrid,Medium,660,660,660,18 Nov 2014
+465,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,03 Mar 2015
+466,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,11 Mar 2015
+467,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,14 Mar 2015
+468,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,02 Feb 2015
+469,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,08 Feb 2015
+470,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,22 Feb 2015
+471,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,600,500,07 Jan 2015
+472,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,10 Feb 2015
+473,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,03 Feb 2015
+474,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,12 Dec 2014
+475,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,20 Aug 2015
+476,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,27 Aug 2015
+477,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,2000,1600,22 Jul 2015
+478,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,1600,1400,08 Sep 2014
+479,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1600,23 May 2015
+480,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2400,2200,26 Jun 2015
+481,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2600,2000,06 Jul 2015
+482,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2800,2200,15 Jul 2015
+483,Ranga Reddy,Chevella,Tomato,Local,Medium,250,250,250,01 Apr 2015
+484,Ranga Reddy,Chevella,Tomato,Local,Medium,250,250,250,26 Mar 2015
+485,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,13 Apr 2015
+486,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,17 Mar 2015
+487,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,24 Mar 2015
+488,Ranga Reddy,Chevella,Tomato,Local,Medium,350,350,350,24 Apr 2015
+489,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,25 Sep 2014
+490,Ranga Reddy,Chevella,Tomato,Local,Medium,700,700,700,22 Aug 2015
+491,Ranga Reddy,Chevella,Tomato,Local,Medium,750,750,750,02 Jan 2015
+492,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,03 Nov 2014
+493,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,26 Jun 2015
+494,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,01 Dec 2014
+495,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,23 Nov 2014
+496,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,27 Nov 2014
+497,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,28 Nov 2014
+498,Ranga Reddy,Chevella,Tomato,Local,Medium,1500,1500,1500,09 Aug 2015
+499,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,28 Jul 2015
+500,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,7,14,10,08 Aug 2015
+501,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,8,14,11,04 Aug 2015
+502,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,26 Aug 2015
+503,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,12,18,15,30 Jul 2015
+504,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,26,32,29,24 Jun 2015
+505,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,07 Aug 2015
+506,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,300,500,400,13 Apr 2015
+507,Adilabad,Adilabad(Rythu Bazar),Tomato,Other,Medium,3500,3500,3500,11 Jun 2015
+508,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2000,2000,2000,11 Aug 2015
+509,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2500,2500,2500,09 Jul 2015
+510,Hyderabad,Bowenpally,Tomato,Tomato,Medium,100,400,300,10 Apr 2015
+511,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,16 Feb 2015
+512,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,23 Mar 2015
+513,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,500,400,23 Feb 2015
+514,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,600,500,01 Aug 2015
+515,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,06 Aug 2015
+516,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,08 Oct 2014
+517,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,900,700,18 Aug 2015
+518,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,13 Dec 2014
+519,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,23 Aug 2015
+520,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,24 Nov 2014
+521,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,800,11 Dec 2014
+522,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1600,1300,29 Jul 2015
+523,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1200,800,20 Sep 2014
+524,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1200,22 Apr 2015
+525,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1600,04 Jul 2015
+526,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1600,09 Dec 2014
+527,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2200,1800,24 Jul 2015
+528,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2600,2200,11 Jul 2015
+529,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2800,2200,13 Jul 2015
+530,Ranga Reddy,Chevella,Tomato,Local,Medium,250,250,250,23 Mar 2015
+531,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,13 Mar 2015
+532,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,17 Feb 2015
+533,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,18 Mar 2015
+534,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,13 Feb 2015
+535,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,17 Sep 2014
+536,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,18 Sep 2014
+537,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,21 May 2015
+538,Ranga Reddy,Chevella,Tomato,Local,Medium,520,520,520,10 Jan 2015
+539,Ranga Reddy,Chevella,Tomato,Local,Medium,550,550,550,15 Jan 2015
+540,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,20 Aug 2015
+541,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,03 Dec 2014
+542,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,08 Nov 2014
+543,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,15 Aug 2015
+544,Ranga Reddy,Chevella,Tomato,Local,Medium,1200,1200,1200,10 Aug 2015
+545,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,21 Jul 2015
+546,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,26 Jul 2015
+547,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,11 Jul 2015
+548,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,6,12,9,17 Aug 2015
+549,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,24 Aug 2015
+550,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,25 Aug 2015
+551,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,11,18,14,22 Aug 2015
+552,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,16,22,19,06 Jul 2015
+553,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,19,26,23,10 Jun 2015
+554,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,26,32,29,25 Jun 2015
+555,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,10 Apr 2015
+556,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,01 Sep 2015
+557,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,30 Jun 2015
+558,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,4000,4000,4000,21 Jul 2015
+559,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2800,2800,2800,08 Jun 2015
+560,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2800,2800,2800,10 Jun 2015
+561,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,3000,3000,3000,28 Jun 2015
+562,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,01 Apr 2015
+563,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,500,300,16 Mar 2015
+564,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,21 Feb 2015
+565,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,700,500,14 Jan 2015
+566,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,700,600,07 Aug 2015
+567,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,09 Aug 2015
+568,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,02 May 2015
+569,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,07 May 2015
+570,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,12 Aug 2015
+571,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,24 Aug 2015
+572,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,1000,31 Oct 2014
+573,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1400,800,01 Sep 2014
+574,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1400,1000,01 Jun 2015
+575,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1300,28 Jul 2015
+576,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1600,11 Jun 2015
+577,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2400,2200,28 Jun 2015
+578,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2400,2200,27 Jun 2015
+579,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,400,400,400,25 Apr 2015
+580,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,16 Apr 2015
+581,Ranga Reddy,Chevella,Tomato,Local,Medium,320,320,320,15 Mar 2015
+582,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,02 Oct 2014
+583,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,10 May 2015
+584,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,15 May 2015
+585,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,17 May 2015
+586,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,20 Oct 2014
+587,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,24 Oct 2014
+588,Ranga Reddy,Chevella,Tomato,Local,Medium,700,700,700,21 Aug 2015
+589,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,16 Jun 2015
+590,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,24 Jun 2015
+591,Ranga Reddy,Chevella,Tomato,Local,Medium,900,900,900,01 Jul 2015
+592,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,07 Dec 2014
+593,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,26 Nov 2014
+594,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,29 Nov 2014
+595,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,01 Aug 2015
+596,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,27 Jul 2015
+597,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,03 Jul 2015
+598,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,16 Jul 2015
+599,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,7,14,10,09 Aug 2015
+600,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,8,14,11,03 Aug 2015
+601,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,24,30,27,22 Jun 2015
+602,Hyderabad,Gudimalkapur,Tomato,Tomato,FAQ,200,600,400,15 Dec 2014
+603,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,300,800,500,31 Aug 2015
+604,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,600,22 Aug 2015
+605,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,800,1000,900,11 May 2015
+606,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,800,1200,1000,19 May 2015
+607,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,2000,2200,2100,22 May 2015
+608,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,17 Oct 2014
+609,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,18 Mar 2015
+610,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,25 Mar 2015
+611,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,13 Jan 2015
+612,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,800,700,16 Jan 2015
+613,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,800,700,23 Jan 2015
+614,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,800,700,31 Dec 2014
+615,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,12 May 2015
+616,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1200,1000,04 Sep 2014
+617,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1400,1100,17 Sep 2014
+618,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1400,1200,22 Sep 2014
+619,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1600,1300,08 Dec 2014
+620,Hyderabad,Hyderabad (F&V),Tomato,Tomato,Medium,1200,1600,1400,08 Jun 2015
+621,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,09 Apr 2015
+622,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,24 Feb 2015
+623,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,04 Aug 2015
+624,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,04 Oct 2014
+625,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,04 Feb 2015
+626,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,800,700,20 Jan 2015
+627,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,01 May 2015
+628,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,23 Dec 2014
+629,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,14 Dec 2014
+630,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,15 Oct 2014
+631,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,900,1100,1000,07 Nov 2014
+632,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,18 May 2015
+633,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,22 Aug 2015
+634,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1100,1500,1300,09 Dec 2014
+635,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1100,1500,1300,27 Jul 2015
+636,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,04 Dec 2014
+637,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1500,2500,2000,04 Sep 2014
+638,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,24 Jun 2015
+639,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2600,3000,2800,16 Jun 2015
+640,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2600,3000,2800,20 Jun 2015
+641,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,07 Aug 2015
+642,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,31,65,48,02 Aug 2015
+643,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,35,55,45,30 Jan 2015
+644,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,110,80,25 Aug 2015
+645,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,110,85,29 Jul 2015
+646,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,110,95,08 Sep 2014
+647,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,120,100,06 Sep 2014
+648,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,90,140,115,08 Oct 2014
+649,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,100,150,125,14 Aug 2015
+650,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,110,150,130,17 May 2015
+651,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,110,150,130,20 May 2015
+652,Khammam,Khammam,Tomato,Tomato,FAQ,800,1000,800,03 Oct 2014
+653,Khammam,Khammam,Tomato,Tomato,FAQ,1800,2000,1800,25 May 2015
+654,Khammam,Khammam,Tomato,Tomato,FAQ,2000,2200,2000,28 May 2015
+655,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,06 Oct 2014
+656,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,08 Oct 2014
+657,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,03 Jan 2015
+658,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,13 Aug 2015
+659,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1200,1100,11 Jan 2015
+660,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,23 Sep 2014
+661,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,25 Sep 2014
+662,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1400,1800,1600,18 Sep 2014
+663,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1500,2500,2000,01 Sep 2014
+664,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1600,2000,1800,07 Sep 2014
+665,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,06 Jul 2015
+666,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,15 Jun 2015
+667,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,16,25,20,03 Apr 2015
+668,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,25,55,40,13 Apr 2015
+669,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,27 Jan 2015
+670,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,28 Jan 2015
+671,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,65,48,15 Dec 2014
+672,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,36,50,43,23 Mar 2015
+673,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,36,60,48,31 Jul 2015
+674,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,50,45,08 Apr 2015
+675,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,25 Sep 2014
+676,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,30 Apr 2015
+677,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,45,65,55,17 Nov 2014
+678,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,45,105,75,24 Apr 2015
+679,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,80,65,11 Aug 2015
+680,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,110,85,28 Jul 2015
+681,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,66,116,91,23 Jul 2015
+682,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,71,125,98,18 May 2015
+683,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,100,116,108,05 Oct 2014
+684,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,135,155,145,25 Jul 2015
+685,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,150,208,179,25 Jun 2015
+686,Khammam,Khammam,Tomato,Tomato,FAQ,1000,1400,1000,03 Jun 2015
+687,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,400,400,23 Dec 2014
+688,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,18 Oct 2014
+689,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,1000,700,27 Sep 2014
+690,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1000,900,01 Jan 2015
+691,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,13 Apr 2015
+692,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1000,1200,1100,11 May 2015
+693,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,1600,1400,28 Jul 2015
+694,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2400,1800,30 Jun 2015
+695,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,1800,1700,11 Jun 2015
+696,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2400,2000,20 Jul 2015
+697,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2400,2200,22 May 2015
+698,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,800,1000,900,30 Jul 2015
+699,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1800,2000,1900,05 Jul 2015
+700,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1900,1900,1900,25 Jun 2015
+701,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,23 Aug 2015
+702,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,800,500,25 Sep 2014
+703,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,700,600,13 Nov 2014
+704,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,08 Nov 2014
+705,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,14 Aug 2015
+706,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,31 Oct 2014
+707,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,26 Apr 2015
+708,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1600,1000,06 Jun 2015
+709,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,800,1200,1000,05 Jun 2015
+710,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1400,1200,09 Jun 2015
+711,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,20 Dec 2014
+712,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,26 Mar 2015
+713,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,31 Mar 2015
+714,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,27 Sep 2014
+715,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,20 Apr 2015
+716,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,21 Feb 2015
+717,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,31 Oct 2014
+718,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,05 May 2015
+719,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1200,1000,19 May 2015
+720,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1400,1100,18 Sep 2014
+721,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1400,1200,03 Sep 2014
+722,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1500,1250,03 Dec 2014
+723,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1500,2000,1750,15 Jun 2015
+724,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,15 Mar 2015
+725,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,02 Mar 2015
+726,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,10 Apr 2015
+727,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,15 Apr 2015
+728,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,28 Feb 2015
+729,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,18 Feb 2015
+730,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,20 Apr 2015
+731,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,800,700,26 Jan 2015
+732,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,01 Sep 2015
+733,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,07 Oct 2014
+734,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,28 Apr 2015
+735,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,18 Nov 2014
+736,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,17 Jan 2015
+737,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,21 Nov 2014
+738,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,09 Aug 2015
+739,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,10 May 2015
+740,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,11 May 2015
+741,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,16 May 2015
+742,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,18 Aug 2015
+743,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,900,1300,1100,20 Aug 2015
+744,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1100,1500,1300,23 Jul 2015
+745,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,02 Dec 2014
+746,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,20 Sep 2014
+747,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1300,1500,1400,29 Jul 2015
+748,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1500,2500,2000,05 Sep 2014
+749,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1800,2200,2000,22 Jul 2015
+750,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,3200,3600,3400,15 Jul 2015
+751,Mahbubnagar,Kalwakurthy,Tomato,Local,Large,51,95,73,11 May 2015
+752,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,06 Aug 2015
+753,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,31,55,43,09 Feb 2015
+754,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,14 Nov 2014
+755,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,80,65,20 Apr 2015
+756,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1400,2200,1800,28 May 2015
+757,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,04 Apr 2015
+758,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,07 Apr 2015
+759,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,11 Apr 2015
+760,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,21 Feb 2015
+761,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,03 Aug 2015
+762,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,23 Jan 2015
+763,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,800,700,14 Nov 2014
+764,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,19 Aug 2015
+765,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,22 Oct 2014
+766,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,26 Dec 2014
+767,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,20 Dec 2014
+768,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,22 Apr 2015
+769,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,31 Jan 2015
+770,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,01 Jan 2015
+771,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,01 Nov 2014
+772,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,12 May 2015
+773,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,23 Aug 2015
+774,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1100,1300,1200,13 May 2015
+775,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,27 Sep 2014
+776,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1400,1800,1600,02 Jun 2015
+777,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1400,1800,1600,16 Sep 2014
+778,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1600,2000,1800,11 Jun 2015
+779,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,27 Jun 2015
+780,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2600,3000,2800,02 Jul 2015
+781,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2600,3000,2800,17 Jun 2015
+782,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2600,3000,2800,18 Jul 2015
+783,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,25,45,35,29 Sep 2014
+784,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,12 Apr 2015
+785,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,31,55,43,04 Aug 2015
+786,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,35,80,58,02 Dec 2014
+787,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,60,50,18 Feb 2015
+788,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,41,65,53,26 Nov 2014
+789,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,70,60,24 Sep 2014
+790,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,120,85,29 May 2015
+791,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,56,115,75,25 Apr 2015
+792,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,130,105,21 Aug 2015
+793,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,150,115,07 Sep 2014
+794,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,100,190,145,11 Jun 2015
+795,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,101,163,132,06 Jun 2015
+796,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,110,190,150,06 Dec 2014
+797,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,120,170,145,07 Dec 2014
+798,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,120,240,180,17 Jul 2015
+799,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,130,220,175,23 Jun 2015
+800,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,180,250,215,24 May 2015
+801,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,250,300,275,13 Jul 2015
+802,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,560,430,31 Aug 2015
+803,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,16 Oct 2014
+804,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,22 Jan 2015
+805,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,15 Jun 2015
+806,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,23 Jun 2015
+807,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,28 Jul 2015
+808,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3500,3500,3500,10 Jul 2015
+809,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,1800,1800,1800,17 Aug 2015
+810,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2500,2500,2500,08 Aug 2015
+811,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2800,2800,2800,04 Jul 2015
+812,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,300,200,07 Mar 2015
+813,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,09 Jan 2015
+814,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,11 Jan 2015
+815,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,20 Dec 2014
+816,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,22 Oct 2014
+817,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,16 Apr 2015
+818,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,17 Aug 2015
+819,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,17 Mar 2015
+820,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,600,450,29 Jan 2015
+821,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,07 Nov 2014
+822,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1000,800,10 May 2015
+823,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,13 May 2015
+824,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,26 Aug 2015
+825,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1100,800,02 Jan 2015
+826,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,900,02 Nov 2014
+827,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,900,06 May 2015
+828,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1200,800,22 Sep 2014
+829,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1200,1000,30 Jul 2015
+830,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1400,1200,17 Sep 2014
+831,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1400,09 Jun 2015
+832,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1600,23 Jul 2015
+833,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1600,26 May 2015
+834,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2400,2000,05 Jul 2015
+835,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1200,2000,1600,07 Sep 2014
+836,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,22 Oct 2014
+837,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,09 Mar 2015
+838,Ranga Reddy,Chevella,Tomato,Local,Medium,350,350,350,16 Feb 2015
+839,Ranga Reddy,Chevella,Tomato,Local,Medium,400,400,400,28 Apr 2015
+840,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,02 Jun 2015
+841,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,03 Oct 2014
+842,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,04 Jun 2015
+843,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,05 Feb 2015
+844,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,06 Oct 2014
+845,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,18 May 2015
+846,Ranga Reddy,Chevella,Tomato,Local,Medium,700,700,700,07 Jan 2015
+847,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,06 Nov 2014
+848,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,06 Dec 2014
+849,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,17 Aug 2015
+850,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,24 Jul 2015
+851,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,02 Jul 2015
+852,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,05 Jul 2015
+853,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,08 Jul 2015
+854,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,18 Jul 2015
+855,Adilabad,Adilabad(Rythu Bazar),Tomato,Deshi,Large,2800,2800,2800,08 Jul 2015
+856,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,1800,1800,1800,03 Aug 2015
+857,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,02 Apr 2015
+858,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,12 Jan 2015
+859,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,17 Oct 2014
+860,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,600,500,22 Mar 2015
+861,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,13 Oct 2014
+862,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,30 Aug 2015
+863,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1200,800,09 May 2015
+864,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,21 Aug 2015
+865,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,700,19 Aug 2015
+866,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,17 May 2015
+867,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,1000,21 Nov 2014
+868,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,1000,25 Apr 2015
+869,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,1000,25 Sep 2014
+870,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1600,1200,23 Apr 2015
+871,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1200,1000,18 Sep 2014
+872,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1200,24 Apr 2015
+873,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1600,27 May 2015
+874,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1800,28 May 2015
+875,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2200,1800,19 Jun 2015
+876,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1800,02 Jul 2015
+877,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2400,2000,20 Jul 2015
+878,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,3200,2400,08 Jul 2015
+879,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,22 Sep 2014
+880,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,550,550,550,16 Jan 2015
+881,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,700,700,700,01 Jan 2015
+882,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,02 Mar 2015
+883,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,11 Apr 2015
+884,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,06 Jun 2015
+885,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,07 May 2015
+886,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,08 May 2015
+887,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,18 Oct 2014
+888,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,19 Oct 2014
+889,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,20 May 2015
+890,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,22 Feb 2015
+891,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,26 Sep 2014
+892,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,30 May 2015
+893,Ranga Reddy,Chevella,Tomato,Local,Medium,520,520,520,12 Feb 2015
+894,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,19 Jun 2015
+895,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,04 Dec 2014
+896,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,14 Nov 2014
+897,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,21 Nov 2014
+898,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,10 Jul 2015
+899,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,20 Jul 2015
+900,Ranga Reddy,Chevella,Tomato,Local,Small,1000,1000,1000,18 Aug 2015
+901,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,18,24,21,28 Jun 2015
+902,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,20,26,23,16 Jun 2015
+903,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,24,30,27,17 Jun 2015
+904,Hyderabad,Gudimalkapur,Tomato,Local,Medium,1600,2200,1900,09 Dec 2014
+905,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,600,800,700,13 Aug 2015
+906,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,600,1000,800,15 May 2015
+907,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,600,1000,800,31 Jul 2015
+908,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1200,1100,22 Apr 2015
+909,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,23 Jun 2015
+910,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1300,2200,1750,12 Jul 2015
+911,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,16 Apr 2015
+912,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,27 Mar 2015
+913,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,30 Jan 2015
+914,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1500,800,12 Dec 2014
+915,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1400,1200,23 Sep 2014
+916,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1800,1400,11 Dec 2014
+917,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,24 Mar 2015
+918,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,05 Apr 2015
+919,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,27 Feb 2015
+920,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,29 Mar 2015
+921,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,22 Mar 2015
+922,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,03 Feb 2015
+923,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,24 Jan 2015
+924,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,09 Nov 2014
+925,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,29 Oct 2014
+926,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,08 Nov 2014
+927,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,19 Nov 2014
+928,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,01 Aug 2015
+929,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,15 Aug 2015
+930,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1400,1800,1600,07 Jun 2015
+931,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1500,2500,2000,02 Sep 2014
+932,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,05 Jul 2015
+933,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,25 Jun 2015
+934,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2400,2800,2600,04 Jul 2015
+935,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,3000,3400,3200,13 Jul 2015
+936,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,3200,3600,3400,09 Jul 2015
+937,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,25,55,40,19 Apr 2015
+938,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,29 Jan 2015
+939,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,65,48,08 Dec 2014
+940,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,60,50,04 May 2015
+941,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,60,50,16 Nov 2014
+942,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,03 Aug 2015
+943,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,24 Oct 2014
+944,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,72,56,09 Apr 2015
+945,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,45,70,58,21 Dec 2014
+946,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,136,93,10 Jun 2015
+947,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,100,80,08 May 2015
+948,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,110,85,03 Jun 2015
+949,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,70,130,100,15 Aug 2015
+950,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,100,140,120,23 Aug 2015
+951,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,151,185,168,12 Jun 2015
+952,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,190,280,235,23 May 2015
+953,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,210,290,250,07 Jul 2015
+954,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1600,1300,10 Jun 2015
+955,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,04 Jul 2015
+956,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,21 Jun 2015
+957,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,30 Jun 2015
+958,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1500,2000,1750,05 Jul 2015
+959,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,09 Apr 2015
+960,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,300,500,400,17 Mar 2015
+961,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,10 Feb 2015
+962,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,11 Nov 2014
+963,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,26 Feb 2015
+964,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,28 Apr 2015
+965,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,28 Oct 2014
+966,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,30 Apr 2015
+967,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,22 Jan 2015
+968,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,500,900,700,04 Jun 2015
+969,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,07 Oct 2014
+970,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,27 Oct 2014
+971,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1400,1000,09 Sep 2014
+972,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1400,1000,19 Sep 2014
+973,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,2000,1500,21 May 2015
+974,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1600,2000,1800,26 May 2015
+975,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,25 Feb 2015
+976,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,08 Feb 2015
+977,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,07 Aug 2015
+978,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,10 Feb 2015
+979,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,10 Aug 2015
+980,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,24 Dec 2014
+981,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,26 Apr 2015
+982,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,09 Oct 2014
+983,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,23 Oct 2014
+984,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,14 Jan 2015
+985,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,15 May 2015
+986,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,17 Aug 2015
+987,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1200,1100,22 Nov 2014
+988,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1200,1100,26 Nov 2014
+989,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1100,1500,1300,28 Jul 2015
+990,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,21 May 2015
+991,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,21 Sep 2014
+992,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,22 Sep 2014
+993,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,24 Jul 2015
+994,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,29 Sep 2014
+995,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,16,30,23,05 Apr 2015
+996,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,55,43,12 Dec 2014
+997,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,60,45,12 Jan 2015
+998,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,35,55,45,24 Jan 2015
+999,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,13 Nov 2014
+1000,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,56,90,73,22 Apr 2015
+1001,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,69,110,89,01 Jun 2015
+1002,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,70,122,96,24 Aug 2015
+1003,Adilabad,Adilabad(Rythu Bazar),Tomato,Deshi,Large,3000,3000,3000,24 Jun 2015
+1004,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,1800,1800,1800,22 Aug 2015
+1005,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2000,2000,2000,16 Aug 2015
+1006,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,4000,4000,4000,15 Jul 2015
+1007,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,06 Mar 2015
+1008,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,10 Mar 2015
+1009,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,500,400,31 Mar 2015
+1010,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,10 Jan 2015
+1011,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,15 Feb 2015
+1012,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,07 Apr 2015
+1013,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,08 Apr 2015
+1014,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,27 Jan 2015
+1015,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,14 Oct 2014
+1016,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1000,800,01 Sep 2015
+1017,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,05 Aug 2015
+1018,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,08 May 2015
+1019,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,26 Sep 2014
+1020,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,1000,20 Nov 2014
+1021,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1500,29 May 2015
+1022,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1200,2400,2200,10 Jul 2015
+1023,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,27 Oct 2014
+1024,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,01 Mar 2015
+1025,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,08 Mar 2015
+1026,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,23 Apr 2015
+1027,Ranga Reddy,Chevella,Tomato,Local,Medium,350,350,350,21 Apr 2015
+1028,Ranga Reddy,Chevella,Tomato,Local,Medium,400,400,400,30 Apr 2015
+1029,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,01 Sep 2015
+1030,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,07 Jun 2015
+1031,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,10 Oct 2014
+1032,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,15 Feb 2015
+1033,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,19 May 2015
+1034,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,23 Aug 2015
+1035,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,24 Aug 2015
+1036,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,28 May 2015
+1037,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,15 Jun 2015
+1038,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,23 Jun 2015
+1039,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,05 Dec 2014
+1040,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,13 Nov 2014
+1041,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,15 Nov 2014
+1042,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,19 Dec 2014
+1043,Ranga Reddy,Chevella,Tomato,Local,Medium,1500,1500,1500,12 Aug 2015
+1044,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,02 Aug 2015
+1045,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,8,14,11,06 Aug 2015
+1046,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,11 Aug 2015
+1047,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,800,600,19 Aug 2015
+1048,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,800,01 Aug 2015
+1049,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1200,700,02 Aug 2015
+1050,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,01 Jul 2015
+1051,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,06 Jul 2015
+1052,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,19 Jun 2015
+1053,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,2000,2000,2000,21 Jun 2015
+1054,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,27 Jun 2015
+1055,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,3000,3000,3000,29 Jun 2015
+1056,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,500,400,24 Mar 2015
+1057,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,29 Aug 2015
+1058,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,600,04 Oct 2014
+1059,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,02 Aug 2015
+1060,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,11 May 2015
+1061,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,29 Oct 2014
+1062,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,2000,1600,10 Jun 2015
+1063,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1400,04 Jun 2015
+1064,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1800,1600,25 Jul 2015
+1065,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,1600,1400,10 Sep 2014
+1066,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1600,14 Sep 2014
+1067,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1600,21 May 2015
+1068,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2400,2000,13 Jun 2015
+1069,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,3000,2500,14 Jul 2015
+1070,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,550,550,550,11 Jan 2015
+1071,Ranga Reddy,Chevella,Tomato,Local,Medium,200,200,200,27 Mar 2015
+1072,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,09 Apr 2015
+1073,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,11 Mar 2015
+1074,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,14 Mar 2015
+1075,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,26 Feb 2015
+1076,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,01 Jun 2015
+1077,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,05 Oct 2014
+1078,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,07 Sep 2014
+1079,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,09 May 2015
+1080,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,14 May 2015
+1081,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,18 Feb 2015
+1082,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,05 Nov 2014
+1083,Ranga Reddy,Chevella,Tomato,Local,Medium,900,900,900,30 Jun 2015
+1084,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,12 Nov 2014
+1085,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,17 Dec 2014
+1086,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,30 Jul 2015
+1087,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,15 Jul 2015
+1088,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,02 Aug 2015
+1089,Hyderabad,Erragadda(Rythu Bazar),Tomato,Tomato,Medium,28,35,31,09 Jul 2015
+1090,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,16 Apr 2015
+1091,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,17 Aug 2015
+1092,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,800,1800,1300,13 Jun 2015
+1093,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,22 Jun 2015
+1094,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,24 Jun 2015
+1095,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,27 Jun 2015
+1096,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1600,2000,1800,27 May 2015
+1097,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,16 Oct 2014
+1098,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,22 Dec 2014
+1099,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,01 Nov 2014
+1100,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,16 Feb 2015
+1101,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,25 Oct 2014
+1102,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,29 Apr 2015
+1103,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,700,900,800,11 Oct 2014
+1104,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,50,70,60,23 Mar 2015
+1105,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,50,80,65,12 Mar 2015
+1106,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,60,100,80,18 Apr 2015
+1107,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,130,115,19 Feb 2015
+1108,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,150,125,08 Aug 2015
+1109,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,150,125,14 Oct 2014
+1110,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,110,160,135,14 Feb 2015
+1111,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,25 Oct 2014
+1112,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,300,250,13 Jun 2015
+1113,Adilabad,Adilabad(Rythu Bazar),Tomato,Deshi,Large,3500,3500,3500,11 Jun 2015
+1114,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,2800,2800,2800,03 Jul 2015
+1115,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,23 Jul 2015
+1116,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,3000,3000,3000,26 Jun 2015
+1117,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,4000,4000,4000,19 Jul 2015
+1118,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2800,2800,2800,04 Jun 2015
+1119,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2800,2800,2800,05 Jun 2015
+1120,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2800,2800,2800,07 Jun 2015
+1121,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2500,2500,2500,10 Aug 2015
+1122,Hyderabad,Bowenpally,Tomato,Tomato,Medium,100,400,300,06 Apr 2015
+1123,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,04 Apr 2015
+1124,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,09 Mar 2015
+1125,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,500,400,20 Mar 2015
+1126,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,31 Aug 2015
+1127,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,09 Oct 2014
+1128,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,31 Jul 2015
+1129,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,600,500,15 Oct 2014
+1130,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,07 Oct 2014
+1131,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,600,500,14 Apr 2015
+1132,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,12 May 2015
+1133,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1400,1000,31 May 2015
+1134,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1600,1400,02 Jun 2015
+1135,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1400,1200,21 Sep 2014
+1136,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1800,03 Jul 2015
+1137,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2200,1800,21 Jun 2015
+1138,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,13 Sep 2014
+1139,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,29 Sep 2014
+1140,Ranga Reddy,Chevella,Tomato,Local,Medium,200,200,200,28 Mar 2015
+1141,Ranga Reddy,Chevella,Tomato,Local,Medium,250,250,250,19 Mar 2015
+1142,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,05 Mar 2015
+1143,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,07 Mar 2015
+1144,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,18 Apr 2015
+1145,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,25 Feb 2015
+1146,Ranga Reddy,Chevella,Tomato,Local,Medium,320,320,320,04 Apr 2015
+1147,Ranga Reddy,Chevella,Tomato,Local,Medium,350,350,350,08 Apr 2015
+1148,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,01 Feb 2015
+1149,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,08 Sep 2014
+1150,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,10 Sep 2014
+1151,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,12 Oct 2014
+1152,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,14 Feb 2015
+1153,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,20 Feb 2015
+1154,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,23 May 2015
+1155,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,26 Aug 2015
+1156,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,28 Aug 2015
+1157,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,11 Jun 2015
+1158,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,19 Aug 2015
+1159,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,25 Jun 2015
+1160,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,28 Jun 2015
+1161,Ranga Reddy,Chevella,Tomato,Local,Medium,850,850,850,12 Jun 2015
+1162,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,14 Aug 2015
+1163,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,27 Oct 2014
+1164,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,500,400,23 Feb 2015
+1165,Hyderabad,L B Nagar,Tomato,Tomato,Medium,500,700,600,21 Feb 2015
+1166,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,01 Aug 2015
+1167,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,26 Aug 2015
+1168,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1200,900,03 Jun 2015
+1169,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1000,900,22 Apr 2015
+1170,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,05 Jun 2015
+1171,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,12 Aug 2015
+1172,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,16 May 2015
+1173,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1000,1600,1300,28 May 2015
+1174,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,1600,1400,21 May 2015
+1175,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,1600,1400,26 Jul 2015
+1176,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2000,1600,20 Jun 2015
+1177,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2600,2300,15 Jul 2015
+1178,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2400,2600,2500,13 Jul 2015
+1179,Mahbubnagar,Mahbubnagar,Tomato,Deshi,Medium,20,22,20,09 Jun 2015
+1180,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,300,500,400,10 Aug 2015
+1181,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,500,800,650,24 Aug 2015
+1182,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,600,800,700,26 Aug 2015
+1183,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1000,1200,1100,11 Jun 2015
+1184,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,22 Nov 2014
+1185,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,15 Dec 2014
+1186,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,03 Nov 2014
+1187,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,900,800,11 Nov 2014
+1188,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1200,1000,11 Sep 2014
+1189,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1300,1000,16 Sep 2014
+1190,Ranga Reddy,Shankarapally,Tomato,Local,Medium,30,70,50,14 Mar 2015
+1191,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,60,110,85,25 Apr 2015
+1192,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,80,100,90,30 Apr 2015
+1193,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,150,125,23 Oct 2014
+1194,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,150,150,11 Oct 2014
+1195,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,150,150,20 Sep 2014
+1196,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,180,200,190,31 Jan 2015
+1197,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,180,280,230,04 Jul 2015
+1198,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,200,200,02 Jul 2015
+1199,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,250,225,28 May 2015
+1200,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,220,250,235,30 Jul 2015
+1201,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,300,300,300,23 Jul 2015
+1202,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,12 Aug 2015
+1203,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,16,22,19,29 Jul 2015
+1204,Hyderabad,Erragadda(Rythu Bazar),Tomato,Tomato,Medium,28,35,31,15 Jul 2015
+1205,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,300,700,500,08 May 2015
+1206,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,800,600,25 Apr 2015
+1207,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,600,26 Aug 2015
+1208,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1300,2000,1600,11 Jul 2015
+1209,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1300,2200,1750,09 Jul 2015
+1210,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,10 Apr 2015
+1211,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,08 Jan 2015
+1212,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,300,500,400,20 Oct 2014
+1213,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,03 Feb 2015
+1214,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,23 Dec 2014
+1215,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,17 Nov 2014
+1216,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1600,1300,20 May 2015
+1217,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1600,1300,24 Apr 2015
+1218,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,2000,1500,04 Dec 2014
+1219,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,1500,1700,1600,14 Aug 2015
+1220,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,04 Mar 2015
+1221,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,11 Mar 2015
+1222,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,31 Mar 2015
+1223,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,02 Apr 2015
+1224,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,17 Apr 2015
+1225,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,800,700,08 Oct 2014
+1226,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,800,700,21 Jan 2015
+1227,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,05 May 2015
+1228,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,07 May 2015
+1229,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,27 Dec 2014
+1230,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1200,800,25 Aug 2015
+1231,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,24 Apr 2015
+1232,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,18 Oct 2014
+1233,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,02 Jan 2015
+1234,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,04 Jan 2015
+1235,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,28 Sep 2014
+1236,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2000,2400,2200,12 Sep 2014
+1237,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2600,3000,2800,19 Jul 2015
+1238,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,3200,3600,3400,10 Jul 2015
+1239,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,11,25,18,02 Apr 2015
+1240,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,20,40,30,16 Apr 2015
+1241,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,40,35,16 Mar 2015
+1242,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,25 Jan 2015
+1243,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,35,55,45,01 May 2015
+1244,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,35,57,46,16 Oct 2014
+1245,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,08 Nov 2014
+1246,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,48,76,62,10 Nov 2014
+1247,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,80,65,06 May 2015
+1248,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,90,70,22 Sep 2014
+1249,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,55,95,75,20 Aug 2015
+1250,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,90,75,27 Jul 2015
+1251,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,2000,2000,2000,01 Aug 2015
+1252,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2000,2000,2000,12 Aug 2015
+1253,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2000,2000,2000,14 Aug 2015
+1254,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2500,2500,2500,09 Aug 2015
+1255,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2800,2800,2800,06 Jul 2015
+1256,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,05 Mar 2015
+1257,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,13 Mar 2015
+1258,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,25 Feb 2015
+1259,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,18 Dec 2014
+1260,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,18 Mar 2015
+1261,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,19 Mar 2015
+1262,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,500,01 Oct 2014
+1263,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,08 Mar 2015
+1264,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,15 Apr 2015
+1265,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,28 Sep 2014
+1266,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,05 Oct 2014
+1267,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,19 Apr 2015
+1268,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,800,600,20 Apr 2015
+1269,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,10 Aug 2015
+1270,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,14 May 2015
+1271,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,28 Oct 2014
+1272,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1200,800,23 Sep 2014
+1273,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1400,1200,19 Sep 2014
+1274,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1200,11 Sep 2014
+1275,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1400,06 Sep 2014
+1276,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1600,12 Jun 2015
+1277,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2400,2000,23 Jun 2015
+1278,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2600,2200,24 Jun 2015
+1279,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,03 Feb 2015
+1280,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,04 Mar 2015
+1281,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,12 Apr 2015
+1282,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,16 Mar 2015
+1283,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,28 Feb 2015
+1284,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,06 Feb 2015
+1285,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,09 Jan 2015
+1286,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,09 Jun 2015
+1287,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,11 May 2015
+1288,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,24 Sep 2014
+1289,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,29 Oct 2014
+1290,Ranga Reddy,Chevella,Tomato,Local,Medium,560,560,560,12 Jan 2015
+1291,Ranga Reddy,Chevella,Tomato,Local,Medium,750,750,750,04 Jan 2015
+1292,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,14 Jun 2015
+1293,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,13 Dec 2014
+1294,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,16 Aug 2015
+1295,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,17 Nov 2014
+1296,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,18 Dec 2014
+1297,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,24 Nov 2014
+1298,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,06 Aug 2015
+1299,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,04 Jul 2015
+1300,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,11 Aug 2015
+1301,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,07 Apr 2015
+1302,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,300,1000,600,24 Aug 2015
+1303,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,800,1600,1200,14 Jun 2015
+1304,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,29 Jul 2015
+1305,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,05 Mar 2015
+1306,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,12 Mar 2015
+1307,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,06 Feb 2015
+1308,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,07 Feb 2015
+1309,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,29 Oct 2014
+1310,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,300,500,400,19 Mar 2015
+1311,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,500,700,600,15 Oct 2014
+1312,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,01 Sep 2014
+1313,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1200,900,26 Nov 2014
+1314,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1000,900,30 Dec 2014
+1315,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1200,1000,29 Nov 2014
+1316,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1200,1100,22 Apr 2015
+1317,Hyderabad,Hyderabad (F&V),Tomato,Tomato,Medium,200,600,400,15 Dec 2014
+1318,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,06 Apr 2015
+1319,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,30 Mar 2015
+1320,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,09 Feb 2015
+1321,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,12 Apr 2015
+1322,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,12 Feb 2015
+1323,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,14 Apr 2015
+1324,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,12 Oct 2014
+1325,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,800,700,18 Apr 2015
+1326,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,13 Jan 2015
+1327,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,23 Nov 2014
+1328,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,12 Dec 2014
+1329,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,30 Oct 2014
+1330,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,10 Sep 2014
+1331,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,19 May 2015
+1332,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,30 Sep 2014
+1333,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1300,1500,1400,01 Dec 2014
+1334,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1600,2000,1800,08 Jun 2015
+1335,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2000,2400,2200,15 Sep 2014
+1336,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2000,2400,2200,27 May 2015
+1337,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2100,2500,2300,23 Jun 2015
+1338,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,06 Sep 2014
+1339,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,19 Jun 2015
+1340,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,26 Jun 2015
+1341,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,29 Jun 2015
+1342,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,3000,3400,3200,16 Jul 2015
+1343,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,36,60,48,23 Oct 2014
+1344,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,15 Feb 2015
+1345,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,41,73,57,24 Nov 2014
+1346,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,45,85,65,03 Sep 2014
+1347,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,110,85,05 Sep 2014
+1348,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,75,110,93,13 Aug 2015
+1349,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,85,125,105,10 Sep 2014
+1350,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,90,75,21 Sep 2014
+1351,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,120,90,22 Jul 2015
+1352,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,61,85,73,13 May 2015
+1353,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,65,95,80,26 Apr 2015
+1354,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,110,95,28 Oct 2014
+1355,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,90,130,110,12 Sep 2014
+1356,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,121,175,145,01 Jul 2015
+1357,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,150,200,175,19 Jun 2015
+1358,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,270,235,14 Jul 2015
+1359,Khammam,Khammam,Tomato,Tomato,FAQ,800,1000,800,06 Oct 2014
+1360,Khammam,Khammam,Tomato,Tomato,FAQ,800,1000,800,22 Nov 2014
+1361,Khammam,Khammam,Tomato,Tomato,FAQ,1000,1200,1000,02 Oct 2014
+1362,Khammam,Khammam,Tomato,Tomato,FAQ,1000,1400,1000,05 Jun 2015
+1363,Khammam,Khammam,Tomato,Tomato,FAQ,1800,2000,1800,23 May 2015
+1364,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,23 Jan 2015
+1365,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,03 Oct 2014
+1366,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,28 Nov 2014
+1367,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1200,1600,1400,10 Sep 2014
+1368,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1200,2000,1600,10 Dec 2014
+1369,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,500,400,11 Feb 2015
+1370,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,500,400,16 Feb 2015
+1371,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,09 Feb 2015
+1372,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,11 Apr 2015
+1373,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,26 Apr 2015
+1374,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,900,30 Jul 2015
+1375,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1000,900,07 May 2015
+1376,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1000,1400,1200,15 May 2015
+1377,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1000,1400,1200,29 Jul 2015
+1378,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1000,1600,1300,27 Jul 2015
+1379,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2400,2000,21 Jul 2015
+1380,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2400,2000,22 Jun 2015
+1381,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1500,1600,1550,05 Jun 2015
+1382,Mahbubnagar,Shadnagar,Tomato,Local,Medium,900,1600,1200,04 Sep 2014
+1383,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,07 Nov 2014
+1384,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,13 Dec 2014
+1385,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,09 Oct 2014
+1386,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,16 Oct 2014
+1387,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,20 Sep 2014
+1388,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,700,900,800,13 Oct 2014
+1389,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1600,1200,03 Sep 2014
+1390,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,900,1200,1000,13 Aug 2015
+1391,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,90,120,105,29 Aug 2015
+1392,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,90,130,110,07 Feb 2015
+1393,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,130,115,21 Feb 2015
+1394,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,120,150,135,05 Feb 2015
+1395,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,23 Sep 2014
+1396,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Large,2500,2500,2500,02 Aug 2015
+1397,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,1800,1800,1800,04 Aug 2015
+1398,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,25 Jan 2015
+1399,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,500,400,06 Feb 2015
+1400,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,04 Feb 2015
+1401,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,13 Jan 2015
+1402,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,19 Dec 2014
+1403,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,21 Dec 2014
+1404,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,21 Oct 2014
+1405,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,12 Apr 2015
+1406,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,29 Sep 2014
+1407,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,08 Nov 2014
+1408,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,700,03 Aug 2015
+1409,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,11 Aug 2015
+1410,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,28 Aug 2015
+1411,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,800,30 Dec 2014
+1412,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,1000,03 Sep 2014
+1413,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1200,1000,06 Oct 2014
+1414,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1400,05 Jun 2015
+1415,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1800,1400,07 Jun 2015
+1416,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1400,05 Sep 2014
+1417,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1600,25 May 2015
+1418,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2200,1800,26 Jul 2015
+1419,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2400,2000,15 Jun 2015
+1420,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,09 Oct 2014
+1421,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,15 Sep 2014
+1422,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,02 Apr 2015
+1423,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,10 Feb 2015
+1424,Ranga Reddy,Chevella,Tomato,Local,Medium,300,300,300,25 Mar 2015
+1425,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,03 Sep 2014
+1426,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,04 Sep 2014
+1427,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,12 May 2015
+1428,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,16 Oct 2014
+1429,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,24 May 2015
+1430,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,31 Aug 2015
+1431,Ranga Reddy,Chevella,Tomato,Local,Medium,800,800,800,22 Jun 2015
+1432,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,30 Nov 2014
+1433,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,03 Aug 2015
+1434,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,29 Jul 2015
+1435,Ranga Reddy,Chevella,Tomato,Local,Medium,2000,2000,2000,31 Jul 2015
+1436,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,06 Jul 2015
+1437,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,8,14,11,01 Aug 2015
+1438,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,19 Aug 2015
+1439,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,27 Aug 2015
+1440,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,24,30,27,23 Jun 2015
+1441,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,02 Apr 2015
+1442,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,700,05 Aug 2015
+1443,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1600,1000,07 Jun 2015
+1444,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1600,1300,26 Jul 2015
+1445,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,18 Jul 2015
+1446,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,25 Jan 2015
+1447,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,26 Jan 2015
+1448,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,05 Jan 2015
+1449,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,07 Oct 2014
+1450,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,23 Oct 2014
+1451,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,500,800,650,13 Nov 2014
+1452,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,07 Jan 2015
+1453,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,31 Dec 2014
+1454,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1200,1600,1400,12 Sep 2014
+1455,Hyderabad,L B Nagar,Tomato,Tomato,Medium,200,400,300,03 Apr 2015
+1456,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,500,400,15 Feb 2015
+1457,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,700,500,22 Feb 2015
+1458,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,08 Feb 2015
+1459,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,30 Aug 2015
+1460,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,09 Aug 2015
+1461,Hyderabad,L B Nagar,Tomato,Tomato,Medium,500,800,650,29 Aug 2015
+1462,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,01 Feb 2015
+1463,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,03 Aug 2015
+1464,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,28 Aug 2015
+1465,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1000,900,01 May 2015
+1466,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,10 May 2015
+1467,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1000,1200,1100,24 Apr 2015
+1468,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2000,1600,22 Jul 2015
+1469,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2000,1600,27 Jun 2015
+1470,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2400,2000,24 Jun 2015
+1471,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2400,2200,15 Jun 2015
+1472,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2800,2400,09 Jul 2015
+1473,Medak,Sadasivpet(Sangareddy),Tomato,Hybrid,Medium,1550,1650,1600,04 Jun 2015
+1474,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,19 Nov 2014
+1475,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,01 Nov 2014
+1476,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,700,21 Sep 2014
+1477,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,17 Oct 2014
+1478,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,60,80,70,28 Apr 2015
+1479,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,80,100,90,05 May 2015
+1480,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,80,100,90,07 May 2015
+1481,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,80,100,90,09 May 2015
+1482,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,80,100,90,14 May 2015
+1483,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,100,100,23 Apr 2015
+1484,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,02 Jun 2015
+1485,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,21 Oct 2014
+1486,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,200,200,06 Sep 2014
+1487,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,200,200,30 Oct 2014
+1488,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,300,250,15 Aug 2015
+1489,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,300,320,310,11 Sep 2014
+1490,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,250,290,270,09 Jul 2015
+1491,Khammam,Khammam,Tomato,Sankar,FAQ,800,1000,800,12 Oct 2014
+1492,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,14 Oct 2014
+1493,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,02 Nov 2014
+1494,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,06 Jan 2015
+1495,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,18 Jan 2015
+1496,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,26 Sep 2014
+1497,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1400,1200,04 Sep 2014
+1498,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,06 Feb 2015
+1499,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,10 Apr 2015
+1500,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1000,900,23 Aug 2015
+1501,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,11 Aug 2015
+1502,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1000,1600,1300,07 Jun 2015
+1503,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,07 Jul 2015
+1504,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,19 Jun 2015
+1505,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,26 Jun 2015
+1506,Medak,Sadasivpet(Sangareddy),Tomato,Local,FAQ,1800,1900,1850,04 May 2015
+1507,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,400,600,500,31 Aug 2015
+1508,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1000,1100,1050,22 Jul 2015
+1509,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1000,1200,1100,13 Jun 2015
+1510,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1500,2000,1750,26 Jun 2015
+1511,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,2000,2300,2150,12 Jul 2015
+1512,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,25 Nov 2014
+1513,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,18 Nov 2014
+1514,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,100,100,16 Oct 2014
+1515,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,150,125,24 Feb 2015
+1516,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,150,125,25 Aug 2015
+1517,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,01 Jan 2015
+1518,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,22 Aug 2015
+1519,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,300,250,22 Jun 2015
+1520,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,500,600,550,19 May 2015
+1521,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,21 Jul 2015
+1522,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,26 Jun 2015
+1523,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1400,1800,1600,25 Jul 2015
+1524,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1400,2200,1800,24 May 2015
+1525,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,11 Mar 2015
+1526,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,16 Mar 2015
+1527,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,02 Mar 2015
+1528,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,13 Feb 2015
+1529,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,20 Feb 2015
+1530,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,03 Mar 2015
+1531,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,14 Apr 2015
+1532,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,19 Feb 2015
+1533,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,05 Jan 2015
+1534,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,25 Apr 2015
+1535,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,26 Sep 2014
+1536,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,10 Oct 2014
+1537,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,15 May 2015
+1538,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1200,1000,25 Nov 2014
+1539,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1600,1200,16 Sep 2014
+1540,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1400,1200,12 Sep 2014
+1541,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1400,1200,15 Sep 2014
+1542,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1600,1300,13 Sep 2014
+1543,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1600,2000,1800,29 May 2015
+1544,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,01 Mar 2015
+1545,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,12 Mar 2015
+1546,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,700,600,19 Apr 2015
+1547,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,800,700,21 Apr 2015
+1548,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,02 Aug 2015
+1549,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,06 May 2015
+1550,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,19 Dec 2014
+1551,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,26 Aug 2015
+1552,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,31 Oct 2014
+1553,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,10 Nov 2014
+1554,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,16 Nov 2014
+1555,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,18 Dec 2014
+1556,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,27 Jan 2015
+1557,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,10 Oct 2014
+1558,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,25 Dec 2014
+1559,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,08 Jan 2015
+1560,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,09 May 2015
+1561,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1100,1500,1300,25 Jul 2015
+1562,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,05 Jun 2015
+1563,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,10 Dec 2014
+1564,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,26 Jul 2015
+1565,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,3200,3600,3400,14 Jul 2015
+1566,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,11,45,28,11 Apr 2015
+1567,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,40,35,07 Jan 2015
+1568,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,40,35,19 Feb 2015
+1569,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,60,50,14 Apr 2015
+1570,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,01 Dec 2014
+1571,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,16 May 2015
+1572,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,07 May 2015
+1573,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1000,900,11 May 2015
+1574,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1200,1000,27 Nov 2014
+1575,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1800,1300,11 Jun 2015
+1576,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1600,1300,11 Sep 2014
+1577,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,1800,2000,1900,22 May 2015
+1578,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,08 Mar 2015
+1579,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,28 Mar 2015
+1580,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,23 Feb 2015
+1581,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,22 Jan 2015
+1582,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,08 May 2015
+1583,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,17 Oct 2014
+1584,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,28 Dec 2014
+1585,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,13 Nov 2014
+1586,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,06 Nov 2014
+1587,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,07 Jan 2015
+1588,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,15 Jan 2015
+1589,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,17 May 2015
+1590,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,30 Aug 2015
+1591,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1200,1100,05 Jan 2015
+1592,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1200,1100,19 Oct 2014
+1593,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,31 Jul 2015
+1594,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1800,2200,2000,10 Jun 2015
+1595,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,30 Jun 2015
+1596,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,3000,3400,3200,08 Jul 2015
+1597,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,3000,3400,3200,12 Jul 2015
+1598,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,11,25,18,04 Apr 2015
+1599,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,20,42,31,05 Aug 2015
+1600,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,25,35,30,14 Feb 2015
+1601,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,25,45,35,08 Jan 2015
+1602,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,60,45,18 Nov 2014
+1603,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,80,60,27 Aug 2015
+1604,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,80,65,10 May 2015
+1605,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,135,98,22 Aug 2015
+1606,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,150,105,27 May 2015
+1607,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,75,95,85,31 Oct 2014
+1608,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,100,170,135,22 May 2015
+1609,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,120,160,140,24 Jul 2015
+1610,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,166,210,188,14 Jun 2015
+1611,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,186,252,219,17 Jun 2015
+1612,Khammam,Khammam,Tomato,Tomato,FAQ,800,1000,800,05 Oct 2014
+1613,Khammam,Khammam,Tomato,Tomato,FAQ,1000,1200,1000,20 May 2015
+1614,Khammam,Khammam,Tomato,Tomato,FAQ,1000,1400,1000,06 Jun 2015
+1615,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,11 Oct 2014
+1616,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,25 Oct 2014
+1617,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,11 Jan 2015
+1618,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,16 Dec 2014
+1619,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,12 Nov 2014
+1620,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,22 Nov 2014
+1621,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,19 Jul 2015
+1622,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,8,15,11,01 Sep 2015
+1623,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,16,22,19,27 Jul 2015
+1624,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,20,26,23,01 Jul 2015
+1625,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,20,26,23,02 Jul 2015
+1626,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,24,30,27,15 Jun 2015
+1627,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,06 Apr 2015
+1628,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,09 Aug 2015
+1629,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,14 Apr 2015
+1630,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,800,600,16 May 2015
+1631,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,600,25 Aug 2015
+1632,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1200,600,30 Aug 2015
+1633,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1200,800,04 Aug 2015
+1634,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,600,1000,800,12 Aug 2015
+1635,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1500,2500,2000,23 May 2015
+1636,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1600,2000,1800,29 May 2015
+1637,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,07 Apr 2015
+1638,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,08 Apr 2015
+1639,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,300,500,400,27 Feb 2015
+1640,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,02 Feb 2015
+1641,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,04 Feb 2015
+1642,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,06 Jan 2015
+1643,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,29 Dec 2014
+1644,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,1000,800,25 Sep 2014
+1645,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1200,1000,05 Jun 2015
+1646,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,19 Mar 2015
+1647,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,08 Apr 2015
+1648,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,09 Mar 2015
+1649,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,22 Feb 2015
+1650,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,26 Feb 2015
+1651,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,06 Aug 2015
+1652,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,16 Apr 2015
+1653,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,800,700,19 Jan 2015
+1654,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,04 Nov 2014
+1655,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,30 Apr 2015
+1656,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,21 Dec 2014
+1657,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,06 Jan 2015
+1658,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,20 Oct 2014
+1659,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,900,1300,1100,21 Aug 2015
+1660,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1200,1100,24 Nov 2014
+1661,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,03 Jun 2015
+1662,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,20 May 2015
+1663,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1400,1800,1600,09 Sep 2014
+1664,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2000,2400,2200,14 Jun 2015
+1665,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2100,2500,2300,22 Jun 2015
+1666,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,07 Jul 2015
+1667,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,30 May 2015
+1668,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,25,53,39,01 Aug 2015
+1669,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,56,48,22 Nov 2014
+1670,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,65,53,15 Nov 2014
+1671,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,70,60,10 Oct 2014
+1672,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,70,60,15 Apr 2015
+1673,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,80,65,08 Aug 2015
+1674,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,70,110,90,10 Aug 2015
+1675,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,70,115,93,29 Dec 2014
+1676,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,81,125,103,01 Sep 2014
+1677,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,110,150,130,29 Oct 2014
+1678,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,151,205,178,20 Jul 2015
+1679,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,191,255,220,24 Jun 2015
+1680,Khammam,Khammam,Tomato,Tomato,FAQ,1200,1400,1200,19 May 2015
+1681,Khammam,Khammam,Tomato,Tomato,FAQ,1200,1500,1200,04 Jun 2015
+1682,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,400,400,08 Jan 2015
+1683,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,09 Oct 2014
+1684,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,04 Jan 2015
+1685,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,05 Oct 2014
+1686,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,12 Jan 2015
+1687,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1000,900,28 Dec 2014
+1688,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,24 Nov 2014
+1689,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1600,1300,07 Sep 2014
+1690,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1200,1400,1300,03 Sep 2014
+1691,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1200,1600,1400,11 Sep 2014
+1692,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1600,2000,1800,09 Dec 2014
+1693,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,31 Jan 2015
+1694,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,04 Aug 2015
+1695,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,01 Sep 2015
+1696,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,17 Apr 2015
+1697,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,20 Aug 2015
+1698,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,02 Jun 2015
+1699,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1400,1600,1500,12 Jun 2015
+1700,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,27 May 2015
+1701,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2400,2000,28 Jun 2015
+1702,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,12 Aug 2015
+1703,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,800,500,26 Sep 2014
+1704,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,800,500,29 Sep 2014
+1705,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,28 Oct 2014
+1706,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,900,600,27 Sep 2014
+1707,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1200,1000,15 Sep 2014
+1708,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,1000,1600,1200,05 Sep 2014
+1709,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,60,80,70,04 Aug 2015
+1710,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,18 Oct 2014
+1711,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,180,200,190,25 Sep 2014
+1712,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,300,250,28 Oct 2014
+1713,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,250,250,250,25 Jul 2015
+1714,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,116,98,07 Oct 2014
+1715,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,90,182,136,09 Jun 2015
+1716,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,126,180,153,08 Jun 2015
+1717,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,24 Jan 2015
+1718,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,30 Sep 2014
+1719,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,10 Nov 2014
+1720,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1000,900,02 Jan 2015
+1721,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1200,1600,1400,04 Dec 2014
+1722,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1200,1600,1400,09 Sep 2014
+1723,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,400,350,27 Feb 2015
+1724,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,02 Feb 2015
+1725,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,09 Apr 2015
+1726,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1000,900,20 Apr 2015
+1727,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,06 Jun 2015
+1728,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,17 May 2015
+1729,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,19 Aug 2015
+1730,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1000,1400,1200,23 Apr 2015
+1731,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2400,1800,05 Jul 2015
+1732,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,13 Jun 2015
+1733,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,21 Jun 2015
+1734,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2400,2000,29 Jun 2015
+1735,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2400,2200,18 Jul 2015
+1736,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,300,400,350,09 Aug 2015
+1737,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,400,600,500,20 Aug 2015
+1738,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1400,1600,1500,01 Jan 2015
+1739,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,2000,2500,2250,18 Jun 2015
+1740,Mahbubnagar,Shadnagar,Tomato,Local,Medium,800,1600,1200,02 Sep 2014
+1741,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,10 Aug 2015
+1742,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,16 Nov 2014
+1743,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,06 Nov 2014
+1744,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,900,800,20 Oct 2014
+1745,Ranga Reddy,Shankarapally,Tomato,Local,Medium,300,350,325,20 Jun 2015
+1746,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,40,80,60,11 Apr 2015
+1747,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,50,60,55,28 Mar 2015
+1748,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,06 Jun 2015
+1749,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,09 Jun 2015
+1750,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,250,225,26 May 2015
+1751,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,250,300,275,30 Jun 2015
+1752,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,1000,1500,1250,28 Jul 2015
+1753,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,90,75,30 Jul 2015
+1754,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,100,80,09 May 2015
+1755,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,105,83,30 May 2015
+1756,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,120,90,10 Dec 2014
+1757,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,66,100,83,29 Nov 2014
+1758,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,68,110,89,02 Jun 2015
+1759,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,130,105,26 Oct 2014
+1760,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,111,165,138,21 May 2015
+1761,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,170,180,175,21 Jul 2015
+1762,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,201,265,233,12 Jul 2015
+1763,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,600,450,30 Aug 2015
+1764,Khammam,Khammam,Tomato,Tomato,FAQ,2000,2200,2000,22 May 2015
+1765,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,19 Oct 2014
+1766,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,23 Nov 2014
+1767,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,700,1600,1150,22 Sep 2014
+1768,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1600,1200,21 Sep 2014
+1769,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1200,1600,1400,13 Sep 2014
+1770,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,400,350,06 Apr 2015
+1771,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,04 Feb 2015
+1772,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,27 Apr 2015
+1773,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,13 Aug 2015
+1774,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,1600,1400,20 May 2015
+1775,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2000,1600,25 Jul 2015
+1776,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2400,2200,23 May 2015
+1777,Medak,Sadasivpet(Sangareddy),Tomato,Local,FAQ,1500,1600,1550,08 May 2015
+1778,Medak,Sadasivpet(Sangareddy),Tomato,Local,FAQ,1500,2000,1550,01 Jun 2015
+1779,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,300,800,550,12 Aug 2015
+1780,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1000,1200,1100,03 Jul 2015
+1781,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1800,2000,1900,10 Jul 2015
+1782,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,2000,2000,2000,24 Jun 2015
+1783,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,2000,2500,2250,01 Jul 2015
+1784,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,09 Aug 2015
+1785,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,22 Aug 2015
+1786,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,17 Nov 2014
+1787,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,26 Aug 2015
+1788,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,700,600,12 Dec 2014
+1789,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,24 Oct 2014
+1790,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,15 Oct 2014
+1791,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,70,90,80,12 May 2015
+1792,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,80,150,115,16 May 2015
+1793,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,250,225,09 Sep 2014
+1794,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,250,300,275,13 Sep 2014
+1795,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,300,400,350,09 Jul 2015
+1796,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,23 Nov 2014
+1797,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,41,55,48,18 Apr 2015
+1798,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,80,65,04 Jun 2015
+1799,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,80,65,11 Nov 2014
+1800,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,85,66,11 Dec 2014
+1801,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,92,71,23 Apr 2015
+1802,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,100,75,16 Sep 2014
+1803,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,160,110,28 May 2015
+1804,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,65,105,85,02 Sep 2014
+1805,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,75,85,80,23 Sep 2014
+1806,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,120,100,01 Nov 2014
+1807,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,130,105,13 Sep 2014
+1808,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,81,105,93,03 Nov 2014
+1809,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,85,130,108,09 Dec 2014
+1810,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,110,150,130,19 May 2015
+1811,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,140,192,166,03 Jul 2015
+1812,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,500,400,01 Sep 2015
+1813,Khammam,Khammam,Tomato,Tomato,FAQ,1400,1600,1400,21 May 2015
+1814,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,03 Nov 2014
+1815,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,700,1400,1050,17 Sep 2014
+1816,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1000,900,29 Dec 2014
+1817,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1400,1100,03 Dec 2014
+1818,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1600,1300,19 Sep 2014
+1819,Hyderabad,L B Nagar,Tomato,Tomato,Medium,200,400,300,02 Apr 2015
+1820,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,500,400,13 Feb 2015
+1821,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,05 Feb 2015
+1822,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,17 Feb 2015
+1823,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,1000,700,21 Aug 2015
+1824,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,31 Jul 2015
+1825,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2400,1800,04 Jul 2015
+1826,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1500,2400,1950,08 Jul 2015
+1827,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2600,2300,12 Jul 2015
+1828,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,500,700,600,17 Aug 2015
+1829,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,900,900,900,06 Aug 2015
+1830,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,3000,3500,3250,19 Jun 2015
+1831,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,21 Nov 2014
+1832,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,16 Dec 2014
+1833,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,700,600,27 Aug 2015
+1834,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1200,1000,06 Sep 2014
+1835,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1300,1000,17 Sep 2014
+1836,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,1000,1300,1200,04 Dec 2014
+1837,Ranga Reddy,Shankarapally,Tomato,Local,Medium,300,300,300,13 Mar 2015
+1838,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,80,150,115,23 May 2015
+1839,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,200,150,04 Jun 2015
+1840,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,250,225,27 Jun 2015
+1841,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,10,16,13,23 Aug 2015
+1842,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,21,28,24,27 Jun 2015
+1843,Hyderabad,Gaddiannaram,Tomato,Tomato,Medium,1200,1600,1400,28 Jul 2015
+1844,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,04 Apr 2015
+1845,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,17 Apr 2015
+1846,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,10 Aug 2015
+1847,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,800,600,09 May 2015
+1848,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,800,1000,900,10 May 2015
+1849,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1800,1400,02 Jun 2015
+1850,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,19 Jul 2015
+1851,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,02 Apr 2015
+1852,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,09 Mar 2015
+1853,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,30 Mar 2015
+1854,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,22 Oct 2014
+1855,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,14 May 2015
+1856,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,19 Nov 2014
+1857,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,600,800,700,20 Nov 2014
+1858,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1400,1100,06 Sep 2014
+1859,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1800,1300,12 Jun 2015
+1860,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1800,1400,05 Dec 2014
+1861,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1800,1400,06 Dec 2014
+1862,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,1200,1500,1300,12 Aug 2015
+1863,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,06 Mar 2015
+1864,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,10 Mar 2015
+1865,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,20 Mar 2015
+1866,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,03 Apr 2015
+1867,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,07 Mar 2015
+1868,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,14 Feb 2015
+1869,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,19 Feb 2015
+1870,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,05 Feb 2015
+1871,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,07 Feb 2015
+1872,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,600,500,17 Feb 2015
+1873,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,500,700,600,06 Feb 2015
+1874,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,03 Nov 2014
+1875,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,31 Aug 2015
+1876,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,08 Aug 2015
+1877,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,17 Nov 2014
+1878,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,11 Nov 2014
+1879,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,23 Apr 2015
+1880,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,24 Aug 2015
+1881,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,16 Aug 2015
+1882,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,25 May 2015
+1883,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,28 Jun 2015
+1884,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2400,2800,2600,01 Jul 2015
+1885,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,02 May 2015
+1886,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,28 Apr 2015
+1887,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,72,56,12 Nov 2014
+1888,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,41,65,53,27 Nov 2014
+1889,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,42,70,56,09 Nov 2014
+1890,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,90,132,111,01 Dec 2014
+1891,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,110,150,130,26 Jul 2015
+1892,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,110,166,138,07 Jun 2015
+1893,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,120,276,163,05 Jul 2015
+1894,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,170,250,210,26 Jun 2015
+1895,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,175,255,215,21 Jun 2015
+1896,Khammam,Khammam,Tomato,Tomato,FAQ,800,1000,800,07 Oct 2014
+1897,Khammam,Khammam,Tomato,Tomato,FAQ,2000,2200,2000,27 May 2015
+1898,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,21 Oct 2014
+1899,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,19 Jan 2015
+1900,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,500,800,650,09 Jan 2015
+1901,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,01 Nov 2014
+1902,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,08 Nov 2014
+1903,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,21 Nov 2014
+1904,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,17 Jan 2015
+1905,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,17 Nov 2014
+1906,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,18 Nov 2014
+1907,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,20 Nov 2014
+1908,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,02 Dec 2014
+1909,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,25 Sep 2014
+1910,Hyderabad,L B Nagar,Tomato,Tomato,Medium,200,400,300,05 Apr 2015
+1911,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,500,400,12 Feb 2015
+1912,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,07 Feb 2015
+1913,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,31 Aug 2015
+1914,Hyderabad,L B Nagar,Tomato,Tomato,Medium,500,700,600,19 Feb 2015
+1915,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,25 Apr 2015
+1916,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,08 May 2015
+1917,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,1600,1400,09 Jun 2015
+1918,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,1600,1400,29 May 2015
+1919,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2000,1600,23 Jul 2015
+1920,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,14 Jun 2015
+1921,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,800,1000,900,27 Jul 2015
+1922,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,900,900,900,09 Jul 2015
+1923,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1200,1600,1400,17 Jun 2015
+1924,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,3000,3000,3000,20 Jun 2015
+1925,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,18 Aug 2015
+1926,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,19 Aug 2015
+1927,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,800,500,28 Sep 2014
+1928,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,40,70,55,07 Apr 2015
+1929,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,120,110,21 May 2015
+1930,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,18 Aug 2015
+1931,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,250,225,11 Aug 2015
+1932,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,20 Jun 2015
+1933,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,22 Jul 2015
+1934,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1400,2200,1800,28 May 2015
+1935,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,15 Mar 2015
+1936,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,400,300,17 Apr 2015
+1937,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,500,350,24 Jan 2015
+1938,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,05 Feb 2015
+1939,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,29 Sep 2014
+1940,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,09 Oct 2014
+1941,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,13 Oct 2014
+1942,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,19 Jan 2015
+1943,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,21 Jan 2015
+1944,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1800,1400,02 Jun 2015
+1945,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,2000,2200,2100,22 May 2015
+1946,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,13 Mar 2015
+1947,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,20 Feb 2015
+1948,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,05 Aug 2015
+1949,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,17 Dec 2014
+1950,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,25 Jan 2015
+1951,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,05 Oct 2014
+1952,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,09 Jan 2015
+1953,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,28 Aug 2015
+1954,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,22 Dec 2014
+1955,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1000,900,05 Nov 2014
+1956,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,800,1200,1000,16 Oct 2014
+1957,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,26 Sep 2014
+1958,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1300,1500,1400,03 Dec 2014
+1959,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2000,2500,2300,21 Jul 2015
+1960,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2600,3000,2800,03 Jul 2015
+1961,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,3100,3500,3300,11 Jul 2015
+1962,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,20,30,25,06 Apr 2015
+1963,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,40,35,27 Mar 2015
+1964,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,22 Jan 2015
+1965,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,60,45,17 Apr 2015
+1966,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,35,55,45,10 Feb 2015
+1967,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,60,50,19 Oct 2014
+1968,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,85,67,28 Aug 2015
+1969,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,90,70,15 Sep 2014
+1970,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,55,85,70,27 Apr 2015
+1971,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,90,75,06 Oct 2014
+1972,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,61,105,83,09 Aug 2015
+1973,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,65,85,75,02 Nov 2014
+1974,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,76,124,100,19 Aug 2015
+1975,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,80,130,105,15 May 2015
+1976,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,86,122,104,30 Oct 2014
+1977,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,120,200,160,18 Jul 2015
+1978,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,120,210,165,28 Jun 2015
+1979,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,126,190,158,29 Jun 2015
+1980,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,136,180,158,19 Jul 2015
+1981,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,156,200,178,13 Jun 2015
+1982,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,190,300,245,16 Jul 2015
+1983,Khammam,Khammam,Tomato,Tomato,FAQ,2000,2400,2000,26 May 2015
+1984,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,12 Oct 2014
+1985,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,15 Oct 2014
+1986,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,17 Oct 2014
+1987,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,20 Dec 2014
+1988,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,02 Oct 2014
+1989,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,13 Jan 2015
+1990,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,28 Sep 2014
+1991,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,05 Nov 2014
+1992,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,07 Nov 2014
+1993,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,29 Oct 2014
+1994,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1600,1200,20 Sep 2014
+1995,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1400,1200,18 Sep 2014
+1996,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1200,1600,1400,14 Sep 2014
+1997,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,500,400,24 Feb 2015
+1998,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,10 Feb 2015
+1999,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,16 Aug 2015
+2000,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,1000,700,10 Aug 2015
+2001,Hyderabad,L B Nagar,Tomato,Tomato,Medium,500,700,600,15 Apr 2015
+2002,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1600,1200,30 May 2015
+2003,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,1400,1300,19 May 2015
+2004,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2000,1600,24 Jul 2015
+2005,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,23 Jun 2015
+2006,Medak,Sadasivpet(Sangareddy),Tomato,Local,FAQ,2000,2100,2050,03 Jun 2015
+2007,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,400,500,450,01 Aug 2015
+2008,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,400,1000,700,03 Aug 2015
+2009,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,500,800,650,13 Aug 2015
+2010,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,600,800,700,19 Aug 2015
+2011,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,2000,2500,2250,02 Jul 2015
+2012,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,3000,4000,3500,12 Jun 2015
+2013,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,05 Aug 2015
+2014,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,14 Dec 2014
+2015,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,14 Nov 2014
+2016,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,28 Aug 2015
+2017,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,30 Sep 2014
+2018,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,800,500,06 Aug 2015
+2019,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,21 Oct 2014
+2020,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,29 Oct 2014
+2021,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,08 Oct 2014
+2022,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1300,1000,18 Sep 2014
+2023,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,250,300,275,09 Oct 2014
+2024,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,250,300,275,25 Jun 2015
+2025,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,400,500,450,16 Jul 2015
+2026,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,27 Nov 2014
+2027,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1400,1200,01 Dec 2014
+2028,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1600,1600,1600,08 Sep 2014
+2029,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,29 Apr 2015
+2030,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,07 Aug 2015
+2031,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,13 May 2015
+2032,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,27 Aug 2015
+2033,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1000,900,22 Aug 2015
+2034,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,04 Jun 2015
+2035,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1100,2200,2100,02 Jul 2015
+2036,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,1600,1400,08 Jun 2015
+2037,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2000,1600,10 Jun 2015
+2038,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2400,1800,06 Jul 2015
+2039,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,1800,1700,26 May 2015
+2040,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2400,2000,17 Jun 2015
+2041,Medak,Sadasivpet(Sangareddy),Tomato,Local,FAQ,1400,1500,1450,09 May 2015
+2042,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,600,1000,800,29 Jul 2015
+2043,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1000,1000,1000,23 Jul 2015
+2044,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1500,1500,1500,28 Jun 2015
+2045,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,2000,2300,2150,13 Jul 2015
+2046,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,08 Aug 2015
+2047,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,31 Aug 2015
+2048,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,450,24 Nov 2014
+2049,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,16 Aug 2015
+2050,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,24 Aug 2015
+2051,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,600,550,31 Jul 2015
+2052,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,27 Oct 2014
+2053,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,30 Oct 2014
+2054,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,900,800,19 Oct 2014
+2055,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1200,1000,07 Sep 2014
+2056,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1300,1200,13 Sep 2014
+2057,Ranga Reddy,Shankarapally,Tomato,Local,Medium,50,90,70,17 Mar 2015
+2058,Ranga Reddy,Shankarapally,Tomato,Local,Medium,200,200,200,16 Mar 2015
+2059,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,70,110,90,02 May 2015
+2060,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,130,180,155,11 Jun 2015
+2061,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,180,165,30 May 2015
+2062,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,180,350,265,07 Jul 2015
+2063,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,300,350,325,16 Jun 2015
+2064,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,1000,1500,1250,21 Jul 2015
+2065,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,75,68,02 Oct 2014
+2066,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,100,80,07 May 2015
+2067,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,110,85,14 May 2015
+2068,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,120,90,03 Dec 2014
+2069,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,65,95,80,27 Oct 2014
+2070,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,71,105,88,12 May 2015
+2071,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,75,120,98,20 Sep 2014
+2072,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,27 Jan 2015
+2073,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,600,500,28 Jan 2015
+2074,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,29 Sep 2014
+2075,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,04 Nov 2014
+2076,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,13 Dec 2014
+2077,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1600,1200,23 Sep 2014
+2078,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1200,1100,05 Sep 2014
+2079,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1600,1300,06 Sep 2014
+2080,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1600,1300,15 Sep 2014
+2081,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,03 Feb 2015
+2082,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,06 Aug 2015
+2083,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,08 Aug 2015
+2084,Hyderabad,L B Nagar,Tomato,Tomato,Medium,500,700,600,20 Feb 2015
+2085,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,30 Apr 2015
+2086,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,06 May 2015
+2087,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1000,900,24 Aug 2015
+2088,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1200,2400,1800,25 Jun 2015
+2089,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,25 May 2015
+2090,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2800,2400,19 Jul 2015
+2091,Medak,Sadasivpet(Sangareddy),Tomato,Local,FAQ,1800,1800,1800,10 May 2015
+2092,Medak,Sadasivpet(Sangareddy),Tomato,Local,FAQ,1800,2000,1900,02 May 2015
+2093,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,03 Aug 2015
+2094,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,15 Nov 2014
+2095,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,17 Aug 2015
+2096,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,20 Aug 2015
+2097,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,01 Aug 2015
+2098,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,05 Nov 2014
+2099,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,700,22 Sep 2014
+2100,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,700,900,800,15 Aug 2015
+2101,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1200,1000,12 Sep 2014
+2102,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,900,1300,1000,09 Sep 2014
+2103,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,40,70,55,02 Apr 2015
+2104,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,60,80,70,01 Aug 2015
+2105,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,100,120,110,06 Aug 2015
+2106,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,110,130,120,17 Feb 2015
+2107,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,300,250,18 Sep 2014
+2108,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,300,400,350,14 Jul 2015
+2109,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,400,500,450,11 Jul 2015
+2110,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2500,2500,2500,17 Jun 2015
+2111,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2800,2800,2800,03 Jun 2015
+2112,Adilabad,Adilabad(Rythu Bazar),Tomato,Local,Medium,2800,2800,2800,09 Jun 2015
+2113,Adilabad,Adilabad(Rythu Bazar),Tomato,Other,Large,2000,2000,2000,19 Jun 2015
+2114,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,1800,1800,1800,18 Aug 2015
+2115,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,1800,1800,1800,19 Aug 2015
+2116,Adilabad,Adilabad(Rythu Bazar),Tomato,Tomato,Large,2000,2000,2000,13 Aug 2015
+2117,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,400,300,12 Feb 2015
+2118,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,08 Jan 2015
+2119,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,400,24 Dec 2014
+2120,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,01 Mar 2015
+2121,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,25 Oct 2014
+2122,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,800,600,04 Aug 2015
+2123,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,1600,1400,13 Sep 2014
+2124,Hyderabad,Bowenpally,Tomato,Tomato,Medium,600,2000,1600,24 May 2015
+2125,Hyderabad,Bowenpally,Tomato,Tomato,Medium,800,2000,1600,14 Jun 2015
+2126,Hyderabad,Bowenpally,Tomato,Tomato,Medium,1000,2600,1800,25 Jun 2015
+2127,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,20 Sep 2014
+2128,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,27 Sep 2014
+2129,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,500,500,500,28 Sep 2014
+2130,Ranga Reddy,Chevella,Tomato,Local,Medium,250,250,250,20 Mar 2015
+2131,Ranga Reddy,Chevella,Tomato,Local,Medium,250,250,250,22 Mar 2015
+2132,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,07 Feb 2015
+2133,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,13 May 2015
+2134,Ranga Reddy,Chevella,Tomato,Local,Medium,500,500,500,26 May 2015
+2135,Ranga Reddy,Chevella,Tomato,Local,Medium,550,550,550,11 Feb 2015
+2136,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,09 Nov 2014
+2137,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,11 Dec 2014
+2138,Ranga Reddy,Chevella,Tomato,Local,Medium,1000,1000,1000,19 Nov 2014
+2139,Ranga Reddy,Chevella,Tomato,Local,Medium,1500,1500,1500,08 Aug 2015
+2140,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,13 Jul 2015
+2141,Ranga Reddy,Chevella,Tomato,Local,Medium,3000,3000,3000,14 Jul 2015
+2142,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,20,26,23,14 Jun 2015
+2143,Hyderabad,Erragadda(Rythu Bazar),Tomato,Other,Medium,26,32,29,19 Jul 2015
+2144,Hyderabad,Gaddiannaram,Tomato,Tomato,Medium,1000,1400,1200,29 Jul 2015
+2145,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,800,600,02 May 2015
+2146,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,800,600,18 Aug 2015
+2147,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,600,23 Aug 2015
+2148,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,800,1600,1200,30 Jul 2015
+2149,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1400,1200,17 May 2015
+2150,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1600,1300,23 Jul 2015
+2151,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,1600,1300,24 Apr 2015
+2152,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,07 Jul 2015
+2153,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1000,2000,1500,18 Jun 2015
+2154,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,1600,2000,1800,25 Jun 2015
+2155,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,120,1600,1400,01 Jun 2015
+2156,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,200,600,400,12 Feb 2015
+2157,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,600,500,12 Jan 2015
+2158,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,800,600,24 Nov 2014
+2159,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,400,1600,1000,06 Jun 2015
+2160,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1200,1000,13 Dec 2014
+2161,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,800,1400,1100,05 Sep 2014
+2162,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1600,1300,09 Dec 2014
+2163,Hyderabad,Gudimalkapur,Tomato,Tomato,Medium,1000,1800,1400,03 Jun 2015
+2164,Hyderabad,Hyderabad (F&V),Tomato,Tomato,Medium,6000,8000,7000,03 Feb 2015
+2165,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,16 Mar 2015
+2166,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,23 Mar 2015
+2167,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,200,400,300,25 Mar 2015
+2168,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,300,500,400,03 Mar 2015
+2169,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,02 Oct 2014
+2170,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,400,800,600,21 Oct 2014
+2171,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,02 Nov 2014
+2172,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,24 Oct 2014
+2173,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,600,1000,800,26 Oct 2014
+2174,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,700,900,800,28 Jan 2015
+2175,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,1400,1200,06 Jun 2015
+2176,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1000,2000,1500,08 Sep 2014
+2177,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,05 Dec 2014
+2178,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1200,1600,1400,23 May 2015
+2179,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1500,2500,2000,11 Sep 2014
+2180,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1600,2000,1800,13 Jun 2015
+2181,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,1600,2000,1800,28 May 2015
+2182,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,21 Jun 2015
+2183,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2200,2600,2400,29 May 2015
+2184,Ranga Reddy,Ibrahimputnam,Tomato,Tomato,Medium,2600,3000,2800,18 Jun 2015
+2185,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,20,40,30,07 Apr 2015
+2186,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,26,50,38,10 Apr 2015
+2187,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,21 Jan 2015
+2188,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,26 Jan 2015
+2189,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,50,40,28 Sep 2014
+2190,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,30,55,43,05 Dec 2014
+2191,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,31,45,38,30 Sep 2014
+2192,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,31,55,43,03 May 2015
+2193,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,35,65,50,25 Nov 2014
+2194,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,40,70,55,04 Oct 2014
+2195,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,50,90,70,26 Aug 2015
+2196,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,60,90,75,18 Sep 2014
+2197,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,70,92,81,21 Apr 2015
+2198,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,71,125,98,31 May 2015
+2199,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,81,125,103,14 Sep 2014
+2200,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,86,110,98,19 Sep 2014
+2201,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,90,140,115,16 May 2015
+2202,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,120,180,150,30 Jun 2015
+2203,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,120,230,175,22 Jun 2015
+2204,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,141,193,167,25 May 2015
+2205,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,160,220,190,15 Jun 2015
+2206,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,260,230,04 Jul 2015
+2207,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,10 Oct 2014
+2208,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,18 Dec 2014
+2209,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,400,800,600,19 Dec 2014
+2210,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,800,700,09 Nov 2014
+2211,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,600,1000,800,19 Nov 2014
+2212,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,700,1600,1150,16 Sep 2014
+2213,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,26 Oct 2014
+2214,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,800,1200,1000,28 Oct 2014
+2215,Hyderabad,L B Nagar,Tomato,Tomato,FAQ,1000,1600,1300,11 Dec 2014
+2216,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,12 Apr 2015
+2217,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,05 Aug 2015
+2218,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,1000,800,14 May 2015
+2219,Hyderabad,L B Nagar,Tomato,Tomato,Medium,1600,2000,1800,03 Jul 2015
+2220,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2400,2200,01 Jul 2015
+2221,Hyderabad,L B Nagar,Tomato,Tomato,Medium,2000,2400,2200,24 May 2015
+2222,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1000,1000,1000,08 Jul 2015
+2223,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1000,1000,1000,25 Jul 2015
+2224,Medak,Sadasivpet(Sangareddy),Tomato,Tomato,Medium,1900,1900,1900,06 Jul 2015
+2225,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,02 Aug 2015
+2226,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,10 Sep 2014
+2227,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,700,600,12 Nov 2014
+2228,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,800,600,10 Nov 2014
+2229,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,14 Oct 2014
+2230,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,700,900,800,12 Oct 2014
+2231,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,900,1300,1100,08 Sep 2014
+2232,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,50,50,50,21 Apr 2015
+2233,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,60,80,70,16 Apr 2015
+2234,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,150,200,175,20 Aug 2015
+2235,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,200,300,250,16 Sep 2014
+2236,Ranga Reddy,Shankarapally,Tomato,Tomato,Medium,250,300,275,18 Jul 2015

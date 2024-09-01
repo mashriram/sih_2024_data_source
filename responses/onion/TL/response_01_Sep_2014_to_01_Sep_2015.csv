@@ -1,0 +1,1318 @@
+0,1,2,3,4,5,6,7,8,9
+1,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,06 Jul 2015
+2,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,08 Jul 2015
+3,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,3800,3800,3800,02 Aug 2015
+4,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,07 Jul 2015
+5,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3300,3300,3300,01 Aug 2015
+6,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1000,800,24 May 2015
+7,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1200,800,08 Nov 2014
+8,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,03 Feb 2015
+9,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,900,22 Apr 2015
+10,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1100,900,20 Apr 2015
+11,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,13 Jan 2015
+12,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,14 Jun 2015
+13,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,22 May 2015
+14,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1200,27 Jan 2015
+15,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1800,1400,09 Dec 2014
+16,Hyderabad,Bowenpally,Onion,Onion,Medium,600,2000,1600,02 May 2015
+17,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1500,1200,13 Jul 2015
+18,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,2000,1600,30 Dec 2014
+19,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,15 Aug 2015
+20,Hyderabad,Gudimalkapur,Onion,Onion,Large,500,1000,750,07 Apr 2015
+21,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,16 Dec 2014
+22,Hyderabad,Gudimalkapur,Onion,Onion,Medium,400,1200,800,01 Apr 2015
+23,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,11 Jun 2015
+24,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,20 Jun 2015
+25,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,08 Jan 2015
+26,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,2000,1300,05 Sep 2014
+27,Hyderabad,Gudimalkapur,Onion,Onion,Medium,800,1000,900,30 Dec 2014
+28,Hyderabad,Gudimalkapur,Onion,Onion,Medium,800,1200,1000,02 Apr 2015
+29,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,3000,2000,26 Jul 2015
+30,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,2000,1750,13 Sep 2014
+31,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2000,3500,3000,20 Aug 2015
+32,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1900,1500,23 May 2015
+33,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1600,1400,18 Mar 2015
+34,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,27 Nov 2014
+35,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,08 Jul 2015
+36,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,28 Jan 2015
+37,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2000,3200,2500,24 Jul 2015
+38,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1200,750,28 Feb 2015
+39,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1300,800,03 Nov 2014
+40,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,800,600,31 Mar 2015
+41,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1100,750,09 Mar 2015
+42,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1600,1000,11 Nov 2014
+43,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,900,800,12 Jan 2015
+44,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,16 Feb 2015
+45,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1000,2000,1500,05 Feb 2015
+46,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1500,3100,2600,08 Aug 2015
+47,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,4600,4000,27 Aug 2015
+48,Nizamabad,Nizamabad,Onion,White,Medium,721,1420,1200,15 Apr 2015
+49,Nizamabad,Nizamabad,Onion,White,Medium,910,1560,1400,25 Feb 2015
+50,Nizamabad,Nizamabad,Onion,White,Medium,1185,1530,1250,26 Feb 2015
+51,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,05 Jul 2015
+52,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,13 Jul 2015
+53,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,22 Jul 2015
+54,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,12 Jun 2015
+55,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,14 Jun 2015
+56,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,17 Jun 2015
+57,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,29 Jun 2015
+58,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,4000,4000,4000,29 Jul 2015
+59,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,4000,4000,4000,31 Jul 2015
+60,Adilabad,Adilabad(Rythu Bazar),Onion,Other,Large,2500,2500,2500,28 Jun 2015
+61,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,05 Jul 2015
+62,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,10 Jul 2015
+63,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,13 Jul 2015
+64,Nizamabad,Bodhan,Onion,Red,Medium,2795,2795,2795,27 May 2015
+65,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1000,800,09 May 2015
+66,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,05 Jul 2015
+67,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,09 Jan 2015
+68,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,11 Jun 2015
+69,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,19 Nov 2014
+70,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,13 Jun 2015
+71,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,22 Jun 2015
+72,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1600,1000,23 Mar 2015
+73,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1100,900,14 Apr 2015
+74,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1000,900,11 Apr 2015
+75,Hyderabad,Bowenpally,Onion,Onion,Medium,1500,3000,2500,11 Aug 2015
+76,Hyderabad,Bowenpally,Onion,Onion,Medium,2000,4000,3500,03 Aug 2015
+77,Hyderabad,Bowenpally,Onion,Onion,Medium,2500,3800,3200,01 Sep 2015
+78,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,17 Jun 2015
+79,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,22,28,25,19 Jul 2015
+80,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,17 Aug 2015
+81,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,22 Aug 2015
+82,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,08 Aug 2015
+83,Hyderabad,Gudimalkapur,Onion,Onion,Medium,60,1500,1050,21 Jun 2015
+84,Hyderabad,Gudimalkapur,Onion,Onion,Medium,200,200,200,02 Sep 2014
+85,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,300,300,08 Dec 2014
+86,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,10 Dec 2014
+87,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,13 Feb 2015
+88,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1300,800,23 Jan 2015
+89,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,07 Oct 2014
+90,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1600,950,15 Oct 2014
+91,Hyderabad,Gudimalkapur,Onion,Onion,Medium,400,800,600,07 Mar 2015
+92,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,10 Apr 2015
+93,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,23 Apr 2015
+94,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,09 Oct 2014
+95,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,800,700,16 Feb 2015
+96,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,22 Apr 2015
+97,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,08 Jul 2015
+98,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,14 Mar 2015
+99,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,29 Jun 2015
+100,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,2000,1300,06 Jun 2015
+101,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,04 Jul 2015
+102,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,13 Jun 2015
+103,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,02 Jul 2015
+104,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,14 Jul 2015
+105,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,18 Jul 2015
+106,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,20 Jul 2015
+107,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1200,800,07 Jan 2015
+108,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,11 Jul 2015
+109,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,05 Apr 2015
+110,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1300,1000,10 Dec 2014
+111,Hyderabad,Bowenpally,Onion,Onion,Medium,1500,2600,2300,10 Aug 2015
+112,Hyderabad,Bowenpally,Onion,Onion,Medium,2000,4500,4000,28 Aug 2015
+113,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,22,28,25,16 Jul 2015
+114,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,23 Aug 2015
+115,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,01 Aug 2015
+116,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,21,28,24,28 Jun 2015
+117,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,29 Jan 2015
+118,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,24 Dec 2014
+119,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,04 Apr 2015
+120,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,28 Mar 2015
+121,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1200,850,19 Apr 2015
+122,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,07 Jul 2015
+123,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,12 Mar 2015
+124,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,13 Jan 2015
+125,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,05 May 2015
+126,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,28 Apr 2015
+127,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,04 Mar 2015
+128,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,27 May 2015
+129,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1600,1100,16 Sep 2014
+130,Hyderabad,Gudimalkapur,Onion,Onion,Medium,800,1200,1000,18 Nov 2014
+131,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,3000,2000,31 Jul 2015
+132,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2500,5000,3500,23 Aug 2015
+133,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,600,1200,900,26 Mar 2015
+134,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2000,1200,14 Mar 2015
+135,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2100,1600,20 Feb 2015
+136,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,11 Feb 2015
+137,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,25 Jun 2015
+138,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,13 Sep 2014
+139,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,22 Jan 2015
+140,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,23 Sep 2014
+141,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,29 Jan 2015
+142,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1700,2200,1950,01 Sep 2014
+143,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1800,2200,2000,03 Sep 2014
+144,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2200,4966,2400,13 Jun 2015
+145,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,5000,6100,5400,28 Aug 2015
+146,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,5000,6700,5500,22 Aug 2015
+147,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,200,400,300,26 Mar 2015
+148,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,700,500,14 Nov 2014
+149,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1500,900,06 Nov 2014
+150,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,05 May 2015
+151,Nizamabad,Nizamabad,Onion,White,Medium,1300,1480,1375,11 Feb 2015
+152,Medak,Sadasivpet,Onion,Local,FAQ,705,1285,995,24 Oct 2014
+153,Medak,Sadasivpet,Onion,Local,FAQ,765,1093,929,24 Mar 2015
+154,Medak,Sadasivpet,Onion,Local,FAQ,791,1299,1045,12 May 2015
+155,Medak,Sadasivpet,Onion,Local,FAQ,795,1406,1100,11 Apr 2015
+156,Medak,Sadasivpet,Onion,Local,FAQ,825,1364,1094,22 Apr 2015
+157,Medak,Sadasivpet,Onion,Local,FAQ,830,1424,1127,13 Apr 2015
+158,Medak,Sadasivpet,Onion,Local,FAQ,830,1569,1199,05 Nov 2014
+159,Medak,Sadasivpet,Onion,Local,FAQ,1020,1811,1415,29 Jun 2015
+160,Medak,Sadasivpet,Onion,Local,FAQ,1121,1494,1307,13 Mar 2015
+161,Medak,Sadasivpet,Onion,Local,FAQ,1224,1633,1428,04 Mar 2015
+162,Medak,Sadasivpet,Onion,Local,FAQ,1449,1963,1706,12 Jun 2015
+163,Medak,Sadasivpet,Onion,Local,FAQ,1474,1739,1606,25 Feb 2015
+164,Ranga Reddy,Shankarapally,Onion,Onion,Medium,800,1400,1100,13 May 2015
+165,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,09 Jul 2015
+166,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,23 Jun 2015
+167,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,26 Jun 2015
+168,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,3800,3800,3800,11 Aug 2015
+169,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,01 Jul 2015
+170,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,06 Jul 2015
+171,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,12 Jul 2015
+172,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,21 Jul 2015
+173,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1200,1000,19 Dec 2014
+174,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1300,1000,28 May 2015
+175,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1800,1400,06 Jun 2015
+176,Hyderabad,Bowenpally,Onion,Onion,Medium,1500,4000,3600,08 Aug 2015
+177,Hyderabad,Bowenpally,Onion,Onion,Medium,2000,3500,3000,26 Aug 2015
+178,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,24 Aug 2015
+179,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,29,35,32,27 Jul 2015
+180,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,06 Aug 2015
+181,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,19,25,22,16 Jun 2015
+182,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,29,35,32,28 Jul 2015
+183,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1300,800,24 Jan 2015
+184,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,900,700,31 Jan 2015
+185,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,07 Apr 2015
+186,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,26 Mar 2015
+187,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,03 Jul 2015
+188,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,05 Feb 2015
+189,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,19 Mar 2015
+190,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,24 Feb 2015
+191,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,23 Mar 2015
+192,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1600,1100,14 Jun 2015
+193,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3000,2500,01 Aug 2015
+194,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2500,4000,3500,30 Aug 2015
+195,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,900,1500,1200,30 Mar 2015
+196,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1500,1250,24 Apr 2015
+197,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1800,1400,15 Nov 2014
+198,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1500,1300,04 Apr 2015
+199,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1500,1300,30 Apr 2015
+200,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,01 Dec 2014
+201,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,07 May 2015
+202,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,21 Nov 2014
+203,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,1900,1600,01 Oct 2014
+204,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,1900,1600,06 Sep 2014
+205,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1700,17 Nov 2014
+206,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2200,1800,02 Mar 2015
+207,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2200,1900,27 Feb 2015
+208,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,3300,4400,3800,12 Aug 2015
+209,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4500,5500,5000,01 Sep 2015
+210,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,200,600,350,27 Mar 2015
+211,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,800,550,13 Nov 2014
+212,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,2000,750,15 Oct 2014
+213,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,800,600,18 Mar 2015
+214,Adilabad,Adilabad(Rythu Bazar),Onion,Local,Medium,2500,2500,2500,08 Jun 2015
+215,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,12 Jul 2015
+216,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,21 Jul 2015
+217,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,3800,3800,3800,03 Aug 2015
+218,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3300,3300,3300,26 Jul 2015
+219,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1000,800,25 May 2015
+220,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1500,800,21 Dec 2014
+221,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1500,1000,16 Mar 2015
+222,Hyderabad,Bowenpally,Onion,Onion,Medium,600,700,650,18 Jun 2015
+223,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,31 May 2015
+224,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1300,1000,20 Nov 2014
+225,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1200,10 Apr 2015
+226,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1200,1000,19 Apr 2015
+227,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1300,1200,17 Apr 2015
+228,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1600,1200,14 Jan 2015
+229,Hyderabad,Bowenpally,Onion,Onion,Medium,800,2000,1600,07 Jul 2015
+230,Hyderabad,Bowenpally,Onion,Onion,Medium,800,2000,1600,26 Jun 2015
+231,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1000,1000,01 Oct 2014
+232,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,2500,2000,28 Jul 2015
+233,Hyderabad,Bowenpally,Onion,Onion,Medium,1300,2700,2300,12 Aug 2015
+234,Hyderabad,Bowenpally,Onion,Onion,Medium,1400,3800,3000,06 Aug 2015
+235,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,11 Aug 2015
+236,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,29 Jul 2015
+237,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,22,28,25,14 Jul 2015
+238,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,25,32,28,23 Jul 2015
+239,Hyderabad,Gudimalkapur,Onion,Onion,Large,500,1000,750,12 Apr 2015
+240,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,06 Dec 2014
+241,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,06 Feb 2015
+242,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1200,750,09 Jan 2015
+243,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1200,750,12 Dec 2014
+244,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,06 Jul 2015
+245,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,09 Jun 2015
+246,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,10 Feb 2015
+247,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,26 Feb 2015
+248,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,27 Apr 2015
+249,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,27 Jun 2015
+250,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1600,1050,19 Jul 2015
+251,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,2000,1250,23 Jul 2015
+252,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,22 May 2015
+253,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,30 Apr 2015
+254,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,2000,1300,04 Sep 2014
+255,Hyderabad,Gudimalkapur,Onion,Onion,Medium,800,1000,900,15 Sep 2014
+256,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,2000,1500,25 Jul 2015
+257,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3500,2500,13 Aug 2015
+258,Hyderabad,Gudimalkapur,Onion,Onion,Small,500,1000,750,15 Apr 2015
+259,Hyderabad,Gudimalkapur,Onion,Onion,Small,500,1000,750,17 Apr 2015
+260,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Large,1100,2300,1700,05 Jun 2015
+261,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,900,1300,1100,27 May 2015
+262,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1500,1300,08 Apr 2015
+263,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1900,1500,21 May 2015
+264,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2000,4500,3500,26 Aug 2015
+265,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2500,5000,3500,22 Aug 2015
+266,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2300,1700,10 Jul 2015
+267,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1600,1400,08 Dec 2014
+268,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,24 Oct 2014
+269,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2300,1800,03 Jul 2015
+270,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2300,1800,19 Dec 2014
+271,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1500,2100,1800,24 Feb 2015
+272,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2200,1900,21 Feb 2015
+273,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1700,2100,1900,02 Feb 2015
+274,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1700,2700,2200,21 Jul 2015
+275,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2100,3700,2800,29 Jul 2015
+276,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,21 Nov 2014
+277,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,900,650,13 Feb 2015
+278,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,30 Apr 2015
+279,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,900,700,11 Mar 2015
+280,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,700,28 Nov 2014
+281,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,07 Jul 2015
+282,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1200,900,17 Apr 2015
+283,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1400,1000,20 Jul 2015
+284,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,700,1100,900,11 Jul 2015
+285,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,6565,1200,10 Oct 2014
+286,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1200,2300,2000,04 Aug 2015
+287,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1500,3100,2600,10 Aug 2015
+288,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,4800,4200,26 Aug 2015
+289,Nizamabad,Nizamabad,Onion,White,Medium,965,1500,1275,02 Apr 2015
+290,Medak,Sadasivpet,Onion,Local,FAQ,529,1398,963,08 Oct 2014
+291,Medak,Sadasivpet,Onion,Local,FAQ,740,1284,1012,28 Mar 2015
+292,Medak,Sadasivpet,Onion,Local,FAQ,779,1399,1089,09 May 2015
+293,Medak,Sadasivpet,Onion,Local,FAQ,785,1339,1062,25 Apr 2015
+294,Medak,Sadasivpet,Onion,Local,FAQ,804,1401,1102,28 May 2015
+295,Medak,Sadasivpet,Onion,Local,FAQ,984,1199,1091,29 Dec 2014
+296,Medak,Sadasivpet,Onion,Local,FAQ,1000,2200,1600,08 Jul 2015
+297,Medak,Sadasivpet,Onion,Local,FAQ,1039,1794,1416,17 Dec 2014
+298,Medak,Sadasivpet,Onion,Local,FAQ,1180,1627,1403,29 Jan 2015
+299,Medak,Sadasivpet,Onion,Local,FAQ,1299,1798,1548,09 Mar 2015
+300,Ranga Reddy,Shankarapally,Onion,Onion,Medium,900,1400,1150,05 Apr 2015
+301,Ranga Reddy,Shankarapally,Onion,Onion,Medium,900,1500,1200,20 May 2015
+302,Ranga Reddy,Shankarapally,Onion,Onion,Medium,2910,3850,3245,02 Aug 2015
+303,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,15 Jul 2015
+304,Adilabad,Adilabad(Rythu Bazar),Onion,Other,Large,2500,2500,2500,20 Jun 2015
+305,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,22 Jun 2015
+306,Hyderabad,Bowenpally,Onion,Onion,Medium,300,1100,800,11 Jan 2015
+307,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,12 Jan 2015
+308,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,12 Mar 2015
+309,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1200,29 Mar 2015
+310,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,2500,2000,04 Aug 2015
+311,Hyderabad,Bowenpally,Onion,Onion,Medium,1200,1800,1600,23 Jun 2015
+312,Hyderabad,Bowenpally,Onion,Onion,Medium,1500,3000,2600,09 Aug 2015
+313,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,20 Jun 2015
+314,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,25 Jun 2015
+315,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,22,28,25,21 Jul 2015
+316,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,12 Aug 2015
+317,Hyderabad,Gudimalkapur,Onion,1st Sort,Medium,800,1900,1300,18 Dec 2014
+318,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,08 Oct 2014
+319,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,10 Sep 2014
+320,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,19 Dec 2014
+321,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,05 Jul 2015
+322,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,10 Jul 2015
+323,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,28 Jun 2015
+324,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,25 May 2015
+325,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,11 Mar 2015
+326,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,28 Feb 2015
+327,Hyderabad,Gudimalkapur,Onion,Onion,Medium,750,1200,900,03 Dec 2014
+328,Hyderabad,Gudimalkapur,Onion,Onion,Medium,800,1200,1000,09 May 2015
+329,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,1400,1200,30 May 2015
+330,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,1500,1250,11 May 2015
+331,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,2000,1500,24 Jul 2015
+332,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3500,3000,16 Aug 2015
+333,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2500,4400,3000,18 Aug 2015
+334,Hyderabad,Gudimalkapur,Onion,Onion,Medium,3000,5000,3500,24 Aug 2015
+335,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Large,1600,2000,1800,31 Oct 2014
+336,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,900,1500,1200,25 Apr 2015
+337,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1800,1400,12 Jan 2015
+338,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,2200,1600,23 Jun 2015
+339,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2100,1600,27 Jun 2015
+340,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2300,1700,07 Jul 2015
+341,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,28 Nov 2014
+342,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2200,1700,01 Jun 2015
+343,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1700,20 Sep 2014
+344,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2400,1900,14 Jul 2015
+345,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1500,2100,1800,22 Oct 2014
+346,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,01 Nov 2014
+347,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1800,2300,1900,06 Feb 2015
+348,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2100,2500,2300,05 Feb 2015
+349,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4200,5000,4800,20 Aug 2015
+350,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,05 Dec 2014
+351,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,06 Dec 2014
+352,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,08 Dec 2014
+353,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1100,750,10 Dec 2014
+354,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1600,1000,31 Jan 2015
+355,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,800,08 May 2015
+356,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1200,800,30 May 2015
+357,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1400,800,07 May 2015
+358,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1500,1000,29 Jan 2015
+359,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,800,700,06 Jul 2015
+360,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,04 Jun 2015
+361,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,10 Jul 2015
+362,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,19 Feb 2015
+363,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1800,1200,29 Oct 2014
+364,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,700,900,800,11 May 2015
+365,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,700,1000,850,24 Jun 2015
+366,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1200,1000,25 Nov 2014
+367,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,900,1100,1000,09 Jul 2015
+368,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1200,1900,1600,28 Jul 2015
+369,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,5000,4400,28 Aug 2015
+370,Nizamabad,Nizamabad,Onion,White,Medium,1000,1545,1355,02 Mar 2015
+371,Nizamabad,Nizamabad,Onion,White,Medium,1200,1860,1580,23 Feb 2015
+372,Medak,Sadasivpet,Onion,Local,FAQ,600,2060,1505,01 Jul 2015
+373,Medak,Sadasivpet,Onion,Local,FAQ,974,2299,1636,30 May 2015
+374,Medak,Sadasivpet,Onion,Local,FAQ,1399,1774,1586,20 Feb 2015
+375,Medak,Sadasivpet,Onion,Local,FAQ,1471,1500,1485,19 Jan 2015
+376,Medak,Sadasivpet,Onion,Local,FAQ,1560,1682,1621,19 Feb 2015
+377,Medak,Sadasivpet,Onion,Local,Large,950,1559,1254,11 May 2015
+378,Medak,Sadasivpet(Sangareddy),Onion,Onion,Medium,3000,3000,3000,30 Jul 2015
+379,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,08 Apr 2015
+380,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,15 Apr 2015
+381,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,4800,4400,25 Aug 2015
+382,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,800,01 Jun 2015
+383,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,800,02 Jun 2015
+384,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,02 Jul 2015
+385,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,20 Feb 2015
+386,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,700,900,800,04 Mar 2015
+387,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,700,900,800,20 Jun 2015
+388,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1000,1800,1500,22 Jul 2015
+389,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1500,2500,2200,05 Aug 2015
+390,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Small,600,1000,800,05 Jun 2015
+391,Mahbubnagar,Mahbubnagar,Onion,Local,FAQ,1432,1455,1455,31 Mar 2015
+392,Nizamabad,Nizamabad,Onion,Red,Medium,600,1260,1260,02 Feb 2015
+393,Nizamabad,Nizamabad,Onion,Red,Medium,800,800,800,09 Jan 2015
+394,Nizamabad,Nizamabad,Onion,Red,Medium,1050,1485,1320,28 Feb 2015
+395,Nizamabad,Nizamabad,Onion,White,Medium,1375,1600,1455,24 Feb 2015
+396,Medak,Sadasivpet,Onion,Local,FAQ,599,699,649,17 Nov 2014
+397,Medak,Sadasivpet,Onion,Local,FAQ,870,1389,1129,16 Apr 2015
+398,Medak,Sadasivpet,Onion,Local,FAQ,889,1450,1169,20 Apr 2015
+399,Medak,Sadasivpet,Onion,Local,FAQ,894,1488,1191,17 Apr 2015
+400,Medak,Sadasivpet,Onion,Local,FAQ,1024,1384,1204,18 Mar 2015
+401,Medak,Sadasivpet,Onion,Local,FAQ,1030,2170,1600,10 Jun 2015
+402,Medak,Sadasivpet,Onion,Local,FAQ,1199,1518,1358,03 Mar 2015
+403,Medak,Sadasivpet,Onion,Local,FAQ,1218,1770,1494,03 Sep 2014
+404,Medak,Sadasivpet,Onion,Local,FAQ,2205,4755,3520,19 Aug 2015
+405,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,04 Dec 2014
+406,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,15 Jul 2015
+407,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1250,1700,1450,05 Dec 2014
+408,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,1900,1600,07 Mar 2015
+409,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2100,1700,08 Oct 2014
+410,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2100,1700,29 May 2015
+411,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2100,1700,30 May 2015
+412,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1500,2000,1750,19 Sep 2014
+413,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,22 Sep 2014
+414,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,27 Jan 2015
+415,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4300,5500,4900,18 Aug 2015
+416,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4500,5500,5000,17 Aug 2015
+417,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,5000,6700,5500,24 Aug 2015
+418,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,900,600,23 Apr 2015
+419,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,09 Dec 2014
+420,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1300,800,03 Dec 2014
+421,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,900,650,20 May 2015
+422,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,11 Dec 2014
+423,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1200,800,08 Jan 2015
+424,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1000,750,30 Jun 2015
+425,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,800,30 Dec 2014
+426,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1500,1000,10 Nov 2014
+427,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,12 Mar 2015
+428,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,700,900,800,29 Jun 2015
+429,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1000,900,18 Jun 2015
+430,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1237,1000,13 Jun 2015
+431,Hyderabad,Hyderabad (F&V),Onion,Onion,Medium,1700,2000,1850,23 Jan 2015
+432,Hyderabad,Hyderabad (F&V),Onion,Onion,Medium,7200,8200,7700,04 Apr 2015
+433,Nizamabad,Nizamabad,Onion,Red,Medium,1120,1540,1540,23 Feb 2015
+434,Nizamabad,Nizamabad,Onion,White,Medium,1050,1340,1270,27 Jan 2015
+435,Medak,Sadasivpet,Onion,Local,FAQ,749,1550,1149,15 Oct 2014
+436,Medak,Sadasivpet,Onion,Local,FAQ,863,2085,1474,01 Jun 2015
+437,Medak,Sadasivpet,Onion,Local,FAQ,898,1183,1040,23 Mar 2015
+438,Medak,Sadasivpet,Onion,Local,FAQ,924,2149,1536,03 Jun 2015
+439,Medak,Sadasivpet,Onion,Local,FAQ,1005,2251,1628,13 Jul 2015
+440,Medak,Sadasivpet,Onion,Local,FAQ,1399,1594,1496,24 Feb 2015
+441,Medak,Sadasivpet,Onion,Local,Small,1059,1660,1359,16 Mar 2015
+442,Medak,Sadasivpet(Sangareddy),Onion,Onion,Medium,2500,2500,2500,01 Aug 2015
+443,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1210,2000,1605,10 Jun 2015
+444,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1400,1760,1580,05 Jul 2015
+445,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,3800,3800,3800,12 Aug 2015
+446,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,4000,4000,4000,25 Jul 2015
+447,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,08 Jul 2015
+448,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,11 Aug 2015
+449,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,11 Jul 2015
+450,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3300,3300,3300,03 Aug 2015
+451,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,700,23 Dec 2014
+452,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,26 Mar 2015
+453,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1100,900,18 Jul 2015
+454,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,04 Oct 2014
+455,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,17 Jan 2015
+456,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1600,1200,16 May 2015
+457,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1500,1300,02 Sep 2014
+458,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1500,1300,25 Jul 2015
+459,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1500,1400,07 Mar 2015
+460,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,2500,2200,02 Aug 2015
+461,Hyderabad,Bowenpally,Onion,Onion,Medium,1200,2500,2200,01 Aug 2015
+462,Hyderabad,Bowenpally,Onion,Onion,Medium,2500,3000,2750,31 Jul 2015
+463,Hyderabad,Erragadda(Rythu Bazar),Onion,Local,Medium,19,25,22,10 Jun 2015
+464,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,22 Jun 2015
+465,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,29 Aug 2015
+466,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,30 Aug 2015
+467,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,29,34,31,25 Jul 2015
+468,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,01 Dec 2014
+469,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,18 Dec 2014
+470,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,18 Oct 2014
+471,Hyderabad,Gudimalkapur,Onion,Onion,Medium,400,1200,800,28 Nov 2014
+472,Hyderabad,Gudimalkapur,Onion,Onion,Medium,400,1500,950,11 Dec 2014
+473,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,30 Mar 2015
+474,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,31 Mar 2015
+475,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,26 Nov 2014
+476,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,21 May 2015
+477,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,25 Nov 2014
+478,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,20 Jul 2015
+479,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,2000,1300,06 Sep 2014
+480,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,3800,2400,12 Aug 2015
+481,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2500,3500,3000,01 Sep 2015
+482,Hyderabad,Gudimalkapur,Onion,Onion,Medium,3000,5000,4000,25 Aug 2015
+483,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,500,1500,1000,23 Dec 2014
+484,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,700,1100,900,24 Jan 2015
+485,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1500,1200,21 Apr 2015
+486,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1500,1300,29 Apr 2015
+487,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2100,1600,30 Jun 2015
+488,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1600,1400,09 Apr 2015
+489,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1600,1400,09 Dec 2014
+490,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,08 May 2015
+491,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,10 Dec 2014
+492,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,11 Dec 2014
+493,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,09 Jul 2015
+494,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,18 Jun 2015
+495,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1200,750,22 Oct 2014
+496,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,800,600,20 Apr 2015
+497,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,900,650,14 May 2015
+498,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1200,800,06 Jan 2015
+499,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,800,15 May 2015
+500,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1200,800,28 May 2015
+501,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,17 Oct 2014
+502,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1200,1000,16 Mar 2015
+503,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1000,1700,1400,27 Jul 2015
+504,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,2500,4200,3600,17 Aug 2015
+505,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,4400,3800,31 Aug 2015
+506,Nizamabad,Nizamabad,Onion,White,Medium,600,1260,1110,26 Mar 2015
+507,Nizamabad,Nizamabad,Onion,White,Medium,1000,1560,1500,04 Mar 2015
+508,Medak,Sadasivpet,Onion,Local,FAQ,744,1345,1044,25 Mar 2015
+509,Medak,Sadasivpet,Onion,Local,FAQ,864,1320,1092,02 Apr 2015
+510,Medak,Sadasivpet,Onion,Local,FAQ,920,1474,1197,25 May 2015
+511,Medak,Sadasivpet,Onion,Local,FAQ,1000,2062,1524,27 Jun 2015
+512,Medak,Sadasivpet,Onion,Local,FAQ,1000,2220,1610,22 Jun 2015
+513,Medak,Sadasivpet,Onion,Local,FAQ,1099,1844,1471,08 Jun 2015
+514,Medak,Sadasivpet,Onion,Local,FAQ,1179,1849,1514,11 Feb 2015
+515,Medak,Sadasivpet,Onion,Local,FAQ,1374,1464,1419,24 Jan 2015
+516,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1300,1500,1400,11 Mar 2015
+517,Ranga Reddy,Shankarapally,Onion,Onion,Medium,3400,3710,3555,29 Jul 2015
+518,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2400,2400,2400,01 Jul 2015
+519,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3300,3300,3300,29 Jul 2015
+520,Hyderabad,Bowenpally,Onion,Onion,Medium,400,800,600,02 Jan 2015
+521,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1000,800,12 May 2015
+522,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,21 May 2015
+523,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,900,08 May 2015
+524,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1300,1000,03 Apr 2015
+525,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1800,1400,05 May 2015
+526,Hyderabad,Bowenpally,Onion,Onion,Medium,600,2000,1400,05 Jan 2015
+527,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1500,1200,18 Nov 2014
+528,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1200,1100,13 Feb 2015
+529,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,3000,2500,05 Aug 2015
+530,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,02 Aug 2015
+531,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1300,800,07 May 2015
+532,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1300,800,10 May 2015
+533,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1300,800,22 Jan 2015
+534,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,23 Dec 2014
+535,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,27 Sep 2014
+536,Hyderabad,Gudimalkapur,Onion,Onion,Medium,400,800,600,17 Mar 2015
+537,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,01 Jul 2015
+538,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,02 May 2015
+539,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,15 Dec 2014
+540,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,800,700,02 Feb 2015
+541,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,15 May 2015
+542,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,25 Apr 2015
+543,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,15 Nov 2014
+544,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1400,1000,02 Jun 2015
+545,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,2000,1500,21 Feb 2015
+546,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2000,3500,2750,11 Aug 2015
+547,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2500,3500,3000,17 Aug 2015
+548,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,800,1600,1200,14 Nov 2014
+549,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,900,1500,1200,20 Apr 2015
+550,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,900,1500,1200,31 Mar 2015
+551,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1500,1200,22 Apr 2015
+552,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2100,1600,12 Feb 2015
+553,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2100,1600,13 Mar 2015
+554,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,26 Nov 2014
+555,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,01 Jul 2015
+556,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,26 Feb 2015
+557,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2300,1750,02 Jun 2015
+558,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,11 Jun 2015
+559,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,1700,1500,17 Apr 2015
+560,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2100,1700,28 May 2015
+561,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2200,1800,07 Oct 2014
+562,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1500,1900,1700,25 Sep 2014
+563,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2200,1900,06 Nov 2014
+564,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4500,5800,5200,21 Aug 2015
+565,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,200,800,500,15 Nov 2014
+566,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,600,450,24 Jan 2015
+567,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,900,600,03 Mar 2015
+568,Adilabad,Adilabad(Rythu Bazar),Onion,1st Sort,Large,3800,3800,3800,06 Aug 2015
+569,Adilabad,Adilabad(Rythu Bazar),Onion,1st Sort,Medium,3800,3800,3800,07 Aug 2015
+570,Adilabad,Adilabad(Rythu Bazar),Onion,Local,Large,2400,2400,2400,01 Jun 2015
+571,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,10 Jun 2015
+572,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,3000,3000,3000,23 Jul 2015
+573,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,3800,3800,3800,01 Aug 2015
+574,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Medium,2500,2500,2500,07 Jun 2015
+575,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,26 Jun 2015
+576,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1200,1000,12 Dec 2014
+577,Hyderabad,Bowenpally,Onion,Onion,Medium,600,600,600,01 Jul 2015
+578,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1200,07 Nov 2014
+579,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1200,28 Jun 2015
+580,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1800,1400,02 Jun 2015
+581,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1500,1200,18 Mar 2015
+582,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1500,1300,08 Jan 2015
+583,Hyderabad,Bowenpally,Onion,Onion,Medium,1300,4000,3000,18 Aug 2015
+584,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,06 Jul 2015
+585,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,22,28,25,14 Jul 2015
+586,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,35,30,31 Aug 2015
+587,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,05 Aug 2015
+588,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,28 Jan 2015
+589,Hyderabad,Gudimalkapur,Onion,Onion,Medium,400,600,500,18 Mar 2015
+590,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,27 Mar 2015
+591,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,06 Mar 2015
+592,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,12 Jul 2015
+593,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,26 Apr 2015
+594,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,05 Dec 2014
+595,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,06 May 2015
+596,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,03 Mar 2015
+597,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,10 Jun 2015
+598,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,11 Jul 2015
+599,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,3500,2250,30 Jul 2015
+600,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3200,2350,05 Aug 2015
+601,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3500,2500,04 Aug 2015
+602,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3500,3000,19 Aug 2015
+603,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2500,3800,3000,21 Aug 2015
+604,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Large,2400,3600,3000,03 Aug 2015
+605,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,600,1200,900,27 Mar 2015
+606,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,650,1250,950,24 Mar 2015
+607,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,700,1300,1000,23 Mar 2015
+608,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1400,1200,13 Apr 2015
+609,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,2000,1500,11 Mar 2015
+610,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,2200,1600,06 Jul 2015
+611,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1700,1400,19 May 2015
+612,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1900,1500,26 May 2015
+613,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2100,1600,10 Mar 2015
+614,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2300,1700,04 Jun 2015
+615,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,02 Jan 2015
+616,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,12 Dec 2014
+617,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,26 Jun 2015
+618,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,03 Jul 2015
+619,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,14 Jul 2015
+620,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,19 Jul 2015
+621,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,22 Jun 2015
+622,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,24 Jun 2015
+623,Adilabad,Adilabad(Rythu Bazar),Onion,Other,Large,2200,2200,2200,10 Jul 2015
+624,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,19 Jul 2015
+625,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,28 Jun 2015
+626,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3300,3300,3300,31 Jul 2015
+627,Hyderabad,Bowenpally,Onion,Onion,Medium,500,700,600,26 May 2015
+628,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1000,800,08 Sep 2014
+629,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,12 Apr 2015
+630,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1100,17 Feb 2015
+631,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1200,1000,08 Apr 2015
+632,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1200,1000,17 May 2015
+633,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1000,1000,10 Jan 2015
+634,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1500,1300,17 Mar 2015
+635,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1800,1500,06 Jul 2015
+636,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,3000,2500,31 Aug 2015
+637,Hyderabad,Bowenpally,Onion,Onion,Medium,1300,2000,1800,27 May 2015
+638,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,19,25,22,11 Jun 2015
+639,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,09 Aug 2015
+640,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,27,34,30,16 Aug 2015
+641,Hyderabad,Gudimalkapur,Onion,Onion,Large,600,1200,900,05 Apr 2015
+642,Hyderabad,Gudimalkapur,Onion,Onion,Medium,200,1000,600,13 Dec 2014
+643,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,300,300,09 Dec 2014
+644,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,21 Oct 2014
+645,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,27 Jan 2015
+646,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,09 Apr 2015
+647,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,02 Jul 2015
+648,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,04 Feb 2015
+649,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,13 Jun 2015
+650,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,14 Jul 2015
+651,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,18 Jul 2015
+652,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,21 Apr 2015
+653,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,14 May 2015
+654,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,15 Apr 2015
+655,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,16 Apr 2015
+656,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,23 May 2015
+657,Hyderabad,Gudimalkapur,Onion,Onion,Medium,800,1200,1000,22 Sep 2014
+658,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3000,2250,06 Aug 2015
+659,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1500,1200,23 Apr 2015
+660,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1800,1400,11 May 2015
+661,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1500,1300,07 Apr 2015
+662,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2100,1600,20 Dec 2014
+663,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2200,1600,15 Jun 2015
+664,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1500,1350,06 Apr 2015
+665,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,13 May 2015
+666,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,20 Nov 2014
+667,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,02 Jul 2015
+668,Adilabad,Adilabad(Rythu Bazar),Onion,2nd Sort,Large,3300,3300,3300,04 Aug 2015
+669,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,15 Jun 2015
+670,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,27 Jun 2015
+671,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Medium,5000,5000,5000,02 Jun 2015
+672,Adilabad,Adilabad(Rythu Bazar),Onion,Other,Large,2200,2200,2200,04 Jul 2015
+673,Adilabad,Adilabad(Rythu Bazar),Onion,Other,Large,2500,2500,2500,19 Jun 2015
+674,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3300,3300,3300,27 Jul 2015
+675,Hyderabad,Bowenpally,Onion,Onion,Medium,400,800,600,23 Feb 2015
+676,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1800,1400,14 Jul 2015
+677,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1000,800,14 May 2015
+678,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,20 May 2015
+679,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,07 Apr 2015
+680,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1800,1400,06 May 2015
+681,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1500,1300,01 Mar 2015
+682,Hyderabad,Bowenpally,Onion,Onion,Medium,1600,3600,3000,25 Aug 2015
+683,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,01 Jul 2015
+684,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,27 Jun 2015
+685,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,22,28,25,18 Jul 2015
+686,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,19 Aug 2015
+687,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,20 Aug 2015
+688,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Small,21,28,24,09 Jul 2015
+689,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,06 Jan 2015
+690,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,17 Oct 2014
+691,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,13 Apr 2015
+692,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,17 Apr 2015
+693,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,09 Jul 2015
+694,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,24 Apr 2015
+695,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,25 Mar 2015
+696,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,29 May 2015
+697,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,31 Dec 2014
+698,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1600,1050,25 Jun 2015
+699,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,750,08 Apr 2015
+700,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,26 May 2015
+701,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,04 Jun 2015
+702,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,500,6000,5500,26 Aug 2015
+703,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1800,1400,25 May 2015
+704,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,2300,2100,03 Feb 2015
+705,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1900,1500,12 Mar 2015
+706,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2300,1700,24 Jun 2015
+707,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,12 May 2015
+708,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,1900,1600,18 Nov 2014
+709,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2100,1700,10 Oct 2014
+710,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2100,1700,30 Dec 2014
+711,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,1900,1600,03 Mar 2015
+712,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1700,21 Oct 2014
+713,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2200,1900,28 Oct 2014
+714,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2000,3500,2700,31 Jul 2015
+715,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,3200,4200,3800,10 Aug 2015
+716,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,3200,4200,3800,11 Aug 2015
+717,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,1900,1700,11 Sep 2014
+718,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1500,2000,1750,17 Oct 2014
+719,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1900,2300,2100,24 Dec 2014
+720,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4500,5500,5000,31 Aug 2015
+721,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4500,6000,5200,25 Aug 2015
+722,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4800,6000,5500,27 Aug 2015
+723,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,700,500,01 Apr 2015
+724,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,900,600,22 Apr 2015
+725,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,09 Jan 2015
+726,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1000,750,18 Oct 2014
+727,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,04 Jul 2015
+728,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1400,1000,05 Nov 2014
+729,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,650,900,900,27 May 2015
+730,Mahbubnagar,Kalwakurthy,Onion,Local,Medium,90,90,90,12 Nov 2014
+731,Nizamabad,Nizamabad,Onion,Red,Medium,950,1080,1010,31 Jan 2015
+732,Nizamabad,Nizamabad,Onion,White,Medium,1430,1430,1430,09 Jan 2015
+733,Medak,Sadasivpet,Onion,Local,FAQ,400,1300,850,04 May 2015
+734,Medak,Sadasivpet,Onion,Local,FAQ,700,1175,937,26 May 2015
+735,Medak,Sadasivpet,Onion,Local,FAQ,779,1444,1111,16 May 2015
+736,Medak,Sadasivpet,Onion,Local,FAQ,1020,2231,1627,17 Jun 2015
+737,Medak,Sadasivpet,Onion,Local,FAQ,1201,1201,1201,12 Feb 2015
+738,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,07 Jul 2015
+739,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,20 Jul 2015
+740,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,4000,4000,4000,26 Jul 2015
+741,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Medium,2400,2400,2400,04 Jun 2015
+742,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Medium,2400,2400,2400,05 Jun 2015
+743,Adilabad,Adilabad(Rythu Bazar),Onion,Other,Medium,2500,2500,2500,11 Jun 2015
+744,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,12 Aug 2015
+745,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,25 Jun 2015
+746,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3300,3300,3300,30 Jul 2015
+747,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1000,800,10 May 2015
+748,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1500,1200,20 Mar 2015
+749,Hyderabad,Bowenpally,Onion,Onion,Medium,500,800,700,06 Oct 2014
+750,Hyderabad,Bowenpally,Onion,Onion,Medium,600,700,650,09 Jun 2015
+751,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,11 May 2015
+752,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1200,1000,25 Jan 2015
+753,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1500,1200,17 Jun 2015
+754,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1000,1000,30 Aug 2015
+755,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1500,1300,20 Dec 2014
+756,Hyderabad,Bowenpally,Onion,Onion,Medium,1500,2200,2000,20 Jul 2015
+757,Hyderabad,Bowenpally,Onion,Onion,Medium,2600,3600,3300,20 Aug 2015
+758,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,02 Jul 2015
+759,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,22,28,25,15 Jul 2015
+760,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,30 Jul 2015
+761,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,19,25,22,14 Jun 2015
+762,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,27,34,30,25 Aug 2015
+763,Hyderabad,Gudimalkapur,Onion,2nd Sort,Medium,500,1000,750,18 Dec 2014
+764,Hyderabad,Gudimalkapur,Onion,Onion,Large,800,1200,1000,02 Apr 2015
+765,Hyderabad,Gudimalkapur,Onion,Onion,Medium,42,1500,1050,04 Jul 2015
+766,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,600,450,21 Mar 2015
+767,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1200,750,09 Feb 2015
+768,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,01 Mar 2015
+769,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,08 Mar 2015
+770,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,13 Oct 2014
+771,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,23 Sep 2014
+772,Hyderabad,Gudimalkapur,Onion,Onion,Medium,400,800,600,16 May 2015
+773,Hyderabad,Gudimalkapur,Onion,Onion,Medium,400,1000,700,13 May 2015
+774,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,06 Apr 2015
+775,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,20 Apr 2015
+776,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1600,1050,10 Mar 2015
+777,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,2000,1250,15 Jul 2015
+778,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,08 May 2015
+779,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,12 May 2015
+780,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,24 May 2015
+781,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,29 Apr 2015
+782,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,27 Feb 2015
+783,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,25 Feb 2015
+784,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3500,3000,15 Aug 2015
+785,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Large,1100,2200,1600,09 Jun 2015
+786,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,900,1700,1200,13 Nov 2014
+787,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,2000,1500,29 Jun 2015
+788,Adilabad,Adilabad(Rythu Bazar),Onion,1st Sort,Large,3800,3800,3800,04 Aug 2015
+789,Adilabad,Adilabad(Rythu Bazar),Onion,New Pune,Large,2500,2500,2500,25 Jun 2015
+790,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,18 Jun 2015
+791,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,3000,3000,3000,24 Jul 2015
+792,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,3800,3800,3800,15 Aug 2015
+793,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,4000,4000,4000,27 Jul 2015
+794,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Medium,2500,2500,2500,06 Jun 2015
+795,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,30 Jun 2015
+796,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3300,3300,3300,02 Aug 2015
+797,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3800,3800,3800,25 Jul 2015
+798,Hyderabad,Bowenpally,Onion,Onion,Medium,400,800,600,21 Feb 2015
+799,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1100,10 Mar 2015
+800,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,13 Apr 2015
+801,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,21 Jul 2015
+802,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,22 Feb 2015
+803,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1200,15 Apr 2015
+804,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1700,1200,21 Jun 2015
+805,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1100,900,23 Apr 2015
+806,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1600,1200,09 Mar 2015
+807,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1500,1300,25 Jun 2015
+808,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,2000,1800,22 Jul 2015
+809,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,2200,2000,03 Sep 2014
+810,Hyderabad,Bowenpally,Onion,Onion,Medium,2000,4200,3600,27 Aug 2015
+811,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,19,25,22,15 Jun 2015
+812,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,23 Jun 2015
+813,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,24 Jun 2015
+814,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,25,32,28,22 Jul 2015
+815,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,13 Aug 2015
+816,Hyderabad,Gudimalkapur,Onion,Onion,Large,400,1000,700,11 Apr 2015
+817,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,11 Sep 2014
+818,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,15 Jun 2015
+819,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,19 May 2015
+820,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1600,1100,03 Jun 2015
+821,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3000,2250,08 Aug 2015
+822,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3000,2250,28 Jul 2015
+823,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2000,4500,3500,27 Aug 2015
+824,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,650,1200,825,13 Jan 2015
+825,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1800,1450,20 May 2015
+826,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,2000,1500,16 Oct 2014
+827,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,2300,1650,22 Jun 2015
+828,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2100,1600,16 Feb 2015
+829,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2100,1600,19 Feb 2015
+830,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,19 Jan 2015
+831,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,12 Jun 2015
+832,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,17 Jun 2015
+833,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,1900,1600,19 Nov 2014
+834,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1700,03 Nov 2014
+835,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1500,2100,1800,05 Nov 2014
+836,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,06 Jan 2015
+837,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,07 Jan 2015
+838,Adilabad,Adilabad(Rythu Bazar),Onion,1st Sort,Large,3800,3800,3800,05 Aug 2015
+839,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,4000,4000,4000,28 Jul 2015
+840,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Medium,2400,2400,2400,03 Jun 2015
+841,Adilabad,Adilabad(Rythu Bazar),Onion,Other,Large,2500,2500,2500,30 Jun 2015
+842,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,04 Jul 2015
+843,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,09 Jul 2015
+844,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2500,2500,2500,24 Jul 2015
+845,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1000,800,23 May 2015
+846,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1200,900,02 Nov 2014
+847,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1200,1000,13 May 2015
+848,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,04 Jul 2015
+849,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,22 Mar 2015
+850,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,29 Jan 2015
+851,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,16 Apr 2015
+852,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1400,1200,06 Dec 2014
+853,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1500,1200,27 Jun 2015
+854,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1500,1300,11 Mar 2015
+855,Hyderabad,Bowenpally,Onion,Onion,Medium,1500,3500,2800,15 Aug 2015
+856,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,21,28,24,18 Jun 2015
+857,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,27,34,30,27 Aug 2015
+858,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,32,38,35,03 Aug 2015
+859,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,27,34,30,01 Sep 2015
+860,Hyderabad,Erragadda(Rythu Bazar),Onion,Other,Medium,30,38,35,04 Aug 2015
+861,Hyderabad,Gudimalkapur,Onion,Onion,Large,500,1500,1000,06 Apr 2015
+862,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,17 Dec 2014
+863,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,17 Feb 2015
+864,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,17 Sep 2014
+865,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,19 Sep 2014
+866,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,07 Jun 2015
+867,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,13 Mar 2015
+868,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,23 Jun 2015
+869,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,28 May 2015
+870,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,30 Jan 2015
+871,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,30 Jun 2015
+872,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,17 May 2015
+873,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1500,1050,04 Dec 2014
+874,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1700,1150,24 Jun 2015
+875,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,2000,1300,03 Sep 2014
+876,Hyderabad,Gudimalkapur,Onion,Onion,Medium,800,1200,1000,22 Dec 2014
+877,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,1000,1000,24 Mar 2015
+878,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1500,3000,2000,02 Aug 2015
+879,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1600,3000,2300,09 Aug 2015
+880,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2000,2000,2000,29 Dec 2014
+881,Hyderabad,Gudimalkapur,Onion,Onion,Medium,2000,4500,3500,28 Aug 2015
+882,Hyderabad,Gudimalkapur,Onion,Onion,Medium,3000,5000,3500,29 Aug 2015
+883,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Large,1200,2300,1750,06 Jun 2015
+884,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,600,1200,900,25 Mar 2015
+885,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,800,1400,1200,01 Apr 2015
+886,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,1400,1200,27 Apr 2015
+887,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,2400,1700,20 Jun 2015
+888,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,900,600,27 Apr 2015
+889,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,27 Nov 2014
+890,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1200,750,18 Nov 2014
+891,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1200,750,24 Feb 2015
+892,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,4200,750,19 Nov 2014
+893,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,09 Apr 2015
+894,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,20 Dec 2014
+895,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,21 Jan 2015
+896,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,29 Apr 2015
+897,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1200,800,07 Jan 2015
+898,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1200,800,28 Apr 2015
+899,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1000,750,31 Dec 2014
+900,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1500,1000,21 Feb 2015
+901,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,900,750,22 Jun 2015
+902,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,12 Dec 2014
+903,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,27 Jun 2015
+904,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1000,900,13 May 2015
+905,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1800,1300,06 Feb 2015
+906,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,900,1100,1000,08 Jul 2015
+907,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,900,1100,1000,10 Jun 2015
+908,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,900,1100,1000,11 Jun 2015
+909,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1500,3000,2500,13 Aug 2015
+910,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,4900,4600,24 Aug 2015
+911,Hyderabad,Hyderabad (F&V),Onion,Onion,Medium,1200,2400,1800,10 Jun 2015
+912,Mahbubnagar,Kalwakurthy,Onion,Onion,Medium,130,130,130,30 Apr 2015
+913,Nizamabad,Nizamabad,Onion,White,Medium,1000,1600,1505,02 Feb 2015
+914,Nizamabad,Nizamabad,Onion,White,Medium,4500,5900,5075,23 Apr 2015
+915,Medak,Sadasivpet,Onion,Local,FAQ,699,1124,911,03 Dec 2014
+916,Medak,Sadasivpet,Onion,Local,FAQ,759,1335,1047,10 Dec 2014
+917,Medak,Sadasivpet,Onion,Local,FAQ,765,1285,1025,24 Apr 2015
+918,Medak,Sadasivpet,Onion,Local,FAQ,785,1313,1049,20 May 2015
+919,Medak,Sadasivpet,Onion,Local,FAQ,788,1080,934,27 Mar 2015
+920,Medak,Sadasivpet,Onion,Local,FAQ,889,899,894,21 Nov 2014
+921,Medak,Sadasivpet,Onion,Local,FAQ,900,2055,1477,04 Jul 2015
+922,Medak,Sadasivpet,Onion,Local,FAQ,1069,1524,1296,14 Mar 2015
+923,Medak,Sadasivpet,Onion,Local,FAQ,1099,1570,1334,02 Feb 2015
+924,Medak,Sadasivpet,Onion,Local,FAQ,1100,1100,1100,01 Dec 2014
+925,Medak,Sadasivpet,Onion,Local,FAQ,1374,1659,1516,20 Sep 2014
+926,Medak,Sadasivpet,Onion,Local,FAQ,1528,1822,1675,18 Jun 2015
+927,Medak,Sadasivpet,Onion,Local,FAQ,1600,3586,2593,29 Jul 2015
+928,Medak,Sadasivpet,Onion,Local,FAQ,1805,3560,2682,05 Aug 2015
+929,Medak,Sadasivpet,Onion,Local,FAQ,1810,3210,2510,01 Aug 2015
+930,Medak,Sadasivpet,Onion,Local,FAQ,2915,5700,4800,22 Aug 2015
+931,Ranga Reddy,Shankarapally,Onion,Local,Medium,2700,3100,2900,26 Jul 2015
+932,Ranga Reddy,Shankarapally,Onion,Onion,Medium,810,1200,1005,24 May 2015
+933,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1000,1400,1200,01 Apr 2015
+934,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1100,1400,1250,08 Apr 2015
+935,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,02 Jul 2015
+936,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,11 Jul 2015
+937,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2200,2200,2200,18 Jul 2015
+938,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,16 Jun 2015
+939,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Medium,2500,2500,2500,09 Jun 2015
+940,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,22 Jul 2015
+941,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,24 Jun 2015
+942,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,27 Jun 2015
+943,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,3300,3300,3300,28 Jul 2015
+944,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1000,800,03 Mar 2015
+945,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1000,800,15 May 2015
+946,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1000,800,29 May 2015
+947,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1200,1000,01 Jan 2015
+948,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1200,1000,30 May 2015
+949,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1300,1000,21 Nov 2014
+950,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1500,1100,23 Jan 2015
+951,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,18 Oct 2014
+952,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,05 Feb 2015
+953,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,02 Apr 2015
+954,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1400,1200,08 Feb 2015
+955,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1100,25 Mar 2015
+956,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1200,14 Feb 2015
+957,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1500,1200,30 Jun 2015
+958,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1200,1000,19 May 2015
+959,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1800,1600,10 Jun 2015
+960,Hyderabad,Bowenpally,Onion,Onion,Medium,800,1400,1200,17 Sep 2014
+961,Hyderabad,Bowenpally,Onion,Onion,Medium,800,3200,2800,26 Jul 2015
+962,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1200,1100,08 Jun 2015
+963,Hyderabad,Bowenpally,Onion,Onion,Medium,1000,1500,1300,24 Jun 2015
+964,Hyderabad,Bowenpally,Onion,Onion,Medium,1200,2300,2000,19 Jul 2015
+965,Hyderabad,Bowenpally,Onion,Onion,Medium,1500,2500,2200,19 Aug 2015
+966,Hyderabad,Bowenpally,Onion,Onion,Medium,1500,2800,2400,24 Jul 2015
+967,Hyderabad,Bowenpally,Onion,Onion,Medium,1500,3000,2500,13 Aug 2015
+968,Hyderabad,Gudimalkapur,Onion,Onion,Medium,200,1600,1050,26 Sep 2014
+969,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,02 Dec 2014
+970,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,10 Oct 2014
+971,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,11 Feb 2015
+972,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,20 Dec 2014
+973,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1500,900,21 Jan 2015
+974,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,14 Apr 2015
+975,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,26 Jun 2015
+976,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,1500,1250,16 Mar 2015
+977,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,1800,1400,01 Jun 2015
+978,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,2000,1500,22 Feb 2015
+979,Hyderabad,Gudimalkapur,Onion,Onion,Medium,1000,3000,2000,29 Jul 2015
+980,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,900,1300,1100,14 May 2015
+981,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,1900,1700,05 Mar 2015
+982,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1700,03 Dec 2014
+983,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1700,15 Dec 2014
+984,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1700,27 Oct 2014
+985,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1700,25 Feb 2015
+986,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1500,2100,1600,18 Oct 2014
+987,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,10 Sep 2014
+988,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2200,1900,10 Nov 2014
+989,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,200,600,400,19 Mar 2015
+990,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,02 Mar 2015
+991,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1200,750,23 Feb 2015
+992,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1200,750,25 Feb 2015
+993,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1300,800,17 Nov 2014
+994,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,800,600,30 Mar 2015
+995,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,900,650,23 Dec 2014
+996,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,10 Apr 2015
+997,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,12 Feb 2015
+998,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,13 Mar 2015
+999,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,900,700,25 May 2015
+1000,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1700,1100,24 Dec 2014
+1001,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1000,900,12 May 2015
+1002,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,900,1600,1200,15 Dec 2014
+1003,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,2000,4200,3500,18 Aug 2015
+1004,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,4400,3800,01 Sep 2015
+1005,Mahbubnagar,Kalwakurthy,Onion,Local,Medium,120,120,120,21 Nov 2014
+1006,Nizamabad,Nizamabad,Onion,White,Medium,850,1345,1100,16 Mar 2015
+1007,Nizamabad,Nizamabad,Onion,White,Medium,900,1400,1400,24 Apr 2015
+1008,Nizamabad,Nizamabad,Onion,White,Medium,1000,1460,1435,12 Feb 2015
+1009,Medak,Sadasivpet,Onion,Local,FAQ,549,860,704,12 Nov 2014
+1010,Medak,Sadasivpet,Onion,Local,FAQ,699,874,786,24 Nov 2014
+1011,Medak,Sadasivpet,Onion,Local,FAQ,700,1580,1140,06 Jul 2015
+1012,Medak,Sadasivpet,Onion,Local,FAQ,704,1000,852,13 Dec 2014
+1013,Medak,Sadasivpet,Onion,Local,FAQ,730,1080,905,26 Mar 2015
+1014,Medak,Sadasivpet,Onion,Local,FAQ,804,1334,1069,19 May 2015
+1015,Medak,Sadasivpet,Onion,Local,FAQ,816,1319,1067,01 Apr 2015
+1016,Medak,Sadasivpet,Onion,Local,FAQ,849,1400,1124,19 Mar 2015
+1017,Medak,Sadasivpet,Onion,Local,FAQ,1000,2201,1601,13 Jun 2015
+1018,Medak,Sadasivpet,Onion,Local,FAQ,1161,2150,1675,24 Jun 2015
+1019,Medak,Sadasivpet,Onion,Local,FAQ,1210,1210,1210,07 Nov 2014
+1020,Medak,Sadasivpet,Onion,Local,FAQ,1319,1510,1414,02 Mar 2015
+1021,Medak,Sadasivpet,Onion,Local,FAQ,1599,1599,1599,05 Feb 2015
+1022,Medak,Sadasivpet,Onion,Local,FAQ,3230,4399,4000,26 Aug 2015
+1023,Medak,Sadasivpet,Onion,Local,FAQ,3500,4205,3700,28 Aug 2015
+1024,Medak,Sadasivpet,Onion,Local,FAQ,5749,5749,5749,10 Apr 2015
+1025,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1500,2000,1750,01 Jul 2015
+1026,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1600,2000,1800,24 Jun 2015
+1027,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1610,2500,2055,19 Jul 2015
+1028,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1700,1400,05 May 2015
+1029,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2300,1700,19 Jun 2015
+1030,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1600,1400,10 Apr 2015
+1031,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1600,1400,15 Apr 2015
+1032,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,09 Oct 2014
+1033,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,31 Dec 2014
+1034,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,1700,1500,28 Apr 2015
+1035,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2100,1700,15 Oct 2014
+1036,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1700,28 Feb 2015
+1037,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1800,2300,1900,07 Feb 2015
+1038,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4000,5200,4800,19 Aug 2015
+1039,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,600,450,24 Mar 2015
+1040,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,900,600,24 Apr 2015
+1041,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1300,800,17 Dec 2014
+1042,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,900,700,21 Apr 2015
+1043,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,07 Mar 2015
+1044,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,19 May 2015
+1045,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1100,750,14 Mar 2015
+1046,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1600,1000,02 Feb 2015
+1047,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1000,750,29 Dec 2014
+1048,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1300,900,16 Dec 2014
+1049,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1200,900,16 Apr 2015
+1050,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1200,900,27 Jan 2015
+1051,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,700,1300,1000,14 Jul 2015
+1052,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,900,1100,1000,26 Nov 2014
+1053,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1200,2000,1600,30 Jul 2015
+1054,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1500,3000,2500,12 Aug 2015
+1055,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1500,3100,2600,11 Aug 2015
+1056,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,4500,4000,29 Aug 2015
+1057,Hyderabad,Hyderabad (F&V),Onion,Onion,Medium,600,1200,900,21 Nov 2014
+1058,Mahbubnagar,Mahbubnagar,Onion,Local,FAQ,400,1000,1000,11 Apr 2015
+1059,Nizamabad,Nizamabad,Onion,Red,Medium,1100,1390,1390,09 Mar 2015
+1060,Nizamabad,Nizamabad,Onion,White,Medium,935,1200,1140,27 Mar 2015
+1061,Nizamabad,Nizamabad,Onion,White,Medium,1000,1485,1300,06 Apr 2015
+1062,Medak,Sadasivpet,Onion,Local,FAQ,769,1359,1064,29 May 2015
+1063,Medak,Sadasivpet,Onion,Local,FAQ,853,1299,1076,23 Apr 2015
+1064,Medak,Sadasivpet,Onion,Local,FAQ,884,1799,1341,19 Nov 2014
+1065,Medak,Sadasivpet,Onion,Local,FAQ,900,1459,1179,15 Apr 2015
+1066,Medak,Sadasivpet,Onion,Local,FAQ,940,1500,1220,07 May 2015
+1067,Medak,Sadasivpet,Onion,Local,FAQ,943,1380,1161,07 Jan 2015
+1068,Medak,Sadasivpet,Onion,Local,FAQ,1100,1985,1501,21 Feb 2015
+1069,Ranga Reddy,Shankarapally,Onion,Onion,Medium,800,1250,1025,22 Mar 2015
+1070,Ranga Reddy,Shankarapally,Onion,Onion,Medium,800,1400,1100,06 May 2015
+1071,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1800,2400,2100,15 Jul 2015
+1072,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,26 Feb 2015
+1073,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,12 Nov 2014
+1074,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,23 May 2015
+1075,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1200,800,22 Jan 2015
+1076,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,900,750,23 Jun 2015
+1077,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1200,900,28 Jan 2015
+1078,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1600,1200,21 Jul 2015
+1079,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1800,1300,04 Feb 2015
+1080,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1000,1900,1500,01 Aug 2015
+1081,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1600,3000,2300,07 Aug 2015
+1082,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,3900,3700,19 Aug 2015
+1083,Hyderabad,Hyderabad (F&V),Onion,Onion,Medium,1700,2100,1900,30 Jan 2015
+1084,Mahbubnagar,Kalwakurthy,Onion,Onion,Medium,120,120,120,09 May 2015
+1085,Nizamabad,Nizamabad,Onion,Red,Medium,610,890,640,02 Apr 2015
+1086,Nizamabad,Nizamabad,Onion,White,Medium,920,1225,1130,30 Mar 2015
+1087,Medak,Sadasivpet,Onion,Local,FAQ,900,1618,1259,01 Nov 2014
+1088,Medak,Sadasivpet,Onion,Local,FAQ,907,1539,1223,27 May 2015
+1089,Medak,Sadasivpet,Onion,Local,FAQ,907,1554,1230,08 May 2015
+1090,Medak,Sadasivpet,Onion,Local,FAQ,950,2059,1500,05 Jun 2015
+1091,Medak,Sadasivpet,Onion,Local,FAQ,1049,1780,1414,04 Feb 2015
+1092,Medak,Sadasivpet,Onion,Local,FAQ,1144,1523,1333,17 Jan 2015
+1093,Medak,Sadasivpet,Onion,Local,FAQ,1505,1505,1505,22 Jan 2015
+1094,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1300,1600,1450,08 Mar 2015
+1095,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,21 Jan 2015
+1096,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2000,2400,2200,29 Oct 2014
+1097,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2000,3500,2600,28 Jul 2015
+1098,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,3000,4000,3500,05 Aug 2015
+1099,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,10 Mar 2015
+1100,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,21 May 2015
+1101,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1600,1000,30 Jan 2015
+1102,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1000,750,01 Dec 2014
+1103,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,700,1100,900,03 Jul 2015
+1104,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1500,1150,01 Sep 2014
+1105,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,900,1100,1000,25 Jun 2015
+1106,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1000,1800,1400,25 Jul 2015
+1107,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1000,1900,1500,24 Jul 2015
+1108,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,4000,3700,20 Aug 2015
+1109,Mahbubnagar,Kalwakurthy,Onion,Onion,Medium,120,120,120,02 May 2015
+1110,Medak,Sadasivpet,Onion,Local,FAQ,600,1425,1013,29 Apr 2015
+1111,Medak,Sadasivpet,Onion,Local,FAQ,644,1297,970,30 Apr 2015
+1112,Medak,Sadasivpet,Onion,Local,FAQ,889,1569,1229,21 Jan 2015
+1113,Medak,Sadasivpet,Onion,Local,FAQ,1225,1609,1417,28 Feb 2015
+1114,Medak,Sadasivpet,Onion,Local,FAQ,1259,1589,1424,27 Feb 2015
+1115,Medak,Sadasivpet,Onion,Local,FAQ,1300,3031,2500,22 Jul 2015
+1116,Medak,Sadasivpet,Onion,Local,FAQ,1336,1498,1417,26 Feb 2015
+1117,Medak,Sadasivpet,Onion,Local,FAQ,1413,1765,1589,23 Feb 2015
+1118,Medak,Sadasivpet,Onion,Local,FAQ,1595,2231,1913,20 Jul 2015
+1119,Ranga Reddy,Shankarapally,Onion,Onion,Medium,800,1100,950,29 Apr 2015
+1120,Ranga Reddy,Shankarapally,Onion,Onion,Medium,900,1400,1150,17 May 2015
+1121,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1400,1860,1655,03 Jun 2015
+1122,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1400,1900,1650,14 Jun 2015
+1123,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1500,1800,1650,08 Jul 2015
+1124,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1500,2000,1800,21 Jun 2015
+1125,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,12 Nov 2014
+1126,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,15 May 2015
+1127,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,1700,1500,02 Dec 2014
+1128,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,1600,1500,17 Mar 2015
+1129,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,1800,1600,25 Nov 2014
+1130,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2000,1800,12 Sep 2014
+1131,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2100,1750,23 Feb 2015
+1132,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1450,1800,1600,20 Oct 2014
+1133,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1500,2500,2000,20 Jul 2015
+1134,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1700,2100,1900,31 Jan 2015
+1135,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2000,3500,2700,01 Aug 2015
+1136,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2100,2900,2500,22 Jul 2015
+1137,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2300,3100,2700,23 Jul 2015
+1138,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,3300,4400,3800,13 Aug 2015
+1139,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,200,600,400,23 Mar 2015
+1140,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,800,600,25 Apr 2015
+1141,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,02 Apr 2015
+1142,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1100,750,22 May 2015
+1143,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1400,900,01 Nov 2014
+1144,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,800,29 Nov 2014
+1145,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,01 Jul 2015
+1146,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,09 Jun 2015
+1147,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,15 Jun 2015
+1148,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,850,1600,1100,03 Jun 2015
+1149,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1200,2000,1600,29 Jul 2015
+1150,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1200,4287,1600,02 Sep 2014
+1151,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,4800,4500,21 Aug 2015
+1152,Hyderabad,Hyderabad (F&V),Onion,Onion,Medium,750,1500,1000,15 Dec 2014
+1153,Medak,Jogipet,Onion,Local,FAQ,900,900,900,19 Apr 2015
+1154,Nizamabad,Nizamabad,Onion,Red,Medium,1305,1350,1340,07 Mar 2015
+1155,Nizamabad,Nizamabad,Onion,White,Medium,750,1250,1170,07 Apr 2015
+1156,Nizamabad,Nizamabad,Onion,White,Medium,1050,1300,1200,11 Mar 2015
+1157,Nizamabad,Nizamabad,Onion,White,Medium,1050,1410,1350,03 Apr 2015
+1158,Medak,Sadasivpet,Onion,Local,FAQ,624,1429,1026,06 May 2015
+1159,Medak,Sadasivpet,Onion,Local,FAQ,791,1379,1085,02 May 2015
+1160,Medak,Sadasivpet,Onion,Local,FAQ,804,1400,1102,09 Apr 2015
+1161,Medak,Sadasivpet,Onion,Local,FAQ,909,909,909,31 Oct 2014
+1162,Medak,Sadasivpet,Onion,Local,FAQ,914,1704,1309,10 Sep 2014
+1163,Medak,Sadasivpet,Onion,Local,FAQ,1050,1598,1324,11 Jun 2015
+1164,Medak,Sadasivpet,Onion,Local,FAQ,1074,1479,1276,28 Jan 2015
+1165,Medak,Sadasivpet,Onion,Local,FAQ,1080,2361,1720,15 Jul 2015
+1166,Medak,Sadasivpet,Onion,Local,FAQ,1100,1741,1420,09 Jun 2015
+1167,Medak,Sadasivpet,Onion,Local,FAQ,1124,1483,1303,12 Mar 2015
+1168,Medak,Sadasivpet,Onion,Local,FAQ,1287,1410,1348,10 Mar 2015
+1169,Medak,Sadasivpet,Onion,Local,FAQ,1399,1964,1681,07 Feb 2015
+1170,Medak,Sadasivpet,Onion,Local,FAQ,1600,3111,2355,25 Jul 2015
+1171,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1430,1960,1690,28 Jun 2015
+1172,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1500,3690,3310,05 Aug 2015
+1173,Ranga Reddy,Shankarapally,Onion,Onion,Medium,2500,2750,2625,22 Jul 2015
+1174,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,22 May 2015
+1175,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,29 Nov 2014
+1176,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,09 Feb 2015
+1177,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,10 Feb 2015
+1178,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,29 Dec 2014
+1179,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,10 Jun 2015
+1180,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2400,1800,11 Jul 2015
+1181,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2200,1800,17 Dec 2014
+1182,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1500,2100,1800,04 Mar 2015
+1183,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,09 Sep 2014
+1184,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2400,3600,3000,04 Aug 2015
+1185,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,3200,4200,3700,06 Aug 2015
+1186,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,4800,6000,5200,29 Aug 2015
+1187,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,20 Nov 2014
+1188,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,300,1100,700,27 Feb 2015
+1189,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1100,750,02 Jan 2015
+1190,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1100,750,06 Apr 2015
+1191,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,800,09 Feb 2015
+1192,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,800,10 Feb 2015
+1193,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1800,1200,07 Feb 2015
+1194,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1600,3000,2300,06 Aug 2015
+1195,Hyderabad,L B Nagar,Onion,Onion,Medium,2000,2000,2000,09 Aug 2015
+1196,Nizamabad,Nizamabad,Onion,White,Medium,750,1245,1175,25 Mar 2015
+1197,Nizamabad,Nizamabad,Onion,White,Medium,905,1275,1140,31 Mar 2015
+1198,Nizamabad,Nizamabad,Onion,White,Medium,950,1330,1100,09 Apr 2015
+1199,Nizamabad,Nizamabad,Onion,White,Medium,980,1465,1350,07 Mar 2015
+1200,Nizamabad,Nizamabad,Onion,White,Medium,1300,1580,1500,31 Jan 2015
+1201,Nizamabad,Nizamabad,Onion,White,Medium,1355,1500,1400,14 Feb 2015
+1202,Medak,Sadasivpet,Onion,Local,FAQ,249,1199,724,27 Apr 2015
+1203,Medak,Sadasivpet,Onion,Local,FAQ,624,1185,889,14 May 2015
+1204,Medak,Sadasivpet,Onion,Local,FAQ,1142,1618,1380,11 Mar 2015
+1205,Ranga Reddy,Shankarapally,Onion,Onion,Medium,920,1130,1125,19 Apr 2015
+1206,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1000,1400,1200,15 Apr 2015
+1207,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2200,1800,16 Dec 2014
+1208,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,05 Jan 2015
+1209,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1600,2000,1800,08 Jan 2015
+1210,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1700,2300,2000,02 Sep 2014
+1211,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1800,2300,1900,04 Feb 2015
+1212,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1800,2400,2100,11 Nov 2014
+1213,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1800,3200,2400,27 Jul 2015
+1214,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,3200,4200,3700,07 Aug 2015
+1215,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,3200,4200,3800,08 Aug 2015
+1216,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Large,1200,2300,2000,03 Aug 2015
+1217,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,900,650,13 Apr 2015
+1218,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,17 Mar 2015
+1219,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1200,800,02 Dec 2014
+1220,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1200,800,05 Jan 2015
+1221,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1200,800,23 Jan 2015
+1222,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1100,800,11 Feb 2015
+1223,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,500,1200,800,29 May 2015
+1224,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,26 May 2015
+1225,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1100,850,06 Jun 2015
+1226,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1100,850,15 Jul 2015
+1227,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1000,900,04 Dec 2014
+1228,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1800,1300,03 Feb 2015
+1229,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1100,1900,1500,31 Jul 2015
+1230,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1300,2100,1700,23 Jul 2015
+1231,Mahbubnagar,Mahbubnagar,Onion,Local,FAQ,1040,1400,1300,24 Mar 2015
+1232,Nizamabad,Nizamabad,Onion,White,Medium,820,1510,1300,27 Feb 2015
+1233,Nizamabad,Nizamabad,Onion,White,Medium,945,1310,1235,23 Mar 2015
+1234,Nizamabad,Nizamabad,Onion,White,Medium,1200,1440,1300,28 Feb 2015
+1235,Nizamabad,Nizamabad,Onion,White,Medium,1200,1455,1380,09 Mar 2015
+1236,Medak,Sadasivpet,Onion,Local,FAQ,624,1429,1026,06 Jun 2015
+1237,Medak,Sadasivpet,Onion,Local,FAQ,782,1299,1040,21 Apr 2015
+1238,Medak,Sadasivpet,Onion,Local,FAQ,900,1616,1258,06 Sep 2014
+1239,Medak,Sadasivpet,Onion,Local,FAQ,1001,2399,1700,11 Jul 2015
+1240,Medak,Sadasivpet,Onion,Local,FAQ,3105,3105,3105,31 Aug 2015
+1241,Medak,Sadasivpet,Onion,Local,FAQ,3500,4150,3651,17 Aug 2015
+1242,Medak,Sadasivpet(Sangareddy),Onion,Medium,Medium,1200,1200,1200,22 Jul 2015
+1243,Ranga Reddy,Shankarapally,Onion,Onion,Medium,950,1225,1087,29 Mar 2015
+1244,Adilabad,Adilabad(Rythu Bazar),Onion,Local,Large,2500,2500,2500,29 Jun 2015
+1245,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,2500,2500,2500,21 Jun 2015
+1246,Adilabad,Adilabad(Rythu Bazar),Onion,Onion,Large,4000,4000,4000,30 Jul 2015
+1247,Adilabad,Adilabad(Rythu Bazar),Onion,Pusa-Red,Large,2000,2000,2000,03 Jul 2015
+1248,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2000,2000,2000,29 Jun 2015
+1249,Adilabad,Adilabad(Rythu Bazar),Onion,Red,Large,2500,2500,2500,23 Jul 2015
+1250,Hyderabad,Bowenpally,Onion,Onion,Medium,400,1000,800,18 Dec 2014
+1251,Hyderabad,Bowenpally,Onion,Onion,Medium,500,1500,1200,12 Feb 2015
+1252,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,800,24 Dec 2014
+1253,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1000,900,03 Jul 2015
+1254,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1200,1000,06 Apr 2015
+1255,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1300,1000,04 Apr 2015
+1256,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1400,1200,03 Dec 2014
+1257,Hyderabad,Bowenpally,Onion,Onion,Medium,600,1600,1200,11 Dec 2014
+1258,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1000,900,29 Jun 2015
+1259,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1500,1200,04 Feb 2015
+1260,Hyderabad,Bowenpally,Onion,Onion,Medium,700,1500,1200,20 Oct 2014
+1261,Hyderabad,Bowenpally,Onion,Onion,Medium,1700,3900,3000,07 Aug 2015
+1262,Hyderabad,Bowenpally,Onion,Onion,Medium,2000,4000,3500,29 Aug 2015
+1263,Hyderabad,Erragadda(Rythu Bazar),Onion,Onion,Medium,29,35,32,26 Jul 2015
+1264,Hyderabad,Gudimalkapur,Onion,Onion,Medium,200,400,300,07 Aug 2015
+1265,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1000,650,14 Oct 2014
+1266,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1200,750,07 Feb 2015
+1267,Hyderabad,Gudimalkapur,Onion,Onion,Medium,300,1800,1050,16 Oct 2014
+1268,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1000,750,03 Apr 2015
+1269,Hyderabad,Gudimalkapur,Onion,Onion,Medium,500,1500,1000,17 Jun 2015
+1270,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,800,700,12 Feb 2015
+1271,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1000,800,20 May 2015
+1272,Hyderabad,Gudimalkapur,Onion,Onion,Medium,600,1200,900,19 Jan 2015
+1273,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Large,1800,2200,2000,30 Oct 2014
+1274,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,800,1400,1100,19 Mar 2015
+1275,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1000,2000,1500,13 Feb 2015
+1276,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,1500,1300,02 Apr 2015
+1277,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1100,2400,1750,04 Jul 2015
+1278,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1600,1400,06 Dec 2014
+1279,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,1800,1500,09 Jan 2015
+1280,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,09 Mar 2015
+1281,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1200,2000,1600,14 Oct 2014
+1282,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,1700,1500,16 Apr 2015
+1283,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1300,2100,1700,13 Oct 2014
+1284,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,1800,1600,16 Mar 2015
+1285,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1400,2400,2000,03 Jun 2015
+1286,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,1900,3200,2500,25 Jul 2015
+1287,Hyderabad,Hyderabad (F&V),Onion,1st Sort,Medium,2100,3700,2900,30 Jul 2015
+1288,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,200,500,350,25 Mar 2015
+1289,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,800,600,13 Jan 2015
+1290,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,07 Apr 2015
+1291,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1000,700,19 Jan 2015
+1292,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,400,1200,800,19 Dec 2014
+1293,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,600,1000,800,05 Mar 2015
+1294,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,800,1000,900,19 Jun 2015
+1295,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,900,1100,1000,12 Jun 2015
+1296,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,1000,1353,1100,17 Jun 2015
+1297,Hyderabad,Hyderabad (F&V),Onion,2nd Sort,Medium,3000,4900,4600,22 Aug 2015
+1298,Mahbubnagar,Mahbubnagar,Onion,Local,FAQ,920,1215,1060,04 Apr 2015
+1299,Mahbubnagar,Mahbubnagar,Onion,Local,FAQ,980,1400,1300,15 Apr 2015
+1300,Mahbubnagar,Mahbubnagar,Onion,Local,FAQ,1000,1500,1300,07 Apr 2015
+1301,Nizamabad,Nizamabad,Onion,Red,Medium,1300,1300,1300,03 Feb 2015
+1302,Nizamabad,Nizamabad,Onion,White,Medium,1370,1610,1500,16 Feb 2015
+1303,Nizamabad,Nizamabad,Onion,White,Medium,1600,1600,1600,03 Feb 2015
+1304,Medak,Sadasivpet,Onion,Local,FAQ,704,1699,1201,13 Feb 2015
+1305,Medak,Sadasivpet,Onion,Local,FAQ,730,1284,1069,10 Jan 2015
+1306,Medak,Sadasivpet,Onion,Local,FAQ,850,1334,1092,13 May 2015
+1307,Medak,Sadasivpet,Onion,Local,FAQ,889,1279,1084,03 Jan 2015
+1308,Medak,Sadasivpet,Onion,Local,FAQ,892,1789,1340,10 Feb 2015
+1309,Medak,Sadasivpet,Onion,Local,FAQ,924,1911,1417,15 Jun 2015
+1310,Medak,Sadasivpet,Onion,Local,FAQ,960,1700,1330,17 Sep 2014
+1311,Medak,Sadasivpet,Onion,Local,FAQ,1029,1554,1291,04 Jun 2015
+1312,Medak,Sadasivpet,Onion,Local,FAQ,1180,1627,1403,31 Jan 2015
+1313,Medak,Sadasivpet,Onion,Local,FAQ,1200,2250,1755,20 Jun 2015
+1314,Medak,Sadasivpet,Onion,Local,FAQ,1209,1606,1407,07 Mar 2015
+1315,Medak,Sadasivpet,Onion,Local,Medium,1054,1774,1414,16 Feb 2015
+1316,Ranga Reddy,Shankarapally,Onion,Onion,Medium,800,1400,1100,27 May 2015
+1317,Ranga Reddy,Shankarapally,Onion,Onion,Medium,1500,1900,1700,17 Jun 2015

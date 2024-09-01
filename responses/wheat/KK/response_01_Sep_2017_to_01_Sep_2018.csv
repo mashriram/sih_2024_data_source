@@ -1,0 +1,2941 @@
+0,1,2,3,4,5,6,7,8,9
+1,Dharwad,Annigeri,Wheat,H.D.,FAQ,1700,1900,1800,28 Mar 2018
+2,Hassan,Arasikere,Wheat,Local,FAQ,2025,2175,2140,06 Dec 2017
+3,Bagalkot,Bagalakot,Wheat,Sona,Medium,1725,1725,1725,09 May 2018
+4,Bagalkot,Bagalakot,Wheat,Sona,Medium,1750,1750,1750,03 Jul 2018
+5,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,04 Nov 2017
+6,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,06 Sep 2017
+7,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,23 Nov 2017
+8,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,01 Sep 2018
+9,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,10 Jul 2018
+10,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,13 Aug 2018
+11,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,18 Jul 2018
+12,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,18 Jun 2018
+13,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,23 Jun 2018
+14,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,25 Aug 2018
+15,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,04 Apr 2018
+16,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,05 Apr 2018
+17,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,08 May 2018
+18,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,11 Dec 2017
+19,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,13 Mar 2018
+20,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,16 Mar 2018
+21,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,20 Jan 2018
+22,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,22 Feb 2018
+23,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,26 May 2018
+24,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,27 Mar 2018
+25,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,30 Apr 2018
+26,Bidar,Basava Kalayana,Wheat,Medium,FAQ,880,1200,1100,11 Oct 2017
+27,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1200,1100,04 Nov 2017
+28,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1261,1150,10 Oct 2017
+29,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1450,1300,28 Mar 2018
+30,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1150,1300,1200,13 Mar 2018
+31,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1150,1401,1350,13 Sep 2017
+32,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1500,1401,08 Sep 2017
+33,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1900,1800,26 Jul 2018
+34,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1850,1700,28 May 2018
+35,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1301,1501,1400,05 Feb 2018
+36,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1450,1350,11 Dec 2017
+37,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1351,1601,1351,20 Dec 2017
+38,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1400,1400,15 Dec 2017
+39,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1650,1500,12 Jan 2018
+40,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1920,1600,24 Nov 2017
+41,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1650,1500,10 Apr 2018
+42,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1700,1650,07 Apr 2018
+43,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1800,1700,23 Jun 2018
+44,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1671,1600,08 May 2018
+45,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1750,1600,12 Apr 2018
+46,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1780,1650,05 May 2018
+47,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1800,1720,22 Jun 2018
+48,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1550,1750,1600,30 Apr 2018
+49,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1650,1950,1800,26 Jul 2018
+50,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1900,1750,29 Aug 2018
+51,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,2100,2000,04 Aug 2018
+52,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1902,1902,1902,06 Feb 2018
+53,Shimoga,Bhadravathi,Wheat,Local,FAQ,2230,2800,2700,28 Mar 2018
+54,Shimoga,Bhadravathi,Wheat,Local,FAQ,2600,2600,2600,08 Feb 2018
+55,Shimoga,Bhadravathi,Wheat,Local,FAQ,2700,2700,2700,18 Sep 2017
+56,Bidar,Bidar,Wheat,Red,FAQ,1700,2400,2100,04 Jul 2018
+57,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,01 Aug 2018
+58,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,17 Jul 2018
+59,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,18 Jul 2018
+60,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2100,05 Apr 2018
+61,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2100,09 Jun 2018
+62,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,16 Nov 2017
+63,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2400,28 Oct 2017
+64,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2300,05 Feb 2018
+65,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2580,25 Jan 2018
+66,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,09 May 2018
+67,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,16 Apr 2018
+68,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,01 Mar 2018
+69,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,05 Mar 2018
+70,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,31 Mar 2018
+71,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,23 Sep 2017
+72,Bijapur,Bijapur,Wheat,Bansi,FAQ,3200,4000,3500,10 Jul 2018
+73,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,24 Jan 2018
+74,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,25 Oct 2017
+75,Bijapur,Bijapur,Wheat,Bansi,FAQ,4000,4500,4250,16 Oct 2017
+76,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,24 Mar 2018
+77,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1500,1350,28 Dec 2017
+78,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1500,1400,16 Apr 2018
+79,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1500,1400,29 Jan 2018
+80,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1600,1400,25 Jan 2018
+81,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1600,1500,04 Aug 2018
+82,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,05 Jul 2018
+83,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,07 Jun 2018
+84,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,10 Jul 2018
+85,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,11 Apr 2018
+86,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,14 May 2018
+87,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,19 Jun 2018
+88,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,21 Jun 2018
+89,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,23 Jun 2018
+90,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,04 Nov 2017
+91,Bijapur,Bijapur,Wheat,Sona,FAQ,2200,2500,2350,12 Jan 2018
+92,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,10 Aug 2018
+93,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,10 Nov 2017
+94,Dharwad,Dharwar,Wheat,H.D.,FAQ,1825,2411,2172,16 Mar 2018
+95,Gadag,Gadag,Wheat,White,FAQ,1169,3059,2338,20 Feb 2018
+96,Gadag,Gadag,Wheat,White,FAQ,1200,5012,2203,09 Oct 2017
+97,Gadag,Gadag,Wheat,White,FAQ,1360,3704,1528,30 Dec 2017
+98,Gadag,Gadag,Wheat,White,FAQ,1461,3649,1909,26 Feb 2018
+99,Gadag,Gadag,Wheat,White,FAQ,1467,2888,2461,23 Feb 2018
+100,Gadag,Gadag,Wheat,White,FAQ,1506,5251,2748,06 Oct 2017
+101,Gadag,Gadag,Wheat,White,FAQ,1527,5451,3546,25 Sep 2017
+102,Gadag,Gadag,Wheat,White,FAQ,1563,1800,1760,26 Apr 2018
+103,Gadag,Gadag,Wheat,White,FAQ,1566,4477,2283,26 Oct 2017
+104,Gadag,Gadag,Wheat,White,FAQ,1632,1662,1642,11 May 2018
+105,Gadag,Gadag,Wheat,White,FAQ,1652,2500,2086,06 Jul 2018
+106,Gadag,Gadag,Wheat,White,FAQ,1722,1806,1774,21 Jun 2018
+107,Gadag,Gadag,Wheat,White,FAQ,1729,1829,1779,14 Jun 2018
+108,Gadag,Gadag,Wheat,White,FAQ,1777,2089,1944,14 Aug 2018
+109,Gadag,Gadag,Wheat,White,FAQ,1786,5211,3357,04 Oct 2017
+110,Gadag,Gadag,Wheat,White,FAQ,1859,2551,2143,21 Jul 2018
+111,Gadag,Gadag,Wheat,White,FAQ,2006,2889,2218,25 Jul 2018
+112,Hassan,Arasikere,Wheat,Local,FAQ,2140,2140,2140,03 Jan 2018
+113,Bagalkot,Bagalakot,Wheat,Sona,Medium,1400,1400,1400,04 Dec 2017
+114,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,02 Nov 2017
+115,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,03 Nov 2017
+116,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,08 Nov 2017
+117,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,24 Oct 2017
+118,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,26 Sep 2017
+119,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,02 Jul 2018
+120,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,10 Aug 2018
+121,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,27 Aug 2018
+122,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,02 Feb 2018
+123,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,05 Dec 2017
+124,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,17 Mar 2018
+125,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,23 May 2018
+126,Bangalore,Bangalore,Wheat,Local,FAQ,2500,3400,2950,04 Sep 2017
+127,Bidar,Basava Kalayana,Wheat,Medium,FAQ,800,1300,1150,23 Sep 2017
+128,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1200,1100,27 Feb 2018
+129,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1375,1200,16 Dec 2017
+130,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1600,1450,05 Jul 2018
+131,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1150,1500,1450,23 Nov 2017
+132,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1451,1300,15 Sep 2017
+133,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1500,1400,14 May 2018
+134,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1700,1600,19 Jul 2018
+135,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1250,1600,1500,27 Nov 2017
+136,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1441,1350,16 Mar 2018
+137,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1871,1800,25 Jul 2018
+138,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1100,1500,1400,07 Nov 2017
+139,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1750,1450,18 Sep 2017
+140,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1900,1500,20 Mar 2018
+141,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1350,1350,12 Dec 2017
+142,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1500,1350,10 Nov 2017
+143,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1650,1500,18 May 2018
+144,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1425,1701,1510,08 Sep 2017
+145,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1681,1500,04 Apr 2018
+146,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1681,1550,24 Mar 2018
+147,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1800,1600,07 Dec 2017
+148,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1451,1451,1451,03 Jan 2018
+149,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1451,1800,1451,28 Nov 2017
+150,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1500,1500,02 Feb 2018
+151,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1850,1800,16 Jul 2018
+152,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1901,1810,05 Jul 2018
+153,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,2000,1800,17 Jul 2018
+154,Bellary,Bellary,Wheat,Sona,FAQ,1617,1617,1617,03 Mar 2018
+155,Shimoga,Bhadravathi,Wheat,Local,FAQ,2260,2800,2500,31 Oct 2017
+156,Shimoga,Bhadravathi,Wheat,Local,FAQ,2500,3065,2900,20 Jul 2018
+157,Shimoga,Bhadravathi,Wheat,Local,FAQ,2515,2515,2515,28 Aug 2018
+158,Bidar,Bidar,Wheat,Red,FAQ,1750,2500,2100,03 Jul 2018
+159,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,14 Jun 2018
+160,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,16 Aug 2018
+161,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,21 Aug 2018
+162,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2100,26 May 2018
+163,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2150,10 May 2018
+164,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2200,09 Apr 2018
+165,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2200,24 Mar 2018
+166,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2100,12 Apr 2018
+167,Koppal,Gangavathi,Wheat,Local,FAQ,1690,1720,1700,31 Mar 2018
+168,Koppal,Gangavathi,Wheat,Local,FAQ,1800,1800,1800,11 Apr 2018
+169,Hassan,Hassan,Wheat,Other,FAQ,2008,2008,2008,27 Dec 2017
+170,Hassan,Hassan,Wheat,Other,FAQ,2177,2500,2204,30 Apr 2018
+171,Bellary,Hospet,Wheat,Other,FAQ,2170,2215,2215,17 Jan 2018
+172,Bellary,Hospet,Wheat,Other,Medium,2185,2185,2185,22 Jan 2018
+173,Bellary,Hospet,Wheat,Super Fine,Medium,2165,2170,2170,18 Nov 2017
+174,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1369,2329,1609,26 Mar 2018
+175,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1409,2016,1901,10 May 2018
+176,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1458,2009,1675,26 May 2018
+177,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1209,2100,1721,14 Mar 2018
+178,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1302,2056,1729,12 Mar 2018
+179,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1650,2202,1652,07 Apr 2018
+180,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,2069,2069,2069,10 Aug 2018
+181,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1900,2200,2000,30 Apr 2018
+182,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,2000,2000,2000,22 Nov 2017
+183,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1400,1600,1500,31 Mar 2018
+184,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1750,1800,1800,20 Jul 2018
+185,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,08 Sep 2017
+186,Belgaum,Kudchi,Wheat,Other,FAQ,1550,1650,1600,02 Jul 2018
+187,Belgaum,Kudchi,Wheat,Other,FAQ,1550,1650,1625,03 Mar 2018
+188,Gadag,Laxmeshwar,Wheat,Red,FAQ,1469,1744,1603,18 Jun 2018
+189,Gadag,Laxmeshwar,Wheat,Red,FAQ,1619,1889,1778,23 Jul 2018
+190,Gadag,Laxmeshwar,Wheat,White,FAQ,1575,4260,2124,16 Oct 2017
+191,Mandya,Mandya,Wheat,Other,FAQ,2450,2450,2450,06 Jun 2018
+192,Raichur,Manvi,Wheat,Other,Medium,1821,1823,1822,22 Mar 2018
+193,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2200,2800,2500,17 May 2018
+194,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2300,3000,2650,03 Jul 2018
+195,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,14 Nov 2017
+196,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,28 Apr 2018
+197,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,20 Aug 2018
+198,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,24 Aug 2018
+199,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3400,3100,24 Nov 2017
+200,Gadag,Nargunda,Wheat,H.D.,Medium,1675,1990,1876,09 Mar 2018
+201,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1860,1837,04 May 2018
+202,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1890,1873,02 Jun 2018
+203,Gadag,Nargunda,Wheat,H.D.,Medium,1900,1960,1950,16 Mar 2018
+204,Gadag,Nargunda,Wheat,H.D.,Medium,2025,2050,2033,06 Aug 2018
+205,Gadag,Nargunda,Wheat,H.D.,Medium,2090,2090,2090,24 Jul 2018
+206,Belgaum,Nippani,Wheat,Other,FAQ,2800,2800,2800,25 Aug 2018
+207,Mysore,Piriya Pattana,Wheat,Other,FAQ,1600,1600,1600,10 Sep 2017
+208,Belgaum,Ramdurga,Wheat,Local,Medium,1700,1700,1700,21 Jun 2018
+209,Belgaum,Sankeshwar,Wheat,Other,FAQ,1950,2150,2050,12 Dec 2017
+210,Haveri,Shiggauv,Wheat,Local,FAQ,1680,1720,1700,08 Jan 2018
+211,Haveri,Shiggauv,Wheat,Local,FAQ,1680,1720,1700,23 Feb 2018
+212,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1720,1710,27 Nov 2017
+213,Haveri,Shiggauv,Wheat,Local,FAQ,1730,1750,1740,16 Oct 2017
+214,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,02 Aug 2018
+215,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,04 Jan 2018
+216,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,06 Apr 2018
+217,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,06 Jun 2018
+218,Bijapur,Sindagi,Wheat,Bansi,FAQ,1200,1500,1300,03 Nov 2017
+219,Belgaum,Soundati,Wheat,Local,FAQ,1500,1825,1637,29 May 2018
+220,Belgaum,Soundati,Wheat,Local,FAQ,1640,1650,1645,31 Mar 2018
+221,Belgaum,Soundati,Wheat,Local,FAQ,1700,1700,1700,30 Apr 2018
+222,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,08 Mar 2018
+223,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,10 Apr 2018
+224,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,13 Mar 2018
+225,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,17 Apr 2018
+226,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,19 Dec 2017
+227,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2400,15 Nov 2017
+228,Bidar,Bidar,Wheat,Red,FAQ,2000,2600,2400,28 Nov 2017
+229,Bidar,Bidar,Wheat,Red,FAQ,2100,2450,2300,28 Sep 2017
+230,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2400,07 Nov 2017
+231,Bidar,Bidar,Wheat,Red,FAQ,2200,2500,2400,11 Jan 2018
+232,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,29 Dec 2017
+233,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,14 May 2018
+234,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,06 Apr 2018
+235,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,08 Mar 2018
+236,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,11 Dec 2017
+237,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,16 Feb 2018
+238,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,20 Jan 2018
+239,Bijapur,Bijapur,Wheat,Bansi,FAQ,4000,4500,4200,03 Oct 2017
+240,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1300,1250,11 Oct 2017
+241,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,03 Oct 2017
+242,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1600,1400,10 Jul 2018
+243,Bijapur,Bijapur,Wheat,Medium,FAQ,1400,1800,1600,01 Aug 2018
+244,Bijapur,Bijapur,Wheat,Medium,FAQ,1500,1800,1600,12 Jul 2018
+245,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,09 Apr 2018
+246,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,11 Jul 2018
+247,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,11 May 2018
+248,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,19 Feb 2018
+249,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,07 Dec 2017
+250,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,08 Nov 2017
+251,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,13 Dec 2017
+252,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2400,2200,04 Jun 2018
+253,Bijapur,Bijapur,Wheat,Sona,FAQ,2200,2600,2400,09 Aug 2018
+254,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,04 Sep 2017
+255,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,25 Sep 2017
+256,Davangere,Davangere,Wheat,Super Fine,FAQ,2400,2500,2450,01 Sep 2017
+257,Dharwad,Dharwar,Wheat,H.D.,FAQ,1700,1800,1750,18 Jun 2018
+258,Dharwad,Dharwar,Wheat,H.D.,FAQ,1721,1750,1733,09 Apr 2018
+259,Gadag,Gadag,Wheat,White,FAQ,801,2622,1055,04 Jan 2018
+260,Gadag,Gadag,Wheat,White,FAQ,961,2850,1678,09 Apr 2018
+261,Gadag,Gadag,Wheat,White,FAQ,1309,3139,1554,04 Sep 2017
+262,Gadag,Gadag,Wheat,White,FAQ,1401,2639,1784,08 Mar 2018
+263,Gadag,Gadag,Wheat,White,FAQ,1500,5112,1914,28 Oct 2017
+264,Gadag,Gadag,Wheat,White,FAQ,1529,5150,3105,09 Nov 2017
+265,Gadag,Gadag,Wheat,White,FAQ,1563,3661,2727,20 Jan 2018
+266,Gadag,Gadag,Wheat,White,FAQ,1589,2089,1717,26 May 2018
+267,Gadag,Gadag,Wheat,White,FAQ,1602,2100,1781,11 Jun 2018
+268,Gadag,Gadag,Wheat,White,FAQ,1662,2107,1788,24 May 2018
+269,Gadag,Gadag,Wheat,White,FAQ,1669,2512,2015,02 Mar 2018
+270,Gadag,Gadag,Wheat,White,FAQ,1687,1869,1779,20 Jun 2018
+271,Gadag,Gadag,Wheat,White,FAQ,1781,1928,1839,10 Jul 2018
+272,Gadag,Gadag,Wheat,White,FAQ,1902,2277,2075,06 Aug 2018
+273,Gadag,Gadag,Wheat,White,FAQ,1910,2247,2147,27 Aug 2018
+274,Gadag,Gadag,Wheat,White,FAQ,2000,2612,2519,07 Aug 2018
+275,Koppal,Gangavathi,Wheat,Local,FAQ,1705,1725,1720,30 Apr 2018
+276,Koppal,Gangavathi,Wheat,Local,FAQ,1880,1885,1885,28 Jun 2018
+277,Hassan,Hassan,Wheat,Other,FAQ,2025,2367,2025,24 Jan 2018
+278,Hassan,Hassan,Wheat,Other,FAQ,2147,2314,2260,31 Mar 2018
+279,Belgaum,Soundati,Wheat,Local,FAQ,1805,1870,1825,05 Apr 2018
+280,Belgaum,Soundati,Wheat,Local,FAQ,1850,1850,1850,27 Nov 2017
+281,Belgaum,Soundati,Wheat,Local,FAQ,2000,2000,2000,21 Jul 2018
+282,Hassan,Hassan,Wheat,Other,FAQ,2242,2310,2272,21 May 2018
+283,Hassan,Hassan,Wheat,Other,FAQ,2300,2438,2300,31 Jul 2018
+284,Bellary,Hospet,Wheat,Other,Medium,2110,2110,2110,14 Feb 2018
+285,Bellary,Hospet,Wheat,Other,Medium,2225,2225,2225,02 May 2018
+286,Dharwad,Hubli (Amaragol),Wheat,Jawari,FAQ,2029,2179,2069,04 Aug 2018
+287,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1339,1829,1552,02 Apr 2018
+288,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1339,2189,1709,17 Apr 2018
+289,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1809,2129,1809,14 Apr 2018
+290,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1369,2769,1369,16 Feb 2018
+291,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1449,1729,1509,23 Jun 2018
+292,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1606,2116,1606,12 Jul 2018
+293,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1759,2171,1829,28 Jul 2018
+294,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,3871,3871,3871,18 Sep 2017
+295,Dharwad,Hubli (Amaragol),Wheat,White,Medium,1430,1430,1430,28 Nov 2017
+296,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1700,1900,1800,04 Apr 2018
+297,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1700,1900,1800,19 Apr 2018
+298,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1600,1550,06 Jan 2018
+299,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1600,1700,1650,19 May 2018
+300,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,22 May 2018
+301,Mysore,K.R.Nagar,Wheat,Bansi,FAQ,1500,1950,1654,22 Nov 2017
+302,Chikmagalur,Koppa,Wheat,Other,FAQ,1700,1700,1700,05 Feb 2018
+303,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,13 Nov 2017
+304,Gadag,Laxmeshwar,Wheat,Red,FAQ,1219,2305,1615,02 Apr 2018
+305,Gadag,Laxmeshwar,Wheat,Red,FAQ,1369,1715,1522,14 May 2018
+306,Gadag,Laxmeshwar,Wheat,Red,FAQ,1625,4180,2134,03 Aug 2018
+307,Gadag,Laxmeshwar,Wheat,Red,FAQ,1816,2158,1874,24 Aug 2018
+308,Gadag,Laxmeshwar,Wheat,White,FAQ,1350,1410,1367,07 May 2018
+309,Raichur,Manvi,Wheat,Other,Medium,1115,1115,1115,28 Sep 2017
+310,Raichur,Manvi,Wheat,Other,Medium,1782,1784,1784,26 Feb 2018
+311,Raichur,Manvi,Wheat,Other,Medium,1838,1838,1838,05 Feb 2018
+312,Bagalkot,Mhalingapur,Wheat,Red,FAQ,1600,1700,1650,11 Feb 2018
+313,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2300,3000,2650,07 Jul 2018
+314,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,19 Jan 2018
+315,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,10 Nov 2017
+316,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,27 Feb 2018
+317,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,09 Apr 2018
+318,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,12 Apr 2018
+319,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,18 Jun 2018
+320,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,24 Mar 2018
+321,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3200,2800,13 Mar 2018
+322,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,3000,2750,26 Jun 2018
+323,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3000,2800,19 Jul 2018
+324,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,14 Aug 2018
+325,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,28 Aug 2018
+326,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3400,3100,21 Nov 2017
+327,Gadag,Nargunda,Wheat,H.D.,Medium,1700,1870,1789,14 May 2018
+328,Gadag,Nargunda,Wheat,H.D.,Medium,1700,4109,2372,06 Oct 2017
+329,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1800,1800,31 May 2018
+330,Gadag,Nargunda,Wheat,H.D.,Medium,1860,1860,1860,08 May 2018
+331,Gadag,Nargunda,Wheat,H.D.,Medium,1900,1900,1900,04 Jul 2018
+332,Gadag,Nargunda,Wheat,H.D.,Medium,2050,2150,2130,05 Sep 2017
+333,Mysore,Piriya Pattana,Wheat,Other,FAQ,1600,1600,1600,21 Jun 2018
+334,Belgaum,Ramdurga,Wheat,Local,Medium,1500,1700,1600,07 Jun 2018
+335,Belgaum,Sankeshwar,Wheat,Other,FAQ,1500,1700,1625,26 Jun 2018
+336,Belgaum,Sankeshwar,Wheat,Other,FAQ,2200,2400,2327,25 Aug 2018
+337,Haveri,Shiggauv,Wheat,Local,FAQ,1350,1400,1375,16 May 2018
+338,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,01 Mar 2018
+339,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,04 May 2018
+340,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,05 May 2018
+341,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,20 Dec 2017
+342,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,22 Jan 2018
+343,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,27 Jan 2018
+344,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,28 Mar 2018
+345,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,29 Jan 2018
+346,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,2900,2800,03 Oct 2017
+347,Shimoga,Shimoga,Wheat,Super Fine,FAQ,3000,3000,3000,22 Sep 2017
+348,Bijapur,Sindagi,Wheat,Bansi,FAQ,1400,1600,1550,11 Jan 2018
+349,Bijapur,Sindagi,Wheat,Bansi,FAQ,1900,2100,2000,08 Dec 2017
+350,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1000,1100,1050,20 Dec 2017
+351,Belgaum,Soundati,Wheat,Local,FAQ,1750,1800,1775,07 Jun 2018
+352,Chikmagalur,Tarikere,Wheat,Other,FAQ,2700,2700,2700,31 Oct 2017
+353,Bagalkot,Bagalakot,Wheat,Sona,Medium,1700,1750,1734,31 May 2018
+354,Bagalkot,Bagalakot,Wheat,Sona,Medium,1720,1720,1720,23 May 2018
+355,Bagalkot,Bagalakot,Wheat,Sona,Medium,1750,1750,1750,14 Jun 2018
+356,Bagalkot,Bagalakot,Wheat,Sona,Medium,1750,1750,1750,20 Jun 2018
+357,Bagalkot,Bagalakot,Wheat,Sona,Medium,1900,2000,1942,07 Jun 2018
+358,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,25 Nov 2017
+359,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,01 Aug 2018
+360,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,11 Jul 2018
+361,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,26 Jun 2018
+362,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,27 Jul 2018
+363,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,29 Jun 2018
+364,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,06 Feb 2018
+365,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,16 May 2018
+366,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,19 May 2018
+367,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,22 Dec 2017
+368,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,22 Mar 2018
+369,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,24 Jan 2018
+370,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1100,1050,21 Oct 2017
+371,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1100,1050,24 Oct 2017
+372,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1550,1500,27 Apr 2018
+373,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1200,1200,02 Feb 2018
+374,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1350,1300,07 Mar 2018
+375,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1560,1450,23 Mar 2018
+376,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1252,1540,1300,09 Sep 2017
+377,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1350,1450,1400,03 Apr 2018
+378,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1700,1600,20 Jul 2018
+379,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1500,1480,09 May 2018
+380,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1800,1750,04 Jun 2018
+381,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1800,1650,03 May 2018
+382,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1700,1950,1700,07 Aug 2018
+383,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1250,1601,1450,03 Mar 2018
+384,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1301,1350,1301,08 Jan 2018
+385,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1350,1350,29 Dec 2017
+386,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1550,1350,30 Oct 2017
+387,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1700,1600,26 Mar 2018
+388,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1750,1601,04 May 2018
+389,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1900,1800,02 Jul 2018
+390,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,2100,1900,24 Aug 2018
+391,Shimoga,Bhadravathi,Wheat,Local,FAQ,2500,3000,2800,23 May 2018
+392,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,02 Aug 2018
+393,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,02 Jun 2018
+394,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,04 Aug 2018
+395,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,29 May 2018
+396,Bidar,Bidar,Wheat,Red,FAQ,2000,2600,2400,17 Feb 2018
+397,Bidar,Bidar,Wheat,Red,FAQ,2000,2600,2400,27 Jan 2018
+398,Bidar,Bidar,Wheat,Red,FAQ,2100,2400,2300,05 Jan 2018
+399,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2300,07 Feb 2018
+400,Bidar,Bidar,Wheat,Red,FAQ,2200,2400,2300,03 Oct 2017
+401,Bidar,Bidar,Wheat,Red,FAQ,2200,2500,2400,23 Sep 2017
+402,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,28 Dec 2017
+403,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,04 Sep 2017
+404,Bidar,Bidar,Wheat,Red,FAQ,2200,2650,2400,05 Sep 2017
+405,Bidar,Bidar,Wheat,Red,FAQ,2400,2600,2500,18 Jan 2018
+406,Bidar,Bidar,Wheat,Red,FAQ,2400,2600,2500,19 Jan 2018
+407,Bijapur,Bijapur,Wheat,Bansi,FAQ,2500,3200,3000,03 Aug 2018
+408,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,25 May 2018
+409,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,18 Sep 2017
+410,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,4000,3500,01 Jun 2018
+411,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,20 Nov 2017
+412,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,27 Oct 2017
+413,Bijapur,Bijapur,Wheat,Bansi,FAQ,4000,4500,4250,19 Oct 2017
+414,Bijapur,Bijapur,Wheat,Bansi,FAQ,4000,4500,4250,23 Oct 2017
+415,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1600,1400,15 Mar 2018
+416,Bijapur,Bijapur,Wheat,Medium,FAQ,1400,1800,1600,18 Jul 2018
+417,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,09 May 2018
+418,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,12 Apr 2018
+419,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,12 Mar 2018
+420,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,16 Mar 2018
+421,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,26 Feb 2018
+422,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,06 Jan 2018
+423,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,25 Jan 2018
+424,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2600,2400,03 Aug 2018
+425,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,16 Feb 2018
+426,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,16 Mar 2018
+427,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,22 Jun 2018
+428,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,23 Mar 2018
+429,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,27 Apr 2018
+430,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,06 Oct 2017
+431,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,15 Sep 2017
+432,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,17 Nov 2017
+433,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,31 Aug 2018
+434,Gadag,Gadag,Wheat,Red,FAQ,1220,3011,1918,29 Jan 2018
+435,Gadag,Gadag,Wheat,White,FAQ,829,5106,2386,16 Sep 2017
+436,Gadag,Gadag,Wheat,White,FAQ,1061,3582,1763,06 Mar 2018
+437,Gadag,Gadag,Wheat,White,FAQ,1311,2302,1916,27 Apr 2018
+438,Gadag,Gadag,Wheat,White,FAQ,1539,1851,1668,12 Jan 2018
+439,Gadag,Gadag,Wheat,White,FAQ,1542,3728,2322,02 Feb 2018
+440,Gadag,Gadag,Wheat,White,FAQ,1543,2629,1845,28 Feb 2018
+441,Gadag,Gadag,Wheat,White,FAQ,1551,2611,1860,10 Apr 2018
+442,Gadag,Gadag,Wheat,White,FAQ,1560,5130,2505,13 Nov 2017
+443,Gadag,Gadag,Wheat,White,FAQ,1569,3800,2285,09 Dec 2017
+444,Gadag,Gadag,Wheat,White,FAQ,1612,2012,1797,04 Jun 2018
+445,Gadag,Gadag,Wheat,White,FAQ,1717,1961,1762,29 Jun 2018
+446,Gadag,Gadag,Wheat,White,FAQ,1811,3769,2271,17 Jan 2018
+447,Gadag,Gadag,Wheat,White,FAQ,1812,2239,2095,16 Aug 2018
+448,Gadag,Gadag,Wheat,White,FAQ,1926,2089,1983,20 Jul 2018
+449,Gadag,Gadag,Wheat,White,FAQ,1956,2368,2095,24 Jul 2018
+450,Koppal,Gangavathi,Wheat,Local,FAQ,1750,1750,1750,20 Mar 2018
+451,Koppal,Gangavathi,Wheat,Local,FAQ,1800,1800,1800,20 Feb 2018
+452,Koppal,Gangavathi,Wheat,Local,FAQ,1800,1810,1805,24 Feb 2018
+453,Koppal,Gangavathi,Wheat,Local,FAQ,2240,2260,2253,05 Apr 2018
+454,Hassan,Hassan,Wheat,Other,FAQ,2093,2100,2100,25 Oct 2017
+455,Hassan,Hassan,Wheat,Other,FAQ,2116,2313,2200,09 Mar 2018
+456,Hassan,Hassan,Wheat,Other,FAQ,2123,2173,2126,25 Jan 2018
+457,Hassan,Hassan,Wheat,Other,FAQ,2226,2356,2283,19 Jun 2018
+458,Bellary,Hospet,Wheat,Super Fine,FAQ,2130,2130,2130,16 Sep 2017
+459,Dharwad,Hubli (Amaragol),Wheat,Jawari,FAQ,1800,1900,1800,10 Jul 2018
+460,Dharwad,Hubli (Amaragol),Wheat,Jawari,Medium,1339,3001,1339,10 Feb 2018
+461,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1584,1724,1674,09 Jun 2018
+462,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1600,2219,1836,27 Mar 2018
+463,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1409,1709,1409,17 May 2018
+464,Dharwad,Annigeri,Wheat,H.D.,FAQ,1700,1700,1700,12 Jun 2018
+465,Hassan,Arasikere,Wheat,Local,FAQ,1500,1500,1500,25 Jun 2018
+466,Hassan,Arasikere,Wheat,Local,FAQ,2270,2270,2270,30 Apr 2018
+467,Bagalkot,Bagalakot,Wheat,Sona,Medium,1700,1700,1700,31 Mar 2018
+468,Bagalkot,Bagalakot,Wheat,Sona,Medium,1760,1760,1760,05 Jun 2018
+469,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,10 Nov 2017
+470,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,10 Oct 2017
+471,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,11 Oct 2017
+472,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,23 Oct 2017
+473,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,06 Aug 2018
+474,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,14 Aug 2018
+475,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,18 Aug 2018
+476,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,28 Aug 2018
+477,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,28 Jun 2018
+478,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,31 Jul 2018
+479,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,02 Mar 2018
+480,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,02 May 2018
+481,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,10 May 2018
+482,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,16 Apr 2018
+483,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,17 Feb 2018
+484,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,22 Jan 2018
+485,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,26 Feb 2018
+486,Bidar,Basava Kalayana,Wheat,Medium,FAQ,900,1200,1100,06 Oct 2017
+487,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1300,1200,29 Dec 2017
+488,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1021,1550,1400,06 Sep 2017
+489,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1300,1200,29 Jan 2018
+490,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1460,1300,02 Apr 2018
+491,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1300,1200,31 Jan 2018
+492,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1501,1401,19 Mar 2018
+493,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1700,1550,07 Dec 2017
+494,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1500,1450,08 May 2018
+495,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1690,1600,10 Jul 2018
+496,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1721,1600,17 Jul 2018
+497,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1850,1750,05 Jun 2018
+498,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1801,1701,01 Sep 2018
+499,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1861,1750,06 Jun 2018
+500,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1800,1720,29 Aug 2018
+501,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1250,1600,1300,31 Jan 2018
+502,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1401,1300,04 Oct 2017
+503,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1450,1350,19 Feb 2018
+504,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1655,1500,20 Oct 2017
+505,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1680,1400,18 Jan 2018
+506,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1600,1450,23 Jan 2018
+507,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1700,1600,15 Mar 2018
+508,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,2000,1850,21 Jul 2018
+509,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1800,1750,31 May 2018
+510,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1601,1601,1601,16 Dec 2017
+511,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1750,1900,1800,14 Jul 2018
+512,Shimoga,Bhadravathi,Wheat,Local,FAQ,2160,2160,2160,21 Dec 2017
+513,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,04 Apr 2018
+514,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,04 Jun 2018
+515,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,20 Jun 2018
+516,Bidar,Bidar,Wheat,Red,FAQ,1900,2500,2100,30 Apr 2018
+517,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2200,22 Mar 2018
+518,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1439,2859,2689,03 Feb 2018
+519,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,2669,4849,4679,22 Sep 2017
+520,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1650,1600,13 Apr 2018
+521,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1600,1800,1700,08 Dec 2017
+522,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,25 May 2018
+523,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,07 Mar 2018
+524,Belgaum,Kudchi,Wheat,Other,FAQ,1500,1700,1600,05 Sep 2017
+525,Gadag,Laxmeshwar,Wheat,Red,FAQ,1380,1750,1586,30 May 2018
+526,Gadag,Laxmeshwar,Wheat,Red,FAQ,1660,2135,1805,20 Aug 2018
+527,Gadag,Laxmeshwar,Wheat,White,FAQ,1360,2174,1688,06 Apr 2018
+528,Raichur,Manvi,Wheat,Other,Medium,1555,1560,1557,16 Aug 2018
+529,Raichur,Manvi,Wheat,Other,Medium,1782,1784,1783,28 Feb 2018
+530,Raichur,Manvi,Wheat,Other,Medium,1835,1836,1835,27 Jan 2018
+531,Raichur,Manvi,Wheat,Other,Medium,1835,1845,1841,22 Jan 2018
+532,Raichur,Manvi,Wheat,Other,Medium,1900,1900,1900,03 Jan 2018
+533,Raichur,Manvi,Wheat,Other,Medium,1960,2785,2147,21 Dec 2017
+534,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,01 Feb 2018
+535,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,04 Sep 2017
+536,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,17 Apr 2018
+537,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,24 Jan 2018
+538,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,30 Jul 2018
+539,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,31 Mar 2018
+540,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3200,2800,14 Mar 2018
+541,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,18 Aug 2018
+542,Gadag,Nargunda,Wheat,H.D.,Medium,1500,4100,2107,13 Oct 2017
+543,Gadag,Nargunda,Wheat,H.D.,Medium,1609,3209,2490,30 Oct 2017
+544,Gadag,Nargunda,Wheat,H.D.,Medium,1725,3811,3077,13 Nov 2017
+545,Gadag,Nargunda,Wheat,H.D.,Medium,1750,1820,1783,21 May 2018
+546,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1800,1800,07 Apr 2018
+547,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1855,1847,25 Apr 2018
+548,Gadag,Nargunda,Wheat,H.D.,Medium,1805,1850,1841,10 May 2018
+549,Gadag,Nargunda,Wheat,H.D.,Medium,1809,3815,2628,18 Sep 2017
+550,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1850,1850,06 Jun 2018
+551,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1900,1877,11 Jun 2018
+552,Gadag,Nargunda,Wheat,H.D.,Medium,1900,2090,2015,17 Aug 2018
+553,Gadag,Nargunda,Wheat,H.D.,Medium,1960,1960,1960,30 Jun 2018
+554,Haveri,Ranebennur,Wheat,Local,FAQ,2290,2290,2290,04 May 2018
+555,Belgaum,Sankeshwar,Wheat,H.D.,FAQ,2000,2200,2101,12 Apr 2018
+556,Belgaum,Sankeshwar,Wheat,Other,FAQ,2200,2400,2301,02 Feb 2018
+557,Haveri,Shiggauv,Wheat,Local,FAQ,1720,1750,1730,10 Oct 2017
+558,Haveri,Shiggauv,Wheat,Local,FAQ,1730,1750,1740,14 Sep 2017
+559,Shimoga,Shikaripura,Wheat,White,Medium,1700,1800,1750,14 Jun 2018
+560,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2400,2600,2500,07 Feb 2018
+561,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2500,3000,2750,30 Nov 2017
+562,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2900,2750,14 Feb 2018
+563,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,14 Dec 2017
+564,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,21 May 2018
+565,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,27 Nov 2017
+566,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,29 Dec 2017
+567,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,30 Apr 2018
+568,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3200,2900,23 May 2018
+569,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,29 Jun 2018
+570,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,07 May 2018
+571,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,19 Mar 2018
+572,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,23 Nov 2017
+573,Bidar,Bidar,Wheat,Red,FAQ,2000,2450,2300,13 Sep 2017
+574,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,26 Oct 2017
+575,Bidar,Bidar,Wheat,Red,FAQ,2100,2400,2300,11 Nov 2017
+576,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2400,03 Nov 2017
+577,Bidar,Bidar,Wheat,Red,FAQ,2200,2450,2300,14 Sep 2017
+578,Bidar,Bidar,Wheat,Red,FAQ,2200,2450,2350,18 Sep 2017
+579,Bidar,Bidar,Wheat,Red,FAQ,2200,2500,2300,20 Dec 2017
+580,Bidar,Bidar,Wheat,Red,FAQ,2200,2500,2300,29 Nov 2017
+581,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,23 Nov 2017
+582,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,27 Nov 2017
+583,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,12 Jan 2018
+584,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,12 Feb 2018
+585,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,13 Nov 2017
+586,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,14 Feb 2018
+587,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,15 Feb 2018
+588,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,30 Jan 2018
+589,Bijapur,Bijapur,Wheat,Bansi,FAQ,3800,4200,4000,12 Oct 2017
+590,Bijapur,Bijapur,Wheat,Medium,FAQ,1100,1200,1150,12 Apr 2018
+591,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,23 May 2018
+592,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,25 Jun 2018
+593,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1700,1600,06 Aug 2018
+594,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,07 Jul 2018
+595,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,17 Mar 2018
+596,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,20 Mar 2018
+597,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,03 Oct 2017
+598,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,17 Feb 2018
+599,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,22 Jan 2018
+600,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,31 Jan 2018
+601,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,23 Feb 2018
+602,Dharwad,Dharwar,Wheat,H.D.,FAQ,1750,1750,1750,15 Jun 2018
+603,Dharwad,Dharwar,Wheat,H.D.,FAQ,1800,1800,1800,23 Mar 2018
+604,Dharwad,Dharwar,Wheat,H.D.,FAQ,1900,1925,1912,23 Jul 2018
+605,Gadag,Gadag,Wheat,White,FAQ,1101,2069,1639,28 Apr 2018
+606,Gadag,Gadag,Wheat,White,FAQ,1209,2477,1823,16 Mar 2018
+607,Gadag,Gadag,Wheat,White,FAQ,1239,2727,1994,27 Feb 2018
+608,Gadag,Gadag,Wheat,White,FAQ,1304,2738,1910,11 Apr 2018
+609,Gadag,Gadag,Wheat,White,FAQ,1311,3025,2080,24 Feb 2018
+610,Gadag,Gadag,Wheat,White,FAQ,1400,5207,1706,24 Nov 2017
+611,Gadag,Gadag,Wheat,White,FAQ,1401,2408,1795,06 Apr 2018
+612,Gadag,Gadag,Wheat,White,FAQ,1451,2509,1776,02 Apr 2018
+613,Gadag,Gadag,Wheat,White,FAQ,1477,3361,1912,10 Mar 2018
+614,Gadag,Gadag,Wheat,White,FAQ,1517,3129,2452,16 Feb 2018
+615,Gadag,Gadag,Wheat,White,FAQ,1539,4861,3558,16 Oct 2017
+616,Gadag,Gadag,Wheat,White,FAQ,1802,2343,2094,10 Aug 2018
+617,Gadag,Gadag,Wheat,White,FAQ,1803,2089,1885,12 Jul 2018
+618,Gadag,Gadag,Wheat,White,FAQ,2005,2536,2284,27 Jul 2018
+619,Koppal,Gangavathi,Wheat,Local,FAQ,2000,2000,2000,18 May 2018
+620,Koppal,Gangavathi,Wheat,Local,FAQ,2030,2030,2030,18 Jun 2018
+621,Hassan,Hassan,Wheat,Other,FAQ,2068,2180,2100,18 Nov 2017
+622,Hassan,Hassan,Wheat,Other,FAQ,2306,2437,2376,23 Jul 2018
+623,Haveri,Haveri,Wheat,Local,FAQ,2105,2105,2105,16 Sep 2017
+624,Chitradurga,Hiriyur,Wheat,Super Fine,FAQ,2331,2331,2331,11 Mar 2018
+625,Davangere,Honnali,Wheat,Super Fine,Medium,1700,1700,1700,13 Sep 2017
+626,Bellary,Hospet,Wheat,Other,FAQ,2025,2265,2025,20 Feb 2018
+627,Bellary,Hospet,Wheat,Other,FAQ,2475,2475,2475,06 Aug 2018
+628,Bellary,Hospet,Wheat,Super Fine,Medium,1980,2200,2100,20 Sep 2017
+629,Bellary,Hospet,Wheat,Super Fine,Medium,2180,2180,2180,18 Dec 2017
+630,Hassan,Arasikere,Wheat,Local,FAQ,2309,2309,2309,23 Feb 2018
+631,Hassan,Arasikere,Wheat,Local,FAQ,2515,2515,2515,04 Aug 2018
+632,Bagalkot,Bagalakot,Wheat,Sona,Medium,1650,1700,1673,07 Apr 2018
+633,Bagalkot,Bagalakot,Wheat,Sona,Medium,1725,1750,1746,28 Apr 2018
+634,Bagalkot,Bagalakot,Wheat,Sona,Medium,1750,1750,1750,21 Jun 2018
+635,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,13 Oct 2017
+636,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,24 Nov 2017
+637,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,19 Jun 2018
+638,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,20 Aug 2018
+639,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,04 Dec 2017
+640,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,05 Jan 2018
+641,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,15 Dec 2017
+642,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,16 Feb 2018
+643,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,20 Mar 2018
+644,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,21 Dec 2017
+645,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,22 May 2018
+646,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,24 Feb 2018
+647,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,28 Apr 2018
+648,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,31 Jan 2018
+649,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1300,1250,03 Mar 2018
+650,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1350,1200,22 Dec 2017
+651,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1250,1100,23 Feb 2018
+652,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1400,1300,15 Mar 2018
+653,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1250,1150,13 Nov 2017
+654,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1450,1350,15 Dec 2017
+655,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1481,1350,04 Apr 2018
+656,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1550,1350,11 Apr 2018
+657,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1500,1450,05 May 2018
+658,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1750,1600,21 Jul 2018
+659,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1750,1600,30 Nov 2017
+660,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1850,1750,07 Jun 2018
+661,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1800,1735,23 Aug 2018
+662,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1200,1200,1200,12 Oct 2017
+663,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1380,1380,1380,21 Feb 2018
+664,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1380,1380,1380,31 Oct 2017
+665,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1460,1400,09 Nov 2017
+666,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1650,1550,27 Nov 2017
+667,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1711,1600,28 Apr 2018
+668,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1800,1450,25 Nov 2017
+669,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1800,1600,27 Apr 2018
+670,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1800,1600,14 May 2018
+671,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1900,1650,05 Apr 2018
+672,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1900,1810,03 Jul 2018
+673,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,2021,1900,01 Aug 2018
+674,Shimoga,Bhadravathi,Wheat,Local,FAQ,2285,2285,2285,24 May 2018
+675,Shimoga,Bhadravathi,Wheat,Local,FAQ,2600,2960,2800,28 Dec 2017
+676,Shimoga,Bhadravathi,Wheat,Local,FAQ,2800,2800,2800,07 Apr 2018
+677,Shimoga,Bhadravathi,Wheat,Local,FAQ,3000,3000,3000,24 Aug 2018
+678,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,06 Aug 2018
+679,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,23 Jul 2018
+680,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,29 Aug 2018
+681,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,31 Aug 2018
+682,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2000,27 Jun 2018
+683,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,05 May 2018
+684,Shimoga,Shimoga,Wheat,Super Fine,FAQ,3000,3400,3200,23 Aug 2018
+685,Belgaum,Soundati,Wheat,Local,FAQ,1505,1510,1508,27 Feb 2018
+686,Belgaum,Soundati,Wheat,Local,FAQ,1900,1900,1900,11 Mar 2018
+687,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1369,1769,1601,07 Jun 2018
+688,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1489,2119,1652,19 Mar 2018
+689,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1619,1901,1619,11 May 2018
+690,Dharwad,Hubli (Amaragol),Wheat,White,Medium,1021,1021,1021,20 Nov 2017
+691,Bagalkot,Hungund,Wheat,Local,FAQ,1800,1800,1800,26 Apr 2018
+692,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1700,1950,1850,31 Mar 2018
+693,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1600,1550,16 Jan 2018
+694,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,30 Aug 2018
+695,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1700,1775,1725,08 Aug 2018
+696,Belgaum,Kudchi,Wheat,Other,FAQ,1400,1600,1500,16 Dec 2017
+697,Belgaum,Kudchi,Wheat,Other,FAQ,1500,1700,1600,30 Oct 2017
+698,Belgaum,Kudchi,Wheat,Other,FAQ,1600,1780,1699,24 Aug 2018
+699,Dharwad,Kundagol,Wheat,Local,FAQ,1400,1400,1400,19 Apr 2018
+700,Gadag,Laxmeshwar,Wheat,Red,FAQ,1490,1821,1714,04 Jun 2018
+701,Gadag,Laxmeshwar,Wheat,Red,FAQ,1666,1969,1840,27 Jul 2018
+702,Raichur,Manvi,Wheat,Other,Medium,1981,1981,1981,30 Jul 2018
+703,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,02 Jan 2018
+704,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,03 Oct 2017
+705,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,30 Dec 2017
+706,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,04 Dec 2017
+707,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,09 May 2018
+708,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,16 Feb 2018
+709,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,19 Feb 2018
+710,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,08 Jun 2018
+711,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,13 Jul 2018
+712,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,25 Jun 2018
+713,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,23 Aug 2018
+714,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3200,3000,16 Oct 2017
+715,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3400,3100,22 Nov 2017
+716,Gadag,Nargunda,Wheat,H.D.,Medium,1609,3500,2140,03 Oct 2017
+717,Gadag,Nargunda,Wheat,H.D.,Medium,1700,2005,1873,17 Mar 2018
+718,Gadag,Nargunda,Wheat,H.D.,Medium,1700,2609,2118,01 Dec 2017
+719,Gadag,Nargunda,Wheat,H.D.,Medium,1725,1850,1828,11 May 2018
+720,Gadag,Nargunda,Wheat,H.D.,Medium,1750,1851,1790,21 Sep 2017
+721,Gadag,Nargunda,Wheat,H.D.,Medium,1755,3251,3002,04 Nov 2017
+722,Gadag,Nargunda,Wheat,H.D.,Medium,1787,1850,1835,07 May 2018
+723,Gadag,Nargunda,Wheat,H.D.,Medium,1800,2100,1958,30 Jul 2018
+724,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1885,1869,24 May 2018
+725,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1885,1877,22 May 2018
+726,Gadag,Nargunda,Wheat,H.D.,Medium,1890,1950,1904,05 Jun 2018
+727,Gadag,Nargunda,Wheat,H.D.,Medium,2025,2025,2025,09 Aug 2018
+728,Gadag,Nargunda,Wheat,H.D.,Medium,2110,2200,2160,27 Aug 2018
+729,Belgaum,Nippani,Wheat,Local,FAQ,2065,2065,2065,25 Oct 2017
+730,Belgaum,Nippani,Wheat,Local,FAQ,3000,3000,3000,26 Jun 2018
+731,Belgaum,Ramdurga,Wheat,Local,Medium,1900,1900,1900,18 Aug 2018
+732,Belgaum,Sankeshwar,Wheat,H.D.,FAQ,1400,1600,1500,14 Sep 2017
+733,Belgaum,Sankeshwar,Wheat,H.D.,FAQ,1800,2000,1900,25 May 2018
+734,Haveri,Shiggauv,Wheat,Local,FAQ,1320,1350,1335,28 Mar 2018
+735,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1720,1710,07 Feb 2018
+736,Haveri,Shiggauv,Wheat,Local,FAQ,1730,1750,1740,17 Oct 2017
+737,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2800,2650,26 Dec 2017
+738,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2800,2700,14 Sep 2017
+739,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2800,2700,18 Sep 2017
+740,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,01 Jan 2018
+741,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,26 Jan 2018
+742,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2100,06 Apr 2018
+743,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2100,12 Jun 2018
+744,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2200,16 Mar 2018
+745,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,08 Nov 2017
+746,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2450,20 Jan 2018
+747,Bidar,Bidar,Wheat,Red,FAQ,2000,2600,2300,22 Nov 2017
+748,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2200,06 Mar 2018
+749,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2300,05 Dec 2017
+750,Bidar,Bidar,Wheat,Red,FAQ,2100,2650,2580,24 Jan 2018
+751,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,11 Sep 2017
+752,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,11 Apr 2018
+753,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,16 Sep 2017
+754,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,03 Nov 2017
+755,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,13 Dec 2017
+756,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,15 Nov 2017
+757,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,16 Nov 2017
+758,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,17 Nov 2017
+759,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,23 Nov 2017
+760,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,30 Oct 2017
+761,Bijapur,Bijapur,Wheat,Bansi,FAQ,4000,4500,4200,06 Oct 2017
+762,Bijapur,Bijapur,Wheat,Bansi,FAQ,4000,4500,4250,17 Oct 2017
+763,Bijapur,Bijapur,Wheat,Medium,FAQ,1100,1300,1200,30 Oct 2017
+764,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,22 Mar 2018
+765,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1500,1400,25 Oct 2017
+766,Bijapur,Bijapur,Wheat,Medium,FAQ,1400,1800,1600,17 Jul 2018
+767,Bijapur,Bijapur,Wheat,Medium,FAQ,1600,1775,1700,31 Aug 2018
+768,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,05 Mar 2018
+769,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,21 Feb 2018
+770,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,25 Jun 2018
+771,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,01 Dec 2017
+772,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,20 Dec 2017
+773,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,30 Oct 2017
+774,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2800,2200,19 Oct 2017
+775,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2400,2200,01 Jun 2018
+776,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2400,2200,27 Aug 2018
+777,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,08 Jun 2018
+778,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,19 Oct 2017
+779,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,27 Oct 2017
+780,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,29 Dec 2017
+781,Dharwad,Dharwar,Wheat,H.D.,FAQ,1850,1850,1850,07 Jul 2018
+782,Gadag,Gadag,Wheat,White,FAQ,1309,2477,1598,26 Mar 2018
+783,Gadag,Gadag,Wheat,White,FAQ,1419,4612,1986,13 Sep 2017
+784,Gadag,Gadag,Wheat,White,FAQ,1439,4612,2547,24 Oct 2017
+785,Gadag,Gadag,Wheat,White,FAQ,1502,2659,1840,03 Mar 2018
+786,Gadag,Gadag,Wheat,White,FAQ,1625,1812,1772,01 Jun 2018
+787,Gadag,Gadag,Wheat,White,FAQ,1781,2077,1853,11 Jul 2018
+788,Gadag,Gadag,Wheat,White,FAQ,1851,1919,1863,30 Aug 2018
+789,Koppal,Gangavathi,Wheat,Local,FAQ,1700,1705,1700,24 Mar 2018
+790,Koppal,Gangavathi,Wheat,Local,FAQ,1700,1710,1710,28 Mar 2018
+791,Koppal,Gangavathi,Wheat,Local,FAQ,2320,2333,2320,22 Mar 2018
+792,Belgaum,Gokak,Wheat,White,FAQ,2100,2100,2100,18 Dec 2017
+793,Bellary,Hospet,Wheat,Other,Medium,2259,2259,2259,04 Jun 2018
+794,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1089,2089,1615,28 Apr 2018
+795,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1919,2158,2069,08 Aug 2018
+796,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1309,1751,1601,25 May 2018
+797,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1439,1889,1708,05 Apr 2018
+798,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,07 Nov 2017
+799,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3100,2900,25 May 2018
+800,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,16 Oct 2017
+801,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,10 Aug 2018
+802,Bijapur,Sindagi,Wheat,Bansi,FAQ,1400,1600,1450,12 Jan 2018
+803,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1500,1500,1500,17 Nov 2017
+804,Belgaum,Soundati,Wheat,Local,FAQ,1350,1700,1565,24 Mar 2018
+805,Belgaum,Soundati,Wheat,Local,FAQ,1450,1450,1450,26 Mar 2018
+806,Belgaum,Soundati,Wheat,Local,FAQ,1500,1500,1500,04 May 2018
+807,Belgaum,Soundati,Wheat,Local,FAQ,1500,1525,1510,24 Apr 2018
+808,Belgaum,Soundati,Wheat,Local,FAQ,1750,1900,1800,16 Mar 2018
+809,Belgaum,Soundati,Wheat,Local,FAQ,1900,1920,1906,14 Mar 2018
+810,Belgaum,Soundati,Wheat,Local,FAQ,1980,2010,1998,31 Jul 2018
+811,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1529,2128,1739,10 Mar 2018
+812,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1539,1539,1539,17 Mar 2018
+813,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1209,2129,1729,21 Jul 2018
+814,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1495,2539,1669,31 Mar 2018
+815,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1650,1750,1700,09 Apr 2018
+816,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1700,1850,1800,03 Apr 2018
+817,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1450,1550,1500,21 Apr 2018
+818,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1650,1575,03 Jan 2018
+819,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1700,1600,05 May 2018
+820,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1550,1650,1600,30 Apr 2018
+821,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,20 Aug 2018
+822,Chikmagalur,Koppa,Wheat,Other,FAQ,1600,1600,1600,23 Sep 2017
+823,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,02 Jun 2018
+824,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,04 Nov 2017
+825,Chikmagalur,Koppa,Wheat,Other,FAQ,2000,2000,2000,28 Aug 2018
+826,Belgaum,Kudchi,Wheat,Other,FAQ,1400,1600,1500,12 Feb 2018
+827,Belgaum,Kudchi,Wheat,Other,FAQ,1400,1600,1500,16 Apr 2018
+828,Gadag,Laxmeshwar,Wheat,Red,FAQ,1419,1919,1517,18 May 2018
+829,Gadag,Laxmeshwar,Wheat,Red,FAQ,1449,2760,1718,25 May 2018
+830,Gadag,Laxmeshwar,Wheat,Red,FAQ,1470,1880,1706,08 Jun 2018
+831,Gadag,Laxmeshwar,Wheat,Red,FAQ,1565,1915,1785,27 Aug 2018
+832,Gadag,Laxmeshwar,Wheat,White,FAQ,1630,1630,1630,08 Sep 2017
+833,Gadag,Laxmeshwar,Wheat,White,FAQ,1681,1681,1681,11 Sep 2017
+834,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2200,2900,2550,28 May 2018
+835,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,03 Jan 2018
+836,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,16 Jan 2018
+837,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,27 Dec 2017
+838,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,30 Nov 2017
+839,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,22 May 2018
+840,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,26 May 2018
+841,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,02 Apr 2018
+842,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,12 Dec 2017
+843,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,31 Aug 2018
+844,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2700,3000,2850,15 Sep 2017
+845,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3400,3100,08 Aug 2018
+846,Gadag,Nargunda,Wheat,H.D.,Medium,1536,2589,1899,07 Dec 2017
+847,Gadag,Nargunda,Wheat,H.D.,Medium,1556,5129,4109,27 Sep 2017
+848,Gadag,Nargunda,Wheat,H.D.,Medium,1675,2000,1870,05 Mar 2018
+849,Gadag,Nargunda,Wheat,H.D.,Medium,1700,1855,1821,30 Apr 2018
+850,Gadag,Nargunda,Wheat,H.D.,Medium,1700,1870,1809,04 Apr 2018
+851,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1840,1816,09 Apr 2018
+852,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1975,1918,22 Mar 2018
+853,Gadag,Nargunda,Wheat,H.D.,Medium,1801,3144,3081,23 Sep 2017
+854,Gadag,Nargunda,Wheat,H.D.,Medium,1806,1906,1849,29 Jan 2018
+855,Gadag,Nargunda,Wheat,H.D.,Medium,1840,1925,1901,26 Mar 2018
+856,Gadag,Nargunda,Wheat,H.D.,Medium,1850,2020,1939,26 Feb 2018
+857,Gadag,Nargunda,Wheat,H.D.,Medium,1870,1894,1885,18 Jun 2018
+858,Gadag,Nargunda,Wheat,H.D.,Medium,1900,1950,1918,23 Mar 2018
+859,Gadag,Nargunda,Wheat,H.D.,Medium,2000,4001,2395,12 Oct 2017
+860,Gadag,Nargunda,Wheat,H.D.,Medium,2030,2400,2135,08 Nov 2017
+861,Gadag,Nargunda,Wheat,H.D.,Medium,2080,2080,2080,13 Aug 2018
+862,Belgaum,Nippani,Wheat,Local,FAQ,2100,2100,2100,20 Sep 2017
+863,Gadag,Rona,Wheat,White,FAQ,1425,1425,1425,21 Mar 2018
+864,Gadag,Rona,Wheat,White,FAQ,1690,1711,1696,04 Oct 2017
+865,Belgaum,Sankeshwar,Wheat,Other,FAQ,2000,2300,2129,10 Jan 2018
+866,Belgaum,Sankeshwar,Wheat,Other,FAQ,2250,2450,2362,19 Oct 2017
+867,Haveri,Shiggauv,Wheat,Local,FAQ,1680,1720,1700,22 Feb 2018
+868,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1720,1710,03 Dec 2017
+869,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1720,1710,05 Jan 2018
+870,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,03 Apr 2018
+871,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,07 Jun 2018
+872,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,10 Apr 2018
+873,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,16 Dec 2017
+874,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,24 Jan 2018
+875,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,31 Mar 2018
+876,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,08 Nov 2017
+877,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,13 Mar 2018
+878,Bijapur,Sindagi,Wheat,Bansi,FAQ,1200,2000,1500,27 Sep 2017
+879,Bijapur,Sindagi(Indi),Wheat,Jawari,FAQ,1400,1650,1550,12 Jun 2018
+880,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1500,1500,1500,22 Nov 2017
+881,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1500,1600,1550,09 Jan 2018
+882,Belgaum,Soundati,Wheat,Local,FAQ,1480,1480,1480,30 Dec 2017
+883,Belgaum,Soundati,Wheat,Local,FAQ,1500,1500,1500,10 Apr 2018
+884,Belgaum,Soundati,Wheat,Local,FAQ,1500,1650,1588,13 Nov 2017
+885,Belgaum,Soundati,Wheat,Local,FAQ,1580,1580,1580,21 Feb 2018
+886,Belgaum,Soundati,Wheat,Local,FAQ,1650,1650,1650,02 Apr 2018
+887,Belgaum,Soundati,Wheat,Local,FAQ,1650,1650,1650,05 Oct 2017
+888,Belgaum,Soundati,Wheat,Local,FAQ,1670,1710,1690,25 Mar 2018
+889,Belgaum,Soundati,Wheat,Local,FAQ,1700,1700,1700,27 May 2018
+890,Belgaum,Soundati,Wheat,Local,FAQ,1700,1950,1800,22 Feb 2018
+891,Belgaum,Soundati,Wheat,Local,FAQ,1900,1900,1900,01 Aug 2018
+892,Kalburgi,Alanda,Wheat,Bansi,FAQ,950,1110,1000,30 Nov 2017
+893,Hassan,Arasikere,Wheat,Local,FAQ,1500,1500,1500,05 Jul 2018
+894,Bagalkot,Bagalakot,Wheat,Sona,Medium,1750,1760,1759,07 May 2018
+895,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,07 Nov 2017
+896,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,07 Oct 2017
+897,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,06 Jul 2018
+898,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,01 Feb 2018
+899,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,06 Mar 2018
+900,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,09 Jan 2018
+901,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,19 Apr 2018
+902,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,20 Feb 2018
+903,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,21 Feb 2018
+904,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,23 Jan 2018
+905,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,28 Feb 2018
+906,Bidar,Basava Kalayana,Wheat,Medium,FAQ,900,1200,1100,09 Oct 2017
+907,Bidar,Basava Kalayana,Wheat,Medium,FAQ,950,1200,1050,16 Nov 2017
+908,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1300,1150,25 Sep 2017
+909,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1400,1250,20 Nov 2017
+910,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1350,1250,12 Sep 2017
+911,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1250,1550,1450,10 Apr 2018
+912,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1550,1450,27 Jun 2018
+913,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1600,1500,18 Jul 2018
+914,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1650,1500,18 Jun 2018
+915,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1700,1600,16 Jul 2018
+916,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1680,1550,18 May 2018
+917,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1700,1600,06 Aug 2018
+918,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1850,1800,21 Aug 2018
+919,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1501,1400,22 Nov 2017
+920,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1600,1450,26 Dec 2017
+921,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1761,1650,26 May 2018
+922,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1340,1450,1400,22 Dec 2017
+923,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1780,1550,14 Mar 2018
+924,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1800,1700,09 Apr 2018
+925,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1900,1400,04 Nov 2017
+926,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1800,1700,20 Jun 2018
+927,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1800,1700,21 Oct 2017
+928,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1800,1750,19 May 2018
+929,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1880,1700,21 Jun 2018
+930,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,2100,2000,06 Aug 2018
+931,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1850,1800,06 Jun 2018
+932,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,2000,1800,18 Jul 2018
+933,Bellary,Bellary,Wheat,Sona,FAQ,1520,1601,1574,09 Apr 2018
+934,Shimoga,Bhadravathi,Wheat,Local,FAQ,2100,2200,2150,28 Nov 2017
+935,Shimoga,Bhadravathi,Wheat,Local,FAQ,2150,2255,2200,25 Nov 2017
+936,Shimoga,Bhadravathi,Wheat,Local,FAQ,2600,2900,2650,26 May 2018
+937,Shimoga,Bhadravathi,Wheat,Local,FAQ,2600,3000,2800,25 May 2018
+938,Shimoga,Bhadravathi,Wheat,Local,FAQ,2700,2800,2750,23 Jan 2018
+939,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,06 Jun 2018
+940,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,09 Aug 2018
+941,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,10 Jul 2018
+942,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,26 Jul 2018
+943,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,11 Apr 2018
+944,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2300,30 Oct 2017
+945,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2200,21 Feb 2018
+946,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2300,04 Nov 2017
+947,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2300,03 Feb 2018
+948,Bidar,Bidar,Wheat,Red,FAQ,2100,2700,2400,09 Feb 2018
+949,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,21 Dec 2017
+950,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,25 Nov 2017
+951,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,01 Jan 2018
+952,Bijapur,Bijapur,Wheat,Bansi,FAQ,2500,3200,3000,30 Jul 2018
+953,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,19 May 2018
+954,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,24 May 2018
+955,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,28 May 2018
+956,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,21 Feb 2018
+957,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,23 Aug 2018
+958,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,11 Sep 2017
+959,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,26 Sep 2017
+960,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,04 Nov 2017
+961,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,07 Dec 2017
+962,Bijapur,Bijapur,Wheat,Medium,FAQ,1100,1300,1200,03 Nov 2017
+963,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,07 Oct 2017
+964,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1500,1400,04 Jun 2018
+965,Bijapur,Bijapur,Wheat,Medium,FAQ,1500,1900,1700,13 Aug 2018
+966,Bijapur,Bijapur,Wheat,Medium,FAQ,1600,1600,1600,28 May 2018
+967,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,06 Apr 2018
+968,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,16 Apr 2018
+969,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,21 Jul 2018
+970,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,02 Nov 2017
+971,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,12 Oct 2017
+972,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,15 Nov 2017
+973,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,25 Nov 2017
+974,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,25 Oct 2017
+975,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,30 Jan 2018
+976,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,31 Oct 2017
+977,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2800,2200,23 Oct 2017
+978,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,06 Sep 2017
+979,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,18 Sep 2017
+980,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,06 Apr 2018
+981,Dharwad,Dharwar,Wheat,H.D.,FAQ,1710,1830,1770,10 Apr 2018
+982,Dharwad,Dharwar,Wheat,H.D.,FAQ,1720,1840,1780,21 Apr 2018
+983,Dharwad,Dharwar,Wheat,H.D.,FAQ,2250,2250,2250,04 Aug 2018
+984,Gadag,Gadag,Wheat,White,FAQ,1007,1970,1832,02 Jul 2018
+985,Gadag,Gadag,Wheat,White,FAQ,1211,2257,1808,27 Mar 2018
+986,Gadag,Gadag,Wheat,White,FAQ,1361,2288,1885,25 Aug 2018
+987,Gadag,Gadag,Wheat,White,FAQ,1412,5259,3365,11 Nov 2017
+988,Gadag,Gadag,Wheat,White,FAQ,1477,2077,1743,19 May 2018
+989,Gadag,Gadag,Wheat,White,FAQ,1543,3669,2371,12 Feb 2018
+990,Gadag,Gadag,Wheat,White,FAQ,1669,5278,4217,30 Oct 2017
+991,Gadag,Gadag,Wheat,White,FAQ,1727,2109,1802,27 Jun 2018
+992,Gadag,Gadag,Wheat,White,FAQ,1812,2232,2119,02 Aug 2018
+993,Gadag,Gadag,Wheat,White,FAQ,1915,2177,2056,17 Jul 2018
+994,Gadag,Gadag,Wheat,White,FAQ,2002,2550,2081,01 Aug 2018
+995,Gadag,Gadag,Wheat,White,FAQ,2239,3101,2714,01 Feb 2018
+996,Koppal,Gangavathi,Wheat,Local,FAQ,1700,1705,1700,23 Mar 2018
+997,Koppal,Gangavathi,Wheat,Local,FAQ,1800,1810,1800,01 Mar 2018
+998,Koppal,Gangavathi,Wheat,Local,FAQ,1815,1815,1815,02 Jun 2018
+999,Haveri,Haveri,Wheat,Local,FAQ,2160,2160,2160,18 Dec 2017
+1000,Haveri,Haveri,Wheat,Local,FAQ,2401,2401,2401,29 Jun 2018
+1001,Chitradurga,Hiriyur,Wheat,Super Fine,FAQ,2125,2125,2125,19 Jan 2018
+1002,Bellary,Hospet,Wheat,Super Fine,FAQ,2000,2180,2170,09 Sep 2017
+1003,Dharwad,Hubli (Amaragol),Wheat,Jawari,FAQ,2001,2116,2075,16 Jul 2018
+1004,Dharwad,Annigeri,Wheat,H.D.,FAQ,1700,1900,1800,28 Jun 2018
+1005,Hassan,Arasikere,Wheat,Local,FAQ,2200,2200,2200,01 Jan 2018
+1006,Belgaum,Athani,Wheat,H.D.,FAQ,1300,1500,1400,11 Jul 2018
+1007,Bagalkot,Bagalakot,Wheat,Sona,Medium,1500,1500,1500,14 Sep 2017
+1008,Bagalkot,Bagalakot,Wheat,Sona,Medium,1505,1900,1667,02 May 2018
+1009,Bagalkot,Bagalakot,Wheat,Sona,Medium,1700,1750,1710,13 Apr 2018
+1010,Bagalkot,Bagalakot,Wheat,Sona,Medium,1750,1760,1756,04 Jun 2018
+1011,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,12 Oct 2017
+1012,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,13 Sep 2017
+1013,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,20 Sep 2017
+1014,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,23 Sep 2017
+1015,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,28 Oct 2017
+1016,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,22 Jun 2018
+1017,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,08 Feb 2018
+1018,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,09 Feb 2018
+1019,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,14 May 2018
+1020,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,15 May 2018
+1021,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,24 May 2018
+1022,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,27 Apr 2018
+1023,Bangalore,Bangalore,Wheat,Local,FAQ,2500,3400,2950,01 Sep 2017
+1024,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1042,1150,1100,01 Jan 2018
+1025,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1150,1100,12 Mar 2018
+1026,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1250,1100,28 Oct 2017
+1027,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1300,1250,07 Feb 2018
+1028,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1275,1200,21 Dec 2017
+1029,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1300,1200,08 Jan 2018
+1030,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1500,1400,11 Sep 2017
+1031,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1550,1450,13 Apr 2018
+1032,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1650,1550,11 Jul 2018
+1033,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1660,1550,03 Jul 2018
+1034,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1800,1700,11 Jun 2018
+1035,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1721,1600,14 Jul 2018
+1036,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,2100,1950,28 Nov 2017
+1037,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1800,1700,24 Jul 2018
+1038,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1300,1300,21 Dec 2017
+1039,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,2000,1701,04 Sep 2017
+1040,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1301,1550,1425,11 Oct 2017
+1041,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1450,1400,27 Feb 2018
+1042,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1760,1500,06 Apr 2018
+1043,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1850,1650,09 Jun 2018
+1044,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1800,1700,21 May 2018
+1045,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1913,1600,17 Nov 2017
+1046,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1650,2000,1800,01 Sep 2018
+1047,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1900,1800,25 Jun 2018
+1048,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,3400,4050,3850,03 Aug 2018
+1049,Shimoga,Bhadravathi,Wheat,Local,FAQ,2255,2255,2255,14 Nov 2017
+1050,Shimoga,Bhadravathi,Wheat,Local,FAQ,2500,2500,2500,24 Nov 2017
+1051,Shimoga,Bhadravathi,Wheat,Local,FAQ,2600,2700,2650,16 Oct 2017
+1052,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,08 Aug 2018
+1053,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,13 Aug 2018
+1054,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,20 Aug 2018
+1055,Bidar,Bidar,Wheat,Red,FAQ,1800,2600,2100,24 May 2018
+1056,Bidar,Bidar,Wheat,Red,FAQ,1900,2500,2200,02 May 2018
+1057,Bidar,Bidar,Wheat,Red,FAQ,1900,2500,2200,28 Apr 2018
+1058,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2300,07 Oct 2017
+1059,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1309,1839,1601,22 Feb 2018
+1060,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1401,2050,1619,21 May 2018
+1061,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1639,2269,1839,23 Aug 2018
+1062,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1469,1789,1503,07 Mar 2018
+1063,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1469,2539,1469,21 Dec 2017
+1064,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1450,1550,1500,19 Feb 2018
+1065,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1700,1630,17 May 2018
+1066,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1750,1850,1800,30 Jul 2018
+1067,Belgaum,Kudchi,Wheat,Other,FAQ,1400,1600,1500,03 Oct 2017
+1068,Gadag,Laxmeshwar,Wheat,Red,FAQ,1461,2130,1815,12 Mar 2018
+1069,Gadag,Laxmeshwar,Wheat,White,FAQ,1300,2226,1627,04 May 2018
+1070,Raichur,Manvi,Wheat,Other,Medium,1780,1783,1782,02 Mar 2018
+1071,Bagalkot,Mhalingapur,Wheat,Red,FAQ,1500,1600,1550,19 Mar 2018
+1072,Bagalkot,Mhalingapur,Wheat,Red,FAQ,1500,1600,1550,23 Mar 2018
+1073,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2200,2900,2550,08 Mar 2018
+1074,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2300,3000,2550,05 Jul 2018
+1075,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,02 Feb 2018
+1076,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,08 Dec 2017
+1077,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,14 Feb 2018
+1078,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,21 May 2018
+1079,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,20 Jun 2018
+1080,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,26 Mar 2018
+1081,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3200,2800,12 Mar 2018
+1082,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3200,2800,15 Mar 2018
+1083,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,8900,2650,05 Dec 2017
+1084,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,2800,2650,05 May 2018
+1085,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,3000,2750,15 Jun 2018
+1086,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,29 Aug 2018
+1087,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3400,3100,07 Aug 2018
+1088,Gadag,Nargunda,Wheat,H.D.,Medium,1600,1980,1831,31 Mar 2018
+1089,Gadag,Nargunda,Wheat,H.D.,Medium,1650,3875,2188,07 Nov 2017
+1090,Gadag,Nargunda,Wheat,H.D.,Medium,1675,2000,1873,07 Mar 2018
+1091,Gadag,Nargunda,Wheat,H.D.,Medium,1780,1780,1780,30 Jan 2018
+1092,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1850,1828,23 Jun 2018
+1093,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1875,1851,27 Mar 2018
+1094,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1900,1842,24 Mar 2018
+1095,Gadag,Nargunda,Wheat,H.D.,Medium,1800,2000,1984,15 Mar 2018
+1096,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1860,1854,19 May 2018
+1097,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1950,1903,04 Jun 2018
+1098,Gadag,Nargunda,Wheat,H.D.,Medium,1947,1950,1949,20 Mar 2018
+1099,Gadag,Nargunda,Wheat,H.D.,Medium,2050,2050,2050,04 Aug 2018
+1100,Gadag,Nargunda,Wheat,H.D.,Medium,2050,2050,2050,24 Aug 2018
+1101,Gadag,Nargunda,Wheat,H.D.,Medium,2100,2100,2100,02 Aug 2018
+1102,Belgaum,Ramdurga,Wheat,Local,Medium,1550,1700,1650,20 Jul 2018
+1103,Haveri,Shiggauv,Wheat,Local,FAQ,1300,1400,1350,14 Jun 2018
+1104,Haveri,Shiggauv,Wheat,Local,FAQ,1680,1720,1700,06 Feb 2018
+1105,Haveri,Shiggauv,Wheat,Local,FAQ,1730,1750,1740,10 Sep 2017
+1106,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2900,2750,05 Dec 2017
+1107,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,05 Apr 2018
+1108,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,25 Jan 2018
+1109,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,26 Apr 2018
+1110,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,12 Apr 2018
+1111,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,12 Mar 2018
+1112,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,13 Apr 2018
+1113,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,09 Mar 2018
+1114,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,17 Nov 2017
+1115,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2400,24 Nov 2017
+1116,Bidar,Bidar,Wheat,Red,FAQ,2200,2500,2300,08 Jan 2018
+1117,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,26 Dec 2017
+1118,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,07 Jun 2018
+1119,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,09 Apr 2018
+1120,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,16 Aug 2018
+1121,Bijapur,Bijapur,Wheat,Bansi,FAQ,3200,4000,3500,21 Jul 2018
+1122,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,07 Jul 2018
+1123,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1500,1350,12 Jan 2018
+1124,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,01 Mar 2018
+1125,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,02 Apr 2018
+1126,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,02 Jul 2018
+1127,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,07 May 2018
+1128,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,27 Mar 2018
+1129,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,24 Jan 2018
+1130,Davangere,Davangere,Wheat,Super Fine,FAQ,2100,2200,2150,18 May 2018
+1131,Davangere,Davangere,Wheat,Super Fine,FAQ,2100,2200,2150,20 Apr 2018
+1132,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,22 Dec 2017
+1133,Davangere,Davangere,Wheat,Super Fine,FAQ,2400,2500,2450,20 Jul 2018
+1134,Dharwad,Dharwar,Wheat,H.D.,FAQ,1600,1800,1700,03 May 2018
+1135,Dharwad,Dharwar,Wheat,H.D.,FAQ,1651,1651,1651,03 Mar 2018
+1136,Dharwad,Dharwar,Wheat,H.D.,FAQ,1751,1800,1788,08 Mar 2018
+1137,Dharwad,Dharwar,Wheat,H.D.,FAQ,2100,2100,2100,30 Jan 2018
+1138,Dharwad,Dharwar,Wheat,H.D.,FAQ,3500,3500,3500,06 Oct 2017
+1139,Dharwad,Dharwar,Wheat,White,FAQ,1491,2200,1845,23 Jan 2018
+1140,Gadag,Gadag,Wheat,White,FAQ,1011,3629,1529,23 Mar 2018
+1141,Gadag,Gadag,Wheat,White,FAQ,1012,2339,1107,10 Jan 2018
+1142,Gadag,Gadag,Wheat,White,FAQ,1019,3512,1558,08 Jan 2018
+1143,Gadag,Gadag,Wheat,White,FAQ,1139,3001,2364,31 Jan 2018
+1144,Gadag,Gadag,Wheat,White,FAQ,1319,3178,1656,05 Apr 2018
+1145,Gadag,Gadag,Wheat,White,FAQ,1339,5227,3992,21 Sep 2017
+1146,Gadag,Gadag,Wheat,White,FAQ,1441,2825,1869,15 Mar 2018
+1147,Gadag,Gadag,Wheat,White,FAQ,1509,2517,1831,01 Mar 2018
+1148,Gadag,Gadag,Wheat,White,FAQ,1512,2681,1918,01 Sep 2018
+1149,Gadag,Gadag,Wheat,White,FAQ,1519,1651,1640,19 Dec 2017
+1150,Gadag,Gadag,Wheat,White,FAQ,1529,2612,1814,28 Mar 2018
+1151,Gadag,Gadag,Wheat,White,FAQ,1529,4077,2102,20 Nov 2017
+1152,Gadag,Gadag,Wheat,White,FAQ,1532,3939,2019,23 Dec 2017
+1153,Gadag,Gadag,Wheat,White,FAQ,1539,2416,1842,16 May 2018
+1154,Gadag,Gadag,Wheat,White,FAQ,1567,2952,1742,21 May 2018
+1155,Gadag,Gadag,Wheat,White,FAQ,1604,1711,1644,07 Sep 2017
+1156,Gadag,Gadag,Wheat,White,FAQ,1681,4312,3297,11 Sep 2017
+1157,Gadag,Gadag,Wheat,White,FAQ,1725,2509,2160,03 Aug 2018
+1158,Gadag,Gadag,Wheat,White,FAQ,1981,2083,2028,08 Aug 2018
+1159,Hassan,Hassan,Wheat,Other,FAQ,2104,2114,2114,28 Dec 2017
+1160,Hassan,Hassan,Wheat,Other,FAQ,2139,2222,2222,22 Sep 2017
+1161,Haveri,Haveri,Wheat,Local,FAQ,1860,1860,1860,23 Mar 2018
+1162,Dharwad,Hubli (Amaragol),Wheat,Jawari,FAQ,2251,2251,2251,31 Jul 2018
+1163,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1349,2039,1715,06 Apr 2018
+1164,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,2018,2100,2018,09 Jul 2018
+1165,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1201,2061,1739,26 Feb 2018
+1166,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1404,1729,1601,04 Jun 2018
+1167,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1529,2119,1529,24 Mar 2018
+1168,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1550,1759,1719,16 May 2018
+1169,Bijapur,Sindagi,Wheat,Bansi,FAQ,1800,2000,1950,01 Sep 2017
+1170,Belgaum,Soundati,Wheat,Local,FAQ,1400,1410,1405,21 Sep 2017
+1171,Belgaum,Soundati,Wheat,Local,FAQ,1480,1810,1624,31 May 2018
+1172,Belgaum,Soundati,Wheat,Local,FAQ,1650,1810,1742,12 Apr 2018
+1173,Belgaum,Soundati,Wheat,Local,FAQ,2025,2025,2025,29 Aug 2018
+1174,Chikmagalur,Tarikere,Wheat,Other,FAQ,1012,1012,1012,15 May 2018
+1175,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1625,2029,1702,24 May 2018
+1176,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,2601,2601,2601,15 Sep 2017
+1177,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1900,1900,1900,29 Aug 2018
+1178,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1400,1600,1500,20 Feb 2018
+1179,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1400,1600,1500,28 Apr 2018
+1180,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1650,1600,02 Apr 2018
+1181,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1650,1600,23 Apr 2018
+1182,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1600,1700,1650,21 Feb 2018
+1183,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,21 May 2018
+1184,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1700,1780,1740,16 Jul 2018
+1185,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1700,1800,1800,18 Jul 2018
+1186,Mysore,K.R.Nagar,Wheat,Bansi,FAQ,2138,2164,2155,31 Mar 2018
+1187,Belgaum,Kudchi,Wheat,Other,FAQ,1700,1850,1800,28 Nov 2017
+1188,Gadag,Laxmeshwar,Wheat,Red,FAQ,1285,1925,1682,09 Jul 2018
+1189,Gadag,Laxmeshwar,Wheat,Red,FAQ,1481,1768,1593,05 Jun 2018
+1190,Gadag,Laxmeshwar,Wheat,Red,FAQ,1715,1915,1802,01 Sep 2018
+1191,Raichur,Manvi,Wheat,Other,Medium,950,950,950,19 Dec 2017
+1192,Raichur,Manvi,Wheat,Other,Medium,1790,1790,1790,05 Mar 2018
+1193,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2200,2900,2550,07 Mar 2018
+1194,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,22 Dec 2017
+1195,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,29 Nov 2017
+1196,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,24 May 2018
+1197,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,12 Jul 2018
+1198,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,3000,2750,14 Jun 2018
+1199,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3000,2800,21 Jul 2018
+1200,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3200,3000,09 Oct 2017
+1201,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3400,3100,09 Aug 2018
+1202,Gadag,Nargunda,Wheat,H.D.,Medium,1601,4000,1875,16 Oct 2017
+1203,Gadag,Nargunda,Wheat,H.D.,Medium,1700,1870,1746,05 Apr 2018
+1204,Gadag,Nargunda,Wheat,H.D.,Medium,1750,1750,1750,08 Jan 2018
+1205,Gadag,Nargunda,Wheat,H.D.,Medium,1750,1750,1750,23 May 2018
+1206,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1870,1867,11 Jul 2018
+1207,Gadag,Nargunda,Wheat,H.D.,Medium,1850,2100,1928,18 Jul 2018
+1208,Gadag,Nargunda,Wheat,H.D.,Medium,1950,1950,1950,07 Aug 2018
+1209,Belgaum,Nippani,Wheat,Local,FAQ,2365,2365,2365,03 May 2018
+1210,Belgaum,Ramdurga,Wheat,Local,FAQ,1650,1900,1800,08 Jul 2018
+1211,Belgaum,Ramdurga,Wheat,Local,Medium,1600,1800,1700,04 Jul 2018
+1212,Belgaum,Ramdurga,Wheat,Local,Medium,1750,2000,1850,12 Aug 2018
+1213,Belgaum,Sankeshwar,Wheat,Other,FAQ,2100,2400,2247,05 Jan 2018
+1214,Haveri,Shiggauv,Wheat,Local,FAQ,1550,1720,1635,25 Jan 2018
+1215,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1710,1705,22 Nov 2017
+1216,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1720,1710,04 Feb 2018
+1217,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1720,1710,28 Nov 2017
+1218,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2500,3000,2750,18 Dec 2017
+1219,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,01 Aug 2018
+1220,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,01 Dec 2017
+1221,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,03 Feb 2018
+1222,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,11 Apr 2018
+1223,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,12 Jun 2018
+1224,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,27 Feb 2018
+1225,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,20 Nov 2017
+1226,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,26 Jul 2018
+1227,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,26 Sep 2017
+1228,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,27 Oct 2017
+1229,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1500,1580,1550,18 Jan 2018
+1230,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1550,1650,1600,08 Jan 2018
+1231,Raichur,Sindhanur,Wheat,Jawari,Medium,1400,1400,1400,28 May 2018
+1232,Belgaum,Soundati,Wheat,Local,FAQ,1480,1480,1480,04 Jan 2018
+1233,Belgaum,Soundati,Wheat,Local,FAQ,1520,1520,1520,08 Mar 2018
+1234,Belgaum,Soundati,Wheat,Local,FAQ,1600,1600,1600,15 Jul 2018
+1235,Belgaum,Soundati,Wheat,Local,FAQ,1700,1700,1700,22 Mar 2018
+1236,Belgaum,Soundati,Wheat,Local,FAQ,2050,2050,2050,10 Aug 2018
+1237,Kalburgi,Alanda,Wheat,Bansi,FAQ,1050,1200,1100,29 Mar 2018
+1238,Hassan,Arasikere,Wheat,Local,FAQ,2075,2075,2075,21 Dec 2017
+1239,Hassan,Arasikere,Wheat,Local,FAQ,2075,2150,2075,13 Oct 2017
+1240,Hassan,Arasikere,Wheat,Local,FAQ,2260,2275,2260,24 May 2018
+1241,Hassan,Arasikere,Wheat,Local,FAQ,2510,2510,2510,24 Aug 2018
+1242,Belgaum,Athani,Wheat,H.D.,FAQ,1300,1500,1400,13 Aug 2018
+1243,Belgaum,Athani,Wheat,H.D.,FAQ,1337,1449,1400,31 Mar 2018
+1244,Belgaum,Athani,Wheat,H.D.,FAQ,1480,1500,1490,24 Oct 2017
+1245,Bagalkot,Bagalakot,Wheat,Sona,Medium,1700,1700,1700,03 Apr 2018
+1246,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,03 Oct 2017
+1247,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,09 Oct 2017
+1248,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,11 Sep 2017
+1249,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,12 Sep 2017
+1250,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,16 Nov 2017
+1251,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,16 Sep 2017
+1252,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,19 Oct 2017
+1253,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,30 Oct 2017
+1254,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,07 Jul 2018
+1255,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,12 Jul 2018
+1256,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,21 Aug 2018
+1257,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,23 Jul 2018
+1258,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,01 Mar 2018
+1259,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,03 Apr 2018
+1260,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,03 Jan 2018
+1261,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,03 May 2018
+1262,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,07 May 2018
+1263,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,16 Jan 2018
+1264,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,18 May 2018
+1265,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,26 Apr 2018
+1266,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,29 Dec 2017
+1267,Bidar,Basava Kalayana,Wheat,Medium,FAQ,901,1200,1101,20 Oct 2017
+1268,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1200,1100,28 Sep 2017
+1269,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1350,1250,26 Dec 2017
+1270,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1550,1400,24 Nov 2017
+1271,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1201,1401,1301,14 Sep 2017
+1272,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1650,1500,25 Jun 2018
+1273,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1600,1550,24 Mar 2018
+1274,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1800,1700,12 Jun 2018
+1275,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1750,1600,23 May 2018
+1276,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1850,1750,29 May 2018
+1277,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1850,1700,25 Aug 2018
+1278,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1850,1700,31 Jul 2018
+1279,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1700,1900,1800,04 Aug 2018
+1280,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1200,1400,1300,21 Nov 2017
+1281,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1250,1751,1650,22 Mar 2018
+1282,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1400,1350,17 Jan 2018
+1283,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1500,1400,27 Dec 2017
+1284,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1391,1391,1391,22 Feb 2018
+1285,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1800,1650,04 Jun 2018
+1286,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1500,1450,14 Sep 2017
+1287,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1700,1650,22 May 2018
+1288,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1481,1525,1481,28 Dec 2017
+1289,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1500,1500,04 Dec 2017
+1290,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1500,1500,09 Jan 2018
+1291,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1500,1500,29 Nov 2017
+1292,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1650,1600,19 Sep 2017
+1293,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1850,1750,12 Jun 2018
+1294,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1550,1850,1699,02 May 2018
+1295,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1820,1750,10 Jul 2018
+1296,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1850,1700,25 May 2018
+1297,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1650,1900,1800,09 Jul 2018
+1298,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1900,1800,12 Jul 2018
+1299,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1910,1751,07 Sep 2017
+1300,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,2100,2000,09 Aug 2018
+1301,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,2150,2000,19 Jul 2018
+1302,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1900,2200,2000,10 Aug 2018
+1303,Shimoga,Bhadravathi,Wheat,Local,FAQ,2150,2150,2150,31 Jan 2018
+1304,Shimoga,Bhadravathi,Wheat,Local,FAQ,3000,3000,3000,10 Nov 2017
+1305,Shimoga,Bhadravathi,Wheat,Local,FAQ,3200,3200,3200,29 Aug 2018
+1306,Bidar,Bidar,Wheat,Red,FAQ,1700,2400,2000,06 Jul 2018
+1307,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,25 Jul 2018
+1308,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2100,07 Jun 2018
+1309,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2100,23 Aug 2018
+1310,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2100,03 Apr 2018
+1311,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2300,07 Dec 2017
+1312,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2100,19 Apr 2018
+1313,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,10 Mar 2018
+1314,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,16 May 2018
+1315,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,11 Dec 2017
+1316,Bidar,Bidar,Wheat,Red,FAQ,2000,2600,2400,31 Oct 2017
+1317,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2300,02 Feb 2018
+1318,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2400,27 Feb 2018
+1319,Bidar,Bidar,Wheat,Red,FAQ,2200,2400,2300,25 Sep 2017
+1320,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,02 Jan 2018
+1321,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,14 Nov 2017
+1322,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,21 Nov 2017
+1323,Bidar,Bidar,Wheat,Red,FAQ,2400,2600,2500,17 Jan 2018
+1324,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,03 May 2018
+1325,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,02 Apr 2018
+1326,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,02 Jul 2018
+1327,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,10 Apr 2018
+1328,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,12 Apr 2018
+1329,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,26 Mar 2018
+1330,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,27 Mar 2018
+1331,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,4000,3500,04 Jun 2018
+1332,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,09 Nov 2017
+1333,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,18 Dec 2017
+1334,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,19 Jan 2018
+1335,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,25 Jan 2018
+1336,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,26 Dec 2017
+1337,Bijapur,Bijapur,Wheat,Medium,FAQ,1100,1400,1200,27 Mar 2018
+1338,Bijapur,Bijapur,Wheat,Medium,FAQ,1280,1280,1280,31 Oct 2017
+1339,Bijapur,Bijapur,Wheat,Medium,FAQ,1400,1800,1600,23 Jan 2018
+1340,Bijapur,Bijapur,Wheat,Medium,FAQ,1600,2000,1800,27 Aug 2018
+1341,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,15 May 2018
+1342,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,24 May 2018
+1343,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,09 Nov 2017
+1344,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2800,2200,17 Oct 2017
+1345,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,16 Sep 2017
+1346,Dharwad,Dharwar,Wheat,H.D.,FAQ,2100,2100,2100,11 Jul 2018
+1347,Gadag,Gadag,Wheat,White,FAQ,911,3001,1703,13 Mar 2018
+1348,Gadag,Gadag,Wheat,White,FAQ,1127,2728,1801,07 Apr 2018
+1349,Gadag,Gadag,Wheat,White,FAQ,1201,3688,2118,22 Feb 2018
+1350,Gadag,Gadag,Wheat,White,FAQ,1365,2615,1948,20 Mar 2018
+1351,Gadag,Gadag,Wheat,White,FAQ,1439,2160,2010,07 May 2018
+1352,Gadag,Gadag,Wheat,White,FAQ,1502,5211,3930,23 Oct 2017
+1353,Gadag,Gadag,Wheat,White,FAQ,1505,5112,2211,12 Oct 2017
+1354,Gadag,Gadag,Wheat,White,FAQ,1507,5051,1982,09 Sep 2017
+1355,Gadag,Gadag,Wheat,White,FAQ,1545,2739,1755,11 Jan 2018
+1356,Gadag,Gadag,Wheat,White,FAQ,1552,1552,1552,07 Dec 2017
+1357,Gadag,Gadag,Wheat,White,FAQ,1611,2089,1989,28 Aug 2018
+1358,Gadag,Gadag,Wheat,White,FAQ,1629,2924,1735,17 May 2018
+1359,Gadag,Gadag,Wheat,White,FAQ,1687,2058,1806,30 Jun 2018
+1360,Gadag,Gadag,Wheat,White,FAQ,1719,1788,1750,15 Jun 2018
+1361,Gadag,Gadag,Wheat,White,FAQ,1721,1959,1772,19 Jun 2018
+1362,Gadag,Gadag,Wheat,White,FAQ,1802,2164,2057,18 Aug 2018
+1363,Gadag,Gadag,Wheat,White,FAQ,1939,2000,1940,09 Jul 2018
+1364,Gadag,Gadag,Wheat,White,FAQ,2133,3535,2707,19 Jul 2018
+1365,Gadag,Gadag,Wheat,White,FAQ,2212,3689,3443,08 Dec 2017
+1366,Koppal,Gangavathi,Wheat,Local,FAQ,1720,1725,1720,02 May 2018
+1367,Koppal,Gangavathi,Wheat,Local,FAQ,1720,1900,1740,26 Mar 2018
+1368,Koppal,Gangavathi,Wheat,Local,FAQ,1805,1830,1830,28 May 2018
+1369,Bellary,Hospet,Wheat,Other,Medium,2235,2235,2235,23 May 2018
+1370,Bellary,Hospet,Wheat,Other,Medium,2347,2347,2347,04 Jul 2018
+1371,Bellary,Hospet,Wheat,Super Fine,Medium,2130,2200,2136,22 Sep 2017
+1372,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1339,1909,1619,29 May 2018
+1373,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1176,1689,1381,05 May 2018
+1374,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1211,1756,1501,01 Mar 2018
+1375,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1509,1789,1601,04 May 2018
+1376,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1509,1926,1781,19 May 2018
+1377,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1711,2256,2100,18 Aug 2018
+1378,Bagalkot,Hungund,Wheat,Local,FAQ,1700,1700,1700,07 Apr 2018
+1379,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1900,2300,2100,02 May 2018
+1380,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1450,1550,1500,02 Nov 2017
+1381,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1450,1550,1500,24 Apr 2018
+1382,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1600,1550,12 Jan 2018
+1383,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1650,1600,30 Dec 2017
+1384,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1550,1650,1600,28 Dec 2017
+1385,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1600,1700,1650,14 Dec 2017
+1386,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1600,1700,1650,29 Dec 2017
+1387,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1600,1800,1700,11 Dec 2017
+1388,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,24 Aug 2018
+1389,Belgaum,Kudchi,Wheat,Other,FAQ,1400,1600,1500,24 Oct 2017
+1390,Gadag,Laxmeshwar,Wheat,Red,FAQ,1450,1584,1499,09 Mar 2018
+1391,Mandya,Mandya,Wheat,Other,FAQ,2265,2265,2265,30 Jul 2018
+1392,Raichur,Manvi,Wheat,Other,Medium,1300,1300,1300,13 Mar 2018
+1393,Raichur,Manvi,Wheat,Other,Medium,1848,1848,1848,07 Feb 2018
+1394,Raichur,Manvi,Wheat,Other,Medium,1850,1850,1850,03 Feb 2018
+1395,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2300,3000,2650,04 Jul 2018
+1396,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,27 Nov 2017
+1397,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,23 May 2018
+1398,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,04 Aug 2018
+1399,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,06 Jun 2018
+1400,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,20 Dec 2017
+1401,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,21 Jun 2018
+1402,Dharwad,Annigeri,Wheat,H.D.,Medium,1800,2000,1900,27 Aug 2018
+1403,Belgaum,Athani,Wheat,H.D.,FAQ,1300,1500,1400,15 Apr 2018
+1404,Bagalkot,Bagalakot,Wheat,Sona,Medium,1171,1171,1171,17 Apr 2018
+1405,Bagalkot,Bagalakot,Wheat,Sona,Medium,1711,1750,1742,26 Apr 2018
+1406,Bagalkot,Bagalakot,Wheat,Sona,Medium,1750,1750,1750,17 May 2018
+1407,Bagalkot,Bagalakot,Wheat,Sona,Medium,2012,3769,3308,07 Feb 2018
+1408,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,04 Oct 2017
+1409,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,06 Oct 2017
+1410,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,13 Nov 2017
+1411,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,15 Nov 2017
+1412,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,15 Sep 2017
+1413,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,16 Oct 2017
+1414,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,17 Nov 2017
+1415,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,21 Sep 2017
+1416,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,22 Sep 2017
+1417,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,25 Oct 2017
+1418,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,25 Sep 2017
+1419,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,05 Jun 2018
+1420,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,13 Jun 2018
+1421,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,24 Aug 2018
+1422,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,25 Jun 2018
+1423,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,30 Jun 2018
+1424,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,01 Jun 2018
+1425,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,02 Jun 2018
+1426,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,03 Mar 2018
+1427,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,07 Mar 2018
+1428,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,20 Dec 2017
+1429,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,26 Dec 2017
+1430,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,29 May 2018
+1431,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,30 May 2018
+1432,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,31 May 2018
+1433,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1191,1100,10 Nov 2017
+1434,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1255,1100,15 Nov 2017
+1435,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1200,1100,08 Nov 2017
+1436,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1350,1200,24 Jan 2018
+1437,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1351,1250,22 Feb 2018
+1438,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1500,1400,21 Nov 2017
+1439,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1725,1600,20 Jun 2018
+1440,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1800,1650,25 May 2018
+1441,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1650,1500,23 Jun 2018
+1442,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1800,1650,08 Jun 2018
+1443,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1700,1650,21 May 2018
+1444,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1611,1500,02 Jul 2018
+1445,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1800,1700,26 May 2018
+1446,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1821,1700,31 Aug 2018
+1447,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1850,1700,09 Aug 2018
+1448,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1800,1750,30 Aug 2018
+1449,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1701,1801,1701,27 Jul 2018
+1450,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1750,2002,1900,03 Aug 2018
+1451,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1250,1450,1300,20 Nov 2017
+1452,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1401,1400,01 Dec 2017
+1453,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1800,1500,26 Sep 2017
+1454,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1425,1500,1425,23 Sep 2017
+1455,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1450,1450,13 Nov 2017
+1456,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,31 Oct 2017
+1457,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3100,2750,25 Sep 2017
+1458,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2700,3000,2850,14 Sep 2017
+1459,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2700,3300,3000,23 Sep 2017
+1460,Gadag,Nargunda,Wheat,H.D.,Medium,1650,2050,1849,27 Nov 2017
+1461,Gadag,Nargunda,Wheat,H.D.,Medium,1709,1959,1923,19 Dec 2017
+1462,Gadag,Nargunda,Wheat,H.D.,Medium,1771,1865,1799,06 Apr 2018
+1463,Gadag,Nargunda,Wheat,H.D.,Medium,1774,4004,2320,23 Oct 2017
+1464,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1800,1800,12 Jul 2018
+1465,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1885,1856,18 May 2018
+1466,Gadag,Nargunda,Wheat,H.D.,Medium,1840,1900,1867,11 Apr 2018
+1467,Mysore,Piriya Pattana,Wheat,Other,FAQ,1500,1600,1550,19 Jun 2018
+1468,Haveri,Ranebennur,Wheat,Local,Medium,2300,2300,2300,16 Mar 2018
+1469,Haveri,Ranebennur,Wheat,Local,Medium,2700,2700,2700,23 Feb 2018
+1470,Haveri,Shiggauv,Wheat,Local,FAQ,1350,1400,1375,07 Jun 2018
+1471,Haveri,Shiggauv,Wheat,Local,FAQ,1380,1400,1390,17 May 2018
+1472,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2800,2700,21 Oct 2017
+1473,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2900,2750,11 Sep 2017
+1474,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,03 Jul 2018
+1475,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,04 Aug 2018
+1476,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,06 Jul 2018
+1477,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,16 Feb 2018
+1478,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,20 Sep 2017
+1479,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,22 May 2018
+1480,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,02 Nov 2017
+1481,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,06 Aug 2018
+1482,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,30 May 2018
+1483,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,17 Jul 2018
+1484,Shimoga,Shimoga,Wheat,Super Fine,FAQ,3000,3200,3100,13 Aug 2018
+1485,Belgaum,Soundati,Wheat,Local,FAQ,1460,1800,1600,14 Jun 2018
+1486,Belgaum,Soundati,Wheat,Local,FAQ,1480,1480,1480,30 May 2018
+1487,Belgaum,Soundati,Wheat,Local,FAQ,1530,1550,1540,04 Apr 2018
+1488,Belgaum,Soundati,Wheat,Local,FAQ,1550,1700,1560,07 Apr 2018
+1489,Belgaum,Soundati,Wheat,Local,FAQ,1580,1580,1580,09 Feb 2018
+1490,Belgaum,Soundati,Wheat,Local,FAQ,1600,1615,1603,10 Jul 2018
+1491,Belgaum,Soundati,Wheat,Local,FAQ,1645,1900,1648,15 Mar 2018
+1492,Belgaum,Soundati,Wheat,Local,FAQ,1650,1650,1650,01 Jun 2018
+1493,Belgaum,Soundati,Wheat,Local,FAQ,1700,1720,1705,11 Feb 2018
+1494,Belgaum,Soundati,Wheat,Local,FAQ,1800,1810,1805,06 May 2018
+1495,Belgaum,Soundati,Wheat,Local,FAQ,1960,2011,1983,05 Aug 2018
+1496,Belgaum,Soundati,Wheat,Local,FAQ,2000,2030,2008,24 Aug 2018
+1497,Belgaum,Soundati,Wheat,Local,FAQ,3310,3500,3431,20 Feb 2018
+1498,Chikmagalur,Tarikere,Wheat,Other,FAQ,2314,2700,2507,19 Mar 2018
+1499,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1501,1550,1501,16 Nov 2017
+1500,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1550,1850,1700,11 Jul 2018
+1501,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1581,1942,1700,11 Nov 2017
+1502,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1800,1650,28 May 2018
+1503,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1900,1800,07 Jun 2018
+1504,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1650,1900,1780,30 Jun 2018
+1505,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1920,1800,25 Jul 2018
+1506,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1900,2200,2100,21 Aug 2018
+1507,Bellary,Bellary,Wheat,Sona,FAQ,1882,1882,1882,15 Mar 2018
+1508,Shimoga,Bhadravathi,Wheat,Local,FAQ,2500,2500,2500,22 Nov 2017
+1509,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,25 Jun 2018
+1510,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,21 May 2018
+1511,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,31 May 2018
+1512,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2100,21 Mar 2018
+1513,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2200,10 Oct 2017
+1514,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2100,26 Apr 2018
+1515,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,12 Dec 2017
+1516,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2350,11 May 2018
+1517,Bidar,Bidar,Wheat,Red,FAQ,2100,2400,2200,01 Feb 2018
+1518,Bidar,Bidar,Wheat,Red,FAQ,2100,2800,2600,02 Nov 2017
+1519,Bidar,Bidar,Wheat,Red,FAQ,2200,2450,2300,21 Sep 2017
+1520,Bijapur,Bijapur,Wheat,Bansi,FAQ,2500,3200,3000,02 Aug 2018
+1521,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3200,3000,13 Aug 2018
+1522,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,06 Mar 2018
+1523,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,12 Jun 2018
+1524,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,23 Jun 2018
+1525,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,28 Feb 2018
+1526,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,06 Sep 2017
+1527,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,4000,3500,05 Jun 2018
+1528,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,28 Nov 2017
+1529,Bijapur,Bijapur,Wheat,Medium,FAQ,1100,1300,1200,09 Oct 2017
+1530,Bijapur,Bijapur,Wheat,Medium,FAQ,1400,1800,1600,23 Feb 2018
+1531,Bijapur,Bijapur,Wheat,Medium,FAQ,1400,1800,1600,31 Jul 2018
+1532,Bijapur,Bijapur,Wheat,Medium,FAQ,1500,1800,1600,13 Jul 2018
+1533,Bijapur,Bijapur,Wheat,Sona,FAQ,200,2400,2200,16 Aug 2018
+1534,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,02 May 2018
+1535,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,03 May 2018
+1536,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,10 Apr 2018
+1537,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,11 Jun 2018
+1538,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,18 May 2018
+1539,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,06 Dec 2017
+1540,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,13 Nov 2017
+1541,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,17 Nov 2017
+1542,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,19 Jan 2018
+1543,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,28 Oct 2017
+1544,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2400,2200,05 Jun 2018
+1545,Bijapur,Bijapur,Wheat,Sona,FAQ,2200,2600,2400,13 Aug 2018
+1546,Davangere,Davangere,Wheat,Super Fine,FAQ,2000,2300,2150,29 Jun 2018
+1547,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,06 Jul 2018
+1548,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,28 Mar 2018
+1549,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,08 Dec 2017
+1550,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,16 Aug 2018
+1551,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,24 Nov 2017
+1552,Dharwad,Dharwar,Wheat,H.D.,FAQ,1825,1825,1825,28 Apr 2018
+1553,Dharwad,Dharwar,Wheat,H.D.,FAQ,1900,1900,1900,16 Aug 2018
+1554,Dharwad,Dharwar,Wheat,H.D.,FAQ,1970,1970,1970,31 Jul 2018
+1555,Kalburgi,Alanda,Wheat,Bansi,FAQ,1050,1200,1100,22 Feb 2018
+1556,Hassan,Arasikere,Wheat,Local,FAQ,2100,2200,2140,09 Nov 2017
+1557,Bagalkot,Bagalakot,Wheat,Sona,Medium,1400,1400,1400,21 Sep 2017
+1558,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,18 Nov 2017
+1559,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,20 Nov 2017
+1560,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,22 Nov 2017
+1561,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,21 Jul 2018
+1562,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,27 Jun 2018
+1563,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,04 May 2018
+1564,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,09 May 2018
+1565,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,11 May 2018
+1566,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,12 Jan 2018
+1567,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,19 Feb 2018
+1568,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,19 Mar 2018
+1569,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,25 Jan 2018
+1570,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,28 Mar 2018
+1571,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,28 May 2018
+1572,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,30 Nov 2017
+1573,Bidar,Basava Kalayana,Wheat,Medium,FAQ,950,1250,1150,12 Oct 2017
+1574,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1300,1250,06 Feb 2018
+1575,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1426,1300,19 Sep 2017
+1576,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1250,1200,19 Feb 2018
+1577,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1300,1200,17 Feb 2018
+1578,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1561,1400,06 Apr 2018
+1579,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1350,1250,27 Dec 2017
+1580,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1400,1250,09 Mar 2018
+1581,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1550,1400,09 Apr 2018
+1582,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1550,1750,1700,15 Jun 2018
+1583,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1700,1450,25 Sep 2017
+1584,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1700,1600,09 Mar 2018
+1585,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1450,1400,07 Oct 2017
+1586,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1850,1700,11 Jun 2018
+1587,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1900,1600,10 Mar 2018
+1588,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1931,1851,03 May 2018
+1589,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1550,1701,1680,13 Apr 2018
+1590,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1650,1900,1800,28 Aug 2018
+1591,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,2000,1900,30 Aug 2018
+1592,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,2300,2000,18 Aug 2018
+1593,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,07 Aug 2018
+1594,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,18 Aug 2018
+1595,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,21 Jun 2018
+1596,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2100,26 Jun 2018
+1597,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2200,07 Apr 2018
+1598,Bidar,Bidar,Wheat,Red,FAQ,1900,2500,2300,13 Apr 2018
+1599,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,23 Oct 2017
+1600,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,04 Dec 2017
+1601,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2200,06 Feb 2018
+1602,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2300,16 Dec 2017
+1603,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,08 Sep 2017
+1604,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,23 Dec 2017
+1605,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,30 Dec 2017
+1606,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,08 Dec 2017
+1607,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,09 Sep 2017
+1608,Bijapur,Bijapur,Wheat,Bansi,FAQ,2500,3200,3000,31 Jul 2018
+1609,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,26 May 2018
+1610,Kalburgi,Alanda,Wheat,Bansi,FAQ,875,1180,1100,18 Jan 2018
+1611,Dharwad,Annigeri,Wheat,H.D.,FAQ,1700,1800,1750,22 May 2018
+1612,Hassan,Arasikere,Wheat,Local,FAQ,2175,2325,2175,12 Mar 2018
+1613,Hassan,Arasikere,Wheat,Local,FAQ,2300,2325,2300,14 Jun 2018
+1614,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,04 Aug 2018
+1615,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,07 Jun 2018
+1616,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,16 Aug 2018
+1617,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,16 Jul 2018
+1618,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,23 Aug 2018
+1619,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,06 Jan 2018
+1620,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,07 Feb 2018
+1621,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,13 Apr 2018
+1622,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,14 Mar 2018
+1623,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,26 Mar 2018
+1624,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1520,1400,28 Apr 2018
+1625,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1200,1150,02 Nov 2017
+1626,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1400,1300,22 Sep 2017
+1627,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1350,1250,14 Mar 2018
+1628,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1365,1200,10 Jan 2018
+1629,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1400,1290,22 Nov 2017
+1630,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1580,1400,07 Sep 2017
+1631,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1650,1550,12 Dec 2017
+1632,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1500,1400,11 May 2018
+1633,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1650,1550,05 Dec 2017
+1634,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1700,1650,24 May 2018
+1635,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1700,1620,07 Jul 2018
+1636,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1850,1800,30 Jul 2018
+1637,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1800,1700,10 Aug 2018
+1638,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1800,1700,14 Aug 2018
+1639,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1600,1400,13 Sep 2017
+1640,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1400,1380,06 Oct 2017
+1641,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1381,1581,1450,10 Oct 2017
+1642,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1600,1400,23 Feb 2018
+1643,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1401,1851,1700,06 Sep 2017
+1644,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1450,1450,07 Feb 2018
+1645,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1680,1500,07 Mar 2018
+1646,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1800,1750,24 May 2018
+1647,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1690,1580,26 Apr 2018
+1648,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1751,1650,23 May 2018
+1649,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1550,1550,1550,30 Nov 2017
+1650,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1800,1600,28 Oct 2017
+1651,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,2000,1800,24 Jul 2018
+1652,Shimoga,Bhadravathi,Wheat,Local,FAQ,2561,2561,2561,14 Feb 2018
+1653,Shimoga,Bhadravathi,Wheat,Local,FAQ,2570,2860,2700,21 Sep 2017
+1654,Bidar,Bidar,Wheat,Red,FAQ,1700,2400,2000,05 Jul 2018
+1655,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,01 Sep 2018
+1656,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,02 Jul 2018
+1657,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,12 Jul 2018
+1658,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,23 Jun 2018
+1659,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,29 Jun 2018
+1660,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,01 Jun 2018
+1661,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2200,15 Mar 2018
+1662,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2200,23 Mar 2018
+1663,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,05 Mar 2018
+1664,Bidar,Bidar,Wheat,Red,FAQ,2100,2450,2350,27 Sep 2017
+1665,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,05 Jul 2018
+1666,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,16 Jan 2018
+1667,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,17 Mar 2018
+1668,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,19 Jun 2018
+1669,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,07 Nov 2017
+1670,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,03 Apr 2018
+1671,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,06 Oct 2017
+1672,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1500,1400,24 Oct 2017
+1673,Bijapur,Bijapur,Wheat,Medium,FAQ,1285,1320,1309,28 Oct 2017
+1674,Bijapur,Bijapur,Wheat,Medium,FAQ,1300,1700,1500,02 Aug 2018
+1675,Bijapur,Bijapur,Wheat,Medium,FAQ,1400,1600,1500,30 Jun 2018
+1676,Bijapur,Bijapur,Wheat,Medium,FAQ,1500,1800,1600,21 Jul 2018
+1677,Bijapur,Bijapur,Wheat,Medium,FAQ,1500,1800,1600,23 Jul 2018
+1678,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,31 Mar 2018
+1679,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,26 Dec 2017
+1680,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,13 Jul 2018
+1681,Dharwad,Dharwar,Wheat,H.D.,FAQ,1625,1875,1750,01 Jun 2018
+1682,Dharwad,Dharwar,Wheat,H.D.,FAQ,1700,1700,1700,24 Jan 2018
+1683,Dharwad,Dharwar,Wheat,H.D.,FAQ,1711,1755,1740,05 Mar 2018
+1684,Dharwad,Dharwar,Wheat,H.D.,FAQ,1790,1790,1790,29 May 2018
+1685,Dharwad,Dharwar,Wheat,H.D.,FAQ,2400,2400,2400,11 Apr 2018
+1686,Gadag,Gadag,Wheat,White,FAQ,1019,2500,2024,04 Apr 2018
+1687,Gadag,Gadag,Wheat,White,FAQ,1313,2450,2260,02 May 2018
+1688,Gadag,Gadag,Wheat,White,FAQ,1358,2711,1673,12 Apr 2018
+1689,Gadag,Gadag,Wheat,White,FAQ,1412,2719,1949,12 Mar 2018
+1690,Gadag,Gadag,Wheat,White,FAQ,1539,2700,1826,15 Feb 2018
+1691,Gadag,Gadag,Wheat,White,FAQ,1562,2500,2360,03 May 2018
+1692,Gadag,Gadag,Wheat,White,FAQ,1601,1861,1722,09 May 2018
+1693,Gadag,Gadag,Wheat,White,FAQ,1650,1839,1713,31 May 2018
+1694,Gadag,Gadag,Wheat,White,FAQ,1659,2869,1896,23 May 2018
+1695,Gadag,Gadag,Wheat,White,FAQ,1669,2127,1777,08 Jun 2018
+1696,Gadag,Gadag,Wheat,White,FAQ,1789,2227,2015,13 Aug 2018
+1697,Gadag,Gadag,Wheat,White,FAQ,2000,2327,2041,09 Aug 2018
+1698,Gadag,Gadag,Wheat,White,FAQ,2265,5261,3640,28 Sep 2017
+1699,Koppal,Gangavathi,Wheat,Local,FAQ,1675,1920,1900,16 Jul 2018
+1700,Koppal,Gangavathi,Wheat,Local,FAQ,1690,1700,1690,16 Apr 2018
+1701,Koppal,Gangavathi,Wheat,Local,FAQ,1800,1810,1810,05 Mar 2018
+1702,Koppal,Gangavathi,Wheat,Local,FAQ,2050,2050,2050,23 Aug 2018
+1703,Haveri,Hanagal,Wheat,Super Fine,Medium,1798,1800,1800,11 Jul 2018
+1704,Hassan,Hassan,Wheat,Other,FAQ,2040,2500,2300,23 Feb 2018
+1705,Hassan,Hassan,Wheat,Other,FAQ,2057,2500,2500,27 Nov 2017
+1706,Hassan,Hassan,Wheat,Other,FAQ,2122,2200,2200,28 Nov 2017
+1707,Hassan,Hassan,Wheat,Other,FAQ,2217,2284,2244,31 May 2018
+1708,Hassan,Hassan,Wheat,Other,FAQ,2500,2500,2500,22 Mar 2018
+1709,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1011,2169,1011,20 Feb 2018
+1710,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1269,2109,1479,08 Mar 2018
+1711,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1301,2000,1301,23 Feb 2018
+1712,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,2609,2929,2869,11 Nov 2017
+1713,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1300,1500,1425,13 Nov 2017
+1714,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1550,1650,1600,08 Jan 2018
+1715,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1720,15 Dec 2017
+1716,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1800,1725,24 May 2018
+1717,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1700,1800,1750,31 May 2018
+1718,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1700,1850,1800,07 Aug 2018
+1719,Chikmagalur,Koppa,Wheat,Other,FAQ,1600,1600,1600,01 Sep 2017
+1720,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,15 Feb 2018
+1721,Kalburgi,Alanda,Wheat,Bansi,FAQ,880,990,900,14 Dec 2017
+1722,Belgaum,Athani,Wheat,H.D.,FAQ,3000,4000,3500,17 Dec 2017
+1723,Bagalkot,Bagalakot,Wheat,Sona,Medium,1300,1300,1300,12 Dec 2017
+1724,Bagalkot,Bagalakot,Wheat,Sona,Medium,1700,1700,1700,04 Apr 2018
+1725,Bagalkot,Bagalakot,Wheat,Sona,Medium,1725,1725,1725,25 May 2018
+1726,Bagalkot,Bagalakot,Wheat,Sona,Medium,1750,1750,1750,30 Apr 2018
+1727,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,05 Sep 2017
+1728,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,27 Oct 2017
+1729,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,28 Nov 2017
+1730,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,02 Aug 2018
+1731,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,03 Aug 2018
+1732,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,06 Jun 2018
+1733,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,09 Aug 2018
+1734,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,17 Jul 2018
+1735,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,20 Jul 2018
+1736,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,29 Aug 2018
+1737,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,07 Apr 2018
+1738,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,10 Apr 2018
+1739,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,15 Feb 2018
+1740,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,16 Dec 2017
+1741,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,18 Dec 2017
+1742,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,18 Jan 2018
+1743,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,19 Dec 2017
+1744,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,19 Jan 2018
+1745,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,23 Dec 2017
+1746,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,25 May 2018
+1747,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,27 Jan 2018
+1748,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,30 Dec 2017
+1749,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1150,1100,11 Nov 2017
+1750,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1401,1250,27 Sep 2017
+1751,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1260,1200,09 Jan 2018
+1752,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1299,1200,03 Jan 2018
+1753,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1300,1200,12 Jan 2018
+1754,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1300,1250,23 Jan 2018
+1755,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1350,1200,06 Mar 2018
+1756,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1150,1400,1250,22 Jan 2018
+1757,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1700,1600,26 Jun 2018
+1758,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1750,1650,19 Jun 2018
+1759,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1681,1500,19 Mar 2018
+1760,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1800,1500,15 Sep 2017
+1761,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1401,1801,1401,12 Sep 2017
+1762,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1402,1460,1402,10 Feb 2018
+1763,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1650,1500,23 Mar 2018
+1764,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,2100,1600,06 Mar 2018
+1765,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1475,1475,1475,01 Sep 2017
+1766,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1500,1500,08 Dec 2017
+1767,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1600,1511,16 Sep 2017
+1768,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1700,1680,09 May 2018
+1769,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1601,1778,1650,30 May 2018
+1770,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1650,1650,1650,22 Jan 2018
+1771,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,2000,2100,2000,31 Aug 2018
+1772,Shimoga,Bhadravathi,Wheat,Local,FAQ,2500,3000,2800,22 Jan 2018
+1773,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,08 Jun 2018
+1774,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,11 Jul 2018
+1775,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2400,08 Feb 2018
+1776,Bidar,Bidar,Wheat,Red,FAQ,2200,2400,2300,10 Jan 2018
+1777,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,12 Jan 2018
+1778,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,11 May 2018
+1779,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,07 Jul 2018
+1780,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,20 Mar 2018
+1781,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,25 Jun 2018
+1782,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,27 Jun 2018
+1783,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,04 Sep 2017
+1784,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,15 Sep 2017
+1785,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,22 Sep 2017
+1786,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,25 Sep 2017
+1787,Bijapur,Bijapur,Wheat,Bansi,FAQ,3200,4000,3500,11 Jul 2018
+1788,Bijapur,Bijapur,Wheat,Bansi,FAQ,3200,4000,3500,12 Jul 2018
+1789,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,08 Nov 2017
+1790,Bijapur,Bijapur,Wheat,Bansi,FAQ,3800,4200,4000,13 Oct 2017
+1791,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,04 Oct 2017
+1792,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1800,1600,07 Jun 2018
+1793,Bijapur,Bijapur,Wheat,Medium,FAQ,1400,1800,1600,16 Jul 2018
+1794,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,06 Mar 2018
+1795,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,24 Mar 2018
+1796,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,25 May 2018
+1797,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,28 Feb 2018
+1798,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,16 Feb 2018
+1799,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,20 Jan 2018
+1800,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,27 Oct 2017
+1801,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2600,2200,11 Dec 2017
+1802,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,01 Dec 2017
+1803,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,15 Dec 2017
+1804,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,19 Jan 2018
+1805,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,24 Aug 2018
+1806,Dharwad,Dharwar,Wheat,H.D.,FAQ,1800,1800,1800,01 Mar 2018
+1807,Dharwad,Dharwar,Wheat,H.D.,FAQ,1970,1970,1970,03 Aug 2018
+1808,Dharwad,Dharwar,Wheat,H.D.,FAQ,2200,2200,2200,24 Feb 2018
+1809,Gadag,Gadag,Wheat,White,FAQ,1422,2779,1912,13 Apr 2018
+1810,Gadag,Gadag,Wheat,White,FAQ,1429,3506,1982,24 Mar 2018
+1811,Gadag,Gadag,Wheat,White,FAQ,1434,2050,1580,14 Nov 2017
+1812,Gadag,Gadag,Wheat,White,FAQ,1456,5261,2490,07 Oct 2017
+1813,Gadag,Gadag,Wheat,White,FAQ,1522,3206,2244,22 Jan 2018
+1814,Gadag,Gadag,Wheat,White,FAQ,1529,5210,3024,03 Nov 2017
+1815,Gadag,Gadag,Wheat,White,FAQ,1532,4751,2886,25 Oct 2017
+1816,Gadag,Gadag,Wheat,White,FAQ,1532,5112,2766,14 Oct 2017
+1817,Gadag,Gadag,Wheat,White,FAQ,1539,4517,1825,16 Dec 2017
+1818,Gadag,Gadag,Wheat,White,FAQ,1549,3128,2642,10 Feb 2018
+1819,Gadag,Gadag,Wheat,White,FAQ,1609,1772,1720,10 May 2018
+1820,Gadag,Gadag,Wheat,White,FAQ,1649,1649,1649,28 Jun 2018
+1821,Gadag,Gadag,Wheat,White,FAQ,1650,1939,1686,08 May 2018
+1822,Gadag,Gadag,Wheat,White,FAQ,1679,1842,1742,18 Jun 2018
+1823,Gadag,Gadag,Wheat,White,FAQ,1839,2205,2117,20 Aug 2018
+1824,Gadag,Gadag,Wheat,White,FAQ,1849,2124,1931,29 Aug 2018
+1825,Gadag,Gadag,Wheat,White,FAQ,1925,2865,2142,23 Jul 2018
+1826,Gadag,Gadag,Wheat,White,FAQ,1951,2457,2051,26 Jul 2018
+1827,Gadag,Gadag,Wheat,White,FAQ,2358,3078,2518,09 Feb 2018
+1828,Koppal,Gangavathi,Wheat,Local,FAQ,1640,1650,1640,09 Jul 2018
+1829,Koppal,Gangavathi,Wheat,Local,FAQ,1690,1690,1690,09 Apr 2018
+1830,Koppal,Gangavathi,Wheat,Local,FAQ,1700,1700,1700,08 Jun 2018
+1831,Koppal,Gangavathi,Wheat,Local,FAQ,1700,1700,1700,12 Jun 2018
+1832,Koppal,Gangavathi,Wheat,Local,FAQ,1705,1710,1705,05 May 2018
+1833,Koppal,Gangavathi,Wheat,Local,FAQ,1800,1805,1800,22 Feb 2018
+1834,Koppal,Gangavathi,Wheat,Local,FAQ,1810,1810,1810,09 Mar 2018
+1835,Koppal,Gangavathi,Wheat,Local,FAQ,1950,1950,1950,06 Feb 2018
+1836,Hassan,Hassan,Wheat,Other,FAQ,2000,2200,2200,31 Oct 2017
+1837,Hassan,Hassan,Wheat,Other,FAQ,2058,2162,2162,28 Sep 2017
+1838,Bangalore,Hoskote,Wheat,Other,FAQ,1600,1600,1600,17 Mar 2018
+1839,Bellary,Hospet,Wheat,Other,Medium,2265,2265,2265,24 Feb 2018
+1840,Bellary,Hospet,Wheat,Other,Medium,2290,2290,2290,20 Mar 2018
+1841,Bellary,Hospet,Wheat,Super Fine,Medium,2160,2280,2180,05 Dec 2017
+1842,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1651,2229,1902,21 Feb 2018
+1843,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1439,1929,1632,22 Mar 2018
+1844,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1499,1789,1609,30 Apr 2018
+1845,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1512,1759,1512,21 Jun 2018
+1846,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1563,2219,1819,13 Apr 2018
+1847,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,3450,4000,3450,12 Sep 2017
+1848,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1400,1600,1500,03 May 2018
+1849,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1450,1550,1500,12 Apr 2018
+1850,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,13 Aug 2018
+1851,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1700,1800,1750,28 May 2018
+1852,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1750,1800,1800,19 Jul 2018
+1853,Mysore,K.R.Nagar,Wheat,Bansi,FAQ,1575,1600,1586,18 Dec 2017
+1854,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,18 May 2018
+1855,Belgaum,Kudchi,Wheat,Other,FAQ,1300,1500,1400,07 Nov 2017
+1856,Belgaum,Kudchi,Wheat,Other,FAQ,1400,1600,1500,24 Mar 2018
+1857,Belgaum,Kudchi,Wheat,White,FAQ,1650,1750,1695,25 Aug 2018
+1858,Gadag,Laxmeshwar,Wheat,Red,FAQ,1371,1825,1514,09 Apr 2018
+1859,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2200,2900,2550,06 Mar 2018
+1860,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,12 Feb 2018
+1861,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,13 Nov 2017
+1862,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,23 Feb 2018
+1863,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,10 Jul 2018
+1864,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,21 Mar 2018
+1865,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,23 Jun 2018
+1866,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,2800,2650,02 May 2018
+1867,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,3000,2750,12 Jun 2018
+1868,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,3200,2850,07 Nov 2017
+1869,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3000,2800,12 Sep 2017
+1870,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3000,2800,16 Jul 2018
+1871,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3200,3000,10 Oct 2017
+1872,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3200,3000,11 Oct 2017
+1873,Gadag,Nargunda,Wheat,H.D.,Medium,1500,3909,2304,07 Oct 2017
+1874,Gadag,Nargunda,Wheat,H.D.,Medium,1536,1691,1650,06 Dec 2017
+1875,Gadag,Nargunda,Wheat,H.D.,Medium,1569,1609,1585,01 Jan 2018
+1876,Gadag,Nargunda,Wheat,H.D.,Medium,1790,2015,1935,12 Mar 2018
+1877,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1900,1874,03 Apr 2018
+1878,Gadag,Nargunda,Wheat,H.D.,Medium,1800,3725,1852,13 Sep 2017
+1879,Gadag,Nargunda,Wheat,H.D.,Medium,1820,1850,1830,10 Apr 2018
+1880,Gadag,Nargunda,Wheat,H.D.,Medium,1870,1970,1921,07 Jul 2018
+1881,Gadag,Nargunda,Wheat,H.D.,Medium,1970,1970,1970,20 Jun 2018
+1882,Gadag,Nargunda,Wheat,H.D.,Medium,2050,2050,2050,20 Jul 2018
+1883,Gadag,Nargunda,Wheat,H.D.,Medium,2050,2150,2095,20 Aug 2018
+1884,Gadag,Nargunda,Wheat,H.D.,Medium,2060,2060,2060,25 Jul 2018
+1885,Gadag,Nargunda,Wheat,H.D.,Medium,2150,2150,2150,01 Sep 2018
+1886,Belgaum,Nippani,Wheat,Local,Medium,2500,2500,2500,04 Apr 2018
+1887,Dharwad,Annigeri,Wheat,H.D.,FAQ,1850,1950,1900,12 Apr 2018
+1888,Hassan,Arasikere,Wheat,Local,FAQ,2100,2145,2100,22 Jan 2018
+1889,Hassan,Arasikere,Wheat,Local,FAQ,2200,2200,2200,11 Jan 2018
+1890,Hassan,Arasikere,Wheat,Local,FAQ,2325,2325,2325,03 Jul 2018
+1891,Bagalkot,Bagalakot,Wheat,Sona,Medium,1400,1400,1400,07 Oct 2017
+1892,Bagalkot,Bagalakot,Wheat,Sona,Medium,1700,1700,1700,11 Apr 2018
+1893,Bagalkot,Bagalakot,Wheat,Sona,Medium,1951,2050,1954,16 Jul 2018
+1894,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,08 Sep 2017
+1895,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,21 Nov 2017
+1896,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,21 Oct 2017
+1897,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,28 Sep 2017
+1898,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,05 Jul 2018
+1899,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,12 Jun 2018
+1900,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,19 Jul 2018
+1901,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,01 Dec 2017
+1902,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,03 Feb 2018
+1903,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,04 Jun 2018
+1904,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,13 Dec 2017
+1905,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,23 Feb 2018
+1906,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,27 Feb 2018
+1907,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1200,1100,07 Nov 2017
+1908,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1301,1250,10 Feb 2018
+1909,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1250,1200,17 Jan 2018
+1910,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1300,1150,21 Feb 2018
+1911,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1471,1300,19 Jan 2018
+1912,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1500,1400,21 Mar 2018
+1913,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1350,1325,10 Mar 2018
+1914,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1700,1450,09 Dec 2017
+1915,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1700,1550,12 Jul 2018
+1916,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1761,1500,29 Nov 2017
+1917,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1800,1700,19 May 2018
+1918,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1451,1681,1481,04 Jul 2018
+1919,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1800,1700,18 Aug 2018
+1920,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1900,1750,01 Aug 2018
+1921,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1300,1300,1300,09 Sep 2017
+1922,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1700,1500,14 Nov 2017
+1923,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1700,1600,28 Mar 2018
+1924,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1500,1500,24 Jan 2018
+1925,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1700,1600,02 Apr 2018
+1926,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1700,1650,07 May 2018
+1927,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1800,1700,05 Jun 2018
+1928,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1900,1720,14 Jun 2018
+1929,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1560,1850,1750,01 Jun 2018
+1930,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1650,1600,11 May 2018
+1931,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1900,1750,08 Jun 2018
+1932,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1650,1800,1700,29 May 2018
+1933,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1650,1850,1750,02 Jun 2018
+1934,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,2000,1900,31 Jul 2018
+1935,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1750,2200,2050,08 Aug 2018
+1936,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,2000,1900,30 Jul 2018
+1937,Shimoga,Bhadravathi,Wheat,Local,FAQ,2130,2130,2130,10 Apr 2018
+1938,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,21 Jul 2018
+1939,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2200,24 Aug 2018
+1940,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,22 May 2018
+1941,Bidar,Bidar,Wheat,Red,FAQ,1900,2450,2300,11 Oct 2017
+1942,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2100,27 Apr 2018
+1943,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,13 Oct 2017
+1944,Bidar,Bidar,Wheat,Red,FAQ,2000,2600,2500,22 Jan 2018
+1945,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2200,24 Feb 2018
+1946,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2450,23 Jan 2018
+1947,Bidar,Bidar,Wheat,Red,FAQ,2200,2500,2300,06 Dec 2017
+1948,Bidar,Bidar,Wheat,Red,FAQ,2200,2500,2300,06 Jan 2018
+1949,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3200,3000,09 Aug 2018
+1950,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,07 May 2018
+1951,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,13 Mar 2018
+1952,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,24 Mar 2018
+1953,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,26 Feb 2018
+1954,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3800,3400,21 Sep 2017
+1955,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,02 Nov 2017
+1956,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,07 May 2018
+1957,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1500,1400,01 Jan 2018
+1958,Bijapur,Bijapur,Wheat,Medium,FAQ,1225,1225,1225,02 Nov 2017
+1959,Bijapur,Bijapur,Wheat,Medium,FAQ,1535,1565,1553,01 Dec 2017
+1960,Bijapur,Bijapur,Wheat,Medium,FAQ,1600,2000,1800,08 Jan 2018
+1961,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,03 Nov 2017
+1962,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,14 Nov 2017
+1963,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,20 Nov 2017
+1964,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,23 Nov 2017
+1965,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,28 Nov 2017
+1966,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2600,2400,31 Jul 2018
+1967,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,15 Sep 2017
+1968,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,22 Sep 2017
+1969,Davangere,Davangere,Wheat,Super Fine,FAQ,2100,2300,2200,01 Jun 2018
+1970,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,09 Mar 2018
+1971,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,12 Jan 2018
+1972,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,15 Jun 2018
+1973,Dharwad,Dharwar,Wheat,H.D.,FAQ,1710,1850,1780,27 Apr 2018
+1974,Dharwad,Dharwar,Wheat,White,FAQ,1900,1900,1900,23 Jun 2018
+1975,Gadag,Gadag,Wheat,White,FAQ,1101,1622,1198,05 Dec 2017
+1976,Gadag,Gadag,Wheat,White,FAQ,1512,3369,2397,28 Dec 2017
+1977,Gadag,Gadag,Wheat,White,FAQ,1522,3028,2634,19 Feb 2018
+1978,Gadag,Gadag,Wheat,White,FAQ,1529,3579,2205,13 Jan 2018
+1979,Gadag,Gadag,Wheat,White,FAQ,1539,4269,2344,04 Dec 2017
+1980,Gadag,Gadag,Wheat,White,FAQ,1554,6806,1852,14 Sep 2017
+1981,Gadag,Gadag,Wheat,White,FAQ,1566,5039,3276,27 Oct 2017
+1982,Gadag,Gadag,Wheat,White,FAQ,1649,2113,1773,09 Jun 2018
+1983,Gadag,Gadag,Wheat,White,FAQ,1679,1829,1731,12 Jun 2018
+1984,Gadag,Gadag,Wheat,White,FAQ,1715,2550,1893,14 Jul 2018
+1985,Gadag,Gadag,Wheat,White,FAQ,1733,2500,1853,07 Jul 2018
+1986,Gadag,Gadag,Wheat,White,FAQ,1742,1889,1847,04 Jul 2018
+1987,Gadag,Gadag,Wheat,White,FAQ,1852,1882,1854,31 Aug 2018
+1988,Gadag,Gadag,Wheat,White,FAQ,1857,2411,2043,04 Aug 2018
+1989,Gadag,Gadag,Wheat,White,FAQ,1952,2378,2200,30 Jul 2018
+1990,Gadag,Gadag,Wheat,White,FAQ,2269,3707,2633,07 Feb 2018
+1991,Koppal,Gangavathi,Wheat,Local,FAQ,1750,1750,1750,16 Mar 2018
+1992,Koppal,Gangavathi,Wheat,Local,FAQ,1810,1820,1810,19 May 2018
+1993,Hassan,Hassan,Wheat,Other,FAQ,2200,2391,2320,14 Mar 2018
+1994,Haveri,Haveri,Wheat,Local,FAQ,1750,1750,1750,08 May 2018
+1995,Haveri,Haveri,Wheat,Local,FAQ,1840,1840,1840,14 Mar 2018
+1996,Haveri,Haveri,Wheat,Local,FAQ,2150,2150,2150,08 Feb 2018
+1997,Bellary,Hospet,Wheat,Other,Medium,2347,2347,2347,29 Jun 2018
+1998,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,23 Feb 2018
+1999,Gadag,Laxmeshwar,Wheat,Red,FAQ,1108,1915,1564,01 Jun 2018
+2000,Gadag,Laxmeshwar,Wheat,Red,FAQ,1471,1735,1618,29 May 2018
+2001,Gadag,Laxmeshwar,Wheat,White,FAQ,4590,4590,4590,27 Oct 2017
+2002,Mandya,Mandya,Wheat,Other,Medium,2265,2265,2265,31 Jul 2018
+2003,Raichur,Manvi,Wheat,Other,Medium,950,950,950,18 Dec 2017
+2004,Raichur,Manvi,Wheat,Other,Medium,950,950,950,20 Dec 2017
+2005,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,01 Dec 2017
+2006,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,03 Feb 2018
+2007,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,06 Sep 2017
+2008,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,08 Jan 2018
+2009,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,15 May 2018
+2010,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,17 Feb 2018
+2011,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,03 Apr 2018
+2012,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,04 Nov 2017
+2013,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,11 Apr 2018
+2014,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,22 Jun 2018
+2015,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,28 Oct 2017
+2016,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,3000,2750,11 Jun 2018
+2017,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,3200,2850,26 Sep 2017
+2018,Gadag,Nargunda,Wheat,H.D.,Medium,1201,5161,2283,28 Sep 2017
+2019,Gadag,Nargunda,Wheat,H.D.,Medium,1730,1990,1910,21 Mar 2018
+2020,Gadag,Nargunda,Wheat,H.D.,Medium,1825,2058,1946,28 Nov 2017
+2021,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1850,1850,21 Jun 2018
+2022,Gadag,Nargunda,Wheat,H.D.,Medium,1910,1910,1910,14 Jun 2018
+2023,Gadag,Nargunda,Wheat,H.D.,Medium,1950,1950,1950,03 Mar 2018
+2024,Belgaum,Ramdurga,Wheat,Local,Medium,1700,2000,1800,15 Jul 2018
+2025,Belgaum,Sankeshwar,Wheat,H.D.,FAQ,2000,2200,2100,19 May 2018
+2026,Belgaum,Sankeshwar,Wheat,Other,FAQ,1500,1700,1600,20 Jun 2018
+2027,Belgaum,Sankeshwar,Wheat,Other,FAQ,1900,2200,2031,15 Nov 2017
+2028,Belgaum,Sankeshwar,Wheat,Other,FAQ,1900,2200,2038,23 Oct 2017
+2029,Haveri,Shiggauv,Wheat,Local,FAQ,1120,1150,1135,21 Mar 2018
+2030,Haveri,Shiggauv,Wheat,Local,FAQ,1280,1330,1305,18 Mar 2018
+2031,Haveri,Shiggauv,Wheat,Local,FAQ,1380,1450,1415,06 May 2018
+2032,Haveri,Shiggauv,Wheat,Local,FAQ,1730,1750,1740,12 Sep 2017
+2033,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,21 Feb 2018
+2034,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,17 Mar 2018
+2035,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,24 Jul 2018
+2036,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,26 Oct 2017
+2037,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,08 Dec 2017
+2038,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3400,3100,18 Aug 2018
+2039,Bijapur,Sindagi,Wheat,Bansi,FAQ,1400,1800,1650,05 Apr 2018
+2040,Bijapur,Sindagi,Wheat,Jawari,FAQ,1500,2000,1750,11 Jul 2018
+2041,Bijapur,Sindagi(Indi),Wheat,Jawari,FAQ,2100,2200,2150,04 Jun 2018
+2042,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1500,1500,1500,29 Nov 2017
+2043,Raichur,Sindhanur,Wheat,Jawari,FAQ,1700,1700,1700,13 Apr 2018
+2044,Belgaum,Soundati,Wheat,Local,FAQ,1480,1480,1480,06 Jul 2018
+2045,Belgaum,Soundati,Wheat,Local,FAQ,1520,1900,1673,10 Mar 2018
+2046,Belgaum,Soundati,Wheat,Local,FAQ,1680,1950,1800,28 Feb 2018
+2047,Belgaum,Soundati,Wheat,Local,FAQ,1700,1700,1700,19 Feb 2018
+2048,Belgaum,Soundati,Wheat,Local,FAQ,1810,1830,1824,26 May 2018
+2049,Belgaum,Soundati,Wheat,Local,FAQ,1820,1820,1820,25 Jun 2018
+2050,Belgaum,Soundati,Wheat,Local,FAQ,1900,1925,1912,07 Mar 2018
+2051,Belgaum,Soundati,Wheat,Local,FAQ,1900,2100,2050,03 Aug 2018
+2052,Belgaum,Soundati,Wheat,Local,FAQ,1970,2100,2068,06 Aug 2018
+2053,Haveri,Ranebennur,Wheat,Local,Medium,2170,2170,2170,25 Jan 2018
+2054,Haveri,Shiggauv,Wheat,Local,FAQ,1600,1720,1660,05 Feb 2018
+2055,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1720,1710,26 Nov 2017
+2056,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2800,2700,15 Sep 2017
+2057,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,02 Jan 2018
+2058,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,03 May 2018
+2059,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,07 Mar 2018
+2060,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,08 Mar 2018
+2061,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,17 May 2018
+2062,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,18 Nov 2017
+2063,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,2900,2800,06 Oct 2017
+2064,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,03 Nov 2017
+2065,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,24 Oct 2017
+2066,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,08 Aug 2018
+2067,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,23 Jul 2018
+2068,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3400,3100,20 Aug 2018
+2069,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2900,3100,3000,16 Aug 2018
+2070,Bijapur,Sindagi,Wheat,Bansi,FAQ,1000,1500,1350,26 Oct 2017
+2071,Bijapur,Sindagi,Wheat,Bansi,FAQ,1500,2000,1750,15 Jun 2018
+2072,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1200,1500,1300,27 Dec 2017
+2073,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1500,1500,1500,16 Nov 2017
+2074,Belgaum,Soundati,Wheat,Local,FAQ,1400,1400,1400,09 Mar 2018
+2075,Belgaum,Soundati,Wheat,Local,FAQ,1650,1700,1665,03 Jul 2018
+2076,Belgaum,Soundati,Wheat,Local,FAQ,1700,1700,1700,20 Jul 2018
+2077,Chikmagalur,Tarikere,Wheat,Other,FAQ,2600,2600,2600,28 Sep 2017
+2078,Bellary,Hospet,Wheat,Super Fine,FAQ,2150,2150,2150,03 Oct 2017
+2079,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1306,1903,1829,07 Jul 2018
+2080,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1319,2239,1869,09 Apr 2018
+2081,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1506,1926,1702,14 May 2018
+2082,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1100,2009,1651,02 Jun 2018
+2083,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1501,1501,1501,02 Aug 2018
+2084,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1419,4261,1869,26 Sep 2017
+2085,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,2226,2226,2226,16 Aug 2018
+2086,Dharwad,Hubli (Amaragol),Wheat,White,Medium,2019,2209,2019,14 Nov 2017
+2087,Bagalkot,Hungund,Wheat,Local,FAQ,2100,2100,2100,14 Jun 2018
+2088,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1600,1550,05 Jan 2018
+2089,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1600,1800,1700,29 Nov 2017
+2090,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1700,1800,1750,18 Aug 2018
+2091,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1750,1800,1800,21 Jul 2018
+2092,Gadag,Laxmeshwar,Wheat,Red,FAQ,1579,2050,1831,22 Jun 2018
+2093,Gadag,Laxmeshwar,Wheat,White,FAQ,1725,1825,1743,22 Sep 2017
+2094,Mandya,Mandya,Wheat,Other,FAQ,2470,2470,2470,06 Apr 2018
+2095,Raichur,Manvi,Wheat,Other,Medium,1783,1783,1783,23 Feb 2018
+2096,Raichur,Manvi,Wheat,Other,Medium,1840,1840,1840,20 Jan 2018
+2097,Bagalkot,Mhalingapur,Wheat,Red,FAQ,1600,1700,1650,02 Feb 2018
+2098,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2300,3000,2650,02 Jul 2018
+2099,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,12 Jan 2018
+2100,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,20 Jan 2018
+2101,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,29 Dec 2017
+2102,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,06 Feb 2018
+2103,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,07 Apr 2018
+2104,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,07 Jun 2018
+2105,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,27 Jun 2018
+2106,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,28 Mar 2018
+2107,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3200,2900,18 Sep 2017
+2108,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3200,3000,24 Oct 2017
+2109,Gadag,Nargunda,Wheat,H.D.,Medium,1675,1675,1675,21 Oct 2017
+2110,Gadag,Nargunda,Wheat,H.D.,Medium,1709,3129,2053,15 Nov 2017
+2111,Gadag,Nargunda,Wheat,H.D.,Medium,1780,1963,1891,24 Feb 2018
+2112,Gadag,Nargunda,Wheat,H.D.,Medium,1800,2017,1803,14 Sep 2017
+2113,Gadag,Nargunda,Wheat,H.D.,Medium,1870,1870,1870,09 Jul 2018
+2114,Gadag,Nargunda,Wheat,H.D.,Medium,1880,1950,1908,16 Jul 2018
+2115,Belgaum,Nippani,Wheat,Local,FAQ,2170,2420,2420,31 Mar 2018
+2116,Gadag,Rona,Wheat,White,FAQ,1267,4151,3511,09 Apr 2018
+2117,Haveri,Shiggauv,Wheat,Local,FAQ,1380,1420,1400,10 May 2018
+2118,Haveri,Shiggauv,Wheat,Local,FAQ,1680,1720,1700,18 Feb 2018
+2119,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1720,1710,07 Jan 2018
+2120,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,08 Sep 2017
+2121,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,2900,2850,12 Oct 2017
+2122,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,07 Oct 2017
+2123,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,16 Nov 2017
+2124,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,28 May 2018
+2125,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,18 Jul 2018
+2126,Shimoga,Shimoga,Wheat,Super Fine,FAQ,3000,3200,3100,14 Aug 2018
+2127,Shimoga,Shimoga,Wheat,Super Fine,FAQ,3000,3400,3200,01 Sep 2018
+2128,Belgaum,Soundati,Wheat,Local,FAQ,1400,1800,1600,03 Apr 2018
+2129,Belgaum,Soundati,Wheat,Local,FAQ,1470,1690,1500,05 May 2018
+2130,Belgaum,Soundati,Wheat,Local,FAQ,1620,1630,1624,19 Mar 2018
+2131,Belgaum,Soundati,Wheat,Local,FAQ,1700,1700,1700,01 Dec 2017
+2132,Belgaum,Soundati,Wheat,Local,FAQ,2050,2050,2050,18 Aug 2018
+2133,Belgaum,Soundati,Wheat,Local,FAQ,2050,2050,2050,25 Aug 2018
+2134,Dharwad,Annigeri,Wheat,H.D.,FAQ,1600,1800,1700,25 Jun 2018
+2135,Hassan,Arasikere,Wheat,Local,FAQ,13000,13000,13000,19 Feb 2018
+2136,Belgaum,Athani,Wheat,H.D.,FAQ,1100,1800,1500,23 Nov 2017
+2137,Belgaum,Athani,Wheat,H.D.,FAQ,3000,4000,3500,16 Dec 2017
+2138,Bagalkot,Bagalakot,Wheat,Sona,Medium,1400,1700,1560,10 Apr 2018
+2139,Bagalkot,Bagalakot,Wheat,Sona,Medium,1720,2100,2017,26 May 2018
+2140,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,14 Sep 2017
+2141,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,27 Sep 2017
+2142,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,11 Jun 2018
+2143,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,14 Jun 2018
+2144,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,25 Jul 2018
+2145,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,05 May 2018
+2146,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,07 Dec 2017
+2147,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,08 Mar 2018
+2148,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,09 Mar 2018
+2149,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,12 Dec 2017
+2150,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,12 Mar 2018
+2151,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,14 Dec 2017
+2152,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,17 Apr 2018
+2153,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,28 Dec 2017
+2154,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,29 Jan 2018
+2155,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2900,05 Mar 2018
+2156,Bidar,Basava Kalayana,Wheat,Medium,FAQ,900,1200,1050,14 Nov 2017
+2157,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1331,1200,26 Sep 2017
+2158,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1000,1385,1300,20 Dec 2017
+2159,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1300,1200,28 Dec 2017
+2160,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1400,1200,16 Sep 2017
+2161,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1450,1300,05 Apr 2018
+2162,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1550,1450,30 Apr 2018
+2163,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1551,1450,04 May 2018
+2164,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1250,1400,1300,27 Mar 2018
+2165,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1530,1400,10 May 2018
+2166,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1300,1561,1500,13 Dec 2017
+2167,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1500,1450,07 Apr 2018
+2168,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1721,1600,06 Dec 2017
+2169,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1750,1550,08 Dec 2017
+2170,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1850,1700,14 Jun 2018
+2171,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1600,1500,17 May 2018
+2172,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1625,1500,22 Jun 2018
+2173,Bidar,Basava Kalayana,Wheat,Medium,FAQ,2600,3200,3180,30 May 2018
+2174,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1200,1901,1550,22 Sep 2017
+2175,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1250,1800,1650,13 Mar 2018
+2176,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1550,1400,19 Jan 2018
+2177,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1700,1450,27 Sep 2017
+2178,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1600,1500,09 Oct 2017
+2179,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1750,1600,27 Mar 2018
+2180,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1451,1451,1451,17 Feb 2018
+2181,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1851,1750,16 May 2018
+2182,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1501,1501,1501,08 Nov 2017
+2183,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1800,1650,17 May 2018
+2184,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1850,1700,15 Jun 2018
+2185,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1850,1700,19 Jun 2018
+2186,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1900,1800,20 Jul 2018
+2187,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,1900,1820,23 Jul 2018
+2188,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1710,1711,1710,26 Jun 2018
+2189,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,2050,1900,27 Jul 2018
+2190,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,2350,2100,14 Aug 2018
+2191,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,2000,2200,2100,07 Aug 2018
+2192,Shimoga,Bhadravathi,Wheat,Local,FAQ,2400,2400,2400,16 Aug 2018
+2193,Shimoga,Bhadravathi,Wheat,Local,FAQ,2800,3200,3000,30 Aug 2018
+2194,Shimoga,Bhadravathi,Wheat,Local,FAQ,3000,3000,3000,14 Dec 2017
+2195,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,07 Jul 2018
+2196,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,10 Aug 2018
+2197,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,16 Jul 2018
+2198,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,22 Jun 2018
+2199,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,25 Aug 2018
+2200,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2000,07 May 2018
+2201,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,03 May 2018
+2202,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2200,17 May 2018
+2203,Bidar,Bidar,Wheat,Red,FAQ,1900,3200,2800,06 Sep 2017
+2204,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2200,14 Mar 2018
+2205,Bidar,Bidar,Wheat,Red,FAQ,2000,2450,2200,09 Oct 2017
+2206,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,01 Sep 2017
+2207,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,07 Mar 2018
+2208,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2300,16 Feb 2018
+2209,Bidar,Bidar,Wheat,Red,FAQ,2200,2400,2300,20 Sep 2017
+2210,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,02 May 2018
+2211,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,01 Dec 2017
+2212,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,06 Dec 2017
+2213,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,06 Jan 2018
+2214,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,14 Nov 2017
+2215,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,25 Nov 2017
+2216,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1300,1250,13 Oct 2017
+2217,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1300,1250,16 Oct 2017
+2218,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,12 Jul 2018
+2219,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,12 Jun 2018
+2220,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,16 Nov 2017
+2221,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,18 Nov 2017
+2222,Bijapur,Bijapur,Wheat,Sona,FAQ,2200,2500,2350,16 Jan 2018
+2223,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,09 Feb 2018
+2224,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,02 Feb 2018
+2225,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,27 Jul 2018
+2226,Dharwad,Dharwar,Wheat,H.D.,FAQ,1751,1751,1751,06 Mar 2018
+2227,Dharwad,Dharwar,Wheat,H.D.,FAQ,1825,1825,1825,30 Apr 2018
+2228,Dharwad,Dharwar,Wheat,H.D.,FAQ,2000,2000,2000,24 Jul 2018
+2229,Gadag,Gadag,Wheat,White,FAQ,1332,1532,1423,17 Nov 2017
+2230,Gadag,Gadag,Wheat,White,FAQ,1469,2525,1888,09 Mar 2018
+2231,Gadag,Gadag,Wheat,White,FAQ,1512,5224,3006,23 Sep 2017
+2232,Gadag,Gadag,Wheat,White,FAQ,1522,5528,2066,03 Oct 2017
+2233,Gadag,Gadag,Wheat,White,FAQ,1532,1620,1550,15 Nov 2017
+2234,Gadag,Gadag,Wheat,White,FAQ,1542,2612,2006,21 Feb 2018
+2235,Gadag,Gadag,Wheat,White,FAQ,1551,2439,1724,31 Mar 2018
+2236,Gadag,Gadag,Wheat,White,FAQ,1589,2849,2258,08 Feb 2018
+2237,Gadag,Gadag,Wheat,White,FAQ,1602,1928,1711,20 Dec 2017
+2238,Gadag,Gadag,Wheat,White,FAQ,1617,2311,1774,18 May 2018
+2239,Gadag,Gadag,Wheat,White,FAQ,1669,1772,1698,06 Jun 2018
+2240,Gadag,Gadag,Wheat,White,FAQ,1709,2305,1806,26 Jun 2018
+2241,Gadag,Gadag,Wheat,White,FAQ,1956,2511,2108,28 Jul 2018
+2242,Koppal,Gangavathi,Wheat,Local,FAQ,1700,1820,1810,11 Jun 2018
+2243,Koppal,Gangavathi,Wheat,Local,FAQ,1870,1890,1880,06 Jun 2018
+2244,Bellary,Hospet,Wheat,Other,FAQ,2210,2215,2210,08 Jan 2018
+2245,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1209,1669,1439,09 Mar 2018
+2246,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1509,2016,1729,03 Apr 2018
+2247,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,2019,2409,2359,17 Feb 2018
+2248,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1269,2179,1269,06 Aug 2018
+2249,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1300,1712,1560,25 Jun 2018
+2250,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1530,1650,1530,11 Jun 2018
+2251,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1701,1721,1711,12 Jun 2018
+2252,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1765,2269,2005,19 Feb 2018
+2253,Dharwad,Hubli (Amaragol),Wheat,White,Medium,1426,1601,1426,16 Nov 2017
+2254,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1700,1600,11 Apr 2018
+2255,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1700,1625,08 May 2018
+2256,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1700,1800,1750,28 Nov 2017
+2257,Gadag,Laxmeshwar,Wheat,Red,FAQ,1270,2121,1467,27 Apr 2018
+2258,Gadag,Laxmeshwar,Wheat,Red,FAQ,1421,2189,1601,21 May 2018
+2259,Gadag,Laxmeshwar,Wheat,Red,FAQ,1517,1922,1655,15 Jun 2018
+2260,Raichur,Manvi,Wheat,Other,Medium,1790,1790,1790,19 May 2018
+2261,Raichur,Manvi,Wheat,Other,Medium,1840,1840,1840,14 Feb 2018
+2262,Raichur,Manvi,Wheat,Other,Medium,1850,1850,1850,18 Jan 2018
+2263,Bagalkot,Mhalingapur,Wheat,Red,FAQ,1500,1600,1550,27 Mar 2018
+2264,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2200,2800,2500,18 May 2018
+2265,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,01 Jan 2018
+2266,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,02 Mar 2018
+2267,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,2800,2650,30 Apr 2018
+2268,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,27 Aug 2018
+2269,Gadag,Nargunda,Wheat,H.D.,Medium,1509,3275,2674,03 Nov 2017
+2270,Gadag,Nargunda,Wheat,H.D.,Medium,1606,3001,2103,25 Sep 2017
+2271,Gadag,Nargunda,Wheat,H.D.,Medium,1649,2559,2194,30 Nov 2017
+2272,Gadag,Nargunda,Wheat,H.D.,Medium,1730,1750,1750,04 Sep 2017
+2273,Gadag,Nargunda,Wheat,H.D.,Medium,1750,4011,2701,11 Oct 2017
+2274,Gadag,Nargunda,Wheat,H.D.,Medium,1825,2000,1926,13 Mar 2018
+2275,Gadag,Nargunda,Wheat,H.D.,Medium,1828,1828,1828,01 Sep 2017
+2276,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1850,1850,07 Jun 2018
+2277,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1885,1858,28 May 2018
+2278,Gadag,Nargunda,Wheat,H.D.,Medium,1950,1980,1975,21 Feb 2018
+2279,Belgaum,Nippani,Wheat,Local,FAQ,1980,2080,2025,13 Oct 2017
+2280,Belgaum,Ramdurga,Wheat,Local,Medium,1800,2500,2200,29 Jul 2018
+2281,Belgaum,Sankeshwar,Wheat,Other,FAQ,2200,2400,2351,08 Dec 2017
+2282,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1710,1705,24 Nov 2017
+2283,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2500,2700,2600,07 Sep 2017
+2284,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2800,2700,28 Nov 2017
+2285,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2900,2750,11 Dec 2017
+2286,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,02 Feb 2018
+2287,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,06 Jan 2018
+2288,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,14 May 2018
+2289,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,16 Jan 2018
+2290,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,21 Sep 2017
+2291,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,26 Mar 2018
+2292,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,27 Dec 2017
+2293,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,26 Jun 2018
+2294,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,26 May 2018
+2295,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,27 Jun 2018
+2296,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,28 Jun 2018
+2297,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,13 Nov 2017
+2298,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,25 Oct 2017
+2299,Kalburgi,Alanda,Wheat,Bansi,FAQ,900,1200,1100,25 Jan 2018
+2300,Dharwad,Annigeri,Wheat,H.D.,FAQ,1600,1700,1650,24 May 2018
+2301,Dharwad,Annigeri,Wheat,H.D.,FAQ,1650,1850,1750,26 May 2018
+2302,Dharwad,Annigeri,Wheat,H.D.,Medium,1600,1800,1700,11 Jul 2018
+2303,Hassan,Arasikere,Wheat,Local,FAQ,2275,2275,2275,01 Sep 2018
+2304,Bagalkot,Bagalakot,Wheat,Sona,Medium,1725,1750,1745,30 May 2018
+2305,Bagalkot,Bagalakot,Wheat,Sona,Medium,1725,1755,1750,03 May 2018
+2306,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,07 Sep 2017
+2307,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,09 Nov 2017
+2308,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,17 Oct 2017
+2309,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,27 Nov 2017
+2310,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,03 Jul 2018
+2311,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,04 Jul 2018
+2312,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,07 Aug 2018
+2313,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,08 Aug 2018
+2314,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,09 Jul 2018
+2315,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,13 Jul 2018
+2316,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,24 Jul 2018
+2317,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,02 Apr 2018
+2318,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,04 Jan 2018
+2319,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,06 Apr 2018
+2320,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,10 Jan 2018
+2321,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,11 Jan 2018
+2322,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,15 Mar 2018
+2323,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,17 May 2018
+2324,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,21 Mar 2018
+2325,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,21 May 2018
+2326,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,23 Mar 2018
+2327,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,27 Dec 2017
+2328,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,31 Mar 2018
+2329,Bidar,Basava Kalayana,Wheat,Medium,FAQ,900,1200,1100,13 Oct 2017
+2330,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1150,1200,1150,18 Sep 2017
+2331,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1150,1300,1250,18 Jan 2018
+2332,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1401,1250,04 Jan 2018
+2333,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1500,1400,20 Mar 2018
+2334,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1600,1450,30 Jun 2018
+2335,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1250,1451,1300,26 Mar 2018
+2336,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1250,1655,1500,25 Nov 2017
+2337,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1800,1700,02 Jun 2018
+2338,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1550,1490,12 Apr 2018
+2339,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1600,1550,02 May 2018
+2340,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1611,1500,26 Apr 2018
+2341,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1700,1450,23 Jul 2018
+2342,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1600,1550,07 May 2018
+2343,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1900,1800,31 May 2018
+2344,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1780,1700,04 Dec 2017
+2345,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1650,1790,1700,24 Aug 2018
+2346,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1000,1400,1300,02 Nov 2017
+2347,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1350,1350,29 Jan 2018
+2348,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1350,1700,1600,21 Mar 2018
+2349,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1380,1380,1380,24 Oct 2017
+2350,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1701,1651,06 Dec 2017
+2351,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1800,1700,03 Apr 2018
+2352,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1850,1750,18 Jun 2018
+2353,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,14 Jul 2018
+2354,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,19 Jul 2018
+2355,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,19 Jun 2018
+2356,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,30 Jul 2018
+2357,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,04 May 2018
+2358,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,09 May 2018
+2359,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2100,28 Mar 2018
+2360,Bidar,Bidar,Wheat,Red,FAQ,1900,2400,2200,26 Mar 2018
+2361,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2300,09 Nov 2017
+2362,Bidar,Bidar,Wheat,Red,FAQ,2000,2450,2300,26 Sep 2017
+2363,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,13 Dec 2017
+2364,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2400,12 Oct 2017
+2365,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2200,14 May 2018
+2366,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2200,22 Feb 2018
+2367,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2400,29 Jan 2018
+2368,Bidar,Bidar,Wheat,Red,FAQ,2200,2400,2300,22 Sep 2017
+2369,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,22 Dec 2017
+2370,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,10 Nov 2017
+2371,Bijapur,Bijapur,Wheat,Medium,FAQ,1100,1300,1200,10 Nov 2017
+2372,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,01 Jun 2018
+2373,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1500,1400,26 Oct 2017
+2374,Bijapur,Bijapur,Wheat,Medium,FAQ,1700,1900,1800,30 Aug 2018
+2375,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,26 Mar 2018
+2376,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,27 Jun 2018
+2377,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,07 Nov 2017
+2378,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,13 Oct 2017
+2379,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,15 Feb 2018
+2380,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,18 Dec 2017
+2381,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,29 Nov 2017
+2382,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,11 Sep 2017
+2383,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,23 Sep 2017
+2384,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,26 Sep 2017
+2385,Davangere,Davangere,Wheat,Super Fine,FAQ,2100,2200,2150,25 May 2018
+2386,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,13 Apr 2018
+2387,Dharwad,Dharwar,Wheat,H.D.,FAQ,1500,1500,1500,19 May 2018
+2388,Dharwad,Dharwar,Wheat,H.D.,FAQ,1650,1850,1750,30 May 2018
+2389,Dharwad,Dharwar,Wheat,H.D.,FAQ,1710,1800,1717,27 Mar 2018
+2390,Dharwad,Dharwar,Wheat,H.D.,FAQ,1800,1800,1800,28 Feb 2018
+2391,Dharwad,Dharwar,Wheat,H.D.,FAQ,1800,1850,1814,22 Feb 2018
+2392,Dharwad,Dharwar,Wheat,H.D.,FAQ,1850,1850,1850,26 Jun 2018
+2393,Dharwad,Dharwar,Wheat,H.D.,FAQ,1925,1925,1925,25 Apr 2018
+2394,Dharwad,Dharwar,Wheat,H.D.,FAQ,2050,2100,2070,20 Mar 2018
+2395,Gadag,Gadag,Wheat,White,FAQ,1411,5011,2134,26 Sep 2017
+2396,Gadag,Gadag,Wheat,White,FAQ,1424,4812,2487,15 Sep 2017
+2397,Gadag,Gadag,Wheat,White,FAQ,1439,2689,2019,05 May 2018
+2398,Gadag,Gadag,Wheat,White,FAQ,1439,2862,1723,30 Apr 2018
+2399,Gadag,Gadag,Wheat,White,FAQ,1539,4077,2217,11 Oct 2017
+2400,Gadag,Gadag,Wheat,White,FAQ,1567,1877,1699,29 May 2018
+2401,Gadag,Gadag,Wheat,White,FAQ,1609,4112,2432,23 Nov 2017
+2402,Gadag,Gadag,Wheat,White,FAQ,1639,4058,3777,06 Jan 2018
+2403,Gadag,Gadag,Wheat,White,FAQ,1669,2177,1776,23 Jun 2018
+2404,Gadag,Gadag,Wheat,White,FAQ,1696,1869,1744,25 Jun 2018
+2405,Gadag,Gadag,Wheat,White,FAQ,1725,3261,1915,05 Jul 2018
+2406,Gadag,Gadag,Wheat,White,FAQ,1807,1978,1921,18 Jul 2018
+2407,Koppal,Gangavathi,Wheat,Local,FAQ,1700,1705,1705,04 May 2018
+2408,Koppal,Gangavathi,Wheat,Local,FAQ,1810,1815,1810,31 May 2018
+2409,Hassan,Hassan,Wheat,Other,FAQ,2087,2158,2158,06 Feb 2018
+2410,Hassan,Hassan,Wheat,Other,FAQ,2450,2583,2530,23 Aug 2018
+2411,Bagalkot,Bagalakot,Wheat,Sona,Medium,1700,1700,1700,09 Apr 2018
+2412,Bagalkot,Bagalakot,Wheat,Sona,Medium,1750,1750,1750,30 Jun 2018
+2413,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,14 Nov 2017
+2414,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,18 Sep 2017
+2415,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,26 Oct 2017
+2416,Bangalore,Bangalore,Wheat,Local,FAQ,2100,3000,2550,31 Oct 2017
+2417,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,08 Jun 2018
+2418,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,15 Jun 2018
+2419,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,20 Jun 2018
+2420,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,30 Aug 2018
+2421,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,30 Jul 2018
+2422,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3100,2700,31 Aug 2018
+2423,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,01 Jan 2018
+2424,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,02 Jan 2018
+2425,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,05 Feb 2018
+2426,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,06 Dec 2017
+2427,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,08 Dec 2017
+2428,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,08 Jan 2018
+2429,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,09 Apr 2018
+2430,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,11 Apr 2018
+2431,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,12 Apr 2018
+2432,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,12 Feb 2018
+2433,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,14 Feb 2018
+2434,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,17 Jan 2018
+2435,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,24 Mar 2018
+2436,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,29 Nov 2017
+2437,Bangalore,Bangalore,Wheat,Local,FAQ,2300,3300,2800,30 Jan 2018
+2438,Bidar,Basava Kalayana,Wheat,Medium,FAQ,900,1200,1100,07 Oct 2017
+2439,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1160,1100,30 Oct 2017
+2440,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1200,1190,31 Oct 2017
+2441,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1050,1300,1150,17 Nov 2017
+2442,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1100,1100,04 Oct 2017
+2443,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1100,1100,1100,05 Feb 2018
+2444,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1400,1300,22 Mar 2018
+2445,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1200,1650,1500,11 Dec 2017
+2446,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1250,1680,1500,14 Dec 2017
+2447,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1251,1450,1300,04 Sep 2017
+2448,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1650,1500,21 Jun 2018
+2449,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1700,1600,01 Dec 2017
+2450,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1400,1910,1900,01 Jun 2018
+2451,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1600,1500,16 May 2018
+2452,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1450,1700,1650,22 May 2018
+2453,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1500,1700,1600,09 Jul 2018
+2454,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1551,1580,1570,01 Sep 2017
+2455,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1600,1750,1700,28 Aug 2018
+2456,Bidar,Basava Kalayana,Wheat,Medium,FAQ,1700,1850,1750,08 Aug 2018
+2457,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1250,1500,1280,12 Mar 2018
+2458,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1400,1600,1500,16 Mar 2018
+2459,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1401,1650,1450,11 Sep 2017
+2460,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1450,1450,28 Sep 2017
+2461,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1450,1750,1600,11 Apr 2018
+2462,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1500,1500,01 Jan 2018
+2463,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1500,1700,1625,10 May 2018
+2464,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1600,1900,1750,27 Jun 2018
+2465,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1750,1900,1800,07 Jul 2018
+2466,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,1900,1800,23 Nov 2017
+2467,Shimoga,Bhadravathi,Wheat,Local,FAQ,2140,2140,2140,24 Jan 2018
+2468,Shimoga,Bhadravathi,Wheat,Local,FAQ,2270,2270,2270,19 Oct 2017
+2469,Shimoga,Bhadravathi,Wheat,Local,FAQ,2500,3000,2800,30 Dec 2017
+2470,Shimoga,Bhadravathi,Wheat,Local,FAQ,2600,3000,2700,17 Jan 2018
+2471,Shimoga,Bhadravathi,Wheat,Local,FAQ,2600,3000,2900,27 Aug 2018
+2472,Shimoga,Bhadravathi,Wheat,Local,FAQ,3000,3000,3000,12 Oct 2017
+2473,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,05 Jun 2018
+2474,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,11 Jun 2018
+2475,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,14 Aug 2018
+2476,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,27 Mar 2018
+2477,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,28 Aug 2018
+2478,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,30 Aug 2018
+2479,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,31 Jul 2018
+2480,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2100,25 May 2018
+2481,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2100,30 May 2018
+2482,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,18 May 2018
+2483,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,19 May 2018
+2484,Bidar,Bidar,Wheat,Red,FAQ,1900,2500,2300,27 Oct 2017
+2485,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2200,20 Mar 2018
+2486,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2300,13 Nov 2017
+2487,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,26 Feb 2018
+2488,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,15 Dec 2017
+2489,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2200,03 Mar 2018
+2490,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2300,20 Feb 2018
+2491,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2200,10 Feb 2018
+2492,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,01 Dec 2017
+2493,Bijapur,Bijapur,Wheat,Bansi,FAQ,2400,3000,2800,01 Sep 2018
+2494,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3200,3000,10 Aug 2018
+2495,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,12 Mar 2018
+2496,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,16 Mar 2018
+2497,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,19 Feb 2018
+2498,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,21 Jun 2018
+2499,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,20 Dec 2017
+2500,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,22 Jan 2018
+2501,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,29 Nov 2017
+2502,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,31 Jan 2018
+2503,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,31 Oct 2017
+2504,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,01 Feb 2018
+2505,Bijapur,Bijapur,Wheat,Medium,FAQ,1400,1800,1600,20 Nov 2017
+2506,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,08 Mar 2018
+2507,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,13 Mar 2018
+2508,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,19 May 2018
+2509,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,28 May 2018
+2510,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,06 Oct 2017
+2511,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,10 Nov 2017
+2512,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,27 Nov 2017
+2513,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2400,2200,23 Aug 2018
+2514,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2600,2400,02 Aug 2018
+2515,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2600,2400,30 Jul 2018
+2516,Bijapur,Bijapur,Wheat,Sona,FAQ,2200,2600,2400,01 Sep 2018
+2517,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,04 May 2018
+2518,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,03 Aug 2018
+2519,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,25 Jan 2018
+2520,Dharwad,Dharwar,Wheat,H.D.,FAQ,1705,1705,1705,25 May 2018
+2521,Dharwad,Dharwar,Wheat,H.D.,FAQ,1750,1750,1750,23 May 2018
+2522,Dharwad,Dharwar,Wheat,H.D.,FAQ,1800,1800,1800,12 Apr 2018
+2523,Dharwad,Dharwar,Wheat,H.D.,FAQ,1800,1890,1845,05 Apr 2018
+2524,Dharwad,Dharwar,Wheat,White,FAQ,1720,1800,1737,07 Jun 2018
+2525,Gadag,Gadag,Wheat,White,FAQ,796,5211,2278,18 Sep 2017
+2526,Gadag,Gadag,Wheat,White,FAQ,1101,2762,1744,03 Apr 2018
+2527,Gadag,Gadag,Wheat,White,FAQ,1410,3109,2155,17 Feb 2018
+2528,Gadag,Gadag,Wheat,White,FAQ,1527,1758,1672,04 May 2018
+2529,Gadag,Gadag,Wheat,White,FAQ,1649,2100,1750,05 Jun 2018
+2530,Gadag,Gadag,Wheat,White,FAQ,1702,2377,1824,07 Jun 2018
+2531,Gadag,Gadag,Wheat,White,FAQ,1877,2107,1902,21 Aug 2018
+2532,Gadag,Gadag,Wheat,White,FAQ,1893,2107,2023,23 Aug 2018
+2533,Koppal,Gangavathi,Wheat,Local,FAQ,1725,1725,1725,08 Jan 2018
+2534,Koppal,Gangavathi,Wheat,Local,FAQ,1730,1735,1730,27 Mar 2018
+2535,Koppal,Gangavathi,Wheat,Local,FAQ,1740,1745,1740,17 Mar 2018
+2536,Koppal,Gangavathi,Wheat,Local,FAQ,1950,1950,1950,16 Oct 2017
+2537,Haveri,Haveri,Wheat,Local,FAQ,2150,2150,2150,11 Jan 2018
+2538,Bellary,Hospet,Wheat,Other,Medium,2185,2185,2185,24 Jan 2018
+2539,Bellary,Hospet,Wheat,Super Fine,FAQ,2130,2130,2130,13 Sep 2017
+2540,Bellary,Hospet,Wheat,Super Fine,FAQ,2255,2355,2255,06 Mar 2018
+2541,Bellary,Hospet,Wheat,Super Fine,Medium,2170,2170,2170,07 Nov 2017
+2542,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1051,2159,1559,13 Mar 2018
+2543,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1426,2129,1702,02 May 2018
+2544,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1489,2025,1529,31 May 2018
+2545,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1536,2239,2019,26 Apr 2018
+2546,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1600,1902,1702,14 Jun 2018
+2547,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1619,2251,1819,11 Apr 2018
+2548,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1709,2059,1709,14 Jul 2018
+2549,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1809,2229,1809,20 Aug 2018
+2550,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1309,1719,1539,15 Mar 2018
+2551,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1609,2001,1709,03 May 2018
+2552,Tumkur,Huliyar,Wheat,Super Fine,FAQ,7400,7800,7555,29 Nov 2017
+2553,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1450,1550,1500,20 Jan 2018
+2554,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1550,1650,1600,19 Apr 2018
+2555,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1700,1850,1800,23 Jul 2018
+2556,Mysore,K.R.Nagar,Wheat,Bansi,FAQ,2500,2500,2500,30 Apr 2018
+2557,Belgaum,Kudchi,Wheat,Other,FAQ,1400,1550,1500,14 Sep 2017
+2558,Gadag,Laxmeshwar,Wheat,Red,FAQ,1360,1829,1660,18 Aug 2018
+2559,Raichur,Manvi,Wheat,Other,Medium,950,950,950,01 Jan 2018
+2560,Raichur,Manvi,Wheat,Other,Medium,1800,1800,1800,06 Mar 2018
+2561,Raichur,Manvi,Wheat,Other,Medium,1840,1840,1840,19 Jan 2018
+2562,Raichur,Manvi,Wheat,Other,Medium,1900,1900,1900,12 Jan 2018
+2563,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2200,2800,2500,19 May 2018
+2564,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2200,2900,2550,31 May 2018
+2565,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,04 Oct 2017
+2566,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,05 Jan 2018
+2567,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,16 Apr 2018
+2568,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,23 Dec 2017
+2569,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,07 May 2018
+2570,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,13 Feb 2018
+2571,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,05 Apr 2018
+2572,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,05 Jun 2018
+2573,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,15 Dec 2017
+2574,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,16 Dec 2017
+2575,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,27 Mar 2018
+2576,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,28 Jun 2018
+2577,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,30 Oct 2017
+2578,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,31 Jul 2018
+2579,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3000,2800,13 Sep 2017
+2580,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3000,2800,18 Jul 2018
+2581,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3000,2800,20 Sep 2017
+2582,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3200,2900,22 Sep 2017
+2583,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,13 Aug 2018
+2584,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,16 Aug 2018
+2585,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3400,3000,21 Aug 2018
+2586,Gadag,Nargunda,Wheat,H.D.,FAQ,1858,1858,1858,11 Jan 2018
+2587,Gadag,Nargunda,Wheat,H.D.,Medium,1650,2109,1777,22 Nov 2017
+2588,Gadag,Nargunda,Wheat,H.D.,Medium,1680,3400,3185,25 Oct 2017
+2589,Gadag,Nargunda,Wheat,H.D.,Medium,1725,1860,1800,12 Apr 2018
+2590,Gadag,Nargunda,Wheat,H.D.,Medium,1750,1900,1850,02 Apr 2018
+2591,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1860,1822,25 May 2018
+2592,Gadag,Nargunda,Wheat,H.D.,Medium,1800,2000,1948,14 Mar 2018
+2593,Gadag,Nargunda,Wheat,H.D.,Medium,1819,5144,2375,04 Oct 2017
+2594,Gadag,Nargunda,Wheat,H.D.,Medium,1900,1970,1925,27 Feb 2018
+2595,Gadag,Nargunda,Wheat,H.D.,Medium,1930,1976,1961,02 Mar 2018
+2596,Gadag,Nargunda,Wheat,H.D.,Medium,1939,2010,1966,19 Mar 2018
+2597,Gadag,Nargunda,Wheat,H.D.,Medium,1940,1980,1975,23 Feb 2018
+2598,Belgaum,Nippani,Wheat,Other,FAQ,1500,1500,1500,11 Dec 2017
+2599,Belgaum,Ramdurga,Wheat,Local,Medium,1600,1850,1750,24 Jun 2018
+2600,Belgaum,Ramdurga,Wheat,Local,Medium,1600,1900,1800,17 Jun 2018
+2601,Haveri,Ranebennur,Wheat,Local,Medium,1700,1700,1700,27 Apr 2018
+2602,Haveri,Ranebennur,Wheat,Local,Medium,2450,2450,2450,10 Aug 2018
+2603,Belgaum,Sankeshwar,Wheat,H.D.,FAQ,1550,1750,1624,21 Sep 2017
+2604,Belgaum,Sankeshwar,Wheat,Other,FAQ,2200,2400,2345,03 Jul 2018
+2605,Haveri,Shiggauv,Wheat,Local,FAQ,1120,1150,1135,22 Mar 2018
+2606,Haveri,Shiggauv,Wheat,Local,FAQ,1120,1350,1240,23 Mar 2018
+2607,Haveri,Shiggauv,Wheat,Local,FAQ,1300,1350,1325,25 Mar 2018
+2608,Haveri,Shiggauv,Wheat,Local,FAQ,1300,1350,1325,27 Mar 2018
+2609,Haveri,Shiggauv,Wheat,Local,FAQ,1300,1400,1350,18 May 2018
+2610,Haveri,Shiggauv,Wheat,Local,FAQ,1730,1750,1740,15 Sep 2017
+2611,Haveri,Shiggauv,Wheat,Local,FAQ,1730,1750,1740,17 Sep 2017
+2612,Haveri,Shiggauv,Wheat,Local,FAQ,1740,1760,1750,07 Sep 2017
+2613,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2800,2700,29 Nov 2017
+2614,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2900,2750,06 Dec 2017
+2615,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,03 Aug 2018
+2616,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,19 Feb 2018
+2617,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,21 Dec 2017
+2618,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,22 Feb 2018
+2619,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2650,2800,2725,04 Sep 2017
+2620,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,09 Jul 2018
+2621,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,02 May 2018
+2622,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,25 Jul 2018
+2623,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,28 Sep 2017
+2624,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,31 Oct 2017
+2625,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,16 Jul 2018
+2626,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3400,3100,21 Aug 2018
+2627,Shimoga,Shimoga,Wheat,Super Fine,FAQ,3000,3400,3200,30 Aug 2018
+2628,Belgaum,Soundati,Wheat,Local,FAQ,1500,1500,1500,26 Apr 2018
+2629,Belgaum,Soundati,Wheat,Local,FAQ,1700,1800,1768,01 May 2018
+2630,Belgaum,Soundati,Wheat,Local,FAQ,2010,2010,2010,02 Aug 2018
+2631,Chikmagalur,Tarikere,Wheat,Other,FAQ,2214,2214,2214,12 Feb 2018
+2632,Chikmagalur,Tarikere,Wheat,Other,FAQ,2800,2800,2800,31 Jul 2018
+2633,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,20 Jul 2018
+2634,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2900,3100,3000,27 Aug 2018
+2635,Bijapur,Sindagi,Wheat,Bansi,FAQ,1100,1350,1150,21 Oct 2017
+2636,Bijapur,Sindagi,Wheat,Bansi,FAQ,1400,1800,1600,18 Nov 2017
+2637,Bijapur,Sindagi,Wheat,Bansi,FAQ,1500,1800,1600,09 Sep 2017
+2638,Belgaum,Soundati,Wheat,Local,FAQ,1500,1500,1500,02 May 2018
+2639,Belgaum,Soundati,Wheat,Local,FAQ,1500,1830,1676,19 May 2018
+2640,Belgaum,Soundati,Wheat,Local,FAQ,1600,1650,1620,29 Jun 2018
+2641,Belgaum,Soundati,Wheat,Local,FAQ,1740,1760,1746,15 Jun 2018
+2642,Belgaum,Soundati,Wheat,Local,FAQ,1770,1770,1770,29 Jan 2018
+2643,Belgaum,Soundati,Wheat,Local,FAQ,1900,1900,1900,13 Mar 2018
+2644,Belgaum,Soundati,Wheat,Local,FAQ,2000,2025,2014,01 Sep 2018
+2645,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1700,2000,1850,04 Jul 2018
+2646,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1800,2050,1900,25 Aug 2018
+2647,Bidar,Basava Kalayana,Wheat,Mexican,FAQ,1900,2100,2000,23 Aug 2018
+2648,Shimoga,Bhadravathi,Wheat,Local,FAQ,2900,3000,2950,12 Sep 2017
+2649,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,03 Aug 2018
+2650,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,15 Jun 2018
+2651,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2000,30 Jun 2018
+2652,Bidar,Bidar,Wheat,Red,FAQ,1800,2400,2100,02 Apr 2018
+2653,Bidar,Bidar,Wheat,Red,FAQ,1800,2500,2100,23 May 2018
+2654,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2200,06 Oct 2017
+2655,Bidar,Bidar,Wheat,Red,FAQ,2000,2400,2300,24 Oct 2017
+2656,Bidar,Bidar,Wheat,Red,FAQ,2000,2450,2200,25 Oct 2017
+2657,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2150,08 May 2018
+2658,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2200,28 Feb 2018
+2659,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,14 Dec 2017
+2660,Bidar,Bidar,Wheat,Red,FAQ,2000,2500,2300,30 Nov 2017
+2661,Bidar,Bidar,Wheat,Red,FAQ,2000,2600,2400,20 Nov 2017
+2662,Bidar,Bidar,Wheat,Red,FAQ,2100,2500,2200,23 Feb 2018
+2663,Bidar,Bidar,Wheat,Red,FAQ,2100,2600,2300,10 Nov 2017
+2664,Bidar,Bidar,Wheat,Red,FAQ,2200,2450,2300,16 Sep 2017
+2665,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,03 Jan 2018
+2666,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,13 Jan 2018
+2667,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2300,27 Dec 2017
+2668,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,04 Jan 2018
+2669,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,09 Dec 2017
+2670,Bidar,Bidar,Wheat,Red,FAQ,2200,2600,2400,15 Sep 2017
+2671,Bidar,Bidar,Wheat,Red,FAQ,2300,2600,2400,12 Sep 2017
+2672,Bijapur,Bijapur,Wheat,Bansi,FAQ,2500,3200,3000,06 Aug 2018
+2673,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,15 May 2018
+2674,Bijapur,Bijapur,Wheat,Bansi,FAQ,2800,3500,3200,18 May 2018
+2675,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,11 Jun 2018
+2676,Bijapur,Bijapur,Wheat,Bansi,FAQ,3000,3500,3250,27 Aug 2018
+2677,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,17 Feb 2018
+2678,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,18 Nov 2017
+2679,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,27 Nov 2017
+2680,Bijapur,Bijapur,Wheat,Bansi,FAQ,3500,4500,4250,28 Oct 2017
+2681,Bijapur,Bijapur,Wheat,Medium,FAQ,1100,1300,1200,15 Nov 2017
+2682,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1400,1300,27 Apr 2018
+2683,Bijapur,Bijapur,Wheat,Medium,FAQ,1200,1800,1600,08 Jun 2018
+2684,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2200,2000,26 May 2018
+2685,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,12 Feb 2018
+2686,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2600,2200,14 Feb 2018
+2687,Bijapur,Bijapur,Wheat,Sona,FAQ,1800,2800,2200,16 Oct 2017
+2688,Bijapur,Bijapur,Wheat,Sona,FAQ,2000,2600,2400,06 Aug 2018
+2689,Bijapur,Bijapur,Wheat,Sona,FAQ,2200,2600,2400,10 Aug 2018
+2690,Bijapur,Bijapur,Wheat,Sona,FAQ,2400,2800,2600,21 Sep 2017
+2691,Davangere,Davangere,Wheat,Super Fine,FAQ,2100,2200,2150,11 May 2018
+2692,Davangere,Davangere,Wheat,Super Fine,FAQ,2200,2300,2250,02 Mar 2018
+2693,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,05 Jan 2018
+2694,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,08 Sep 2017
+2695,Davangere,Davangere,Wheat,Super Fine,FAQ,2300,2400,2350,13 Oct 2017
+2696,Dharwad,Dharwar,Wheat,H.D.,FAQ,1600,1600,1600,13 Apr 2018
+2697,Dharwad,Dharwar,Wheat,H.D.,FAQ,1725,1725,1725,02 May 2018
+2698,Dharwad,Dharwar,Wheat,H.D.,FAQ,1775,1775,1775,21 May 2018
+2699,Dharwad,Dharwar,Wheat,White,FAQ,1400,1400,1400,25 Aug 2018
+2700,Gadag,Gadag,Wheat,White,FAQ,1202,2708,1913,07 Mar 2018
+2701,Gadag,Gadag,Wheat,White,FAQ,1224,2212,1745,06 Sep 2017
+2702,Bellary,Hoovinahadagali,Wheat,Other,FAQ,1600,1600,1600,03 Jan 2018
+2703,Bellary,Hospet,Wheat,Super Fine,Medium,1980,2280,2155,11 Oct 2017
+2704,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1211,1211,1211,09 Feb 2018
+2705,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1539,1629,1539,18 Jun 2018
+2706,Dharwad,Hubli (Amaragol),Wheat,White,Medium,1509,1509,1509,09 Jan 2018
+2707,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1600,1800,1700,23 Apr 2018
+2708,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1350,1550,1475,16 Oct 2017
+2709,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1450,1550,1500,04 Nov 2017
+2710,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1450,1550,1500,16 Nov 2017
+2711,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,01 Sep 2018
+2712,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,23 Aug 2018
+2713,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1800,1800,1800,29 Jul 2018
+2714,Chikmagalur,Koppa,Wheat,Other,FAQ,1700,1700,1700,12 Oct 2017
+2715,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,06 Feb 2018
+2716,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,27 Mar 2018
+2717,Gadag,Laxmeshwar,Wheat,Red,FAQ,1509,1870,1632,23 Mar 2018
+2718,Gadag,Laxmeshwar,Wheat,Red,FAQ,1519,2060,1815,20 Jul 2018
+2719,Gadag,Laxmeshwar,Wheat,White,FAQ,1721,2111,1876,10 Aug 2018
+2720,Raichur,Manvi,Wheat,Other,Medium,1745,1745,1745,18 May 2018
+2721,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2200,2900,2550,29 May 2018
+2722,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,26 Dec 2017
+2723,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,01 Mar 2018
+2724,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,08 May 2018
+2725,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,15 Feb 2018
+2726,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,22 Feb 2018
+2727,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,01 Aug 2018
+2728,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,11 Dec 2017
+2729,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,30 Jun 2018
+2730,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3000,2800,17 Jul 2018
+2731,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2600,3000,2800,20 Jul 2018
+2732,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3400,3100,10 Aug 2018
+2733,Gadag,Nargunda,Wheat,H.D.,Medium,1600,1600,1600,15 Feb 2018
+2734,Gadag,Nargunda,Wheat,H.D.,Medium,1750,1925,1872,28 Mar 2018
+2735,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1800,1800,05 May 2018
+2736,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1800,1800,20 Jan 2018
+2737,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1825,1803,12 Jun 2018
+2738,Gadag,Nargunda,Wheat,H.D.,Medium,1800,2000,1944,08 Mar 2018
+2739,Gadag,Nargunda,Wheat,H.D.,Medium,1820,1820,1820,27 Apr 2018
+2740,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1900,1867,01 Jun 2018
+2741,Gadag,Nargunda,Wheat,H.D.,Medium,1917,1917,1917,20 Feb 2018
+2742,Belgaum,Ramdurga,Wheat,H.D.,Medium,1800,2000,1900,10 Aug 2018
+2743,Belgaum,Ramdurga,Wheat,Local,Medium,1500,1500,1500,18 Jun 2018
+2744,Haveri,Ranebennur,Wheat,Local,Medium,2125,2125,2125,03 Nov 2017
+2745,Gadag,Rona,Wheat,White,FAQ,1679,1725,1718,19 Mar 2018
+2746,Haveri,Shiggauv,Wheat,Local,FAQ,1280,1310,1295,12 Mar 2018
+2747,Haveri,Shiggauv,Wheat,Local,FAQ,1430,1450,1440,18 Sep 2017
+2748,Haveri,Shiggauv,Wheat,Local,FAQ,1650,1710,1680,22 Dec 2017
+2749,Shimoga,Shikaripura,Wheat,Coarse,Medium,1500,1900,1750,27 Apr 2018
+2750,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2400,2600,2500,08 Feb 2018
+2751,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,05 Jan 2018
+2752,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,16 Apr 2018
+2753,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,17 Nov 2017
+2754,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,21 Jun 2018
+2755,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,11 May 2018
+2756,Gadag,Gadag,Wheat,White,FAQ,1322,2839,1678,01 Jan 2018
+2757,Gadag,Gadag,Wheat,White,FAQ,1439,5301,2274,04 Nov 2017
+2758,Gadag,Gadag,Wheat,White,FAQ,1500,5528,2064,27 Sep 2017
+2759,Gadag,Gadag,Wheat,White,FAQ,1529,2819,1771,29 Dec 2017
+2760,Gadag,Gadag,Wheat,White,FAQ,1532,3269,2620,03 Feb 2018
+2761,Gadag,Gadag,Wheat,White,FAQ,1539,5112,2523,02 Nov 2017
+2762,Gadag,Gadag,Wheat,White,FAQ,1541,4054,2835,19 Jan 2018
+2763,Gadag,Gadag,Wheat,White,FAQ,1562,4622,2701,10 Oct 2017
+2764,Gadag,Gadag,Wheat,White,FAQ,1572,3501,1744,01 Dec 2017
+2765,Gadag,Gadag,Wheat,White,FAQ,1609,1858,1805,02 Jun 2018
+2766,Gadag,Gadag,Wheat,White,FAQ,1612,1939,1730,30 May 2018
+2767,Gadag,Gadag,Wheat,White,FAQ,1622,3012,1947,25 May 2018
+2768,Gadag,Gadag,Wheat,White,FAQ,1630,3049,2543,05 Feb 2018
+2769,Gadag,Gadag,Wheat,White,FAQ,1639,1959,1794,14 May 2018
+2770,Gadag,Gadag,Wheat,White,FAQ,1902,2056,2019,31 Jul 2018
+2771,Gadag,Gadag,Wheat,White,FAQ,2469,4112,3206,30 Nov 2017
+2772,Koppal,Gangavathi,Wheat,Local,FAQ,1690,1690,1690,27 Apr 2018
+2773,Koppal,Gangavathi,Wheat,Local,FAQ,1750,1800,1800,14 Mar 2018
+2774,Koppal,Gangavathi,Wheat,Local,FAQ,1800,1805,1800,22 May 2018
+2775,Hassan,Hassan,Wheat,Other,FAQ,2378,2433,2433,30 Jun 2018
+2776,Chitradurga,Hiriyur,Wheat,Super Fine,FAQ,2400,2400,2400,21 May 2018
+2777,Chitradurga,Hiriyur,Wheat,Super Fine,FAQ,2690,2690,2690,20 Aug 2018
+2778,Bellary,Hospet,Wheat,Other,Medium,2370,2370,2370,17 Jul 2018
+2779,Bellary,Hospet,Wheat,Super Fine,FAQ,2200,2300,2225,26 Dec 2017
+2780,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1350,2069,2045,20 Mar 2018
+2781,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1503,2101,1603,07 May 2018
+2782,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1539,2139,1702,12 Apr 2018
+2783,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1609,2202,1809,25 Aug 2018
+2784,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1009,1725,1450,05 Jun 2018
+2785,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1339,3111,2475,12 Feb 2018
+2786,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,2122,2189,2122,16 Mar 2018
+2787,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1650,1750,1700,07 Apr 2018
+2788,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1700,1950,1850,26 Apr 2018
+2789,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1400,1500,1475,10 Nov 2017
+2790,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1600,1550,10 Jan 2018
+2791,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1650,1600,18 Nov 2017
+2792,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1650,1625,15 Feb 2018
+2793,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1550,1700,1625,15 May 2018
+2794,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1600,1700,1650,27 Dec 2017
+2795,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1600,1800,1700,01 Dec 2017
+2796,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1650,1750,1700,30 Nov 2017
+2797,Chikmagalur,Koppa,Wheat,Other,FAQ,1800,1800,1800,25 Sep 2017
+2798,Belgaum,Kudchi,Wheat,Other,FAQ,1400,1600,1500,13 Apr 2018
+2799,Raichur,Manvi,Wheat,Other,Medium,1815,1825,1819,26 Mar 2018
+2800,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,04 Jan 2018
+2801,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,16 Nov 2017
+2802,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,20 Feb 2018
+2803,Gadag,Nargunda,Wheat,H.D.,Medium,1609,2129,1925,29 Nov 2017
+2804,Gadag,Nargunda,Wheat,H.D.,Medium,1628,2828,2412,31 Oct 2017
+2805,Gadag,Nargunda,Wheat,H.D.,Medium,1659,1909,1732,23 Nov 2017
+2806,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1990,1927,10 Aug 2018
+2807,Gadag,Nargunda,Wheat,H.D.,Medium,1885,1885,1885,17 May 2018
+2808,Gadag,Nargunda,Wheat,H.D.,Medium,1900,1960,1944,01 Mar 2018
+2809,Gadag,Nargunda,Wheat,H.D.,Medium,1911,2256,2057,11 Dec 2017
+2810,Belgaum,Sankeshwar,Wheat,Other,FAQ,1900,2300,2080,28 Dec 2017
+2811,Haveri,Shiggauv,Wheat,Local,FAQ,1580,1720,1650,22 Jan 2018
+2812,Haveri,Shiggauv,Wheat,Local,FAQ,1650,1720,1685,31 Jan 2018
+2813,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,05 Feb 2018
+2814,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,22 Dec 2017
+2815,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,27 Mar 2018
+2816,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2700,3000,2850,09 Nov 2017
+2817,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,05 Sep 2017
+2818,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,10 May 2018
+2819,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,10 Nov 2017
+2820,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,15 Mar 2018
+2821,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,15 Nov 2017
+2822,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,17 Oct 2017
+2823,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,11 Jul 2018
+2824,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,19 Jul 2018
+2825,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,29 Aug 2018
+2826,Bijapur,Sindagi,Wheat,Bansi,FAQ,1100,1500,1350,02 Dec 2017
+2827,Bijapur,Sindagi(Indi),Wheat,Medium,FAQ,1500,1600,1550,17 Jan 2018
+2828,Belgaum,Soundati,Wheat,Local,FAQ,1460,1460,1460,05 Jun 2018
+2829,Belgaum,Soundati,Wheat,Local,FAQ,1500,1500,1500,03 May 2018
+2830,Belgaum,Soundati,Wheat,Local,FAQ,1500,1530,1520,23 Apr 2018
+2831,Belgaum,Soundati,Wheat,Local,FAQ,1520,1520,1520,24 Feb 2018
+2832,Belgaum,Soundati,Wheat,Local,FAQ,1720,1740,1730,09 May 2018
+2833,Belgaum,Soundati,Wheat,Local,FAQ,1770,1770,1770,19 Jan 2018
+2834,Belgaum,Soundati,Wheat,Local,FAQ,1850,1900,1876,06 Mar 2018
+2835,Belgaum,Soundati,Wheat,Local,FAQ,2050,2050,2050,17 Aug 2018
+2836,Chikmagalur,Tarikere,Wheat,Other,FAQ,2800,2800,2800,31 Aug 2018
+2837,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,22 Nov 2017
+2838,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,12 Jul 2018
+2839,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3100,2950,21 Jul 2018
+2840,Bijapur,Sindagi,Wheat,Bansi,FAQ,1000,1400,1150,14 Nov 2017
+2841,Bijapur,Sindagi,Wheat,Bansi,FAQ,1900,2200,2050,25 Aug 2018
+2842,Bijapur,Sindagi(Indi),Wheat,Bansi,FAQ,1000,1250,1100,04 Apr 2018
+2843,Belgaum,Soundati,Wheat,Local,FAQ,1580,1680,1630,23 Mar 2018
+2844,Belgaum,Soundati,Wheat,Local,FAQ,1600,1800,1700,09 Apr 2018
+2845,Belgaum,Soundati,Wheat,Local,FAQ,1675,1700,1690,05 Jul 2018
+2846,Belgaum,Soundati,Wheat,Local,FAQ,1775,1820,1792,13 Jun 2018
+2847,Belgaum,Soundati,Wheat,Local,FAQ,1800,1800,1800,11 Jun 2018
+2848,Belgaum,Soundati,Wheat,Local,FAQ,1850,1850,1850,21 Jun 2018
+2849,Belgaum,Soundati,Wheat,Local,FAQ,1900,1910,1902,17 Mar 2018
+2850,Gadag,Gadag,Wheat,White,FAQ,1009,2702,1758,21 Mar 2018
+2851,Gadag,Gadag,Wheat,White,FAQ,1240,5128,3309,07 Nov 2017
+2852,Gadag,Gadag,Wheat,White,FAQ,1260,2157,2032,24 Aug 2018
+2853,Gadag,Gadag,Wheat,White,FAQ,1411,5019,2236,25 Nov 2017
+2854,Gadag,Gadag,Wheat,White,FAQ,1458,3663,2123,14 Mar 2018
+2855,Gadag,Gadag,Wheat,White,FAQ,1474,5012,3339,13 Oct 2017
+2856,Gadag,Gadag,Wheat,White,FAQ,1522,4039,1936,26 Dec 2017
+2857,Gadag,Gadag,Wheat,White,FAQ,1539,5077,2509,08 Nov 2017
+2858,Gadag,Gadag,Wheat,White,FAQ,1595,2459,1865,19 Mar 2018
+2859,Gadag,Gadag,Wheat,White,FAQ,1611,4611,3850,17 Oct 2017
+2860,Gadag,Gadag,Wheat,White,FAQ,1642,1759,1719,22 May 2018
+2861,Gadag,Gadag,Wheat,White,FAQ,1658,2812,2626,06 Feb 2018
+2862,Gadag,Gadag,Wheat,White,FAQ,1706,2669,2386,30 Jan 2018
+2863,Gadag,Gadag,Wheat,White,FAQ,1709,2439,2317,03 Jan 2018
+2864,Gadag,Gadag,Wheat,White,FAQ,1756,1756,1756,22 Jun 2018
+2865,Koppal,Gangavathi,Wheat,Local,FAQ,1700,1710,1705,02 Apr 2018
+2866,Koppal,Gangavathi,Wheat,Local,FAQ,1750,1810,1810,12 Mar 2018
+2867,Hassan,Hassan,Wheat,Other,FAQ,1358,2120,2120,13 Dec 2017
+2868,Hassan,Hassan,Wheat,Other,FAQ,2500,2500,2500,30 Dec 2017
+2869,Hassan,Hassan,Wheat,Other,FAQ,2500,2500,2500,31 Jan 2018
+2870,Hassan,Hassan,Wheat,Other,FAQ,2533,2572,2572,31 Aug 2018
+2871,Haveri,Haveri,Wheat,Local,FAQ,2401,2401,2401,20 Jul 2018
+2872,Bellary,Hospet,Wheat,Other,Medium,2225,2225,2225,07 May 2018
+2873,Bellary,Hospet,Wheat,Super Fine,Medium,2190,2190,2190,24 Oct 2017
+2874,Dharwad,Hubli (Amaragol),Wheat,Local,FAQ,1669,2111,1969,01 Sep 2018
+2875,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1309,1309,1309,02 Mar 2018
+2876,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1309,1869,1561,21 Mar 2018
+2877,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1309,1903,1609,06 Mar 2018
+2878,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1326,1415,1409,03 Mar 2018
+2879,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1409,2009,1601,27 Feb 2018
+2880,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1411,1851,1411,13 Jan 2018
+2881,Dharwad,Hubli (Amaragol),Wheat,Local,Medium,1489,1709,1489,04 Apr 2018
+2882,Dharwad,Hubli (Amaragol),Wheat,White,FAQ,1896,2869,2639,10 Nov 2017
+2883,Bagalkot,Jamakhandi,Wheat,Kirthi,FAQ,1800,2200,2000,11 Jan 2018
+2884,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1650,1600,02 Jan 2018
+2885,Bagalkot,Jamakhandi,Wheat,Other,FAQ,1500,1700,1600,09 May 2018
+2886,Gadag,Laxmeshwar,Wheat,Red,FAQ,1320,2069,1444,26 Apr 2018
+2887,Mandya,Mandya,Wheat,Other,FAQ,2390,2390,2390,08 May 2018
+2888,Bagalkot,Mhalingapur,Wheat,Red,FAQ,1500,1600,1550,16 Mar 2018
+2889,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,05 Sep 2017
+2890,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2800,2600,30 Jan 2018
+2891,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,08 Nov 2017
+2892,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,2900,2650,24 Feb 2018
+2893,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,04 Apr 2018
+2894,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,04 Jun 2018
+2895,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,10 Apr 2018
+2896,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2400,3000,2700,20 Mar 2018
+2897,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2500,3000,2750,13 Jun 2018
+2898,Mysore,Mysore (Bandipalya),Wheat,Local,FAQ,2800,3200,3000,19 Oct 2017
+2899,Gadag,Nargunda,Wheat,H.D.,Medium,1519,5001,3462,09 Oct 2017
+2900,Gadag,Nargunda,Wheat,H.D.,Medium,1550,2000,1935,28 Feb 2018
+2901,Gadag,Nargunda,Wheat,H.D.,Medium,1576,2656,1792,10 Nov 2017
+2902,Gadag,Nargunda,Wheat,H.D.,Medium,1636,1780,1774,20 Nov 2017
+2903,Gadag,Nargunda,Wheat,H.D.,Medium,1650,4209,2183,28 Oct 2017
+2904,Gadag,Nargunda,Wheat,H.D.,Medium,1680,2756,2078,09 Nov 2017
+2905,Gadag,Nargunda,Wheat,H.D.,Medium,1725,1900,1769,02 May 2018
+2906,Gadag,Nargunda,Wheat,H.D.,Medium,1770,1770,1770,12 Feb 2018
+2907,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1800,1800,26 Jun 2018
+2908,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1850,1827,03 May 2018
+2909,Gadag,Nargunda,Wheat,H.D.,Medium,1800,1975,1892,02 Jul 2018
+2910,Gadag,Nargunda,Wheat,H.D.,Medium,1808,1808,1808,08 Sep 2017
+2911,Gadag,Nargunda,Wheat,H.D.,Medium,1830,1850,1848,27 Jun 2018
+2912,Gadag,Nargunda,Wheat,H.D.,Medium,1850,1850,1850,26 Jul 2018
+2913,Gadag,Nargunda,Wheat,H.D.,Medium,1900,1900,1900,29 Jun 2018
+2914,Gadag,Nargunda,Wheat,H.D.,Medium,1920,1950,1945,22 Feb 2018
+2915,Gadag,Nargunda,Wheat,H.D.,Medium,1949,1949,1949,06 Jul 2018
+2916,Gadag,Nargunda,Wheat,H.D.,Medium,1950,1950,1950,06 Mar 2018
+2917,Gadag,Nargunda,Wheat,H.D.,Medium,3101,4001,3618,10 Oct 2017
+2918,Belgaum,Ramdurga,Wheat,Local,Medium,1550,1800,1650,10 Jun 2018
+2919,Haveri,Shiggauv,Wheat,Local,FAQ,1280,1320,1300,11 Mar 2018
+2920,Haveri,Shiggauv,Wheat,Local,FAQ,1280,1330,1305,14 Mar 2018
+2921,Haveri,Shiggauv,Wheat,Local,FAQ,1300,1350,1325,20 Mar 2018
+2922,Haveri,Shiggauv,Wheat,Local,FAQ,1300,1350,1325,29 Apr 2018
+2923,Haveri,Shiggauv,Wheat,Local,FAQ,1350,1400,1375,04 May 2018
+2924,Haveri,Shiggauv,Wheat,Local,FAQ,1530,1550,1540,01 Apr 2018
+2925,Haveri,Shiggauv,Wheat,Local,FAQ,1680,1720,1700,28 Feb 2018
+2926,Haveri,Shiggauv,Wheat,Local,FAQ,1700,1720,1710,17 Jan 2018
+2927,Haveri,Shiggauv,Wheat,Local,FAQ,1710,1750,1730,11 Oct 2017
+2928,Haveri,Shiggauv,Wheat,Local,FAQ,1720,1750,1735,12 Oct 2017
+2929,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2800,2700,13 Sep 2017
+2930,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,2800,2700,23 Sep 2017
+2931,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,03 Jan 2018
+2932,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,20 Jan 2018
+2933,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,20 Jun 2018
+2934,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2600,3000,2800,31 Jul 2018
+2935,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,2900,2850,10 Oct 2017
+2936,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,13 Oct 2017
+2937,Shimoga,Shimoga,Wheat,Super Fine,FAQ,2800,3000,2900,27 Jul 2018
+2938,Belgaum,Soundati,Wheat,Local,FAQ,1700,1725,1705,22 Jun 2018
+2939,Belgaum,Soundati,Wheat,Local,FAQ,1825,1825,1825,27 Mar 2018
+2940,Chikmagalur,Tarikere,Wheat,Other,FAQ,2700,2700,2700,19 Feb 2018

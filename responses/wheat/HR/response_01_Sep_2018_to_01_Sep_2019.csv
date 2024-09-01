@@ -1,0 +1,849 @@
+0,1,2,3,4,5,6,7,8,9
+1,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,06 May 2019
+2,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+3,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+4,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+5,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+6,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+7,Fatehabad,Bhattu Kalan,Wheat,Other,FAQ,1750,1750,1750,06 Sep 2018
+8,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+9,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+10,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,05 May 2019
+11,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+12,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,13 May 2019
+13,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,20 Apr 2019
+14,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,30 Apr 2019
+15,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+16,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+17,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+18,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+19,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+20,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+21,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+22,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1845,1840,01 May 2019
+23,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+24,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,16 Apr 2019
+25,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+26,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+27,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+28,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,13 May 2019
+29,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+30,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,13 May 2019
+31,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+32,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,02 Jul 2019
+33,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,04 Jun 2019
+34,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,10 Jul 2019
+35,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,12 Apr 2019
+36,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,13 Apr 2019
+37,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,14 May 2019
+38,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,23 Jun 2019
+39,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,26 May 2019
+40,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+41,Rewari,Rewari,Wheat,Other,FAQ,1311,1565,1500,23 Mar 2019
+42,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,07 May 2019
+43,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,23 Apr 2019
+44,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,24 Apr 2019
+45,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+46,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+47,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+48,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+49,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+50,Bhiwani,Tosham,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+51,Bhiwani,Tosham,Wheat,Other,FAQ,1850,1850,1850,21 Jan 2019
+52,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,26 Apr 2019
+53,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+54,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+55,Hissar,Barwala(Hisar),Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+56,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+57,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+58,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+59,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+60,Bhiwani,Ch. Dadri,Wheat,Dara Mill Quality,FAQ,1800,1840,1820,22 May 2019
+61,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+62,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,02 May 2019
+63,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+64,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+65,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,14 May 2019
+66,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+67,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+68,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+69,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+70,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+71,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+72,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+73,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+74,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+75,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+76,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+77,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+78,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,21 Apr 2019
+79,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,22 Apr 2019
+80,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+81,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,12 Apr 2019
+82,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+83,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+84,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+85,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,02 Sep 2018
+86,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,05 Sep 2018
+87,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,11 Sep 2018
+88,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,12 Sep 2018
+89,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,03 Aug 2019
+90,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,03 Jun 2019
+91,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,15 Aug 2019
+92,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,15 Jun 2019
+93,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,18 Jul 2019
+94,Karnal,Nilokheri,Wheat,Other,FAQ,1000,1200,1200,03 May 2019
+95,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+96,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+97,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+98,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+99,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+100,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+101,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+102,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+103,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,13 May 2019
+104,Sirsa,Sirsa(Malekan),Wheat,Other,FAQ,1840,1840,1840,13 May 2019
+105,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+106,Bhiwani,Tosham,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+107,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,14 May 2019
+108,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,21 Apr 2019
+109,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,22 Apr 2019
+110,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+111,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+112,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+113,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+114,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+115,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,06 May 2019
+116,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+117,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+118,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+119,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+120,Sirsa,Ellanabad,Wheat,Local,FAQ,1840,1840,1840,17 Apr 2019
+121,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,10 Apr 2019
+122,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+123,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+124,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+125,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+126,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+127,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+128,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+129,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+130,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,03 May 2019
+131,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,08 May 2019
+132,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+133,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+134,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+135,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+136,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+137,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+138,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+139,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,08 Jun 2019
+140,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,10 Aug 2019
+141,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,10 Jun 2019
+142,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,11 Aug 2019
+143,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,14 Aug 2019
+144,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,27 Jun 2019
+145,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+146,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+147,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+148,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+149,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,21 Apr 2019
+150,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,22 Apr 2019
+151,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+152,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+153,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+154,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+155,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+156,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+157,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+158,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+159,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,21 May 2019
+160,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+161,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,04 May 2019
+162,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,11 May 2019
+163,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,28 Apr 2019
+164,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+165,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+166,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+167,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+168,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+169,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,19 Apr 2019
+170,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+171,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,11 May 2019
+172,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+173,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+174,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+175,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+176,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+177,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+178,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+179,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+180,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+181,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+182,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+183,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+184,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+185,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+186,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,06 Sep 2018
+187,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,08 Sep 2018
+188,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,01 Jun 2019
+189,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,01 May 2019
+190,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,04 Aug 2019
+191,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,12 May 2019
+192,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,13 Jun 2019
+193,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,15 Jul 2019
+194,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,17 Apr 2019
+195,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,19 Jun 2019
+196,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,21 May 2019
+197,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,23 Apr 2019
+198,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,24 Apr 2019
+199,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,25 Jun 2019
+200,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+201,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+202,Jind,Safidon,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+203,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,13 Apr 2019
+204,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+205,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+206,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+207,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+208,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+209,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,13 Apr 2019
+210,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,23 Apr 2019
+211,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+212,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+213,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+214,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+215,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+216,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+217,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,16 May 2019
+218,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,22 Apr 2019
+219,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+220,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+221,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+222,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+223,Jhajar,Jhajjar,Wheat,Other,FAQ,0,600,600,28 Jun 2019
+224,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+225,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+226,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+227,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+228,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+229,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+230,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,12 Apr 2019
+231,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+232,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+233,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+234,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+235,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,11 May 2019
+236,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+237,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+238,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+239,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+240,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+241,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,04 May 2019
+242,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,06 May 2019
+243,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,09 May 2019
+244,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,14 Jul 2019
+245,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,14 Jun 2019
+246,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,20 Jun 2019
+247,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,20 May 2019
+248,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,21 Jul 2019
+249,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,26 Apr 2019
+250,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,14 May 2019
+251,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+252,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+253,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+254,Jind,Safidon,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+255,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,10 May 2019
+256,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,16 Apr 2019
+257,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,30 Apr 2019
+258,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+259,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+260,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+261,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+262,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+263,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+264,Sirsa,Sirsa(Malekan),Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+265,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+266,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,27 Apr 2019
+267,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+268,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+269,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+270,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+271,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+272,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+273,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,25 Apr 2019
+274,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,29 Apr 2019
+275,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+276,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+277,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+278,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+279,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,05 May 2019
+280,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+281,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+282,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+283,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+284,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+285,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+286,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,04 May 2019
+287,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,09 May 2019
+288,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+289,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+290,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+291,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+292,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+293,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,01 Sep 2018
+294,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,10 Sep 2018
+295,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,03 May 2019
+296,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,08 Aug 2019
+297,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,08 May 2019
+298,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,13 Aug 2019
+299,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,28 Jul 2019
+300,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+301,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+302,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+303,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,18 Apr 2019
+304,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,29 Apr 2019
+305,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1845,1840,20 Apr 2019
+306,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+307,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+308,Sirsa,Sirsa,Wheat,Other,FAQ,1651,1651,1651,19 Mar 2019
+309,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+310,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+311,Kaithal,Siwan,Wheat,147 Average,FAQ,1840,1840,1840,30 Apr 2019
+312,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+313,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,18 Apr 2019
+314,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+315,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+316,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+317,Hissar,Barwala(Hisar),Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+318,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+319,Kaithal,Cheeka,Wheat,Other,FAQ,1711,1711,1711,20 Mar 2019
+320,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+321,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,04 May 2019
+322,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,07 May 2019
+323,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,26 Apr 2019
+324,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+325,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+326,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+327,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+328,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+329,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+330,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+331,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+332,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+333,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,13 May 2019
+334,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+335,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,18 Apr 2019
+336,Bhiwani,Loharu,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+337,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+338,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+339,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+340,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+341,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+342,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+343,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,11 May 2019
+344,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,07 Sep 2018
+345,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,17 Sep 2018
+346,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,01 Aug 2019
+347,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,16 Apr 2019
+348,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,18 Aug 2019
+349,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,21 Jun 2019
+350,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,27 Apr 2019
+351,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,28 May 2019
+352,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,31 Jul 2019
+353,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2400,2000,22 Aug 2019
+354,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2400,2000,24 Aug 2019
+355,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+356,Jind,Safidon,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+357,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,19 Apr 2019
+358,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,26 Apr 2019
+359,Kurukshetra,Shahabad,Wheat,Local,FAQ,1845,1845,1845,04 May 2019
+360,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+361,Kaithal,Siwan,Wheat,147 Average,FAQ,1840,1840,1840,15 Apr 2019
+362,Gurgaon,Sohna,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+363,Bhiwani,Tosham,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+364,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+365,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+366,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,02 May 2019
+367,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+368,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+369,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+370,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+371,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+372,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+373,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+374,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+375,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+376,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+377,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+378,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+379,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+380,Bhiwani,Loharu,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+381,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+382,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+383,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+384,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+385,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+386,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+387,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,02 May 2019
+388,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,11 Jul 2019
+389,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,12 Aug 2019
+390,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,18 May 2019
+391,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,23 Aug 2019
+392,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,28 Apr 2019
+393,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2400,2000,28 Aug 2019
+394,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+395,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+396,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+397,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+398,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+399,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1841,1840,23 Apr 2019
+400,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1845,1840,27 Apr 2019
+401,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,15 Apr 2019
+402,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,17 Apr 2019
+403,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+404,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+405,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+406,Kaithal,Siwan,Wheat,147 Average,FAQ,1840,1840,1840,07 May 2019
+407,Bhiwani,Tosham,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+408,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+409,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,15 Apr 2019
+410,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+411,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+412,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+413,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+414,Gurgaon,Farukh Nagar,Wheat,Other,FAQ,1840,1840,1840,12 Apr 2019
+415,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+416,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+417,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+418,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,14 May 2019
+419,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+420,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+421,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+422,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+423,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+424,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+425,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,05 May 2019
+426,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+427,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+428,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+429,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+430,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+431,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+432,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+433,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+434,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,03 Sep 2018
+435,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,20 Sep 2018
+436,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,02 Jun 2019
+437,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,07 Jun 2019
+438,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,11 Apr 2019
+439,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,13 Jul 2019
+440,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,13 May 2019
+441,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,15 Apr 2019
+442,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,19 Apr 2019
+443,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,20 Apr 2019
+444,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+445,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+446,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,11 Apr 2019
+447,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+448,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+449,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+450,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1845,1840,24 Apr 2019
+451,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,14 Apr 2019
+452,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+453,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,14 May 2019
+454,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+455,Sirsa,Sirsa(Malekan),Wheat,Other,FAQ,1840,1840,1840,11 May 2019
+456,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+457,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,13 May 2019
+458,Bhiwani,Tosham,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+459,Bhiwani,Tosham,Wheat,Other,FAQ,1850,1850,1850,29 Jun 2019
+460,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+461,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+462,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,14 Apr 2019
+463,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,30 Apr 2019
+464,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+465,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+466,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,05 May 2019
+467,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+468,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+469,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+470,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+471,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+472,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+473,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+474,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+475,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+476,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+477,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+478,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+479,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+480,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+481,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,14 Apr 2019
+482,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,30 Apr 2019
+483,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+484,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+485,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+486,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+487,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+488,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+489,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+490,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+491,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,13 May 2019
+492,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+493,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,18 Sep 2018
+494,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,05 Jul 2019
+495,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,09 Jun 2019
+496,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,10 May 2019
+497,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,11 Jun 2019
+498,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,12 Jul 2019
+499,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,19 Aug 2019
+500,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,25 Jul 2019
+501,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,29 Jul 2019
+502,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+503,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+504,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+505,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+506,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+507,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+508,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+509,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+510,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+511,Jind,Safidon,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+512,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+513,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+514,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,11 May 2019
+515,Kaithal,Siwan,Wheat,147 Average,FAQ,1840,1840,1840,29 Apr 2019
+516,Gurgaon,Sohna,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+517,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,16 Apr 2019
+518,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,05 May 2019
+519,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+520,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+521,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+522,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+523,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+524,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+525,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+526,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,03 May 2019
+527,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,08 May 2019
+528,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+529,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+530,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+531,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+532,Sirsa,Ellanabad,Wheat,Local,FAQ,1500,1500,1500,26 Mar 2019
+533,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+534,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+535,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+536,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1845,1845,26 Apr 2019
+537,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+538,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+539,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+540,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+541,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+542,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+543,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+544,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+545,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+546,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,14 May 2019
+547,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+548,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+549,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+550,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+551,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+552,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,14 Sep 2018
+553,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1800,1735,21 Sep 2018
+554,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,06 Aug 2019
+555,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,07 Jul 2019
+556,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,16 Jun 2019
+557,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,17 Jul 2019
+558,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,18 Apr 2019
+559,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,19 Jul 2019
+560,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,19 May 2019
+561,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,22 Jun 2019
+562,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,22 May 2019
+563,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,27 Jul 2019
+564,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,29 Apr 2019
+565,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,30 Jul 2019
+566,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+567,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,03 May 2019
+568,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+569,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+570,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+571,Sirsa,Sirsa(Malekan),Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+572,Sirsa,Sirsa(Malekan),Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+573,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+574,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+575,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,11 May 2019
+576,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+577,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+578,Bhiwani,Tosham,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+579,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+580,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,08 May 2019
+581,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,17 Apr 2019
+582,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+583,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+584,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+585,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+586,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+587,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+588,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+589,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+590,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+591,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+592,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+593,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+594,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+595,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+596,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+597,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+598,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+599,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+600,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+601,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+602,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+603,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,15 Apr 2019
+604,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,17 Apr 2019
+605,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+606,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+607,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+608,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+609,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,09 Sep 2018
+610,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,16 Sep 2018
+611,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,02 Aug 2019
+612,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,03 Jul 2019
+613,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,11 May 2019
+614,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,23 May 2019
+615,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,24 Jun 2019
+616,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,25 Aug 2019
+617,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,25 May 2019
+618,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,27 May 2019
+619,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,29 Aug 2019
+620,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,30 May 2019
+621,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+622,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+623,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+624,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+625,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+626,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+627,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+628,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+629,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1845,1840,29 Apr 2019
+630,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,06 May 2019
+631,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+632,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+633,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,14 May 2019
+634,Sirsa,Sirsa(Malekan),Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+635,Sirsa,Sirsa(Malekan),Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+636,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+637,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+638,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+639,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,29 Apr 2019
+640,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1850,1850,1850,27 May 2019
+641,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+642,Ambala,Barara,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+643,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+644,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+645,Bhiwani,Ch. Dadri,Wheat,Dara Mill Quality,FAQ,1800,1840,1820,23 May 2019
+646,Bhiwani,Ch. Dadri,Wheat,Dara Mill Quality,FAQ,1800,1840,1820,24 May 2019
+647,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,13 Apr 2019
+648,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,14 May 2019
+649,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+650,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+651,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,28 Apr 2019
+652,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+653,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,26 Apr 2019
+654,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+655,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,11 May 2019
+656,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+657,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+658,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+659,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+660,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+661,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,01 May 2019
+662,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,13 Apr 2019
+663,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+664,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+665,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+666,Ambala,Naraingarh,Wheat,Other,FAQ,840,1840,1840,07 May 2019
+667,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+668,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,05 May 2019
+669,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+670,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+671,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,13 Sep 2018
+672,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,15 Sep 2018
+673,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,19 Sep 2018
+674,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1800,1735,23 Sep 2018
+675,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,16 Aug 2019
+676,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,17 May 2019
+677,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,21 Aug 2019
+678,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,24 Jul 2019
+679,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,26 Jul 2019
+680,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,29 May 2019
+681,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,30 Jun 2019
+682,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+683,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+684,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+685,Jind,Safidon,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+686,Jind,Safidon,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+687,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,02 May 2019
+688,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,27 Apr 2019
+689,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+690,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+691,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+692,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,03 May 2019
+693,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,14 May 2019
+694,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+695,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+696,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+697,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+698,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+699,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+700,Bhiwani,Ch. Dadri,Wheat,Dara Mill Quality,FAQ,1800,1840,1820,21 May 2019
+701,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+702,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,01 May 2019
+703,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+704,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+705,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+706,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+707,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+708,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+709,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+710,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+711,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+712,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+713,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+714,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+715,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+716,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,29 Apr 2019
+717,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+718,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+719,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+720,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,04 Sep 2018
+721,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,01 Sep 2019
+722,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,05 Aug 2019
+723,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,06 Jul 2019
+724,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,06 Jun 2019
+725,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,07 Aug 2019
+726,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,07 May 2019
+727,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,08 Jul 2019
+728,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,09 Jul 2019
+729,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,16 Jul 2019
+730,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,16 May 2019
+731,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,21 Apr 2019
+732,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,22 Apr 2019
+733,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,22 Jul 2019
+734,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,26 Jun 2019
+735,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,28 Jun 2019
+736,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+737,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,28 Apr 2019
+738,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,05 May 2019
+739,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+740,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+741,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+742,Bhiwani,Tosham,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+743,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+744,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,19 Apr 2019
+745,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,25 Apr 2019
+746,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,19 Apr 2019
+747,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+748,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+749,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+750,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+751,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+752,Kaithal,Cheeka,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+753,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,05 May 2019
+754,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+755,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+756,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+757,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,14 May 2019
+758,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+759,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+760,Karnal,Kunjpura,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+761,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,13 May 2019
+762,Kurukshetra,Ladwa,Wheat,Local,FAQ,1840,1840,1840,20 Apr 2019
+763,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+764,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+765,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+766,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+767,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+768,Ambala,Mullana(saha),Wheat,Other,FAQ,1840,1840,1840,28 Apr 2019
+769,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,29 Apr 2019
+770,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1735,1735,24 Sep 2018
+771,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,01 Jul 2019
+772,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,05 Jun 2019
+773,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,12 Jun 2019
+774,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,17 Aug 2019
+775,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,18 Jun 2019
+776,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,23 Jul 2019
+777,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,24 May 2019
+778,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,25 Apr 2019
+779,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,26 Aug 2019
+780,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+781,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,23 Apr 2019
+782,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,11 May 2019
+783,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,24 Apr 2019
+784,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+785,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,07 May 2019
+786,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+787,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+788,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+789,Kaithal,Siwan,Wheat,147 Average,FAQ,1840,1840,1840,16 Apr 2019
+790,Karnal,Tarori,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+791,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+792,Kurukshetra,Babain,Wheat,Local,FAQ,1840,1840,1840,05 May 2019
+793,Faridabad,Ballabhgarh,Wheat,Other,FAQ,1840,1840,1840,30 Apr 2019
+794,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+795,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+796,Panchkula,Barwala,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+797,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+798,Yamuna Nagar,Chhachrauli,Wheat,Kanak,FAQ,1840,1840,1840,27 Apr 2019
+799,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,14 Apr 2019
+800,Kaithal,Dhand,Wheat,Other,FAQ,1840,1840,1840,15 May 2019
+801,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,04 May 2019
+802,Sirsa,Ding,Wheat,Other,FAQ,1840,1840,1840,13 May 2019
+803,Sonipat,Ganaur,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+804,Karnal,Gharaunda,Wheat,Other,FAQ,1840,1840,1840,22 Apr 2019
+805,Jind,Jullana,Wheat,Other,FAQ,1840,1840,1840,12 Apr 2019
+806,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+807,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+808,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+809,Karnal,Jundla,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+810,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+811,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+812,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+813,Kaithal,Kaithal,Wheat,Other,FAQ,1840,1845,1845,02 May 2019
+814,Bhiwani,Loharu,Wheat,Other,FAQ,1840,1840,1840,20 Apr 2019
+815,Ambala,Mullana,Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+816,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,09 May 2019
+817,Ambala,Naraingarh,Wheat,Other,FAQ,1840,1840,1840,27 Apr 2019
+818,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,01 May 2019
+819,Hissar,Narnaund,Wheat,Other,FAQ,1840,1840,1840,25 Apr 2019
+820,Jind,Narwana,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+821,Jind,"New Grain Market , Jind",Wheat,Other,FAQ,1840,1840,1840,18 Apr 2019
+822,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1735,1800,1735,22 Sep 2018
+823,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,04 Jul 2019
+824,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,09 Aug 2019
+825,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,14 Apr 2019
+826,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,15 May 2019
+827,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,17 Jun 2019
+828,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,20 Aug 2019
+829,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,20 Jul 2019
+830,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,27 Aug 2019
+831,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,29 Jun 2019
+832,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,30 Apr 2019
+833,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,31 Aug 2019
+834,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2200,2000,31 May 2019
+835,Panchkula,"New Grain Market , Panchkula",Wheat,Other,FAQ,1840,2400,2000,30 Aug 2019
+836,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,08 May 2019
+837,Karnal,Nilokheri,Wheat,Other,FAQ,1840,1840,1840,16 Apr 2019
+838,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,03 May 2019
+839,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,06 May 2019
+840,Jind,Pillukhera,Wheat,Other,FAQ,1840,1840,1840,21 Apr 2019
+841,Kurukshetra,Pipli,Wheat,Other,FAQ,1840,1840,1840,10 May 2019
+842,Jind,Safidon,Wheat,Other,FAQ,1840,1840,1840,15 Apr 2019
+843,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,01 May 2019
+844,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,09 May 2019
+845,Kurukshetra,Shahabad,Wheat,Local,FAQ,1840,1840,1840,25 Apr 2019
+846,Ambala,Shahzadpur,Wheat,Other,FAQ,1840,1840,1840,02 May 2019
+847,Sirsa,Sirsa,Wheat,Other,FAQ,1840,1840,1840,17 Apr 2019
+848,Jind,Uchana,Wheat,Other,FAQ,1840,1840,1840,07 May 2019

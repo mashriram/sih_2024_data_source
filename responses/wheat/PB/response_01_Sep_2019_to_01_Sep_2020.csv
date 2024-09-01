@@ -1,0 +1,1236 @@
+0,1,2,3,4,5,6,7,8,9
+1,Fazilka,Abohar,Wheat,Other,FAQ,1685,1725,1695,31 Jul 2020
+2,Fazilka,Abohar,Wheat,Other,FAQ,1710,1710,1710,27 Jul 2020
+3,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+4,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+5,Jalandhar,Adampur,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+6,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,21 May 2020
+7,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,04 May 2020
+8,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+9,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,28 Apr 2020
+10,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+11,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+12,Barnala,Barnala,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+13,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,14 May 2020
+14,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,10 May 2020
+15,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,17 May 2020
+16,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+17,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+18,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+19,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+20,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+21,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+22,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,03 May 2020
+23,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,18 Apr 2020
+24,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+25,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+26,Faridkot,Faridkot,Wheat,Other,FAQ,1935,1935,1935,13 May 2020
+27,Faridkot,Faridkot (Machakikalan),Wheat,Other,FAQ,1935,1935,1935,26 Apr 2020
+28,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+29,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+30,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,26 Apr 2020
+31,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+32,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+33,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,17 Apr 2020
+34,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+35,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+36,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+37,Ludhiana,Hathur,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+38,Ludhiana,Hathur,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+39,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+40,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,09 May 2020
+41,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+42,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+43,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+44,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+45,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+46,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+47,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+48,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+49,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+50,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+51,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+52,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,20 May 2020
+53,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,27 Apr 2020
+54,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+55,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1835,1835,1835,10 Oct 2019
+56,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+57,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+58,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+59,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+60,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+61,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+62,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+63,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,10 May 2020
+64,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+65,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+66,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+67,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+68,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,27 Apr 2020
+69,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+70,Barnala,Barnala,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+71,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+72,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+73,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+74,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+75,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+76,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+77,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+78,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+79,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,27 Apr 2020
+80,Barnala,Dhanula (Kaleke),Wheat,Kanak,FAQ,1925,1925,1925,29 Apr 2020
+81,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+82,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+83,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+84,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+85,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+86,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+87,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,16 Apr 2020
+88,Patiala,Ghanaur,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+89,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,10 May 2020
+90,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+91,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+92,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+93,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+94,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+95,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+96,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+97,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+98,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,03 May 2020
+99,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+100,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+101,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+102,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+103,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+104,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+105,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+106,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+107,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+108,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+109,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+110,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+111,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,14 May 2020
+112,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,18 May 2020
+113,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+114,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,04 May 2020
+115,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,09 May 2020
+116,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+117,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,10 May 2020
+118,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,12 May 2020
+119,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+120,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+121,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+122,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+123,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+124,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+125,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,23 May 2020
+126,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+127,Barnala,Dhanula (Kaleke),Wheat,Kanak,FAQ,1925,1925,1925,30 Apr 2020
+128,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+129,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+130,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+131,Faridkot,Faridkot (Machakikalan),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+132,Faridkot,Faridkot (Machakikalan),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+133,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+134,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+135,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+136,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+137,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+138,Ludhiana,Hathur,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+139,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+140,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+141,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+142,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+143,Jalandhar,Jalandhar City(Faintan Ganj),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+144,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+145,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+146,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+147,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+148,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+149,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,13 May 2020
+150,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+151,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+152,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+153,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+154,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+155,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+156,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+157,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,29 Apr 2020
+158,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,30 Apr 2020
+159,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+160,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+161,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+162,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+163,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+164,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+165,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+166,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+167,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+168,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+169,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+170,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,06 May 2020
+171,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,21 Apr 2020
+172,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,23 Apr 2020
+173,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+174,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+175,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+176,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,23 May 2020
+177,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+178,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+179,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+180,Fatehgarh,Sirhind,Wheat,Other,FAQ,1915.38,1915.38,1915.38,09 May 2020
+181,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+182,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+183,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+184,kapurthala,Sultanpur,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+185,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+186,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+187,Fazilka,Abohar,Wheat,Other,FAQ,1780,1780,1780,14 Jul 2020
+188,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+189,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,28 May 2020
+190,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+191,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+192,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+193,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+194,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+195,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+196,Barnala,Barnala,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+197,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,03 May 2020
+198,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,04 May 2020
+199,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,09 May 2020
+200,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,16 May 2020
+201,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,27 May 2020
+202,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+203,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+204,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+205,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+206,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+207,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+208,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+209,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+210,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,13 May 2020
+211,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+212,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+213,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+214,Faridkot,Faridkot,Wheat,Other,FAQ,1935,1935,1935,26 May 2020
+215,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+216,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+217,Patiala,Ghanaur,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+218,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+219,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+220,Hoshiarpur,Hoshiarpur,Wheat,147 Average,FAQ,1300,2400,2215,05 Dec 2019
+221,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+222,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,04 May 2020
+223,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+224,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+225,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+226,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+227,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+228,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+229,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+230,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+231,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+232,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,18 May 2020
+233,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,20 Apr 2020
+234,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+235,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+236,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+237,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+238,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+239,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+240,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,25 Apr 2020
+241,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+242,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+243,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+244,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+245,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,31 May 2020
+246,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+247,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+248,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+249,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+250,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+251,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,24 Apr 2020
+252,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+253,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+254,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+255,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+256,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+257,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+258,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+259,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+260,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+261,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+262,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+263,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+264,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,24 May 2020
+265,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+266,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,15 May 2020
+267,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,17 Apr 2020
+268,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,19 May 2020
+269,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,24 Apr 2020
+270,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,29 Apr 2020
+271,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1930,1925,22 Jul 2020
+272,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+273,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+274,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+275,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+276,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+277,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+278,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+279,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+280,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+281,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+282,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+283,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,23 May 2020
+284,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+285,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+286,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+287,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+288,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,28 May 2020
+289,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+290,Fatehgarh,Sirhind,Wheat,Other,FAQ,1915.38,1915.38,1915.38,12 May 2020
+291,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+292,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+293,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+294,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+295,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+296,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+297,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,01 May 2020
+298,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,13 May 2020
+299,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+300,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+301,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,14 May 2020
+302,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,23 Apr 2020
+303,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+304,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,24 May 2020
+305,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+306,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,16 May 2020
+307,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,18 May 2020
+308,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,27 May 2020
+309,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,29 May 2020
+310,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+311,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+312,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,03 May 2020
+313,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,09 May 2020
+314,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,11 May 2020
+315,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,23 May 2020
+316,Bhatinda,Bhucho,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+317,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+318,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+319,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+320,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+321,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+322,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+323,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+324,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+325,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+326,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+327,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+328,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+329,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+330,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+331,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+332,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+333,Barnala,Dhanaula,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+334,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+335,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+336,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+337,Faridkot,Faridkot (Machakikalan),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+338,Faridkot,Faridkot (Machakikalan),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+339,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+340,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+341,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+342,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+343,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,01 May 2020
+344,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,16 May 2020
+345,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+346,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+347,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+348,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+349,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,30 May 2020
+350,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+351,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,23 May 2020
+352,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+353,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+354,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+355,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+356,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+357,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+358,Patiala,Samana(Gajewas),Wheat,Kanak,FAQ,1925,1925,1925,20 Apr 2020
+359,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+360,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+361,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+362,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,12 May 2020
+363,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,21 May 2020
+364,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+365,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+366,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+367,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+368,kapurthala,Sultanpur,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+369,Fazilka,Abohar,Wheat,Other,FAQ,1800,1800,1800,28 Jul 2020
+370,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+371,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,03 May 2020
+372,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,11 May 2020
+373,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+374,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+375,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,01 May 2020
+376,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,12 May 2020
+377,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,13 May 2020
+378,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+379,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,13 May 2020
+380,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,24 May 2020
+381,Bhatinda,Bhucho,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+382,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+383,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+384,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+385,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+386,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+387,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+388,Tarntaran,Chabhal,Wheat,Other,FAQ,1926,1926,1926,08 May 2020
+389,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+390,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+391,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+392,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+393,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,09 May 2020
+394,Barnala,Dhanula (Kaleke),Wheat,Kanak,FAQ,1925,1925,1925,27 Apr 2020
+395,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+396,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+397,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+398,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+399,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+400,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+401,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+402,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+403,Patiala,Ghanaur,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+404,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+405,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,12 May 2020
+406,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,13 May 2020
+407,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+408,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+409,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+410,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+411,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+412,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+413,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+414,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+415,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+416,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+417,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+418,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+419,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,10 May 2020
+420,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,12 May 2020
+421,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,24 Apr 2020
+422,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+423,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+424,Jalandhar,Jalandhar City(Faintan Ganj),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+425,Jalandhar,Jalandhar City(Faintan Ganj),Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+426,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+427,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+428,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,02 May 2020
+429,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,05 May 2020
+430,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,07 May 2020
+431,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,08 May 2020
+432,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,21 May 2020
+433,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+434,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+435,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+436,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+437,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+438,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+439,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+440,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+441,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+442,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+443,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+444,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+445,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+446,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+447,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+448,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+449,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+450,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,25 Apr 2020
+451,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+452,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+453,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+454,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+455,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+456,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+457,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+458,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+459,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+460,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+461,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+462,Ferozpur,Zira,Wheat,Other,FAQ,1925,1930,1925,17 Apr 2020
+463,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+464,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+465,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+466,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,19 May 2020
+467,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+468,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+469,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+470,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,30 Apr 2020
+471,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+472,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,21 May 2020
+473,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,22 May 2020
+474,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,25 May 2020
+475,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+476,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+477,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+478,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+479,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+480,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+481,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+482,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+483,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+484,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,06 May 2020
+485,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,21 Apr 2020
+486,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,23 Apr 2020
+487,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,30 Apr 2020
+488,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+489,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+490,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+491,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+492,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+493,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+494,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+495,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+496,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+497,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,15 Apr 2020
+498,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,07 May 2020
+499,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,17 Apr 2020
+500,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+501,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+502,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+503,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+504,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+505,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+506,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+507,Jalandhar,Jalandhar City(Faintan Ganj),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+508,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+509,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,11 May 2020
+510,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,15 May 2020
+511,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,19 May 2020
+512,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,28 May 2020
+513,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+514,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+515,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+516,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+517,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+518,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+519,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+520,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,31 May 2020
+521,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,147 Best,FAQ,1925,1925,1925,28 Apr 2020
+522,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+523,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+524,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+525,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+526,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+527,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+528,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,10 May 2020
+529,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,19 May 2020
+530,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,29 Apr 2020
+531,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+532,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+533,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+534,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+535,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+536,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,08 May 2020
+537,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,06 May 2020
+538,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+539,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+540,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+541,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+542,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+543,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+544,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+545,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+546,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,16 Apr 2020
+547,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,28 Apr 2020
+548,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+549,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,28 Apr 2020
+550,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+551,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+552,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+553,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+554,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+555,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+556,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+557,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+558,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+559,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,17 Apr 2020
+560,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+561,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+562,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+563,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+564,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+565,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1835,1835,1835,09 Oct 2019
+566,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+567,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+568,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+569,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+570,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,03 May 2020
+571,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1835,1835,1835,06 Nov 2019
+572,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+573,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+574,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+575,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,16 Apr 2020
+576,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+577,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+578,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+579,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+580,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+581,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+582,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+583,Patiala,Samana(Gajewas),Wheat,Kanak,FAQ,1925,1925,1925,16 Apr 2020
+584,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+585,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+586,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+587,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+588,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+589,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+590,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,08 May 2020
+591,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,09 May 2020
+592,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,16 May 2020
+593,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+594,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+595,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+596,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+597,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+598,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+599,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+600,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+601,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+602,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+603,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+604,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+605,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,06 May 2020
+606,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,13 May 2020
+607,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,147 Best,FAQ,1925,1925,1925,02 May 2020
+608,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+609,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+610,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+611,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+612,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,23 May 2020
+613,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+614,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,12 May 2020
+615,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+616,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,05 May 2020
+617,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+618,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,26 May 2020
+619,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+620,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,24 May 2020
+621,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+622,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+623,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+624,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,23 May 2020
+625,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+626,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+627,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+628,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,17 Apr 2020
+629,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,26 Apr 2020
+630,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+631,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+632,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+633,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+634,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+635,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,27 Apr 2020
+636,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+637,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+638,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+639,Patiala,Ghanaur,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+640,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+641,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,05 May 2020
+642,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,08 May 2020
+643,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+644,Jalandhar,Jalandhar City(Faintan Ganj),Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+645,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+646,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+647,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+648,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,01 May 2020
+649,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,04 May 2020
+650,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,23 Apr 2020
+651,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+652,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+653,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+654,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+655,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+656,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+657,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+658,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+659,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+660,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+661,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+662,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+663,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+664,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+665,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+666,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+667,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+668,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+669,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+670,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+671,Patiala,Samana(Gajewas),Wheat,Kanak,FAQ,1925,1925,1925,17 Apr 2020
+672,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+673,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+674,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+675,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+676,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,15 Apr 2020
+677,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,20 May 2020
+678,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,28 Apr 2020
+679,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+680,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+681,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+682,kapurthala,Sultanpur,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+683,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+684,Fazilka,Abohar,Wheat,Other,FAQ,1805,1815,1815,21 Jul 2020
+685,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,02 May 2020
+686,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,07 May 2020
+687,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,08 May 2020
+688,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+689,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+690,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+691,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,07 May 2020
+692,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,08 May 2020
+693,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,22 Apr 2020
+694,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,24 Apr 2020
+695,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+696,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+697,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+698,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+699,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,07 May 2020
+700,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+701,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+702,Bhatinda,Bhucho,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+703,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+704,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+705,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+706,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+707,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+708,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+709,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+710,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+711,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,28 May 2020
+712,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+713,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+714,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,22 Apr 2020
+715,Barnala,Dhanula (Kaleke),Wheat,Kanak,FAQ,1925,1925,1925,26 Apr 2020
+716,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+717,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+718,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+719,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+720,Faridkot,Faridkot (Machakikalan),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+721,Faridkot,Faridkot (Machakikalan),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+722,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,22 Apr 2020
+723,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+724,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+725,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+726,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+727,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+728,Hoshiarpur,Hoshiarpur,Wheat,147 Average,FAQ,1825,1860,1840,06 Mar 2020
+729,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+730,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,06 May 2020
+731,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+732,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+733,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+734,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+735,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+736,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+737,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+738,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+739,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+740,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+741,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,09 May 2020
+742,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,06 May 2020
+743,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,147 Best,FAQ,1925,1925,1925,30 Apr 2020
+744,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+745,Barnala,Barnala,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+746,Barnala,Barnala,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+747,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,15 May 2020
+748,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+749,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+750,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,15 May 2020
+751,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+752,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+753,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+754,Tarntaran,Chabhal,Wheat,Other,FAQ,0,1925,1925,23 Apr 2020
+755,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+756,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+757,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+758,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+759,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,11 May 2020
+760,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,19 Apr 2020
+761,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+762,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,23 Apr 2020
+763,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+764,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+765,Patiala,Ghanaur,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+766,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,16 Apr 2020
+767,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+768,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,02 May 2020
+769,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+770,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+771,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+772,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+773,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,30 Apr 2020
+774,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+775,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,28 Apr 2020
+776,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+777,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+778,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+779,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+780,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+781,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+782,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+783,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+784,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+785,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+786,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+787,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+788,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+789,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,10 May 2020
+790,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,16 Apr 2020
+791,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+792,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+793,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+794,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+795,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+796,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+797,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+798,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+799,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+800,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+801,Patiala,Samana(Gajewas),Wheat,Kanak,FAQ,1925,1925,1925,19 Apr 2020
+802,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+803,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+804,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+805,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+806,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+807,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+808,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+809,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,13 May 2020
+810,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+811,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+812,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+813,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+814,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+815,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+816,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+817,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,30 May 2020
+818,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,20 May 2020
+819,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,28 Apr 2020
+820,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,29 Apr 2020
+821,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+822,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,25 Apr 2020
+823,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+824,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+825,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+826,Barnala,Barnala,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+827,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,30 May 2020
+828,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+829,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,04 May 2020
+830,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,08 May 2020
+831,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,28 May 2020
+832,Bhatinda,Bhucho,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+833,Bhatinda,Bhucho,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+834,Bhatinda,Bhucho,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+835,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+836,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+837,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+838,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+839,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+840,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+841,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+842,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+843,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+844,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,24 May 2020
+845,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,25 Apr 2020
+846,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+847,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+848,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+849,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,25 Apr 2020
+850,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+851,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+852,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+853,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+854,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+855,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+856,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+857,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+858,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+859,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+860,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+861,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+862,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+863,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,09 May 2020
+864,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+865,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+866,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+867,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+868,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+869,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+870,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+871,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+872,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+873,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+874,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+875,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+876,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+877,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+878,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+879,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+880,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+881,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+882,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+883,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+884,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+885,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+886,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+887,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+888,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+889,kapurthala,Sultanpur,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+890,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+891,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+892,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+893,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+894,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+895,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+896,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+897,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+898,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+899,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,03 May 2020
+900,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,11 May 2020
+901,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,19 Apr 2020
+902,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,27 May 2020
+903,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+904,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+905,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+906,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+907,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+908,Fatehgarh,Sirhind,Wheat,Other,FAQ,1915.38,1915.38,1915.38,11 May 2020
+909,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+910,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+911,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+912,Fazilka,Abohar,Wheat,Other,FAQ,1700,1700,1700,25 Jul 2020
+913,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+914,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,08 May 2020
+915,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,27 Apr 2020
+916,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,30 Apr 2020
+917,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+918,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+919,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,11 May 2020
+920,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+921,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,05 May 2020
+922,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,14 May 2020
+923,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+924,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+925,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+926,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+927,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+928,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,10 May 2020
+929,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,24 Apr 2020
+930,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+931,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+932,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+933,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+934,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+935,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+936,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,28 May 2020
+937,Faridkot,Jaitu,Wheat,Local,FAQ,1925,1925,1925,25 May 2020
+938,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+939,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+940,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+941,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+942,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+943,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+944,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+945,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+946,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,06 May 2020
+947,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,21 Apr 2020
+948,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,25 May 2020
+949,Muktsar,Malout,Wheat,Other,FAQ,2200,2800,2500,03 Sep 2019
+950,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+951,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+952,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+953,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+954,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+955,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+956,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+957,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+958,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+959,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+960,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+961,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+962,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+963,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+964,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+965,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,07 May 2020
+966,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,14 May 2020
+967,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+968,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+969,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+970,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,24 May 2020
+971,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,07 May 2020
+972,Amritsar,Ajnala,Wheat,2329,FAQ,1925,1925,1925,15 May 2020
+973,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1925,1925,26 Apr 2020
+974,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+975,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+976,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+977,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+978,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,28 May 2020
+979,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,26 Apr 2020
+980,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+981,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+982,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,01 May 2020
+983,Jalandhar,Bilga,Wheat,Other,FAQ,0,1925,1925,20 May 2020
+984,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+985,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+986,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+987,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+988,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,04 May 2020
+989,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,31 May 2020
+990,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+991,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+992,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,07 May 2020
+993,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,24 Apr 2020
+994,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+995,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+996,Ludhiana,Hathur,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+997,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+998,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+999,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+1000,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+1001,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+1002,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+1003,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+1004,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+1005,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+1006,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+1007,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,02 May 2020
+1008,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+1009,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+1010,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+1011,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,07 May 2020
+1012,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1013,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+1014,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+1015,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+1016,Patiala,Samana(Gajewas),Wheat,Kanak,FAQ,1925,1925,1925,18 Apr 2020
+1017,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+1018,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+1019,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+1020,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+1021,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,28 May 2020
+1022,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+1023,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+1024,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+1025,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+1026,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+1027,Amritsar,Majitha,Wheat,Local,FAQ,1925,1925,1925,29 Apr 2020
+1028,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+1029,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+1030,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+1031,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+1032,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+1033,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,26 Apr 2020
+1034,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+1035,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+1036,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,30 May 2020
+1037,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+1038,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+1039,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+1040,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+1041,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+1042,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1043,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+1044,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+1045,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+1046,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+1047,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+1048,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+1049,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,16 Apr 2020
+1050,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,18 May 2020
+1051,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,20 Apr 2020
+1052,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+1053,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+1054,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+1055,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+1056,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+1057,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,17 May 2020
+1058,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,18 Apr 2020
+1059,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+1060,Fatehgarh,Sirhind,Wheat,Other,FAQ,1915.38,1915.38,1915.38,17 May 2020
+1061,Fatehgarh,Sirhind,Wheat,Other,FAQ,1915.38,1915.38,1915.38,19 May 2020
+1062,kapurthala,Sultanpur,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1063,kapurthala,Sultanpur,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+1064,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+1065,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+1066,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,24 Jul 2020
+1067,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,27 Apr 2020
+1068,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+1069,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,147 Best,FAQ,1925,1925,1925,29 Apr 2020
+1070,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+1071,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1072,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+1073,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+1074,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,17 May 2020
+1075,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,30 Apr 2020
+1076,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+1077,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+1078,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1079,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,02 May 2020
+1080,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,11 May 2020
+1081,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1915.38,1915.38,1915.38,17 May 2020
+1082,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,18 May 2020
+1083,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,29 May 2020
+1084,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+1085,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+1086,Patiala,Bhadson,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+1087,Bhatinda,Bhucho,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+1088,Bhatinda,Bhucho,Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+1089,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+1090,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+1091,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+1092,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+1093,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+1094,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,14 May 2020
+1095,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+1096,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+1097,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+1098,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,24 May 2020
+1099,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+1100,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+1101,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+1102,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+1103,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,02 May 2020
+1104,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,07 May 2020
+1105,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+1106,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+1107,Faridkot,Faridkot (Machakikalan),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+1108,Faridkot,Faridkot (Machakikalan),Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+1109,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,29 Apr 2020
+1110,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+1111,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+1112,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+1113,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,21 Apr 2020
+1114,Muktsar,Giddarbaha,Wheat,Other,FAQ,1900,1900,1900,29 Jul 2020
+1115,Muktsar,Giddarbaha,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+1116,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+1117,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,29 Apr 2020
+1118,Faridkot,Jaitu,Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+1119,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+1120,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+1121,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+1122,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,04 May 2020
+1123,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,25 May 2020
+1124,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+1125,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+1126,Ludhiana,Sidhwan Bet (Lodhiwala),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+1127,Fatehgarh,Sirhind,Wheat,Other,FAQ,1915.38,1915.38,1915.38,20 May 2020
+1128,Sangrur,Sulargharat,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+1129,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+1130,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+1131,Jalandhar,Jalandhar City(Faintan Ganj),Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+1132,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+1133,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+1134,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+1135,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+1136,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,30 May 2020
+1137,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+1138,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+1139,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1925,1925,1925,22 May 2020
+1140,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,17 Apr 2020
+1141,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,30 May 2020
+1142,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,27 Apr 2020
+1143,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+1144,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+1145,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+1146,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+1147,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,31 May 2020
+1148,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,02 May 2020
+1149,Faridkot,Sadiq,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+1150,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1151,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+1152,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+1153,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+1154,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+1155,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,17 Apr 2020
+1156,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+1157,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,30 May 2020
+1158,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,01 May 2020
+1159,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,05 May 2020
+1160,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,26 Apr 2020
+1161,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,05 May 2020
+1162,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+1163,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,22 Apr 2020
+1164,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1165,Ferozpur,Zira,Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+1166,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+1167,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+1168,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,23 May 2020
+1169,Fazilka,Abohar,Wheat,Other,FAQ,1925,1925,1925,26 Apr 2020
+1170,Fatehgarh,Amloh,Wheat,147 Best,FAQ,1925,1926,1925,09 May 2020
+1171,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,147 Best,FAQ,1925,1925,1925,01 May 2020
+1172,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+1173,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+1174,Moga,Baghapurana,Wheat,Other,FAQ,1925,1925,1925,25 May 2020
+1175,Nawanshahr,Banga (Kataria),Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+1176,Mansa,Bareta,Wheat,Other,FAQ,1925,1925,1925,20 May 2020
+1177,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,06 May 2020
+1178,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,13 May 2020
+1179,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1925,21 Apr 2020
+1180,Mansa,Bareta,Wheat,Other,FAQ,1925,1930,1930,02 May 2020
+1181,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,03 May 2020
+1182,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+1183,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,19 Apr 2020
+1184,Muktsar,Bariwala,Wheat,Other,FAQ,1925,1925,1925,25 Apr 2020
+1185,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1925,1925,1925,17 Apr 2020
+1186,Patiala,Bhadson,Wheat,Other,FAQ,1920.19,1920.19,1920.19,20 May 2020
+1187,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,24 May 2020
+1188,Jalandhar,Bilga,Wheat,Other,FAQ,1925,1925,1925,26 May 2020
+1189,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,20 Apr 2020
+1190,Jalandhar,Bilga (Talwan ),Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1191,Mansa,Boha,Wheat,Other,FAQ,1925,1925,1925,15 May 2020
+1192,Tarntaran,Chabhal,Wheat,Other,FAQ,1925,1925,1925,06 May 2020
+1193,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,05 May 2020
+1194,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,08 May 2020
+1195,Barnala,Dhanaula,Wheat,Local,FAQ,1925,1925,1925,12 May 2020
+1196,Barnala,Dhanula (Kaleke),Wheat,Kanak,FAQ,1925,1925,1925,25 Apr 2020
+1197,Gurdaspur,Dinanagar,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+1198,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+1199,Faridkot,Faridkot,Wheat,Other,FAQ,1925,1925,1925,19 May 2020
+1200,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1925,1925,1925,05 May 2020
+1201,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,04 May 2020
+1202,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+1203,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+1204,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1925,1925,1925,21 May 2020
+1205,Patiala,Ghanaur,Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+1206,Muktsar,Giddarbaha,Wheat,Other,FAQ,1840,1840,1840,13 Oct 2019
+1207,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+1208,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+1209,Ludhiana,Jagraon,Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+1210,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1925,1925,1925,10 May 2020
+1211,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+1212,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1213,Fazilka,Jalalabad,Wheat,Other,FAQ,1925,1925,1925,28 May 2020
+1214,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,28 Apr 2020
+1215,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1925,1925,1925,30 Apr 2020
+1216,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1925,1925,1925,16 May 2020
+1217,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1925,1925,1925,18 Apr 2020
+1218,Patiala,Rajpura,Wheat,Local,FAQ,1925,1925,1925,23 Apr 2020
+1219,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,08 May 2020
+1220,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,24 Apr 2020
+1221,Amritsar,Rayya,Wheat,Other,FAQ,1925,1925,1925,28 May 2020
+1222,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1925,1925,1925,23 Apr 2020
+1223,Ludhiana,Sahnewal,Wheat,Other,FAQ,1925,1925,1925,12 May 2020
+1224,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1925,1925,1925,01 May 2020
+1225,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+1226,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1925,1925,1925,13 May 2020
+1227,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,18 May 2020
+1228,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,27 May 2020
+1229,Bhatinda,Sangat,Wheat,Other,FAQ,1925,1925,1925,29 May 2020
+1230,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,02 May 2020
+1231,Sangrur,Sangrur,Wheat,Local,FAQ,1925,1925,1925,27 Apr 2020
+1232,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,09 May 2020
+1233,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1925,1925,1925,11 May 2020
+1234,Fatehgarh,Sirhind,Wheat,Other,FAQ,1915.38,1925,1915.38,08 May 2020
+1235,kapurthala,Sultanpur,Wheat,Other,FAQ,1840,1840,1840,07 Nov 2019

@@ -1,0 +1,754 @@
+0,1,2,3,4,5,6,7,8,9
+1,Bokaro,Bermo,Wheat,Medium,FAQ,1500,1700,1700,02 Sep 2015
+2,Bokaro,Bermo,Wheat,Medium,FAQ,1500,1700,1700,21 Sep 2015
+3,Bokaro,Bermo,Wheat,Medium,FAQ,1500,1700,1700,28 Sep 2015
+4,Bokaro,Bermo,Wheat,Medium,FAQ,1550,1720,1720,09 Dec 2015
+5,Bokaro,Bermo,Wheat,Medium,FAQ,1550,1720,1720,18 Dec 2015
+6,Bokaro,Bermo,Wheat,Medium,FAQ,1550,1750,1750,05 Nov 2015
+7,Bokaro,Bermo,Wheat,Medium,FAQ,1550,1750,1750,05 Oct 2015
+8,Bokaro,Bermo,Wheat,Medium,FAQ,1550,1750,1750,15 Nov 2015
+9,Bokaro,Bermo,Wheat,Medium,FAQ,1550,1750,1750,16 Nov 2015
+10,Bokaro,Bermo,Wheat,Medium,FAQ,1550,1750,1750,16 Oct 2015
+11,Bokaro,Bermo,Wheat,Medium,FAQ,1550,1750,1750,23 Oct 2015
+12,Bokaro,Bermo,Wheat,Medium,FAQ,1800,2000,2000,02 Dec 2015
+13,Bokaro,Bermo,Wheat,Medium,FAQ,1800,2000,2000,20 Nov 2015
+14,Giridih,Giridih,Wheat,White,FAQ,1600,1700,1700,19 Aug 2016
+15,Giridih,Giridih,Wheat,White,FAQ,1600,1800,1800,21 Feb 2016
+16,Giridih,Giridih,Wheat,White,FAQ,1800,1900,1900,18 Jul 2016
+17,Giridih,Giridih,Wheat,White,FAQ,1800,1900,1900,21 May 2016
+18,Giridih,Giridih,Wheat,White,FAQ,1900,2000,2000,06 Sep 2015
+19,Giridih,Giridih,Wheat,White,FAQ,1900,2000,2000,27 Apr 2016
+20,Giridih,Giridih,Wheat,White,FAQ,1900,2100,2100,14 Feb 2016
+21,Giridih,Giridih,Wheat,White,FAQ,1900,2100,2100,19 Sep 2015
+22,Giridih,Giridih,Wheat,White,FAQ,1900,2100,2100,21 Jul 2016
+23,Giridih,Giridih,Wheat,White,FAQ,1900,2100,2100,24 Jul 2016
+24,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,01 Oct 2015
+25,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,07 Oct 2015
+26,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,15 Oct 2015
+27,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,17 Sep 2015
+28,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,21 Nov 2015
+29,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,21 Oct 2015
+30,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,23 Sep 2015
+31,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,25 Oct 2015
+32,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,25 Sep 2015
+33,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,29 Oct 2015
+34,Giridih,Giridih,Wheat,White,FAQ,2000,2100,2100,31 Oct 2015
+35,Giridih,Giridih,Wheat,White,FAQ,2000,2200,2200,13 Oct 2015
+36,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,01 Jul 2016
+37,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,01 Nov 2015
+38,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,03 Nov 2015
+39,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,04 Jul 2016
+40,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,04 Mar 2016
+41,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,05 Dec 2015
+42,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,05 Jan 2016
+43,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,05 Nov 2015
+44,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,10 Mar 2016
+45,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,11 Dec 2015
+46,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,17 Mar 2016
+47,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,18 Feb 2016
+48,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,20 Jan 2016
+49,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,26 Jun 2016
+50,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,26 Mar 2016
+51,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,27 Jun 2016
+52,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,28 Jun 2016
+53,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,28 Nov 2015
+54,Giridih,Giridih,Wheat,White,FAQ,2100,2200,2200,29 Jun 2016
+55,Giridih,Giridih,Wheat,White,FAQ,2100,2300,2300,04 Feb 2016
+56,Giridih,Giridih,Wheat,White,FAQ,2100,2300,2300,25 Feb 2016
+57,Giridih,Giridih,Wheat,White,FAQ,2200,2300,2300,08 Jan 2016
+58,Giridih,Giridih,Wheat,White,FAQ,2200,2300,2300,23 Dec 2015
+59,Giridih,Giridih,Wheat,White,FAQ,2300,2500,2500,06 Dec 2015
+60,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1595,1720,1680,19 Nov 2015
+61,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1785,1720,18 May 2016
+62,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1800,1720,27 May 2016
+63,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1820,1750,06 May 2016
+64,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1820,1750,08 Apr 2016
+65,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1820,1750,16 Mar 2016
+66,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1820,1750,22 Apr 2016
+67,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1845,1720,01 Jun 2016
+68,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1850,1720,07 May 2016
+69,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1850,1750,07 Apr 2016
+70,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1850,1750,10 Apr 2016
+71,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1850,1750,15 Jun 2016
+72,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,1850,1790,21 Apr 2016
+73,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1650,2010,1950,07 Nov 2015
+74,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1695,1795,1720,15 Apr 2016
+75,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1695,1800,1720,10 May 2016
+76,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1720,1850,1820,30 Apr 2016
+77,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1720,1895,1845,20 Mar 2016
+78,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1720,1945,1820,12 Jun 2016
+79,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1750,1850,1810,17 Mar 2016
+80,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1750,1910,1850,13 Feb 2016
+81,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1750,1920,1850,05 Feb 2016
+82,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1785,1920,1895,30 Jan 2016
+83,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1785,1955,1850,28 Jan 2016
+84,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1795,1985,1850,07 Jan 2016
+85,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,1950,1900,21 Jan 2016
+86,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,1950,1910,17 Feb 2016
+87,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,1980,1975,12 Mar 2016
+88,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2000,1920,05 Jan 2016
+89,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2000,1950,02 Jan 2016
+90,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2000,1950,03 Dec 2015
+91,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2000,1950,05 Nov 2015
+92,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2000,1950,12 Nov 2015
+93,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2010,1920,10 Feb 2016
+94,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2010,1920,10 Jan 2016
+95,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2010,1920,23 Feb 2016
+96,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2010,1950,09 Jan 2016
+97,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1850,2020,1920,03 Nov 2015
+98,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1898,1955,1950,13 Nov 2015
+99,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1950,2000,1985,03 Apr 2016
+100,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1950,2010,1980,27 Mar 2016
+101,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,1950,2150,2010,27 Sep 2015
+102,Hazaribagh,Hazaribagh,Wheat,Other,FAQ,2000,2200,2150,05 Sep 2015
+103,Jamtara,Jamtara,Wheat,Other,FAQ,1600,1800,1700,04 Feb 2016
+104,Jamtara,Jamtara,Wheat,Other,FAQ,1600,1800,1700,18 Mar 2016
+105,Jamtara,Jamtara,Wheat,Other,FAQ,1600,1800,1700,23 Mar 2016
+106,Jamtara,Jamtara,Wheat,Other,FAQ,1600,1800,1700,24 Jan 2016
+107,Jamtara,Jamtara,Wheat,Other,FAQ,1600,1800,1700,25 Feb 2016
+108,Jamtara,Jamtara,Wheat,Other,FAQ,1600,1800,1700,26 Mar 2016
+109,Jamtara,Jamtara,Wheat,Other,FAQ,1600,1800,1700,27 Jan 2016
+110,Jamtara,Jamtara,Wheat,Other,FAQ,1600,1800,1700,28 Jan 2016
+111,Jamtara,Jamtara,Wheat,Other,FAQ,1600,1800,1700,30 Mar 2016
+112,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,01 Apr 2016
+113,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,03 Feb 2016
+114,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,03 Mar 2016
+115,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,08 Feb 2016
+116,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,10 Feb 2016
+117,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,11 Feb 2016
+118,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,21 Mar 2016
+119,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,26 Feb 2016
+120,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,27 Feb 2016
+121,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,28 Feb 2016
+122,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1850,1750,31 Mar 2016
+123,Jamtara,Jamtara,Wheat,Other,FAQ,1650,1985,1780,10 Mar 2016
+124,Jamtara,Jamtara,Wheat,Other,FAQ,1680,1990,1785,09 Mar 2016
+125,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,02 Mar 2016
+126,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,04 Jan 2016
+127,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,05 Feb 2016
+128,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,05 Mar 2016
+129,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,06 Feb 2016
+130,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,06 Mar 2016
+131,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,07 Jan 2016
+132,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,08 Jan 2016
+133,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,09 Jan 2016
+134,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,10 Jan 2016
+135,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,12 Mar 2016
+136,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,12 Nov 2015
+137,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,13 Jan 2016
+138,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,14 Jan 2016
+139,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,14 Mar 2016
+140,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,15 Feb 2016
+141,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,23 Dec 2015
+142,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,23 Jan 2016
+143,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,27 Mar 2016
+144,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1900,1800,29 Feb 2016
+145,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1950,1800,14 Feb 2016
+146,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1950,1850,07 Feb 2016
+147,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1950,1850,22 Jan 2016
+148,Jamtara,Jamtara,Wheat,Other,FAQ,1700,1950,1850,22 Nov 2015
+149,Jamtara,Jamtara,Wheat,Other,FAQ,1700,2000,1800,07 Sep 2015
+150,Jamtara,Jamtara,Wheat,Other,FAQ,1720,1940,1830,18 Dec 2015
+151,Jamtara,Jamtara,Wheat,Other,FAQ,1740,1975,1860,19 Dec 2015
+152,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,01 Nov 2015
+153,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,02 Sep 2015
+154,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,03 Sep 2015
+155,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,04 Mar 2016
+156,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,07 Mar 2016
+157,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,11 Mar 2016
+158,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,13 Feb 2016
+159,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,13 Mar 2016
+160,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,13 Nov 2015
+161,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,16 Dec 2015
+162,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,21 Dec 2015
+163,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,26 Oct 2015
+164,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,28 Oct 2015
+165,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1850,30 Oct 2015
+166,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1950,1860,31 Dec 2015
+167,Jamtara,Jamtara,Wheat,Other,FAQ,1750,1975,1880,31 Oct 2015
+168,Jamtara,Jamtara,Wheat,Other,FAQ,1750,2000,1850,19 Feb 2016
+169,Jamtara,Jamtara,Wheat,Other,FAQ,1750,2010,1830,09 Nov 2015
+170,Jamtara,Jamtara,Wheat,Other,FAQ,1750,2050,1850,11 Sep 2015
+171,Jamtara,Jamtara,Wheat,Other,FAQ,1780,1950,1890,02 Jan 2016
+172,Jamtara,Jamtara,Wheat,Other,FAQ,1780,1980,1860,02 Nov 2015
+173,Jamtara,Jamtara,Wheat,Other,FAQ,1780,1980,1860,27 Nov 2015
+174,Jamtara,Jamtara,Wheat,Other,FAQ,1780,1985,1885,12 Sep 2015
+175,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2000,1850,29 Nov 2015
+176,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2000,1860,06 Dec 2015
+177,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2000,1860,10 Dec 2015
+178,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2000,1860,11 Dec 2015
+179,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2000,1860,11 Nov 2015
+180,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2000,1860,20 Dec 2015
+181,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2000,1875,17 Dec 2015
+182,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2030,1975,13 Sep 2015
+183,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2040,1875,05 Sep 2015
+184,Jamtara,Jamtara,Wheat,Other,FAQ,1780,2085,1990,17 Sep 2015
+185,Jamtara,Jamtara,Wheat,Other,FAQ,1785,1975,1860,10 Oct 2015
+186,Jamtara,Jamtara,Wheat,Other,FAQ,1785,1980,1855,14 Dec 2015
+187,Jamtara,Jamtara,Wheat,Other,FAQ,1790,2020,1875,10 Sep 2015
+188,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,03 Jan 2016
+189,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,06 Jan 2016
+190,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,06 Nov 2015
+191,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,06 Sep 2015
+192,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,07 Nov 2015
+193,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,11 Jan 2016
+194,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,11 Oct 2015
+195,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,12 Dec 2015
+196,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,12 Feb 2016
+197,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,12 Oct 2015
+198,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,14 Nov 2015
+199,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,15 Nov 2015
+200,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,17 Feb 2016
+201,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,18 Sep 2015
+202,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,19 Nov 2015
+203,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,19 Sep 2015
+204,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,20 Nov 2015
+205,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,20 Sep 2015
+206,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,21 Nov 2015
+207,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,22 Feb 2016
+208,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,23 Sep 2015
+209,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,24 Dec 2015
+210,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,24 Feb 2016
+211,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,24 Sep 2015
+212,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,25 Dec 2015
+213,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,25 Nov 2015
+214,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,25 Sep 2015
+215,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,26 Dec 2015
+216,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,27 Dec 2015
+217,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,27 Sep 2015
+218,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2000,1900,30 Dec 2015
+219,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2050,1900,04 Sep 2015
+220,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2050,1950,05 Dec 2015
+221,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2050,1950,05 Oct 2015
+222,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2050,1950,07 Dec 2015
+223,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2050,1950,16 Sep 2015
+224,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2065,1945,09 Sep 2015
+225,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2150,1950,03 Dec 2015
+226,Jamtara,Jamtara,Wheat,Other,FAQ,1800,2200,2000,02 Dec 2015
+227,Jamtara,Jamtara,Wheat,Other,FAQ,1810,2060,1925,23 Nov 2015
+228,Jamtara,Jamtara,Wheat,Other,FAQ,1820,2050,1930,13 Dec 2015
+229,Jamtara,Jamtara,Wheat,Other,FAQ,1830,2040,1950,26 Nov 2015
+230,Jamtara,Jamtara,Wheat,Other,FAQ,1830,2050,1940,18 Nov 2015
+231,Jamtara,Jamtara,Wheat,Other,FAQ,1830,2050,1960,28 Nov 2015
+232,Jamtara,Jamtara,Wheat,Other,FAQ,1840,2030,1975,08 Nov 2015
+233,Jamtara,Jamtara,Wheat,Other,FAQ,1840,2050,1960,09 Dec 2015
+234,Jamtara,Jamtara,Wheat,Other,FAQ,1850,2060,1975,14 Oct 2015
+235,Jamtara,Jamtara,Wheat,Other,FAQ,1850,2060,1980,28 Sep 2015
+236,Jamtara,Jamtara,Wheat,Other,FAQ,1850,2150,2000,21 Feb 2016
+237,Jamtara,Jamtara,Wheat,Other,FAQ,1880,2060,1950,09 Oct 2015
+238,Jamtara,Jamtara,Wheat,Other,FAQ,1880,2075,1985,30 Sep 2015
+239,Jamtara,Jamtara,Wheat,Other,FAQ,1900,2000,1950,15 Oct 2015
+240,Jamtara,Jamtara,Wheat,Other,FAQ,1900,2100,2000,02 Oct 2015
+241,Jamtara,Jamtara,Wheat,Other,FAQ,1900,2100,2000,03 Oct 2015
+242,Jamtara,Jamtara,Wheat,Other,FAQ,1900,2100,2000,04 Oct 2015
+243,Jamtara,Jamtara,Wheat,Other,FAQ,1900,2100,2000,14 Sep 2015
+244,Jamtara,Jamtara,Wheat,Other,FAQ,1900,2100,2000,23 Oct 2015
+245,Jamtara,Jamtara,Wheat,Other,FAQ,1900,2100,2000,25 Oct 2015
+246,Jamtara,Jamtara,Wheat,Other,FAQ,1950,2200,2050,01 Oct 2015
+247,Jamtara,Jamtara,Wheat,Other,FAQ,2000,2200,2100,07 Oct 2015
+248,Jamtara,Jamtara,Wheat,Other,FAQ,2000,2200,2100,08 Oct 2015
+249,Jamtara,Jamtara,Wheat,Other,FAQ,2000,2200,2100,19 Oct 2015
+250,Jamtara,Jamtara,Wheat,Other,FAQ,2000,2200,2100,20 Feb 2016
+251,Jamtara,Jamtara,Wheat,Other,FAQ,2000,2200,2100,30 Nov 2015
+252,Jamtara,Jamtara,Wheat,Other,FAQ,2050,2250,2150,22 Oct 2015
+253,Koderma,Koderma,Wheat,Other,FAQ,1500,1800,1700,14 Sep 2015
+254,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,02 Oct 2015
+255,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,03 Jan 2016
+256,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,04 Feb 2016
+257,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,04 Oct 2015
+258,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,05 Sep 2015
+259,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,06 Nov 2015
+260,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,10 Oct 2015
+261,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,11 Oct 2015
+262,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,16 Jan 2016
+263,Koderma,Koderma,Wheat,Other,FAQ,1600,1800,1700,27 Jan 2016
+264,Koderma,Koderma,Wheat,Other,FAQ,1600,1900,1700,14 Oct 2015
+265,Koderma,Koderma,Wheat,Other,FAQ,1600,1900,1800,14 Mar 2016
+266,Koderma,Koderma,Wheat,Other,FAQ,1600,1900,1800,27 Sep 2015
+267,Koderma,Koderma,Wheat,Other,FAQ,1600,1900,1800,31 Dec 2015
+268,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,03 Nov 2015
+269,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,04 Mar 2016
+270,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,06 Aug 2016
+271,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,07 Mar 2016
+272,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,08 Dec 2015
+273,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,09 Nov 2015
+274,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,13 Jul 2016
+275,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,20 Jul 2016
+276,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,21 Nov 2015
+277,Koderma,Koderma,Wheat,Other,FAQ,1700,1900,1800,23 Jul 2016
+278,Koderma,Koderma,Wheat,Other,FAQ,1700,2000,1900,31 Oct 2015
+279,Koderma,Koderma,Wheat,Other,FAQ,1800,2000,1900,18 Jul 2016
+280,Koderma,Koderma,Wheat,Other,FAQ,1800,2000,1900,23 Nov 2015
+281,Koderma,Koderma,Wheat,Other,FAQ,1800,2000,1900,29 Aug 2016
+282,Koderma,Koderma,Wheat,Other,FAQ,1800,2100,2000,22 Oct 2015
+283,Koderma,Koderma,Wheat,Other,FAQ,1900,2100,2000,26 Jul 2016
+284,Koderma,Koderma,Wheat,Other,FAQ,1900,2100,2000,31 Aug 2016
+285,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1600,1550,03 Jun 2016
+286,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1700,1600,13 May 2016
+287,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1700,1650,01 Jul 2016
+288,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1700,1650,28 Mar 2016
+289,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1740,1650,18 Jul 2016
+290,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1800,1600,18 Sep 2015
+291,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1800,1600,27 May 2016
+292,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1800,1600,29 Oct 2015
+293,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1800,1600,30 Oct 2015
+294,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1800,1650,21 Mar 2016
+295,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1800,1650,29 Apr 2016
+296,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1800,1670,30 May 2016
+297,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1500,1800,1750,08 Jul 2016
+298,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1520,1700,1600,06 Jun 2016
+299,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1550,1750,1680,11 Jul 2016
+300,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1700,1650,20 Jun 2016
+301,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,10 Jun 2016
+302,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,10 Sep 2015
+303,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,11 Sep 2015
+304,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,16 Oct 2015
+305,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,18 Apr 2016
+306,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,18 Jan 2016
+307,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,23 Nov 2015
+308,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,24 Sep 2015
+309,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,25 Jan 2016
+310,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1700,26 Oct 2015
+311,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1720,06 May 2016
+312,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1740,20 May 2016
+313,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1740,24 Jun 2016
+314,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1750,05 Oct 2015
+315,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1750,07 Dec 2015
+316,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1750,12 Feb 2016
+317,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1750,13 Jun 2016
+318,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1750,22 Apr 2016
+319,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1750,25 Jul 2016
+320,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1750,26 Aug 2016
+321,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1760,15 Jul 2016
+322,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1760,23 May 2016
+323,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1765,08 Mar 2016
+324,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1800,1765,25 Mar 2016
+325,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1850,1740,14 Mar 2016
+326,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1900,1700,16 Nov 2015
+327,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1900,1800,18 Dec 2015
+328,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1900,1800,26 Nov 2015
+329,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1900,1800,27 Nov 2015
+330,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1900,1800,28 Jan 2016
+331,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1900,1800,29 Jan 2016
+332,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1900,1850,25 Feb 2016
+333,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,1900,1850,26 Feb 2016
+334,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,2000,1800,01 Dec 2015
+335,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,2000,1800,11 Jan 2016
+336,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1600,2000,1800,30 Nov 2015
+337,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,1900,1800,05 Nov 2015
+338,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,1900,1800,10 Dec 2015
+339,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,1900,1800,11 Dec 2015
+340,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,1900,1800,17 Jun 2016
+341,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,1900,1800,22 Jul 2016
+342,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,1900,1800,29 Jul 2016
+343,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,1900,1850,04 Apr 2016
+344,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,1900,1850,19 Feb 2016
+345,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,1900,1860,08 Feb 2016
+346,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,2000,1800,21 Sep 2015
+347,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,2000,1850,15 Feb 2016
+348,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,2000,1860,14 Jan 2016
+349,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,2000,1860,15 Jan 2016
+350,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,2000,1860,29 Feb 2016
+351,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,2000,1900,08 Oct 2015
+352,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1700,2000,1950,09 Oct 2015
+353,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1750,1970,1860,11 Apr 2016
+354,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,01 Aug 2016
+355,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,01 Sep 2015
+356,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,08 Jan 2016
+357,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,11 Aug 2016
+358,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,14 Sep 2015
+359,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,17 Dec 2015
+360,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,19 Nov 2015
+361,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,20 Oct 2015
+362,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,21 Dec 2015
+363,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1900,23 Feb 2016
+364,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,04 Feb 2016
+365,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,04 Mar 2016
+366,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,05 Aug 2016
+367,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,05 Feb 2016
+368,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,08 Apr 2016
+369,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,09 Nov 2015
+370,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,10 Nov 2015
+371,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,11 Mar 2016
+372,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,12 Aug 2016
+373,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,18 Feb 2016
+374,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,18 Mar 2016
+375,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2000,1950,20 Nov 2015
+376,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,01 Oct 2015
+377,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,02 Nov 2015
+378,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,02 Oct 2015
+379,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,03 Sep 2015
+380,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,04 Dec 2015
+381,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,04 Jan 2016
+382,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,07 Sep 2015
+383,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,08 Sep 2015
+384,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,12 Oct 2015
+385,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2000,28 Dec 2015
+386,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2050,21 Jan 2016
+387,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1800,2100,2050,22 Jan 2016
+388,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1900,2200,2000,12 Nov 2015
+389,Lohardaga,Lohardaga,Wheat,Medium,FAQ,1900,2200,2000,13 Nov 2015
+390,Lohardaga,Lohardaga,Wheat,Medium,FAQ,2000,2200,2100,28 Sep 2015
+391,Lohardaga,Lohardaga,Wheat,Medium,FAQ,2000,2200,2150,25 Dec 2015
+392,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,1800,2000,1900,03 Jun 2016
+393,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,1800,2000,1950,11 Jul 2016
+394,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,1800,2100,2000,28 Mar 2016
+395,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,1900,2200,2000,18 Jul 2016
+396,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2100,01 Jul 2016
+397,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2100,10 Sep 2015
+398,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2100,11 Sep 2015
+399,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2100,20 Jun 2016
+400,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2100,25 Mar 2016
+401,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2100,26 Aug 2016
+402,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2100,27 May 2016
+403,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2130,08 Mar 2016
+404,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2140,15 Jul 2016
+405,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2150,06 Jun 2016
+406,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2150,12 Feb 2016
+407,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2150,18 Apr 2016
+408,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2150,18 Jan 2016
+409,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2150,22 Apr 2016
+410,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2150,25 Jan 2016
+411,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2160,21 Mar 2016
+412,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2160,29 Apr 2016
+413,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2165,04 Apr 2016
+414,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2200,2170,08 Jul 2016
+415,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2230,2140,11 Apr 2016
+416,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2250,2170,14 Mar 2016
+417,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2300,2200,06 May 2016
+418,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2300,2200,10 Jun 2016
+419,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2300,2200,23 Nov 2015
+420,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2300,2250,13 Jun 2016
+421,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2400,2200,07 Dec 2015
+422,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2400,2200,23 May 2016
+423,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2400,2200,24 Sep 2015
+424,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2400,2250,05 Oct 2015
+425,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2400,2250,18 Feb 2016
+426,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2400,2250,25 Jul 2016
+427,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2000,2400,2250,26 Oct 2015
+428,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2100,2300,2250,25 Feb 2016
+429,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2100,2300,2250,26 Feb 2016
+430,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2100,2400,2250,08 Apr 2016
+431,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2100,2400,2250,08 Feb 2016
+432,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2100,2400,2250,08 Oct 2015
+433,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2100,2400,2250,19 Feb 2016
+434,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2100,2400,2250,20 Oct 2015
+435,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2100,2400,2350,09 Nov 2015
+436,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2100,2400,2350,10 Nov 2015
+437,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2300,2250,04 Mar 2016
+438,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2300,2250,18 Mar 2016
+439,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,01 Dec 2015
+440,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,05 Nov 2015
+441,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,11 Aug 2016
+442,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,16 Nov 2015
+443,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,16 Oct 2015
+444,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,17 Dec 2015
+445,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,17 Jun 2016
+446,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,22 Jul 2016
+447,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,24 Jun 2016
+448,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,29 Jul 2016
+449,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,30 May 2016
+450,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2300,30 Nov 2015
+451,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2320,14 Jan 2016
+452,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2320,15 Jan 2016
+453,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2320,23 Feb 2016
+454,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2320,28 Jan 2016
+455,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2320,29 Feb 2016
+456,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2320,29 Jan 2016
+457,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2340,04 Feb 2016
+458,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2340,05 Aug 2016
+459,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2340,05 Feb 2016
+460,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2340,15 Feb 2016
+461,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,01 Aug 2016
+462,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,10 Dec 2015
+463,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,11 Dec 2015
+464,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,11 Jan 2016
+465,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,11 Mar 2016
+466,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,12 Aug 2016
+467,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,19 Nov 2015
+468,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,20 May 2016
+469,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,26 Nov 2015
+470,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2350,27 Nov 2015
+471,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2400,2370,09 Oct 2015
+472,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2450,2370,21 Dec 2015
+473,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2450,2380,20 Nov 2015
+474,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2500,2300,01 Sep 2015
+475,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2500,2340,18 Dec 2015
+476,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2500,2350,04 Jan 2016
+477,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2500,2350,21 Sep 2015
+478,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2500,2400,12 Oct 2015
+479,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2500,2400,13 May 2016
+480,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2500,2400,21 Jan 2016
+481,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2500,2400,22 Jan 2016
+482,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2200,2600,2400,08 Jan 2016
+483,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2230,2420,2350,14 Sep 2015
+484,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2250,2500,2360,25 Dec 2015
+485,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2500,2400,02 Oct 2015
+486,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2500,2400,03 Sep 2015
+487,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2500,2400,04 Dec 2015
+488,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2500,2400,07 Sep 2015
+489,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2500,2400,08 Sep 2015
+490,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2500,2400,18 Sep 2015
+491,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2500,2400,28 Dec 2015
+492,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2500,2450,01 Oct 2015
+493,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2500,2450,28 Sep 2015
+494,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2300,2600,2500,02 Nov 2015
+495,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2400,2500,2450,12 Nov 2015
+496,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2400,2500,2450,13 Nov 2015
+497,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2400,2600,2500,29 Oct 2015
+498,Lohardaga,Lohardaga,Wheat,Medium Fine,FAQ,2400,2600,2500,30 Oct 2015
+499,Pakur,Pakur,Wheat,Deshi,FAQ,1400,1600,1500,21 Nov 2015
+500,Pakur,Pakur,Wheat,Deshi,FAQ,1400,1600,1500,28 Nov 2015
+501,Pakur,Pakur,Wheat,Deshi,FAQ,1415,1610,1522,30 Nov 2015
+502,Pakur,Pakur,Wheat,Deshi,FAQ,1416,1626,1522,04 Dec 2015
+503,Pakur,Pakur,Wheat,Deshi,FAQ,1418,1620,1523,03 Dec 2015
+504,Pakur,Pakur,Wheat,Deshi,FAQ,1420,1622,1518,02 Dec 2015
+505,Pakur,Pakur,Wheat,Deshi,FAQ,1420,1654,1541,24 Sep 2015
+506,Pakur,Pakur,Wheat,Deshi,FAQ,1430,1655,1550,07 Oct 2015
+507,Pakur,Pakur,Wheat,Deshi,FAQ,1430,1662,1540,29 Sep 2015
+508,Pakur,Pakur,Wheat,Deshi,FAQ,1434,1622,1527,05 Dec 2015
+509,Pakur,Pakur,Wheat,Deshi,FAQ,1434,1626,1520,10 Dec 2015
+510,Pakur,Pakur,Wheat,Deshi,FAQ,1435,1633,1528,01 Dec 2015
+511,Pakur,Pakur,Wheat,Deshi,FAQ,1435,1638,1545,13 Dec 2015
+512,Pakur,Pakur,Wheat,Deshi,FAQ,1435,1655,1542,09 Sep 2015
+513,Pakur,Pakur,Wheat,Deshi,FAQ,1435,1656,1539,25 Apr 2016
+514,Pakur,Pakur,Wheat,Deshi,FAQ,1435,1657,1542,03 Sep 2015
+515,Pakur,Pakur,Wheat,Deshi,FAQ,1436,1650,1548,01 Oct 2015
+516,Pakur,Pakur,Wheat,Deshi,FAQ,1438,1644,1540,08 Sep 2015
+517,Pakur,Pakur,Wheat,Deshi,FAQ,1438,1650,1542,01 Jan 2016
+518,Pakur,Pakur,Wheat,Deshi,FAQ,1438,1650,1544,02 Jan 2016
+519,Pakur,Pakur,Wheat,Deshi,FAQ,1439,1640,1546,24 Apr 2016
+520,Pakur,Pakur,Wheat,Deshi,FAQ,1439,1673,1560,13 Nov 2015
+521,Pakur,Pakur,Wheat,Deshi,FAQ,1440,1617,1530,06 Dec 2015
+522,Pakur,Pakur,Wheat,Deshi,FAQ,1440,1643,1551,13 Oct 2015
+523,Pakur,Pakur,Wheat,Deshi,FAQ,1440,1650,1548,11 Apr 2016
+524,Pakur,Pakur,Wheat,Deshi,FAQ,1441,1647,1538,16 Dec 2015
+525,Pakur,Pakur,Wheat,Deshi,FAQ,1442,1611,1527,11 Dec 2015
+526,Pakur,Pakur,Wheat,Deshi,FAQ,1442,1639,1556,16 Oct 2015
+527,Pakur,Pakur,Wheat,Deshi,FAQ,1442,1650,1544,14 May 2016
+528,Pakur,Pakur,Wheat,Deshi,FAQ,1442,1650,1561,14 Sep 2015
+529,Pakur,Pakur,Wheat,Deshi,FAQ,1442,1657,1564,26 Apr 2016
+530,Pakur,Pakur,Wheat,Deshi,FAQ,1443,1642,1550,02 Feb 2016
+531,Pakur,Pakur,Wheat,Deshi,FAQ,1443,1655,1562,16 Nov 2015
+532,Pakur,Pakur,Wheat,Deshi,FAQ,1444,1643,1552,07 May 2016
+533,Pakur,Pakur,Wheat,Deshi,FAQ,1444,1643,1555,09 Oct 2015
+534,Pakur,Pakur,Wheat,Deshi,FAQ,1444,1649,1550,05 Feb 2016
+535,Pakur,Pakur,Wheat,Deshi,FAQ,1445,1650,1547,05 Mar 2016
+536,Pakur,Pakur,Wheat,Deshi,FAQ,1445,1650,1552,19 Jan 2016
+537,Pakur,Pakur,Wheat,Deshi,FAQ,1447,1643,1556,30 Apr 2016
+538,Pakur,Pakur,Wheat,Deshi,FAQ,1448,1650,1564,24 Feb 2016
+539,Pakur,Pakur,Wheat,Deshi,FAQ,1449,1651,1550,10 Sep 2015
+540,Pakur,Pakur,Wheat,Deshi,FAQ,1449,1656,1553,11 May 2016
+541,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1629,1546,07 Dec 2015
+542,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1638,1543,08 Dec 2015
+543,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1638,1546,12 Dec 2015
+544,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1643,1565,23 Sep 2015
+545,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1647,1548,27 Apr 2016
+546,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1648,1537,06 Sep 2015
+547,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1648,1555,13 Mar 2016
+548,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1650,1540,02 Sep 2015
+549,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1650,1550,03 Nov 2015
+550,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1650,1550,07 Sep 2015
+551,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1650,1550,13 Sep 2015
+552,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1650,1550,14 Mar 2016
+553,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1650,1550,28 Apr 2016
+554,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1650,1550,29 Apr 2016
+555,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1653,1560,10 Feb 2016
+556,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1659,1547,08 Apr 2016
+557,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1660,1550,20 Jan 2016
+558,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1663,1549,21 Oct 2015
+559,Pakur,Pakur,Wheat,Deshi,FAQ,1450,1665,1558,15 Sep 2015
+560,Pakur,Pakur,Wheat,Deshi,FAQ,1451,1640,1553,10 Oct 2015
+561,Pakur,Pakur,Wheat,Deshi,FAQ,1451,1641,1539,07 Feb 2016
+562,Pakur,Pakur,Wheat,Deshi,FAQ,1451,1654,1550,02 May 2016
+563,Pakur,Pakur,Wheat,Deshi,FAQ,1451,1658,1556,12 May 2016
+564,Pakur,Pakur,Wheat,Deshi,FAQ,1451,1666,1540,14 Oct 2015
+565,Pakur,Pakur,Wheat,Deshi,FAQ,1452,1644,1546,25 Jan 2016
+566,Pakur,Pakur,Wheat,Deshi,FAQ,1452,1645,1548,14 Jan 2016
+567,Pakur,Pakur,Wheat,Deshi,FAQ,1452,1647,1547,06 Feb 2016
+568,Pakur,Pakur,Wheat,Deshi,FAQ,1452,1649,1563,02 Oct 2015
+569,Pakur,Pakur,Wheat,Deshi,FAQ,1453,1647,1550,10 Apr 2016
+570,Pakur,Pakur,Wheat,Deshi,FAQ,1453,1650,1543,18 Jan 2016
+571,Pakur,Pakur,Wheat,Deshi,FAQ,1453,1650,1555,09 Feb 2016
+572,Pakur,Pakur,Wheat,Deshi,FAQ,1454,1646,1540,31 Dec 2015
+573,Pakur,Pakur,Wheat,Deshi,FAQ,1454,1650,1546,22 Dec 2015
+574,Pakur,Pakur,Wheat,Deshi,FAQ,1454,1657,1560,18 Feb 2016
+575,Pakur,Pakur,Wheat,Deshi,FAQ,1455,1644,1540,19 Dec 2015
+576,Pakur,Pakur,Wheat,Deshi,FAQ,1455,1648,1565,17 Oct 2015
+577,Pakur,Pakur,Wheat,Deshi,FAQ,1455,1649,1563,08 Feb 2016
+578,Pakur,Pakur,Wheat,Deshi,FAQ,1455,1650,1549,16 Feb 2016
+579,Pakur,Pakur,Wheat,Deshi,FAQ,1456,1640,1538,28 Jan 2016
+580,Pakur,Pakur,Wheat,Deshi,FAQ,1456,1658,1554,16 May 2016
+581,Pakur,Pakur,Wheat,Deshi,FAQ,1457,1680,1560,27 Sep 2015
+582,Pakur,Pakur,Wheat,Deshi,FAQ,1458,1657,1560,12 Jul 2016
+583,Pakur,Pakur,Wheat,Deshi,FAQ,1458,1679,1543,09 Nov 2015
+584,Pakur,Pakur,Wheat,Deshi,FAQ,1459,1637,1564,03 Feb 2016
+585,Pakur,Pakur,Wheat,Deshi,FAQ,1459,1655,1546,04 Feb 2016
+586,Pakur,Pakur,Wheat,Deshi,FAQ,1460,1638,1548,18 Sep 2015
+587,Pakur,Pakur,Wheat,Deshi,FAQ,1460,1653,1547,28 Sep 2015
+588,Pakur,Pakur,Wheat,Deshi,FAQ,1460,1655,1550,08 Mar 2016
+589,Pakur,Pakur,Wheat,Deshi,FAQ,1460,1665,1547,01 Sep 2015
+590,Pakur,Pakur,Wheat,Deshi,FAQ,1461,1648,1570,22 Sep 2015
+591,Pakur,Pakur,Wheat,Deshi,FAQ,1461,1649,1537,10 Nov 2015
+592,Pakur,Pakur,Wheat,Deshi,FAQ,1461,1657,1548,06 Nov 2015
+593,Pakur,Pakur,Wheat,Deshi,FAQ,1461,1659,1543,23 Oct 2015
+594,Pakur,Pakur,Wheat,Deshi,FAQ,1462,1640,1549,05 Apr 2016
+595,Pakur,Pakur,Wheat,Deshi,FAQ,1462,1648,1556,05 Oct 2015
+596,Pakur,Pakur,Wheat,Deshi,FAQ,1462,1650,1545,22 Jan 2016
+597,Pakur,Pakur,Wheat,Deshi,FAQ,1462,1650,1565,22 Feb 2016
+598,Pakur,Pakur,Wheat,Deshi,FAQ,1462,1650,1568,13 Jan 2016
+599,Pakur,Pakur,Wheat,Deshi,FAQ,1462,1654,1557,05 May 2016
+600,Pakur,Pakur,Wheat,Deshi,FAQ,1463,1650,1547,25 Oct 2015
+601,Pakur,Pakur,Wheat,Deshi,FAQ,1463,1655,1560,21 Sep 2015
+602,Pakur,Pakur,Wheat,Deshi,FAQ,1464,1648,1555,22 Oct 2015
+603,Pakur,Pakur,Wheat,Deshi,FAQ,1464,1656,1549,07 Apr 2016
+604,Pakur,Pakur,Wheat,Deshi,FAQ,1464,1672,1543,11 Sep 2015
+605,Pakur,Pakur,Wheat,Deshi,FAQ,1465,1650,1540,21 Jan 2016
+606,Pakur,Pakur,Wheat,Deshi,FAQ,1465,1650,1549,10 May 2016
+607,Pakur,Pakur,Wheat,Deshi,FAQ,1466,1647,1550,19 Oct 2015
+608,Pakur,Pakur,Wheat,Deshi,FAQ,1466,1685,1572,12 Nov 2015
+609,Pakur,Pakur,Wheat,Deshi,FAQ,1467,1681,1573,27 Oct 2015
+610,Pakur,Pakur,Wheat,Deshi,FAQ,1468,1657,1574,11 Oct 2015
+611,Pakur,Pakur,Wheat,Deshi,FAQ,1468,1673,1570,07 Nov 2015
+612,Pakur,Pakur,Wheat,Deshi,FAQ,1468,1680,1572,01 Nov 2015
+613,Pakur,Pakur,Wheat,Deshi,FAQ,1469,1653,1551,15 Nov 2015
+614,Pakur,Pakur,Wheat,Deshi,FAQ,1469,1660,1584,08 Nov 2015
+615,Pakur,Pakur,Wheat,Deshi,FAQ,1470,1660,1543,25 Sep 2015
+616,Pakur,Pakur,Wheat,Deshi,FAQ,1470,1660,1563,19 Nov 2015
+617,Pakur,Pakur,Wheat,Deshi,FAQ,1475,1656,1542,24 Oct 2015
+618,Pakur,Pakur,Wheat,Deshi,FAQ,1500,1700,1600,11 Jul 2016
+619,Pakur,Pakur,Wheat,Deshi,FAQ,1535,1649,1547,20 Sep 2015
+620,Pakur,Pakur,Wheat,Deshi,FAQ,1600,1800,1700,14 Jul 2016
+621,Pakur,Pakur,Wheat,Deshi,FAQ,1600,1800,1700,15 Jul 2016
+622,Pakur,Pakur,Wheat,Deshi,FAQ,1600,1800,1700,18 Jul 2016
+623,Pakur,Pakur,Wheat,Deshi,FAQ,1600,1800,1700,19 Jul 2016
+624,Pakur,Pakur,Wheat,White,FAQ,1890,2085,1976,25 Sep 2015
+625,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,01 Oct 2015
+626,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,01 Sep 2015
+627,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,02 Feb 2016
+628,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,02 Oct 2015
+629,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,03 Feb 2016
+630,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,03 Nov 2015
+631,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,04 Feb 2016
+632,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,05 Feb 2016
+633,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,05 Oct 2015
+634,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,06 Sep 2015
+635,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,07 Feb 2016
+636,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,07 Sep 2015
+637,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,08 Apr 2016
+638,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,08 Feb 2016
+639,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,08 Nov 2015
+640,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,08 Sep 2015
+641,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,09 Nov 2015
+642,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,09 Oct 2015
+643,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,10 Apr 2016
+644,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,10 Dec 2015
+645,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,10 Nov 2015
+646,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,10 Oct 2015
+647,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,10 Sep 2015
+648,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,11 Oct 2015
+649,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,12 Dec 2015
+650,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,13 Mar 2016
+651,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,13 Sep 2015
+652,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,14 Oct 2015
+653,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,14 Sep 2015
+654,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,16 Feb 2016
+655,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,16 Oct 2015
+656,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,17 Oct 2015
+657,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,18 Feb 2016
+658,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,18 Jan 2016
+659,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,20 Jan 2016
+660,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,20 Sep 2015
+661,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,21 Nov 2015
+662,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,21 Sep 2015
+663,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,22 Feb 2016
+664,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,22 Jan 2016
+665,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,22 Sep 2015
+666,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,23 Oct 2015
+667,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,24 Feb 2016
+668,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,24 Oct 2015
+669,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,24 Sep 2015
+670,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,25 Jan 2016
+671,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,27 Apr 2016
+672,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,28 Apr 2016
+673,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,28 Jan 2016
+674,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,28 Nov 2015
+675,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,29 Sep 2015
+676,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,30 Apr 2016
+677,Pakur,Pakur,Wheat,White,FAQ,1900,2100,2000,30 Nov 2015
+678,Pakur,Pakur,Wheat,White,FAQ,1900,2112,2000,16 Dec 2015
+679,Pakur,Pakur,Wheat,White,FAQ,1900,2112,2008,05 Mar 2016
+680,Pakur,Pakur,Wheat,White,FAQ,1905,2109,2015,09 Sep 2015
+681,Pakur,Pakur,Wheat,White,FAQ,1905,2111,2015,06 Dec 2015
+682,Pakur,Pakur,Wheat,White,FAQ,1905,2122,2015,23 Sep 2015
+683,Pakur,Pakur,Wheat,White,FAQ,1906,2114,2025,08 Dec 2015
+684,Pakur,Pakur,Wheat,White,FAQ,1908,2122,2017,14 Mar 2016
+685,Pakur,Pakur,Wheat,White,FAQ,1909,2105,2016,06 Feb 2016
+686,Pakur,Pakur,Wheat,White,FAQ,1909,2122,2019,11 Dec 2015
+687,Pakur,Pakur,Wheat,White,FAQ,1910,2100,2009,28 Sep 2015
+688,Pakur,Pakur,Wheat,White,FAQ,1910,2105,2011,29 Apr 2016
+689,Pakur,Pakur,Wheat,White,FAQ,1910,2107,2018,19 Dec 2015
+690,Pakur,Pakur,Wheat,White,FAQ,1910,2109,2012,24 Apr 2016
+691,Pakur,Pakur,Wheat,White,FAQ,1910,2109,2015,02 Dec 2015
+692,Pakur,Pakur,Wheat,White,FAQ,1910,2109,2018,09 Feb 2016
+693,Pakur,Pakur,Wheat,White,FAQ,1910,2116,2022,13 Oct 2015
+694,Pakur,Pakur,Wheat,White,FAQ,1910,2118,2005,11 Sep 2015
+695,Pakur,Pakur,Wheat,White,FAQ,1910,2118,2025,13 Jan 2016
+696,Pakur,Pakur,Wheat,White,FAQ,1910,2120,2017,13 Dec 2015
+697,Pakur,Pakur,Wheat,White,FAQ,1910,2120,2018,02 Sep 2015
+698,Pakur,Pakur,Wheat,White,FAQ,1910,2120,2024,01 Nov 2015
+699,Pakur,Pakur,Wheat,White,FAQ,1910,2122,2032,27 Sep 2015
+700,Pakur,Pakur,Wheat,White,FAQ,1911,2027,2020,03 Sep 2015
+701,Pakur,Pakur,Wheat,White,FAQ,1911,2110,2021,21 Jan 2016
+702,Pakur,Pakur,Wheat,White,FAQ,1911,2114,2015,10 Feb 2016
+703,Pakur,Pakur,Wheat,White,FAQ,1911,2119,2030,19 Oct 2015
+704,Pakur,Pakur,Wheat,White,FAQ,1911,2125,2030,07 Dec 2015
+705,Pakur,Pakur,Wheat,White,FAQ,1911,2128,2031,15 Sep 2015
+706,Pakur,Pakur,Wheat,White,FAQ,1912,2108,2015,22 Dec 2015
+707,Pakur,Pakur,Wheat,White,FAQ,1912,2110,2019,01 Jan 2016
+708,Pakur,Pakur,Wheat,White,FAQ,1912,2114,2019,01 Dec 2015
+709,Pakur,Pakur,Wheat,White,FAQ,1912,2115,2020,03 Dec 2015
+710,Pakur,Pakur,Wheat,White,FAQ,1912,2120,2015,14 Jan 2016
+711,Pakur,Pakur,Wheat,White,FAQ,1913,2022,2018,02 May 2016
+712,Pakur,Pakur,Wheat,White,FAQ,1913,2122,2018,08 Mar 2016
+713,Pakur,Pakur,Wheat,White,FAQ,1914,2117,2023,04 Dec 2015
+714,Pakur,Pakur,Wheat,White,FAQ,1915,2110,2026,05 Dec 2015
+715,Pakur,Pakur,Wheat,White,FAQ,1915,2125,2019,06 Nov 2015
+716,Pakur,Pakur,Wheat,White,FAQ,1915,2130,2024,14 May 2016
+717,Pakur,Pakur,Wheat,White,FAQ,1916,2120,2018,12 Apr 2016
+718,Pakur,Pakur,Wheat,White,FAQ,1918,2110,2007,25 Apr 2016
+719,Pakur,Pakur,Wheat,White,FAQ,1918,2111,2021,31 Dec 2015
+720,Pakur,Pakur,Wheat,White,FAQ,1918,2123,2016,10 May 2016
+721,Pakur,Pakur,Wheat,White,FAQ,1918,2124,2015,11 May 2016
+722,Pakur,Pakur,Wheat,White,FAQ,1918,2143,2025,07 Apr 2016
+723,Pakur,Pakur,Wheat,White,FAQ,1919,2122,2026,13 Nov 2015
+724,Pakur,Pakur,Wheat,White,FAQ,1920,2108,2017,07 Oct 2015
+725,Pakur,Pakur,Wheat,White,FAQ,1920,2109,2010,25 Oct 2015
+726,Pakur,Pakur,Wheat,White,FAQ,1920,2110,2012,05 May 2016
+727,Pakur,Pakur,Wheat,White,FAQ,1920,2110,2038,18 Sep 2015
+728,Pakur,Pakur,Wheat,White,FAQ,1920,2111,2015,16 Nov 2015
+729,Pakur,Pakur,Wheat,White,FAQ,1920,2116,2018,19 Jan 2016
+730,Pakur,Pakur,Wheat,White,FAQ,1920,2123,2016,21 Oct 2015
+731,Pakur,Pakur,Wheat,White,FAQ,1920,2125,2018,02 Jan 2016
+732,Pakur,Pakur,Wheat,White,FAQ,1920,2127,2018,12 May 2016
+733,Pakur,Pakur,Wheat,White,FAQ,1920,2127,2032,15 Nov 2015
+734,Pakur,Pakur,Wheat,White,FAQ,1920,2135,2027,16 May 2016
+735,Pakur,Pakur,Wheat,White,FAQ,1920,2135,2040,19 Nov 2015
+736,Pakur,Pakur,Wheat,White,FAQ,1921,2110,2015,05 Apr 2016
+737,Pakur,Pakur,Wheat,White,FAQ,1921,2110,2015,11 Apr 2016
+738,Pakur,Pakur,Wheat,White,FAQ,1922,2115,2030,12 Nov 2015
+739,Pakur,Pakur,Wheat,White,FAQ,1922,2116,2018,26 Apr 2016
+740,Pakur,Pakur,Wheat,White,FAQ,1924,2139,2031,27 Oct 2015
+741,Pakur,Pakur,Wheat,White,FAQ,1925,2121,2019,07 May 2016
+742,Pakur,Pakur,Wheat,White,FAQ,1984,2181,2079,07 Nov 2015
+743,Pakur,Pakur,Wheat,White,FAQ,1989,2182,2093,22 Oct 2015
+744,Pakur,Pakur,Wheat,White,FAQ,2000,2200,2100,11 Jul 2016
+745,Pakur,Pakur,Wheat,White,FAQ,2000,2200,2100,12 Jul 2016
+746,Pakur,Pakur,Wheat,White,FAQ,2000,2200,2100,14 Jul 2016
+747,Pakur,Pakur,Wheat,White,FAQ,2000,2200,2100,15 Jul 2016
+748,Pakur,Pakur,Wheat,White,FAQ,2000,2200,2100,18 Jul 2016
+749,Pakur,Pakur,Wheat,White,FAQ,2000,2200,2100,19 Jul 2016
+750,Sahebgang,Sahebganj,Wheat,Other,FAQ,1500,1700,1550,03 Sep 2015
+751,Sahebgang,Sahebganj,Wheat,Other,FAQ,1525,1820,1800,22 May 2016
+752,Sahebgang,Sahebganj,Wheat,Other,FAQ,1650,1800,1750,24 Aug 2016
+753,Sahebgang,Sahebganj,Wheat,Other,FAQ,1650,1800,1750,28 Aug 2016

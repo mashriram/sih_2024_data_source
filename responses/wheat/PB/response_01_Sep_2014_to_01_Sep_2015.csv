@@ -1,0 +1,2065 @@
+0,1,2,3,4,5,6,7,8,9
+1,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+2,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+3,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+4,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,23 May 2015
+5,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+6,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+7,Jalandhar,Adampur,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+8,Amritsar,Ajnala,Wheat,343,FAQ,1439,1439,1439,02 May 2015
+9,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,12 Jun 2015
+10,Amritsar,Ajnala,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+11,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+12,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,13 May 2015
+13,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,18 May 2015
+14,Ropar (Rupnagar),Anandpur Sahib,Wheat,343,FAQ,1450,1450,1450,05 May 2015
+15,Ropar (Rupnagar),Anandpur Sahib,Wheat,343,FAQ,1450,1450,1450,14 May 2015
+16,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+17,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+18,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+19,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+20,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+21,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+22,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,21 May 2015
+23,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,22 May 2015
+24,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+25,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+26,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+27,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+28,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,27 Apr 2015
+29,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+30,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+31,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+32,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,06 May 2015
+33,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,26 Apr 2015
+34,Patiala,Dakala,Wheat,Other,FAQ,1421,1421,1421,26 Apr 2015
+35,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+36,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+37,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+38,Sangrur,Dirba,Wheat,343,FAQ,1450,1450,1450,02 May 2015
+39,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+40,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439.12,08 May 2015
+41,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1450,1450,1450,01 May 2015
+42,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,27 Apr 2015
+43,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+44,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+45,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+46,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+47,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+48,Fazilka,Jalalabad,Wheat,Other,FAQ,1455,1455,1455,17 Apr 2015
+49,Fazilka,Jalalabad,Wheat,Other,FAQ,1455,1455,1455,18 Apr 2015
+50,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439.12,1450,1440,21 May 2015
+51,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+52,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+53,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+54,kapurthala,Kapurthala,Wheat,Other,FAQ,1450,1455,1455,21 Apr 2015
+55,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,22 May 2015
+56,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+57,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+58,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+59,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+60,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+61,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,03 May 2015
+62,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,19 May 2015
+63,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+64,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+65,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,23 May 2015
+66,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+67,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,24 May 2015
+68,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,02 Jun 2015
+69,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+70,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+71,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,27 Apr 2015
+72,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+73,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+74,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+75,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+76,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+77,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+78,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,02 May 2015
+79,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,04 May 2015
+80,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,18 May 2015
+81,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+82,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+83,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+84,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+85,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+86,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+87,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+88,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+89,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+90,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,22 May 2015
+91,Sangrur,Dirba,Wheat,343,FAQ,1450,1450,1450,04 May 2015
+92,Sangrur,Dirba,Wheat,343,FAQ,1450,1450,1450,27 Apr 2015
+93,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+94,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1400,1439.12,1439.12,19 May 2015
+95,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439,06 May 2015
+96,Faridkot,Faridkot,Wheat,Other,FAQ,1450,1455,1450,23 Apr 2015
+97,Ferozpur,Ferozepur Cantt(Jhok Harihar),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+98,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+99,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+100,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+101,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+102,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+103,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+104,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+105,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+106,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+107,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+108,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+109,Faridkot,Jaitu,Wheat,Other,FAQ,1439.12,1439.12,1439.12,02 May 2015
+110,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+111,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+112,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+113,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+114,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+115,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+116,Amritsar,Ajnala,Wheat,343,FAQ,1439,1439,1439,30 Apr 2015
+117,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,19 May 2015
+118,Amritsar,Ajnala,Wheat,HD-2329,FAQ,1450,1450,1450,29 May 2015
+119,Amritsar,Ajnala,Wheat,Other,FAQ,1450,1450,1450,23 May 2015
+120,Amritsar,Ajnala,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+121,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+122,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+123,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+124,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+125,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+126,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+127,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+128,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+129,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+130,Muktsar,Bariwala,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+131,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+132,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+133,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+134,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+135,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+136,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,10 May 2015
+137,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,16 May 2015
+138,Bhatinda,Bhagta Bhai Ka(Kotha Guru Ka),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+139,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+140,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+141,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+142,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+143,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+144,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+145,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,01 May 2015
+146,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,15 May 2015
+147,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+148,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+149,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+150,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,20 May 2015
+151,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,22 May 2015
+152,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+153,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+154,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+155,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+156,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439.12,17 May 2015
+157,Faridkot,Faridkot,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+158,Faridkot,Faridkot,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+159,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,02 May 2015
+160,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+161,Jalandhar,Goraya,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+162,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+163,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+164,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+165,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+166,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+167,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+168,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,16 Apr 2015
+169,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+170,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+171,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+172,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,23 May 2015
+173,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+174,Ludhiana,Khanna,Wheat,Other,FAQ,1490,1490,1490,09 Apr 2015
+175,Ludhiana,Khanna,Wheat,Other,FAQ,1505,1505,1505,12 Jan 2015
+176,Ludhiana,Khanna,Wheat,Other,FAQ,1510,1510,1510,06 Apr 2015
+177,Tarntaran,Khem karan,Wheat,Other,FAQ,0,1439.12,1439.12,22 May 2015
+178,Tarntaran,Khem karan,Wheat,Other,FAQ,0,1450,0,27 Apr 2015
+179,Tarntaran,Khem karan,Wheat,Other,FAQ,1439.12,1439.12,1439.12,12 May 2015
+180,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,18 May 2015
+181,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,30 Apr 2015
+182,Mohali,Kurali,Wheat,Other,FAQ,1490,1490,1490,13 Sep 2014
+183,Mohali,Kurali,Wheat,Other,FAQ,1490,1490,1490,31 Dec 2014
+184,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+185,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+186,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+187,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1451,1451,1451,21 Apr 2015
+188,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+189,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+190,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+191,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+192,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,21 May 2015
+193,Ludhiana,Maloud,Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+194,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+195,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+196,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+197,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+198,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+199,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+200,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,04 May 2015
+201,Sangrur,Moonak,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+202,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1439.12,1439.12,26 May 2015
+203,Jalandhar,Nakodar,Wheat,Other,FAQ,1439.12,0,0,01 May 2015
+204,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,29 May 2015
+205,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+206,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+207,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+208,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,16 Apr 2015
+209,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+210,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1550,1550,1550,28 Nov 2014
+211,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1428,1450,1439.12,25 Apr 2015
+212,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,03 Sep 2014
+213,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+214,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+215,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,02 May 2015
+216,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+217,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+218,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+219,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+220,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+221,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+222,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+223,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+224,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+225,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+226,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+227,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439,1450,1440,26 Apr 2015
+228,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+229,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+230,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,01 Jun 2015
+231,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+232,Ludhiana,Khanna,Wheat,Other,FAQ,1440,1440,1440,01 Dec 2014
+233,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,22 May 2015
+234,Ludhiana,Khanna,Wheat,Other,FAQ,1505,1510,1510,21 Mar 2015
+235,Ludhiana,Khanna,Wheat,Other,FAQ,1520,1520,1520,28 Aug 2015
+236,Ludhiana,Khanna,Wheat,Other,FAQ,1525,1525,1525,12 Mar 2015
+237,Tarntaran,Khem karan,Wheat,Other,FAQ,0,1450,1450,27 May 2015
+238,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,19 May 2015
+239,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,24 Apr 2015
+240,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+241,Mohali,Kurali,Wheat,Other,FAQ,1480,1480,1480,02 Sep 2014
+242,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+243,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+244,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+245,Ludhiana,Maloud,Wheat,Other,FAQ,1439,1439,1439,27 Apr 2015
+246,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,04 May 2015
+247,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+248,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+249,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+250,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+251,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+252,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+253,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,07 May 2015
+254,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,25 May 2015
+255,Sangrur,Moonak,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+256,Jalandhar,Nakodar(Sarih),Wheat,Other,FAQ,1439.12,0,0,01 May 2015
+257,Pathankot,Narot J Singh,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+258,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+259,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+260,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+261,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1410,1450,1439.12,25 Apr 2015
+262,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+263,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+264,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+265,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+266,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+267,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+268,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+269,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+270,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+271,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+272,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+273,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+274,Amritsar,Rayya,Wheat,Other,FAQ,1239.12,1239.12,1239.12,09 May 2015
+275,Amritsar,Rayya,Wheat,Other,FAQ,1439.12,1439.12,1439.12,05 May 2015
+276,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+277,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+278,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+279,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,20 May 2015
+280,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,21 May 2015
+281,Ludhiana,Khanna,Wheat,Other,FAQ,1525,1525,1525,03 Jul 2015
+282,Ludhiana,Khanna,Wheat,Other,FAQ,1535,1545,1535,20 Jan 2015
+283,Tarntaran,Khem karan,Wheat,Other,FAQ,0,1439.12,0,19 May 2015
+284,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,21 Apr 2015
+285,Mohali,Kurali,Wheat,Other,FAQ,1450,1455,1450,22 Apr 2015
+286,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,23 Sep 2014
+287,Mohali,Kurali,Wheat,Other,FAQ,1490,1490,1490,05 Jan 2015
+288,Mohali,Kurali,Wheat,Other,FAQ,1490,1490,1490,27 Sep 2014
+289,Mohali,Kurali,Wheat,Other,FAQ,1500,1540,1525,28 Mar 2015
+290,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+291,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+292,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,13 May 2015
+293,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+294,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,12 May 2015
+295,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+296,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+297,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+298,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+299,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+300,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+301,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+302,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+303,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1450,1450,02 May 2015
+304,Ludhiana,Mullanpur,Wheat,343,FAQ,1450,1450,1450,22 Apr 2015
+305,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+306,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+307,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+308,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+309,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+310,Gurdaspur,Quadian,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+311,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,22 Apr 2015
+312,Bhatinda,Raman,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+313,Bhatinda,Raman,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+314,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+315,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+316,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+317,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,01 May 2015
+318,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,26 May 2015
+319,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+320,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+321,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+322,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+323,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+324,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+325,Mansa,Sardulgarh,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+326,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,13 May 2015
+327,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,04 May 2015
+328,kapurthala,Sultanpur,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+329,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+330,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+331,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,30 May 2015
+332,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+333,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+334,Fazilka,Abohar,Wheat,Other,FAQ,0,0,1465,17 Mar 2015
+335,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+336,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+337,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,13 May 2015
+338,Amritsar,Ajnala,Wheat,HD-2329,FAQ,1439,1450,1439,28 Apr 2015
+339,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+340,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+341,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,21 May 2015
+342,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+343,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+344,Mansa,Bareta,Wheat,Other,FAQ,1450,1455,1450,21 Apr 2015
+345,Muktsar,Bariwala,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+346,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+347,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+348,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,18 May 2015
+349,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+350,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+351,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+352,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+353,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+354,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+355,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+356,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+357,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1450,1450,23 Apr 2015
+358,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+359,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+360,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+361,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+362,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+363,Faridkot,Faridkot,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+364,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+365,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+366,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+367,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1450,1450,1450,28 Apr 2015
+368,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+369,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+370,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+371,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+372,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+373,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+374,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+375,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+376,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+377,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+378,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+379,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439.12,1440,1439.12,14 May 2015
+380,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439.12,1450,1440,27 Apr 2015
+381,Jalandhar,Jalandhar City(Faintan Ganj),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+382,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+383,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+384,kapurthala,Kapurthala,Wheat,Other,FAQ,1450,1455,1455,20 Apr 2015
+385,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+386,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+387,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+388,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+389,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,26 May 2015
+390,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+391,Jalandhar,Adampur,Wheat,Other,FAQ,1460,1460,1460,23 Apr 2015
+392,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+393,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+394,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+395,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,30 Apr 2015
+396,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+397,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+398,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,01 May 2015
+399,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,04 May 2015
+400,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,11 May 2015
+401,Ropar (Rupnagar),Anandpur Sahib,Wheat,343,FAQ,1450,1450,1450,28 Apr 2015
+402,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+403,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+404,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+405,Muktsar,Bariwala,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+406,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+407,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+408,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,01 May 2015
+409,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+410,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+411,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+412,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+413,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,23 May 2015
+414,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,30 Apr 2015
+415,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+416,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+417,Patiala,Dakala,Wheat,Other,FAQ,1421,1421,1421,27 Apr 2015
+418,Patiala,Dakala,Wheat,Other,FAQ,1429,0,0,01 May 2015
+419,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+420,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1455,1460,1460,25 Aug 2015
+421,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+422,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439.12,10 May 2015
+423,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439.12,15 May 2015
+424,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439.12,16 May 2015
+425,Ferozpur,Ferozepur Cantt(Jhok Harihar),Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+426,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1450,1450,1450,02 May 2015
+427,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,06 May 2015
+428,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,25 May 2015
+429,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+430,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+431,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+432,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+433,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+434,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+435,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+436,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+437,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439.12,1450,1440,28 Apr 2015
+438,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439.12,1450,1440,29 Apr 2015
+439,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+440,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+441,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+442,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+443,Ludhiana,Khanna,Wheat,Other,FAQ,1445,1445,1445,25 Nov 2014
+444,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+445,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+446,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+447,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+448,Amritsar,Rayya,Wheat,Other,FAQ,1439.12,1439.12,1439.12,06 May 2015
+449,Amritsar,Rayya,Wheat,Other,FAQ,1450,1450,1450,01 Jun 2015
+450,Amritsar,Rayya,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+451,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+452,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+453,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+454,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,02 May 2015
+455,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,03 May 2015
+456,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,05 May 2015
+457,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,07 May 2015
+458,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,15 May 2015
+459,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,27 Apr 2015
+460,Ludhiana,Sahnewal,Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+461,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+462,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+463,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,14 Apr 2015
+464,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+465,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+466,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+467,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+468,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439,1450,1450,27 Apr 2015
+469,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+470,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+471,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+472,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,06 May 2015
+473,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+474,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,04 May 2015
+475,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+476,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+477,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+478,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+479,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+480,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,14 Apr 2015
+481,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+482,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+483,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+484,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+485,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+486,Sangrur,Sangrur,Wheat,Other,FAQ,1455,1455,1455,14 Apr 2015
+487,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,12 May 2015
+488,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,22 May 2015
+489,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+490,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+491,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,04 May 2015
+492,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,05 May 2015
+493,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,09 May 2015
+494,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,13 May 2015
+495,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,14 May 2015
+496,Sangrur,Sulargharat,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+497,Sangrur,Sulargharat,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+498,Sangrur,Sunam,Wheat,Other,FAQ,1439.12,1450,1450,18 May 2015
+499,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,28 Apr 2015
+500,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+501,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,22 May 2015
+502,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+503,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+504,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+505,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,15 May 2015
+506,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,21 May 2015
+507,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+508,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+509,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+510,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+511,Jalandhar,Adampur,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+512,Jalandhar,Adampur,Wheat,Other,FAQ,1460,1460,1460,05 May 2015
+513,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+514,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,23 Apr 2015
+515,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+516,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+517,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+518,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+519,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+520,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+521,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+522,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+523,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+524,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+525,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+526,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+527,Mansa,Bareta,Wheat,Other,FAQ,1450,1455,1450,14 May 2015
+528,Mansa,Bareta,Wheat,Other,FAQ,1455,1455,1455,26 May 2015
+529,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+530,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+531,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+532,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+533,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+534,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,22 May 2015
+535,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,26 May 2015
+536,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+537,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+538,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+539,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+540,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+541,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+542,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+543,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+544,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+545,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+546,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1400,1439.12,1422,05 May 2015
+547,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439.12,27 May 2015
+548,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+549,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+550,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1450,1450,1450,08 May 2015
+551,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,28 Apr 2015
+552,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,29 May 2015
+553,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+554,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+555,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+556,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+557,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+558,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+559,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+560,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+561,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+562,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+563,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+564,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+565,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+566,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,13 Apr 2015
+567,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+568,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,14 Apr 2015
+569,Ludhiana,Khanna,Wheat,Other,FAQ,1455,1455,1455,27 Nov 2014
+570,Ludhiana,Khanna,Wheat,Other,FAQ,1500,1520,1520,24 Mar 2015
+571,Ludhiana,Khanna,Wheat,Other,FAQ,1540,1540,1540,16 Feb 2015
+572,Tarntaran,Khem karan,Wheat,Other,FAQ,0,1450,1450,29 May 2015
+573,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,06 May 2015
+574,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,06 May 2015
+575,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,26 Apr 2015
+576,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,19 Apr 2015
+577,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,17 Dec 2014
+578,Mohali,Lalru,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+579,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,08 May 2015
+580,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,12 May 2015
+581,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+582,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+583,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+584,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+585,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+586,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+587,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+588,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+589,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+590,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+591,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+592,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,12 May 2015
+593,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,29 Apr 2015
+594,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,29 May 2015
+595,Sangrur,Moonak,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+596,Sangrur,Moonak,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+597,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1439.12,1439.12,03 Jun 2015
+598,Jalandhar,Nakodar(Sarih),Wheat,Other,FAQ,1439.12,0,0,24 Apr 2015
+599,Pathankot,Narot J Singh,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+600,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+601,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+602,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+603,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+604,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+605,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+606,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+607,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1500,1500,1500,16 Mar 2015
+608,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+609,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+610,Gurdaspur,Quadian,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+611,Gurdaspur,Quadian,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+612,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,21 Apr 2015
+613,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,30 Apr 2015
+614,Patiala,Rajpura,Wheat,Local,FAQ,1455,1455,1455,14 Apr 2015
+615,Patiala,Rajpura,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+616,Bhatinda,Raman,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+617,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+618,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+619,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+620,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+621,Fazilka,Abohar,Wheat,Other,FAQ,0,1460,0,21 Jan 2015
+622,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+623,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+624,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+625,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,05 Jun 2015
+626,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,27 May 2015
+627,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+628,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+629,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,22 Apr 2015
+630,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,07 May 2015
+631,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,08 May 2015
+632,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,20 May 2015
+633,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,27 Apr 2015
+634,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,29 Apr 2015
+635,Ropar (Rupnagar),Anandpur Sahib,Wheat,343,FAQ,1450,1450,1450,04 May 2015
+636,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+637,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+638,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+639,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+640,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+641,Mansa,Bareta,Wheat,Other,FAQ,1450,1455,1450,27 May 2015
+642,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+643,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,02 May 2015
+644,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+645,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+646,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+647,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,23 May 2015
+648,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+649,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,12 May 2015
+650,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,23 May 2015
+651,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+652,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,29 May 2015
+653,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+654,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,28 May 2015
+655,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+656,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+657,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+658,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+659,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+660,Sangrur,Dirba,Wheat,343,FAQ,1450,1450,1450,01 May 2015
+661,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+662,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+663,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+664,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+665,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,07 May 2015
+666,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,09 May 2015
+667,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,12 May 2015
+668,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+669,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+670,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+671,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+672,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+673,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+674,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+675,Faridkot,Jaitu,Wheat,Other,FAQ,1439.12,1439.12,1439.12,03 May 2015
+676,Faridkot,Jaitu,Wheat,Other,FAQ,1439.12,1439.12,1439.12,14 May 2015
+677,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+678,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+679,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,18 Apr 2015
+680,Ludhiana,Khanna,Wheat,Other,FAQ,1470,1470,1470,06 Nov 2014
+681,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,23 Apr 2015
+682,Mohali,Kurali,Wheat,Other,FAQ,1520,1520,1520,02 Apr 2015
+683,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+684,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+685,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+686,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,02 May 2015
+687,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,05 May 2015
+688,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,25 Apr 2015
+689,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,01 Jun 2015
+690,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+691,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+692,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+693,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+694,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+695,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+696,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+697,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+698,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,05 May 2015
+699,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,15 May 2015
+700,Sangrur,Moonak,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+701,Ludhiana,Mullanpur,Wheat,343,FAQ,1450,1450,1450,14 May 2015
+702,Pathankot,Narot J Singh,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+703,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+704,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+705,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+706,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+707,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+708,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+709,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1439,1450,1439,01 May 2015
+710,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1400,1450,1439.12,30 Apr 2015
+711,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1450,1450,1450,17 Apr 2015
+712,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+713,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+714,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+715,Patiala,Rajpura,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+716,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+717,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+718,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+719,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+720,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+721,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+722,Amritsar,Rayya,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+723,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,26 Apr 2015
+724,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+725,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,16 Apr 2015
+726,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+727,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+728,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+729,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+730,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+731,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+732,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+733,Jalandhar,Adampur,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+734,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+735,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,10 May 2015
+736,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,30 May 2015
+737,Amritsar,Ajnala,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+738,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+739,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+740,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+741,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+742,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+743,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+744,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+745,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+746,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+747,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+748,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+749,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+750,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+751,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+752,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+753,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+754,Mansa,Bareta,Wheat,Other,FAQ,1450,1455,1450,01 May 2015
+755,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+756,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+757,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+758,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+759,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+760,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+761,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+762,Barnala,Bhadaur(Sehna),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+763,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,15 May 2015
+764,Bhatinda,Bhagta Bhai Ka(Kotha Guru Ka),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+765,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+766,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,13 May 2015
+767,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,26 Apr 2015
+768,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+769,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+770,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+771,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+772,Patiala,Dakala,Wheat,Other,FAQ,0,1450,1450,25 Apr 2015
+773,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+774,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1439,1450,1450,25 Apr 2015
+775,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+776,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,14 May 2015
+777,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+778,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+779,Jalandhar,Goraya,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+780,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+781,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+782,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+783,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+784,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+785,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+786,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+787,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+788,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+789,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,30 May 2015
+790,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+791,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,08 May 2015
+792,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,31 May 2015
+793,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,19 Apr 2015
+794,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+795,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,16 May 2015
+796,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,28 Apr 2015
+797,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+798,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+799,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+800,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+801,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+802,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+803,Barnala,Bhadaur(Sehna),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+804,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,28 Apr 2015
+805,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+806,Bhatinda,Bhagta Bhai Ka(Kotha Guru Ka),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+807,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,24 Apr 2015
+808,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+809,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+810,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+811,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+812,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+813,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+814,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+815,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,18 May 2015
+816,Jalandhar,Goraya,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+817,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+818,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+819,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439.12,1450,1440,01 May 2015
+820,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439.12,1450,1440,30 Apr 2015
+821,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+822,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+823,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+824,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+825,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+826,Ludhiana,Khanna,Wheat,Other,FAQ,1425,1425,1425,01 Oct 2014
+827,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,20 Mar 2015
+828,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,29 May 2015
+829,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,14 May 2015
+830,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,15 May 2015
+831,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,22 Apr 2015
+832,Ludhiana,Khanna,Wheat,Other,FAQ,1530,1530,1530,26 Aug 2015
+833,Tarntaran,Khem karan,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+834,Tarntaran,Khem karan,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+835,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,27 Apr 2015
+836,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,07 May 2015
+837,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,11 May 2015
+838,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,29 Apr 2015
+839,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+840,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+841,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+842,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,26 Sep 2014
+843,Fazilka,Abohar,Wheat,Other,FAQ,0,0,1450,26 Jan 2015
+844,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+845,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+846,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+847,Jalandhar,Adampur,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+848,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,04 May 2015
+849,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,09 May 2015
+850,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+851,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+852,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+853,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,04 May 2015
+854,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,18 Apr 2015
+855,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,21 Apr 2015
+856,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+857,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,05 May 2015
+858,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,15 May 2015
+859,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+860,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+861,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+862,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+863,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+864,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+865,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+866,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+867,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+868,Patiala,Bhadson,Wheat,Other,FAQ,1439.12,1439.12,1439.12,04 May 2015
+869,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+870,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+871,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+872,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+873,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+874,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+875,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,03 May 2015
+876,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,14 May 2015
+877,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,19 May 2015
+878,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+879,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+880,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+881,Sangrur,Dirba,Wheat,343,FAQ,1450,1450,1450,26 Apr 2015
+882,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+883,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+884,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1400,1450,1439.12,04 May 2015
+885,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439.12,13 May 2015
+886,Faridkot,Faridkot,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+887,Faridkot,Faridkot,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+888,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+889,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+890,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+891,Jalandhar,Goraya,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+892,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+893,Ludhiana,Jagraon,Wheat,Other,FAQ,1400,1425,1420,09 Sep 2014
+894,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+895,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+896,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+897,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+898,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+899,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+900,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+901,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+902,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+903,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+904,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,19 May 2015
+905,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+906,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,04 Jun 2015
+907,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+908,Patiala,Samana,Wheat,Other,FAQ,1450,1455,1450,12 Apr 2015
+909,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,17 Apr 2015
+910,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+911,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+912,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+913,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+914,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+915,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+916,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,08 May 2015
+917,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,29 Apr 2015
+918,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,06 May 2015
+919,kapurthala,Sultanpur,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+920,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,24 Apr 2015
+921,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+922,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1455,1450,08 May 2015
+923,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+924,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+925,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439.12,1450,1440,02 May 2015
+926,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439,1450,1440,24 Apr 2015
+927,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439.12,1450,1440,01 May 2015
+928,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+929,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+930,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1455,1455,1455,22 Apr 2015
+931,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+932,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,17 Dec 2014
+933,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,27 May 2015
+934,Ludhiana,Khanna,Wheat,Other,FAQ,1460,1460,1460,21 Nov 2014
+935,Ludhiana,Khanna,Wheat,Other,FAQ,1520,1530,1520,19 Mar 2015
+936,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,20 May 2015
+937,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+938,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,03 May 2015
+939,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,04 May 2015
+940,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,02 May 2015
+941,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,09 May 2015
+942,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+943,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+944,Mohali,Kurali,Wheat,Other,FAQ,1480,1480,1480,16 Sep 2014
+945,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,02 Dec 2014
+946,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,20 Sep 2014
+947,Mohali,Kurali,Wheat,Other,FAQ,1490,1490,1490,11 Sep 2014
+948,Mohali,Kurali,Wheat,Other,FAQ,1520,1520,1520,03 Apr 2015
+949,Mohali,Lalru,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+950,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+951,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,02 May 2015
+952,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+953,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,17 Apr 2015
+954,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+955,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+956,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+957,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+958,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+959,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+960,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,08 May 2015
+961,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1450,1450,06 May 2015
+962,Ludhiana,Mullanpur,Wheat,343,FAQ,1455,1455,1455,15 Apr 2015
+963,Ludhiana,Mullanpur,Wheat,343,FAQ,1455,1455,1455,17 Apr 2015
+964,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+965,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+966,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1550,1550,1550,30 Mar 2015
+967,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+968,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+969,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+970,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+971,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+972,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+973,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,04 May 2015
+974,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+975,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,15 Apr 2015
+976,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+977,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+978,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+979,Mansa,Sardulgarh,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+980,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,28 Apr 2015
+981,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+982,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+983,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+984,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+985,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+986,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+987,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,02 May 2015
+988,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,05 May 2015
+989,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,07 May 2015
+990,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,16 May 2015
+991,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+992,kapurthala,Sultanpur,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+993,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,07 May 2015
+994,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+995,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+996,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+997,Bhatinda,Talwandi Sabo(Shekhupura),Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+998,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+999,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1000,Jalandhar,Jalandhar City(Faintan Ganj),Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1001,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1002,kapurthala,Kapurthala,Wheat,Other,FAQ,1450,1455,1455,18 Apr 2015
+1003,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1004,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1005,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,04 May 2015
+1006,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,09 May 2015
+1007,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,18 May 2015
+1008,Ludhiana,Khanna,Wheat,Other,FAQ,1530,1530,1530,18 Aug 2015
+1009,Tarntaran,Khem karan,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1010,Tarntaran,Khem karan,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1011,Tarntaran,Khem karan,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1012,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1450,08 May 2015
+1013,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,01 May 2015
+1014,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1450,1450,14 Apr 2015
+1015,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,22 Apr 2015
+1016,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1017,Mohali,Lalru,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1018,Mohali,Lalru,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1019,Mohali,Lalru,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1020,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1021,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1022,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1023,Ludhiana,Maloud,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1024,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1025,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1026,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1027,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,30 Apr 2015
+1028,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1439.12,1439.12,26 Apr 2015
+1029,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1030,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,24 May 2015
+1031,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1032,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1410,1450,1439,27 Apr 2015
+1033,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1034,Patiala,Patran,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1035,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,01 May 2015
+1036,Bhatinda,Raman,Wheat,Other,FAQ,1450,1455,1450,29 Apr 2015
+1037,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1038,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1039,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1040,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1041,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,28 Apr 2015
+1042,Ludhiana,Sahnewal,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1043,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,03 Jun 2015
+1044,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1045,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1046,Mansa,Sardulgarh,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1047,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,20 May 2015
+1048,Sangrur,Sunam,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1049,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1050,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1051,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1052,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1053,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1054,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1055,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1056,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+1057,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1058,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1059,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,02 Jun 2015
+1060,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,26 May 2015
+1061,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,01 May 2015
+1062,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1063,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1064,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,23 May 2015
+1065,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1066,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1067,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1068,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+1069,Mansa,Bareta,Wheat,Other,FAQ,1450,1455,1450,28 May 2015
+1070,Muktsar,Bariwala,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1071,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1072,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1073,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1074,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1075,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1076,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1077,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,25 Apr 2015
+1078,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1079,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1080,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,01 May 2015
+1081,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1082,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1083,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1439,1450,1450,26 Apr 2015
+1084,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1085,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1086,Sangrur,Dirba,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1087,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1088,Faridkot,Faridkot,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1089,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,08 May 2015
+1090,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,10 May 2015
+1091,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,25 Apr 2015
+1092,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,29 Apr 2015
+1093,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1094,Jalandhar,Goraya,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1095,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1096,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1097,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1098,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1099,Faridkot,Jaitu(Bajakhana),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1100,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1101,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1102,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439.12,1450,1440,28 Apr 2015
+1103,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1104,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1105,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1106,Ludhiana,Khanna,Wheat,Other,FAQ,1425,1425,1425,14 Oct 2014
+1107,Ludhiana,Khanna,Wheat,Other,FAQ,1430,1430,1430,03 Sep 2014
+1108,Ludhiana,Khanna,Wheat,Other,FAQ,1430,1430,1430,16 Sep 2014
+1109,Ludhiana,Khanna,Wheat,Other,FAQ,1440,1440,1440,22 Dec 2014
+1110,Tarntaran,Khem karan,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1111,Sangrur,Sulargharat,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+1112,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,27 Apr 2015
+1113,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1114,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1115,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1116,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1117,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,25 May 2015
+1118,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,30 Apr 2015
+1119,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,31 May 2015
+1120,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1121,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1122,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1123,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1124,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1125,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1126,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1127,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1128,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1129,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,01 May 2015
+1130,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1460,1450,30 May 2015
+1131,Ludhiana,Khanna,Wheat,Other,FAQ,1460,1520,1490,03 Apr 2015
+1132,Ludhiana,Khanna,Wheat,Other,FAQ,1525,1525,1525,14 Mar 2015
+1133,Ludhiana,Khanna,Wheat,Other,FAQ,1540,1540,1540,11 Feb 2015
+1134,Tarntaran,Khem karan,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1135,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,14 May 2015
+1136,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,20 May 2015
+1137,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1138,Mohali,Kurali,Wheat,Other,FAQ,1480,1480,1480,09 Sep 2014
+1139,Mohali,Kurali,Wheat,Other,FAQ,1480,1485,1485,03 Sep 2014
+1140,Mohali,Kurali,Wheat,Other,FAQ,1480,1485,1485,04 Sep 2014
+1141,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,03 Dec 2014
+1142,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,18 Sep 2014
+1143,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,19 Sep 2014
+1144,Mohali,Lalru,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1145,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,06 May 2015
+1146,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,27 Apr 2015
+1147,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1148,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+1149,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1150,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1151,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1152,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1153,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+1154,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1155,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1156,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,01 Jun 2015
+1157,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,21 May 2015
+1158,Sangrur,Moonak,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1159,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1450,1450,05 May 2015
+1160,Ludhiana,Mullanpur,Wheat,343,FAQ,1450,1450,1450,25 Apr 2015
+1161,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1162,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1163,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1164,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1165,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1166,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,16 Apr 2015
+1167,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1168,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1505,1505,1505,27 Feb 2015
+1169,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1521,1521,1521,25 Aug 2015
+1170,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1171,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1439,1450,1439,01 May 2015
+1172,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,04 Sep 2014
+1173,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,05 Sep 2014
+1174,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1175,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1176,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1177,Jalandhar,Adampur,Wheat,Other,FAQ,1450,1460,1450,24 Apr 2015
+1178,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+1179,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1180,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,30 May 2015
+1181,Mansa,Bareta,Wheat,Other,FAQ,1450,1455,1450,02 May 2015
+1182,Mansa,Bareta,Wheat,Other,FAQ,1450,1455,1450,05 May 2015
+1183,Mansa,Bareta,Wheat,Other,FAQ,1450,1455,1450,22 Apr 2015
+1184,Muktsar,Bariwala,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1185,Muktsar,Bariwala,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1186,Muktsar,Bariwala,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1187,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1188,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1189,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1190,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1191,Barnala,Bhadaur(Sehna),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1192,Barnala,Bhadaur(Sehna),Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1193,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1194,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+1195,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+1196,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1197,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,30 Apr 2015
+1198,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1199,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1200,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1201,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1202,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1203,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1439,1450,1450,24 Apr 2015
+1204,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1205,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1206,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1207,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1400,1450,1422,02 May 2015
+1208,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439.12,12 May 2015
+1209,Hoshiarpur,Garh Shankar,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1210,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1211,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1450,1450,1450,06 May 2015
+1212,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Medium,FAQ,1450,1450,1450,29 Apr 2015
+1213,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,30 Apr 2015
+1214,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1215,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1216,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1217,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1218,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1219,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1220,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1221,Faridkot,Jaitu,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1222,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1223,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+1224,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+1225,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,30 May 2015
+1226,Ludhiana,Khanna,Wheat,Other,FAQ,1445,1450,1450,14 Nov 2014
+1227,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1228,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,13 May 2015
+1229,Ludhiana,Khanna,Wheat,Other,FAQ,1460,1545,1500,25 Mar 2015
+1230,Tarntaran,Khem karan,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1231,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,03 May 2015
+1232,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1233,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+1234,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439,1450,1440,26 Apr 2015
+1235,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439.12,1450,1440,07 May 2015
+1236,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439.12,1450,1440,27 Apr 2015
+1237,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1238,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1239,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1455,1455,24 Apr 2015
+1240,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1241,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1242,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1243,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1244,Ludhiana,Khanna,Wheat,Other,FAQ,1425,1425,1425,11 Sep 2014
+1245,Ludhiana,Khanna,Wheat,Other,FAQ,1440,1440,1440,05 Dec 2014
+1246,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+1247,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,20 Apr 2015
+1248,Ludhiana,Khanna,Wheat,Other,FAQ,1500,1500,1500,07 Apr 2015
+1249,Ludhiana,Khanna,Wheat,Other,FAQ,1520,1520,1520,21 Jan 2015
+1250,Ludhiana,Khanna,Wheat,Other,FAQ,1530,1530,1530,09 Feb 2015
+1251,Tarntaran,Khem karan,Wheat,Other,FAQ,0,1439.12,0,13 May 2015
+1252,Tarntaran,Khem karan,Wheat,Other,FAQ,0,1439.12,0,21 May 2015
+1253,Tarntaran,Khem karan,Wheat,Other,FAQ,0,1450,1450,01 Jun 2015
+1254,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1255,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,17 Sep 2014
+1256,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,24 Sep 2014
+1257,Mohali,Kurali,Wheat,Other,FAQ,1520,1520,1520,18 Mar 2015
+1258,Mohali,Kurali,Wheat,Other,FAQ,1520,1540,1525,27 Mar 2015
+1259,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439,1450,1450,04 May 2015
+1260,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,03 May 2015
+1261,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1262,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,07 May 2015
+1263,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,08 May 2015
+1264,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1265,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1266,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1267,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1268,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1269,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1270,Barnala,Mehal Kalan,Wheat,Other,FAQ,1439.12,1439.12,1439.12,23 Apr 2015
+1271,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+1272,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1273,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,02 May 2015
+1274,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1450,1450,08 May 2015
+1275,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1276,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1277,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1278,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1279,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1525,1525,1525,11 Mar 2015
+1280,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1439,1450,1439,02 May 2015
+1281,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1282,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1450,1450,1450,16 Apr 2015
+1283,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1284,Gurdaspur,Quadian,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1285,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,24 Apr 2015
+1286,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,26 Apr 2015
+1287,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,24 May 2015
+1288,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1289,Amritsar,Ajnala,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+1290,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1291,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,29 Apr 2015
+1292,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1293,Fatehgarh,Amloh(Gobind Garh Mandi),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1294,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,24 Apr 2015
+1295,Ropar (Rupnagar),Anandpur Sahib,Wheat,343,FAQ,1450,1450,1450,27 May 2015
+1296,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1297,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1298,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1299,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1300,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1301,Muktsar,Bariwala,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1302,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1303,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1304,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1305,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1306,Barnala,Bhadaur(Sehna),Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1307,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1308,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1309,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1310,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1311,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1312,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1313,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1314,Jalandhar,Bilga,Wheat,Other,FAQ,1439.12,1450,1439.12,02 May 2015
+1315,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1316,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1317,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1318,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1319,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,26 May 2015
+1320,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,30 May 2015
+1321,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,12 May 2015
+1322,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,25 Apr 2015
+1323,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,29 Apr 2015
+1324,Patiala,Dakala,Wheat,Other,FAQ,1421,0,0,30 Apr 2015
+1325,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1326,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1327,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1328,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+1329,Sangrur,Dirba,Wheat,343,FAQ,1450,1450,1450,12 May 2015
+1330,Sangrur,Dirba,Wheat,343,FAQ,1450,1450,1450,29 Apr 2015
+1331,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1332,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+1333,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+1334,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1400,1450,1439.12,03 May 2015
+1335,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439,07 May 2015
+1336,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,01 May 2015
+1337,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,04 Jun 2015
+1338,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,10 Jun 2015
+1339,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,15 May 2015
+1340,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,23 May 2015
+1341,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1342,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1343,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,30 Sep 2014
+1344,Mohali,Kurali,Wheat,Other,FAQ,1510,1530,1520,31 Mar 2015
+1345,Mohali,Lalru,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1346,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1347,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439,1450,1450,29 Apr 2015
+1348,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,30 Apr 2015
+1349,Ferozpur,Mamdot(Tibbi Khurd),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1350,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1351,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1352,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1353,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1354,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+1355,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1356,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1357,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1358,Ludhiana,Mullanpur,Wheat,343,FAQ,1450,1450,1450,16 May 2015
+1359,Ludhiana,Mullanpur,Wheat,343,FAQ,1450,1450,1450,23 Apr 2015
+1360,Jalandhar,Nakodar,Wheat,Other,FAQ,1439.12,0,0,25 Apr 2015
+1361,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1362,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1363,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1364,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+1365,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1366,kapurthala,Phagwara,Wheat,Other,FAQ,1440,1450,1440,21 Apr 2015
+1367,Bhatinda,Raman,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1368,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1369,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+1370,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1371,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1372,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,15 Apr 2015
+1373,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,16 Apr 2015
+1374,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1375,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1376,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1377,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1445,28 Apr 2015
+1378,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,19 May 2015
+1379,Sangrur,Sulargharat,Wheat,Other,FAQ,0,1450,1450,27 Apr 2015
+1380,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,02 May 2015
+1381,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,03 May 2015
+1382,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,14 May 2015
+1383,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,22 Apr 2015
+1384,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+1385,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1386,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1387,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1388,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1389,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1390,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1391,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1392,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1393,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1394,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1395,Fazilka,Abohar,Wheat,Other,FAQ,1480,1480,1480,01 Jan 2015
+1396,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1397,Moga,Ajitwal,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1398,Amritsar,Ajnala,Wheat,343,FAQ,1439,1439,1439,01 May 2015
+1399,Amritsar,Ajnala,Wheat,343,FAQ,1439,1450,1450,03 May 2015
+1400,Amritsar,Ajnala,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1401,Amritsar,Ajnala,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1402,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+1403,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,02 May 2015
+1404,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,12 May 2015
+1405,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,22 Apr 2015
+1406,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,30 Apr 2015
+1407,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1408,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1409,Mohali,Banur,Wheat,Other,FAQ,1450,1450,1450,15 Apr 2015
+1410,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1411,Barnala,Bhadaur,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1412,Bhatinda,Bhagta Bhai Ka(Kotha Guru Ka),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1413,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1414,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+1415,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1416,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1417,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1418,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1419,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1420,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,11 May 2015
+1421,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,27 Apr 2015
+1422,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+1423,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1424,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1425,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1426,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1427,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1428,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+1429,Barnala,Dhanaula,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1430,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1431,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,03 Jun 2015
+1432,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,04 Jun 2015
+1433,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1434,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1435,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1436,Gurdaspur,F.G.Churian,Wheat,Other,FAQ,1411,1439.12,1439.12,22 May 2015
+1437,Faridkot,Faridkot,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1438,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,21 May 2015
+1439,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1440,Faridkot,Jaitu,Wheat,Other,FAQ,1439.12,1439.12,1439.12,13 May 2015
+1441,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,22 May 2015
+1442,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,23 May 2015
+1443,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+1444,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439,1450,1440,25 Apr 2015
+1445,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1446,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1447,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1448,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1449,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,15 Apr 2015
+1450,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1451,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,01 Jun 2015
+1452,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,22 May 2015
+1453,Jalandhar,Adampur,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1454,Jalandhar,Adampur,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1455,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,14 May 2015
+1456,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1457,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1458,Sangrur,Amargarh,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+1459,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1460,Amritsar,Attari,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1461,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1462,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1463,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1464,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1465,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1466,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+1467,Fatehgarh,Bassi Pathana,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1468,Barnala,Bhadaur(Sehna),Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1469,Bhatinda,Bhagta Bhai Ka,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1470,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1471,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,26 May 2015
+1472,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1473,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1474,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1475,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1476,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1477,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1478,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1479,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1480,Tarntaran,Chabhal,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1481,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,24 Apr 2015
+1482,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1483,Sangrur,Cheema,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1484,Patiala,Dakala,Wheat,Other,FAQ,1439.12,0,0,28 Apr 2015
+1485,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1486,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1487,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1488,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+1489,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1490,kapurthala,Dhilwan,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1491,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1492,Faridkot,Faridkot,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1493,Hoshiarpur,Garh Shankar(Mahalpur),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1494,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,04 May 2015
+1495,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,11 May 2015
+1496,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,16 May 2015
+1497,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,19 May 2015
+1498,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+1499,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1500,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1501,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1502,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1503,Faridkot,Jaitu,Wheat,Other,FAQ,1439.12,1439.12,1439.12,01 May 2015
+1504,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+1505,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1506,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1507,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,27 Apr 2015
+1508,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1453,1450,20 Apr 2015
+1509,Mohali,Kurali,Wheat,Other,FAQ,1480,1480,1480,16 Dec 2014
+1510,Mohali,Kurali,Wheat,Other,FAQ,1500,1570,1550,10 Mar 2015
+1511,Mohali,Kurali,Wheat,Other,FAQ,1520,1520,1520,11 Mar 2015
+1512,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1513,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,30 Apr 2015
+1514,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+1515,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1516,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1517,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,28 Apr 2015
+1518,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1519,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,22 May 2015
+1520,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1521,Sangrur,Moonak,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1522,Sangrur,Moonak,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1523,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1439.12,1439.12,21 May 2015
+1524,Jalandhar,Nakodar,Wheat,Other,FAQ,1439.12,0,0,26 Apr 2015
+1525,Jalandhar,Nakodar(Sarih),Wheat,Other,FAQ,1439.12,0,0,25 Apr 2015
+1526,Pathankot,Narot J Singh,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1527,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,01 Jun 2015
+1528,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1529,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1530,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1400,1450,1439,26 Apr 2015
+1531,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1400,1450,1439.12,30 Apr 2015
+1532,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1400,1450,1439.12,29 Apr 2015
+1533,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+1534,Patiala,Patran,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1535,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1536,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1537,Gurdaspur,Quadian,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1538,Gurdaspur,Quadian,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1539,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1540,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1541,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1542,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1543,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1544,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1545,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1546,Amritsar,Rayya,Wheat,Other,FAQ,1439.12,1439.12,1439.12,12 May 2015
+1547,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1548,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1549,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1550,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,20 May 2015
+1551,Ludhiana,Sahnewal,Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1552,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1553,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1554,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1555,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1556,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1557,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1558,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1559,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1560,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1561,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,11 May 2015
+1562,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1563,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,08 May 2015
+1564,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,09 May 2015
+1565,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,25 Apr 2015
+1566,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,29 Apr 2015
+1567,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1568,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+1569,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1570,Amritsar,Rayya,Wheat,Other,FAQ,1439.12,1439.12,1439.12,04 May 2015
+1571,Amritsar,Rayya,Wheat,Other,FAQ,1439.12,1439.12,1439.12,08 May 2015
+1572,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+1573,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,13 May 2015
+1574,Ludhiana,Sahnewal,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1575,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1576,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+1577,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,20 Apr 2015
+1578,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1579,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1580,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1581,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1582,Mansa,Sardulgarh,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1583,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1584,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,01 May 2015
+1585,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1586,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1587,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,01 May 2015
+1588,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,02 May 2015
+1589,Sangrur,Sulargharat,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1590,kapurthala,Sultanpur,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1591,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,25 Apr 2015
+1592,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1593,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1594,Bhatinda,Talwandi Sabo(Shekhupura),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1595,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1596,Muktsar,Giddarbaha,Wheat,Other,FAQ,1450,1450,1450,22 May 2015
+1597,Jalandhar,Goraya,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1598,Fazilka,Jalalabad,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1599,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439.12,1450,1440,03 May 2015
+1600,Jalandhar,Jalandhar Cantt (Jamshedpur Dana Mandi),Wheat,Other,FAQ,1439.12,1450,1440,30 Apr 2015
+1601,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439.12,1450,1440,25 Apr 2015
+1602,Jalandhar,Jalandhar City,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1603,Jalandhar,Jalandhar City(Faintan Ganj),Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1604,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1605,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1606,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1450,1450,1450,26 May 2015
+1607,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1455,1455,1455,22 Apr 2015
+1608,Jalandhar,Jalandhar City(Kartar Pur Dana mandi),Wheat,Other,FAQ,1455,1455,1455,24 Apr 2015
+1609,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1610,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1611,Ludhiana,Khanna,Wheat,Other,FAQ,1490,1510,1505,10 Apr 2015
+1612,Ludhiana,Khanna,Wheat,Other,FAQ,1530,1530,1530,10 Mar 2015
+1613,Ludhiana,Khanna,Wheat,Other,FAQ,1545,1545,1545,16 Jan 2015
+1614,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,28 Apr 2015
+1615,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,28 Apr 2015
+1616,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1480,1460,02 May 2015
+1617,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,01 May 2015
+1618,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1619,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,25 Dec 2014
+1620,Mohali,Kurali,Wheat,Other,FAQ,1550,1550,1550,15 Jan 2015
+1621,Mohali,Lalru,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1622,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1623,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1624,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,16 Apr 2015
+1625,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1626,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1627,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1439.12,1439.12,02 Jun 2015
+1628,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1629,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1630,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1631,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1550,1550,1550,22 Nov 2014
+1632,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1400,1450,1439.12,28 Apr 2015
+1633,Patiala,Rajpura,Wheat,Other,FAQ,1455,1455,1455,17 Apr 2015
+1634,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1635,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1636,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1637,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,17 May 2015
+1638,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1639,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1640,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1641,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,02 May 2015
+1642,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,13 May 2015
+1643,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,15 May 2015
+1644,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,18 May 2015
+1645,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,08 May 2015
+1646,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,12 May 2015
+1647,Sangrur,Sulargharat,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1648,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1649,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,01 May 2015
+1650,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,04 May 2015
+1651,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,29 Apr 2015
+1652,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1653,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1654,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+1655,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1656,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1657,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1658,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1659,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1660,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1661,Bhatinda,Talwandi Sabo(Shekhupura),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1662,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1663,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1664,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1665,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1666,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1667,Bhatinda,Raman,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1668,Bhatinda,Raman,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1669,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1670,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1671,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1672,Bhatinda,Rampuraphul(Chowke),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1673,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1674,Amritsar,Rayya,Wheat,Other,FAQ,1439.12,1439.12,1439.12,03 May 2015
+1675,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,01 Jun 2015
+1676,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,08 May 2015
+1677,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,21 May 2015
+1678,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,29 Apr 2015
+1679,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,17 Apr 2015
+1680,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1681,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1682,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1683,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1684,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1685,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,03 May 2015
+1686,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,15 May 2015
+1687,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,03 May 2015
+1688,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,14 May 2015
+1689,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,03 May 2015
+1690,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,19 May 2015
+1691,Sangrur,Sulargharat,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1692,kapurthala,Sultanpur,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1693,kapurthala,Sultanpur,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1694,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,23 Apr 2015
+1695,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+1696,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1697,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1698,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,30 May 2015
+1699,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+1700,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1701,Bhatinda,Talwandi Sabo(Shekhupura),Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1702,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1703,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1704,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1705,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1706,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1707,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,01 Sep 2014
+1708,Mohali,Kurali,Wheat,Other,FAQ,1490,1490,1490,09 Oct 2014
+1709,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1710,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1711,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1712,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1713,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,31 May 2015
+1714,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1715,Ferozpur,Mamdot,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1716,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+1717,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1718,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1719,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1720,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1721,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1722,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1723,Barnala,Mehal Kalan,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1724,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,26 May 2015
+1725,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,28 Apr 2015
+1726,Ludhiana,Mullanpur,Wheat,Other,FAQ,1450,1525,1488,06 Apr 2015
+1727,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+1728,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1729,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1400,1450,1439.12,29 Apr 2015
+1730,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1430,1450,1439.12,28 Apr 2015
+1731,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+1732,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1733,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,06 Sep 2014
+1734,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,13 Sep 2014
+1735,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1736,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1737,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,11 May 2015
+1738,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,19 Apr 2015
+1739,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1740,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1741,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1742,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1743,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1744,Amritsar,Rayya,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1745,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1746,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1747,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,30 Apr 2015
+1748,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+1749,Patiala,Samana,Wheat,Other,FAQ,1450,1455,1450,13 Apr 2015
+1750,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,16 Apr 2015
+1751,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1752,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1753,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1754,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1755,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1756,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1757,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1758,Sangrur,Sunam,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1759,Gurdaspur,Kahnuwan,Wheat,Other,FAQ,1450,1450,1450,31 May 2015
+1760,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1761,Tarntaran,Khadur Sahib,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+1762,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1763,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1764,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1765,Ludhiana,Khanna,Wheat,Other,FAQ,1430,1430,1430,01 Sep 2014
+1766,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,01 Jun 2015
+1767,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1768,Ludhiana,Khanna,Wheat,Other,FAQ,1505,1515,1510,23 Mar 2015
+1769,Ludhiana,Khanna,Wheat,Other,FAQ,1530,1530,1530,09 Mar 2015
+1770,Ludhiana,Khanna,Wheat,Other,FAQ,1530,1540,1530,10 Feb 2015
+1771,Ludhiana,Khanna,Wheat,Other,FAQ,1540,1540,1540,14 Aug 2015
+1772,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,09 May 2015
+1773,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1774,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1450,1450,08 May 2015
+1775,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1452,1450,23 Apr 2015
+1776,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1777,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1778,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,27 Dec 2014
+1779,Mohali,Kurali,Wheat,Other,FAQ,1520,1520,1520,21 Mar 2015
+1780,Ludhiana,Ludhiana(Mandi gill Road),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1781,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,01 May 2015
+1782,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439.12,1450,1450,26 Apr 2015
+1783,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1784,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1785,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1786,Ludhiana,Maloud,Wheat,Other,FAQ,1349.12,1439.12,1439.12,26 Apr 2015
+1787,Ludhiana,Maloud,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1788,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1789,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1790,Ferozpur,Mamdot,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1791,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1792,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1793,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1794,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1795,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,01 May 2015
+1796,Pathankot,Narot J Singh,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1797,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1798,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1799,Nawanshahr,Nawan Shahar(MandiRaho),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1800,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1500,1500,1500,23 Dec 2014
+1801,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1802,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1803,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,03 May 2015
+1804,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,05 May 2015
+1805,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,27 Apr 2015
+1806,Patiala,Rajpura,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1807,Bhatinda,Raman,Wheat,Other,FAQ,1450,1455,1450,27 Apr 2015
+1808,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1809,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1810,Bhatinda,Rampuraphul(Dhapali),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1811,Amritsar,Rayya,Wheat,Other,FAQ,1239.12,1239.12,1239.12,10 May 2015
+1812,Amritsar,Rayya,Wheat,Other,FAQ,1239.12,1239.12,1239.12,11 May 2015
+1813,Amritsar,Rayya,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1814,Amritsar,Rayya,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1815,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,06 May 2015
+1816,Sangrur,Sunam,Wheat,Other,FAQ,1450,1455,1455,26 Apr 2015
+1817,Sangrur,Sunam,Wheat,Other,FAQ,1455,1455,1455,21 Apr 2015
+1818,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1819,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1455,1450,07 May 2015
+1820,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1821,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1822,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1823,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1824,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1825,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1826,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,28 Apr 2015
+1827,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1828,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1829,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1830,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,26 May 2015
+1831,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1832,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,10 May 2015
+1833,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1834,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1835,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1836,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+1837,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+1838,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1839,Sangrur,Sangrur,Wheat,Local,FAQ,1450,1450,1450,21 Apr 2015
+1840,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1841,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,06 May 2015
+1842,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1439.12,1450,1450,26 Apr 2015
+1843,Ludhiana,Sidhwan Bet,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1844,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1845,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1846,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,08 May 2015
+1847,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,09 May 2015
+1848,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,18 May 2015
+1849,kapurthala,Sultanpur,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1850,Sangrur,Sunam,Wheat,Other,FAQ,1455,1455,1455,20 Apr 2015
+1851,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1852,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,18 May 2015
+1853,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1854,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1855,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1856,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1857,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,01 May 2015
+1858,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,12 May 2015
+1859,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,28 May 2015
+1860,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,29 Apr 2015
+1861,Tarntaran,Tarantaran,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1862,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1863,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1864,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,25 May 2015
+1865,Ludhiana,Khanna,Wheat,Other,FAQ,1545,1545,1545,20 Feb 2015
+1866,Tarntaran,Khem karan,Wheat,Other,FAQ,0,1450,0,18 May 2015
+1867,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,05 May 2015
+1868,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,15 May 2015
+1869,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,16 May 2015
+1870,Mohali,Kurali,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1871,Mohali,Kurali,Wheat,Other,FAQ,1485,1485,1485,05 Dec 2014
+1872,Mohali,Kurali,Wheat,Other,FAQ,1520,1520,1520,12 Mar 2015
+1873,Ludhiana,Ludhiana(Salem Tabri),Wheat,Other,FAQ,1439,1450,1450,28 Apr 2015
+1874,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1875,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1876,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1877,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1878,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,24 May 2015
+1879,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1880,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1881,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1882,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,03 May 2015
+1883,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1450,1450,07 May 2015
+1884,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1450,1450,11 May 2015
+1885,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1450,1450,28 Apr 2015
+1886,Pathankot,Narot J Singh,Wheat,Other,FAQ,1450,1450,1450,30 May 2015
+1887,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1888,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+1889,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1500,1500,1500,03 May 2015
+1890,Nawanshahr,Nawan Shahar(Mandi Jadla),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1891,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,24 Dec 2014
+1892,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1400,1450,1439.12,27 Apr 2015
+1893,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,01 Sep 2014
+1894,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,02 Sep 2014
+1895,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,09 Sep 2014
+1896,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,10 Sep 2014
+1897,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1898,Patiala,Patiala(New Anaj Mandi),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1899,Patiala,Patran,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1900,kapurthala,Phagwara,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1901,Bhatinda,Raman,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1902,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1903,Bhatinda,Rampura Phul,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1904,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1905,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1906,Amritsar,Rayya,Wheat,Other,FAQ,1439.12,1439.12,1439.12,07 May 2015
+1907,Amritsar,Rayya,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+1908,Amritsar,Rayya,Wheat,Other,FAQ,1450,1450,1450,28 May 2015
+1909,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1910,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1911,Mansa,Sardulgarh,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1912,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1913,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1914,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1915,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+1916,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1917,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,07 May 2015
+1918,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,07 May 2015
+1919,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,11 May 2015
+1920,Sangrur,Sulargharat,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1921,Sangrur,Sunam,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1922,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1923,Ferozpur,Talwandi Bhai(Mudki),Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1924,Bhatinda,Talwandi Sabo,Wheat,Other,FAQ,1450,1450,1450,13 May 2015
+1925,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,02 May 2015
+1926,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1927,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+1928,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+1929,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+1930,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1931,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1932,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,13 May 2015
+1933,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1934,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1935,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+1936,Fazilka,Abohar,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1937,Jalandhar,Adampur,Wheat,Other,FAQ,1450,1450,1450,10 May 2015
+1938,Amritsar,Ajnala,Wheat,343,FAQ,1450,1450,1450,31 May 2015
+1939,Fatehgarh,Amloh,Wheat,147 Average,FAQ,1450,1450,1450,28 Apr 2015
+1940,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,09 May 2015
+1941,Amritsar,Amritsar,Wheat,Other,FAQ,1450,1460,1455,14 May 2015
+1942,Ropar (Rupnagar),Anandpur Sahib,Wheat,343,FAQ,1450,1450,1450,20 May 2015
+1943,Ropar (Rupnagar),Anandpur Sahib,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1944,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+1945,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1946,Moga,Badhni Kalan,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1947,Moga,Baghapurana,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+1948,Mansa,Bareta,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1949,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,15 May 2015
+1950,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,19 May 2015
+1951,Mansa,Bhikhi,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1952,Bhatinda,Bhucho,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+1953,Mansa,Boha,Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+1954,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,05 May 2015
+1955,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,28 Apr 2015
+1956,Fatehgarh,Chanarthal,Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+1957,Patiala,Dakala,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1958,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,08 May 2015
+1959,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,12 May 2015
+1960,Hoshiarpur,Dasuya,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+1961,Sangrur,Dirba,Wheat,343,FAQ,1450,1450,1450,28 Apr 2015
+1962,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+1963,Ludhiana,Doraha,Wheat,Other,FAQ,1450,1450,1450,21 May 2015
+1964,Hoshiarpur,Garhshankar(Saila Khurd),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+1965,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,03 May 2015
+1966,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,13 May 2015
+1967,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,26 Apr 2015
+1968,Amritsar,Gehri(Jandiala mandi),Wheat,Other,FAQ,1439.12,1439.12,1439.12,26 May 2015
+1969,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+1970,Patiala,Ghanaur,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+1971,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+1972,Ludhiana,Hathur,Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+1973,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+1974,Ludhiana,Jagraon,Wheat,Other,FAQ,1450,1450,1450,27 May 2015
+1975,Faridkot,Jaitu,Wheat,Other,FAQ,1439.12,1439.12,1439.12,05 May 2015
+1976,Jalandhar,Jalandhar Cantt.,Wheat,Other,FAQ,1439.12,1450,1440,02 May 2015
+1977,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+1978,Sangrur,Khanauri,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+1979,Ludhiana,Khanna,Wheat,Other,FAQ,1425,1425,1425,02 Sep 2014
+1980,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1450,1450,19 Nov 2014
+1981,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,02 Jun 2015
+1982,Ludhiana,Khanna,Wheat,Other,FAQ,1450,1455,1450,19 Apr 2015
+1983,Ludhiana,Khanna,Wheat,Other,FAQ,1455,1455,1455,17 Apr 2015
+1984,Ludhiana,Khanna,Wheat,Other,FAQ,1520,1530,1530,18 Mar 2015
+1985,Ludhiana,Khanna,Wheat,Other,FAQ,1525,1525,1525,27 Feb 2015
+1986,Ludhiana,Khanna,Wheat,Other,FAQ,1530,1530,1530,17 Mar 2015
+1987,Ludhiana,Khanna,Wheat,Other,FAQ,1530,1530,1530,25 Aug 2015
+1988,Ludhiana,Khanna,Wheat,Other,FAQ,1535,1535,1535,02 Feb 2015
+1989,Ludhiana,Khanna,Wheat,Other,FAQ,1540,1540,1540,19 Jan 2015
+1990,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,08 May 2015
+1991,Ludhiana,Kila Raipur,Wheat,Other,FAQ,1439.12,1439.12,1439.12,29 Apr 2015
+1992,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,05 May 2015
+1993,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,10 May 2015
+1994,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,25 Apr 2015
+1995,Moga,Kot ise Khan,Wheat,Other,FAQ,1450,1460,1455,29 Apr 2015
+1996,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1450,1450,10 May 2015
+1997,Faridkot,Kotkapura,Wheat,Local,FAQ,1450,1455,1450,04 May 2015
+1998,Mohali,Kurali,Wheat,Other,FAQ,1490,1490,1490,12 Sep 2014
+1999,Mohali,Kurali,Wheat,Other,FAQ,1490,1490,1490,30 Dec 2014
+2000,Mohali,Kurali,Wheat,Other,FAQ,1510,1530,1520,01 Apr 2015
+2001,Mohali,Kurali,Wheat,Other,FAQ,1520,1520,1520,04 Apr 2015
+2002,Mohali,Kurali,Wheat,Other,FAQ,1520,1550,1540,25 Mar 2015
+2003,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,07 May 2015
+2004,Amritsar,Majitha,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+2005,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+2006,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+2007,Ferozpur,Mallanwala,Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+2008,Ludhiana,Maloud,Wheat,Other,FAQ,1439.12,1439.12,1439.12,19 May 2015
+2009,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,11 May 2015
+2010,Muktsar,Malout,Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+2011,Ferozpur,Mamdot(Tibbi Khurd),Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+2012,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+2013,Mansa,Mansa,Wheat,Other,FAQ,1450,1450,1450,14 May 2015
+2014,Mansa,Mansa,Wheat,Other,FAQ,1450,1455,1450,28 Apr 2015
+2015,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+2016,Mansa,Mansa(Ubha Buraj Dhilwan),Wheat,Other,FAQ,1450,1450,1450,28 Apr 2015
+2017,Bhatinda,Maur,Wheat,Other,FAQ,1450,1450,1450,04 May 2015
+2018,Amritsar,Mehta,Wheat,Other,FAQ,1439.12,1439.12,1439.12,20 May 2015
+2019,Ludhiana,Mullanpur,Wheat,343,FAQ,1439.12,1450,1450,27 Apr 2015
+2020,Jalandhar,Nakodar,Wheat,Other,FAQ,1439.12,0,0,27 Apr 2015
+2021,Jalandhar,Nakodar(Sarih),Wheat,Other,FAQ,1439.12,0,0,26 Apr 2015
+2022,Jalandhar,Nakodar(Sarih),Wheat,Other,FAQ,1439.12,0,0,27 Apr 2015
+2023,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+2024,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,25 Apr 2015
+2025,Tarntaran,Naushera Pannuan,Wheat,Other,FAQ,1450,1450,1450,29 Apr 2015
+2026,Nawanshahr,Nawanshahar,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+2027,Jalandhar,Noor Mehal,Wheat,Other,FAQ,1400,1450,1439.12,05 May 2015
+2028,Jalandhar,Noor Mehal(Kot Badal Khan),Wheat,Other,FAQ,1400,1450,1439.12,26 Apr 2015
+2029,Patiala,Patiala,Wheat,Other,FAQ,1450,1450,1450,12 Sep 2014
+2030,Patiala,Patiala(Anaj Mandi Sanaur Road),Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+2031,Patiala,Rajpura,Wheat,Local,FAQ,1450,1450,1450,13 May 2015
+2032,Bhatinda,Raman,Wheat,Other,FAQ,1450,1450,1450,09 May 2015
+2033,Bhatinda,Rampuraphul(Bhai Rupan),Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+2034,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,03 May 2015
+2035,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+2036,Bhatinda,Rampuraphul(Mehraj),Wheat,Other,FAQ,1450,1450,1450,27 Apr 2015
+2037,Bhatinda,Rampuraphul(Nabha Mandi),Wheat,Other,FAQ,1450,1450,1450,06 May 2015
+2038,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1439.12,1439.12,1439.12,02 May 2015
+2039,Amritsar,Rayya(Sathiala),Wheat,Other,FAQ,1439.12,1439.12,1439.12,08 May 2015
+2040,Faridkot,Sadiq,Wheat,Other,FAQ,1450,1450,1450,24 Apr 2015
+2041,Ludhiana,Sahnewal,Wheat,Other,FAQ,1439.12,1439.12,1439.12,25 Apr 2015
+2042,Patiala,Samana,Wheat,Other,FAQ,1450,1450,1450,15 Apr 2015
+2043,Patiala,Samana,Wheat,Other,FAQ,1450,1455,1455,14 Apr 2015
+2044,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+2045,Patiala,Samana(Gajewas),Wheat,Other,FAQ,1450,1450,1450,18 Apr 2015
+2046,Patiala,Samana(Kakrala),Wheat,Other,FAQ,1450,1450,1450,30 Apr 2015
+2047,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,17 Apr 2015
+2048,Ludhiana,Samrala,Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+2049,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,20 May 2015
+2050,Bhatinda,Sangat,Wheat,Other,FAQ,1450,1450,1450,23 Apr 2015
+2051,Mansa,Sardulgarh,Wheat,Other,FAQ,1450,1450,1450,05 May 2015
+2052,Mansa,Sardulgarh,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+2053,Jalandhar,Shahkot,Wheat,Other,FAQ,1450,1450,1450,26 Apr 2015
+2054,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,19 Apr 2015
+2055,Fatehgarh,Sirhind,Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+2056,Gurdaspur,Sri Har Gobindpur,Wheat,Other,FAQ,1439.12,1450,1450,05 May 2015
+2057,Gurdaspur,Sri Har Gobindpur(Harechowal),Wheat,Other,FAQ,1439.12,1450,1450,15 May 2015
+2058,Ferozpur,Talwandi Bhai,Wheat,Other,FAQ,1450,1450,1450,01 May 2015
+2059,Bhatinda,Talwandi Sabo(Kot Fatta),Wheat,Other,FAQ,1450,1450,1450,22 Apr 2015
+2060,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,16 May 2015
+2061,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,17 May 2015
+2062,Barnala,Tapa(Tapa Mandi),Wheat,Other,FAQ,1450,1450,1450,21 Apr 2015
+2063,Tarntaran,Tarantaran,Wheat,Other,FAQ,0,0,1450,05 May 2015
+2064,Ferozpur,Zira,Wheat,Other,FAQ,1450,1450,1450,02 May 2015

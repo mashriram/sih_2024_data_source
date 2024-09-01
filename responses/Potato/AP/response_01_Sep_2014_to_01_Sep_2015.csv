@@ -1,0 +1,933 @@
+0,1,2,3,4,5,6,7,8,9
+1,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,19 May 2015
+2,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,21 May 2015
+3,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,23 Apr 2015
+4,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,08 Jul 2015
+5,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,09 Jun 2015
+6,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,21 Aug 2015
+7,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,18 Apr 2015
+8,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,18,18,18,03 Apr 2015
+9,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,06 Jun 2015
+10,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,17 Jun 2015
+11,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,14,14,14,23 May 2015
+12,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,08 Jun 2015
+13,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,21 Jun 2015
+14,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,02 May 2015
+15,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,05 Mar 2015
+16,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,04 Aug 2015
+17,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,04 Jul 2015
+18,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,14 Jul 2015
+19,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,23 Jun 2015
+20,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,24 Aug 2015
+21,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,16 Oct 2014
+22,Srikakulam,Ichapuram,Potato,Potato,Medium,900,1200,1000,18 Nov 2014
+23,West Godavari,Kovvur,Potato,Other,Medium,1100,1500,1300,05 Aug 2015
+24,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,03 Feb 2015
+25,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,10 May 2015
+26,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,11 Mar 2015
+27,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,22 Feb 2015
+28,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,24 Feb 2015
+29,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,25 Aug 2015
+30,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,26 Apr 2015
+31,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,17 Jun 2015
+32,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,07 Dec 2014
+33,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,03 Dec 2014
+34,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,11 Nov 2014
+35,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,15 Apr 2015
+36,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,23 Apr 2015
+37,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,04 Apr 2015
+38,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,16 Aug 2015
+39,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,24 Aug 2015
+40,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,25 May 2015
+41,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,28 May 2015
+42,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,04 Aug 2015
+43,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,04 Mar 2015
+44,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,12 Feb 2015
+45,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,19 Jun 2015
+46,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,04 Feb 2015
+47,Krishna,Vijayawada,Potato,Potato,FAQ,1800,2000,1900,06 Jan 2015
+48,Krishna,Vijayawada,Potato,Potato,FAQ,2200,2400,2300,29 Dec 2014
+49,Krishna,Vijayawada,Potato,Potato,FAQ,2700,2900,2800,22 Sep 2014
+50,Krishna,Vijayawada,Potato,Potato,FAQ,2700,2900,2800,27 Sep 2014
+51,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,15 Sep 2014
+52,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,03 Dec 2014
+53,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,02 May 2015
+54,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,01 Jul 2015
+55,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,02 Jul 2015
+56,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,20 Aug 2015
+57,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,14,14,14,29 May 2015
+58,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,17 Apr 2015
+59,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,30 Apr 2015
+60,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,18,18,18,04 Apr 2015
+61,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1200,1200,1200,04 Jul 2015
+62,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,19 Jun 2015
+63,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,26 Jun 2015
+64,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,18,18,18,02 Apr 2015
+65,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1600,1600,1600,23 Aug 2015
+66,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,08 Aug 2015
+67,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,10 Jul 2015
+68,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,11 May 2015
+69,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,15 Jul 2015
+70,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,19 May 2015
+71,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,21 Aug 2015
+72,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,28 Jul 2015
+73,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,29 Aug 2015
+74,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,09 Jun 2015
+75,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,02 Sep 2014
+76,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,15 Sep 2014
+77,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,08 Mar 2015
+78,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,01 Jun 2015
+79,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,03 Jun 2015
+80,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,11 Apr 2015
+81,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,13 Mar 2015
+82,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,16 Feb 2015
+83,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,19 Apr 2015
+84,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,26 Jun 2015
+85,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,29 Jun 2015
+86,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,11 Aug 2015
+87,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,12 Aug 2015
+88,West Godavari,Kovvur,Potato,Potato,Medium,2000,2400,2200,05 Jan 2015
+89,West Godavari,Kovvur,Potato,Potato,Medium,2400,2800,2600,28 Dec 2014
+90,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,27 Oct 2014
+91,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,02 Dec 2014
+92,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,23 Nov 2014
+93,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,25 Sep 2014
+94,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,26 Nov 2014
+95,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,09 Sep 2014
+96,West Godavari,Kovvur,Potato,Potato,Medium,3200,3600,3400,12 Sep 2014
+97,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1500,1800,1700,01 May 2015
+98,Krishna,Vijayawada,Potato,Potato,FAQ,1000,1200,1100,16 Apr 2015
+99,Krishna,Vijayawada,Potato,Potato,FAQ,1000,1200,1100,24 Mar 2015
+100,Chittor,Chittor(Rythu Bazar),Potato,Chandermukhi,Large,1600,2000,1800,06 Jun 2015
+101,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,06 Apr 2015
+102,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,24 Jun 2015
+103,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1600,1600,1600,21 Aug 2015
+104,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,05 Jun 2015
+105,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1800,1800,1800,11 Jun 2015
+106,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,13 Apr 2015
+107,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,17 Apr 2015
+108,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,18 Apr 2015
+109,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,01 Aug 2015
+110,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,10 Aug 2015
+111,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,20 Jul 2015
+112,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,28 Jun 2015
+113,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,29 Sep 2014
+114,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,30 Apr 2015
+115,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,02 Aug 2015
+116,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,12 Jul 2015
+117,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,13 Feb 2015
+118,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,14 Feb 2015
+119,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,21 May 2015
+120,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,22 May 2015
+121,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,19 Jun 2015
+122,West Godavari,Kovvur,Potato,Potato,Medium,2300,2700,2500,25 Dec 2014
+123,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,01 Sep 2014
+124,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,04 Nov 2014
+125,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,07 Sep 2014
+126,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1500,1800,1600,27 Apr 2015
+127,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,07 Aug 2015
+128,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,19 May 2015
+129,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,20 Aug 2015
+130,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,21 Jul 2015
+131,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,23 Mar 2015
+132,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,08 Aug 2015
+133,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,09 Mar 2015
+134,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,20 Jul 2015
+135,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,25 Jun 2015
+136,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,09 Feb 2015
+137,Krishna,Vijayawada,Potato,Potato,FAQ,2700,2900,2800,06 Nov 2014
+138,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,12 Oct 2014
+139,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,16 Sep 2014
+140,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,17 Oct 2014
+141,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,22 Oct 2014
+142,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,23 Sep 2014
+143,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,25 Sep 2014
+144,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,10 Dec 2014
+145,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,11 Dec 2014
+146,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1400,1800,1600,28 Jul 2015
+147,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,29 Aug 2015
+148,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,21 Jun 2015
+149,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,14,14,14,18 May 2015
+150,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,04 Jun 2015
+151,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,19 Jun 2015
+152,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,28 Apr 2015
+153,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,01 Sep 2015
+154,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,03 Aug 2015
+155,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,10 May 2015
+156,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,15 Jun 2015
+157,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,20 Aug 2015
+158,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,27 Aug 2015
+159,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,29 Jul 2015
+160,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,09 Apr 2015
+161,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,18 Mar 2015
+162,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,01 Sep 2015
+163,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,06 Jul 2015
+164,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,09 Jun 2015
+165,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,11 Jul 2015
+166,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,14 Aug 2015
+167,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,17 May 2015
+168,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,19 Aug 2015
+169,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,30 Jun 2015
+170,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,02 Jul 2015
+171,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,13 Jun 2015
+172,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,21 Mar 2015
+173,West Godavari,Kovvur,Potato,Potato,Medium,1400,1800,1600,28 Jan 2015
+174,West Godavari,Kovvur,Potato,Potato,Medium,1800,2200,2000,31 Dec 2014
+175,West Godavari,Kovvur,Potato,Potato,Medium,2000,2400,2200,07 Jul 2015
+176,West Godavari,Kovvur,Potato,Potato,Medium,2200,2600,2400,22 Dec 2014
+177,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,05 Sep 2014
+178,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,04 Dec 2014
+179,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,29 Jan 2015
+180,West Godavari,Kovvur,Potato,Potato,Medium,2900,3200,3000,31 Oct 2014
+181,West Godavari,Kovvur,Potato,Potato,Medium,3200,3600,3400,14 Oct 2014
+182,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1400,1600,1500,10 Apr 2015
+183,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,08 May 2015
+184,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,19 Mar 2015
+185,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,20 Apr 2015
+186,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,22 Mar 2015
+187,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,10 Aug 2015
+188,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,27 Jul 2015
+189,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,15 Mar 2015
+190,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,16 Mar 2015
+191,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,30 Jun 2015
+192,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,06 Feb 2015
+193,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,11 Feb 2015
+194,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,28 Apr 2015
+195,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,10 Jul 2015
+196,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,11 May 2015
+197,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,28 Jul 2015
+198,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,29 Aug 2015
+199,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,03 Mar 2015
+200,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,07 Mar 2015
+201,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,29 May 2015
+202,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,03 Oct 2014
+203,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,06 Oct 2014
+204,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,13 Oct 2014
+205,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,16 Oct 2014
+206,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,27 Oct 2014
+207,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,28 Sep 2014
+208,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,26 Nov 2014
+209,Krishna,Vijayawada,Potato,Potato,FAQ,1600,1800,1700,08 Feb 2015
+210,Krishna,Vijayawada,Potato,Potato,FAQ,1600,1800,1700,26 Dec 2014
+211,Krishna,Vijayawada,Potato,Potato,FAQ,1900,2100,2000,28 Dec 2014
+212,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,07 Nov 2014
+213,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,10 Sep 2014
+214,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,13 Dec 2014
+215,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,19 Dec 2014
+216,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,07 Apr 2015
+217,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,14,14,14,22 May 2015
+218,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,11 Apr 2015
+219,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,24 Apr 2015
+220,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1600,1600,1600,08 Jul 2015
+221,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,24 Jun 2015
+222,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1600,1600,1600,19 Aug 2015
+223,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,08 May 2015
+224,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,09 Aug 2015
+225,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,16 May 2015
+226,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,17 Jun 2015
+227,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,29 Jun 2015
+228,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,07 Feb 2015
+229,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,04 Apr 2015
+230,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,29 Mar 2015
+231,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,04 May 2015
+232,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,05 Jun 2015
+233,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,08 Jul 2015
+234,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,09 May 2015
+235,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,12 May 2015
+236,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,15 Aug 2015
+237,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,16 May 2015
+238,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,20 Feb 2015
+239,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,30 Aug 2015
+240,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,01 Jul 2015
+241,West Godavari,Kovvur,Potato,Potato,Medium,1800,2200,2000,21 Jan 2015
+242,West Godavari,Kovvur,Potato,Potato,Medium,2000,2400,2200,08 Jan 2015
+243,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,05 Nov 2014
+244,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,07 Nov 2014
+245,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,10 Dec 2014
+246,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,11 Dec 2014
+247,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,14 Dec 2014
+248,West Godavari,Kovvur,Potato,Potato,Medium,3200,3600,3400,13 Oct 2014
+249,Prakasam,Ongole(Rythu Bazar),Potato,Kuber,Medium,1700,2000,1800,11 May 2015
+250,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1400,1600,1500,13 Apr 2015
+251,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1500,1800,1600,05 Apr 2015
+252,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1700,2200,1900,03 Jun 2015
+253,Chittor,Tirupati,Potato,Potato,Medium,14,18,16,18 Aug 2015
+254,Krishna,Vijayawada,Potato,Potato,FAQ,1100,1300,1200,30 Apr 2015
+255,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,13 Jul 2015
+256,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,19 Apr 2015
+257,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,22 Apr 2015
+258,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,02 Jun 2015
+259,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,13 Aug 2015
+260,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,23 Aug 2015
+261,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,23 Jul 2015
+262,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,26 Aug 2015
+263,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,26 May 2015
+264,Chittor,Chittor(Rythu Bazar),Potato,Chandermukhi,Large,16,20,18,16 Apr 2015
+265,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,20 May 2015
+266,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,24 Apr 2015
+267,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,29 May 2015
+268,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1400,1800,1600,12 Aug 2015
+269,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,04 Jun 2015
+270,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,08 Jun 2015
+271,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,07 May 2015
+272,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,16 Apr 2015
+273,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,07 Jun 2015
+274,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,26 Jun 2015
+275,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,23 Apr 2015
+276,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,06 Aug 2015
+277,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,17 May 2015
+278,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,19 Aug 2015
+279,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,21 Jul 2015
+280,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,21 Jun 2015
+281,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,25 Jul 2015
+282,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,06 Sep 2014
+283,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,17 Jul 2015
+284,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,22 Jul 2015
+285,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,12 Apr 2015
+286,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,20 Apr 2015
+287,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,23 Aug 2015
+288,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,26 Feb 2015
+289,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,29 Jul 2015
+290,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,30 May 2015
+291,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,18 May 2015
+292,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,01 Mar 2015
+293,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,03 Jul 2015
+294,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,14 Jun 2015
+295,West Godavari,Kovvur,Potato,Potato,Medium,1800,2200,2000,01 Jan 2015
+296,West Godavari,Kovvur,Potato,Potato,Medium,1800,2200,2000,12 Jan 2015
+297,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,28 Nov 2014
+298,West Godavari,Kovvur,Potato,Potato,Medium,2700,3100,2900,21 Nov 2014
+299,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,03 Oct 2014
+300,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,07 Oct 2014
+301,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,21 Sep 2014
+302,West Godavari,Kovvur,Potato,Potato,Medium,3300,3700,3500,11 Sep 2014
+303,West Godavari,Kovvur,Potato,Potato,Medium,3300,3700,3500,12 Oct 2014
+304,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1500,1800,1600,28 Apr 2015
+305,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1500,1800,1700,06 Apr 2015
+306,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1700,2000,1800,27 May 2015
+307,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,14 Jul 2015
+308,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,17 Jul 2015
+309,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,21 Aug 2015
+310,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,22 Jul 2015
+311,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,27 May 2015
+312,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,02 Aug 2015
+313,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,18 Jun 2015
+314,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,26 Feb 2015
+315,Krishna,Vijayawada,Potato,Potato,FAQ,1600,1800,1700,24 Feb 2015
+316,Krishna,Vijayawada,Potato,Potato,FAQ,1700,1900,1800,19 Jan 2015
+317,Krishna,Vijayawada,Potato,Potato,FAQ,1800,2000,1900,27 Dec 2014
+318,Krishna,Vijayawada,Potato,Potato,FAQ,1800,3000,2900,21 Sep 2014
+319,Krishna,Vijayawada,Potato,Potato,FAQ,2000,2200,2100,24 Dec 2014
+320,Krishna,Vijayawada,Potato,Potato,FAQ,2400,2600,2500,17 Jan 2015
+321,Krishna,Vijayawada,Potato,Potato,FAQ,2700,2900,2800,15 Oct 2014
+322,Krishna,Vijayawada,Potato,Potato,FAQ,2700,2900,2800,19 Sep 2014
+323,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,01 Oct 2014
+324,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,05 Sep 2014
+325,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,10 Oct 2014
+326,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,04 Dec 2014
+327,Chittor,Chittor(Rythu Bazar),Potato,Chandermukhi,Large,1600,2000,1800,25 Jun 2015
+328,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,08 Apr 2015
+329,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,09 Jul 2015
+330,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,18 Jun 2015
+331,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,27 Jun 2015
+332,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,16 Apr 2015
+333,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,05 Jun 2015
+334,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1600,1600,1600,17 Aug 2015
+335,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,14,14,14,20 May 2015
+336,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,23 Apr 2015
+337,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,10 Jun 2015
+338,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,06 Apr 2015
+339,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,21 Apr 2015
+340,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,30 Apr 2015
+341,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,20 May 2015
+342,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,25 Aug 2015
+343,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,18 Jul 2015
+344,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,09 Feb 2015
+345,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,11 Feb 2015
+346,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,24 Apr 2015
+347,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,25 Feb 2015
+348,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,29 May 2015
+349,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,08 Aug 2015
+350,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,20 Jun 2015
+351,West Godavari,Kovvur,Potato,Potato,Medium,1400,1800,1600,26 Jan 2015
+352,West Godavari,Kovvur,Potato,Potato,Medium,2000,2400,2200,02 Jan 2015
+353,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,28 Oct 2014
+354,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,14 Jan 2015
+355,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,25 Nov 2014
+356,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,29 Sep 2014
+357,West Godavari,Kovvur,Potato,Potato,Medium,2900,3300,3100,24 Sep 2014
+358,Prakasam,Ongole(Rythu Bazar),Potato,Badshah,Medium,1700,2000,1800,26 May 2015
+359,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1400,1600,1500,14 Apr 2015
+360,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,02 Apr 2015
+361,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,05 May 2015
+362,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,29 Apr 2015
+363,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,12 May 2015
+364,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,14 Aug 2015
+365,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,21 May 2015
+366,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,04 Jul 2015
+367,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,15 Jun 2015
+368,Krishna,Vijayawada,Potato,Potato,FAQ,2600,2800,2700,09 Jan 2015
+369,Krishna,Vijayawada,Potato,Potato,FAQ,2600,2800,2700,16 Jan 2015
+370,Krishna,Vijayawada,Potato,Potato,FAQ,2700,2900,2800,04 Oct 2014
+371,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,12 Nov 2014
+372,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,16 Dec 2014
+373,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,23 Oct 2014
+374,Krishna,Vijayawada,Potato,Potato,FAQ,3100,3300,3200,07 Dec 2014
+375,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1400,1800,1600,18 Aug 2015
+376,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,16 Jun 2015
+377,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,23 Jun 2015
+378,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,02 May 2015
+379,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,30,30,30,01 Jun 2015
+380,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,07 Jul 2015
+381,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,13 Aug 2015
+382,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,19 Jun 2015
+383,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,23 Aug 2015
+384,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,23 Jul 2015
+385,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,26 Jun 2015
+386,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,30 Jun 2015
+387,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,05 Sep 2014
+388,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,27 Mar 2015
+389,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,15 Jul 2015
+390,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,26 Jul 2015
+391,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,13 Aug 2015
+392,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,15 Feb 2015
+393,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,25 Apr 2015
+394,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,31 May 2015
+395,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,08 May 2015
+396,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,23 Jun 2015
+397,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,01 Aug 2015
+398,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,28 Jun 2015
+399,West Godavari,Kovvur,Potato,Potato,Medium,1600,2000,1800,09 Jul 2015
+400,West Godavari,Kovvur,Potato,Potato,Medium,2000,2400,2200,21 Jun 2015
+401,West Godavari,Kovvur,Potato,Potato,Medium,2000,2400,2200,29 Dec 2014
+402,West Godavari,Kovvur,Potato,Potato,Medium,2400,2800,2600,15 Dec 2014
+403,West Godavari,Kovvur,Potato,Potato,Medium,2400,2800,2600,16 Dec 2014
+404,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,01 Nov 2014
+405,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,20 Oct 2014
+406,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,22 Oct 2014
+407,West Godavari,Kovvur,Potato,Potato,Medium,2700,3100,2900,25 Oct 2014
+408,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,03 Nov 2014
+409,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,10 Nov 2014
+410,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,18 Oct 2014
+411,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,26 Sep 2014
+412,West Godavari,Kovvur,Potato,Potato,Medium,3200,3600,3400,19 Sep 2014
+413,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1500,1800,1700,04 Apr 2015
+414,Krishna,Vijayawada,Potato,Potato,FAQ,1000,1200,1100,17 Apr 2015
+415,Krishna,Vijayawada,Potato,Potato,FAQ,1000,1200,1100,18 Apr 2015
+416,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,20 Mar 2015
+417,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,25 Apr 2015
+418,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,01 Jun 2015
+419,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,12 Jun 2015
+420,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,15 Aug 2015
+421,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,15 Jul 2015
+422,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,16 May 2015
+423,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,28 Aug 2015
+424,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,30 Aug 2015
+425,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,01 Jul 2015
+426,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,05 Mar 2015
+427,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,06 Jul 2015
+428,Krishna,Vijayawada,Potato,Potato,FAQ,2300,2500,2400,17 Dec 2014
+429,Krishna,Vijayawada,Potato,Potato,FAQ,2600,2800,2700,22 Dec 2014
+430,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,03 Nov 2014
+431,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,09 Oct 2014
+432,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,29 Oct 2014
+433,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,30 Oct 2014
+434,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,14 Dec 2014
+435,Chittor,Chittor(Rythu Bazar),Potato,Chandermukhi,Large,1400,1800,1600,19 Aug 2015
+436,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,22 Apr 2015
+437,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,29 Apr 2015
+438,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,30 May 2015
+439,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1400,1800,1600,30 Jul 2015
+440,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,11 Jun 2015
+441,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,14 Jul 2015
+442,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,29 Jul 2015
+443,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,01 Sep 2015
+444,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,25 Aug 2015
+445,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,27 Aug 2015
+446,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,14,14,14,18 May 2015
+447,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,01 May 2015
+448,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,08 Apr 2015
+449,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,01 May 2015
+450,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,06 Jul 2015
+451,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,06 Jun 2015
+452,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,07 Aug 2015
+453,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,08 Jul 2015
+454,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,15 Aug 2015
+455,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,17 Aug 2015
+456,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,27 Jun 2015
+457,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,07 Jun 2015
+458,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,13 Jun 2015
+459,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,23 May 2015
+460,West Godavari,Kovvur,Potato,Other,Medium,900,1300,1100,22 Jul 2015
+461,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,26 Mar 2015
+462,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,23 Jul 2015
+463,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,02 Mar 2015
+464,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,04 Feb 2015
+465,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,12 Feb 2015
+466,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,12 Mar 2015
+467,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,13 Jul 2015
+468,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,18 Feb 2015
+469,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,20 May 2015
+470,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,12 Jun 2015
+471,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,25 Jun 2015
+472,West Godavari,Kovvur,Potato,Potato,Medium,2200,2600,2400,09 Jan 2015
+473,West Godavari,Kovvur,Potato,Potato,Medium,2200,2600,2400,11 Jan 2015
+474,West Godavari,Kovvur,Potato,Potato,Medium,2300,2700,2500,13 Dec 2014
+475,West Godavari,Kovvur,Potato,Potato,Medium,2300,2700,2500,18 Dec 2014
+476,West Godavari,Kovvur,Potato,Potato,Medium,2400,2800,2600,20 Dec 2014
+477,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,03 Sep 2014
+478,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,13 Nov 2014
+479,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,14 Nov 2014
+480,West Godavari,Kovvur,Potato,Potato,Medium,2700,3100,2900,26 Oct 2014
+481,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,12 Nov 2014
+482,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,15 Nov 2014
+483,Chittor,Chittor(Rythu Bazar),Potato,Chandermukhi,Large,16,20,18,17 Apr 2015
+484,Chittor,Chittor(Rythu Bazar),Potato,Chandermukhi,Large,16,20,18,30 Apr 2015
+485,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,21 Apr 2015
+486,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,02 Jun 2015
+487,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,04 Jul 2015
+488,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,22 Aug 2015
+489,West Godavari,Eluru,Potato,Potato,Medium,16,16,16,08 Apr 2015
+490,West Godavari,Eluru,Potato,Potato,Medium,1200,1200,1200,03 Jul 2015
+491,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,18 Jun 2015
+492,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,18 Apr 2015
+493,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,03 Jun 2015
+494,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,1400,1400,1400,06 Jun 2015
+495,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,26 Apr 2015
+496,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,12 Jul 2015
+497,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,21 May 2015
+498,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,24 Jul 2015
+499,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,26 Jul 2015
+500,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,27 Jul 2015
+501,Srikakulam,Ichapuram,Potato,Potato,Medium,1000,1400,1200,12 Jan 2015
+502,West Godavari,Kovvur,Potato,Other,Medium,1900,2300,2100,21 Jul 2015
+503,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,22 Apr 2015
+504,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,28 Mar 2015
+505,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,19 Jul 2015
+506,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,16 Aug 2015
+507,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,17 Apr 2015
+508,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,23 Feb 2015
+509,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,24 Aug 2015
+510,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,24 May 2015
+511,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,25 May 2015
+512,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,18 Jun 2015
+513,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,31 Jul 2015
+514,West Godavari,Kovvur,Potato,Potato,Medium,1600,2000,1800,22 Jan 2015
+515,West Godavari,Kovvur,Potato,Potato,Medium,1800,2200,2000,18 Jan 2015
+516,West Godavari,Kovvur,Potato,Potato,Medium,2300,2700,2500,19 Dec 2014
+517,West Godavari,Kovvur,Potato,Potato,Medium,3200,3600,3400,14 Sep 2014
+518,West Godavari,Kovvur,Potato,Potato,Medium,3200,3600,3400,18 Sep 2014
+519,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1500,1800,1600,02 Apr 2015
+520,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1700,2000,1800,06 Jun 2015
+521,Chittor,Tirupati,Potato,Potato,Medium,14,18,16,24 Aug 2015
+522,Krishna,Vijayawada,Potato,Potato,FAQ,1100,1300,1200,01 May 2015
+523,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,03 Apr 2015
+524,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,08 Apr 2015
+525,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,09 Apr 2015
+526,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,13 Apr 2015
+527,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,27 Apr 2015
+528,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,13 May 2015
+529,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,18 May 2015
+530,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,22 Aug 2015
+531,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,10 Jun 2015
+532,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,11 Jun 2015
+533,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,26 Jun 2015
+534,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,05 Feb 2015
+535,Krishna,Vijayawada,Potato,Potato,FAQ,1800,2000,1900,17 Feb 2015
+536,Krishna,Vijayawada,Potato,Potato,FAQ,2000,2200,2100,01 Jan 2015
+537,Krishna,Vijayawada,Potato,Potato,FAQ,2400,2600,2500,18 Dec 2014
+538,Krishna,Vijayawada,Potato,Potato,FAQ,2600,2800,2700,18 Jan 2015
+539,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,04 Nov 2014
+540,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,07 Oct 2014
+541,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,08 Oct 2014
+542,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,21 Dec 2014
+543,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,21 Oct 2014
+544,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,28 Sep 2014
+545,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1700,2000,1800,28 May 2015
+546,Krishna,Vijayawada,Potato,Potato,FAQ,1000,1200,1100,25 Mar 2015
+547,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,01 Sep 2015
+548,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,07 May 2015
+549,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,26 Mar 2015
+550,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,15 Feb 2015
+551,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,17 Mar 2015
+552,Krishna,Vijayawada,Potato,Potato,FAQ,1600,1800,1700,07 Feb 2015
+553,Krishna,Vijayawada,Potato,Potato,FAQ,2600,2800,2700,15 Jan 2015
+554,Krishna,Vijayawada,Potato,Potato,FAQ,2600,2800,2700,20 Dec 2014
+555,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,11 Oct 2014
+556,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,11 Sep 2014
+557,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,12 Dec 2014
+558,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,21 Nov 2014
+559,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1400,1800,1600,14 Aug 2015
+560,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,10 Jun 2015
+561,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1800,1800,1800,11 Jun 2015
+562,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,30 Apr 2015
+563,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,02 Aug 2015
+564,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,02 Jul 2015
+565,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,05 Jul 2015
+566,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,16 Aug 2015
+567,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,17 Jul 2015
+568,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,20 Jun 2015
+569,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,22 Jul 2015
+570,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,25 Jun 2015
+571,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,30 Aug 2015
+572,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,08 Jun 2015
+573,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,10 Jun 2015
+574,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,28 Sep 2014
+575,West Godavari,Kovvur,Potato,Other,Medium,1200,1600,1400,07 Aug 2015
+576,West Godavari,Kovvur,Potato,Potato,Medium,700,1100,900,19 Mar 2015
+577,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,03 May 2015
+578,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,07 Feb 2015
+579,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,10 Aug 2015
+580,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,14 May 2015
+581,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,16 Apr 2015
+582,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,17 Aug 2015
+583,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,22 Aug 2015
+584,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,27 Apr 2015
+585,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,03 Aug 2015
+586,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,04 Aug 2015
+587,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,10 Jun 2015
+588,West Godavari,Kovvur,Potato,Potato,Medium,1600,2000,1800,17 Jan 2015
+589,West Godavari,Kovvur,Potato,Potato,Medium,1800,2200,2000,13 Jan 2015
+590,West Godavari,Kovvur,Potato,Potato,Medium,2200,2600,2400,24 Dec 2014
+591,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,08 Dec 2014
+592,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,12 Dec 2014
+593,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,30 Oct 2014
+594,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,15 Oct 2014
+595,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,17 Oct 2014
+596,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,27 Nov 2014
+597,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,27 Sep 2014
+598,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1400,1600,1500,07 Apr 2015
+599,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1400,1600,1500,08 Apr 2015
+600,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,09 Aug 2015
+601,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,11 Aug 2015
+602,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,04 Jun 2015
+603,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,19 Aug 2015
+604,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,02 Jul 2015
+605,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,03 Jul 2015
+606,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,06 Mar 2015
+607,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,09 Apr 2015
+608,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,10 Apr 2015
+609,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,16 May 2015
+610,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1400,1800,1600,07 Aug 2015
+611,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,26 Aug 2015
+612,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,15 Jun 2015
+613,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,2200,2200,2200,22 Jun 2015
+614,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,24 Apr 2015
+615,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,18,18,18,04 Apr 2015
+616,Srikakulam,Ichapuram,Potato,Other,Medium,400,600,500,24 Apr 2015
+617,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,05 May 2015
+618,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,06 May 2015
+619,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,07 Apr 2015
+620,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,07 May 2015
+621,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,13 Mar 2015
+622,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,29 Apr 2015
+623,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,03 Jul 2015
+624,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,16 Jul 2015
+625,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,16 Jun 2015
+626,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,22 Aug 2015
+627,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,22 Jun 2015
+628,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,22 May 2015
+629,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,30 Jul 2015
+630,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,02 Jun 2015
+631,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,12 Jun 2015
+632,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,23 Oct 2014
+633,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,06 Apr 2015
+634,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,04 Mar 2015
+635,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,05 Feb 2015
+636,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,18 Aug 2015
+637,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,23 May 2015
+638,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,28 May 2015
+639,West Godavari,Kovvur,Potato,Potato,Medium,1300,1700,1500,05 Jul 2015
+640,West Godavari,Kovvur,Potato,Potato,Medium,1600,2000,1800,07 Jan 2015
+641,West Godavari,Kovvur,Potato,Potato,Medium,2700,3100,2900,16 Oct 2014
+642,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,04 Oct 2014
+643,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,08 Sep 2014
+644,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,17 Sep 2014
+645,Prakasam,Ongole(Rythu Bazar),Potato,Desi,Medium,1700,2000,1800,04 Jun 2015
+646,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1700,2000,1800,13 May 2015
+647,Prakasam,Ongole(Rythu Bazar),Potato,Potato,Medium,1700,2000,1800,17 Mar 2015
+648,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,01 Aug 2015
+649,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,21 Apr 2015
+650,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,06 Jun 2015
+651,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,09 Jun 2015
+652,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,09 May 2015
+653,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,12 Aug 2015
+654,Krishna,Vijayawada,Potato,Potato,FAQ,1800,2000,1900,30 Dec 2014
+655,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,25 Aug 2015
+656,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,30 Jul 2015
+657,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,09 Jul 2015
+658,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,11 Mar 2015
+659,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,22 Jun 2015
+660,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,24 Jun 2015
+661,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,27 Jun 2015
+662,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,30 May 2015
+663,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,02 Feb 2015
+664,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,13 Feb 2015
+665,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,14 Feb 2015
+666,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,19 Feb 2015
+667,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,27 Feb 2015
+668,Krishna,Vijayawada,Potato,Potato,FAQ,1600,1800,1700,10 Feb 2015
+669,Krishna,Vijayawada,Potato,Potato,FAQ,1600,1800,1700,14 Sep 2014
+670,Krishna,Vijayawada,Potato,Potato,FAQ,2200,2400,2300,11 Jan 2015
+671,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,03 Sep 2014
+672,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,18 Oct 2014
+673,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,25 Oct 2014
+674,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,17 Nov 2014
+675,Krishna,Vijayawada,Potato,Potato,FAQ,3100,3300,3200,09 Dec 2014
+676,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,05 May 2015
+677,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,14 May 2015
+678,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,15 Apr 2015
+679,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,15 May 2015
+680,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,07 Jul 2015
+681,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,28 Aug 2015
+682,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,23 Apr 2015
+683,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,23 Mar 2015
+684,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,24 Mar 2015
+685,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,09 Jul 2015
+686,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,13 May 2015
+687,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,18 May 2015
+688,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,26 Aug 2015
+689,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,31 Aug 2015
+690,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,03 Jun 2015
+691,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,05 Jun 2015
+692,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,24 May 2015
+693,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,04 Sep 2014
+694,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,14 Sep 2014
+695,West Godavari,Kovvur,Potato,Other,Medium,1000,1400,1200,26 Aug 2015
+696,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,15 Apr 2015
+697,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,31 Mar 2015
+698,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,27 May 2015
+699,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,31 Aug 2015
+700,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,06 Aug 2015
+701,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,16 Jun 2015
+702,West Godavari,Kovvur,Potato,Potato,Medium,1600,2000,1800,23 Jan 2015
+703,West Godavari,Kovvur,Potato,Potato,Medium,1800,3200,3000,29 Nov 2014
+704,West Godavari,Kovvur,Potato,Potato,Medium,2400,2800,2600,06 Nov 2014
+705,West Godavari,Kovvur,Potato,Potato,Medium,2600,3000,2800,23 Oct 2014
+706,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,01 Dec 2014
+707,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,09 Oct 2014
+708,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,10 Sep 2014
+709,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,11 Oct 2014
+710,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,22 Sep 2014
+711,Prakasam,Ongole(Rythu Bazar),Potato,(Red Nanital),Medium,1600,1800,1700,09 May 2015
+712,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,03 Feb 2015
+713,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,24 Jul 2015
+714,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,27 Mar 2015
+715,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,03 Aug 2015
+716,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,08 Jun 2015
+717,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,15 May 2015
+718,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,17 Aug 2015
+719,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,18 Aug 2015
+720,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,21 Mar 2015
+721,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,25 Jul 2015
+722,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,27 Aug 2015
+723,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,31 Jul 2015
+724,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,19 Jun 2015
+725,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,20000,1800,03 Jun 2015
+726,West Godavari,Eluru,Potato,Potato,Medium,1400,1400,1400,14 Jun 2015
+727,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,14,14,14,20 May 2015
+728,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,13 Apr 2015
+729,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,03 Jun 2015
+730,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,04 Jun 2015
+731,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,06 Apr 2015
+732,Srikakulam,Ichapuram,Potato,Other,Medium,500,700,600,24 Jun 2015
+733,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,25 Apr 2015
+734,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,05 Aug 2015
+735,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,11 Aug 2015
+736,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,18 Jun 2015
+737,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,28 Aug 2015
+738,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,04 Jun 2015
+739,Srikakulam,Ichapuram,Potato,Potato,Medium,900,1200,1000,14 Nov 2014
+740,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,03 Apr 2015
+741,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,07 Mar 2015
+742,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,13 Apr 2015
+743,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,17 Mar 2015
+744,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,23 Apr 2015
+745,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,24 Jul 2015
+746,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,30 Jul 2015
+747,West Godavari,Kovvur,Potato,Potato,Medium,1300,1700,1500,07 May 2015
+748,West Godavari,Kovvur,Potato,Potato,Medium,1600,2000,1800,15 Jan 2015
+749,West Godavari,Kovvur,Potato,Potato,Medium,1600,2000,1800,16 Jan 2015
+750,West Godavari,Kovvur,Potato,Potato,Medium,2200,2600,2400,23 Dec 2014
+751,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,06 Oct 2014
+752,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,06 Sep 2014
+753,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,22 Nov 2014
+754,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,20 Sep 2014
+755,Prakasam,Ongole(Rythu Bazar),Potato,Kuber,Medium,1700,2000,1800,21 May 2015
+756,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1400,1600,1500,09 Apr 2015
+757,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1400,1800,1600,11 Apr 2015
+758,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1500,1800,1600,03 Apr 2015
+759,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,06 Apr 2015
+760,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,06 May 2015
+761,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,14 May 2015
+762,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,23 May 2015
+763,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,12 Mar 2015
+764,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,13 Mar 2015
+765,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,18 Feb 2015
+766,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,23 Jun 2015
+767,Krishna,Vijayawada,Potato,Potato,FAQ,1600,1800,1700,23 Dec 2014
+768,Krishna,Vijayawada,Potato,Potato,FAQ,1800,2000,1900,12 Jan 2015
+769,Krishna,Vijayawada,Potato,Potato,FAQ,2700,2900,2800,29 Sep 2014
+770,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,04 Jan 2015
+771,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,10 Nov 2014
+772,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,05 Jul 2015
+773,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,17 Jun 2015
+774,Krishna,Vijayawada,Potato,Potato,FAQ,1600,1800,1700,01 Feb 2015
+775,Krishna,Vijayawada,Potato,Potato,FAQ,1700,1900,1800,20 Jan 2015
+776,Krishna,Vijayawada,Potato,Potato,FAQ,1800,2000,1900,02 Jan 2015
+777,Krishna,Vijayawada,Potato,Potato,FAQ,1800,2000,1900,07 Jan 2015
+778,Krishna,Vijayawada,Potato,Potato,FAQ,2600,2800,2700,05 Jan 2015
+779,Krishna,Vijayawada,Potato,Potato,FAQ,2700,2900,2800,26 Sep 2014
+780,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,07 Sep 2014
+781,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,14 Jan 2015
+782,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,31 Oct 2014
+783,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,19 Nov 2014
+784,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,01 Dec 2014
+785,Krishna,Vijayawada,Potato,Potato,FAQ,3100,3300,3200,06 Dec 2014
+786,Krishna,Vijayawada,Potato,Potato,FAQ,2400,2600,2500,10 Jan 2015
+787,Krishna,Vijayawada,Potato,Potato,FAQ,2700,2900,2800,24 Sep 2014
+788,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,05 Oct 2014
+789,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,09 Sep 2014
+790,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,20 Oct 2014
+791,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,28 Oct 2014
+792,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,09 Nov 2014
+793,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,08 Dec 2014
+794,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,25 Nov 2014
+795,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,14 Oct 2014
+796,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,26 Oct 2014
+797,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,08 Jul 2015
+798,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,08 Mar 2015
+799,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,10 Mar 2015
+800,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,29 Jun 2015
+801,Krishna,Vijayawada,Potato,Potato,FAQ,2600,2800,2700,03 Jan 2015
+802,Krishna,Vijayawada,Potato,Potato,FAQ,2600,2800,2700,08 Jan 2015
+803,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,02 Sep 2014
+804,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,06 Sep 2014
+805,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,08 Sep 2014
+806,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,13 Sep 2014
+807,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,17 Sep 2014
+808,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,18 Sep 2014
+809,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,20 Sep 2014
+810,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,24 Oct 2014
+811,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,05 Nov 2014
+812,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,11 Nov 2014
+813,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,15 Dec 2014
+814,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,15 Nov 2014
+815,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,01 May 2015
+816,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,02 Apr 2015
+817,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,28 May 2015
+818,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,30 Jun 2015
+819,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,16,16,16,09 Apr 2015
+820,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,18,18,18,02 Apr 2015
+821,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,01 Jul 2015
+822,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,11 Jul 2015
+823,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,12 Aug 2015
+824,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,13 Jul 2015
+825,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,14 Aug 2015
+826,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,14 May 2015
+827,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,18 Aug 2015
+828,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,18 Jul 2015
+829,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,31 Jul 2015
+830,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,13 Sep 2014
+831,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,05 Apr 2015
+832,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,06 Mar 2015
+833,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,10 Mar 2015
+834,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,25 Mar 2015
+835,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,27 Jul 2015
+836,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,01 May 2015
+837,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,03 Mar 2015
+838,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,09 Aug 2015
+839,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,11 May 2015
+840,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,20 Aug 2015
+841,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,26 May 2015
+842,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,27 Aug 2015
+843,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,29 Aug 2015
+844,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,13 May 2015
+845,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,19 May 2015
+846,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,28 Aug 2015
+847,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,31 Jan 2015
+848,West Godavari,Kovvur,Potato,Potato,Medium,1200,1600,1400,27 Jun 2015
+849,West Godavari,Kovvur,Potato,Potato,Medium,1800,2200,2000,19 Jan 2015
+850,West Godavari,Kovvur,Potato,Potato,Medium,2300,2700,2500,17 Dec 2014
+851,West Godavari,Kovvur,Potato,Potato,Medium,2500,2900,2700,29 Oct 2014
+852,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,02 Nov 2014
+853,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,04 Sep 2014
+854,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,09 Nov 2014
+855,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,10 Jan 2015
+856,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,19 Nov 2014
+857,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,21 Oct 2014
+858,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,24 Oct 2014
+859,West Godavari,Kovvur,Potato,Potato,Medium,2900,3200,3000,19 Oct 2014
+860,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,23 Sep 2014
+861,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1600,1800,1700,08 May 2015
+862,Chittor,Tirupati,Potato,Potato,Medium,14,18,16,17 Aug 2015
+863,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,07 Apr 2015
+864,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,03 Jun 2015
+865,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,06 Aug 2015
+866,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,31 Aug 2015
+867,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,01 Mar 2015
+868,Krishna,Vijayawada,Potato,Potato,FAQ,1500,1700,1600,25 Feb 2015
+869,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,02 Nov 2014
+870,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,04 Sep 2014
+871,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,12 Sep 2014
+872,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,13 Nov 2014
+873,Krishna,Vijayawada,Potato,Potato,FAQ,3100,3300,3200,02 Dec 2014
+874,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,16,20,18,27 May 2015
+875,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,05 Jun 2015
+876,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1600,2000,1800,20 Jun 2015
+877,Chittor,Chittor(Rythu Bazar),Potato,Chips,Large,1800,2200,2000,31 Aug 2015
+878,West Godavari,"Eluru(P.Sri.Mkt),RBZ",Potato,Potato,Medium,1400,1400,1400,27 Jun 2015
+879,West Godavari,"Eluru-II,RBZ",Potato,Potato,Medium,16,16,16,17 Apr 2015
+880,Srikakulam,Ichapuram,Potato,Potato,Medium,400,600,500,19 Apr 2015
+881,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,09 May 2015
+882,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,12 May 2015
+883,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,14 Jun 2015
+884,Srikakulam,Ichapuram,Potato,Potato,Medium,500,700,600,19 Jul 2015
+885,Srikakulam,Ichapuram,Potato,Potato,Medium,600,800,700,11 Jun 2015
+886,Srikakulam,Ichapuram,Potato,Potato,Medium,700,1000,800,03 Sep 2014
+887,West Godavari,Kovvur,Potato,Potato,Medium,700,1100,900,22 Mar 2015
+888,West Godavari,Kovvur,Potato,Potato,Medium,800,1100,900,23 Mar 2015
+889,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,09 Mar 2015
+890,West Godavari,Kovvur,Potato,Potato,Medium,800,1200,1000,16 Mar 2015
+891,West Godavari,Kovvur,Potato,Potato,Medium,900,1300,1100,25 Jul 2015
+892,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,06 Feb 2015
+893,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,08 Feb 2015
+894,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,15 May 2015
+895,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,19 Feb 2015
+896,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,20 Jul 2015
+897,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,27 Feb 2015
+898,West Godavari,Kovvur,Potato,Potato,Medium,1000,1400,1200,28 Jul 2015
+899,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,22 Jun 2015
+900,West Godavari,Kovvur,Potato,Potato,Medium,1100,1500,1300,24 Jun 2015
+901,West Godavari,Kovvur,Potato,Potato,Medium,2000,2400,2200,30 Dec 2014
+902,West Godavari,Kovvur,Potato,Potato,Medium,2300,2700,2500,26 Dec 2014
+903,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,02 Oct 2014
+904,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,08 Nov 2014
+905,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,17 Nov 2014
+906,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,20 Nov 2014
+907,West Godavari,Kovvur,Potato,Potato,Medium,2800,3200,3000,24 Nov 2014
+908,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,10 Oct 2014
+909,West Godavari,Kovvur,Potato,Potato,Medium,3000,3400,3200,15 Sep 2014
+910,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1500,1800,1700,29 Apr 2015
+911,Prakasam,Ongole(Rythu Bazar),Potato,Local,Medium,1600,1800,1700,07 May 2015
+912,Krishna,Vijayawada,Potato,Other,FAQ,1200,1400,1300,05 Apr 2015
+913,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,01 Apr 2015
+914,Krishna,Vijayawada,Potato,Potato,FAQ,1200,1400,1300,10 Apr 2015
+915,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,16 Jul 2015
+916,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,18 Mar 2015
+917,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,20 May 2015
+918,Krishna,Vijayawada,Potato,Potato,FAQ,1300,1500,1400,22 May 2015
+919,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,02 Mar 2015
+920,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,05 Aug 2015
+921,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,16 Jun 2015
+922,Krishna,Vijayawada,Potato,Potato,FAQ,1400,1600,1500,28 Feb 2015
+923,Krishna,Vijayawada,Potato,Potato,FAQ,1600,1800,1700,23 Feb 2015
+924,Krishna,Vijayawada,Potato,Potato,FAQ,2200,2400,2300,25 Dec 2014
+925,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,01 Sep 2014
+926,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,02 Oct 2014
+927,Krishna,Vijayawada,Potato,Potato,FAQ,2800,3000,2900,08 Nov 2014
+928,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,14 Nov 2014
+929,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,16 Nov 2014
+930,Krishna,Vijayawada,Potato,Potato,FAQ,2900,3100,3000,18 Nov 2014
+931,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,20 Nov 2014
+932,Krishna,Vijayawada,Potato,Potato,FAQ,3000,3200,3100,24 Nov 2014

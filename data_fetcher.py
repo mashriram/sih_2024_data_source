@@ -242,6 +242,24 @@ if __name__ == "__main__":
     year_ranges = get_dates(datetime.now())(10)
     # print(year_ranges)
 
-    commodities = {23: "Onion"}
+    # commodities = {23: "Onion"}
+    commodities = {
+        3: "Rice",
+        1: "wheat",
+        263: "Gram dal",
+        260: "tur dal",
+        264: "urad dal",
+        265: "moong dal",
+        259: "masur dal",
+        267: "Groundnut oil",
+        324: "mustard oil",
+        273: "vanaspati",
+        24: "Potato",
+        23: "onion",
+        78: "tomato",
+        48: "Sugar",
+        74: "gur",
+        44: "tea",
+    }
 
     get_data_from_website()

@@ -1,0 +1,903 @@
+0,1,2,3,4,5,6,7,8,9
+1,Sirohi,Abu Road,Sugar,Other,FAQ,2150,2200,2155,07 Aug 2015
+2,Sirohi,Abu Road,Sugar,Other,FAQ,2150,2200,2155,08 Aug 2015
+3,Sirohi,Abu Road,Sugar,S-30,FAQ,2925,2975,2950,07 Jan 2015
+4,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2210,2340,2300,20 Jul 2015
+5,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2230,2310,2305,18 Jul 2015
+6,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2235,2400,2340,17 Jul 2015
+7,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2260,2425,2400,22 Jul 2015
+8,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2290,2430,2340,15 Jul 2015
+9,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2310,2790,2480,28 Jul 2015
+10,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2320,2380,2340,16 Jul 2015
+11,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2340,2480,2460,04 Jul 2015
+12,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2350,2480,2440,25 Jul 2015
+13,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2360,2480,2430,08 Jul 2015
+14,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2380,2490,2410,11 Jul 2015
+15,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2380,2745,2540,30 Jul 2015
+16,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2390,2490,2440,10 Jul 2015
+17,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2390,2690,2465,29 Jul 2015
+18,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2400,2480,2430,13 Jul 2015
+19,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2400,2550,2440,06 Jul 2015
+20,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2410,2730,2480,05 Aug 2015
+21,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2415,2765,2455,04 Aug 2015
+22,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2430,2460,2460,06 Aug 2015
+23,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2430,2790,2610,08 Aug 2015
+24,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2440,2690,2610,03 Aug 2015
+25,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2440,2740,2665,11 Aug 2015
+26,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2440,2795,2670,15 Aug 2015
+27,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2450,2720,2630,01 Aug 2015
+28,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2450,2730,2680,10 Aug 2015
+29,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2465,2735,2640,12 Aug 2015
+30,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2465,2740,2670,18 Aug 2015
+31,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2470,2780,2630,17 Aug 2015
+32,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2500,2740,2630,31 Aug 2015
+33,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2510,2730,2680,29 Aug 2015
+34,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2530,2740,2635,22 Aug 2015
+35,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2530,2750,2615,21 Aug 2015
+36,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2545,2740,2690,01 Sep 2015
+37,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2550,2730,2670,24 Aug 2015
+38,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2560,2740,2650,14 Aug 2015
+39,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2580,2780,2660,28 Aug 2015
+40,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2590,2790,2740,27 Aug 2015
+41,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2670,2810,2790,20 Jun 2015
+42,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2680,3080,3075,27 Mar 2015
+43,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2710,2810,2740,09 Apr 2015
+44,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2710,2815,2785,30 Jun 2015
+45,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2710,2830,2740,08 Apr 2015
+46,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2710,2840,2730,07 Apr 2015
+47,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2730,2800,2785,22 Jun 2015
+48,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2730,2810,2780,24 Jun 2015
+49,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2730,2840,2775,23 Jun 2015
+50,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2730,2860,2840,06 Jun 2015
+51,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2740,2850,2825,08 May 2015
+52,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2740,2890,2840,28 May 2015
+53,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2770,2880,2820,31 Mar 2015
+54,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2780,2850,2810,23 Apr 2015
+55,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2780,2910,2890,13 Apr 2015
+56,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2840,2800,04 Jun 2015
+57,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2860,2830,01 Jul 2015
+58,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2860,2830,01 Jun 2015
+59,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2890,2830,27 Jun 2015
+60,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2890,2835,09 Jun 2015
+61,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2890,2840,11 Jun 2015
+62,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2895,2840,11 Apr 2015
+63,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2895,2845,10 Jun 2015
+64,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2920,2855,11 May 2015
+65,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2790,2990,2830,29 May 2015
+66,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2800,2840,2820,28 Apr 2015
+67,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2800,2850,2830,02 Jun 2015
+68,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2800,2890,2830,16 May 2015
+69,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2800,2895,2860,12 Jun 2015
+70,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2810,2865,2850,17 Apr 2015
+71,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2810,2870,2830,24 Apr 2015
+72,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2810,2880,2860,20 Apr 2015
+73,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2810,2885,2845,15 Jun 2015
+74,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2810,2890,2850,10 Apr 2015
+75,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2810,2910,2870,16 Apr 2015
+76,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2810,2950,2830,09 May 2015
+77,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2810,2950,2830,28 Mar 2015
+78,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2810,2980,2920,03 Jun 2015
+79,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2815,2890,2850,13 Jun 2015
+80,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2815,2890,2875,12 May 2015
+81,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2820,2890,2830,15 Apr 2015
+82,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2830,2940,2920,25 May 2015
+83,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2835,2880,2840,27 Apr 2015
+84,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2840,2880,2860,22 Apr 2015
+85,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2840,2910,2875,17 Jun 2015
+86,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2850,2890,2870,18 Apr 2015
+87,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2860,2890,2875,16 Jun 2015
+88,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2880,2920,2900,23 May 2015
+89,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2880,2920,2910,15 May 2015
+90,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2890,3090,2900,12 Mar 2015
+91,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2890,3110,2920,04 Mar 2015
+92,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2900,2990,2910,11 Mar 2015
+93,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2900,3000,2910,03 Mar 2015
+94,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2900,3010,2910,20 Jan 2015
+95,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2900,3080,2910,13 Mar 2015
+96,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2910,2990,2930,18 Mar 2015
+97,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2910,2990,2945,20 Mar 2015
+98,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2910,2990,2985,21 Mar 2015
+99,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2910,3000,2985,26 Mar 2015
+100,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2910,3090,2980,16 Jan 2015
+101,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2910,3090,3050,10 Dec 2014
+102,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2925,3095,3070,12 Dec 2014
+103,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2930,2985,2975,23 Mar 2015
+104,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2930,3090,3070,11 Dec 2014
+105,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2930,3100,3075,17 Dec 2014
+106,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2960,3070,2990,13 Dec 2014
+107,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2960,3110,3080,21 Jan 2015
+108,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2970,3010,2980,25 Mar 2015
+109,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2980,3080,3050,08 Dec 2014
+110,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2980,3110,2995,19 Mar 2015
+111,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2990,3070,3060,07 Jan 2015
+112,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2990,3080,3010,01 Dec 2014
+113,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,2990,3100,3050,16 Dec 2014
+114,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3050,3010,26 Dec 2014
+115,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3080,3010,29 Nov 2014
+116,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3090,3010,05 Jan 2015
+117,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3090,3010,24 Jan 2015
+118,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3090,3080,08 Jan 2015
+119,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3095,3085,21 Feb 2015
+120,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3100,3090,09 Feb 2015
+121,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3110,3080,02 Jan 2015
+122,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3150,3050,11 Nov 2014
+123,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3000,3210,3050,28 Nov 2014
+124,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3040,3030,03 Jan 2015
+125,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3060,3050,06 Jan 2015
+126,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3090,3050,30 Dec 2014
+127,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3090,3060,04 Dec 2014
+128,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3095,3055,05 Dec 2014
+129,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3095,3085,26 Feb 2015
+130,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3100,3030,27 Jan 2015
+131,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3100,3090,23 Feb 2015
+132,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3110,3050,23 Jan 2015
+133,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3110,3060,09 Jan 2015
+134,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3110,3060,28 Jan 2015
+135,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3110,3075,29 Dec 2014
+136,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3110,3090,10 Jan 2015
+137,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3110,3090,31 Jan 2015
+138,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3110,3095,13 Feb 2015
+139,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3115,3075,12 Feb 2015
+140,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3115,3090,07 Feb 2015
+141,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3130,3060,23 Dec 2014
+142,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3190,3085,19 Jan 2015
+143,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3010,3210,3125,18 Dec 2014
+144,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3015,3110,3025,31 Dec 2014
+145,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3015,3211,3190,27 Nov 2014
+146,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3025,3190,3090,20 Dec 2014
+147,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3030,3075,3065,24 Mar 2015
+148,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3040,3125,3090,04 Feb 2015
+149,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3050,3090,3070,02 Dec 2014
+150,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3050,3100,3075,22 Jan 2015
+151,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3050,3110,3090,25 Dec 2014
+152,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3050,3170,3100,12 Nov 2014
+153,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3050,3230,3180,25 Nov 2014
+154,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3060,3110,3070,13 Jan 2015
+155,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3070,3090,3080,10 Feb 2015
+156,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3070,3090,3080,11 Feb 2015
+157,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3070,3095,3075,27 Feb 2015
+158,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3070,3110,3075,18 Feb 2015
+159,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3070,3110,3080,17 Jan 2015
+160,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3070,3110,3090,14 Feb 2015
+161,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3070,3110,3090,20 Feb 2015
+162,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3075,3115,3085,16 Feb 2015
+163,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3075,3180,3080,22 Dec 2014
+164,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3080,3110,3095,05 Feb 2015
+165,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3080,3110,3095,17 Feb 2015
+166,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3080,3110,3105,12 Jan 2015
+167,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3090,3110,3100,09 Dec 2014
+168,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3090,3120,3110,03 Feb 2015
+169,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3090,3120,3110,06 Feb 2015
+170,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3090,3130,3120,15 Jan 2015
+171,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3090,3170,3110,14 Jan 2015
+172,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3090,3210,3180,26 Nov 2014
+173,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3100,3210,3150,19 Nov 2014
+174,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3110,3310,3190,21 Nov 2014
+175,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3110,3350,3315,17 Nov 2014
+176,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3110,3360,3310,14 Nov 2014
+177,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3111,3350,3310,15 Nov 2014
+178,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3145,3650,3190,27 Oct 2014
+179,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3150,3290,3160,20 Nov 2014
+180,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3150,3640,3195,22 Oct 2014
+181,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3150,3650,3190,21 Oct 2014
+182,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3190,3310,3200,22 Nov 2014
+183,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3190,3550,3210,18 Nov 2014
+184,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3200,3550,3330,15 Sep 2014
+185,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3200,3630,3310,10 Sep 2014
+186,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3200,3640,3315,16 Sep 2014
+187,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3200,3650,3220,13 Sep 2014
+188,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3200,3650,3350,20 Sep 2014
+189,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3200,3650,3350,22 Sep 2014
+190,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3210,3490,3450,07 Nov 2014
+191,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3210,3600,3260,09 Sep 2014
+192,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3210,3700,3280,01 Sep 2014
+193,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3225,3600,3260,02 Sep 2014
+194,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3225,3650,3265,08 Sep 2014
+195,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3230,3390,3310,05 Sep 2014
+196,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3230,3580,3370,08 Oct 2014
+197,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3235,3590,3275,01 Oct 2014
+198,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3270,3660,3380,29 Sep 2014
+199,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3320,3590,3390,09 Oct 2014
+200,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3340,3490,3385,10 Oct 2014
+201,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3350,3470,3400,15 Oct 2014
+202,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3350,3490,3390,13 Oct 2014
+203,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3360,3480,3410,14 Oct 2014
+204,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3360,3480,3410,16 Oct 2014
+205,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3400,3600,3415,31 Oct 2014
+206,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3400,3610,3410,28 Oct 2014
+207,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3410,3510,3450,20 Oct 2014
+208,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3430,3510,3490,17 Oct 2014
+209,Ajmer,Ajmer (Grain),Sugar,Other,FAQ,3455,3611,3550,03 Nov 2014
+210,Alwar,Alwar,Sugar,Other,FAQ,7400,7600,7500,27 Mar 2015
+211,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2250,2300,2270,03 Aug 2015
+212,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2300,2450,2375,04 Aug 2015
+213,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2300,2450,2375,05 Aug 2015
+214,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2300,2500,2400,28 Jul 2015
+215,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2475,2387,10 Aug 2015
+216,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2475,2412,06 Aug 2015
+217,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2475,2413,07 Aug 2015
+218,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2500,2425,13 Jul 2015
+219,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2500,2425,16 Jul 2015
+220,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2500,2425,20 Jul 2015
+221,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2500,2425,22 Jul 2015
+222,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2500,2425,24 Jul 2015
+223,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2500,2425,29 Jul 2015
+224,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2535,2450,10 Jul 2015
+225,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2350,2550,2450,15 Jul 2015
+226,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2375,2700,2540,08 Jul 2015
+227,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2550,2475,14 Aug 2015
+228,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2550,2500,12 Aug 2015
+229,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2600,2500,01 Jul 2015
+230,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2600,2500,09 Jul 2015
+231,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2600,2500,14 Jul 2015
+232,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2600,2500,17 Jul 2015
+233,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2600,2500,19 Aug 2015
+234,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2600,2500,21 Jul 2015
+235,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2600,2500,24 Jun 2015
+236,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2700,2550,03 Jul 2015
+237,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2700,2550,06 Jul 2015
+238,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2700,2550,07 Jul 2015
+239,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2700,2550,29 Jun 2015
+240,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2400,2700,2550,30 Jun 2015
+241,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2450,2550,2500,11 Aug 2015
+242,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2450,2550,2500,17 Aug 2015
+243,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2450,2575,2507,13 Aug 2015
+244,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2450,2600,2525,18 Aug 2015
+245,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2450,2600,2525,20 Aug 2015
+246,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2450,2600,2525,21 Aug 2015
+247,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2450,2600,2525,24 Aug 2015
+248,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2500,2600,2550,22 Jun 2015
+249,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2500,2600,2550,29 May 2015
+250,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2500,2600,2550,31 Aug 2015
+251,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2500,2700,2600,28 Aug 2015
+252,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2500,2800,2650,26 Jun 2015
+253,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2650,2625,25 Aug 2015
+254,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2700,2650,11 Jun 2015
+255,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2700,2650,12 Jun 2015
+256,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2700,2650,15 Jun 2015
+257,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2700,2650,17 Jun 2015
+258,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2750,2675,18 Jun 2015
+259,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2750,2675,23 Jun 2015
+260,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2800,2700,05 Jan 2015
+261,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2800,2700,07 Jan 2015
+262,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2800,2700,09 Jun 2015
+263,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2800,2700,10 Jun 2015
+264,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2800,2700,19 Jun 2015
+265,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2800,2700,21 May 2015
+266,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2600,2800,2700,25 Jun 2015
+267,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2650,2800,2700,26 May 2015
+268,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,01 Jun 2015
+269,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,02 Jun 2015
+270,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,03 Jun 2015
+271,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,04 Jun 2015
+272,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,05 Jun 2015
+273,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,07 May 2015
+274,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,08 Jun 2015
+275,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,08 May 2015
+276,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,11 May 2015
+277,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,12 Jan 2015
+278,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,12 May 2015
+279,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,13 May 2015
+280,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,14 May 2015
+281,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,15 May 2015
+282,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2800,2750,28 May 2015
+283,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2850,2775,18 May 2015
+284,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,02 Feb 2015
+285,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,02 Jan 2015
+286,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,02 Mar 2015
+287,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,03 Feb 2015
+288,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,03 Mar 2015
+289,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,04 Feb 2015
+290,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,04 Mar 2015
+291,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,05 Feb 2015
+292,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,06 Feb 2015
+293,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,06 Jan 2015
+294,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,08 Jan 2015
+295,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,09 Feb 2015
+296,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,09 Jan 2015
+297,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,10 Feb 2015
+298,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,11 Mar 2015
+299,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,12 Feb 2015
+300,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,13 Feb 2015
+301,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,13 Jan 2015
+302,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,15 Jan 2015
+303,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,16 Feb 2015
+304,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,16 Jan 2015
+305,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,18 Feb 2015
+306,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,19 Dec 2014
+307,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,19 Feb 2015
+308,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,19 May 2015
+309,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,20 Feb 2015
+310,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,21 Jan 2015
+311,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,22 Dec 2014
+312,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,22 Jan 2015
+313,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,22 May 2015
+314,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,23 Feb 2015
+315,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,23 Jan 2015
+316,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,24 Apr 2015
+317,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,24 Dec 2014
+318,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,24 Feb 2015
+319,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,25 Feb 2015
+320,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,25 May 2015
+321,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,26 Feb 2015
+322,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,27 Apr 2015
+323,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,27 Feb 2015
+324,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,27 Jan 2015
+325,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,28 Apr 2015
+326,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,28 Jan 2015
+327,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,29 Dec 2014
+328,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,29 Jan 2015
+329,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,30 Dec 2014
+330,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,30 Jan 2015
+331,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,2900,2800,31 Dec 2014
+332,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,3000,2850,09 Mar 2015
+333,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,3000,2850,10 Mar 2015
+334,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,3000,2850,12 Mar 2015
+335,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,3000,2850,16 Mar 2015
+336,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2700,3000,2850,19 Jan 2015
+337,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2725,2900,2813,30 Apr 2015
+338,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2800,2900,2850,01 May 2015
+339,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2800,2900,2850,04 May 2015
+340,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2800,2900,2850,05 May 2015
+341,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2800,2900,2850,06 May 2015
+342,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2800,2900,2850,29 Apr 2015
+343,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2800,3000,2900,26 Dec 2014
+344,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2900,3000,2950,16 Dec 2014
+345,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2900,3000,2950,17 Dec 2014
+346,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2900,3000,2950,18 Dec 2014
+347,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,2900,3000,2950,26 Nov 2014
+348,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,01 Dec 2014
+349,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,02 Dec 2014
+350,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,03 Dec 2014
+351,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,04 Dec 2014
+352,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,05 Dec 2014
+353,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,08 Dec 2014
+354,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,09 Dec 2014
+355,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,10 Dec 2014
+356,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,11 Dec 2014
+357,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,12 Dec 2014
+358,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,12 Nov 2014
+359,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,15 Dec 2014
+360,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,27 Nov 2014
+361,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3100,3050,29 Nov 2014
+362,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3200,3100,25 Nov 2014
+363,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3000,3200,3100,28 Nov 2014
+364,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3300,3200,07 Nov 2014
+365,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3300,3200,10 Nov 2014
+366,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3300,3200,11 Nov 2014
+367,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3300,3200,13 Nov 2014
+368,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3300,3200,14 Nov 2014
+369,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3300,3200,17 Nov 2014
+370,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3300,3200,19 Nov 2014
+371,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3300,3200,20 Nov 2014
+372,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3300,3200,21 Nov 2014
+373,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3400,3300,03 Nov 2014
+374,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3400,3300,05 Nov 2014
+375,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3400,3300,30 Oct 2014
+376,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3100,3400,3300,31 Oct 2014
+377,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3200,3300,3250,29 Oct 2014
+378,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3200,3350,3250,22 Oct 2014
+379,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3200,3350,3300,20 Oct 2014
+380,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3200,3350,3300,21 Oct 2014
+381,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3200,3400,3300,24 Nov 2014
+382,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3300,3400,3350,27 Oct 2014
+383,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3300,3400,3350,28 Oct 2014
+384,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2250,2300,2270,01 Aug 2015
+385,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2250,2300,2270,03 Aug 2015
+386,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2250,2300,2275,31 Jul 2015
+387,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2300,2450,2375,04 Aug 2015
+388,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2300,2450,2375,05 Aug 2015
+389,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2300,2500,2400,28 Jul 2015
+390,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2325,2500,2413,13 Jul 2015
+391,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2475,2387,10 Aug 2015
+392,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2475,2412,06 Aug 2015
+393,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2475,2413,07 Aug 2015
+394,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2500,2400,23 Jul 2015
+395,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2500,2425,11 Jul 2015
+396,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2500,2425,16 Jul 2015
+397,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2500,2425,20 Jul 2015
+398,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2500,2425,24 Jul 2015
+399,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2550,2450,09 Jul 2015
+400,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2550,2450,10 Jul 2015
+401,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2350,2550,2450,15 Jul 2015
+402,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2375,2700,2540,08 Jul 2015
+403,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2550,2475,12 Aug 2015
+404,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2550,2475,14 Aug 2015
+405,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2550,2475,15 Aug 2015
+406,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2550,2475,17 Aug 2015
+407,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2600,2500,14 Jul 2015
+408,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2600,2500,17 Jul 2015
+409,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2600,2500,21 Jul 2015
+410,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2700,2550,03 Jul 2015
+411,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2700,2550,04 Jul 2015
+412,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2700,2550,06 Jul 2015
+413,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2700,2550,07 Jul 2015
+414,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2400,2700,2550,29 Jun 2015
+415,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2450,2575,2512,13 Aug 2015
+416,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2450,2600,2525,18 Aug 2015
+417,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2450,2600,2525,20 Aug 2015
+418,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2450,2600,2525,24 Aug 2015
+419,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2500,2600,2550,29 May 2015
+420,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2500,2650,2575,01 Sep 2015
+421,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2650,2625,25 Aug 2015
+422,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2650,2625,27 Aug 2015
+423,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2700,2650,13 Jun 2015
+424,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2700,2650,15 Jun 2015
+425,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2750,2675,18 Jun 2015
+426,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2750,2675,20 Jun 2015
+427,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2750,2675,23 Jun 2015
+428,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2800,2700,05 Jan 2015
+429,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2800,2700,07 Jan 2015
+430,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2800,2700,09 Jun 2015
+431,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2800,2700,10 Jun 2015
+432,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2800,2700,19 Jun 2015
+433,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2800,2700,24 Mar 2015
+434,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2800,2700,25 Jun 2015
+435,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2600,2800,2700,25 Mar 2015
+436,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2650,2800,2700,25 May 2015
+437,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2650,2800,2700,26 May 2015
+438,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2675,2800,2755,01 Jun 2015
+439,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2700,20 Dec 2014
+440,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,02 Jun 2015
+441,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,03 Jun 2015
+442,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,05 Jun 2015
+443,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,06 Jun 2015
+444,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,08 Jun 2015
+445,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,08 May 2015
+446,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,12 Jan 2015
+447,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,23 Mar 2015
+448,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,23 May 2015
+449,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,26 Mar 2015
+450,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2800,2750,27 Mar 2015
+451,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2850,2775,16 May 2015
+452,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2850,2775,18 May 2015
+453,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,01 Jan 2015
+454,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,02 Feb 2015
+455,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,02 Mar 2015
+456,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,03 Feb 2015
+457,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,03 Mar 2015
+458,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,04 Feb 2015
+459,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,06 Jan 2015
+460,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,08 Jan 2015
+461,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,09 Feb 2015
+462,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,09 Jan 2015
+463,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,10 Jan 2015
+464,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,11 Feb 2015
+465,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,11 Mar 2015
+466,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,12 Feb 2015
+467,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,13 Feb 2015
+468,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,13 Jan 2015
+469,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,14 Jan 2015
+470,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,16 Feb 2015
+471,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,18 Feb 2015
+472,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,19 Dec 2014
+473,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,19 Feb 2015
+474,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,19 May 2015
+475,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,20 Feb 2015
+476,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,20 Jan 2015
+477,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,22 Dec 2014
+478,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,22 Jan 2015
+479,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,22 May 2015
+480,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,23 Dec 2014
+481,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,23 Feb 2015
+482,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,24 Feb 2015
+483,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,24 Jan 2015
+484,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,25 Feb 2015
+485,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,26 Feb 2015
+486,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,27 Jan 2015
+487,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,28 Apr 2015
+488,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,28 Jan 2015
+489,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,29 Dec 2014
+490,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,30 Jan 2015
+491,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,30 May 2015
+492,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,2900,2800,31 Dec 2014
+493,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,3000,2850,05 Mar 2015
+494,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,3000,2850,09 Mar 2015
+495,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,3000,2850,10 Mar 2015
+496,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,3000,2850,11 May 2015
+497,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,3000,2850,12 Mar 2015
+498,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,3000,2850,13 Mar 2015
+499,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,3000,2850,16 Mar 2015
+500,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,3000,2850,17 Mar 2015
+501,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2700,3000,2850,19 Jan 2015
+502,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2800,2900,2850,04 May 2015
+503,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2800,2900,2850,06 May 2015
+504,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2800,3000,2900,18 Mar 2015
+505,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2900,3000,2950,16 Dec 2014
+506,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2900,3000,2950,17 Dec 2014
+507,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,2900,3000,2950,26 Nov 2014
+508,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,01 Dec 2014
+509,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,02 Dec 2014
+510,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,03 Dec 2014
+511,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,04 Dec 2014
+512,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,05 Dec 2014
+513,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,08 Dec 2014
+514,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,09 Dec 2014
+515,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,10 Dec 2014
+516,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,12 Dec 2014
+517,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,12 Nov 2014
+518,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,13 Dec 2014
+519,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,15 Dec 2014
+520,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3100,3050,27 Nov 2014
+521,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3000,3200,3100,29 Nov 2014
+522,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3300,3200,03 Oct 2014
+523,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3300,3200,06 Nov 2014
+524,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3300,3200,11 Nov 2014
+525,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3300,3200,13 Nov 2014
+526,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3300,3200,14 Nov 2014
+527,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3300,3200,17 Nov 2014
+528,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3300,3200,19 Nov 2014
+529,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3400,3300,01 Nov 2014
+530,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3400,3300,03 Nov 2014
+531,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3400,3300,04 Nov 2014
+532,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3100,3400,3300,05 Nov 2014
+533,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3200,3300,3250,15 Oct 2014
+534,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3200,3350,3300,20 Oct 2014
+535,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3200,3350,3300,21 Oct 2014
+536,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3250,3350,3300,26 Sep 2014
+537,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3250,3350,3300,27 Sep 2014
+538,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3250,3400,3300,18 Oct 2014
+539,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3350,3325,11 Oct 2014
+540,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3350,3325,13 Oct 2014
+541,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,03 Sep 2014
+542,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,07 Oct 2014
+543,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,09 Sep 2014
+544,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,10 Sep 2014
+545,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,11 Sep 2014
+546,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,14 Oct 2014
+547,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,15 Sep 2014
+548,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,16 Oct 2014
+549,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,22 Sep 2014
+550,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,27 Oct 2014
+551,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,28 Oct 2014
+552,Jaipur,Jaipur(Grain)(Chandpole),Sugar,Other,FAQ,3300,3400,3350,29 Sep 2014
+553,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2500,2650,2600,07 Apr 2015
+554,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2600,2680,2640,09 Apr 2015
+555,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2600,2700,2650,08 Apr 2015
+556,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2600,2700,2650,16 Apr 2015
+557,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2600,2710,2640,29 Apr 2015
+558,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2600,2750,2700,10 Apr 2015
+559,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2600,2760,2700,15 Apr 2015
+560,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2600,2800,2700,30 Mar 2015
+561,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2615,2655,2625,11 Apr 2015
+562,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2650,2750,2700,06 Apr 2015
+563,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2650,2750,2700,13 Apr 2015
+564,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2650,2750,2700,27 Mar 2015
+565,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2700,2780,2750,23 Feb 2015
+566,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2700,2795,2750,25 Apr 2015
+567,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2700,2800,2750,17 Apr 2015
+568,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2700,2800,2750,31 Mar 2015
+569,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2700,2810,2790,01 May 2015
+570,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2705,2810,2785,18 Apr 2015
+571,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2705,2815,2760,06 May 2015
+572,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2705,2825,2760,24 Apr 2015
+573,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2710,2801,2767,28 Apr 2015
+574,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2710,2815,2788,23 Apr 2015
+575,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2710,2910,2800,04 May 2015
+576,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2720,2810,2788,27 Apr 2015
+577,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2750,2810,2775,05 May 2015
+578,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2750,2850,2800,20 Feb 2015
+579,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2750,2850,2800,30 Apr 2015
+580,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2810,2805,27 Feb 2015
+581,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2815,2805,01 Mar 2015
+582,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2820,2810,18 Feb 2015
+583,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2830,2820,19 Feb 2015
+584,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2850,2820,25 Feb 2015
+585,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2850,2825,13 Feb 2015
+586,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2860,2820,16 Mar 2015
+587,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2860,2850,15 Feb 2015
+588,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2860,2850,17 Feb 2015
+589,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2877,2844,19 Mar 2015
+590,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2900,2850,10 Mar 2015
+591,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2900,2850,11 Feb 2015
+592,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2900,2850,12 Feb 2015
+593,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2900,2850,12 Mar 2015
+594,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2800,2910,2860,26 Mar 2015
+595,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2803,2888,2849,24 Mar 2015
+596,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2805,2825,2815,26 Feb 2015
+597,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2805,2825,2815,28 Feb 2015
+598,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2805,2830,2815,14 Mar 2015
+599,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2805,2830,2820,07 Mar 2015
+600,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2805,2868,2842,20 Mar 2015
+601,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2805,2870,2850,02 Mar 2015
+602,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2805,2870,2850,04 Mar 2015
+603,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2810,2846,2835,17 Mar 2015
+604,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2810,2850,2815,09 Mar 2015
+605,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2810,2860,2835,13 Mar 2015
+606,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2810,2899,2860,25 Mar 2015
+607,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2810,2900,2850,15 Mar 2015
+608,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2812,2865,2845,18 Mar 2015
+609,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2820,2835,2830,03 Mar 2015
+610,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2820,2900,2860,11 Mar 2015
+611,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2820,2900,2860,21 Mar 2015
+612,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2825,2910,2870,23 Mar 2015
+613,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2850,2950,2900,06 Feb 2015
+614,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2850,2950,2900,10 Feb 2015
+615,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2850,2950,2900,16 Feb 2015
+616,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2900,3000,2950,05 Feb 2015
+617,Chittorgarh,Kapasan,Sugar,Shakkar,FAQ,2900,3000,2950,09 Feb 2015
+618,Ajmer,Madanganj Kishangarh,Sugar,Other,FAQ,3100,3100,3100,08 Dec 2014
+619,Ajmer,Madanganj Kishangarh,Sugar,Other,FAQ,3400,3400,3400,13 Dec 2014
+620,Ajmer,Madanganj Kishangarh,Sugar,Other,FAQ,3400,3400,3400,16 Dec 2014
+621,Ajmer,Madanganj Kishangarh,Sugar,Other,FAQ,3400,3400,3400,23 Dec 2014
+622,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,01 Aug 2015
+623,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,21 Jul 2015
+624,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,22 Jul 2015
+625,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,24 Jul 2015
+626,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,25 Jul 2015
+627,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,27 Jul 2015
+628,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,28 Jul 2015
+629,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,29 Jul 2015
+630,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,30 Jul 2015
+631,Pali,Pali,Sugar,Other,FAQ,2250,2350,2300,31 Jul 2015
+632,Pali,Pali,Sugar,Other,FAQ,2275,2350,2312,30 Jun 2015
+633,Pali,Pali,Sugar,Other,FAQ,2300,2300,2300,05 Aug 2015
+634,Pali,Pali,Sugar,Other,FAQ,2300,2300,2300,10 Jul 2015
+635,Pali,Pali,Sugar,Other,FAQ,2300,2300,2300,12 Jul 2015
+636,Pali,Pali,Sugar,Other,FAQ,2300,2300,2300,13 Jul 2015
+637,Pali,Pali,Sugar,Other,FAQ,2300,2300,2300,14 Jul 2015
+638,Pali,Pali,Sugar,Other,FAQ,2350,2350,2350,06 Aug 2015
+639,Pali,Pali,Sugar,Other,FAQ,2350,2350,2350,08 Aug 2015
+640,Pali,Pali,Sugar,Other,FAQ,2350,2350,2350,10 Aug 2015
+641,Pali,Pali,Sugar,Other,FAQ,2400,2700,2550,11 Aug 2015
+642,Pali,Pali,Sugar,Other,FAQ,2550,2575,2563,11 Jun 2015
+643,Pali,Pali,Sugar,Other,FAQ,2550,2575,2563,12 Jun 2015
+644,Pali,Pali,Sugar,Other,FAQ,2600,2700,2650,01 Sep 2015
+645,Pali,Pali,Sugar,Other,FAQ,2600,2700,2650,14 Aug 2015
+646,Pali,Pali,Sugar,Other,FAQ,2600,2700,2650,17 Aug 2015
+647,Pali,Pali,Sugar,Other,FAQ,2600,2700,2650,18 Aug 2015
+648,Pali,Pali,Sugar,Other,FAQ,2600,2700,2650,19 Aug 2015
+649,Pali,Pali,Sugar,Other,FAQ,2600,2700,2650,21 Aug 2015
+650,Pali,Pali,Sugar,Other,FAQ,2600,2700,2650,24 Aug 2015
+651,Pali,Pali,Sugar,Other,FAQ,2600,2700,2650,25 Aug 2015
+652,Pali,Pali,Sugar,Other,FAQ,2600,2700,2650,29 Aug 2015
+653,Pali,Pali,Sugar,Other,FAQ,2650,2650,2650,12 Aug 2015
+654,Pali,Pali,Sugar,Other,FAQ,2650,2650,2650,13 Aug 2015
+655,Pali,Pali,Sugar,Other,FAQ,2650,2750,2700,06 May 2015
+656,Pali,Pali,Sugar,Other,FAQ,2650,2750,2700,09 May 2015
+657,Pali,Pali,Sugar,Other,FAQ,2650,2750,2700,12 May 2015
+658,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,06 Jun 2015
+659,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,08 Jun 2015
+660,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,10 Apr 2015
+661,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,16 Jun 2015
+662,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,16 May 2015
+663,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,18 Apr 2015
+664,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,20 Apr 2015
+665,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,22 Apr 2015
+666,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,23 May 2015
+667,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,24 Apr 2015
+668,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,25 May 2015
+669,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,28 Apr 2015
+670,Pali,Pali,Sugar,Other,FAQ,2900,3000,2950,29 Apr 2015
+671,Pali,Pali,Sugar,Other,FAQ,2900,3250,3075,27 Jun 2015
+672,Pali,Pali,Sugar,Other,FAQ,2950,2950,2950,05 Jun 2015
+673,Pali,Pali,Sugar,Other,FAQ,2950,2950,2950,19 May 2015
+674,Pali,Pali,Sugar,Other,FAQ,2950,3250,3100,22 Jun 2015
+675,Pali,Pali,Sugar,Other,FAQ,3000,3100,3050,21 Jan 2015
+676,Pali,Pali,Sugar,Other,FAQ,3000,3100,3050,29 Jan 2015
+677,Pali,Pali,Sugar,Other,FAQ,3050,3050,3050,24 Jan 2015
+678,Pali,Pali,Sugar,Other,FAQ,3050,3050,3050,28 Jan 2015
+679,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,02 Feb 2015
+680,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,03 Dec 2014
+681,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,03 Feb 2015
+682,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,05 Feb 2015
+683,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,05 Mar 2015
+684,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,07 Feb 2015
+685,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,09 Feb 2015
+686,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,12 Feb 2015
+687,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,16 Feb 2015
+688,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,19 Jan 2015
+689,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,23 Feb 2015
+690,Pali,Pali,Sugar,Other,FAQ,3100,3200,3150,30 Jan 2015
+691,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,04 Apr 2015
+692,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,11 Feb 2015
+693,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,13 Feb 2015
+694,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,13 Jan 2015
+695,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,13 Mar 2015
+696,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,15 Jan 2015
+697,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,16 Jan 2015
+698,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,18 Feb 2015
+699,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,19 Mar 2015
+700,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,20 Jan 2015
+701,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,21 Feb 2015
+702,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,25 Mar 2015
+703,Pali,Pali,Sugar,Other,FAQ,3150,3150,3150,28 Mar 2015
+704,Pali,Pali,Sugar,Other,FAQ,3200,3300,3250,05 Jan 2015
+705,Pali,Pali,Sugar,Other,FAQ,3200,3300,3250,07 Jan 2015
+706,Pali,Pali,Sugar,Other,FAQ,3200,3300,3250,15 Dec 2014
+707,Pali,Pali,Sugar,Other,FAQ,3200,3300,3250,16 Dec 2014
+708,Pali,Pali,Sugar,Other,FAQ,3200,3300,3250,18 Dec 2014
+709,Pali,Pali,Sugar,Other,FAQ,3200,3300,3250,29 Dec 2014
+710,Pali,Pali,Sugar,Other,FAQ,3225,3250,3237,09 Sep 2014
+711,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,01 Jan 2015
+712,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,02 Jan 2015
+713,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,03 Jan 2015
+714,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,06 Jan 2015
+715,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,10 Jan 2015
+716,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,17 Dec 2014
+717,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,20 Dec 2014
+718,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,23 Dec 2014
+719,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,24 Dec 2014
+720,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,25 Dec 2014
+721,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,26 Dec 2014
+722,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,30 Dec 2014
+723,Pali,Pali,Sugar,Other,FAQ,3250,3250,3250,31 Dec 2014
+724,Pali,Pali,Sugar,Other,FAQ,3300,3300,3300,08 Jan 2015
+725,Pali,Pali,Sugar,Other,FAQ,3400,3500,3450,02 Sep 2014
+726,Pali,Pali,Sugar,Other,FAQ,3400,3500,3450,04 Oct 2014
+727,Pali,Pali,Sugar,Other,FAQ,3400,3500,3450,15 Sep 2014
+728,Pali,Pali,Sugar,Other,FAQ,3400,3500,3450,26 Sep 2014
+729,Pali,Pali,Sugar,Other,FAQ,3400,3500,3450,29 Oct 2014
+730,Pali,Pali,Sugar,Other,FAQ,3400,3500,3450,29 Sep 2014
+731,Pali,Pali,Sugar,Other,FAQ,3450,3450,3450,24 Sep 2014
+732,Pali,Pali,Sugar,Other,FAQ,3500,3500,3500,01 Oct 2014
+733,Pali,Pali,Sugar,Other,FAQ,3500,3500,3500,30 Oct 2014
+734,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2250,2350,2275,01 Aug 2015
+735,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2250,2350,2275,03 Aug 2015
+736,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2250,2350,2275,31 Jul 2015
+737,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2275,2300,2290,27 Jul 2015
+738,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2275,2310,2290,28 Jul 2015
+739,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2275,2315,2290,29 Jul 2015
+740,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2300,2375,2350,23 Jul 2015
+741,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2300,2400,2370,20 Jul 2015
+742,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2300,2400,2375,21 Jul 2015
+743,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2300,2400,2375,22 Jul 2015
+744,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2300,2400,2380,18 Jul 2015
+745,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2340,2450,2400,05 Aug 2015
+746,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2350,2450,2400,07 Aug 2015
+747,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2350,2450,2400,08 Aug 2015
+748,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2350,2450,2400,10 Aug 2015
+749,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2400,2450,2450,11 Jul 2015
+750,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2400,2460,2450,13 Jul 2015
+751,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2400,2600,2550,11 Aug 2015
+752,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2400,2600,2550,12 Aug 2015
+753,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2450,2750,2475,06 Jul 2015
+754,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2450,2760,2475,07 Jul 2015
+755,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2450,2760,2475,08 Jul 2015
+756,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2450,2760,2475,09 Jul 2015
+757,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2450,2760,2475,10 Jul 2015
+758,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2470,2770,2480,02 Jul 2015
+759,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2480,2775,2485,01 Jul 2015
+760,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2490,2800,2500,30 Jun 2015
+761,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2520,2800,2570,29 Jun 2015
+762,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2525,2800,2570,25 Jun 2015
+763,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2530,2700,2580,04 Jun 2015
+764,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2550,2730,2580,03 Jun 2015
+765,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2550,2730,2580,08 Jun 2015
+766,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2550,2730,2580,10 Jun 2015
+767,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2550,2730,2580,11 Jun 2015
+768,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2550,2730,2580,12 Jun 2015
+769,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2550,2730,2580,15 Jun 2015
+770,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2550,2750,2580,16 Jun 2015
+771,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2550,2750,2580,17 Jun 2015
+772,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2550,2750,2580,19 Jun 2015
+773,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2580,2750,2600,02 Jun 2015
+774,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2580,2750,2635,21 May 2015
+775,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2580,2750,2635,22 May 2015
+776,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2580,2755,2640,26 May 2015
+777,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2580,2755,2640,29 May 2015
+778,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2600,2800,2690,15 May 2015
+779,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2600,2800,2690,18 May 2015
+780,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2620,2650,2635,04 May 2015
+781,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2620,2650,2635,30 Apr 2015
+782,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2625,2650,2630,24 Apr 2015
+783,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2625,2650,2630,27 Apr 2015
+784,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2625,2650,2630,28 Apr 2015
+785,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2625,2700,2650,11 May 2015
+786,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2625,2800,2670,12 May 2015
+787,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2630,2700,2650,08 May 2015
+788,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2650,2700,2675,17 Aug 2015
+789,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2650,2700,2675,18 Aug 2015
+790,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2650,2715,2680,19 Aug 2015
+791,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2650,2715,2680,20 Aug 2015
+792,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2650,2715,2680,25 Aug 2015
+793,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2650,2720,2680,28 Aug 2015
+794,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2650,2800,2725,07 May 2015
+795,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2655,2725,2700,21 Aug 2015
+796,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2655,2725,2700,24 Aug 2015
+797,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2810,17 Mar 2015
+798,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2850,16 Feb 2015
+799,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2850,18 Feb 2015
+800,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2850,19 Feb 2015
+801,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2850,20 Feb 2015
+802,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2860,02 Mar 2015
+803,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2860,23 Feb 2015
+804,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2860,24 Feb 2015
+805,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2860,26 Feb 2015
+806,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2900,2860,27 Feb 2015
+807,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2950,2825,03 Mar 2015
+808,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2950,2825,04 Mar 2015
+809,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2950,2825,09 Mar 2015
+810,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2950,2825,11 Mar 2015
+811,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2950,2825,12 Mar 2015
+812,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2950,2825,13 Mar 2015
+813,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2700,2950,2825,16 Mar 2015
+814,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2750,2900,2860,25 Feb 2015
+815,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2750,2950,2900,10 Feb 2015
+816,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2750,2960,2900,12 Feb 2015
+817,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2750,2960,2900,13 Feb 2015
+818,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2750,2960,2905,11 Feb 2015
+819,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2880,2930,2925,27 Jan 2015
+820,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2890,2900,2890,26 Dec 2014
+821,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2890,2900,2900,29 Dec 2014
+822,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2890,2925,2920,21 Jan 2015
+823,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2890,2925,2925,20 Jan 2015
+824,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2890,2925,2925,22 Jan 2015
+825,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2890,2925,2925,23 Jan 2015
+826,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2890,3000,2915,01 Jan 2015
+827,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2890,3000,2915,02 Jan 2015
+828,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2890,3000,2920,31 Dec 2014
+829,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2895,2920,2900,30 Jan 2015
+830,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2895,3000,2900,05 Jan 2015
+831,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2895,3000,2900,06 Jan 2015
+832,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2895,3000,2900,07 Jan 2015
+833,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2920,2910,02 Feb 2015
+834,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2920,2910,03 Feb 2015
+835,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2920,2910,05 Feb 2015
+836,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2920,2910,06 Feb 2015
+837,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2920,2910,09 Feb 2015
+838,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2950,2925,19 Jan 2015
+839,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2980,2940,11 Dec 2014
+840,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2980,2940,12 Dec 2014
+841,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2980,2950,15 Dec 2014
+842,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,2980,2960,16 Dec 2014
+843,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,3000,2900,22 Dec 2014
+844,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,3000,2975,17 Dec 2014
+845,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,3000,2980,18 Dec 2014
+846,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2900,3000,2980,19 Dec 2014
+847,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2950,3150,3145,19 Nov 2014
+848,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2950,3150,3145,20 Nov 2014
+849,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2950,3150,3150,18 Nov 2014
+850,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2960,3150,3145,21 Nov 2014
+851,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2965,3150,3145,24 Nov 2014
+852,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2980,3150,3140,27 Nov 2014
+853,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2985,3125,3120,04 Dec 2014
+854,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2985,3125,3120,05 Dec 2014
+855,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2985,3150,3140,01 Dec 2014
+856,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2985,3150,3140,28 Nov 2014
+857,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2990,3000,2990,14 Jan 2015
+858,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2990,3000,2990,15 Jan 2015
+859,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2990,3025,2990,08 Jan 2015
+860,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2990,3035,3000,12 Jan 2015
+861,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2990,3150,3140,08 Dec 2014
+862,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2990,3150,3140,09 Dec 2014
+863,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,2990,3150,3140,10 Dec 2014
+864,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3100,3300,3145,01 Sep 2014
+865,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3100,3300,3150,03 Sep 2014
+866,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3100,3300,3150,08 Sep 2014
+867,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3115,3300,3165,11 Sep 2014
+868,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3115,3300,3165,12 Sep 2014
+869,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3175,3160,10 Nov 2014
+870,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3175,3165,11 Nov 2014
+871,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3175,3165,12 Nov 2014
+872,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3180,3160,05 Nov 2014
+873,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3200,3150,09 Oct 2014
+874,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3200,3150,10 Oct 2014
+875,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3200,3150,13 Oct 2014
+876,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3200,3150,14 Oct 2014
+877,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3200,3150,15 Oct 2014
+878,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3200,3150,16 Oct 2014
+879,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3290,3150,08 Oct 2014
+880,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3300,3160,16 Sep 2014
+881,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3300,3160,17 Sep 2014
+882,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3300,3160,18 Sep 2014
+883,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3300,3160,19 Sep 2014
+884,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3300,3160,22 Sep 2014
+885,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3300,3160,29 Sep 2014
+886,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3125,3300,3170,23 Sep 2014
+887,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3180,3170,13 Nov 2014
+888,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3180,3170,14 Nov 2014
+889,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3180,3170,17 Nov 2014
+890,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3190,3160,03 Nov 2014
+891,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3190,3160,30 Oct 2014
+892,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3190,3160,31 Oct 2014
+893,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3200,3155,21 Oct 2014
+894,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3200,3155,22 Oct 2014
+895,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3200,3155,27 Oct 2014
+896,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3200,3160,17 Oct 2014
+897,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3200,3160,20 Oct 2014
+898,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3200,3160,29 Oct 2014
+899,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3300,3150,01 Oct 2014
+900,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3130,3300,3150,07 Oct 2014
+901,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3150,3175,3160,18 Mar 2015
+902,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,4000,4025,4000,14 Jul 2015

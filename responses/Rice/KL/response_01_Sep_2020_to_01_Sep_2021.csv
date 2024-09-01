@@ -1,0 +1,1644 @@
+0,1,2,3,4,5,6,7,8,9
+1,Alappuzha,Aroor,Rice,Basumathi,FAQ,7600,7800,7700,11 Jan 2021
+2,Alappuzha,Aroor,Rice,Basumathi,FAQ,10000,11200,11000,15 Mar 2021
+3,Alappuzha,Aroor,Rice,Basumathi,FAQ,10000,11200,11000,28 May 2021
+4,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,02 Oct 2020
+5,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,03 Jun 2021
+6,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,19 Jan 2021
+7,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,19 May 2021
+8,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,25 May 2021
+9,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,12 May 2021
+10,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,30 Jun 2021
+11,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,03 Oct 2020
+12,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,28 May 2021
+13,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,09 Jul 2021
+14,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,23 Nov 2020
+15,Alappuzha,Aroor,Rice,Other,FAQ,3400,3600,3500,03 Oct 2020
+16,Alappuzha,Aroor,Rice,Other,FAQ,3400,3600,3500,12 Nov 2020
+17,Alappuzha,Aroor,Rice,Other,FAQ,3400,3600,3500,30 Sep 2020
+18,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,19 May 2021
+19,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,25 May 2021
+20,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,09 Jul 2021
+21,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,29 Jun 2021
+22,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,06 Aug 2021
+23,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,12 Apr 2021
+24,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,14 Mar 2021
+25,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,15 Mar 2021
+26,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,17 Mar 2021
+27,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,18 Mar 2021
+28,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,19 Jul 2021
+29,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,22 Apr 2021
+30,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,28 May 2021
+31,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,30 Jul 2021
+32,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,07 Jan 2021
+33,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,12 Aug 2021
+34,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,16 Aug 2021
+35,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,20 Nov 2020
+36,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,24 Aug 2021
+37,Malappuram,Manjeri,Rice,Other,FAQ,3400,3500,3450,29 Jan 2021
+38,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,03 Jun 2021
+39,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,08 Jan 2021
+40,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,08 Jun 2021
+41,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,10 Aug 2021
+42,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Aug 2021
+43,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Nov 2020
+44,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,17 Feb 2021
+45,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,18 Dec 2020
+46,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 Apr 2021
+47,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 Dec 2020
+48,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,20 Nov 2020
+49,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 Feb 2021
+50,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 Nov 2020
+51,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,28 Oct 2020
+52,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,30 Sep 2020
+53,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,06 Aug 2021
+54,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,14 Feb 2021
+55,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,18 Jan 2021
+56,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,22 Feb 2021
+57,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,22 Jun 2021
+58,Alappuzha,Aroor,Rice,Basumathi,FAQ,10000,11200,11000,06 Nov 2020
+59,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,01 Oct 2020
+60,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,16 Nov 2020
+61,Alappuzha,Aroor,Rice,Basumathi,FAQ,11300,11500,11400,12 May 2021
+62,Alappuzha,Aroor,Rice,Basumathi,FAQ,12000,12100,12100,12 Oct 2020
+63,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,05 Nov 2020
+64,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,07 Jul 2021
+65,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,17 Jun 2021
+66,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,26 Jun 2021
+67,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,05 Nov 2020
+68,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,17 Jun 2021
+69,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,17 Sep 2020
+70,Alappuzha,Aroor,Rice,Other,FAQ,3300,3500,3400,28 Jan 2021
+71,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,17 Nov 2020
+72,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,18 Sep 2020
+73,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,08 May 2021
+74,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,03 Apr 2021
+75,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,06 May 2021
+76,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,15 Apr 2021
+77,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,18 Feb 2021
+78,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,19 Apr 2021
+79,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,19 Feb 2021
+80,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,21 Mar 2021
+81,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,26 Mar 2021
+82,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,05 Dec 2020
+83,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,06 Jan 2021
+84,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,24 Dec 2020
+85,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,29 Dec 2020
+86,Kottayam,Kottayam,Rice,Other,FAQ,3000,3700,3600,14 Aug 2021
+87,Kottayam,Kottayam,Rice,Other,FAQ,3000,3700,3600,17 Sep 2020
+88,Kottayam,Kottayam,Rice,Other,FAQ,3000,3700,3600,28 Sep 2020
+89,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,05 Aug 2021
+90,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,05 Dec 2020
+91,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,07 May 2021
+92,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,09 Aug 2021
+93,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,09 Jun 2021
+94,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,10 Dec 2020
+95,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Oct 2020
+96,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,14 Nov 2020
+97,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,15 Mar 2021
+98,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,18 Sep 2020
+99,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 Jan 2021
+100,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 May 2021
+101,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,22 May 2021
+102,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 Dec 2020
+103,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 Oct 2020
+104,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,25 May 2021
+105,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,29 Mar 2021
+106,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,31 Aug 2021
+107,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,19 Nov 2020
+108,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,20 Dec 2020
+109,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,29 Jun 2021
+110,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,31 Jul 2021
+111,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4500,4500,4500,02 Jun 2021
+112,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,28 Sep 2020
+113,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,04 Jun 2021
+114,Alappuzha,Aroor,Rice,Basumathi,FAQ,9900,11000,10000,11 Nov 2020
+115,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11400,11300,07 Jul 2021
+116,Alappuzha,Aroor,Rice,IR-8,FAQ,2400,2600,2500,30 Sep 2020
+117,Alappuzha,Aroor,Rice,IR-8,FAQ,2600,2800,2700,15 Dec 2020
+118,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,17 Sep 2020
+119,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,28 Jan 2021
+120,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,04 May 2021
+121,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,14 Jun 2021
+122,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,19 May 2021
+123,Alappuzha,Aroor,Rice,Jaya,FAQ,3600,3800,3700,07 Jul 2021
+124,Alappuzha,Aroor,Rice,Jaya,FAQ,3600,3800,3700,26 Jun 2021
+125,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,05 May 2021
+126,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,01 Jul 2021
+127,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,07 Jul 2021
+128,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,10 Jul 2021
+129,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,29 Apr 2021
+130,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,10 Dec 2020
+131,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,11 Jan 2021
+132,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,16 Dec 2020
+133,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,19 Jan 2021
+134,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,19 Nov 2020
+135,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,20 Jan 2021
+136,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,22 Dec 2020
+137,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,31 Aug 2021
+138,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,04 Apr 2021
+139,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,04 Feb 2021
+140,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,07 Apr 2021
+141,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,07 Aug 2021
+142,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,07 Oct 2020
+143,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,07 Sep 2020
+144,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,08 Jul 2021
+145,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,09 Dec 2020
+146,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,09 Feb 2021
+147,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,11 Jul 2021
+148,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Feb 2021
+149,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,18 Mar 2021
+150,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,20 Jan 2021
+151,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,20 Oct 2020
+152,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,21 Jul 2021
+153,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,22 Dec 2020
+154,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,25 Feb 2021
+155,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,25 Nov 2020
+156,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,30 Jul 2021
+157,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,31 Oct 2020
+158,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,06 Feb 2021
+159,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,14 Feb 2021
+160,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,20 Dec 2020
+161,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,15 Oct 2020
+162,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,12 Jul 2021
+163,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,21 Jun 2021
+164,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,06 Apr 2021
+165,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,08 Sep 2020
+166,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,13 Feb 2021
+167,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,18 May 2021
+168,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,20 Apr 2021
+169,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,06 Aug 2021
+170,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,29 Aug 2021
+171,Idukki,Nedumkandam,Rice,IR-8,FAQ,3800,3800,3800,09 Jun 2021
+172,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,10 Jan 2021
+173,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4500,4500,4500,01 Nov 2020
+174,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,10 Jul 2021
+175,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,19 Jun 2021
+176,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,23 Jul 2021
+177,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,27 Jul 2021
+178,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,03 Apr 2021
+179,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,04 May 2021
+180,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,08 Feb 2021
+181,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,17 Feb 2021
+182,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,18 Sep 2020
+183,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,19 Apr 2021
+184,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,13 Aug 2021
+185,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,05 Dec 2020
+186,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,11 Nov 2020
+187,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,12 Nov 2020
+188,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,14 Dec 2020
+189,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,05 Jan 2021
+190,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,06 Apr 2021
+191,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,11 May 2021
+192,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,18 May 2021
+193,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,20 Apr 2021
+194,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,27 Oct 2020
+195,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,04 Aug 2021
+196,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,27 Aug 2021
+197,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,30 Aug 2021
+198,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,07 Sep 2020
+199,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,17 Sep 2020
+200,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,22 Jul 2021
+201,Idukki,Thodupuzha,Rice,IR-8,FAQ,2600,2700,2700,31 Aug 2021
+202,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,15 Jul 2021
+203,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,01 Jan 2021
+204,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,05 Feb 2021
+205,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,07 Jun 2021
+206,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,12 May 2021
+207,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,15 Feb 2021
+208,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,16 Jun 2021
+209,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,16 Mar 2021
+210,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,19 Sep 2020
+211,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,20 Mar 2021
+212,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,23 Jun 2021
+213,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,26 Apr 2021
+214,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,30 Jun 2021
+215,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,13 Aug 2021
+216,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,07 Jun 2021
+217,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,09 Dec 2020
+218,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,10 May 2021
+219,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,13 Mar 2021
+220,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,16 Mar 2021
+221,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,16 Nov 2020
+222,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,19 Sep 2020
+223,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,20 Mar 2021
+224,Alappuzha,Aroor,Rice,Basumathi,FAQ,7800,8000,7900,12 Jan 2021
+225,Alappuzha,Aroor,Rice,Basumathi,FAQ,9800,10000,9900,14 Jun 2021
+226,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,03 Nov 2020
+227,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,21 Oct 2020
+228,Alappuzha,Aroor,Rice,Basumathi,FAQ,12000,12200,12100,09 Jul 2021
+229,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,12 Oct 2020
+230,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,09 Jul 2021
+231,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,15 Oct 2020
+232,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,01 Oct 2020
+233,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,13 Nov 2020
+234,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,02 Nov 2020
+235,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,16 Oct 2020
+236,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,18 Sep 2020
+237,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,06 Nov 2020
+238,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,27 Oct 2020
+239,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,05 Jun 2021
+240,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,08 Apr 2021
+241,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,10 Apr 2021
+242,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,12 Mar 2021
+243,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,13 Apr 2021
+244,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,14 Jul 2021
+245,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,15 May 2021
+246,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,17 Jun 2021
+247,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,27 May 2021
+248,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,29 Mar 2021
+249,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,30 Mar 2021
+250,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,05 Jan 2021
+251,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,15 Dec 2020
+252,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,26 Aug 2021
+253,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,27 Aug 2021
+254,Kottayam,Kottayam,Rice,Other,FAQ,3000,3700,3600,14 Sep 2020
+255,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,02 Nov 2020
+256,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,06 Nov 2020
+257,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,06 Sep 2020
+258,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,10 Jun 2021
+259,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,11 Aug 2021
+260,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Mar 2021
+261,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,17 Nov 2020
+262,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,18 Jun 2021
+263,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,22 Feb 2021
+264,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 Jun 2021
+265,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,25 Jan 2021
+266,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,27 Oct 2020
+267,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,29 Jul 2021
+268,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,18 Feb 2021
+269,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,28 Feb 2021
+270,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,28 May 2021
+271,Idukki,Nedumkandam,Rice,IR-8,FAQ,3800,3800,3800,01 Nov 2020
+272,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,07 Mar 2021
+273,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,09 Feb 2021
+274,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,13 May 2021
+275,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,02 Aug 2021
+276,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,12 Jun 2021
+277,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,16 Jun 2021
+278,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,28 Jul 2021
+279,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,28 Jun 2021
+280,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,08 Jun 2021
+281,Alappuzha,Aroor,Rice,Basumathi,FAQ,12000,12200,12100,13 Jul 2021
+282,Alappuzha,Aroor,Rice,IR-8,FAQ,2600,2800,2700,12 Nov 2020
+283,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,22 Oct 2020
+284,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,16 Sep 2020
+285,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,17 Nov 2020
+286,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,09 Feb 2021
+287,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,16 Nov 2020
+288,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,21 Jun 2021
+289,Alappuzha,Aroor,Rice,Other,FAQ,3100,3300,3200,12 Jan 2021
+290,Alappuzha,Aroor,Rice,Other,FAQ,3400,3600,3500,23 Jan 2021
+291,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,22 Oct 2020
+292,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,06 May 2021
+293,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,07 Jun 2021
+294,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,09 Jul 2021
+295,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,10 May 2021
+296,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,11 Feb 2021
+297,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,25 Jun 2021
+298,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,25 Mar 2021
+299,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,26 Jul 2021
+300,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,26 Jun 2021
+301,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,27 Jan 2021
+302,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,28 Apr 2021
+303,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,29 Jun 2021
+304,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,30 Jun 2021
+305,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,31 Jul 2021
+306,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,31 May 2021
+307,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,03 Dec 2020
+308,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,13 Jan 2021
+309,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,28 Aug 2021
+310,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,01 Dec 2020
+311,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,02 Jun 2021
+312,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,04 Jun 2021
+313,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,08 May 2021
+314,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,09 Jan 2021
+315,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,10 Feb 2021
+316,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,13 May 2021
+317,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,15 Jan 2021
+318,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,18 Aug 2021
+319,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 Jun 2021
+320,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,21 Dec 2020
+321,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,22 Oct 2020
+322,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 Apr 2021
+323,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,27 Apr 2021
+324,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,27 Feb 2021
+325,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,27 Jul 2021
+326,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,28 Jan 2021
+327,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,30 Oct 2020
+328,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4000,4000,4000,20 Apr 2021
+329,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,17 Jul 2021
+330,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,18 Feb 2021
+331,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,30 Sep 2020
+332,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,08 Jul 2021
+333,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,22 Jun 2021
+334,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,10 Feb 2021
+335,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,20 Feb 2021
+336,Alappuzha,Aroor,Rice,Basumathi,FAQ,9600,9800,9700,08 Mar 2021
+337,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,06 May 2021
+338,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,27 Oct 2020
+339,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11400,11300,08 May 2021
+340,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,03 Nov 2020
+341,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,04 May 2021
+342,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,06 Nov 2020
+343,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,21 Jul 2021
+344,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,29 Jun 2021
+345,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3200,3000,18 Sep 2020
+346,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,12 Oct 2020
+347,Alappuzha,Aroor,Rice,Other,FAQ,3300,3500,3400,09 Feb 2021
+348,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,02 Jun 2021
+349,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,12 May 2021
+350,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,17 Dec 2020
+351,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,18 May 2021
+352,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,21 Oct 2020
+353,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,08 Jun 2021
+354,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,28 May 2021
+355,Alappuzha,Aroor,Rice,Other,FAQ,3700,3900,3800,14 Jul 2021
+356,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,09 Mar 2021
+357,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,16 Apr 2021
+358,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,16 Jun 2021
+359,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,20 Mar 2021
+360,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,22 Feb 2021
+361,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,23 Jun 2021
+362,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,29 Jul 2021
+363,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,21 Nov 2020
+364,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,02 Oct 2020
+365,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,05 Apr 2021
+366,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,05 Jan 2021
+367,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,11 Sep 2020
+368,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Jun 2021
+369,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 May 2021
+370,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,13 Jan 2021
+371,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,13 Mar 2021
+372,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,14 Jul 2021
+373,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,15 Feb 2021
+374,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,17 Dec 2020
+375,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,17 Oct 2020
+376,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,18 May 2021
+377,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Nov 2020
+378,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,28 Aug 2021
+379,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,29 Dec 2020
+380,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,27 May 2021
+381,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,11 Jul 2021
+382,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,18 May 2021
+383,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,13 Jul 2021
+384,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,14 Jul 2021
+385,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,16 Jul 2021
+386,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,17 Jun 2021
+387,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,26 Jul 2021
+388,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,09 Apr 2021
+389,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,16 Mar 2021
+390,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,18 Mar 2021
+391,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,22 Apr 2021
+392,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,14 Jun 2021
+393,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,23 Jun 2021
+394,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,10 Mar 2021
+395,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,11 Mar 2021
+396,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,15 Mar 2021
+397,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,20 Jan 2021
+398,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,20 Aug 2021
+399,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,05 Jan 2021
+400,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,19 Dec 2020
+401,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,27 Oct 2020
+402,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,01 Jun 2021
+403,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,04 Mar 2021
+404,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,05 Dec 2020
+405,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,11 Feb 2021
+406,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,15 Feb 2021
+407,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,16 Jan 2021
+408,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,20 Mar 2021
+409,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,21 Jan 2021
+410,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,23 Apr 2021
+411,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,27 Jan 2021
+412,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,30 Dec 2020
+413,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,01 Sep 2021
+414,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,11 Aug 2021
+415,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,17 Aug 2021
+416,Idukki,Thodupuzha,Rice,IR-8,FAQ,2600,2700,2700,01 Sep 2021
+417,Idukki,Thodupuzha,Rice,IR-8,FAQ,2700,2800,2800,03 Aug 2021
+418,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,14 Jun 2021
+419,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,28 Jul 2021
+420,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,01 Dec 2020
+421,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,01 Feb 2021
+422,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,11 May 2021
+423,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,21 Oct 2020
+424,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,26 May 2021
+425,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,28 Dec 2020
+426,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,29 Jun 2021
+427,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,09 Aug 2021
+428,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,05 May 2021
+429,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,06 Jan 2021
+430,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,07 Apr 2021
+431,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,11 Jan 2021
+432,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,13 Oct 2020
+433,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,15 Dec 2020
+434,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,15 Feb 2021
+435,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,16 Feb 2021
+436,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,17 Apr 2021
+437,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,17 May 2021
+438,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,19 Mar 2021
+439,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,20 Oct 2020
+440,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,23 Apr 2021
+441,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,28 Apr 2021
+442,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,21 Jun 2021
+443,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,23 Nov 2020
+444,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,27 Jan 2021
+445,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,28 Sep 2020
+446,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,30 Dec 2020
+447,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,30 Jun 2021
+448,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,31 Aug 2021
+449,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,06 Jan 2021
+450,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,10 Nov 2020
+451,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,01 Jul 2021
+452,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,03 Jun 2021
+453,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,07 Jul 2021
+454,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,12 May 2021
+455,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,13 May 2021
+456,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,14 Dec 2020
+457,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,22 Feb 2021
+458,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,23 Mar 2021
+459,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,25 Jan 2021
+460,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,25 Mar 2021
+461,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,28 Jan 2021
+462,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,18 Aug 2021
+463,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,09 Sep 2020
+464,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,14 Sep 2020
+465,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,05 Oct 2020
+466,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,13 Oct 2020
+467,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,19 Aug 2021
+468,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,30 Jul 2021
+469,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,05 Apr 2021
+470,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,08 Apr 2021
+471,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,17 Dec 2020
+472,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,18 May 2021
+473,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,23 Apr 2021
+474,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,27 Oct 2020
+475,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,29 Dec 2020
+476,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,06 Aug 2021
+477,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,31 Aug 2021
+478,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,28 Jul 2021
+479,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,29 Jul 2021
+480,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,01 Dec 2020
+481,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,09 Oct 2020
+482,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,19 May 2021
+483,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,25 May 2021
+484,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,27 Nov 2020
+485,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,17 Dec 2020
+486,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,11 Jun 2021
+487,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,25 Jun 2021
+488,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,02 Nov 2020
+489,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,03 Feb 2021
+490,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,21 Dec 2020
+491,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,23 Dec 2020
+492,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,26 Dec 2020
+493,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,16 Sep 2020
+494,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,16 Aug 2021
+495,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,24 Aug 2021
+496,Idukki,Thodupuzha,Rice,IR-8,FAQ,2600,2700,2700,13 Aug 2021
+497,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,19 Jul 2021
+498,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,19 Nov 2020
+499,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,02 Feb 2021
+500,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,03 Jun 2021
+501,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,06 May 2021
+502,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,07 Nov 2020
+503,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,08 Jan 2021
+504,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,12 Apr 2021
+505,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,14 Dec 2020
+506,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,15 Mar 2021
+507,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,18 Feb 2021
+508,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,19 Jan 2021
+509,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,19 May 2021
+510,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,23 Sep 2020
+511,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,24 May 2021
+512,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,25 May 2021
+513,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,30 Nov 2020
+514,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,31 Dec 2020
+515,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,800,900,900,09 Feb 2021
+516,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,2000,2200,2200,04 Sep 2020
+517,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,03 Aug 2021
+518,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,09 Jul 2021
+519,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3700,3800,3800,28 Jun 2021
+520,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,03 Feb 2021
+521,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,12 Apr 2021
+522,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,17 Mar 2021
+523,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,19 Nov 2020
+524,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,22 Jun 2021
+525,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,25 Feb 2021
+526,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,28 May 2021
+527,Alappuzha,Aroor,Rice,Basumathi,FAQ,8800,9000,8900,23 Jan 2021
+528,Alappuzha,Aroor,Rice,Basumathi,FAQ,10000,11200,11000,19 Feb 2021
+529,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,13 Nov 2020
+530,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11400,11300,02 Nov 2020
+531,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11400,11300,03 Oct 2020
+532,Alappuzha,Aroor,Rice,IR-8,FAQ,2400,2600,2500,09 Feb 2021
+533,Alappuzha,Aroor,Rice,IR-8,FAQ,2700,2900,2800,11 Nov 2020
+534,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,16 Oct 2020
+535,Alappuzha,Aroor,Rice,IR-8,FAQ,3000,3200,3100,25 Nov 2020
+536,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,11 Nov 2020
+537,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,08 Mar 2021
+538,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3700,3600,22 Oct 2020
+539,Alappuzha,Aroor,Rice,Other,FAQ,3400,3600,3500,11 Nov 2020
+540,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,17 Sep 2020
+541,Alappuzha,Aroor,Rice,Other,FAQ,3700,3900,3800,21 Jul 2021
+542,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,08 Jun 2021
+543,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,08 Mar 2021
+544,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,10 Aug 2021
+545,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,22 Mar 2021
+546,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,23 Jul 2021
+547,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,24 Mar 2021
+548,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,04 Dec 2020
+549,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,07 Dec 2020
+550,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,09 Dec 2020
+551,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,15 Jan 2021
+552,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,25 Nov 2020
+553,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,27 Nov 2020
+554,Kottayam,Kottayam,Rice,Other,FAQ,3000,3700,3600,10 Sep 2020
+555,Kottayam,Kottayam,Rice,Other,FAQ,3000,3700,3600,18 Aug 2021
+556,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,03 May 2021
+557,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,04 Sep 2020
+558,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,06 Jan 2021
+559,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,09 Nov 2020
+560,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,10 Nov 2020
+561,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Sep 2020
+562,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,14 Jan 2021
+563,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,17 Mar 2021
+564,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,17 Sep 2020
+565,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,18 Nov 2020
+566,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 Oct 2020
+567,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,20 Apr 2021
+568,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,20 Aug 2021
+569,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,21 Jan 2021
+570,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,21 May 2021
+571,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,22 Jul 2021
+572,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Jan 2021
+573,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,27 Mar 2021
+574,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,28 May 2021
+575,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,30 Jan 2021
+576,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,31 Jan 2021
+577,Idukki,Nedumkandam,Rice,IR-8,FAQ,3800,3800,3800,13 Dec 2020
+578,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,13 Dec 2020
+579,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,08 Oct 2020
+580,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,24 Sep 2020
+581,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,06 Jul 2021
+582,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,03 May 2021
+583,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,05 Apr 2021
+584,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,16 Sep 2020
+585,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,21 Sep 2020
+586,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,23 Apr 2021
+587,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,25 Feb 2021
+588,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,17 Aug 2021
+589,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,23 Aug 2021
+590,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,25 Aug 2021
+591,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,04 Jan 2021
+592,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,09 Nov 2020
+593,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,16 Dec 2020
+594,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,18 Jan 2021
+595,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,19 Oct 2020
+596,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,28 Oct 2020
+597,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,29 Dec 2020
+598,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,05 Jun 2021
+599,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,10 May 2021
+600,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,11 Jan 2021
+601,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,16 Feb 2021
+602,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,19 Mar 2021
+603,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,20 Nov 2020
+604,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,20 Oct 2020
+605,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,27 Nov 2020
+606,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,12 Aug 2021
+607,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,24 Aug 2021
+608,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,01 Sep 2020
+609,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,02 Aug 2021
+610,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,28 Jul 2021
+611,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,09 Jul 2021
+612,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,12 Jul 2021
+613,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,13 Jul 2021
+614,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,16 Nov 2020
+615,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,24 Nov 2020
+616,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,26 Jul 2021
+617,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,02 Jul 2021
+618,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,03 Sep 2020
+619,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,06 Jan 2021
+620,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,07 Apr 2021
+621,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,08 Jul 2021
+622,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,09 Feb 2021
+623,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,12 Jan 2021
+624,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,16 Feb 2021
+625,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,19 Mar 2021
+626,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,20 Oct 2020
+627,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,23 Jan 2021
+628,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,23 Oct 2020
+629,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,24 Sep 2020
+630,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,07 Jul 2021
+631,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,17 Jul 2021
+632,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,19 Jul 2021
+633,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,04 May 2021
+634,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,08 Sep 2020
+635,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,15 Sep 2020
+636,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,16 Jun 2021
+637,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,24 Apr 2021
+638,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,25 Jan 2021
+639,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,27 Apr 2021
+640,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,01 Sep 2021
+641,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,07 Aug 2021
+642,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,07 Dec 2020
+643,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,09 Dec 2020
+644,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,16 Nov 2020
+645,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,17 Nov 2020
+646,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,09 Jul 2021
+647,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,12 Jun 2021
+648,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,23 Jun 2021
+649,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,02 Dec 2020
+650,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,04 Feb 2021
+651,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,04 Nov 2020
+652,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,06 Mar 2021
+653,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,09 Dec 2020
+654,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,13 Mar 2021
+655,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,16 Mar 2021
+656,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,16 Nov 2020
+657,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,20 Jan 2021
+658,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,22 Apr 2021
+659,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,22 Mar 2021
+660,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,26 Feb 2021
+661,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,28 Oct 2020
+662,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,09 Aug 2021
+663,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,13 Aug 2021
+664,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,17 Aug 2021
+665,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,11 Sep 2020
+666,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,26 Jul 2021
+667,Idukki,Thodupuzha,Rice,IR-8,FAQ,2600,2700,2700,30 Aug 2021
+668,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,23 Nov 2020
+669,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,02 Jun 2021
+670,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,04 Feb 2021
+671,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,07 Oct 2020
+672,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,07 Sep 2020
+673,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,09 Sep 2020
+674,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,12 Nov 2020
+675,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,15 Oct 2020
+676,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,17 May 2021
+677,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,20 Jan 2021
+678,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,22 Mar 2021
+679,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,24 Mar 2021
+680,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,25 Mar 2021
+681,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,28 Apr 2021
+682,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,28 Oct 2020
+683,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,29 Jan 2021
+684,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,26 Aug 2021
+685,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,15 Jul 2021
+686,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,23 Jul 2021
+687,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,27 Jul 2021
+688,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,03 May 2021
+689,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,11 May 2021
+690,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,12 Oct 2020
+691,Alappuzha,Aroor,Rice,Basumathi,FAQ,9600,9800,9700,09 Feb 2021
+692,Alappuzha,Aroor,Rice,Basumathi,FAQ,10000,11200,11000,17 Dec 2020
+693,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,29 Jun 2021
+694,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11400,11300,14 Jul 2021
+695,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,06 May 2021
+696,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,27 Oct 2020
+697,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,11 Jan 2021
+698,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,19 Jan 2021
+699,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,05 May 2021
+700,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,08 May 2021
+701,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,16 Sep 2020
+702,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,25 May 2021
+703,Alappuzha,Aroor,Rice,Jaya,FAQ,3600,3800,3700,14 Jul 2021
+704,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,05 Nov 2020
+705,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,03 Jun 2021
+706,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,15 Mar 2021
+707,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,15 Oct 2020
+708,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,08 Feb 2021
+709,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,09 Apr 2021
+710,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,10 Jun 2021
+711,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,11 Aug 2021
+712,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,13 Jul 2021
+713,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,15 Jun 2021
+714,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,16 Jul 2021
+715,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,16 Mar 2021
+716,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,17 Apr 2021
+717,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,20 Jul 2021
+718,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,24 May 2021
+719,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,25 Jan 2021
+720,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,28 Jan 2021
+721,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,28 Jul 2021
+722,Kottayam,Kottayam,Rice,Other,FAQ,3000,3700,3600,22 Sep 2020
+723,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,05 May 2021
+724,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,07 Jun 2021
+725,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,07 Nov 2020
+726,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,10 Apr 2021
+727,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,13 Apr 2021
+728,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,15 Dec 2020
+729,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,15 May 2021
+730,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Sep 2020
+731,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,18 Jan 2021
+732,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 May 2021
+733,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 Nov 2020
+734,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 Mar 2021
+735,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 Sep 2020
+736,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,11 Jul 2021
+737,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,05 Mar 2021
+738,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4500,4500,4500,09 Jun 2021
+739,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,02 Jul 2021
+740,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,15 Jun 2021
+741,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,29 Jun 2021
+742,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,01 Feb 2021
+743,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,06 Feb 2021
+744,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,16 Apr 2021
+745,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,19 Jan 2021
+746,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,22 Feb 2021
+747,Alappuzha,Aroor,Rice,Basumathi,FAQ,7800,8000,7900,23 Nov 2020
+748,Alappuzha,Aroor,Rice,Basumathi,FAQ,8200,8400,8300,25 Nov 2020
+749,Alappuzha,Aroor,Rice,Basumathi,FAQ,10000,11300,11000,05 May 2021
+750,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,16 Oct 2020
+751,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,11 Jan 2021
+752,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,28 Apr 2021
+753,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,30 Sep 2020
+754,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,02 Oct 2020
+755,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,25 Nov 2020
+756,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,28 Apr 2021
+757,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,12 Oct 2020
+758,Alappuzha,Aroor,Rice,Other,FAQ,3700,3900,3800,21 Jun 2021
+759,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,02 Jun 2021
+760,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,03 Jun 2021
+761,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,05 Aug 2021
+762,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,18 May 2021
+763,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,19 May 2021
+764,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,21 Jul 2021
+765,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,26 May 2021
+766,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,27 Feb 2021
+767,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,01 Sep 2021
+768,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,14 Dec 2020
+769,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,16 Jan 2021
+770,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,28 Nov 2020
+771,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,30 Dec 2020
+772,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,02 Dec 2020
+773,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,05 Jun 2021
+774,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,06 May 2021
+775,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,08 Oct 2020
+776,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,09 Jul 2021
+777,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,11 Feb 2021
+778,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,13 Feb 2021
+779,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,14 Aug 2021
+780,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,14 Dec 2020
+781,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,15 Apr 2021
+782,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,17 May 2021
+783,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,18 Feb 2021
+784,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 Aug 2021
+785,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 Feb 2021
+786,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,21 Oct 2020
+787,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Oct 2020
+788,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Sep 2020
+789,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,25 Jun 2021
+790,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 Jul 2021
+791,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,27 Jan 2021
+792,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,28 Apr 2021
+793,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,28 Dec 2020
+794,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,29 Oct 2020
+795,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,30 Nov 2020
+796,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,31 May 2021
+797,Idukki,Nedumkandam,Rice,IR-8,FAQ,3800,3800,3800,02 Jun 2021
+798,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,17 Dec 2020
+799,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,25 Oct 2020
+800,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,27 Oct 2020
+801,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,28 Feb 2021
+802,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,03 Jul 2021
+803,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,20 Apr 2021
+804,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,23 Mar 2021
+805,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,23 Oct 2020
+806,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,27 Oct 2020
+807,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,28 Dec 2020
+808,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,29 Jan 2021
+809,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,29 Jun 2021
+810,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,30 Oct 2020
+811,Alappuzha,Aroor,Rice,Basumathi,FAQ,10000,11200,11000,15 Dec 2020
+812,Alappuzha,Aroor,Rice,Basumathi,FAQ,10000,11200,11000,21 Apr 2021
+813,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,18 May 2021
+814,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,24 May 2021
+815,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11400,11300,30 Jun 2021
+816,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11500,11300,26 Jun 2021
+817,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,02 Jun 2021
+818,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,17 Dec 2020
+819,Alappuzha,Aroor,Rice,IR-8,FAQ,3000,3200,3100,05 May 2021
+820,Alappuzha,Aroor,Rice,IR-8,FAQ,3000,3300,3100,21 Jun 2021
+821,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,17 Dec 2020
+822,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,03 Nov 2020
+823,Alappuzha,Aroor,Rice,Jaya,FAQ,3500,3700,3600,15 Mar 2021
+824,Alappuzha,Aroor,Rice,Jaya,FAQ,3500,3700,3600,19 Feb 2021
+825,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,30 Jun 2021
+826,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,04 Jun 2021
+827,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,05 Apr 2021
+828,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,05 Feb 2021
+829,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,05 May 2021
+830,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,06 Apr 2021
+831,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,11 Jun 2021
+832,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,14 Jun 2021
+833,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,15 Feb 2021
+834,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,21 Apr 2021
+835,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,23 Apr 2021
+836,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,26 Apr 2021
+837,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,21 Dec 2020
+838,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,30 Nov 2020
+839,Kottayam,Kottayam,Rice,Other,FAQ,3000,3700,3600,13 Aug 2021
+840,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,03 Dec 2020
+841,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,05 Jul 2021
+842,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Dec 2020
+843,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,13 Jul 2021
+844,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Jul 2021
+845,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Jun 2021
+846,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Nov 2020
+847,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,21 Nov 2020
+848,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Feb 2021
+849,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 Apr 2021
+850,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,29 Jun 2021
+851,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,30 Jun 2021
+852,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,05 Mar 2021
+853,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,07 Apr 2021
+854,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,09 Feb 2021
+855,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,13 May 2021
+856,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,20 Apr 2021
+857,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,23 Aug 2021
+858,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,27 May 2021
+859,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,11 Jun 2021
+860,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,18 Jun 2021
+861,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,24 Jun 2021
+862,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,05 Feb 2021
+863,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,10 Apr 2021
+864,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,13 Mar 2021
+865,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,22 Sep 2020
+866,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,26 Apr 2021
+867,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,19 Apr 2021
+868,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,20 Feb 2021
+869,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,21 Jan 2021
+870,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,23 Jan 2021
+871,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,25 Sep 2020
+872,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,30 Apr 2021
+873,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,30 Sep 2020
+874,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,08 Jun 2021
+875,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,08 Mar 2021
+876,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,21 Apr 2021
+877,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,23 Nov 2020
+878,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3600,3400,06 Nov 2020
+879,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,27 Oct 2020
+880,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,29 Jun 2021
+881,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,04 May 2021
+882,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,17 Jun 2021
+883,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,03 Aug 2021
+884,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,10 Mar 2021
+885,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,17 Feb 2021
+886,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,23 Jan 2021
+887,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,01 Jun 2021
+888,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,04 May 2021
+889,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,05 Oct 2020
+890,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,07 Dec 2020
+891,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,07 Jan 2021
+892,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,08 Sep 2020
+893,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,11 Nov 2020
+894,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,14 Sep 2020
+895,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,15 Sep 2020
+896,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Apr 2021
+897,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 Jul 2021
+898,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,20 Jul 2021
+899,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,22 Jan 2021
+900,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,22 Jun 2021
+901,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 Aug 2021
+902,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,27 May 2021
+903,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,27 Nov 2020
+904,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,29 Aug 2021
+905,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,29 Sep 2020
+906,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,18 May 2021
+907,Idukki,Nedumkandam,Rice,IR-8,FAQ,3800,3800,3800,09 Nov 2020
+908,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,24 Jul 2021
+909,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,05 Jul 2021
+910,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,22 Jul 2021
+911,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,02 Sep 2020
+912,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,03 Feb 2021
+913,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,05 May 2021
+914,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,17 Sep 2020
+915,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,21 Jan 2021
+916,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,04 Dec 2020
+917,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,24 Dec 2020
+918,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,02 Jul 2021
+919,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,03 Jul 2021
+920,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,22 Jun 2021
+921,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,03 Mar 2021
+922,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,04 May 2021
+923,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,07 Dec 2020
+924,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,10 Feb 2021
+925,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,11 Mar 2021
+926,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,11 Nov 2020
+927,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,16 Apr 2021
+928,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,21 Oct 2020
+929,Alappuzha,Aroor,Rice,Basumathi,FAQ,9900,11000,10000,12 Nov 2020
+930,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11500,11300,20 May 2021
+931,Alappuzha,Aroor,Rice,Basumathi,FAQ,12000,12200,12100,21 Jul 2021
+932,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,01 Oct 2020
+933,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,04 Feb 2021
+934,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,14 Jun 2021
+935,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,20 May 2021
+936,Alappuzha,Aroor,Rice,Jaya,FAQ,3000,3200,3100,12 Jan 2021
+937,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,13 Jul 2021
+938,Alappuzha,Aroor,Rice,Jaya,FAQ,3500,3700,3600,17 Nov 2020
+939,Alappuzha,Aroor,Rice,Jaya,FAQ,3500,3700,3600,21 Jul 2021
+940,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,03 Nov 2020
+941,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,13 Nov 2020
+942,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,13 Jul 2021
+943,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,16 Oct 2020
+944,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,02 Jul 2021
+945,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,08 Jul 2021
+946,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,12 Jul 2021
+947,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,20 Feb 2021
+948,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,20 May 2021
+949,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,21 Jun 2021
+950,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,23 Feb 2021
+951,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,24 Apr 2021
+952,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,26 Feb 2021
+953,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,23 Aug 2021
+954,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,02 Jul 2021
+955,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,03 Jul 2021
+956,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,03 Nov 2020
+957,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,06 Apr 2021
+958,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,06 Feb 2021
+959,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,06 Mar 2021
+960,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,13 Aug 2021
+961,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,13 Nov 2020
+962,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,13 Oct 2020
+963,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,14 May 2021
+964,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Mar 2021
+965,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Oct 2020
+966,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,21 Sep 2020
+967,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Jun 2021
+968,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 Jul 2021
+969,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,27 Aug 2021
+970,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,17 Dec 2020
+971,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,25 Oct 2020
+972,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,31 Jul 2021
+973,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4000,4000,4000,07 Apr 2021
+974,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,06 Feb 2021
+975,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,22 Jun 2021
+976,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4300,4300,4300,19 Nov 2020
+977,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,25 Sep 2020
+978,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,09 Jul 2021
+979,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,09 Jun 2021
+980,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,25 Jun 2021
+981,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,09 Mar 2021
+982,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,11 Sep 2020
+983,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,15 Feb 2021
+984,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,24 Mar 2021
+985,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,12 Aug 2021
+986,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,18 Aug 2021
+987,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,07 Jan 2021
+988,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,10 Dec 2020
+989,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,30 Dec 2020
+990,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,09 Jun 2021
+991,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,06 Feb 2021
+992,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,07 Jan 2021
+993,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,18 Jan 2021
+994,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,19 Oct 2020
+995,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,0,2900,07 Aug 2021
+996,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,03 Aug 2021
+997,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,10 Aug 2021
+998,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,29 Sep 2020
+999,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2700,2700,23 Aug 2021
+1000,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,02 Aug 2021
+1001,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,17 Nov 2020
+1002,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,31 Jul 2021
+1003,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,03 May 2021
+1004,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,17 Mar 2021
+1005,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,18 Dec 2020
+1006,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,19 Apr 2021
+1007,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,20 Apr 2021
+1008,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,21 Jan 2021
+1009,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,27 Mar 2021
+1010,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,30 Apr 2021
+1011,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,30 Sep 2020
+1012,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,31 Jul 2021
+1013,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,12 Jul 2021
+1014,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,01 Mar 2021
+1015,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,02 Feb 2021
+1016,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,02 Jun 2021
+1017,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,03 Oct 2020
+1018,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,05 Jan 2021
+1019,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,06 Oct 2020
+1020,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,12 May 2021
+1021,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,12 Nov 2020
+1022,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,13 Jan 2021
+1023,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,14 Dec 2020
+1024,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,18 Feb 2021
+1025,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,18 May 2021
+1026,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,23 Sep 2020
+1027,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,25 Mar 2021
+1028,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,27 Feb 2021
+1029,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,15 Jul 2021
+1030,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,20 Jul 2021
+1031,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,01 Sep 2020
+1032,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,08 Apr 2021
+1033,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,09 Sep 2020
+1034,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,22 Jan 2021
+1035,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,30 Aug 2021
+1036,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,11 Dec 2020
+1037,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,12 Dec 2020
+1038,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,14 Jan 2021
+1039,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,20 Nov 2020
+1040,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,30 Nov 2020
+1041,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,04 Jun 2021
+1042,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,06 Jul 2021
+1043,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,19 Jun 2021
+1044,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,01 Feb 2021
+1045,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,02 Feb 2021
+1046,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,03 Apr 2021
+1047,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,07 Apr 2021
+1048,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,09 Feb 2021
+1049,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,09 Mar 2021
+1050,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,12 Apr 2021
+1051,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,12 Nov 2020
+1052,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,13 Jan 2021
+1053,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,18 Feb 2021
+1054,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,19 Jan 2021
+1055,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,24 Mar 2021
+1056,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,26 Apr 2021
+1057,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,28 Apr 2021
+1058,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,28 Nov 2020
+1059,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,29 Dec 2020
+1060,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,19 Aug 2021
+1061,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,31 Aug 2021
+1062,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,14 Jul 2021
+1063,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,24 Sep 2020
+1064,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,28 Sep 2020
+1065,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,30 Sep 2020
+1066,Idukki,Thodupuzha,Rice,IR-8,FAQ,2600,2700,2700,07 Aug 2021
+1067,Idukki,Thodupuzha,Rice,IR-8,FAQ,2600,2700,2700,14 Aug 2021
+1068,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,01 Jun 2021
+1069,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,21 Jun 2021
+1070,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,02 Dec 2020
+1071,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,05 Jan 2021
+1072,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,08 Oct 2020
+1073,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,11 Dec 2020
+1074,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,15 Apr 2021
+1075,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,19 Feb 2021
+1076,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,21 Dec 2020
+1077,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,22 Oct 2020
+1078,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,25 Jun 2021
+1079,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,27 Feb 2021
+1080,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,27 Jan 2021
+1081,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,29 Apr 2021
+1082,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,30 Oct 2020
+1083,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,04 Feb 2021
+1084,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,07 Apr 2021
+1085,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,07 Sep 2020
+1086,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,09 Feb 2021
+1087,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,11 May 2021
+1088,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,12 Apr 2021
+1089,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,16 Feb 2021
+1090,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,17 Mar 2021
+1091,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,18 Feb 2021
+1092,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,19 Mar 2021
+1093,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,23 Jan 2021
+1094,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,09 Aug 2021
+1095,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,20 Oct 2020
+1096,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,05 Mar 2021
+1097,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,08 Feb 2021
+1098,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,24 Nov 2020
+1099,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,30 Oct 2020
+1100,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,26 Aug 2021
+1101,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,22 Sep 2020
+1102,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,23 Jul 2021
+1103,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,09 Oct 2020
+1104,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,18 Nov 2020
+1105,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,05 May 2021
+1106,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,13 Apr 2021
+1107,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,21 Apr 2021
+1108,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,27 Apr 2021
+1109,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,16 Jul 2021
+1110,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,01 Feb 2021
+1111,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,03 Jun 2021
+1112,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,04 Nov 2020
+1113,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,14 May 2021
+1114,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,16 Dec 2020
+1115,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,19 Jan 2021
+1116,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,24 Mar 2021
+1117,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,26 Feb 2021
+1118,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,26 May 2021
+1119,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,27 Apr 2021
+1120,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,28 Oct 2020
+1121,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,29 Dec 2020
+1122,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,29 May 2021
+1123,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,02 Oct 2020
+1124,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,15 Oct 2020
+1125,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,22 Oct 2020
+1126,Alappuzha,Aroor,Rice,IR-8,FAQ,2600,2800,2700,13 Nov 2020
+1127,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,15 Mar 2021
+1128,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,21 Oct 2020
+1129,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,02 Jun 2021
+1130,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,02 Oct 2020
+1131,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,18 May 2021
+1132,Alappuzha,Aroor,Rice,Jaya,FAQ,3500,3700,3600,25 Nov 2020
+1133,Alappuzha,Aroor,Rice,Other,FAQ,3300,3500,3400,11 Jan 2021
+1134,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,23 Nov 2020
+1135,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,04 Aug 2021
+1136,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,14 May 2021
+1137,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,23 Mar 2021
+1138,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,24 Jun 2021
+1139,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,29 Jan 2021
+1140,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,29 May 2021
+1141,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,17 Dec 2020
+1142,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,23 Nov 2020
+1143,Kottayam,Kottayam,Rice,Other,FAQ,3000,3700,3600,07 Sep 2020
+1144,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,03 Oct 2020
+1145,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,04 Aug 2021
+1146,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,05 Feb 2021
+1147,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,06 Aug 2021
+1148,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,06 Oct 2020
+1149,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,10 Mar 2021
+1150,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,11 Jan 2021
+1151,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Jul 2021
+1152,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,14 Oct 2020
+1153,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Aug 2021
+1154,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Dec 2020
+1155,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,19 Nov 2020
+1156,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,21 Jun 2021
+1157,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Mar 2021
+1158,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 Feb 2021
+1159,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,28 Nov 2020
+1160,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,29 Apr 2021
+1161,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,10 Jan 2021
+1162,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,29 Jun 2021
+1163,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,09 Oct 2020
+1164,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,16 Oct 2020
+1165,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,29 Sep 2020
+1166,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,05 Jun 2021
+1167,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,04 Mar 2021
+1168,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,06 Mar 2021
+1169,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,11 Feb 2021
+1170,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,14 Sep 2020
+1171,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,26 Aug 2021
+1172,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,27 Aug 2021
+1173,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,27 Nov 2020
+1174,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,10 Jul 2021
+1175,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,21 Jun 2021
+1176,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,24 Jun 2021
+1177,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,01 Jan 2021
+1178,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,25 Aug 2021
+1179,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,01 Jun 2021
+1180,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,05 Nov 2020
+1181,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,06 Feb 2021
+1182,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,07 Jan 2021
+1183,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,08 Feb 2021
+1184,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,12 Mar 2021
+1185,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,13 Nov 2020
+1186,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,24 Nov 2020
+1187,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,22 Jan 2021
+1188,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,23 Nov 2020
+1189,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,29 Jan 2021
+1190,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,08 Sep 2020
+1191,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,15 Sep 2020
+1192,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,15 Jul 2021
+1193,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,20 Jul 2021
+1194,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,09 Aug 2021
+1195,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,25 Aug 2021
+1196,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,04 Jun 2021
+1197,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,2900,13 Mar 2021
+1198,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,03 Nov 2020
+1199,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,07 Jan 2021
+1200,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,13 Oct 2020
+1201,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,14 May 2021
+1202,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,14 Sep 2020
+1203,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,15 Dec 2020
+1204,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,17 Aug 2021
+1205,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,13 Jul 2021
+1206,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,03 Sep 2020
+1207,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,17 Dec 2020
+1208,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,21 Oct 2020
+1209,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,22 Jan 2021
+1210,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,23 Jun 2021
+1211,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,25 Jun 2021
+1212,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,28 Jan 2021
+1213,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11400,11300,17 Jun 2021
+1214,Alappuzha,Aroor,Rice,IR-8,FAQ,2400,2600,2500,28 Jan 2021
+1215,Alappuzha,Aroor,Rice,IR-8,FAQ,2500,2700,2600,23 Jan 2021
+1216,Alappuzha,Aroor,Rice,IR-8,FAQ,2600,2800,2700,18 May 2021
+1217,Alappuzha,Aroor,Rice,IR-8,FAQ,2700,2900,2800,12 Jan 2021
+1218,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,14 Jul 2021
+1219,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,22 Jul 2021
+1220,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,28 May 2021
+1221,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,19 Feb 2021
+1222,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,12 Nov 2020
+1223,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,23 Jan 2021
+1224,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,15 Oct 2020
+1225,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,30 Jun 2021
+1226,Alappuzha,Aroor,Rice,Jaya,FAQ,3500,3700,3600,08 Jun 2021
+1227,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,15 Dec 2020
+1228,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,22 Jul 2021
+1229,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,19 Feb 2021
+1230,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,09 Jun 2021
+1231,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,11 May 2021
+1232,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,21 May 2021
+1233,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,22 May 2021
+1234,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,25 May 2021
+1235,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,27 Jul 2021
+1236,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,28 Jun 2021
+1237,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,18 Jan 2021
+1238,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,19 Aug 2021
+1239,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,24 Nov 2020
+1240,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,28 Dec 2020
+1241,Malappuram,Manjeri,Rice,Other,FAQ,3400,3500,3450,26 Oct 2020
+1242,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,08 Dec 2020
+1243,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,11 Jun 2021
+1244,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,16 Jan 2021
+1245,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 Jun 2021
+1246,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,28 Sep 2020
+1247,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,30 Aug 2021
+1248,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,30 Dec 2020
+1249,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,31 Jul 2021
+1250,Idukki,Nedumkandam,Rice,IR-8,FAQ,3800,3800,3800,08 Dec 2020
+1251,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,08 Dec 2020
+1252,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,23 Aug 2021
+1253,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,31 Jan 2021
+1254,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,02 Feb 2021
+1255,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,04 Sep 2020
+1256,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,08 Mar 2021
+1257,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,10 May 2021
+1258,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,12 Feb 2021
+1259,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,27 Jan 2021
+1260,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,19 Aug 2021
+1261,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,08 Dec 2020
+1262,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,21 Oct 2020
+1263,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,28 Jun 2021
+1264,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,05 May 2021
+1265,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,06 Jan 2021
+1266,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,10 Nov 2020
+1267,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,12 Mar 2021
+1268,Alappuzha,Aroor,Rice,Basumathi,FAQ,7800,8000,7900,19 Jan 2021
+1269,Alappuzha,Aroor,Rice,Basumathi,FAQ,8800,9000,8900,28 Jan 2021
+1270,Alappuzha,Aroor,Rice,Basumathi,FAQ,9000,9200,9100,04 May 2021
+1271,Alappuzha,Aroor,Rice,Basumathi,FAQ,10000,11200,11000,28 Apr 2021
+1272,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,19 May 2021
+1273,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,25 May 2021
+1274,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11400,11300,17 Sep 2020
+1275,Alappuzha,Aroor,Rice,Basumathi,FAQ,12000,12300,12200,21 Jun 2021
+1276,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,08 May 2021
+1277,Alappuzha,Aroor,Rice,IR-8,FAQ,2900,3100,3000,02 Nov 2020
+1278,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,15 Dec 2020
+1279,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,21 Apr 2021
+1280,Alappuzha,Aroor,Rice,Jaya,FAQ,3200,3400,3300,21 Oct 2020
+1281,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,20 May 2021
+1282,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,22 Jul 2021
+1283,Alappuzha,Aroor,Rice,Jaya,FAQ,3300,3500,3400,28 Apr 2021
+1284,Alappuzha,Aroor,Rice,Jaya,FAQ,3500,3700,3600,06 May 2021
+1285,Alappuzha,Aroor,Rice,Other,FAQ,3300,3500,3400,19 Jan 2021
+1286,Alappuzha,Aroor,Rice,Other,FAQ,3400,3600,3500,26 Jun 2021
+1287,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,02 Nov 2020
+1288,Alappuzha,Aroor,Rice,Other,FAQ,3600,3800,3700,16 Sep 2020
+1289,Alappuzha,Aroor,Rice,Other,FAQ,3700,3900,3800,07 Jul 2021
+1290,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,07 Apr 2021
+1291,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,07 Aug 2021
+1292,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,09 Feb 2021
+1293,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,10 Feb 2021
+1294,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,15 Jul 2021
+1295,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,16 Feb 2021
+1296,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,17 May 2021
+1297,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,19 Mar 2021
+1298,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,20 Apr 2021
+1299,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,22 Jul 2021
+1300,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,08 Dec 2020
+1301,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,11 Dec 2020
+1302,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,12 Jan 2021
+1303,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,17 Aug 2021
+1304,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,23 Dec 2020
+1305,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,25 Aug 2021
+1306,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,01 May 2021
+1307,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,04 Nov 2020
+1308,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,09 Sep 2020
+1309,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,10 Jul 2021
+1310,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Feb 2021
+1311,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,12 Jan 2021
+1312,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,15 Oct 2020
+1313,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,17 Aug 2021
+1314,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,22 Mar 2021
+1315,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Dec 2020
+1316,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 Mar 2021
+1317,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,24 Sep 2020
+1318,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,25 Aug 2021
+1319,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 May 2021
+1320,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,30 Apr 2021
+1321,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,24 Jul 2021
+1322,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,06 Aug 2021
+1323,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,18 Jan 2021
+1324,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,04 Aug 2021
+1325,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,10 Aug 2021
+1326,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,01 Jan 2021
+1327,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,02 Dec 2020
+1328,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,11 Jan 2021
+1329,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,23 Nov 2020
+1330,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,05 Jul 2021
+1331,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,16 Jun 2021
+1332,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,18 Jun 2021
+1333,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,29 Jun 2021
+1334,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,30 Jun 2021
+1335,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,04 Dec 2020
+1336,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,08 Dec 2020
+1337,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,09 Nov 2020
+1338,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,10 Dec 2020
+1339,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,11 Dec 2020
+1340,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,12 Jan 2021
+1341,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,17 Nov 2020
+1342,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,18 Mar 2021
+1343,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,25 Feb 2021
+1344,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,27 Apr 2021
+1345,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,06 Aug 2021
+1346,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,02 Sep 2020
+1347,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,13 Jul 2021
+1348,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,16 Jul 2021
+1349,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,11 Aug 2021
+1350,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,03 Apr 2021
+1351,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,04 Sep 2020
+1352,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,06 Nov 2020
+1353,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,06 Oct 2020
+1354,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,18 Mar 2021
+1355,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,22 Jan 2021
+1356,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,25 Feb 2021
+1357,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,28 May 2021
+1358,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,2000,2200,2200,22 Sep 2020
+1359,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,04 Aug 2021
+1360,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,19 Aug 2021
+1361,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,30 Aug 2021
+1362,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,08 Jul 2021
+1363,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,03 Apr 2021
+1364,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,03 Nov 2020
+1365,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,06 May 2021
+1366,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,06 Nov 2020
+1367,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,18 Dec 2020
+1368,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,31 Dec 2020
+1369,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,05 Apr 2021
+1370,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,05 Feb 2021
+1371,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,08 Apr 2021
+1372,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,10 Mar 2021
+1373,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,12 Dec 2020
+1374,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,16 Dec 2020
+1375,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,24 Apr 2021
+1376,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,30 Nov 2020
+1377,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,25 Aug 2021
+1378,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,12 Jul 2021
+1379,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,25 Sep 2020
+1380,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,18 Aug 2021
+1381,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,21 Nov 2020
+1382,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,29 Jul 2021
+1383,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,01 Mar 2021
+1384,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,03 Oct 2020
+1385,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,04 Nov 2020
+1386,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,09 Dec 2020
+1387,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,09 Mar 2021
+1388,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,11 Jan 2021
+1389,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,13 Jan 2021
+1390,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,14 Oct 2020
+1391,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,16 Dec 2020
+1392,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,23 Mar 2021
+1393,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,26 Feb 2021
+1394,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,01 Sep 2021
+1395,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3700,3700,30 Jul 2021
+1396,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,04 Jan 2021
+1397,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,08 Jun 2021
+1398,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,13 Apr 2021
+1399,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,14 Jun 2021
+1400,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,20 May 2021
+1401,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,21 Apr 2021
+1402,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,27 Mar 2021
+1403,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,30 Mar 2021
+1404,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,26 Feb 2021
+1405,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,28 Apr 2021
+1406,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,24 Aug 2021
+1407,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,04 Nov 2020
+1408,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,13 Jan 2021
+1409,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,24 Nov 2020
+1410,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,26 Dec 2020
+1411,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,28 Nov 2020
+1412,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,17 Jun 2021
+1413,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,02 Apr 2021
+1414,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,09 Apr 2021
+1415,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,10 Apr 2021
+1416,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,14 Jan 2021
+1417,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,15 Mar 2021
+1418,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,17 Dec 2020
+1419,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,19 Dec 2020
+1420,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,20 Aug 2021
+1421,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,21 Sep 2020
+1422,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,07 Oct 2020
+1423,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,10 Aug 2021
+1424,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,01 Jul 2021
+1425,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,17 Jul 2021
+1426,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,30 Mar 2021
+1427,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,04 May 2021
+1428,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,05 Oct 2020
+1429,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,06 Feb 2021
+1430,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,08 Sep 2020
+1431,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,09 Apr 2021
+1432,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,09 Oct 2020
+1433,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,12 Mar 2021
+1434,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,13 Nov 2020
+1435,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,15 Sep 2020
+1436,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,16 Oct 2020
+1437,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,17 Jun 2021
+1438,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,22 Jun 2021
+1439,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,29 May 2021
+1440,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,29 Sep 2020
+1441,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,2800,3000,3000,08 Mar 2021
+1442,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3700,3800,3800,02 Jul 2021
+1443,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,07 Nov 2020
+1444,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,07 Oct 2020
+1445,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,08 Jan 2021
+1446,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,08 Oct 2020
+1447,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,09 Apr 2021
+1448,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,12 Jan 2021
+1449,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,15 Mar 2021
+1450,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,16 Apr 2021
+1451,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,18 Mar 2021
+1452,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,19 Feb 2021
+1453,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,21 Nov 2020
+1454,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,24 May 2021
+1455,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,25 Jan 2021
+1456,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,17 Mar 2021
+1457,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,19 Apr 2021
+1458,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,24 Dec 2020
+1459,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,18 Sep 2020
+1460,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,27 Jul 2021
+1461,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,15 Oct 2020
+1462,Idukki,Thodupuzha,Rice,IR-8,FAQ,2500,2600,2600,26 Aug 2021
+1463,Idukki,Thodupuzha,Rice,IR-8,FAQ,2700,2800,2800,04 Aug 2021
+1464,Idukki,Thodupuzha,Rice,IR-8,FAQ,2700,2800,2800,06 Aug 2021
+1465,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,23 Jul 2021
+1466,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,10 May 2021
+1467,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,12 Oct 2020
+1468,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,28 Jan 2021
+1469,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,28 Jun 2021
+1470,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,28 Sep 2020
+1471,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,30 Dec 2020
+1472,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3500,07 Aug 2021
+1473,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,10 Aug 2021
+1474,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,12 Aug 2021
+1475,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,18 Aug 2021
+1476,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,23 Aug 2021
+1477,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3700,3800,3800,05 Jul 2021
+1478,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,09 Mar 2021
+1479,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,14 Sep 2020
+1480,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,15 Oct 2020
+1481,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,17 Jun 2021
+1482,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,21 Dec 2020
+1483,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,22 Feb 2021
+1484,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,22 Mar 2021
+1485,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,22 Oct 2020
+1486,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,24 Sep 2020
+1487,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,26 Apr 2021
+1488,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,29 Sep 2020
+1489,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,22 Feb 2021
+1490,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,29 Aug 2021
+1491,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,05 Oct 2020
+1492,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,07 Oct 2020
+1493,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,01 Jul 2021
+1494,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,03 Jun 2021
+1495,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,07 Jul 2021
+1496,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,03 Mar 2021
+1497,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,05 Mar 2021
+1498,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,10 Sep 2020
+1499,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,12 May 2021
+1500,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,13 May 2021
+1501,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,22 Mar 2021
+1502,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,23 Mar 2021
+1503,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,25 Mar 2021
+1504,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,28 Jan 2021
+1505,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,29 Jan 2021
+1506,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,03 Aug 2021
+1507,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3000,2900,11 Aug 2021
+1508,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,12 Jan 2021
+1509,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,21 Dec 2020
+1510,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,23 Dec 2020
+1511,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,26 Oct 2020
+1512,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,30 Oct 2020
+1513,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,08 Jul 2021
+1514,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,03 May 2021
+1515,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,13 Feb 2021
+1516,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,04 Sep 2020
+1517,Malappuram,Perinthalmanna,Rice,Other,FAQ,3100,3300,3200,19 Jul 2021
+1518,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,08 Oct 2020
+1519,Malappuram,Perinthalmanna,Rice,Other,FAQ,3400,3600,3500,16 Oct 2020
+1520,Idukki,Thodupuzha,Rice,IR-8,FAQ,2700,2800,2800,16 Jul 2021
+1521,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,07 Jul 2021
+1522,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,08 Jun 2021
+1523,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,27 Nov 2020
+1524,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,02 Nov 2020
+1525,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,03 Feb 2021
+1526,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,05 Nov 2020
+1527,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,09 Nov 2020
+1528,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,10 Dec 2020
+1529,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,16 Apr 2021
+1530,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,16 Sep 2020
+1531,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,18 Jan 2021
+1532,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,19 Oct 2020
+1533,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,22 Feb 2021
+1534,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,25 Jan 2021
+1535,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,1800,2000,2000,04 Feb 2021
+1536,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,14 Aug 2021
+1537,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,16 Aug 2021
+1538,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,24 Aug 2021
+1539,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3600,3700,3700,26 Jul 2021
+1540,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,02 Nov 2020
+1541,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,05 Oct 2020
+1542,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,09 Nov 2020
+1543,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,10 Dec 2020
+1544,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,11 Dec 2020
+1545,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,15 Apr 2021
+1546,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,16 Oct 2020
+1547,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,16 Sep 2020
+1548,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,17 Nov 2020
+1549,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,18 Jan 2021
+1550,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,18 Nov 2020
+1551,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,19 Oct 2020
+1552,Alappuzha,Aroor,Rice,Basumathi,FAQ,8600,8800,8700,17 Nov 2020
+1553,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,05 Nov 2020
+1554,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,16 Sep 2020
+1555,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,18 Sep 2020
+1556,Alappuzha,Aroor,Rice,Basumathi,FAQ,11000,11300,11200,30 Sep 2020
+1557,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11400,11300,02 Jun 2021
+1558,Alappuzha,Aroor,Rice,Basumathi,FAQ,11200,11400,11300,03 Jun 2021
+1559,Alappuzha,Aroor,Rice,Basumathi,FAQ,11800,12000,11900,22 Jul 2021
+1560,Alappuzha,Aroor,Rice,IR-8,FAQ,2600,2800,2700,03 Oct 2020
+1561,Alappuzha,Aroor,Rice,IR-8,FAQ,2700,3000,2800,16 Nov 2020
+1562,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,13 Jul 2021
+1563,Alappuzha,Aroor,Rice,IR-8,FAQ,2800,3000,2900,24 May 2021
+1564,Alappuzha,Aroor,Rice,Jaya,FAQ,3400,3600,3500,12 May 2021
+1565,Alappuzha,Aroor,Rice,Jaya,FAQ,3500,3800,3600,03 Jun 2021
+1566,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,01 Oct 2020
+1567,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,08 Mar 2021
+1568,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,14 Jun 2021
+1569,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,20 May 2021
+1570,Alappuzha,Aroor,Rice,Other,FAQ,3500,3700,3600,21 Apr 2021
+1571,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,03 Jul 2021
+1572,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,06 Mar 2021
+1573,Kottayam,Kottayam,Rice,Other,FAQ,3000,3400,3300,22 Jun 2021
+1574,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,08 Jan 2021
+1575,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,14 Jan 2021
+1576,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,18 Dec 2020
+1577,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,18 Nov 2020
+1578,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,19 Dec 2020
+1579,Kottayam,Kottayam,Rice,Other,FAQ,3000,3600,3500,22 Jan 2021
+1580,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,04 Jan 2021
+1581,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,08 Feb 2021
+1582,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,08 Mar 2021
+1583,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,10 Sep 2020
+1584,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,20 Feb 2021
+1585,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,20 May 2021
+1586,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,22 Sep 2020
+1587,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Aug 2021
+1588,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,23 Jul 2021
+1589,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,25 Sep 2020
+1590,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,26 Dec 2020
+1591,Malappuram,Manjeri,Rice,Other,FAQ,3450,3550,3500,28 Jul 2021
+1592,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,07 Mar 2021
+1593,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,17 Jul 2021
+1594,Idukki,Nedumkandam,Rice,IR-8,FAQ,3500,3500,3500,27 Oct 2020
+1595,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4200,4200,4200,28 May 2021
+1596,Idukki,Nedumkandam,Rice,Mataa Parboiled,FAQ,4500,4500,4500,09 Nov 2020
+1597,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2600,3000,2800,13 Oct 2020
+1598,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,19 Jul 2021
+1599,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,2900,2800,30 Jun 2021
+1600,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,01 Jun 2021
+1601,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,02 Apr 2021
+1602,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,12 Mar 2021
+1603,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,15 Sep 2020
+1604,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2700,3300,3000,20 Mar 2021
+1605,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,02 Nov 2020
+1606,Malappuram,Perinthalmanna,Rice,Jaya,FAQ,2800,3200,3000,16 Jan 2021
+1607,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,14 Jun 2021
+1608,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,2700,2600,15 Jun 2021
+1609,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,04 Jan 2021
+1610,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,08 Mar 2021
+1611,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,12 Feb 2021
+1612,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,17 Feb 2021
+1613,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,20 Feb 2021
+1614,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,23 Jan 2021
+1615,Malappuram,Perinthalmanna,Rice,Other,FAQ,2500,3100,2800,26 Oct 2020
+1616,Malappuram,Perinthalmanna,Rice,Other,FAQ,2700,2900,2800,23 Aug 2021
+1617,Malappuram,Perinthalmanna,Rice,Other,FAQ,3000,3400,3200,10 Sep 2020
+1618,Idukki,Thodupuzha,Rice,IR-8,FAQ,800,3000,3000,08 Mar 2021
+1619,Idukki,Thodupuzha,Rice,IR-8,FAQ,2600,2700,2700,12 Aug 2021
+1620,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,05 Jul 2021
+1621,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,2900,2900,27 Jul 2021
+1622,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,04 Jan 2021
+1623,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,08 Feb 2021
+1624,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,17 Apr 2021
+1625,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,20 Feb 2021
+1626,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,20 May 2021
+1627,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,22 Sep 2020
+1628,Idukki,Thodupuzha,Rice,IR-8,FAQ,2800,3000,3000,25 Sep 2020
+1629,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,02 Aug 2021
+1630,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3500,3600,3600,11 Aug 2021
+1631,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,01 Jan 2021
+1632,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,01 Jul 2021
+1633,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,02 Dec 2020
+1634,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,04 Jun 2021
+1635,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,05 Apr 2021
+1636,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,05 Feb 2021
+1637,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,07 Sep 2020
+1638,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,08 Apr 2021
+1639,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,09 Sep 2020
+1640,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,14 Oct 2020
+1641,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,20 Jan 2021
+1642,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,29 Apr 2021
+1643,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,3800,3900,3900,30 Nov 2020

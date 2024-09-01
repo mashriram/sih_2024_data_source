@@ -1,0 +1,2678 @@
+0,1,2,3,4,5,6,7,8,9
+1,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1200,1000,16 Feb 2018
+2,Chikmagalur,Bagepalli,Potato,Other,FAQ,1000,1500,1240,27 Jan 2018
+3,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1000,1400,1025,03 Feb 2018
+4,Bangalore,Bangalore,Potato,Local,FAQ,600,1200,900,14 Sep 2017
+5,Bangalore,Bangalore,Potato,Local,FAQ,600,1200,900,27 Sep 2017
+6,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,20 Feb 2018
+7,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,28 Feb 2018
+8,Bangalore,Bangalore,Potato,Local,FAQ,900,1400,1150,05 Dec 2017
+9,Bangalore,Bangalore,Potato,Local,FAQ,1100,1500,1300,05 Feb 2018
+10,Bangalore,Bangalore,Potato,Local,FAQ,1100,1500,1300,07 Mar 2018
+11,Bangalore,Bangalore,Potato,Local,FAQ,1100,1800,1450,25 Jan 2018
+12,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,06 Apr 2018
+13,Bangalore,Bangalore,Potato,Local,FAQ,1400,1900,1650,17 Jul 2018
+14,Bangalore,Bangalore,Potato,Local,FAQ,1400,2200,1800,03 Jan 2018
+15,Bangalore,Bangalore,Potato,Local,FAQ,1800,2100,1950,11 Apr 2018
+16,Bangalore,Bangalore,Potato,Local,FAQ,1800,2200,2000,04 May 2018
+17,Bangalore,Bangalore,Potato,Local,FAQ,1800,2300,2050,09 May 2018
+18,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,17 May 2018
+19,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,21 May 2018
+20,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,30 Jun 2018
+21,Bangalore,Bangalore,Potato,Potato,FAQ,700,1200,950,02 Jan 2018
+22,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,10 Nov 2017
+23,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,16 Jan 2018
+24,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,19 Feb 2018
+25,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1300,1200,06 Apr 2018
+26,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1500,1300,09 Apr 2018
+27,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1800,1450,19 Mar 2018
+28,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,27 Mar 2018
+29,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2000,1700,28 Apr 2018
+30,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2000,1800,30 Jul 2018
+31,Bangalore,Bangalore,Potato,Potato,FAQ,1500,1800,1650,07 Sep 2017
+32,Bangalore,Bangalore,Potato,Potato,FAQ,1500,1800,1650,08 Sep 2017
+33,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2100,1800,12 Apr 2018
+34,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,25 Jun 2018
+35,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2400,2000,23 May 2018
+36,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2400,2000,28 May 2018
+37,Bangalore,Bangalore,Potato,Potato,FAQ,2000,2400,2200,06 Oct 2017
+38,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,1500,1400,18 Aug 2018
+39,Kolar,Bangarpet,Potato,Local,FAQ,800,1000,950,20 Mar 2018
+40,Belgaum,Belgaum,Potato,Local,FAQ,600,980,700,28 Dec 2017
+41,Belgaum,Belgaum,Potato,Local,FAQ,600,1400,1100,22 Dec 2017
+42,Belgaum,Belgaum,Potato,Local,FAQ,600,1500,1200,30 Oct 2017
+43,Belgaum,Belgaum,Potato,Local,FAQ,700,1030,810,24 Sep 2017
+44,Belgaum,Belgaum,Potato,Local,FAQ,800,1250,1000,10 Feb 2018
+45,Belgaum,Belgaum,Potato,Local,FAQ,800,1800,1500,14 Dec 2017
+46,Belgaum,Belgaum,Potato,Local,FAQ,800,2110,1700,25 Apr 2018
+47,Belgaum,Belgaum,Potato,Local,FAQ,860,7510,1360,25 Jul 2018
+48,Belgaum,Belgaum,Potato,Local,FAQ,900,1680,1300,04 Dec 2017
+49,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1100,08 Jun 2018
+50,Belgaum,Belgaum,Potato,Local,FAQ,900,2100,1800,10 Dec 2017
+51,Belgaum,Belgaum,Potato,Local,FAQ,910,2000,1800,20 Apr 2018
+52,Belgaum,Belgaum,Potato,Local,FAQ,950,1800,1300,12 Jul 2018
+53,Belgaum,Belgaum,Potato,Local,FAQ,1500,2000,1700,11 Aug 2018
+54,Hassan,Arakalgud,Potato,Local,FAQ,1000,1000,1000,07 Sep 2017
+55,Chikmagalur,Bagepalli,Potato,Other,FAQ,600,1000,840,26 May 2018
+56,Chikmagalur,Bagepalli,Potato,Other,FAQ,1000,1200,1100,14 Mar 2018
+57,Bangalore,Bangalore,Potato,Local,FAQ,600,1300,950,22 Sep 2017
+58,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,21 Oct 2017
+59,Bangalore,Bangalore,Potato,Local,FAQ,900,1200,1050,24 Feb 2018
+60,Bangalore,Bangalore,Potato,Local,FAQ,900,1400,1150,06 Dec 2017
+61,Bangalore,Bangalore,Potato,Local,FAQ,1000,1300,1150,02 Mar 2018
+62,Bangalore,Bangalore,Potato,Local,FAQ,1000,1400,1200,08 Mar 2018
+63,Bangalore,Bangalore,Potato,Local,FAQ,1000,1500,1250,30 Jan 2018
+64,Bangalore,Bangalore,Potato,Local,FAQ,1100,1500,1300,03 Feb 2018
+65,Bangalore,Bangalore,Potato,Local,FAQ,1200,1500,1350,14 Mar 2018
+66,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,03 Mar 2018
+67,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,20 Jan 2018
+68,Bangalore,Bangalore,Potato,Local,FAQ,1200,2100,1650,06 Jan 2018
+69,Bangalore,Bangalore,Potato,Local,FAQ,1200,2200,1700,14 Dec 2017
+70,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,31 Jul 2018
+71,Bangalore,Bangalore,Potato,Local,FAQ,1500,1900,1700,19 Jul 2018
+72,Bangalore,Bangalore,Potato,Local,FAQ,1700,2400,2050,11 Jun 2018
+73,Bangalore,Bangalore,Potato,Local,FAQ,1800,2100,1950,06 Jul 2018
+74,Bangalore,Bangalore,Potato,Local,FAQ,1800,2200,2000,03 May 2018
+75,Bangalore,Bangalore,Potato,Local,FAQ,1800,2200,2000,30 Apr 2018
+76,Bangalore,Bangalore,Potato,Local,FAQ,1800,2300,2050,02 May 2018
+77,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,07 Dec 2017
+78,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,14 Nov 2017
+79,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,17 Jan 2018
+80,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2100,1550,23 Apr 2018
+81,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1300,1200,12 Mar 2018
+82,Bangalore,Bangalore,Potato,Potato,FAQ,1200,2000,1600,01 Sep 2017
+83,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1800,1600,21 Oct 2017
+84,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2000,1700,02 Nov 2017
+85,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2100,1750,26 Apr 2018
+86,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2400,1900,19 Jul 2018
+87,Bangalore,Bangalore,Potato,Potato,FAQ,1500,1800,1650,11 Sep 2017
+88,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,19 Oct 2017
+89,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,28 Sep 2017
+90,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2400,1950,17 Jul 2018
+91,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2200,1900,23 Aug 2018
+92,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2200,1900,24 Aug 2018
+93,Bangalore,Bangalore,Potato,Potato,FAQ,1700,2100,1900,07 May 2018
+94,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1250,13 Nov 2017
+95,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1250,15 Nov 2017
+96,Kolar,Bangarpet,Potato,Jalander,FAQ,500,1200,900,21 Dec 2017
+97,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1200,950,13 Dec 2017
+98,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,1500,1400,31 Aug 2018
+99,Belgaum,Belgaum,Potato,Local,FAQ,600,980,700,15 Sep 2017
+100,Belgaum,Belgaum,Potato,Local,FAQ,600,1200,1000,30 Nov 2017
+101,Belgaum,Belgaum,Potato,Local,FAQ,600,1400,1100,21 Dec 2017
+102,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1200,04 Nov 2017
+103,Belgaum,Belgaum,Potato,Local,FAQ,700,1520,1200,12 Nov 2017
+104,Belgaum,Belgaum,Potato,Local,FAQ,800,1900,1670,12 May 2018
+105,Belgaum,Belgaum,Potato,Local,FAQ,900,1680,1300,03 Dec 2017
+106,Belgaum,Belgaum,Potato,Local,FAQ,900,1800,1300,20 Jul 2018
+107,Chikmagalur,Bagepalli,Potato,Other,FAQ,1000,1400,1258,20 Jan 2018
+108,Chikmagalur,Bagepalli,Potato,Other,FAQ,1400,2000,1655,28 Jun 2018
+109,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1000,1400,1200,07 Feb 2018
+110,Bangalore,Bangalore,Potato,Local,FAQ,600,1300,950,23 Sep 2017
+111,Bangalore,Bangalore,Potato,Local,FAQ,800,1000,900,30 Oct 2017
+112,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,03 Oct 2017
+113,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,09 Oct 2017
+114,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,10 Oct 2017
+115,Bangalore,Bangalore,Potato,Local,FAQ,800,1400,1100,29 Nov 2017
+116,Bangalore,Bangalore,Potato,Local,FAQ,800,1500,1150,14 Nov 2017
+117,Bangalore,Bangalore,Potato,Local,FAQ,800,1500,1150,27 Nov 2017
+118,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,17 Feb 2018
+119,Bangalore,Bangalore,Potato,Local,FAQ,900,1400,1150,01 Feb 2018
+120,Bangalore,Bangalore,Potato,Local,FAQ,1000,1600,1300,30 Aug 2018
+121,Bangalore,Bangalore,Potato,Local,FAQ,1000,2000,1500,21 Dec 2017
+122,Bangalore,Bangalore,Potato,Local,FAQ,1000,2100,1550,08 Jan 2018
+123,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,01 Sep 2018
+124,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,16 Aug 2018
+125,Bangalore,Bangalore,Potato,Local,FAQ,1500,1800,1650,16 Jul 2018
+126,Bangalore,Bangalore,Potato,Local,FAQ,1800,2200,2000,07 May 2018
+127,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,15 Jun 2018
+128,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,29 Jun 2018
+129,Bangalore,Bangalore,Potato,Local,FAQ,1800,2500,2150,08 Jun 2018
+130,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,02 Apr 2018
+131,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1200,1100,04 Apr 2018
+132,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,28 Feb 2018
+133,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1600,1300,06 Feb 2018
+134,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2300,1650,13 Jun 2018
+135,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1800,1450,26 Mar 2018
+136,Bangalore,Bangalore,Potato,Potato,FAQ,1100,2400,1750,21 May 2018
+137,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1800,1500,21 Mar 2018
+138,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1900,1550,28 Aug 2018
+139,Bangalore,Bangalore,Potato,Potato,FAQ,1200,2000,1600,06 Sep 2017
+140,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,2200,27 Jun 2018
+141,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2100,1750,10 Aug 2018
+142,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2200,1800,31 Jul 2018
+143,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2400,1900,12 Jul 2018
+144,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,09 Oct 2017
+145,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,10 Oct 2017
+146,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,21 Jun 2018
+147,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2400,1950,21 Jul 2018
+148,Bangalore,Bangalore,Potato,Potato,FAQ,1600,1900,1750,30 Aug 2018
+149,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2100,1850,01 Sep 2018
+150,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2100,1850,11 Apr 2018
+151,Kolar,Bangarpet,Potato,Jalander,FAQ,300,1200,1000,24 Nov 2017
+152,Kolar,Bangarpet,Potato,Jalander,FAQ,400,900,800,25 Dec 2017
+153,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1600,1300,04 Nov 2017
+154,Kolar,Bangarpet,Potato,Jalander,FAQ,500,1000,900,20 Dec 2017
+155,Kolar,Bangarpet,Potato,Jalander,FAQ,500,1200,900,22 Dec 2017
+156,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1200,1000,02 Dec 2017
+157,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,2000,1500,16 Sep 2017
+158,Kolar,Bangarpet,Potato,Jalander,FAQ,1300,2200,2000,02 Oct 2017
+159,Belgaum,Belgaum,Potato,Local,FAQ,300,1100,990,07 Feb 2018
+160,Belgaum,Belgaum,Potato,Local,FAQ,1800,2200,1950,17 Aug 2018
+161,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,22 Oct 2017
+162,Hassan,Belur,Potato,Chandermukhi,FAQ,600,700,600,13 Oct 2017
+163,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1200,1000,11 Jan 2018
+164,Hassan,Belur,Potato,Chandermukhi,FAQ,1250,1250,1250,25 Dec 2017
+165,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,07 Oct 2017
+166,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,21 Nov 2017
+167,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,17 Aug 2018
+168,Kolar,Chickkaballapura,Potato,Local,FAQ,180,1500,840,23 Mar 2018
+169,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1600,1200,23 Jan 2018
+170,Kolar,Chickkaballapura,Potato,Local,FAQ,900,1200,1000,18 Feb 2018
+171,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,17 Jan 2018
+172,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,1200,1000,20 Jan 2018
+173,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1091,991,05 Sep 2017
+174,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,09 Feb 2018
+175,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,19 Oct 2017
+176,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,26 Oct 2017
+177,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,27 Jan 2018
+178,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,912,1112,1012,17 Feb 2018
+179,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,922,1122,1022,14 Nov 2017
+180,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1105,1305,1205,12 Mar 2018
+181,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1150,1350,1250,24 Mar 2018
+182,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1417,1617,1517,02 Jun 2018
+183,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1630,1830,1730,23 Jun 2018
+184,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1783,1983,1883,13 Aug 2018
+185,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2000,2000,2000,18 Aug 2018
+186,Davangere,Davangere,Potato,Potato,FAQ,600,800,700,01 Dec 2017
+187,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,19 Jan 2018
+188,Davangere,Davangere,Potato,Potato,FAQ,1000,1500,1250,24 Aug 2018
+189,Hassan,Hassan,Potato,Potato,FAQ,400,850,600,04 Oct 2017
+190,Hassan,Hassan,Potato,Potato,FAQ,500,950,600,13 Dec 2017
+191,Hassan,Hassan,Potato,Potato,FAQ,600,600,600,21 Sep 2017
+192,Hassan,Hassan,Potato,Potato,FAQ,600,1367,600,07 Sep 2017
+193,Hassan,Hassan,Potato,Potato,FAQ,783,783,783,18 Jan 2018
+194,Hassan,Hassan,Potato,Potato,FAQ,1000,1658,1390,23 Jul 2018
+195,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,14 May 2018
+196,Hassan,Hassan,Potato,Potato,FAQ,1674,1674,1674,08 Feb 2018
+197,Chitradurga,Holalkere,Potato,Potato,Medium,1000,1000,1000,30 Oct 2017
+198,Bellary,Hospet,Potato,Potato,FAQ,650,700,700,29 Nov 2017
+199,Bellary,Hospet,Potato,Potato,FAQ,700,1000,800,17 Oct 2017
+200,Bellary,Hospet,Potato,Potato,FAQ,800,1200,1000,10 Feb 2018
+201,Bellary,Hospet,Potato,Potato,FAQ,1200,1300,1200,25 Apr 2018
+202,Bellary,Hospet,Potato,Potato,FAQ,1200,1500,1200,27 Jun 2018
+203,Bellary,Hospet,Potato,Potato,Medium,1000,1000,1000,30 Dec 2017
+204,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,900,600,14 Sep 2017
+205,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,350,1250,750,30 Jan 2018
+206,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,600,550,09 Dec 2017
+207,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,550,600,550,01 Dec 2017
+208,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,550,1250,800,09 Feb 2018
+209,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1500,1400,10 Mar 2018
+210,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1300,1400,1350,31 Mar 2018
+211,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1300,1650,1300,27 Mar 2018
+212,Hassan,Arakalgud,Potato,Local,FAQ,400,400,400,27 Oct 2017
+213,Hassan,Arakalgud,Potato,Local,FAQ,800,800,800,23 Sep 2017
+214,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,01 Sep 2017
+215,Bangalore,Bangalore,Potato,Local,FAQ,800,1400,1100,25 Nov 2017
+216,Bangalore,Bangalore,Potato,Local,FAQ,800,1500,1150,10 Nov 2017
+217,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,22 Feb 2018
+218,Bangalore,Bangalore,Potato,Local,FAQ,1000,1400,1200,13 Nov 2017
+219,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,16 Jan 2018
+220,Bangalore,Bangalore,Potato,Local,FAQ,1400,1900,1650,20 Jul 2018
+221,Bangalore,Bangalore,Potato,Local,FAQ,1400,1900,1650,24 Jul 2018
+222,Bangalore,Bangalore,Potato,Local,FAQ,1800,2100,1950,10 Jul 2018
+223,Bangalore,Bangalore,Potato,Local,FAQ,1800,2200,2000,08 May 2018
+224,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,13 Jun 2018
+225,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,18 May 2018
+226,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,24 Nov 2017
+227,Bangalore,Bangalore,Potato,Potato,FAQ,600,1100,850,27 Dec 2017
+228,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,20 Dec 2017
+229,Bangalore,Bangalore,Potato,Potato,FAQ,700,1100,900,29 Nov 2017
+230,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,18 Nov 2017
+231,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,29 Jan 2018
+232,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1600,1300,05 Feb 2018
+233,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1300,1200,07 Apr 2018
+234,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,31 Mar 2018
+235,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,1800,31 May 2018
+236,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2400,1850,06 Jul 2018
+237,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2000,1700,30 Apr 2018
+238,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2400,1950,20 Jul 2018
+239,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2400,2000,24 May 2018
+240,Bangalore,Bangalore,Potato,Potato,FAQ,1700,2100,1900,08 May 2018
+241,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2500,2150,18 Sep 2017
+242,Kolar,Bangarpet,Potato,Jalander,FAQ,200,400,300,04 Jan 2018
+243,Kolar,Bangarpet,Potato,Jalander,FAQ,200,400,300,05 Jan 2018
+244,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1000,850,26 Dec 2017
+245,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1200,1000,23 Nov 2017
+246,Kolar,Bangarpet,Potato,Jalander,FAQ,500,1200,950,14 Dec 2017
+247,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1200,900,28 Nov 2017
+248,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1200,1000,04 Dec 2017
+249,Belgaum,Belgaum,Potato,Local,FAQ,400,850,600,04 Oct 2017
+250,Belgaum,Belgaum,Potato,Local,FAQ,400,850,600,06 Oct 2017
+251,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1000,07 Sep 2017
+252,Belgaum,Belgaum,Potato,Local,FAQ,600,1460,1100,16 Nov 2017
+253,Belgaum,Belgaum,Potato,Local,FAQ,600,1590,1200,23 Oct 2017
+254,Belgaum,Belgaum,Potato,Local,FAQ,600,1850,1690,22 Nov 2017
+255,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,900,07 Jan 2018
+256,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,980,23 Dec 2017
+257,Belgaum,Belgaum,Potato,Local,FAQ,700,1230,1000,31 Jan 2018
+258,Belgaum,Belgaum,Potato,Local,FAQ,800,1400,1130,25 Feb 2018
+259,Belgaum,Belgaum,Potato,Local,FAQ,800,1700,1500,02 Jun 2018
+260,Belgaum,Belgaum,Potato,Local,FAQ,850,7500,1350,23 Jul 2018
+261,Belgaum,Belgaum,Potato,Local,FAQ,950,1950,1350,07 Jul 2018
+262,Belgaum,Belgaum,Potato,Local,FAQ,1050,1900,1600,30 Aug 2018
+263,Belgaum,Belgaum,Potato,Local,FAQ,1100,1750,1400,30 Jun 2018
+264,Belgaum,Belgaum,Potato,Local,FAQ,1200,2200,1900,27 Aug 2018
+265,Belgaum,Belgaum,Potato,Local,FAQ,500,1290,1000,02 Nov 2017
+266,Belgaum,Belgaum,Potato,Local,FAQ,630,1090,850,13 Oct 2017
+267,Belgaum,Belgaum,Potato,Local,FAQ,700,1030,810,25 Sep 2017
+268,Belgaum,Belgaum,Potato,Local,FAQ,700,1170,1000,17 Jan 2018
+269,Belgaum,Belgaum,Potato,Local,FAQ,730,1200,1100,05 Mar 2018
+270,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1400,22 Jun 2018
+271,Belgaum,Belgaum,Potato,Local,FAQ,900,2700,1360,02 Aug 2018
+272,Belgaum,Belgaum,Potato,Local,FAQ,910,2000,1800,16 Apr 2018
+273,Belgaum,Belgaum,Potato,Local,FAQ,950,1850,1300,15 Jul 2018
+274,Belgaum,Belgaum,Potato,Local,FAQ,1000,1800,1250,23 Jun 2018
+275,Belgaum,Belgaum,Potato,Local,FAQ,1400,1900,1550,08 Aug 2018
+276,Hassan,Belur,Potato,Chandermukhi,FAQ,600,686,600,23 Sep 2017
+277,Hassan,Belur,Potato,Chandermukhi,FAQ,800,1000,800,29 Jan 2018
+278,Hassan,Belur,Potato,Chandermukhi,FAQ,850,850,850,08 Feb 2018
+279,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,12 Aug 2018
+280,Hassan,Belur,Potato,Chandermukhi,FAQ,1200,1200,1200,12 Jan 2018
+281,Hassan,Belur,Potato,Chandermukhi,FAQ,1700,1700,1700,07 May 2018
+282,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,13 Nov 2017
+283,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,29 Nov 2017
+284,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,05 Aug 2018
+285,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,700,09 Mar 2018
+286,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1500,1250,19 Dec 2017
+287,Kolar,Chickkaballapura,Potato,Local,FAQ,1800,2000,1900,15 Jun 2018
+288,Kolar,Chickkaballapura,Potato,Local,FAQ,1800,2100,1950,22 Jun 2018
+289,Kolar,Chickkaballapura,Potato,Local,FAQ,1800,2100,1950,26 Jun 2018
+290,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,02 Feb 2018
+291,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,28 Oct 2017
+292,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,917,1117,1017,03 Jan 2018
+293,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,928,1128,1028,16 Feb 2018
+294,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1071,1071,1071,09 Nov 2017
+295,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1558,1758,1658,29 Aug 2018
+296,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1751,1951,1851,30 Apr 2018
+297,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1757,1957,1857,06 Jul 2018
+298,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1823,2023,1923,20 Jul 2018
+299,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1884,2084,1984,01 Aug 2018
+300,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1904,1904,1904,13 Jul 2018
+301,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2000,2000,2000,10 Aug 2018
+302,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2000,2000,2000,23 Jul 2018
+303,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,29 Dec 2017
+304,Davangere,Davangere,Potato,Potato,FAQ,1500,1800,1650,20 Apr 2018
+305,Hassan,Hassan,Potato,Potato,FAQ,400,600,600,14 Sep 2017
+306,Hassan,Hassan,Potato,Potato,FAQ,400,1020,800,28 Dec 2017
+307,Hassan,Hassan,Potato,Potato,FAQ,450,450,450,03 Feb 2018
+308,Hassan,Hassan,Potato,Potato,FAQ,450,450,450,15 Dec 2017
+309,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,01 Feb 2018
+310,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,12 Mar 2018
+311,Hassan,Hassan,Potato,Potato,FAQ,600,600,600,16 Sep 2017
+312,Hassan,Hassan,Potato,Potato,FAQ,885,1573,1220,18 Jul 2018
+313,Hassan,Hassan,Potato,Potato,FAQ,889,889,889,05 Jan 2018
+314,Hassan,Hassan,Potato,Potato,FAQ,1100,1200,1181,22 Mar 2018
+315,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,01 Jun 2018
+316,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,06 Aug 2018
+317,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,25 Aug 2018
+318,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1200,1040,05 Jul 2018
+319,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1250,1020,17 Mar 2018
+320,Chikmagalur,Bagepalli,Potato,Other,FAQ,1000,1400,1200,12 Apr 2018
+321,Chikmagalur,Bagepalli,Potato,Other,FAQ,1200,1600,1420,03 Jul 2018
+322,Bangalore,Bangalore,Potato,Chips,FAQ,2000,2400,2200,25 Jun 2018
+323,Bangalore,Bangalore,Potato,Local,FAQ,800,1400,1100,20 Nov 2017
+324,Bangalore,Bangalore,Potato,Local,FAQ,800,1500,1150,18 Nov 2017
+325,Bangalore,Bangalore,Potato,Local,FAQ,800,1500,1150,28 Nov 2017
+326,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,21 Feb 2018
+327,Bangalore,Bangalore,Potato,Local,FAQ,1000,2100,1550,09 Jan 2018
+328,Bangalore,Bangalore,Potato,Local,FAQ,1200,1500,1350,08 Feb 2018
+329,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,05 Apr 2018
+330,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,05 Mar 2018
+331,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,27 Mar 2018
+332,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,06 Aug 2018
+333,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,14 Aug 2018
+334,Bangalore,Bangalore,Potato,Local,FAQ,1200,2200,1700,02 Jan 2018
+335,Bangalore,Bangalore,Potato,Local,FAQ,1300,1600,1450,19 Mar 2018
+336,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,13 Apr 2018
+337,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,28 Jul 2018
+338,Bangalore,Bangalore,Potato,Local,FAQ,1400,2100,1750,08 Aug 2018
+339,Bangalore,Bangalore,Potato,Local,FAQ,1800,2100,1950,09 Jul 2018
+340,Bangalore,Bangalore,Potato,Local,FAQ,1800,2200,2000,05 May 2018
+341,Bangalore,Bangalore,Potato,Local,FAQ,1800,2300,2050,14 May 2018
+342,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,07 Jun 2018
+343,Bangalore,Bangalore,Potato,Potato,FAQ,600,1100,850,16 Dec 2017
+344,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,22 Nov 2017
+345,Bangalore,Bangalore,Potato,Potato,FAQ,700,1200,950,20 Jan 2018
+346,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1300,1150,09 Feb 2018
+347,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1600,1350,09 Mar 2018
+348,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1800,1450,15 Mar 2018
+349,Bangalore,Bangalore,Potato,Potato,FAQ,1200,2000,1600,04 Sep 2017
+350,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1800,1600,27 Oct 2017
+351,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2000,1700,13 Apr 2018
+352,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2100,1750,27 Apr 2018
+353,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2200,1800,28 Jul 2018
+354,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,19 Jun 2018
+355,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2400,1950,23 Jul 2018
+356,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2600,2050,04 Nov 2017
+357,Bangalore,Bangalore,Potato,Potato,FAQ,1600,1800,1700,10 Apr 2018
+358,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2300,1950,08 Jun 2018
+359,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2200,2000,14 Aug 2018
+360,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2200,2000,20 Aug 2018
+361,Kolar,Bangarpet,Potato,Jalander,FAQ,400,900,650,03 Jan 2018
+362,Kolar,Bangarpet,Potato,Jalander,FAQ,800,1700,1500,25 Oct 2017
+363,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,1500,1400,30 Aug 2018
+364,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,2000,1500,04 Sep 2017
+365,Kolar,Bangarpet,Potato,Jalander,FAQ,1300,2000,1550,05 Sep 2017
+366,Kolar,Bangarpet,Potato,Local,FAQ,800,1000,950,26 Mar 2018
+367,Belgaum,Belgaum,Potato,Local,FAQ,600,1460,1100,17 Nov 2017
+368,Belgaum,Belgaum,Potato,Local,FAQ,700,1230,1000,01 Feb 2018
+369,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1200,25 Nov 2017
+370,Belgaum,Belgaum,Potato,Local,FAQ,800,1400,1180,24 Feb 2018
+371,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1200,1065,05 Feb 2018
+372,Bangalore,Bangalore,Potato,Local,FAQ,600,1100,850,28 Sep 2017
+373,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,04 Oct 2017
+374,Bangalore,Bangalore,Potato,Local,FAQ,800,1500,1150,15 Nov 2017
+375,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,27 Feb 2018
+376,Bangalore,Bangalore,Potato,Local,FAQ,1200,1500,1350,06 Mar 2018
+377,Bangalore,Bangalore,Potato,Local,FAQ,1200,1500,1350,07 Feb 2018
+378,Bangalore,Bangalore,Potato,Local,FAQ,1200,1800,1500,29 Dec 2017
+379,Bangalore,Bangalore,Potato,Local,FAQ,1200,2200,1700,15 Dec 2017
+380,Bangalore,Bangalore,Potato,Local,FAQ,1300,1500,1400,06 Feb 2018
+381,Bangalore,Bangalore,Potato,Local,FAQ,1400,1900,1650,21 Jul 2018
+382,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,25 Jul 2018
+383,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,26 Jul 2018
+384,Bangalore,Bangalore,Potato,Local,FAQ,1700,2000,1850,26 Apr 2018
+385,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,22 May 2018
+386,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,26 May 2018
+387,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,28 Jun 2018
+388,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,03 Apr 2018
+389,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,12 Jan 2018
+390,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1800,1450,20 Mar 2018
+391,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1500,1350,06 Mar 2018
+392,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1800,1500,22 Mar 2018
+393,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1900,1550,27 Aug 2018
+394,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1800,1600,26 Oct 2017
+395,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2000,1700,25 Oct 2017
+396,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,10 May 2018
+397,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,17 May 2018
+398,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,27 Sep 2017
+399,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1750,17 Oct 2017
+400,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,23 Sep 2017
+401,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2600,2050,07 Nov 2017
+402,Bangalore,Bangalore,Potato,Potato,FAQ,1600,1900,1750,25 Aug 2018
+403,Bangalore,Bangalore,Potato,Potato,FAQ,2000,2400,2200,04 Oct 2017
+404,Bangalore,Bangalore,Potato,Potato,FAQ,2000,2400,2200,07 Oct 2017
+405,Bangalore,Bangalore,Potato,Potato,FAQ,2000,2800,2400,13 Sep 2017
+406,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1300,09 Nov 2017
+407,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1600,1300,02 Nov 2017
+408,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,1800,1450,21 Aug 2018
+409,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,700,13 Jan 2018
+410,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,900,25 Jan 2018
+411,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,980,20 Jan 2018
+412,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,980,21 Jan 2018
+413,Belgaum,Belgaum,Potato,Local,FAQ,600,1850,1690,23 Nov 2017
+414,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,980,17 Dec 2017
+415,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,30 Dec 2017
+416,Belgaum,Belgaum,Potato,Local,FAQ,830,2000,1700,06 May 2018
+417,Belgaum,Belgaum,Potato,Local,FAQ,850,2500,1360,28 Jul 2018
+418,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1300,04 Jul 2018
+419,Belgaum,Belgaum,Potato,Local,FAQ,900,2250,1820,03 May 2018
+420,Belgaum,Belgaum,Potato,Local,FAQ,1000,1800,1250,24 Jun 2018
+421,Belgaum,Belgaum,Potato,Local,FAQ,1050,1900,1600,31 Aug 2018
+422,Belgaum,Belgaum,Potato,Local,FAQ,1200,1800,1450,29 Jun 2018
+423,Hassan,Belur,Potato,Chandermukhi,FAQ,750,1000,750,05 Jan 2018
+424,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1300,05 Jul 2018
+425,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1600,17 Jun 2018
+426,Belgaum,Belgaum,Potato,Local,FAQ,900,2700,1360,03 Aug 2018
+427,Belgaum,Belgaum,Potato,Local,FAQ,950,1850,1300,14 Jul 2018
+428,Belgaum,Belgaum,Potato,Local,FAQ,950,1950,1350,08 Jul 2018
+429,Belgaum,Belgaum,Potato,Local,FAQ,1100,2180,1900,06 Dec 2017
+430,Belgaum,Belgaum,Potato,Local,FAQ,1200,1800,1450,27 Jun 2018
+431,Hassan,Belur,Potato,Chandermukhi,FAQ,500,600,600,12 Sep 2017
+432,Hassan,Belur,Potato,Chandermukhi,FAQ,500,700,700,04 Sep 2017
+433,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,01 Sep 2017
+434,Hassan,Channarayapatna,Potato,Local,FAQ,2677,2677,2677,16 Aug 2018
+435,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,04 Dec 2017
+436,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,13 Oct 2017
+437,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,06 Aug 2018
+438,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,14 Aug 2018
+439,Kolar,Chickkaballapura,Potato,Local,FAQ,160,1800,980,17 Apr 2018
+440,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1300,750,13 Mar 2018
+441,Kolar,Chickkaballapura,Potato,Local,FAQ,200,2000,1100,18 May 2018
+442,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1500,1150,15 Dec 2017
+443,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1400,1200,06 Feb 2018
+444,Kolar,Chickkaballapura,Potato,Local,FAQ,1400,2000,1700,14 Aug 2018
+445,Kolar,Chickkaballapura,Potato,Local,FAQ,1700,2000,1850,10 Jul 2018
+446,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,800,990,890,29 Jan 2018
+447,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,823,1023,923,14 Sep 2017
+448,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,882,1082,982,29 Dec 2017
+449,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,894,1094,994,07 Oct 2017
+450,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,06 Oct 2017
+451,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,15 Nov 2017
+452,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,31 Oct 2017
+453,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,914,1114,1014,23 Dec 2017
+454,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,923,1123,1023,14 Feb 2018
+455,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1125,1325,1225,14 Mar 2018
+456,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1130,1330,1230,11 Apr 2018
+457,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1250,1250,1250,08 Mar 2018
+458,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1370,1570,1470,15 May 2018
+459,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1666,1666,1666,12 Jun 2018
+460,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1718,1918,1818,09 Jul 2018
+461,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1832,2032,1932,25 Aug 2018
+462,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1900,2100,2000,08 Aug 2018
+463,Davangere,Davangere,Potato,Potato,FAQ,700,1000,900,09 Mar 2018
+464,Davangere,Davangere,Potato,Potato,FAQ,1500,1800,1650,15 Jun 2018
+465,Chamrajnagar,Gundlupet,Potato,Chandermukhi,FAQ,750,800,775,10 Jul 2018
+466,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,06 Apr 2018
+467,Hassan,Hassan,Potato,Potato,FAQ,500,600,600,26 Sep 2017
+468,Hassan,Hassan,Potato,Potato,FAQ,514,1013,880,27 Nov 2017
+469,Hassan,Hassan,Potato,Potato,FAQ,800,800,800,27 Mar 2018
+470,Hassan,Hassan,Potato,Potato,FAQ,800,1554,1100,29 Aug 2018
+471,Hassan,Hassan,Potato,Potato,FAQ,947,947,947,24 Oct 2017
+472,Hassan,Hassan,Potato,Potato,FAQ,1123,1930,1400,31 May 2018
+473,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,07 Jun 2018
+474,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,14 Jun 2018
+475,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,21 Jun 2018
+476,Belgaum,Belgaum,Potato,Local,FAQ,1750,2100,1900,18 Aug 2018
+477,Hassan,Belur,Potato,Chandermukhi,FAQ,600,700,600,08 Sep 2017
+478,Hassan,Belur,Potato,Chandermukhi,FAQ,600,700,600,18 Sep 2017
+479,Hassan,Belur,Potato,Chandermukhi,FAQ,700,700,700,07 Nov 2017
+480,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,08 Jan 2018
+481,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,10 May 2018
+482,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,14 Dec 2017
+483,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,07 Nov 2017
+484,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,10 Aug 2018
+485,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,27 Aug 2018
+486,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,29 Aug 2018
+487,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,700,11 Mar 2018
+488,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1500,1150,08 Dec 2017
+489,Kolar,Chickkaballapura,Potato,Local,FAQ,1600,2000,1800,03 Jul 2018
+490,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,750,1050,850,20 Sep 2017
+491,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,891,1091,991,05 Jan 2018
+492,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1084,984,06 Sep 2017
+493,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,07 Feb 2018
+494,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,12 Oct 2017
+495,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,21 Feb 2018
+496,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,24 Oct 2017
+497,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,902,1102,1002,13 Nov 2017
+498,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,913,1113,1013,12 Feb 2018
+499,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,916,1116,1016,29 Nov 2017
+500,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,958,1158,1058,08 Dec 2017
+501,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,968,1168,1068,22 Dec 2017
+502,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1108,1308,1208,19 May 2018
+503,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1450,1650,1550,28 May 2018
+504,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1744,1944,1844,25 Jun 2018
+505,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1784,1984,1884,27 Jun 2018
+506,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1811,2011,1911,21 Jul 2018
+507,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1923,1923,1923,17 Jul 2018
+508,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1927,2127,2027,05 May 2018
+509,Davangere,Davangere,Potato,Potato,FAQ,1000,1100,1050,29 Jun 2018
+510,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,17 Nov 2017
+511,Davangere,Davangere,Potato,Potato,FAQ,1500,2000,1750,24 Nov 2017
+512,Hassan,Hassan,Potato,Potato,FAQ,700,700,700,04 Sep 2017
+513,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,15 May 2018
+514,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,24 May 2018
+515,Hassan,Hassan,Potato,Potato,FAQ,1500,1500,1500,24 Jul 2018
+516,Bellary,Hospet,Potato,Potato,FAQ,750,1000,1000,28 Nov 2017
+517,Bellary,Hospet,Potato,Potato,FAQ,950,1800,1200,24 Apr 2018
+518,Bellary,Hospet,Potato,Potato,FAQ,1200,1400,1400,04 Jun 2018
+519,Bellary,Hospet,Potato,Potato,FAQ,1400,1700,1600,07 May 2018
+520,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,600,2500,1500,13 Nov 2017
+521,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1350,1650,1500,23 Nov 2017
+522,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,200,700,500,13 Sep 2017
+523,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,700,650,20 Sep 2017
+524,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,750,750,750,11 Nov 2017
+525,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1300,1050,16 Mar 2018
+526,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1200,1200,05 Feb 2018
+527,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1300,2600,1450,09 Aug 2018
+528,Bellary,Hospet,Potato,Potato,FAQ,600,1300,1200,20 Apr 2018
+529,Bellary,Hospet,Potato,Potato,FAQ,800,1400,1000,07 Feb 2018
+530,Bellary,Hospet,Potato,Potato,FAQ,900,1600,1500,24 Jul 2018
+531,Bellary,Hospet,Potato,Potato,FAQ,1000,1200,1000,24 Feb 2018
+532,Bellary,Hospet,Potato,Potato,FAQ,1100,1500,1400,18 Jul 2018
+533,Bellary,Hospet,Potato,Potato,FAQ,1200,1400,1200,25 Aug 2018
+534,Bellary,Hospet,Potato,Potato,FAQ,1200,1600,1500,06 Jun 2018
+535,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,400,1200,800,19 Mar 2018
+536,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1400,750,10 Mar 2018
+537,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1700,1700,1700,30 Nov 2017
+538,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,500,500,10 Oct 2017
+539,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,750,600,14 Feb 2018
+540,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,1600,900,12 Apr 2018
+541,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1200,850,10 Jan 2018
+542,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1350,1000,26 Feb 2018
+543,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,850,1300,900,17 Feb 2018
+544,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1100,1250,1175,04 Jun 2018
+545,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1250,1250,1250,01 Jun 2018
+546,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1250,1300,1250,08 Jun 2018
+547,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1300,1400,1350,23 Mar 2018
+548,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1450,1450,1450,15 Jun 2018
+549,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1850,2400,1850,28 Jun 2018
+550,Dharwad,Hubli (Amaragol),Potato,Other,Medium,450,450,450,29 Dec 2017
+551,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,750,20 Dec 2017
+552,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1100,800,03 Jan 2018
+553,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,950,750,22 Nov 2017
+554,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,850,800,13 Nov 2017
+555,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1300,1250,15 Mar 2018
+556,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1350,1800,1550,13 Apr 2018
+557,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1550,1700,1600,29 May 2018
+558,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,05 Jul 2018
+559,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,09 Apr 2018
+560,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1700,2000,1850,23 Jul 2018
+561,Kolar,Kolar,Potato,Local,FAQ,1000,1500,1300,16 Nov 2017
+562,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1200,01 Feb 2018
+563,Kolar,Kolar,Potato,Local,FAQ,1200,1300,1266,30 Mar 2018
+564,Kolar,Kolar,Potato,Local,FAQ,1300,1400,1333,08 Aug 2018
+565,Kolar,Malur,Potato,Potato,FAQ,800,1200,1000,27 Feb 2018
+566,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,01 Jan 2018
+567,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,16 Apr 2018
+568,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,03 Jan 2018
+569,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,14 Feb 2018
+570,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,27 Dec 2017
+571,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,30 Apr 2018
+572,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,06 Dec 2017
+573,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1200,900,21 Dec 2017
+574,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,02 Jan 2018
+575,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,22 Feb 2018
+576,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1150,15 Nov 2017
+577,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1150,31 Oct 2017
+578,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1900,1450,12 Jul 2018
+579,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,22 Jun 2018
+580,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,07 Jul 2018
+581,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1350,2000,1650,17 Apr 2018
+582,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1600,1650,1600,23 Sep 2017
+583,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,850,700,03 Oct 2017
+584,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,550,950,750,01 Jan 2018
+585,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,800,750,15 Nov 2017
+586,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,1000,800,16 Nov 2017
+587,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,800,750,03 Nov 2017
+588,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,950,850,28 Oct 2017
+589,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,1000,850,11 Nov 2017
+590,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,850,800,13 Sep 2017
+591,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,950,850,27 Sep 2017
+592,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,25 Oct 2017
+593,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1400,1250,19 Mar 2018
+594,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1600,1300,04 Aug 2018
+595,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1650,1400,16 Jul 2018
+596,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1700,1400,29 Mar 2018
+597,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1420,1300,09 Mar 2018
+598,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1700,1500,16 May 2018
+599,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1450,1350,03 Mar 2018
+600,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1650,1500,03 Aug 2018
+601,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1800,1600,13 Aug 2018
+602,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,20 Aug 2018
+603,Mysore,Hunsur,Potato,Potato,Medium,600,600,600,04 Feb 2018
+604,Mysore,Hunsur,Potato,Potato,Medium,800,800,800,01 Sep 2017
+605,Kolar,Kolar,Potato,Local,FAQ,800,1100,945,29 Nov 2017
+606,Kolar,Kolar,Potato,Local,FAQ,800,1200,1000,22 Jul 2018
+607,Kolar,Kolar,Potato,Local,FAQ,900,1100,1000,21 Sep 2017
+608,Kolar,Kolar,Potato,Local,FAQ,900,1200,1000,01 Mar 2018
+609,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,03 May 2018
+610,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,30 Jan 2018
+611,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,05 Feb 2018
+612,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,07 Mar 2018
+613,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,19 Jan 2018
+614,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,24 Mar 2018
+615,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,26 Feb 2018
+616,Kolar,Malur,Potato,Potato,FAQ,900,1800,1000,17 May 2018
+617,Kolar,Malur,Potato,Potato,FAQ,1800,2200,2000,06 Aug 2018
+618,Kolar,Mulabagilu,Potato,Potato,FAQ,1500,1780,1640,20 Aug 2018
+619,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,08 Dec 2017
+620,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,12 Dec 2017
+621,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,26 Dec 2017
+622,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,08 Jan 2018
+623,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1400,1050,12 Oct 2017
+624,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,06 Oct 2017
+625,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,09 Jan 2018
+626,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,08 Nov 2017
+627,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,13 Sep 2017
+628,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,07 Feb 2018
+629,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1400,1200,22 Mar 2018
+630,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,11 Apr 2018
+631,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,01 Jun 2018
+632,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,13 Jun 2018
+633,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,1800,1500,04 May 2018
+634,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1600,1350,29 Jan 2018
+635,Chikmagalur,Bagepalli,Potato,Other,FAQ,1000,2100,1875,10 Jan 2018
+636,Chikmagalur,Bagepalli,Potato,Potato,FAQ,700,1100,950,26 Apr 2018
+637,Chikmagalur,Bagepalli,Potato,Potato,FAQ,800,1400,1250,23 Jun 2018
+638,Bangalore,Bangalore,Potato,Local,FAQ,600,1200,900,15 Sep 2017
+639,Bangalore,Bangalore,Potato,Local,FAQ,800,1100,950,27 Oct 2017
+640,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,25 Oct 2017
+641,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,26 Oct 2017
+642,Bangalore,Bangalore,Potato,Local,FAQ,1000,1600,1300,31 Aug 2018
+643,Bangalore,Bangalore,Potato,Local,FAQ,1200,1500,1350,09 Feb 2018
+644,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,04 Apr 2018
+645,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,26 Mar 2018
+646,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,19 Jan 2018
+647,Bangalore,Bangalore,Potato,Local,FAQ,1400,1500,1450,23 Mar 2018
+648,Bangalore,Bangalore,Potato,Local,FAQ,1400,1900,1650,23 Jul 2018
+649,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,18 Aug 2018
+650,Bangalore,Bangalore,Potato,Local,FAQ,1800,2100,1950,04 Jul 2018
+651,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,16 May 2018
+652,Bangalore,Bangalore,Potato,Local,FAQ,2000,2400,2200,31 May 2018
+653,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,22 Dec 2017
+654,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,06 Jan 2018
+655,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,14 Feb 2018
+656,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,30 Jan 2018
+657,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1200,1100,05 Apr 2018
+658,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1300,1150,12 Feb 2018
+659,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2300,1650,05 Jun 2018
+660,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2300,1650,11 Jun 2018
+661,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,1800,02 Jul 2018
+662,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,1800,29 Jun 2018
+663,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2400,1850,05 Jul 2018
+664,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2100,1750,08 Aug 2018
+665,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2400,1900,13 Jul 2018
+666,Bangalore,Bangalore,Potato,Potato,FAQ,1500,1900,1700,16 May 2018
+667,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,21 Sep 2017
+668,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2400,2000,26 May 2018
+669,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2200,2000,18 Aug 2018
+670,Bangalore,Bangalore,Potato,Potato,FAQ,2000,2800,2400,15 Sep 2017
+671,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1300,06 Nov 2017
+672,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1300,22 Nov 2017
+673,Kolar,Bangarpet,Potato,Jalander,FAQ,500,1200,900,30 Nov 2017
+674,Kolar,Bangarpet,Potato,Jalander,FAQ,500,1200,1000,12 Dec 2017
+675,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1200,900,09 Dec 2017
+676,Kolar,Bangarpet,Potato,Jalander,FAQ,600,2850,2200,17 Nov 2017
+677,Kolar,Bangarpet,Potato,Local,FAQ,1000,1400,1250,15 Mar 2018
+678,Belgaum,Belgaum,Potato,Local,FAQ,500,950,600,10 Sep 2017
+679,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,900,24 Jan 2018
+680,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,950,01 Sep 2017
+681,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1000,06 Sep 2017
+682,Belgaum,Belgaum,Potato,Local,FAQ,600,1500,1200,29 Oct 2017
+683,Belgaum,Belgaum,Potato,Local,FAQ,600,1590,1200,21 Oct 2017
+684,Belgaum,Belgaum,Potato,Local,FAQ,620,1110,930,28 Jan 2018
+685,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,920,16 Sep 2017
+686,Belgaum,Belgaum,Potato,Local,FAQ,700,1230,1000,02 Feb 2018
+687,Hassan,Belur,Potato,Chandermukhi,FAQ,800,800,800,30 Aug 2018
+688,Hassan,Belur,Potato,Chandermukhi,FAQ,800,900,800,28 Aug 2018
+689,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,15 Dec 2017
+690,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,22 Dec 2017
+691,Hassan,Belur,Potato,Chandermukhi,FAQ,1200,1200,1200,08 Mar 2018
+692,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,05 Dec 2017
+693,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,06 Oct 2017
+694,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,12 Dec 2017
+695,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,31 Oct 2017
+696,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,20 Aug 2018
+697,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,21 Aug 2018
+698,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,23 Aug 2018
+699,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,28 Aug 2018
+700,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,30 Jan 2018
+701,Kolar,Chickkaballapura,Potato,Local,FAQ,180,1900,1040,10 Apr 2018
+702,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,600,02 Mar 2018
+703,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,650,23 Feb 2018
+704,Kolar,Chickkaballapura,Potato,Local,FAQ,300,2000,1150,12 Jun 2018
+705,Kolar,Chickkaballapura,Potato,Local,FAQ,900,1100,1000,17 Feb 2018
+706,Kolar,Chickkaballapura,Potato,Local,FAQ,1600,2100,1850,06 Jul 2018
+707,Kolar,Chickkaballapura,Potato,Local,FAQ,1800,2000,1900,19 Jun 2018
+708,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,890,1090,990,03 Oct 2017
+709,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,18 Nov 2017
+710,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1200,1000,08 Sep 2017
+711,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,928,1128,1028,13 Dec 2017
+712,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,973,1173,1073,06 Dec 2017
+713,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1000,1000,30 Nov 2017
+714,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1310,1510,1410,18 May 2018
+715,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1320,1520,1420,09 May 2018
+716,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1507,1707,1607,06 Jun 2018
+717,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1856,2056,1956,24 Jul 2018
+718,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1869,2069,1969,30 Jul 2018
+719,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,02 Feb 2018
+720,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,23 Mar 2018
+721,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,08 Jun 2018
+722,Davangere,Davangere,Potato,Potato,FAQ,1200,1500,1350,16 Aug 2018
+723,Davangere,Davangere,Potato,Potato,FAQ,1500,1800,1650,20 Jul 2018
+724,Davangere,Davangere,Potato,Potato,FAQ,2200,3000,2750,25 May 2018
+725,Hassan,Hassan,Potato,Potato,FAQ,500,1100,600,13 Sep 2017
+726,Hassan,Hassan,Potato,Potato,FAQ,600,888,700,06 Sep 2017
+727,Hassan,Hassan,Potato,Potato,FAQ,600,950,745,29 Nov 2017
+728,Hassan,Hassan,Potato,Potato,FAQ,939,1000,1000,21 Feb 2018
+729,Hassan,Hassan,Potato,Potato,FAQ,1000,1500,1400,09 May 2018
+730,Hassan,Hassan,Potato,Potato,FAQ,1085,1085,1085,31 Jan 2018
+731,Hassan,Hassan,Potato,Potato,FAQ,1100,1100,1100,18 Aug 2018
+732,Hassan,Hassan,Potato,Potato,FAQ,1177,1832,1400,19 Jun 2018
+733,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,02 Jun 2018
+734,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,08 Jun 2018
+735,Bellary,Hospet,Potato,Potato,FAQ,600,1200,800,27 Sep 2017
+736,Bellary,Hospet,Potato,Potato,FAQ,600,1200,1000,09 Sep 2017
+737,Bellary,Hospet,Potato,Potato,FAQ,650,1000,700,03 Jan 2018
+738,Bellary,Hospet,Potato,Potato,FAQ,750,850,800,18 Dec 2017
+739,Madikeri(Kodagu),Somvarpet,Potato,Local,FAQ,1000,1000,1000,06 Oct 2017
+740,Udupi,Udupi,Potato,Potato,FAQ,800,1000,900,20 Sep 2017
+741,Udupi,Udupi,Potato,Potato,FAQ,1100,1300,1200,04 Oct 2017
+742,Belgaum,Belgaum,Potato,Local,FAQ,800,1500,1300,08 Nov 2017
+743,Belgaum,Belgaum,Potato,Local,FAQ,800,1700,1500,04 Jun 2018
+744,Belgaum,Belgaum,Potato,Local,FAQ,900,1800,1300,19 Jul 2018
+745,Belgaum,Belgaum,Potato,Local,FAQ,900,2100,1780,23 Apr 2018
+746,Belgaum,Belgaum,Potato,Local,FAQ,900,2200,1800,28 Apr 2018
+747,Belgaum,Belgaum,Potato,Local,FAQ,900,2200,1800,29 Apr 2018
+748,Belgaum,Belgaum,Potato,Local,FAQ,900,2300,2100,16 May 2018
+749,Belgaum,Belgaum,Potato,Local,FAQ,1800,2200,1950,16 Aug 2018
+750,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,25 Oct 2017
+751,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,11 Dec 2017
+752,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,16 Feb 2018
+753,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,19 Feb 2018
+754,Hassan,Belur,Potato,Chandermukhi,FAQ,1600,1600,1600,30 Apr 2018
+755,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,18 Dec 2017
+756,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,24 Sep 2017
+757,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,07 Aug 2018
+758,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,31 Aug 2018
+759,Kolar,Chickkaballapura,Potato,Local,FAQ,1700,2100,1900,14 Jul 2018
+760,Kolar,Chickkaballapura,Potato,Local,FAQ,1700,2300,2000,31 Jul 2018
+761,Kolar,Chickkaballapura,Potato,Local,FAQ,1800,2400,2100,24 Jul 2018
+762,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,02 Jan 2018
+763,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,02 Mar 2018
+764,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,915,1115,1015,01 Jan 2018
+765,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,970,1270,1070,01 Sep 2017
+766,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1015,1215,1115,31 Mar 2018
+767,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1250,1250,1250,05 Apr 2018
+768,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1250,1250,1250,20 Mar 2018
+769,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1424,1624,1524,21 May 2018
+770,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1566,1766,1666,13 Jun 2018
+771,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1875,1875,1875,30 Jun 2018
+772,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1900,2100,2000,28 Jul 2018
+773,Davangere,Davangere,Potato,Potato,FAQ,1500,1800,1650,06 Jul 2018
+774,Hassan,Hassan,Potato,Potato,FAQ,333,600,600,15 Sep 2017
+775,Hassan,Hassan,Potato,Potato,FAQ,450,1000,750,25 Jan 2018
+776,Hassan,Hassan,Potato,Potato,FAQ,540,1060,700,28 Nov 2017
+777,Hassan,Hassan,Potato,Potato,FAQ,870,1869,1400,30 May 2018
+778,Hassan,Hassan,Potato,Potato,FAQ,997,1497,1006,11 Apr 2018
+779,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,02 Jul 2018
+780,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,11 May 2018
+781,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,22 Jun 2018
+782,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,29 Jun 2018
+783,Hassan,Holenarsipura,Potato,Local,FAQ,1000,1000,1000,07 Oct 2017
+784,Bellary,Hospet,Potato,Potato,FAQ,700,1000,800,12 Feb 2018
+785,Bellary,Hospet,Potato,Potato,FAQ,700,1200,900,31 Jan 2018
+786,Bellary,Hospet,Potato,Potato,FAQ,750,1200,1200,07 Nov 2017
+787,Bellary,Hospet,Potato,Potato,FAQ,800,800,800,17 Dec 2017
+788,Bellary,Hospet,Potato,Potato,FAQ,950,975,950,29 May 2018
+789,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,200,1000,600,08 Sep 2017
+790,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,2300,1200,30 Oct 2017
+791,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1300,850,01 Mar 2018
+792,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,3400,2200,25 Nov 2017
+793,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1600,1250,13 Jan 2018
+794,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1200,1100,16 Feb 2018
+795,Hassan,Arakalgud,Potato,Local,FAQ,800,800,800,08 Sep 2017
+796,Hassan,Arakalgud,Potato,Local,FAQ,800,800,800,09 Sep 2017
+797,Hassan,Arakalgud,Potato,Local,FAQ,800,800,800,16 Nov 2017
+798,Chikmagalur,Bagepalli,Potato,Other,FAQ,900,1200,1110,05 Mar 2018
+799,Chikmagalur,Bagepalli,Potato,Other,FAQ,1000,1800,1654,19 Jun 2018
+800,Chikmagalur,Bagepalli,Potato,Other,FAQ,1200,1800,1650,09 Jan 2018
+801,Bangalore,Bangalore,Potato,Local,FAQ,600,1100,850,04 Sep 2017
+802,Bangalore,Bangalore,Potato,Local,FAQ,900,1200,1050,19 Oct 2017
+803,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,14 Feb 2018
+804,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,23 Feb 2018
+805,Bangalore,Bangalore,Potato,Local,FAQ,1100,1500,1300,13 Mar 2018
+806,Bangalore,Bangalore,Potato,Local,FAQ,1200,2100,1650,23 Aug 2018
+807,Bangalore,Bangalore,Potato,Local,FAQ,1200,2200,1700,04 Jan 2018
+808,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,20 Aug 2018
+809,Bangalore,Bangalore,Potato,Local,FAQ,1400,2100,1750,07 Aug 2018
+810,Bangalore,Bangalore,Potato,Local,FAQ,1500,2400,1950,14 Jun 2018
+811,Bangalore,Bangalore,Potato,Local,FAQ,1600,1700,1650,12 Jul 2018
+812,Bangalore,Bangalore,Potato,Local,FAQ,1800,2100,1950,07 Jul 2018
+813,Bangalore,Bangalore,Potato,Local,FAQ,1800,2300,2050,11 May 2018
+814,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,06 Jun 2018
+815,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,12 Jun 2018
+816,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,23 May 2018
+817,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,11 Dec 2017
+818,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,12 Dec 2017
+819,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,20 Nov 2017
+820,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,05 Dec 2017
+821,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,03 Jan 2018
+822,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,24 Jan 2018
+823,Bangalore,Bangalore,Potato,Potato,FAQ,800,1400,1100,21 Feb 2018
+824,Bangalore,Bangalore,Potato,Potato,FAQ,800,1400,1100,23 Feb 2018
+825,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1300,1200,13 Mar 2018
+826,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,14 Jun 2018
+827,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,18 Jun 2018
+828,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2000,1800,06 Aug 2018
+829,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2400,2000,04 May 2018
+830,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2100,1950,19 Apr 2018
+831,Kolar,Bangarpet,Potato,Jalander,FAQ,350,1500,1300,16 Nov 2017
+832,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1200,20 Nov 2017
+833,Belgaum,Belgaum,Potato,Local,FAQ,600,900,800,03 Jan 2018
+834,Belgaum,Belgaum,Potato,Local,FAQ,600,950,800,22 Sep 2017
+835,Belgaum,Belgaum,Potato,Local,FAQ,600,1000,700,14 Jan 2018
+836,Belgaum,Belgaum,Potato,Local,FAQ,600,1130,950,27 Sep 2017
+837,Belgaum,Belgaum,Potato,Local,FAQ,620,1110,930,27 Jan 2018
+838,Belgaum,Belgaum,Potato,Local,FAQ,700,1030,810,23 Sep 2017
+839,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,980,03 Feb 2018
+840,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,980,16 Dec 2017
+841,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,980,16 Feb 2018
+842,Belgaum,Belgaum,Potato,Local,FAQ,700,1210,980,05 Feb 2018
+843,Belgaum,Belgaum,Potato,Local,FAQ,800,1120,1000,10 Jan 2018
+844,Belgaum,Belgaum,Potato,Local,FAQ,800,1120,1000,11 Jan 2018
+845,Belgaum,Belgaum,Potato,Local,FAQ,800,1800,1300,19 Nov 2017
+846,Belgaum,Belgaum,Potato,Local,FAQ,800,1800,1500,13 Dec 2017
+847,Belgaum,Belgaum,Potato,Local,FAQ,800,2110,1700,27 Apr 2018
+848,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1200,1040,03 Apr 2018
+849,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1300,1150,28 Apr 2018
+850,Chikmagalur,Bagepalli,Potato,Other,FAQ,900,1100,1000,05 Apr 2018
+851,Chikmagalur,Bagepalli,Potato,Potato,FAQ,600,1000,810,27 Aug 2018
+852,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1000,1500,1250,09 May 2018
+853,Bangalore,Bangalore,Potato,Local,FAQ,400,1000,700,18 Sep 2017
+854,Bangalore,Bangalore,Potato,Local,FAQ,600,1100,850,05 Sep 2017
+855,Bangalore,Bangalore,Potato,Local,FAQ,700,1000,850,31 Oct 2017
+856,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,11 Oct 2017
+857,Bangalore,Bangalore,Potato,Local,FAQ,800,1300,1050,21 Nov 2017
+858,Bangalore,Bangalore,Potato,Local,FAQ,800,1400,1100,28 Oct 2017
+859,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,01 Mar 2018
+860,Bangalore,Bangalore,Potato,Local,FAQ,1000,1500,1250,02 Feb 2018
+861,Bangalore,Bangalore,Potato,Local,FAQ,1000,2000,1500,22 Dec 2017
+862,Bangalore,Bangalore,Potato,Local,FAQ,1200,2100,1650,05 Jan 2018
+863,Bangalore,Bangalore,Potato,Local,FAQ,1200,2100,1650,24 Aug 2018
+864,Bangalore,Bangalore,Potato,Local,FAQ,1500,2000,1750,11 Dec 2017
+865,Bangalore,Bangalore,Potato,Local,FAQ,1600,2000,1800,19 Apr 2018
+866,Bangalore,Bangalore,Potato,Local,FAQ,1800,2300,2050,10 May 2018
+867,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,02 Jul 2018
+868,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,13 Dec 2017
+869,Bangalore,Bangalore,Potato,Potato,FAQ,700,900,800,27 Nov 2017
+870,Bangalore,Bangalore,Potato,Potato,FAQ,700,1200,950,01 Jan 2018
+871,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,04 Dec 2017
+872,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1700,1350,08 Feb 2018
+873,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1600,1400,03 Mar 2018
+874,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,1800,04 Jun 2018
+875,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,1800,28 Jun 2018
+876,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2200,1800,02 Aug 2018
+877,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,11 Oct 2017
+878,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2200,1850,18 May 2018
+879,Bangalore,Bangalore,Potato,Potato,FAQ,2000,2800,2400,14 Sep 2017
+880,Bangalore,Bangalore,Potato,Potato,FAQ,2000,3000,2500,12 Sep 2017
+881,Kolar,Bangarpet,Potato,Jalander,FAQ,400,900,650,02 Jan 2018
+882,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1800,1200,07 Nov 2017
+883,Kolar,Bangarpet,Potato,Jalander,FAQ,500,1200,950,18 Dec 2017
+884,Kolar,Bangarpet,Potato,Jalander,FAQ,550,1200,900,15 Dec 2017
+885,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,1500,1400,14 Aug 2018
+886,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,2000,1500,28 Sep 2017
+887,Belgaum,Belgaum,Potato,Local,FAQ,400,950,700,15 Oct 2017
+888,Belgaum,Belgaum,Potato,Local,FAQ,500,950,600,09 Sep 2017
+889,Belgaum,Belgaum,Potato,Local,FAQ,600,980,700,13 Sep 2017
+890,Belgaum,Belgaum,Potato,Local,FAQ,600,980,700,27 Dec 2017
+891,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,980,23 Jan 2018
+892,Belgaum,Belgaum,Potato,Local,FAQ,600,1850,1690,24 Nov 2017
+893,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,980,04 Feb 2018
+894,Belgaum,Belgaum,Potato,Local,FAQ,700,1520,1200,13 Nov 2017
+895,Belgaum,Belgaum,Potato,Local,FAQ,800,1400,1180,26 Feb 2018
+896,Belgaum,Belgaum,Potato,Local,FAQ,900,1800,1600,31 May 2018
+897,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1100,06 Jun 2018
+898,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1100,07 Jun 2018
+899,Belgaum,Belgaum,Potato,Local,FAQ,900,2100,1780,22 Apr 2018
+900,Belgaum,Belgaum,Potato,Local,FAQ,900,2300,2000,23 May 2018
+901,Chikmagalur,Bagepalli,Potato,Other,FAQ,600,1300,1065,01 Feb 2018
+902,Bangalore,Bangalore,Potato,Local,FAQ,300,1000,650,07 Sep 2017
+903,Bangalore,Bangalore,Potato,Local,FAQ,700,1000,850,02 Nov 2017
+904,Bangalore,Bangalore,Potato,Local,FAQ,700,1200,950,03 Nov 2017
+905,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,08 Nov 2017
+906,Bangalore,Bangalore,Potato,Local,FAQ,800,1300,1050,07 Nov 2017
+907,Bangalore,Bangalore,Potato,Local,FAQ,800,1400,1100,04 Dec 2017
+908,Bangalore,Bangalore,Potato,Local,FAQ,1000,1300,1150,19 Feb 2018
+909,Bangalore,Bangalore,Potato,Local,FAQ,1000,1800,1400,22 Jan 2018
+910,Bangalore,Bangalore,Potato,Local,FAQ,1100,1500,1300,15 Mar 2018
+911,Bangalore,Bangalore,Potato,Local,FAQ,1100,2100,1600,10 Jan 2018
+912,Bangalore,Bangalore,Potato,Local,FAQ,1200,1450,1325,09 Mar 2018
+913,Bangalore,Bangalore,Potato,Local,FAQ,1300,1700,1500,09 Apr 2018
+914,Bangalore,Bangalore,Potato,Local,FAQ,1400,1600,1500,24 Mar 2018
+915,Bangalore,Bangalore,Potato,Local,FAQ,1400,2100,1750,10 Aug 2018
+916,Bangalore,Bangalore,Potato,Local,FAQ,1500,1800,1650,10 Apr 2018
+917,Bangalore,Bangalore,Potato,Local,FAQ,1600,2400,2000,23 Jun 2018
+918,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,26 Dec 2017
+919,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,900,11 Jan 2018
+920,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,22 Jan 2018
+921,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,16 Nov 2017
+922,Bangalore,Bangalore,Potato,Potato,FAQ,800,1400,1100,20 Feb 2018
+923,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1300,1150,02 Feb 2018
+924,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,09 Nov 2017
+925,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1700,1350,07 Feb 2018
+926,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1800,1450,16 Mar 2018
+927,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,02 Mar 2018
+928,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,24 Mar 2018
+929,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1900,1550,29 Aug 2018
+930,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2000,1700,03 Oct 2017
+931,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2200,1800,04 Aug 2018
+932,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2200,1850,19 May 2018
+933,Bangalore,Bangalore,Potato,Potato,FAQ,1600,1900,1750,31 Aug 2018
+934,Bangalore,Bangalore,Potato,Potato,FAQ,1700,2100,1900,05 May 2018
+935,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1000,800,23 Dec 2017
+936,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1350,11 Nov 2017
+937,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1200,950,08 Dec 2017
+938,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1200,1000,29 Nov 2017
+939,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,2000,1500,08 Sep 2017
+940,Kolar,Bangarpet,Potato,Jalander,FAQ,1250,2000,1500,25 Sep 2017
+941,Kolar,Bangarpet,Potato,Local,FAQ,600,800,700,12 May 2018
+942,Belgaum,Belgaum,Potato,Local,FAQ,500,1300,1000,25 Oct 2017
+943,Belgaum,Belgaum,Potato,Local,FAQ,600,980,700,14 Sep 2017
+944,Belgaum,Belgaum,Potato,Local,FAQ,600,1500,1200,28 Oct 2017
+945,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,900,06 Jan 2018
+946,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,800,09 Feb 2018
+947,Belgaum,Belgaum,Potato,Local,FAQ,700,1170,1000,18 Jan 2018
+948,Belgaum,Belgaum,Potato,Local,FAQ,850,7500,1350,22 Jul 2018
+949,Belgaum,Belgaum,Potato,Local,FAQ,860,7510,1360,27 Jul 2018
+950,Belgaum,Belgaum,Potato,Local,FAQ,980,1700,1190,13 Jun 2018
+951,Belgaum,Belgaum,Potato,Local,FAQ,1100,1750,1400,02 Jul 2018
+952,Belgaum,Belgaum,Potato,Local,FAQ,1200,1800,1450,28 Jun 2018
+953,Belgaum,Belgaum,Potato,Local,FAQ,1200,2200,1900,25 Aug 2018
+954,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,10 Jul 2018
+955,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,14 May 2018
+956,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,2200,1850,20 Aug 2018
+957,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,11 Jun 2018
+958,Shimoga,Shimoga,Potato,Local,FAQ,2000,2200,2100,09 Jul 2018
+959,Shimoga,Shimoga,Potato,Local,FAQ,2000,2200,2100,22 Jun 2018
+960,Shimoga,Shimoga,Potato,Local,FAQ,2000,2200,2100,26 Jun 2018
+961,Chikmagalur,Tarikere,Potato,Potato,FAQ,500,500,500,21 Oct 2017
+962,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,20 Dec 2017
+963,Udupi,Udupi,Potato,Potato,FAQ,1300,1700,1500,07 Mar 2018
+964,Udupi,Udupi,Potato,Potato,FAQ,1600,2000,1800,06 Jun 2018
+965,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1000,28 Feb 2018
+966,Belgaum,Belgaum,Potato,Local,FAQ,700,1520,1200,11 Nov 2017
+967,Belgaum,Belgaum,Potato,Local,FAQ,800,1250,1000,11 Feb 2018
+968,Belgaum,Belgaum,Potato,Local,FAQ,800,1900,1500,09 May 2018
+969,Belgaum,Belgaum,Potato,Local,FAQ,800,1900,1670,11 May 2018
+970,Belgaum,Belgaum,Potato,Local,FAQ,900,2300,2000,24 May 2018
+971,Belgaum,Belgaum,Potato,Local,FAQ,910,2000,1800,19 Apr 2018
+972,Belgaum,Belgaum,Potato,Local,FAQ,980,1700,1190,14 Jun 2018
+973,Belgaum,Belgaum,Potato,Local,FAQ,1000,2500,2190,21 May 2018
+974,Belgaum,Belgaum,Potato,Local,FAQ,1300,2000,1900,04 Aug 2018
+975,Belgaum,Belgaum,Potato,Local,FAQ,1300,2000,1900,05 Aug 2018
+976,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,01 Nov 2017
+977,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,26 Jan 2018
+978,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,25 Nov 2017
+979,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,18 Aug 2018
+980,Kolar,Chickkaballapura,Potato,Local,FAQ,160,1500,830,27 Mar 2018
+981,Kolar,Chickkaballapura,Potato,Local,FAQ,160,1500,830,30 Mar 2018
+982,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1000,600,27 Feb 2018
+983,Kolar,Chickkaballapura,Potato,Local,FAQ,700,1000,850,13 Sep 2017
+984,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1000,900,20 Sep 2017
+985,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1500,1250,12 Jan 2018
+986,Kolar,Chickkaballapura,Potato,Local,FAQ,1400,2100,1750,21 Aug 2018
+987,Kolar,Chickkaballapura,Potato,Local,FAQ,1400,2300,1850,07 Aug 2018
+988,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,400,576,476,20 Feb 2018
+989,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,884,1084,984,26 Sep 2017
+990,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,890,1090,990,04 Nov 2017
+991,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,10 Jan 2018
+992,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,10 Nov 2017
+993,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,920,1120,1020,03 Mar 2018
+994,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1000,1000,01 Mar 2018
+995,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1000,1000,14 Dec 2017
+996,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1612,1612,1612,14 Jun 2018
+997,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,12 Jan 2018
+998,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,16 Mar 2018
+999,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,25 Jan 2018
+1000,Davangere,Davangere,Potato,Potato,FAQ,1000,1500,1250,04 May 2018
+1001,Davangere,Davangere,Potato,Potato,FAQ,1500,1600,1550,10 Nov 2017
+1002,Davangere,Davangere,Potato,Potato,FAQ,1500,1800,1650,28 Oct 2017
+1003,Hassan,Hassan,Potato,Potato,FAQ,450,450,450,02 Jan 2018
+1004,Hassan,Hassan,Potato,Potato,FAQ,450,450,450,23 Dec 2017
+1005,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,01 Mar 2018
+1006,Hassan,Hassan,Potato,Potato,FAQ,600,981,820,25 Oct 2017
+1007,Hassan,Hassan,Potato,Potato,FAQ,677,1090,750,31 Oct 2017
+1008,Hassan,Hassan,Potato,Potato,FAQ,948,1234,1000,14 Mar 2018
+1009,Hassan,Hassan,Potato,Potato,FAQ,973,1550,1400,08 Aug 2018
+1010,Hassan,Hassan,Potato,Potato,FAQ,1100,1100,1100,30 Aug 2018
+1011,Hassan,Hassan,Potato,Potato,FAQ,1198,1198,1198,28 Feb 2018
+1012,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,06 Jun 2018
+1013,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,10 May 2018
+1014,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,17 May 2018
+1015,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,23 Jun 2018
+1016,Hassan,Holenarsipura,Potato,Local,FAQ,800,800,800,07 Dec 2017
+1017,Bellary,Hospet,Potato,Potato,FAQ,800,1000,800,08 Jan 2018
+1018,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,29 May 2018
+1019,Hassan,Holenarsipura,Potato,Local,FAQ,1000,1000,1000,13 Oct 2017
+1020,Bellary,Hospet,Potato,Potato,FAQ,600,1000,800,11 Oct 2017
+1021,Bellary,Hospet,Potato,Potato,FAQ,900,1200,1000,13 Mar 2018
+1022,Bellary,Hospet,Potato,Potato,FAQ,900,1400,1200,06 Aug 2018
+1023,Bellary,Hospet,Potato,Potato,FAQ,900,1800,1500,20 Jun 2018
+1024,Bellary,Hospet,Potato,Potato,FAQ,1000,1600,1400,13 Jun 2018
+1025,Bellary,Hospet,Potato,Potato,FAQ,1200,1600,1400,28 Jul 2018
+1026,Bellary,Hospet,Potato,Potato,FAQ,1300,1400,1400,24 Aug 2018
+1027,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1000,750,10 Oct 2017
+1028,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,300,1500,700,09 Apr 2018
+1029,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1200,1200,20 Jan 2018
+1030,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1800,1800,1800,20 Aug 2018
+1031,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1850,2400,2200,30 May 2018
+1032,Dharwad,Hubli (Amaragol),Potato,Other,Medium,400,550,450,05 Jan 2018
+1033,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,800,10 Oct 2017
+1034,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,800,11 Oct 2017
+1035,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,620,900,750,22 Sep 2017
+1036,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,630,1100,850,17 Jan 2018
+1037,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,850,750,17 Oct 2017
+1038,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,900,800,23 Sep 2017
+1039,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1050,850,08 Nov 2017
+1040,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,05 Feb 2018
+1041,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,23 Oct 2017
+1042,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1050,900,01 Feb 2018
+1043,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1050,900,24 Oct 2017
+1044,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1350,1250,02 Mar 2018
+1045,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1800,1550,09 Aug 2018
+1046,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1600,1500,01 Aug 2018
+1047,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1600,1500,06 Apr 2018
+1048,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1750,1600,26 Jun 2018
+1049,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1550,1500,25 May 2018
+1050,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1700,1600,28 May 2018
+1051,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1800,1650,24 Mar 2018
+1052,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1700,1900,1800,12 Apr 2018
+1053,Mysore,K.R.Nagar,Potato,Potato,FAQ,800,800,800,18 Sep 2017
+1054,Mysore,K.R.Nagar,Potato,Potato,FAQ,833,833,833,11 Sep 2017
+1055,Kolar,Kolar,Potato,Local,FAQ,800,1100,1000,28 Sep 2017
+1056,Kolar,Kolar,Potato,Local,FAQ,800,1200,1000,21 Feb 2018
+1057,Kolar,Kolar,Potato,Local,FAQ,1300,1400,1372,18 Jan 2018
+1058,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,10 Apr 2018
+1059,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,16 Mar 2018
+1060,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,18 May 2018
+1061,Kolar,Malur,Potato,Potato,FAQ,900,1200,1066,14 Dec 2017
+1062,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,03 Feb 2018
+1063,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,15 Feb 2018
+1064,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,18 Jan 2018
+1065,Kolar,Malur,Potato,Potato,FAQ,900,1800,1000,15 May 2018
+1066,Kolar,Mulabagilu,Potato,Potato,FAQ,1200,1800,1500,10 Nov 2017
+1067,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,07 Dec 2017
+1068,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,05 Jan 2018
+1069,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1100,900,06 Sep 2017
+1070,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,22 Nov 2017
+1071,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1650,1700,1650,28 Sep 2017
+1072,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,1100,750,16 Jan 2018
+1073,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,550,1050,780,30 Dec 2017
+1074,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,850,750,24 Jan 2018
+1075,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,920,800,06 Dec 2017
+1076,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1150,950,27 Jan 2018
+1077,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,850,1050,950,14 Feb 2018
+1078,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1350,1650,1450,28 Mar 2018
+1079,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1600,1500,11 Jul 2018
+1080,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1500,1500,21 Mar 2018
+1081,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1550,1800,1650,09 May 2018
+1082,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1750,1900,1800,03 May 2018
+1083,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1900,2150,2000,25 Jul 2018
+1084,Mysore,K.R.Nagar,Potato,Potato,FAQ,714,714,714,04 Oct 2017
+1085,Kolar,Kolar,Potato,Local,FAQ,900,1100,1000,03 Nov 2017
+1086,Kolar,Kolar,Potato,Local,FAQ,1600,1700,1626,27 Mar 2018
+1087,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,02 May 2018
+1088,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,03 Apr 2018
+1089,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,07 Apr 2018
+1090,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,12 Apr 2018
+1091,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,17 Feb 2018
+1092,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,21 Mar 2018
+1093,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,08 Feb 2018
+1094,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,09 Mar 2018
+1095,Kolar,Malur,Potato,Potato,FAQ,1800,2300,2000,26 May 2018
+1096,Kolar,Mulabagilu,Potato,Potato,FAQ,1200,1800,1500,04 Jun 2018
+1097,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,02 Nov 2017
+1098,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,09 Mar 2018
+1099,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,10 Nov 2017
+1100,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,11 Jan 2018
+1101,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,23 Feb 2018
+1102,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,01 Aug 2018
+1103,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,02 Aug 2018
+1104,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,07 Aug 2018
+1105,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,25 Jun 2018
+1106,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,27 Jul 2018
+1107,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,1800,1500,02 May 2018
+1108,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,05 Jul 2018
+1109,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,10 May 2018
+1110,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,17 May 2018
+1111,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,24 May 2018
+1112,Chikmagalur,Tarikere,Potato,Potato,FAQ,500,500,500,23 Oct 2017
+1113,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,31 Jan 2018
+1114,Udupi,Udupi,Potato,Potato,FAQ,1400,1800,1600,28 Mar 2018
+1115,Chikmagalur,Bagepalli,Potato,Other,FAQ,1000,1600,1350,31 Jul 2018
+1116,Chikmagalur,Bagepalli,Potato,Other,FAQ,1200,1600,1435,12 Jul 2018
+1117,Bangalore,Bangalore,Potato,Local,FAQ,600,1200,900,12 Sep 2017
+1118,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,16 Oct 2017
+1119,Bangalore,Bangalore,Potato,Local,FAQ,800,1600,1200,16 Nov 2017
+1120,Bangalore,Bangalore,Potato,Local,FAQ,800,1600,1200,28 Aug 2018
+1121,Bangalore,Bangalore,Potato,Local,FAQ,1000,2000,1500,12 Jan 2018
+1122,Bangalore,Bangalore,Potato,Local,FAQ,1100,1500,1300,12 Mar 2018
+1123,Bangalore,Bangalore,Potato,Local,FAQ,1200,1500,1350,12 Feb 2018
+1124,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,02 Apr 2018
+1125,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,03 Apr 2018
+1126,Bangalore,Bangalore,Potato,Local,FAQ,1200,1800,1500,12 Dec 2017
+1127,Bangalore,Bangalore,Potato,Local,FAQ,1200,2100,1650,21 Aug 2018
+1128,Bangalore,Bangalore,Potato,Local,FAQ,1200,2200,1700,01 Jan 2018
+1129,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,03 Aug 2018
+1130,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,30 Jul 2018
+1131,Bangalore,Bangalore,Potato,Local,FAQ,1400,2100,1750,09 Aug 2018
+1132,Bangalore,Bangalore,Potato,Local,FAQ,1600,2400,2000,20 Jun 2018
+1133,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,15 May 2018
+1134,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,19 Jun 2018
+1135,Bangalore,Bangalore,Potato,Local,FAQ,2000,2400,2200,01 Jun 2018
+1136,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,21 Dec 2017
+1137,Bangalore,Bangalore,Potato,Potato,FAQ,600,1100,850,10 Jan 2018
+1138,Bangalore,Bangalore,Potato,Potato,FAQ,700,1100,900,01 Dec 2017
+1139,Bangalore,Bangalore,Potato,Potato,FAQ,800,1500,1150,09 Jan 2018
+1140,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,17 Feb 2018
+1141,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,26 Feb 2018
+1142,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1600,1300,28 Oct 2017
+1143,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,1800,01 Jun 2018
+1144,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,1800,02 Jun 2018
+1145,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,1800,30 Jun 2018
+1146,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2400,1850,07 Jul 2018
+1147,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2200,1800,01 Aug 2018
+1148,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2200,1800,03 Nov 2017
+1149,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2200,1800,27 Jul 2018
+1150,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,13 Oct 2017
+1151,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,16 Oct 2017
+1152,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,25 Sep 2017
+1153,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2200,1850,26 Jul 2018
+1154,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,22 Jun 2018
+1155,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2400,1950,24 Jul 2018
+1156,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,1600,1400,22 Aug 2018
+1157,Kolar,Bangarpet,Potato,Local,FAQ,950,1200,1000,09 May 2018
+1158,Belgaum,Belgaum,Potato,Local,FAQ,600,900,800,05 Jan 2018
+1159,Belgaum,Belgaum,Potato,Local,FAQ,600,1460,1100,15 Nov 2017
+1160,Belgaum,Belgaum,Potato,Local,FAQ,600,1590,1200,22 Oct 2017
+1161,Belgaum,Belgaum,Potato,Local,FAQ,630,1090,850,14 Oct 2017
+1162,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,920,18 Sep 2017
+1163,Belgaum,Belgaum,Potato,Local,FAQ,700,1170,1000,19 Jan 2018
+1164,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,980,14 Feb 2018
+1165,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,980,15 Feb 2018
+1166,Belgaum,Belgaum,Potato,Local,FAQ,700,1520,1200,14 Nov 2017
+1167,Belgaum,Belgaum,Potato,Local,FAQ,720,1300,990,17 Feb 2018
+1168,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1400,20 Jun 2018
+1169,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1400,21 Jun 2018
+1170,Belgaum,Belgaum,Potato,Local,FAQ,900,2200,1800,30 Apr 2018
+1171,Belgaum,Belgaum,Potato,Local,FAQ,950,1800,1300,11 Jul 2018
+1172,Belgaum,Belgaum,Potato,Local,FAQ,960,2100,1700,26 May 2018
+1173,Belgaum,Belgaum,Potato,Local,FAQ,1100,1750,1400,01 Jul 2018
+1174,Hassan,Belur,Potato,Chandermukhi,FAQ,500,700,600,10 Sep 2017
+1175,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,28 Oct 2017
+1176,Hassan,Belur,Potato,Chandermukhi,FAQ,800,800,800,20 Aug 2018
+1177,Hassan,Belur,Potato,Chandermukhi,FAQ,800,1000,800,28 Dec 2017
+1178,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,21 Dec 2017
+1179,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,22 Feb 2018
+1180,Hassan,Belur,Potato,Chandermukhi,FAQ,1250,1250,1250,21 Nov 2017
+1181,Hassan,Belur,Potato,Chandermukhi,FAQ,1300,1300,1300,25 Jan 2018
+1182,Hassan,Belur,Potato,Chandermukhi,FAQ,1515,1515,1515,17 Jul 2018
+1183,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,03 Nov 2017
+1184,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,04 Nov 2017
+1185,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,08 Dec 2017
+1186,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,08 Sep 2017
+1187,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,24 Nov 2017
+1188,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,08 Aug 2018
+1189,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,15 Aug 2018
+1190,Kolar,Chickkaballapura,Potato,Local,FAQ,700,1000,850,09 Sep 2017
+1191,Kolar,Chickkaballapura,Potato,Local,FAQ,1500,2100,1800,29 Jun 2018
+1192,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,792,1098,892,13 Sep 2017
+1193,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,895,1095,995,16 Oct 2017
+1194,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,01 Dec 2017
+1195,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,03 Feb 2018
+1196,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,11 Oct 2017
+1197,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,13 Oct 2017
+1198,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,30 Dec 2017
+1199,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,31 Jan 2018
+1200,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,910,1110,1010,11 Dec 2017
+1201,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,910,1110,1010,16 Nov 2017
+1202,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,916,1116,1016,16 Dec 2017
+1203,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,928,1128,1028,20 Dec 2017
+1204,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,928,1128,1028,27 Dec 2017
+1205,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,937,1137,1037,26 Dec 2017
+1206,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1034,1334,1234,23 Mar 2018
+1207,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1135,1335,1235,09 Mar 2018
+1208,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1138,1338,1238,16 Apr 2018
+1209,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1428,1578,1509,25 May 2018
+1210,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1536,1736,1636,28 Aug 2018
+1211,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1539,1739,1639,01 Sep 2018
+1212,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1856,2056,1956,16 Aug 2018
+1213,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,05 Jan 2018
+1214,Davangere,Davangere,Potato,Potato,FAQ,1000,1500,1250,08 Dec 2017
+1215,Hassan,Hassan,Potato,Potato,FAQ,540,600,600,08 Sep 2017
+1216,Hassan,Hassan,Potato,Potato,FAQ,579,1363,1330,04 Apr 2018
+1217,Hassan,Hassan,Potato,Potato,FAQ,932,1400,1400,16 Jul 2018
+1218,Hassan,Hassan,Potato,Potato,FAQ,1000,1100,1100,10 Aug 2018
+1219,Hassan,Hassan,Potato,Potato,FAQ,1100,1100,1100,03 Aug 2018
+1220,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1200,1005,06 Feb 2018
+1221,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1900,1450,02 Jan 2018
+1222,Chikmagalur,Bagepalli,Potato,Other,FAQ,1000,1400,1120,03 Mar 2018
+1223,Bangalore,Bangalore,Potato,Chips,FAQ,1170,4670,2920,21 Nov 2017
+1224,Bangalore,Bangalore,Potato,Local,FAQ,600,1200,900,13 Sep 2017
+1225,Bangalore,Bangalore,Potato,Local,FAQ,600,1200,900,20 Sep 2017
+1226,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,13 Oct 2017
+1227,Bangalore,Bangalore,Potato,Local,FAQ,800,1300,1050,04 Nov 2017
+1228,Bangalore,Bangalore,Potato,Local,FAQ,800,1400,1100,22 Nov 2017
+1229,Bangalore,Bangalore,Potato,Local,FAQ,800,1400,1100,30 Nov 2017
+1230,Bangalore,Bangalore,Potato,Local,FAQ,900,1200,1050,23 Oct 2017
+1231,Bangalore,Bangalore,Potato,Local,FAQ,1000,1400,1200,23 Nov 2017
+1232,Bangalore,Bangalore,Potato,Local,FAQ,1000,1600,1300,29 Jan 2018
+1233,Bangalore,Bangalore,Potato,Local,FAQ,1100,1800,1450,24 Jan 2018
+1234,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,07 Apr 2018
+1235,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,18 Jan 2018
+1236,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,23 Dec 2017
+1237,Bangalore,Bangalore,Potato,Local,FAQ,1200,2200,1700,16 Dec 2017
+1238,Bangalore,Bangalore,Potato,Local,FAQ,1400,2200,1800,08 Dec 2017
+1239,Bangalore,Bangalore,Potato,Local,FAQ,1500,2000,1750,17 Apr 2018
+1240,Bangalore,Bangalore,Potato,Local,FAQ,1700,2400,2050,04 Jun 2018
+1241,Bangalore,Bangalore,Potato,Local,FAQ,1800,2200,2000,28 Apr 2018
+1242,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,03 Jul 2018
+1243,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,05 Jun 2018
+1244,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,18 Jun 2018
+1245,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,25 May 2018
+1246,Bangalore,Bangalore,Potato,Local,FAQ,2000,2400,2200,30 May 2018
+1247,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,23 Nov 2017
+1248,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,19 Dec 2017
+1249,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,23 Jan 2018
+1250,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,08 Jan 2018
+1251,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,24 Feb 2018
+1252,Bangalore,Bangalore,Potato,Potato,FAQ,900,1600,1250,31 Jan 2018
+1253,Bangalore,Bangalore,Potato,Potato,FAQ,900,2200,1700,04 Jan 2018
+1254,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1200,1100,08 Mar 2018
+1255,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1800,1450,14 Mar 2018
+1256,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,23 Mar 2018
+1257,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2100,1750,25 Jul 2018
+1258,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2400,1900,10 Jul 2018
+1259,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,22 Sep 2017
+1260,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,23 Jun 2018
+1261,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2200,1900,21 Aug 2018
+1262,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2400,2000,03 May 2018
+1263,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2400,2100,22 May 2018
+1264,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1200,1000,25 Nov 2017
+1265,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1300,28 Oct 2017
+1266,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1200,1000,11 Dec 2017
+1267,Belgaum,Belgaum,Potato,Local,FAQ,400,900,700,19 Oct 2017
+1268,Belgaum,Belgaum,Potato,Local,FAQ,400,950,700,16 Oct 2017
+1269,Belgaum,Belgaum,Potato,Local,FAQ,500,1100,1000,07 Oct 2017
+1270,Belgaum,Belgaum,Potato,Local,FAQ,500,1100,1000,08 Oct 2017
+1271,Belgaum,Belgaum,Potato,Local,FAQ,600,980,700,29 Dec 2017
+1272,Belgaum,Belgaum,Potato,Local,FAQ,600,1100,980,22 Jan 2018
+1273,Belgaum,Belgaum,Potato,Local,FAQ,900,2300,2100,18 May 2018
+1274,Belgaum,Belgaum,Potato,Local,FAQ,960,2100,1700,27 May 2018
+1275,Belgaum,Belgaum,Potato,Local,FAQ,960,2100,1900,28 May 2018
+1276,Belgaum,Belgaum,Potato,Local,FAQ,1000,2500,2190,20 May 2018
+1277,Hassan,Belur,Potato,Chandermukhi,FAQ,500,700,700,08 Oct 2017
+1278,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,04 Nov 2017
+1279,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,09 Oct 2017
+1280,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,10 Oct 2017
+1281,Hassan,Belur,Potato,Chandermukhi,FAQ,600,700,600,11 Sep 2017
+1282,Hassan,Belur,Potato,Chandermukhi,FAQ,900,900,900,19 Aug 2018
+1283,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,06 Dec 2017
+1284,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,18 Nov 2017
+1285,Kolar,Chickkaballapura,Potato,Local,FAQ,160,1800,980,13 Apr 2018
+1286,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1300,850,16 Mar 2018
+1287,Kolar,Chickkaballapura,Potato,Local,FAQ,200,2000,1100,04 May 2018
+1288,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1500,1150,12 Dec 2017
+1289,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1500,1250,26 Dec 2017
+1290,Kolar,Chickkaballapura,Potato,Local,FAQ,1600,2400,2000,03 Aug 2018
+1291,Kolar,Chickkaballapura,Potato,Local,FAQ,1700,2000,1850,29 May 2018
+1292,Kolar,Chickkaballapura,Potato,Local,FAQ,1800,2000,1900,05 Jun 2018
+1293,Kolar,Chickkaballapura,Potato,Local,FAQ,1800,2400,2100,27 Jul 2018
+1294,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,777,1077,877,18 Sep 2017
+1295,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,826,1026,926,11 Sep 2017
+1296,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,829,1029,929,15 Sep 2017
+1297,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,12 Dec 2017
+1298,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,24 Feb 2018
+1299,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1133,933,21 Sep 2017
+1300,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,912,1112,1012,06 Jan 2018
+1301,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,928,1128,1028,24 Jan 2018
+1302,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1744,1944,1844,02 Jul 2018
+1303,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,23 Feb 2018
+1304,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,13 Oct 2017
+1305,Davangere,Davangere,Potato,Potato,FAQ,1800,2000,1900,10 Aug 2018
+1306,Hassan,Hassan,Potato,Potato,FAQ,364,998,600,20 Sep 2017
+1307,Hassan,Hassan,Potato,Potato,FAQ,450,450,450,30 Dec 2017
+1308,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,16 Jan 2018
+1309,Hassan,Hassan,Potato,Potato,FAQ,576,932,809,17 Oct 2017
+1310,Hassan,Hassan,Potato,Potato,FAQ,600,1036,880,22 Nov 2017
+1311,Hassan,Hassan,Potato,Potato,FAQ,800,800,800,20 Jan 2018
+1312,Hassan,Hassan,Potato,Potato,FAQ,1081,1326,1250,31 Mar 2018
+1313,Hassan,Hassan,Potato,Potato,FAQ,1220,1220,1220,28 Jul 2018
+1314,Hassan,Hassan,Potato,Potato,FAQ,1275,1400,1275,07 Jul 2018
+1315,Bellary,Hospet,Potato,Potato,FAQ,700,1000,800,17 Jan 2018
+1316,Bellary,Hospet,Potato,Potato,FAQ,700,1000,900,24 Jan 2018
+1317,Bellary,Hospet,Potato,Potato,FAQ,700,1000,1000,26 Dec 2017
+1318,Bellary,Hospet,Potato,Potato,FAQ,800,1200,1000,05 Dec 2017
+1319,Bellary,Hospet,Potato,Potato,FAQ,1300,1700,1500,30 May 2018
+1320,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,700,2600,1500,15 Nov 2017
+1321,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,250,1200,675,04 Sep 2017
+1322,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,300,1800,1000,29 Aug 2018
+1323,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,1100,780,15 Mar 2018
+1324,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,1700,1000,26 Mar 2018
+1325,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1200,900,12 Feb 2018
+1326,Bellary,Hospet,Potato,Potato,FAQ,900,1200,1000,27 Mar 2018
+1327,Bellary,Hospet,Potato,Potato,FAQ,900,1800,1500,02 May 2018
+1328,Bellary,Hospet,Potato,Potato,FAQ,1200,1200,1200,18 Nov 2017
+1329,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,1700,1000,17 Oct 2017
+1330,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,400,3500,2000,24 Nov 2017
+1331,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,650,1100,800,26 Sep 2017
+1332,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1500,2400,1800,07 Dec 2017
+1333,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,1700,1350,04 Jan 2018
+1334,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,550,550,550,07 Dec 2017
+1335,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,600,600,24 Oct 2017
+1336,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1300,900,20 Feb 2018
+1337,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1300,900,23 Feb 2018
+1338,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1350,1500,1400,21 Mar 2018
+1339,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1400,1850,1400,12 Jul 2018
+1340,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1800,1900,1850,01 Aug 2018
+1341,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,900,700,30 Nov 2017
+1342,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,850,700,25 Nov 2017
+1343,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,750,20 Nov 2017
+1344,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,750,08 Feb 2018
+1345,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,900,750,09 Dec 2017
+1346,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,950,750,16 Sep 2017
+1347,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,950,750,22 Dec 2017
+1348,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1000,900,23 Feb 2018
+1349,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1700,1650,26 Mar 2018
+1350,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1650,1500,28 Aug 2018
+1351,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1700,1500,31 Mar 2018
+1352,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1800,1650,10 May 2018
+1353,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1800,1650,17 May 2018
+1354,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,14 May 2018
+1355,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1850,1700,04 Jul 2018
+1356,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1900,1750,19 Jun 2018
+1357,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1900,1750,20 Jun 2018
+1358,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1700,1750,1700,31 Aug 2018
+1359,Mysore,Hunsur,Potato,Potato,Medium,732,732,732,27 Feb 2018
+1360,Mysore,Hunsur,Potato,Potato,Medium,900,900,900,13 Feb 2018
+1361,Mandya,K.R. Pet,Potato,Potato,FAQ,1000,1000,1000,02 Aug 2018
+1362,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1200,12 Oct 2017
+1363,Kolar,Kolar,Potato,Local,FAQ,2800,2900,2875,27 Jun 2018
+1364,Kolar,Malur,Potato,Potato,FAQ,800,1300,1000,29 Dec 2017
+1365,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,20 Dec 2017
+1366,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,21 Dec 2017
+1367,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,31 Jan 2018
+1368,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,05 Mar 2018
+1369,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,12 Jan 2018
+1370,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,25 Jan 2018
+1371,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,26 Apr 2018
+1372,Kolar,Malur,Potato,Potato,FAQ,1500,2000,1666,05 Jun 2018
+1373,Mandya,Mandya,Potato,Potato,FAQ,600,600,600,16 Aug 2018
+1374,Kolar,Mulabagilu,Potato,Potato,FAQ,1200,1800,1500,25 Oct 2017
+1375,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,900,700,25 Sep 2017
+1376,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,26 Sep 2017
+1377,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,28 Dec 2017
+1378,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1200,900,19 Dec 2017
+1379,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1050,1250,1150,29 Mar 2018
+1380,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1500,1500,1500,11 Apr 2018
+1381,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2000,2000,2000,03 Aug 2018
+1382,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,900,700,14 Dec 2017
+1383,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,900,700,14 Oct 2017
+1384,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1010,800,13 Jan 2018
+1385,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,850,700,18 Sep 2017
+1386,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,950,800,21 Sep 2017
+1387,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,800,750,14 Sep 2017
+1388,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,900,850,11 Sep 2017
+1389,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1300,1250,05 Apr 2018
+1390,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1450,1350,10 Mar 2018
+1391,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1700,1550,20 Jul 2018
+1392,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1800,1600,02 Aug 2018
+1393,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1800,1600,02 Jun 2018
+1394,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1450,1850,1650,10 Jul 2018
+1395,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1600,1550,27 Mar 2018
+1396,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1700,1600,27 Jun 2018
+1397,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1700,1650,12 Jun 2018
+1398,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1850,1700,07 May 2018
+1399,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1850,1700,27 Aug 2018
+1400,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1900,1750,30 Jun 2018
+1401,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,2000,1750,21 Jul 2018
+1402,Mysore,Hunsur,Potato,Potato,Medium,1000,1000,1000,20 Jan 2018
+1403,Kolar,Kolar,Potato,Local,FAQ,900,1100,1000,07 Sep 2017
+1404,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1224,14 Dec 2017
+1405,Kolar,Kolar,Potato,Local,FAQ,1900,2100,2000,05 Jul 2018
+1406,Kolar,Kolar,Potato,Local,FAQ,2300,2500,2400,30 May 2018
+1407,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,05 May 2018
+1408,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,15 Dec 2017
+1409,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,17 Mar 2018
+1410,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,06 Feb 2018
+1411,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,16 Dec 2017
+1412,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,16 Feb 2018
+1413,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,22 Dec 2017
+1414,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,28 Apr 2018
+1415,Kolar,Malur,Potato,Potato,FAQ,1500,2000,1666,28 May 2018
+1416,Kolar,Malur,Potato,Potato,FAQ,1800,2500,2000,10 Jul 2018
+1417,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,27 Sep 2017
+1418,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,13 Dec 2017
+1419,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,15 Dec 2017
+1420,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1250,1000,11 Sep 2017
+1421,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,07 Mar 2018
+1422,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,15 Mar 2018
+1423,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1150,10 Oct 2017
+1424,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,31 Mar 2018
+1425,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1900,1450,02 Jun 2018
+1426,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,10 Aug 2018
+1427,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,19 Jun 2018
+1428,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,23 Jun 2018
+1429,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,08 May 2018
+1430,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,09 May 2018
+1431,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,16 May 2018
+1432,Chikmagalur,Bagepalli,Potato,Potato,FAQ,700,1150,980,10 Apr 2018
+1433,Bangalore,Bangalore,Potato,Local,FAQ,300,1000,650,11 Sep 2017
+1434,Bangalore,Bangalore,Potato,Local,FAQ,600,1200,900,26 Sep 2017
+1435,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,07 Oct 2017
+1436,Bangalore,Bangalore,Potato,Local,FAQ,800,1600,1200,27 Aug 2018
+1437,Bangalore,Bangalore,Potato,Local,FAQ,800,1600,1200,29 Aug 2018
+1438,Bangalore,Bangalore,Potato,Local,FAQ,1000,1400,1200,18 Dec 2017
+1439,Bangalore,Bangalore,Potato,Local,FAQ,1000,1400,1200,24 Nov 2017
+1440,Bangalore,Bangalore,Potato,Local,FAQ,1000,2000,1500,11 Jan 2018
+1441,Bangalore,Bangalore,Potato,Local,FAQ,1200,1500,1350,17 Mar 2018
+1442,Bangalore,Bangalore,Potato,Local,FAQ,1200,1500,1350,22 Mar 2018
+1443,Bangalore,Bangalore,Potato,Local,FAQ,1200,1800,1500,27 Dec 2017
+1444,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,17 Jan 2018
+1445,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,24 May 2018
+1446,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,29 May 2018
+1447,Bangalore,Bangalore,Potato,Potato,FAQ,500,1000,750,14 Dec 2017
+1448,Bangalore,Bangalore,Potato,Potato,FAQ,500,1200,850,29 Dec 2017
+1449,Bangalore,Bangalore,Potato,Potato,FAQ,500,1300,900,03 Feb 2018
+1450,Bangalore,Bangalore,Potato,Potato,FAQ,700,900,800,28 Nov 2017
+1451,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,18 Dec 2017
+1452,Bangalore,Bangalore,Potato,Potato,FAQ,800,1000,900,13 Nov 2017
+1453,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,06 Dec 2017
+1454,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,27 Feb 2018
+1455,Bangalore,Bangalore,Potato,Potato,FAQ,1100,1800,1450,17 Mar 2018
+1456,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,31 Oct 2017
+1457,Bangalore,Bangalore,Potato,Potato,FAQ,1200,2000,1600,05 Sep 2017
+1458,Bangalore,Bangalore,Potato,Potato,FAQ,1400,1700,1550,30 Oct 2017
+1459,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2000,1700,23 Oct 2017
+1460,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,14 May 2018
+1461,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2200,2000,13 Aug 2018
+1462,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2200,2000,16 Aug 2018
+1463,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1300,10 Nov 2017
+1464,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,2000,1500,04 Oct 2017
+1465,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,2000,1500,20 Sep 2017
+1466,Belgaum,Belgaum,Potato,Local,FAQ,500,1000,900,03 Sep 2017
+1467,Belgaum,Belgaum,Potato,Local,FAQ,600,900,800,04 Jan 2018
+1468,Belgaum,Belgaum,Potato,Local,FAQ,600,950,800,21 Sep 2017
+1469,Belgaum,Belgaum,Potato,Local,FAQ,600,1200,1000,29 Nov 2017
+1470,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,980,18 Dec 2017
+1471,Belgaum,Belgaum,Potato,Local,FAQ,700,1300,1000,01 Mar 2018
+1472,Belgaum,Belgaum,Potato,Local,FAQ,750,2000,1680,13 May 2018
+1473,Belgaum,Belgaum,Potato,Local,FAQ,800,1700,1500,03 Jun 2018
+1474,Belgaum,Belgaum,Potato,Local,FAQ,800,2110,1700,26 Apr 2018
+1475,Belgaum,Belgaum,Potato,Local,FAQ,850,2500,1360,29 Jul 2018
+1476,Belgaum,Belgaum,Potato,Local,FAQ,950,1850,1300,16 Jul 2018
+1477,Belgaum,Belgaum,Potato,Local,FAQ,1000,1850,1500,01 Sep 2018
+1478,Belgaum,Belgaum,Potato,Local,FAQ,1200,1500,1300,01 Dec 2017
+1479,Belgaum,Belgaum,Potato,Local,FAQ,1500,2000,1700,12 Aug 2018
+1480,Hassan,Belur,Potato,Chandermukhi,FAQ,500,500,500,05 Oct 2017
+1481,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,13 Nov 2017
+1482,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,21 Sep 2017
+1483,Hassan,Belur,Potato,Chandermukhi,FAQ,700,700,700,14 Oct 2017
+1484,Hassan,Belur,Potato,Chandermukhi,FAQ,700,700,700,23 Oct 2017
+1485,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1200,1000,22 Jan 2018
+1486,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1200,1600,1400,02 Aug 2018
+1487,Bangalore,Bangalore,Potato,Chips,FAQ,1800,2200,2000,09 Aug 2018
+1488,Bangalore,Bangalore,Potato,Local,FAQ,400,1000,700,16 Sep 2017
+1489,Bangalore,Bangalore,Potato,Local,FAQ,600,1100,850,06 Sep 2017
+1490,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,06 Oct 2017
+1491,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,12 Oct 2017
+1492,Bangalore,Bangalore,Potato,Local,FAQ,800,1400,1100,31 Jan 2018
+1493,Bangalore,Bangalore,Potato,Local,FAQ,1000,1400,1200,15 Feb 2018
+1494,Bangalore,Bangalore,Potato,Local,FAQ,1000,1500,1250,07 Dec 2017
+1495,Bangalore,Bangalore,Potato,Local,FAQ,1000,1800,1400,23 Jan 2018
+1496,Bangalore,Bangalore,Potato,Local,FAQ,1100,1500,1300,16 Mar 2018
+1497,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,20 Dec 2017
+1498,Bangalore,Bangalore,Potato,Local,FAQ,1500,2200,1850,26 Jun 2018
+1499,Bangalore,Bangalore,Potato,Potato,FAQ,500,1200,850,30 Dec 2017
+1500,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,15 Nov 2017
+1501,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,25 Jan 2018
+1502,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,15 Feb 2018
+1503,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2100,1550,17 Apr 2018
+1504,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2300,1650,06 Jun 2018
+1505,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2300,1650,07 Jun 2018
+1506,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1400,1300,28 Mar 2018
+1507,Bangalore,Bangalore,Potato,Potato,FAQ,1200,1600,1400,05 Mar 2018
+1508,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2400,1850,09 Jul 2018
+1509,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2400,1900,11 Jul 2018
+1510,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2400,1900,16 Jul 2018
+1511,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,12 Oct 2017
+1512,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,20 Sep 2017
+1513,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2400,2000,02 May 2018
+1514,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1600,1400,03 Nov 2017
+1515,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1600,1450,08 Nov 2017
+1516,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1250,1000,05 Dec 2017
+1517,Kolar,Bangarpet,Potato,Local,FAQ,900,1200,980,04 Apr 2018
+1518,Kolar,Bangarpet,Potato,Local,FAQ,1000,1400,1200,09 Mar 2018
+1519,Belgaum,Belgaum,Potato,Local,FAQ,500,1000,900,04 Sep 2017
+1520,Belgaum,Belgaum,Potato,Local,FAQ,500,1290,1000,03 Nov 2017
+1521,Belgaum,Belgaum,Potato,Local,FAQ,630,1090,850,11 Oct 2017
+1522,Belgaum,Belgaum,Potato,Local,FAQ,700,1100,800,08 Feb 2018
+1523,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,01 Jan 2018
+1524,Belgaum,Belgaum,Potato,Local,FAQ,730,1200,1100,04 Mar 2018
+1525,Belgaum,Belgaum,Potato,Local,FAQ,750,2000,1680,14 May 2018
+1526,Belgaum,Belgaum,Potato,Local,FAQ,760,1300,1200,07 Mar 2018
+1527,Belgaum,Belgaum,Potato,Local,FAQ,800,1120,1000,12 Jan 2018
+1528,Belgaum,Belgaum,Potato,Local,FAQ,800,1800,1500,15 Dec 2017
+1529,Belgaum,Belgaum,Potato,Local,FAQ,830,2000,1700,05 May 2018
+1530,Belgaum,Belgaum,Potato,Local,FAQ,850,1450,1290,21 Feb 2018
+1531,Belgaum,Belgaum,Potato,Local,FAQ,850,7500,1350,21 Jul 2018
+1532,Belgaum,Belgaum,Potato,Local,FAQ,900,2250,1820,04 May 2018
+1533,Belgaum,Belgaum,Potato,Local,FAQ,900,2300,2000,25 May 2018
+1534,Belgaum,Belgaum,Potato,Local,FAQ,900,2700,1360,01 Aug 2018
+1535,Belgaum,Belgaum,Potato,Local,FAQ,980,1700,1190,15 Jun 2018
+1536,Belgaum,Belgaum,Potato,Local,FAQ,1750,2100,1900,20 Aug 2018
+1537,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,19 Sep 2017
+1538,Hassan,Arakalgud,Potato,Local,FAQ,1000,1000,1000,03 Sep 2017
+1539,Chikmagalur,Bagepalli,Potato,Other,FAQ,900,1200,1040,09 Apr 2018
+1540,Chikmagalur,Bagepalli,Potato,Other,FAQ,1000,1400,1200,21 Aug 2018
+1541,Chikmagalur,Bagepalli,Potato,Potato,FAQ,800,1300,1020,24 Mar 2018
+1542,Bangalore,Bangalore,Potato,Local,FAQ,600,1200,900,25 Sep 2017
+1543,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,17 Oct 2017
+1544,Bangalore,Bangalore,Potato,Local,FAQ,800,1200,1000,24 Oct 2017
+1545,Bangalore,Bangalore,Potato,Local,FAQ,800,1300,1050,01 Dec 2017
+1546,Bangalore,Bangalore,Potato,Local,FAQ,1100,1600,1350,27 Jan 2018
+1547,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,28 Mar 2018
+1548,Bangalore,Bangalore,Potato,Local,FAQ,1200,1600,1400,31 Mar 2018
+1549,Bangalore,Bangalore,Potato,Local,FAQ,1200,1800,1500,13 Dec 2017
+1550,Bangalore,Bangalore,Potato,Local,FAQ,1200,1800,1500,28 Dec 2017
+1551,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,26 Dec 2017
+1552,Bangalore,Bangalore,Potato,Local,FAQ,1300,1600,1450,21 Mar 2018
+1553,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,02 Aug 2018
+1554,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,04 Aug 2018
+1555,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,27 Jul 2018
+1556,Bangalore,Bangalore,Potato,Local,FAQ,1500,2000,1750,16 Apr 2018
+1557,Bangalore,Bangalore,Potato,Local,FAQ,1600,1700,1650,11 Jul 2018
+1558,Bangalore,Bangalore,Potato,Local,FAQ,1600,1700,1650,13 Jul 2018
+1559,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,19 May 2018
+1560,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,28 May 2018
+1561,Bangalore,Bangalore,Potato,Local,FAQ,2000,2400,2200,02 Jun 2018
+1562,Bangalore,Bangalore,Potato,Potato,FAQ,600,1200,900,28 Dec 2017
+1563,Bangalore,Bangalore,Potato,Potato,FAQ,700,900,800,25 Nov 2017
+1564,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,30 Nov 2017
+1565,Bangalore,Bangalore,Potato,Potato,FAQ,700,1100,900,15 Dec 2017
+1566,Bangalore,Bangalore,Potato,Potato,FAQ,700,1300,1000,19 Jan 2018
+1567,Bangalore,Bangalore,Potato,Potato,FAQ,800,1200,1000,17 Nov 2017
+1568,Bangalore,Bangalore,Potato,Potato,FAQ,800,1300,1050,27 Jan 2018
+1569,Bangalore,Bangalore,Potato,Potato,FAQ,800,1400,1100,22 Feb 2018
+1570,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,01 Mar 2018
+1571,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,08 Nov 2017
+1572,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2300,1650,12 Jun 2018
+1573,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2300,1650,15 Jun 2018
+1574,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2000,1700,24 Oct 2017
+1575,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2100,1750,07 Aug 2018
+1576,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2200,1800,03 Aug 2018
+1577,Bangalore,Bangalore,Potato,Potato,FAQ,1500,1900,1700,15 May 2018
+1578,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,26 Jun 2018
+1579,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2400,2000,29 May 2018
+1580,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2300,1950,30 May 2018
+1581,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1450,1250,18 Nov 2017
+1582,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1200,14 Nov 2017
+1583,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1300,31 Oct 2017
+1584,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,1400,1300,25 Aug 2018
+1585,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,2000,1500,30 Sep 2017
+1586,Kolar,Bangarpet,Potato,Jalander,FAQ,2950,3450,3100,27 Nov 2017
+1587,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,980,24 Dec 2017
+1588,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1200,06 Nov 2017
+1589,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1200,26 Nov 2017
+1590,Belgaum,Belgaum,Potato,Local,FAQ,800,1500,1300,09 Nov 2017
+1591,Belgaum,Belgaum,Potato,Local,FAQ,1300,2000,1900,06 Aug 2018
+1592,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,20 Sep 2017
+1593,Hassan,Belur,Potato,Chandermukhi,FAQ,800,800,800,29 Aug 2018
+1594,Hassan,Belur,Potato,Chandermukhi,FAQ,975,975,975,04 Jun 2018
+1595,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,06 Aug 2018
+1596,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,15 Feb 2018
+1597,Hassan,Belur,Potato,Chandermukhi,FAQ,1250,1250,1250,15 Jan 2018
+1598,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,750,750,750,10 Oct 2017
+1599,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,800,800,800,27 Jan 2018
+1600,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,01 Sep 2017
+1601,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,10 Nov 2017
+1602,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,15 Dec 2017
+1603,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,15 Nov 2017
+1604,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,17 Nov 2017
+1605,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,30 Oct 2017
+1606,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1600,400,05 Dec 2017
+1607,Kolar,Chickkaballapura,Potato,Local,FAQ,700,1000,850,06 Sep 2017
+1608,Kolar,Chickkaballapura,Potato,Local,FAQ,900,1100,1000,16 Feb 2018
+1609,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1400,1200,26 Jan 2018
+1610,Kolar,Chickkaballapura,Potato,Local,FAQ,1200,1300,1250,30 Jan 2018
+1611,Kolar,Chickkaballapura,Potato,Local,FAQ,1800,2000,1900,25 May 2018
+1612,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,707,1007,807,12 Sep 2017
+1613,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,870,1070,970,28 Sep 2017
+1614,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,15 Dec 2017
+1615,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,929,1129,1029,04 Dec 2017
+1616,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1006,1206,1106,05 Dec 2017
+1617,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1134,1334,1234,17 Mar 2018
+1618,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1145,1345,1245,07 Mar 2018
+1619,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1303,1503,1403,07 May 2018
+1620,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1400,1600,1500,16 May 2018
+1621,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1415,1615,1515,31 Aug 2018
+1622,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1738,1937,1837,27 Aug 2018
+1623,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1818,1818,1818,19 Jun 2018
+1624,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1900,2100,2000,25 Jul 2018
+1625,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,02 Mar 2018
+1626,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,15 Dec 2017
+1627,Hassan,Hassan,Potato,Potato,FAQ,475,905,600,27 Dec 2017
+1628,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,24 Mar 2018
+1629,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,26 Feb 2018
+1630,Hassan,Hassan,Potato,Potato,FAQ,692,700,700,12 Apr 2018
+1631,Hassan,Hassan,Potato,Potato,FAQ,738,1100,1000,02 May 2018
+1632,Hassan,Hassan,Potato,Potato,FAQ,927,1400,1050,11 Jul 2018
+1633,Hassan,Hassan,Potato,Potato,FAQ,1127,1625,1406,30 Apr 2018
+1634,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,05 Jun 2018
+1635,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,16 May 2018
+1636,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,25 Jun 2018
+1637,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,26 May 2018
+1638,Chitradurga,Holalkere,Potato,Potato,Medium,1000,1000,1000,26 Oct 2017
+1639,Bellary,Hospet,Potato,Potato,FAQ,650,1000,700,06 Dec 2017
+1640,Bellary,Hospet,Potato,Potato,FAQ,900,1600,1400,11 Jul 2018
+1641,Bellary,Hospet,Potato,Potato,FAQ,1300,1600,1400,16 May 2018
+1642,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,3400,2000,22 Nov 2017
+1643,Bellary,Hospet,Potato,Potato,FAQ,800,1200,1000,15 Nov 2017
+1644,Bellary,Hospet,Potato,Potato,FAQ,1000,1100,1000,20 Mar 2018
+1645,Bellary,Hospet,Potato,Potato,FAQ,1000,1200,1000,28 Oct 2017
+1646,Bellary,Hospet,Potato,Potato,FAQ,1000,1700,1500,04 Jul 2018
+1647,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,2300,2300,2300,11 Nov 2017
+1648,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,800,650,06 Sep 2017
+1649,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,1600,1000,27 Aug 2018
+1650,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1350,1000,02 Mar 2018
+1651,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1300,1250,07 Apr 2018
+1652,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,2400,1200,05 Jun 2018
+1653,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1350,1500,1400,04 May 2018
+1654,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1400,1500,1450,05 May 2018
+1655,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1500,1500,1500,11 May 2018
+1656,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1680,1700,1680,19 May 2018
+1657,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2000,2000,2000,10 Aug 2018
+1658,Dharwad,Hubli (Amaragol),Potato,Other,Medium,200,650,450,12 Sep 2017
+1659,Dharwad,Hubli (Amaragol),Potato,Other,Medium,250,650,450,16 Sep 2017
+1660,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,950,650,29 Dec 2017
+1661,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,550,850,700,13 Oct 2017
+1662,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,550,850,700,31 Oct 2017
+1663,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,850,750,04 Jan 2018
+1664,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,950,800,20 Sep 2017
+1665,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1100,850,10 Jan 2018
+1666,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1100,900,11 Jan 2018
+1667,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,950,850,28 Sep 2017
+1668,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1300,1250,16 Mar 2018
+1669,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1750,1550,18 May 2018
+1670,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1850,1600,07 Jun 2018
+1671,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1850,1600,29 Aug 2018
+1672,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1450,1800,1650,04 May 2018
+1673,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1550,1500,03 Apr 2018
+1674,Kolar,Kolar,Potato,Local,FAQ,900,1100,1023,21 Dec 2017
+1675,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,08 Apr 2018
+1676,Kolar,Kolar,Potato,Local,FAQ,1000,1400,1200,22 Mar 2018
+1677,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,04 Apr 2018
+1678,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,27 Apr 2018
+1679,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,02 Feb 2018
+1680,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,06 Jan 2018
+1681,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,20 Jan 2018
+1682,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,21 Feb 2018
+1683,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,26 Mar 2018
+1684,Kolar,Malur,Potato,Potato,FAQ,1500,2300,2000,02 Jul 2018
+1685,Kolar,Malur,Potato,Potato,FAQ,2300,2800,2500,21 Aug 2018
+1686,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,05 Dec 2017
+1687,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,16 Dec 2017
+1688,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,30 Nov 2017
+1689,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,01 Sep 2017
+1690,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,09 Feb 2018
+1691,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,29 Jan 2018
+1692,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,06 Apr 2018
+1693,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,28 Mar 2018
+1694,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,04 Aug 2018
+1695,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,16 Jul 2018
+1696,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1600,2000,1800,28 Aug 2018
+1697,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1600,2000,1800,29 Aug 2018
+1698,Shimoga,Shimoga,Potato,Local,FAQ,1300,1500,1400,03 Aug 2018
+1699,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,04 Jun 2018
+1700,Udupi,Udupi,Potato,Potato,FAQ,1300,1700,1500,29 Aug 2018
+1701,Udupi,Udupi,Potato,Potato,FAQ,2200,2600,2400,25 Jul 2018
+1702,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,21 Jun 2018
+1703,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,07 May 2018
+1704,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,15 May 2018
+1705,Shimoga,Shimoga,Potato,Local,FAQ,2000,2200,2100,05 Jul 2018
+1706,Shimoga,Shimoga,Potato,Local,FAQ,2000,2200,2100,19 Jun 2018
+1707,Tumkur,Tumkur,Potato,Other,FAQ,1400,2100,1650,17 Jul 2018
+1708,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,03 Jan 2018
+1709,Udupi,Udupi,Potato,Potato,FAQ,1600,2000,1800,11 Apr 2018
+1710,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,02 Mar 2018
+1711,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,13 Mar 2018
+1712,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,31 Jan 2018
+1713,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1800,1400,07 Jun 2018
+1714,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,26 Jun 2018
+1715,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,30 Jun 2018
+1716,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,1800,1500,28 Apr 2018
+1717,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,13 Dec 2017
+1718,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,22 Nov 2017
+1719,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,27 Sep 2017
+1720,Udupi,Udupi,Potato,Potato,FAQ,1000,1400,1200,28 Feb 2018
+1721,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1000,08 Sep 2017
+1722,Belgaum,Belgaum,Potato,Local,FAQ,620,1110,930,29 Jan 2018
+1723,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,30 Sep 2017
+1724,Belgaum,Belgaum,Potato,Local,FAQ,700,1200,1000,31 Dec 2017
+1725,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1200,05 Nov 2017
+1726,Belgaum,Belgaum,Potato,Local,FAQ,800,1900,1670,10 May 2018
+1727,Belgaum,Belgaum,Potato,Local,FAQ,850,1450,1290,22 Feb 2018
+1728,Belgaum,Belgaum,Potato,Local,FAQ,890,2250,1820,02 May 2018
+1729,Belgaum,Belgaum,Potato,Local,FAQ,900,1800,1300,18 Jul 2018
+1730,Belgaum,Belgaum,Potato,Local,FAQ,900,1800,1600,30 May 2018
+1731,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1600,18 Jun 2018
+1732,Belgaum,Belgaum,Potato,Local,FAQ,900,2100,1800,09 Dec 2017
+1733,Belgaum,Belgaum,Potato,Local,FAQ,950,1800,1300,13 Jul 2018
+1734,Belgaum,Belgaum,Potato,Local,FAQ,1000,1800,1200,09 Jun 2018
+1735,Belgaum,Belgaum,Potato,Local,FAQ,1000,1800,1250,25 Jun 2018
+1736,Hassan,Belur,Potato,Chandermukhi,FAQ,400,400,400,04 Oct 2017
+1737,Hassan,Belur,Potato,Chandermukhi,FAQ,400,700,600,17 Sep 2017
+1738,Hassan,Belur,Potato,Chandermukhi,FAQ,400,720,600,15 Sep 2017
+1739,Hassan,Belur,Potato,Chandermukhi,FAQ,500,600,600,16 Sep 2017
+1740,Hassan,Belur,Potato,Chandermukhi,FAQ,600,600,600,06 Oct 2017
+1741,Hassan,Belur,Potato,Chandermukhi,FAQ,600,700,600,03 Nov 2017
+1742,Hassan,Belur,Potato,Chandermukhi,FAQ,625,625,625,18 Dec 2017
+1743,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,16 Aug 2018
+1744,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,19 Jan 2018
+1745,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1500,1300,01 Feb 2018
+1746,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,08 Nov 2017
+1747,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,11 Dec 2017
+1748,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,13 Sep 2017
+1749,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,19 Nov 2017
+1750,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1100,650,20 Feb 2018
+1751,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1400,800,01 Apr 2018
+1752,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1500,850,08 Apr 2018
+1753,Kolar,Chickkaballapura,Potato,Local,FAQ,200,2000,1100,15 May 2018
+1754,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1600,1300,05 Jan 2018
+1755,Kolar,Chickkaballapura,Potato,Local,FAQ,1200,1900,1550,31 Aug 2018
+1756,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,896,1096,996,23 Oct 2017
+1757,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,17 Nov 2017
+1758,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,17 Oct 2017
+1759,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,909,1109,1009,16 Jan 2018
+1760,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,919,1119,1019,09 Oct 2017
+1761,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,933,1133,1033,19 Jan 2018
+1762,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,936,1136,1036,18 Dec 2017
+1763,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1065,1265,1165,07 Apr 2018
+1764,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1076,1276,1176,13 Apr 2018
+1765,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1150,1350,1250,19 Mar 2018
+1766,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1428,1428,1428,03 May 2018
+1767,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1428,1428,1428,31 May 2018
+1768,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1438,1638,1538,26 May 2018
+1769,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1566,1766,1666,01 Jun 2018
+1770,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1754,1954,1854,24 Aug 2018
+1771,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1859,2059,1959,06 Aug 2018
+1772,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,15 Sep 2017
+1773,Belgaum,Belgaum,Potato,Local,FAQ,720,1300,990,18 Feb 2018
+1774,Belgaum,Belgaum,Potato,Local,FAQ,730,1200,1100,03 Mar 2018
+1775,Belgaum,Belgaum,Potato,Local,FAQ,860,7510,1360,26 Jul 2018
+1776,Belgaum,Belgaum,Potato,Local,FAQ,900,1800,1600,01 Jun 2018
+1777,Belgaum,Belgaum,Potato,Local,FAQ,900,1900,1300,06 Jul 2018
+1778,Belgaum,Belgaum,Potato,Local,FAQ,900,2100,1800,11 Dec 2017
+1779,Belgaum,Belgaum,Potato,Local,FAQ,1000,2500,2190,19 May 2018
+1780,Belgaum,Belgaum,Potato,Local,FAQ,1400,1900,1550,09 Aug 2018
+1781,Belgaum,Belgaum,Potato,Local,FAQ,1500,2000,1800,23 Aug 2018
+1782,Belgaum,Belgaum,Potato,Local,FAQ,1500,2000,1800,24 Aug 2018
+1783,Belgaum,Belgaum,Potato,Local,FAQ,1750,2100,1900,19 Aug 2018
+1784,Hassan,Belur,Potato,Chandermukhi,FAQ,500,600,500,13 Sep 2017
+1785,Hassan,Belur,Potato,Chandermukhi,FAQ,650,700,700,03 Sep 2017
+1786,Hassan,Belur,Potato,Chandermukhi,FAQ,900,901,900,26 Aug 2018
+1787,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,01 Jan 2018
+1788,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,09 Aug 2018
+1789,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,22 Nov 2017
+1790,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1900,1050,27 Apr 2018
+1791,Kolar,Chickkaballapura,Potato,Local,FAQ,700,1000,850,16 Sep 2017
+1792,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1000,900,23 Sep 2017
+1793,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1500,1250,02 Jan 2018
+1794,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1600,1300,09 Jan 2018
+1795,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,891,1091,991,05 Mar 2018
+1796,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1107,907,25 Sep 2017
+1797,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,913,1113,1013,28 Feb 2018
+1798,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,933,1133,1033,19 Dec 2017
+1799,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,954,1154,1054,22 Jan 2018
+1800,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1000,1000,21 Nov 2017
+1801,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1041,1041,1041,08 Feb 2018
+1802,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1086,1086,1086,01 Feb 2018
+1803,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1250,1250,1250,13 Mar 2018
+1804,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1495,1695,1595,04 Jun 2018
+1805,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1515,1715,1615,30 May 2018
+1806,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1844,2044,1944,11 Jul 2018
+1807,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1900,2100,2000,27 Jul 2018
+1808,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,08 Sep 2017
+1809,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,16 Feb 2018
+1810,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,22 Dec 2017
+1811,Davangere,Davangere,Potato,Potato,FAQ,1500,2000,1750,27 Jul 2018
+1812,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,07 Feb 2018
+1813,Hassan,Hassan,Potato,Potato,FAQ,500,836,625,22 Sep 2017
+1814,Hassan,Hassan,Potato,Potato,FAQ,831,955,955,02 Nov 2017
+1815,Hassan,Hassan,Potato,Potato,FAQ,900,1791,1557,23 Aug 2018
+1816,Hassan,Hassan,Potato,Potato,FAQ,1100,1100,1100,27 Aug 2018
+1817,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,11 Jun 2018
+1818,Bellary,Hospet,Potato,Potato,FAQ,600,1000,700,20 Dec 2017
+1819,Bellary,Hospet,Potato,Potato,FAQ,650,1000,800,20 Sep 2017
+1820,Bellary,Hospet,Potato,Potato,FAQ,700,1200,1000,04 Apr 2018
+1821,Bellary,Hospet,Potato,Potato,FAQ,900,1400,1200,11 Jun 2018
+1822,Bellary,Hospet,Potato,Potato,FAQ,950,1400,1200,28 Aug 2018
+1823,Bellary,Hospet,Potato,Potato,FAQ,1000,1500,1200,25 Jul 2018
+1824,Bellary,Hospet,Potato,Potato,FAQ,1600,1700,1600,10 Jul 2018
+1825,Bellary,Hospet,Potato,Potato,Medium,1200,1200,1200,20 Aug 2018
+1826,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1100,950,31 Jan 2018
+1827,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1300,950,14 Mar 2018
+1828,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1150,1075,25 Sep 2017
+1829,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1250,1550,1250,06 Apr 2018
+1830,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1850,1850,1850,25 May 2018
+1831,Dharwad,Hubli (Amaragol),Potato,Other,Medium,560,560,560,11 Dec 2017
+1832,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,950,750,07 Sep 2017
+1833,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,750,650,16 Feb 2018
+1834,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,950,725,06 Oct 2017
+1835,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,800,700,28 Nov 2017
+1836,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1000,750,14 Nov 2017
+1837,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1100,850,09 Jan 2018
+1838,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,900,850,09 Nov 2017
+1839,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,950,850,26 Feb 2018
+1840,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1700,1400,02 Apr 2018
+1841,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1760,1500,01 Jun 2018
+1842,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1250,1700,1500,06 Jul 2018
+1843,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1800,1500,26 May 2018
+1844,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1950,1650,11 May 2018
+1845,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1500,1500,10 Apr 2018
+1846,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1750,1600,06 Jun 2018
+1847,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,18 Aug 2018
+1848,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,21 May 2018
+1849,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1850,1700,22 May 2018
+1850,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1700,2100,1850,27 Jul 2018
+1851,Kolar,Kolar,Potato,Local,FAQ,1000,1500,1400,29 Sep 2017
+1852,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1200,08 Feb 2018
+1853,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1200,18 Apr 2018
+1854,Kolar,Kolar,Potato,Local,FAQ,1800,2100,2000,05 Aug 2018
+1855,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,02 Apr 2018
+1856,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,05 Apr 2018
+1857,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,22 Feb 2018
+1858,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,29 Jan 2018
+1859,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,08 Jan 2018
+1860,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,12 Dec 2017
+1861,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,20 Mar 2018
+1862,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,23 Feb 2018
+1863,Kolar,Malur,Potato,Potato,FAQ,900,2000,1000,10 May 2018
+1864,Kolar,Malur,Potato,Potato,FAQ,1500,1800,1666,30 Jul 2018
+1865,Kolar,Malur,Potato,Potato,FAQ,1800,2100,2000,28 Jul 2018
+1866,Kolar,Mulabagilu,Potato,Potato,FAQ,1600,2100,1850,28 Aug 2018
+1867,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,18 Jan 2018
+1868,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,19 Jan 2018
+1869,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,09 Nov 2017
+1870,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1400,1100,17 Oct 2017
+1871,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1100,1050,27 Jan 2018
+1872,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1300,1150,20 Mar 2018
+1873,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,09 Apr 2018
+1874,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1800,1400,06 Jun 2018
+1875,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1900,1450,28 May 2018
+1876,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,11 Jun 2018
+1877,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1300,1800,1550,27 Apr 2018
+1878,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,2200,1850,21 Aug 2018
+1879,Hassan,Hassan,Potato,Potato,FAQ,500,1416,1130,14 Feb 2018
+1880,Hassan,Hassan,Potato,Potato,FAQ,1000,1300,1000,27 Feb 2018
+1881,Hassan,Hassan,Potato,Potato,FAQ,1000,1592,1400,31 Aug 2018
+1882,Hassan,Hassan,Potato,Potato,FAQ,1133,1133,1133,27 Jul 2018
+1883,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,04 Jun 2018
+1884,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,12 Jun 2018
+1885,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,20 Jun 2018
+1886,Bellary,Hospet,Potato,Potato,FAQ,800,1000,900,21 Feb 2018
+1887,Bellary,Hospet,Potato,Potato,FAQ,900,1300,1300,26 May 2018
+1888,Bellary,Hospet,Potato,Potato,FAQ,900,1700,1500,22 May 2018
+1889,Bellary,Hospet,Potato,Potato,FAQ,1200,1500,1200,28 Apr 2018
+1890,Bellary,Hospet,Potato,Potato,FAQ,1500,1700,1600,19 Jun 2018
+1891,Bellary,Hospet,Potato,Potato,Medium,750,1200,1000,16 Oct 2017
+1892,Bellary,Hospet,Potato,Potato,Medium,1200,1200,1200,17 Feb 2018
+1893,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,2600,1250,04 Nov 2017
+1894,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,600,1250,800,16 Feb 2018
+1895,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,800,1500,1200,09 Jan 2018
+1896,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,400,1200,900,24 Feb 2018
+1897,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,550,700,650,17 Jan 2018
+1898,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1250,800,27 Feb 2018
+1899,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,650,1450,900,22 Mar 2018
+1900,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,950,1250,950,21 Feb 2018
+1901,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1700,1700,1700,21 Jun 2018
+1902,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2400,2400,2400,17 Nov 2017
+1903,Dharwad,Hubli (Amaragol),Potato,Other,Medium,200,700,500,14 Sep 2017
+1904,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,850,700,16 Oct 2017
+1905,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,550,1150,880,20 Jan 2018
+1906,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,850,700,15 Sep 2017
+1907,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1750,1500,06 Aug 2018
+1908,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,900,800,26 Oct 2017
+1909,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1150,850,05 Jan 2018
+1910,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1100,950,26 Sep 2017
+1911,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,850,1150,950,19 Jan 2018
+1912,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1600,1300,04 Apr 2018
+1913,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1700,1500,14 Jul 2018
+1914,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1450,1400,07 Mar 2018
+1915,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1800,1600,26 Apr 2018
+1916,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1680,1550,10 Aug 2018
+1917,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1750,1650,16 Aug 2018
+1918,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1760,1600,21 Aug 2018
+1919,Kolar,Kolar,Potato,Local,FAQ,800,1200,1000,05 Nov 2017
+1920,Kolar,Kolar,Potato,Local,FAQ,900,1100,1000,04 Jan 2018
+1921,Kolar,Kolar,Potato,Local,FAQ,1700,1800,1737,25 Jan 2018
+1922,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,01 Mar 2018
+1923,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,06 Mar 2018
+1924,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,08 May 2018
+1925,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,09 May 2018
+1926,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,27 Jan 2018
+1927,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,28 Feb 2018
+1928,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,07 Feb 2018
+1929,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,22 Mar 2018
+1930,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,23 Jan 2018
+1931,Kolar,Mulabagilu,Potato,Potato,FAQ,1200,1800,1500,27 Sep 2017
+1932,Hassan,Hassan,Potato,Potato,FAQ,1100,1100,1100,20 Aug 2018
+1933,Hassan,Hassan,Potato,Potato,FAQ,1100,1400,1400,28 Aug 2018
+1934,Hassan,Hassan,Potato,Potato,FAQ,1203,1673,1517,31 Jul 2018
+1935,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,22 May 2018
+1936,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,25 Apr 2018
+1937,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,25 May 2018
+1938,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,26 Jun 2018
+1939,Hassan,Holenarsipura,Potato,Local,FAQ,1000,1000,1000,03 Nov 2017
+1940,Bellary,Hospet,Potato,Potato,FAQ,600,1200,1000,13 Sep 2017
+1941,Bellary,Hospet,Potato,Potato,FAQ,650,800,700,05 Sep 2017
+1942,Bellary,Hospet,Potato,Potato,FAQ,700,1200,800,09 Jan 2018
+1943,Bellary,Hospet,Potato,Potato,FAQ,800,1000,900,07 Mar 2018
+1944,Bellary,Hospet,Potato,Potato,FAQ,975,1600,1200,13 Aug 2018
+1945,Bellary,Hospet,Potato,Potato,FAQ,1200,1700,1500,08 Aug 2018
+1946,Bellary,Hospet,Potato,Potato,Medium,800,800,800,16 Jan 2018
+1947,Bellary,Hospet,Potato,Potato,Medium,800,800,800,22 Jan 2018
+1948,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,800,650,28 Dec 2017
+1949,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,250,1000,625,05 Sep 2017
+1950,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,750,1800,1450,09 Jan 2018
+1951,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1350,1250,09 May 2018
+1952,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1500,1600,1550,07 Mar 2018
+1953,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2000,2400,2200,28 May 2018
+1954,Dharwad,Hubli (Amaragol),Potato,Other,Medium,450,500,450,26 Dec 2017
+1955,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,900,650,28 Dec 2017
+1956,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,800,700,08 Sep 2017
+1957,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,750,05 Sep 2017
+1958,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,750,29 Nov 2017
+1959,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,900,800,07 Oct 2017
+1960,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,900,800,10 Nov 2017
+1961,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,02 Jan 2018
+1962,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1100,1900,1550,25 Aug 2018
+1963,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1500,1450,29 Jun 2018
+1964,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1700,1600,07 Aug 2018
+1965,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1550,1900,1650,14 Jun 2018
+1966,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1550,1900,1700,11 Jun 2018
+1967,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1700,1650,30 Aug 2018
+1968,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1850,1700,22 Jun 2018
+1969,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1850,1700,31 Jul 2018
+1970,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1900,1750,18 Jun 2018
+1971,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1900,1750,21 Jun 2018
+1972,Mysore,K.R.Nagar,Potato,Potato,FAQ,750,1000,833,12 Sep 2017
+1973,Kolar,Kolar,Potato,Local,FAQ,800,1200,1000,26 Oct 2017
+1974,Kolar,Kolar,Potato,Local,FAQ,900,1100,1000,29 Dec 2017
+1975,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1250,03 Apr 2018
+1976,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,07 May 2018
+1977,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,01 Feb 2018
+1978,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,13 Dec 2017
+1979,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,13 Mar 2018
+1980,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,24 Jan 2018
+1981,Kolar,Malur,Potato,Potato,FAQ,1800,2300,2000,02 Jun 2018
+1982,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1000,800,04 Dec 2017
+1983,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,11 Dec 2017
+1984,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,06 Jan 2018
+1985,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,24 Nov 2017
+1986,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,05 Mar 2018
+1987,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,28 Feb 2018
+1988,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1400,1100,07 Nov 2017
+1989,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1100,1050,25 Jan 2018
+1990,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,14 Aug 2018
+1991,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,20 Jun 2018
+1992,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,06 Jul 2018
+1993,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,19 May 2018
+1994,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,2200,1850,25 Aug 2018
+1995,Mysore,Nanjangud,Potato,Chandermukhi,FAQ,714,714,714,07 Sep 2017
+1996,Shimoga,Shimoga,Potato,Local,FAQ,1600,1800,1700,27 Aug 2018
+1997,Chikmagalur,Tarikere,Potato,Potato,FAQ,700,700,700,07 Nov 2017
+1998,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,2200,1850,23 Aug 2018
+1999,Shimoga,Shimoga,Potato,Local,FAQ,1000,1400,1200,01 Jun 2018
+2000,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,06 Jun 2018
+2001,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,07 Jun 2018
+2002,Chikmagalur,Tarikere,Potato,Potato,FAQ,500,700,562,04 Nov 2017
+2003,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,07 Feb 2018
+2004,Udupi,Udupi,Potato,Potato,FAQ,1600,2000,1800,08 Aug 2018
+2005,Udupi,Udupi,Potato,Potato,FAQ,1800,2200,2000,11 Jul 2018
+2006,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1100,900,04 Sep 2017
+2007,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,12 Jan 2018
+2008,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,15 Sep 2017
+2009,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,03 Feb 2018
+2010,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,05 Feb 2018
+2011,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,15 Feb 2018
+2012,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,24 Feb 2018
+2013,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,26 Feb 2018
+2014,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,27 Feb 2018
+2015,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1400,1100,21 Oct 2017
+2016,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1150,26 Oct 2017
+2017,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1300,1150,26 Mar 2018
+2018,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,07 Apr 2018
+2019,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,21 Jul 2018
+2020,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,29 Jun 2018
+2021,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,26 May 2018
+2022,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1300,2000,1650,17 Apr 2018
+2023,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1600,2000,1800,27 Aug 2018
+2024,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,18 Jun 2018
+2025,Tumkur,Tumkur,Potato,Other,FAQ,1250,1800,1600,31 Aug 2018
+2026,Udupi,Udupi,Potato,Potato,FAQ,900,1100,1000,06 Sep 2017
+2027,Udupi,Udupi,Potato,Potato,FAQ,1300,1700,1500,14 Mar 2018
+2028,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,200,800,550,07 Sep 2017
+2029,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,400,1000,750,29 Jan 2018
+2030,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,400,1600,800,02 Apr 2018
+2031,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1000,800,27 Jan 2018
+2032,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1350,800,19 Feb 2018
+2033,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1600,1150,06 Mar 2018
+2034,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1350,1100,07 Feb 2018
+2035,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1250,1250,1250,31 May 2018
+2036,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1250,1350,1300,01 Mar 2018
+2037,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1300,1350,1300,01 Feb 2018
+2038,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2300,2400,2350,03 May 2018
+2039,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,850,650,04 Sep 2017
+2040,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,400,900,700,13 Dec 2017
+2041,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,550,850,700,09 Oct 2017
+2042,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,850,700,06 Sep 2017
+2043,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,850,700,23 Nov 2017
+2044,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,850,700,30 Oct 2017
+2045,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,750,16 Dec 2017
+2046,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,850,750,17 Nov 2017
+2047,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1050,900,01 Dec 2017
+2048,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1000,1000,07 Feb 2018
+2049,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1000,1450,1250,12 Mar 2018
+2050,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,1700,1450,17 Jul 2018
+2051,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1800,1550,07 Apr 2018
+2052,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1600,1500,11 Apr 2018
+2053,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1750,1600,25 Jun 2018
+2054,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1900,1650,03 Jul 2018
+2055,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1600,1550,31 May 2018
+2056,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1700,1600,05 Jun 2018
+2057,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1800,1650,08 Aug 2018
+2058,Mysore,K.R.Nagar,Potato,Potato,FAQ,800,800,800,08 Sep 2017
+2059,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1200,07 Feb 2018
+2060,Kolar,Kolar,Potato,Local,FAQ,1200,1300,1225,15 Feb 2018
+2061,Kolar,Kolar,Potato,Local,FAQ,1200,1400,1227,07 Dec 2017
+2062,Kolar,Kolar,Potato,Local,FAQ,1200,1500,1300,21 Mar 2018
+2063,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,05 Jan 2018
+2064,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,09 Apr 2018
+2065,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,15 Mar 2018
+2066,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,31 Mar 2018
+2067,Kolar,Malur,Potato,Potato,FAQ,900,1800,1000,11 May 2018
+2068,Kolar,Mulabagilu,Potato,Potato,FAQ,1400,1800,1600,14 Aug 2018
+2069,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1200,900,20 Dec 2017
+2070,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,22 Jan 2018
+2071,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,25 Nov 2017
+2072,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1400,1100,23 Oct 2017
+2073,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1150,27 Oct 2017
+2074,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1300,1100,16 Sep 2017
+2075,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,03 Apr 2018
+2076,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,27 Jun 2018
+2077,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,22 May 2018
+2078,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,25 May 2018
+2079,Tumkur,Tumkur,Potato,Other,FAQ,1200,1500,1400,02 Apr 2018
+2080,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,22 Dec 2017
+2081,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,23 Nov 2017
+2082,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,01 Mar 2018
+2083,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,06 Feb 2018
+2084,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,08 Feb 2018
+2085,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1150,16 Nov 2017
+2086,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1300,1150,27 Mar 2018
+2087,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1800,1400,08 Jun 2018
+2088,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,09 Aug 2018
+2089,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,15 Jun 2018
+2090,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,16 Aug 2018
+2091,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,20 Jul 2018
+2092,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1300,1800,1550,16 Apr 2018
+2093,Madikeri(Kodagu),Somvarpet,Potato,Local,FAQ,750,750,750,01 Dec 2017
+2094,Udupi,Udupi,Potato,Potato,FAQ,900,1100,1000,27 Dec 2017
+2095,Udupi,Udupi,Potato,Potato,FAQ,1100,1300,1200,21 Feb 2018
+2096,Udupi,Udupi,Potato,Potato,FAQ,1300,1700,1500,04 Apr 2018
+2097,Udupi,Udupi,Potato,Potato,FAQ,1900,2100,2000,04 Jul 2018
+2098,Udupi,Udupi,Potato,Potato,FAQ,1900,2100,2000,20 Jun 2018
+2099,Udupi,Udupi,Potato,Potato,FAQ,1900,2100,2000,23 May 2018
+2100,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,1000,650,11 Sep 2017
+2101,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,2250,1200,26 Oct 2017
+2102,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,2300,1400,07 Nov 2017
+2103,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,2400,1450,08 Nov 2017
+2104,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,2500,1450,09 Nov 2017
+2105,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,3000,1800,16 Nov 2017
+2106,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,1500,1800,1650,25 Oct 2017
+2107,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,350,1500,850,05 Apr 2018
+2108,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,700,600,21 Sep 2017
+2109,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,800,750,22 Dec 2017
+2110,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,1300,1100,28 Feb 2018
+2111,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1600,1200,24 Mar 2018
+2112,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1650,1750,1700,11 Oct 2017
+2113,Dharwad,Hubli (Amaragol),Potato,Other,Medium,400,500,450,23 Dec 2017
+2114,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,750,600,29 Jan 2018
+2115,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,800,650,23 Dec 2017
+2116,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,750,700,12 Oct 2017
+2117,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1600,1500,19 Jul 2018
+2118,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1800,1600,19 May 2018
+2119,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1800,1650,18 Jul 2018
+2120,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1750,1650,14 Aug 2018
+2121,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,24 Aug 2018
+2122,Mysore,K.R.Nagar,Potato,Potato,FAQ,800,800,800,14 Sep 2017
+2123,Kolar,Kolar,Potato,Local,FAQ,900,1100,1000,05 Oct 2017
+2124,Kolar,Kolar,Potato,Local,FAQ,900,1200,1000,11 Jul 2018
+2125,Kolar,Kolar,Potato,Local,FAQ,1000,1500,1200,22 Nov 2017
+2126,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1200,22 Feb 2018
+2127,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1222,23 Nov 2017
+2128,Kolar,Kolar,Potato,Local,FAQ,1600,1700,1666,08 Mar 2018
+2129,Kolar,Kolar,Potato,Local,FAQ,1800,1900,1809,30 Aug 2018
+2130,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,03 Mar 2018
+2131,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,09 Jan 2018
+2132,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,10 Jan 2018
+2133,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,12 Mar 2018
+2134,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,17 Apr 2018
+2135,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,20 Feb 2018
+2136,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,22 Jan 2018
+2137,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,14 Dec 2017
+2138,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,29 Dec 2017
+2139,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1300,25 Oct 2017
+2140,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,02 Apr 2018
+2141,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,04 Apr 2018
+2142,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,10 Apr 2018
+2143,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1800,1400,05 Jun 2018
+2144,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1900,1450,13 Jul 2018
+2145,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,12 Jun 2018
+2146,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,13 Aug 2018
+2147,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,18 Jul 2018
+2148,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,18 Jun 2018
+2149,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,19 Jul 2018
+2150,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,28 Jun 2018
+2151,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,31 Jul 2018
+2152,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,02 Jul 2018
+2153,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,25 Oct 2017
+2154,Belgaum,Belgaum,Potato,Local,FAQ,800,1500,1300,10 Nov 2017
+2155,Belgaum,Belgaum,Potato,Local,FAQ,800,1800,1300,18 Nov 2017
+2156,Belgaum,Belgaum,Potato,Local,FAQ,800,1800,1300,20 Nov 2017
+2157,Belgaum,Belgaum,Potato,Local,FAQ,910,2000,1800,18 Apr 2018
+2158,Belgaum,Belgaum,Potato,Local,FAQ,1000,1800,1200,10 Jun 2018
+2159,Belgaum,Belgaum,Potato,Local,FAQ,1100,2180,1900,08 Dec 2017
+2160,Belgaum,Belgaum,Potato,Local,FAQ,1400,1900,1550,10 Aug 2018
+2161,Hassan,Belur,Potato,Chandermukhi,FAQ,700,700,700,05 Nov 2017
+2162,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,05 Mar 2018
+2163,Hassan,Belur,Potato,Chandermukhi,FAQ,1300,1300,1300,16 Mar 2018
+2164,Chamrajnagar,Chamaraj Nagar,Potato,Local,FAQ,400,400,400,13 Sep 2017
+2165,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,16 Dec 2017
+2166,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,28 Oct 2017
+2167,Kolar,Chickkaballapura,Potato,Local,FAQ,200,2000,1100,08 May 2018
+2168,Kolar,Chickkaballapura,Potato,Local,FAQ,1600,2000,1800,28 Aug 2018
+2169,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,858,1058,958,27 Sep 2017
+2170,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,881,1081,981,16 Sep 2017
+2171,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,04 Oct 2017
+2172,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,23 Feb 2018
+2173,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,23 Jan 2018
+2174,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,25 Nov 2017
+2175,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,905,1105,1005,08 Nov 2017
+2176,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,911,1111,1011,24 Nov 2017
+2177,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,950,1250,1050,04 Sep 2017
+2178,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1090,1290,1190,02 Apr 2018
+2179,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1092,1292,1192,16 Mar 2018
+2180,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1150,1350,1250,09 Apr 2018
+2181,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1250,1250,1250,15 Mar 2018
+2182,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1428,1428,1428,06 Apr 2018
+2183,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1475,1675,1575,30 Aug 2018
+2184,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1644,1844,1744,22 Jun 2018
+2185,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1875,1875,1875,04 Jul 2018
+2186,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1875,1875,1875,05 Jul 2018
+2187,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,01 Sep 2017
+2188,Hassan,Hassan,Potato,Potato,FAQ,450,450,450,26 Dec 2017
+2189,Hassan,Hassan,Potato,Potato,FAQ,500,715,500,28 Sep 2017
+2190,Hassan,Hassan,Potato,Potato,FAQ,500,800,600,27 Sep 2017
+2191,Hassan,Hassan,Potato,Potato,FAQ,600,1000,600,12 Sep 2017
+2192,Hassan,Hassan,Potato,Potato,FAQ,750,1400,920,04 Jul 2018
+2193,Hassan,Hassan,Potato,Potato,FAQ,800,973,800,08 Nov 2017
+2194,Hassan,Hassan,Potato,Potato,FAQ,966,1760,1586,25 Jul 2018
+2195,Hassan,Hassan,Potato,Potato,FAQ,991,2807,1552,01 Aug 2018
+2196,Hassan,Hassan,Potato,Potato,FAQ,1000,1200,1050,30 Jul 2018
+2197,Hassan,Hassan,Potato,Potato,FAQ,1075,1560,1400,16 Aug 2018
+2198,Hassan,Hassan,Potato,Potato,FAQ,1200,1400,1200,04 Aug 2018
+2199,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,03 Jul 2018
+2200,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,13 Jul 2018
+2201,Hassan,Holenarsipura,Potato,Local,FAQ,800,1000,1000,26 Sep 2017
+2202,Bellary,Hospet,Potato,Potato,FAQ,600,1000,800,13 Dec 2017
+2203,Bellary,Hospet,Potato,Potato,FAQ,800,800,800,11 Dec 2017
+2204,Bellary,Hospet,Potato,Potato,FAQ,900,1500,1000,21 Mar 2018
+2205,Bellary,Hospet,Potato,Potato,FAQ,950,1300,1000,02 Apr 2018
+2206,Hassan,Belur,Potato,Chandermukhi,FAQ,800,800,800,13 Aug 2018
+2207,Hassan,Belur,Potato,Chandermukhi,FAQ,800,1000,800,01 Sep 2018
+2208,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,15 Aug 2018
+2209,Hassan,Belur,Potato,Chandermukhi,FAQ,1300,1300,1300,15 Mar 2018
+2210,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,22 Sep 2017
+2211,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,27 Nov 2017
+2212,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1500,1250,29 Dec 2017
+2213,Kolar,Chickkaballapura,Potato,Local,FAQ,160,1400,780,03 Apr 2018
+2214,Kolar,Chickkaballapura,Potato,Local,FAQ,160,1500,830,06 Apr 2018
+2215,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1600,1200,19 Jan 2018
+2216,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,867,1067,967,07 Sep 2017
+2217,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,12 Jan 2018
+2218,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,19 Feb 2018
+2219,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,30 Oct 2017
+2220,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,904,1104,1004,27 Nov 2017
+2221,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,907,1107,1007,07 Nov 2017
+2222,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,908,1108,1008,26 Feb 2018
+2223,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,934,1134,1034,06 Feb 2018
+2224,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1000,1000,23 Nov 2017
+2225,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1140,1340,1240,26 Mar 2018
+2226,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1389,1589,1489,11 May 2018
+2227,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1396,1596,1496,14 May 2018
+2228,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1785,1985,1885,29 Jun 2018
+2229,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1811,2011,1911,04 Aug 2018
+2230,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1818,1818,1818,26 Jun 2018
+2231,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1923,1923,1923,31 Jul 2018
+2232,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,06 Apr 2018
+2233,Davangere,Davangere,Potato,Potato,FAQ,1000,1100,1050,01 Jun 2018
+2234,Davangere,Davangere,Potato,Potato,FAQ,1200,1500,1350,03 Aug 2018
+2235,Davangere,Davangere,Potato,Potato,FAQ,1600,1800,1700,18 May 2018
+2236,Hassan,Hassan,Potato,Potato,FAQ,419,1400,1400,23 May 2018
+2237,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,03 Jan 2018
+2238,Hassan,Hassan,Potato,Potato,FAQ,500,500,500,12 Dec 2017
+2239,Hassan,Hassan,Potato,Potato,FAQ,500,600,600,23 Sep 2017
+2240,Hassan,Hassan,Potato,Potato,FAQ,517,517,517,16 Mar 2018
+2241,Hassan,Hassan,Potato,Potato,FAQ,584,1311,647,28 Mar 2018
+2242,Hassan,Hassan,Potato,Potato,FAQ,600,600,600,20 Dec 2017
+2243,Hassan,Hassan,Potato,Potato,FAQ,649,1261,1125,09 Mar 2018
+2244,Hassan,Hassan,Potato,Potato,FAQ,798,1193,800,30 Nov 2017
+2245,Hassan,Hassan,Potato,Potato,FAQ,895,1500,1400,27 Jun 2018
+2246,Hassan,Hassan,Potato,Potato,FAQ,1088,1088,1088,21 Mar 2018
+2247,Hassan,Hassan,Potato,Potato,FAQ,1100,1400,1400,07 Aug 2018
+2248,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,09 Jul 2018
+2249,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,13 Jun 2018
+2250,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,18 May 2018
+2251,Hassan,Holenarsipura,Potato,Local,FAQ,400,1000,580,23 Sep 2017
+2252,Bellary,Hospet,Potato,Potato,FAQ,700,1000,800,08 Nov 2017
+2253,Bellary,Hospet,Potato,Potato,FAQ,900,1000,1000,20 Feb 2018
+2254,Bellary,Hospet,Potato,Potato,FAQ,900,1200,1000,06 Mar 2018
+2255,Bellary,Hospet,Potato,Potato,FAQ,1000,1000,1000,13 Nov 2017
+2256,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,300,3000,1800,20 Nov 2017
+2257,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1400,850,02 Nov 2017
+2258,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,200,800,600,11 Sep 2017
+2259,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1300,1800,1550,26 Apr 2018
+2260,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,2200,1850,24 Aug 2018
+2261,Madikeri(Kodagu),Somvarpet,Potato,Local,FAQ,750,1000,1000,07 Nov 2017
+2262,Chikmagalur,Tarikere,Potato,Potato,FAQ,900,1000,967,19 Oct 2017
+2263,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,24 Jan 2018
+2264,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,500,500,30 Nov 2017
+2265,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,720,650,13 Mar 2018
+2266,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1500,1150,12 Mar 2018
+2267,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,800,750,28 Dec 2017
+2268,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1100,1250,1175,06 Feb 2018
+2269,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1200,1200,29 May 2018
+2270,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1300,1250,04 Apr 2018
+2271,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1200,1500,1400,03 Mar 2018
+2272,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1500,1500,1500,20 Mar 2018
+2273,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1000,750,19 Dec 2017
+2274,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1150,850,12 Feb 2018
+2275,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,750,04 Dec 2017
+2276,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,900,800,04 Nov 2017
+2277,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,1100,950,25 Sep 2017
+2278,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1800,1650,07 Jul 2018
+2279,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1850,1650,23 Jun 2018
+2280,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1550,1650,1600,23 May 2018
+2281,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1700,1950,1800,05 May 2018
+2282,Mysore,Hunsur,Potato,Potato,Medium,853,853,853,08 Feb 2018
+2283,Mysore,K.R.Nagar,Potato,Potato,FAQ,667,1000,800,11 Oct 2017
+2284,Kolar,Kolar,Potato,Local,FAQ,2000,2400,2372,11 Jan 2018
+2285,Kolar,Malur,Potato,Potato,FAQ,900,1100,1000,02 Mar 2018
+2286,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,24 Feb 2018
+2287,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,26 Dec 2017
+2288,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,02 Jan 2018
+2289,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,16 Jan 2018
+2290,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,19 Mar 2018
+2291,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,23 Dec 2017
+2292,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,23 Mar 2018
+2293,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,700,600,18 Sep 2017
+2294,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,900,700,22 Sep 2017
+2295,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,500,900,700,23 Sep 2017
+2296,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,30 Dec 2017
+2297,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,29 Nov 2017
+2298,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,04 Oct 2017
+2299,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,10 Jan 2018
+2300,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,07 Sep 2017
+2301,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,01 Feb 2018
+2302,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,06 Mar 2018
+2303,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,16 Feb 2018
+2304,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1100,1050,23 Jan 2018
+2305,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1100,1050,24 Jan 2018
+2306,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1300,1150,14 Mar 2018
+2307,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1300,1150,19 Mar 2018
+2308,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,13 Apr 2018
+2309,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,06 Aug 2018
+2310,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,29 Nov 2017
+2311,Udupi,Udupi,Potato,Potato,FAQ,1100,1300,1200,14 Feb 2018
+2312,Udupi,Udupi,Potato,Potato,FAQ,1200,1600,1400,21 Mar 2018
+2313,Udupi,Udupi,Potato,Potato,FAQ,2000,2200,2100,16 May 2018
+2314,Bellary,Hospet,Potato,Potato,FAQ,950,1700,1400,17 Jul 2018
+2315,Bellary,Hospet,Potato,Potato,FAQ,1200,1700,1500,18 Aug 2018
+2316,Bellary,Hospet,Potato,Potato,FAQ,1400,1500,1500,23 May 2018
+2317,Bellary,Hospet,Potato,Potato,Medium,700,1600,1000,20 Nov 2017
+2318,Bellary,Hospet,Potato,Potato,Medium,1000,1000,1000,03 Feb 2018
+2319,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,550,620,600,11 Jan 2018
+2320,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1100,1550,1300,08 Mar 2018
+2321,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1300,1300,1300,03 Apr 2018
+2322,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1400,1400,1400,22 May 2018
+2323,Dharwad,Hubli (Amaragol),Potato,Other,Medium,200,800,500,24 Jan 2018
+2324,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,750,650,15 Dec 2017
+2325,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1050,800,22 Jan 2018
+2326,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1200,850,06 Jan 2018
+2327,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,550,950,750,01 Sep 2017
+2328,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1150,1150,1150,06 Feb 2018
+2329,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1150,1300,1250,14 Mar 2018
+2330,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1800,1650,08 May 2018
+2331,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1850,1650,24 May 2018
+2332,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,15 Jun 2018
+2333,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,2000,1750,24 Jul 2018
+2334,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,2000,1800,28 Jul 2018
+2335,Kolar,Kolar,Potato,Local,FAQ,1100,1300,1200,29 Mar 2018
+2336,Kolar,Malur,Potato,Potato,FAQ,800,1300,1000,11 Jan 2018
+2337,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,04 May 2018
+2338,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,13 Apr 2018
+2339,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,19 May 2018
+2340,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,08 Mar 2018
+2341,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,27 Mar 2018
+2342,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,28 Dec 2017
+2343,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,01 Jan 2018
+2344,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1100,850,27 Dec 2017
+2345,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1400,1050,13 Oct 2017
+2346,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,01 Dec 2017
+2347,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,16 Jan 2018
+2348,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,20 Jan 2018
+2349,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,13 Nov 2017
+2350,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,27 Nov 2017
+2351,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,12 Feb 2018
+2352,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,14 Feb 2018
+2353,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,30 Jan 2018
+2354,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1150,11 Oct 2017
+2355,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1500,1250,05 Apr 2018
+2356,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,08 Aug 2018
+2357,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,1800,1500,05 May 2018
+2358,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,1800,1500,30 Apr 2018
+2359,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,03 Jul 2018
+2360,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,09 Jul 2018
+2361,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,23 May 2018
+2362,Shimoga,Shimoga,Potato,Local,FAQ,1800,2000,1900,05 Jun 2018
+2363,Shimoga,Shimoga,Potato,Local,FAQ,2000,2200,2100,25 Jun 2018
+2364,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,10 Jan 2018
+2365,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,11 Oct 2017
+2366,Udupi,Udupi,Potato,Potato,FAQ,1900,2100,2000,30 May 2018
+2367,Hassan,Belur,Potato,Chandermukhi,FAQ,800,800,800,08 Aug 2018
+2368,Hassan,Belur,Potato,Chandermukhi,FAQ,1400,1400,1400,05 Feb 2018
+2369,Kolar,Chickkaballapura,Potato,Jalander,FAQ,900,1100,1000,15 Feb 2018
+2370,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,01 Dec 2017
+2371,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,10 Sep 2017
+2372,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,03 Aug 2018
+2373,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,24 Aug 2018
+2374,Kolar,Chickkaballapura,Potato,Local,FAQ,200,2000,1100,22 May 2018
+2375,Kolar,Chickkaballapura,Potato,Local,FAQ,300,2000,1150,08 Jun 2018
+2376,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1500,1150,16 Jan 2018
+2377,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1300,1150,09 Feb 2018
+2378,Kolar,Chickkaballapura,Potato,Local,FAQ,1000,1600,1300,22 Dec 2017
+2379,Kolar,Chickkaballapura,Potato,Local,FAQ,1400,2000,1700,24 Aug 2018
+2380,Kolar,Chickkaballapura,Potato,Local,FAQ,1800,2100,1950,20 Jul 2018
+2381,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,836,1036,936,23 Sep 2017
+2382,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,872,1072,972,22 Sep 2017
+2383,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,897,1097,997,02 Nov 2017
+2384,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,03 Nov 2017
+2385,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,05 Feb 2018
+2386,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,20 Nov 2017
+2387,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,27 Oct 2017
+2388,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,912,1112,1012,08 Jan 2018
+2389,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,912,1112,1012,10 Oct 2017
+2390,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,922,1122,1022,25 Oct 2017
+2391,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1020,1020,1020,09 Jan 2018
+2392,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1150,1350,1250,04 Apr 2018
+2393,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1250,1250,1250,10 Apr 2018
+2394,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1428,1428,1428,04 May 2018
+2395,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1451,1651,1551,23 May 2018
+2396,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1470,1470,1470,26 Apr 2018
+2397,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1515,1715,1615,18 Jun 2018
+2398,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1533,1733,1633,11 Jun 2018
+2399,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1622,1822,1722,28 Apr 2018
+2400,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1642,1842,1742,20 Jun 2018
+2401,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1823,2023,1923,07 Jul 2018
+2402,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2000,2000,2000,02 Aug 2018
+2403,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2000,2000,2000,03 Aug 2018
+2404,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,09 Feb 2018
+2405,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,31 Aug 2018
+2406,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,19 Oct 2017
+2407,Davangere,Davangere,Potato,Potato,FAQ,1200,1500,1350,13 Jul 2018
+2408,Davangere,Davangere,Potato,Potato,FAQ,1400,1600,1500,27 Apr 2018
+2409,Davangere,Davangere,Potato,Potato,FAQ,1400,1600,1500,27 Oct 2017
+2410,Hassan,Hassan,Potato,Potato,FAQ,450,450,450,21 Dec 2017
+2411,Hassan,Hassan,Potato,Potato,FAQ,600,600,600,06 Dec 2017
+2412,Hassan,Hassan,Potato,Potato,FAQ,600,600,600,25 Sep 2017
+2413,Hassan,Hassan,Potato,Potato,FAQ,950,1100,1100,09 Aug 2018
+2414,Hassan,Hassan,Potato,Potato,FAQ,1050,1400,1100,01 Sep 2018
+2415,Hassan,Hassan,Potato,Potato,FAQ,1109,1400,1400,28 Jun 2018
+2416,Hassan,Hassan,Potato,Potato,FAQ,1132,1995,1400,21 May 2018
+2417,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,20 Jul 2018
+2418,Hassan,Hassan,Potato,Potato,FAQ,1400,1923,1400,21 Jul 2018
+2419,Hassan,Holenarsipura,Potato,Local,FAQ,800,1000,1000,04 Oct 2017
+2420,Bellary,Hospet,Potato,Potato,FAQ,700,800,800,25 Oct 2017
+2421,Bellary,Hospet,Potato,Potato,FAQ,700,1000,1000,28 Mar 2018
+2422,Bellary,Hospet,Potato,Potato,FAQ,1100,1600,1400,01 Aug 2018
+2423,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,1100,800,21 Sep 2017
+2424,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,400,650,500,03 Jan 2018
+2425,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,600,550,30 Dec 2017
+2426,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,1300,950,24 Aug 2018
+2427,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,800,800,800,23 Aug 2018
+2428,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,850,850,850,10 Nov 2017
+2429,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,900,1250,1000,08 Feb 2018
+2430,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1000,1800,1400,01 Jan 2018
+2431,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1250,1600,1450,09 Mar 2018
+2432,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1400,1550,1450,29 Jun 2018
+2433,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,300,900,650,26 Dec 2017
+2434,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,950,750,09 Sep 2017
+2435,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,500,1750,1600,02 Jul 2018
+2436,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,800,700,24 Nov 2017
+2437,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,950,775,21 Oct 2017
+2438,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,1150,850,18 Jan 2018
+2439,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,800,750,27 Nov 2017
+2440,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,1130,850,23 Jan 2018
+2441,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,850,780,05 Dec 2017
+2442,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,750,750,04 Oct 2017
+2443,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,1000,850,27 Oct 2017
+2444,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,850,800,08 Dec 2017
+2445,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,950,850,07 Nov 2017
+2446,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1100,1400,1250,13 Mar 2018
+2447,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1100,1850,1500,12 Jul 2018
+2448,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1650,1500,08 Jun 2018
+2449,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1800,1650,04 Jun 2018
+2450,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1800,1650,28 Jun 2018
+2451,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,1850,1650,23 Aug 2018
+2452,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,2200,1750,01 Sep 2018
+2453,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1550,1750,1650,30 May 2018
+2454,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1800,2200,2000,26 Jul 2018
+2455,Kolar,Kolar,Potato,Local,FAQ,900,1100,1000,08 Nov 2017
+2456,Kolar,Kolar,Potato,Local,FAQ,1100,1400,1260,12 Apr 2018
+2457,Kolar,Kolar,Potato,Local,FAQ,1600,1700,1650,26 Jan 2018
+2458,Kolar,Kolar,Potato,Local,FAQ,1900,2100,2000,16 Aug 2018
+2459,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,11 Apr 2018
+2460,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,12 Feb 2018
+2461,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,19 Dec 2017
+2462,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,21 May 2018
+2463,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,04 Jan 2018
+2464,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,06 Apr 2018
+2465,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,11 Dec 2017
+2466,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,14 Mar 2018
+2467,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,17 Jan 2018
+2468,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,19 Feb 2018
+2469,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,28 Mar 2018
+2470,Kolar,Malur,Potato,Potato,FAQ,900,1500,1000,14 May 2018
+2471,Mandya,Mandya,Potato,Potato,FAQ,670,670,670,29 Aug 2018
+2472,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1000,900,28 Nov 2017
+2473,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,17 Jan 2018
+2474,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,18 Nov 2017
+2475,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,03 Mar 2018
+2476,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,08 Mar 2018
+2477,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,13 Feb 2018
+2478,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,19 Feb 2018
+2479,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1150,09 Oct 2017
+2480,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1500,1150,14 Nov 2017
+2481,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1300,1150,23 Mar 2018
+2482,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1300,1150,24 Mar 2018
+2483,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1900,1450,29 May 2018
+2484,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1900,1450,30 May 2018
+2485,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,18 Aug 2018
+2486,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,23 Jul 2018
+2487,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,04 Jul 2018
+2488,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,18 May 2018
+2489,Shimoga,Shimoga,Potato,Local,FAQ,1600,1800,1700,13 Aug 2018
+2490,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,06 Dec 2017
+2491,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,17 Jan 2018
+2492,Udupi,Udupi,Potato,Potato,FAQ,1600,2000,1800,13 Jun 2018
+2493,Udupi,Udupi,Potato,Potato,FAQ,1800,2200,2000,18 Jul 2018
+2494,Udupi,Udupi,Potato,Potato,FAQ,1900,2100,2000,27 Jun 2018
+2495,Chikmagalur,Bagepalli,Potato,Other,FAQ,800,1200,1050,11 Apr 2018
+2496,Bangalore,Bangalore,Potato,Local,FAQ,300,1000,650,08 Sep 2017
+2497,Bangalore,Bangalore,Potato,Local,FAQ,600,1300,950,21 Sep 2017
+2498,Bangalore,Bangalore,Potato,Local,FAQ,800,1300,1050,09 Nov 2017
+2499,Bangalore,Bangalore,Potato,Local,FAQ,800,1500,1150,17 Nov 2017
+2500,Bangalore,Bangalore,Potato,Local,FAQ,900,1300,1100,26 Feb 2018
+2501,Bangalore,Bangalore,Potato,Local,FAQ,1000,1300,1150,16 Feb 2018
+2502,Bangalore,Bangalore,Potato,Local,FAQ,1200,1800,1500,30 Dec 2017
+2503,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,13 Aug 2018
+2504,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,19 Dec 2017
+2505,Bangalore,Bangalore,Potato,Local,FAQ,1200,2000,1600,25 Aug 2018
+2506,Bangalore,Bangalore,Potato,Local,FAQ,1300,1600,1450,20 Mar 2018
+2507,Bangalore,Bangalore,Potato,Local,FAQ,1400,2000,1700,01 Aug 2018
+2508,Bangalore,Bangalore,Potato,Local,FAQ,1500,1900,1700,18 Jul 2018
+2509,Bangalore,Bangalore,Potato,Local,FAQ,1600,2000,1800,12 Apr 2018
+2510,Bangalore,Bangalore,Potato,Local,FAQ,1600,2400,2000,21 Jun 2018
+2511,Bangalore,Bangalore,Potato,Local,FAQ,1600,2400,2000,22 Jun 2018
+2512,Bangalore,Bangalore,Potato,Local,FAQ,1700,2000,1850,27 Apr 2018
+2513,Bangalore,Bangalore,Potato,Local,FAQ,1800,2100,1950,05 Jul 2018
+2514,Bangalore,Bangalore,Potato,Local,FAQ,1800,2400,2100,27 Jun 2018
+2515,Bangalore,Bangalore,Potato,Potato,FAQ,600,1000,800,21 Nov 2017
+2516,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,08 Dec 2017
+2517,Bangalore,Bangalore,Potato,Potato,FAQ,700,1000,850,23 Dec 2017
+2518,Bangalore,Bangalore,Potato,Potato,FAQ,800,1100,950,05 Jan 2018
+2519,Bangalore,Bangalore,Potato,Potato,FAQ,900,1400,1150,16 Feb 2018
+2520,Bangalore,Bangalore,Potato,Potato,FAQ,900,1600,1150,01 Feb 2018
+2521,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,07 Mar 2018
+2522,Bangalore,Bangalore,Potato,Potato,FAQ,1000,1400,1200,18 Jan 2018
+2523,Bangalore,Bangalore,Potato,Potato,FAQ,1000,2100,1550,16 Apr 2018
+2524,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2300,1800,03 Jul 2018
+2525,Bangalore,Bangalore,Potato,Potato,FAQ,1300,2400,1850,04 Jul 2018
+2526,Bangalore,Bangalore,Potato,Potato,FAQ,1400,2400,1900,18 Jul 2018
+2527,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,09 May 2018
+2528,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,11 May 2018
+2529,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2000,1750,26 Sep 2017
+2530,Bangalore,Bangalore,Potato,Potato,FAQ,1500,2300,1900,20 Jun 2018
+2531,Bangalore,Bangalore,Potato,Potato,FAQ,1600,2400,2000,25 May 2018
+2532,Bangalore,Bangalore,Potato,Potato,FAQ,1800,2500,2150,16 Sep 2017
+2533,Kolar,Bangarpet,Potato,Jalander,FAQ,400,1500,1300,21 Nov 2017
+2534,Kolar,Bangarpet,Potato,Jalander,FAQ,500,1250,800,16 Dec 2017
+2535,Kolar,Bangarpet,Potato,Jalander,FAQ,600,1200,1000,06 Dec 2017
+2536,Kolar,Bangarpet,Potato,Jalander,FAQ,1200,2000,1500,11 Sep 2017
+2537,Kolar,Bangarpet,Potato,Local,FAQ,800,1000,900,19 Mar 2018
+2538,Belgaum,Belgaum,Potato,Local,FAQ,500,1300,1000,26 Oct 2017
+2539,Belgaum,Belgaum,Potato,Local,FAQ,500,1300,1000,27 Oct 2017
+2540,Belgaum,Belgaum,Potato,Local,FAQ,600,1130,950,28 Sep 2017
+2541,Belgaum,Belgaum,Potato,Local,FAQ,600,1300,1100,20 Sep 2017
+2542,Belgaum,Belgaum,Potato,Local,FAQ,600,1400,1100,20 Dec 2017
+2543,Belgaum,Belgaum,Potato,Local,FAQ,630,1090,850,12 Oct 2017
+2544,Belgaum,Belgaum,Potato,Local,FAQ,700,1000,920,17 Sep 2017
+2545,Belgaum,Belgaum,Potato,Local,FAQ,700,1400,1200,27 Nov 2017
+2546,Belgaum,Belgaum,Potato,Local,FAQ,720,1300,990,19 Feb 2018
+2547,Belgaum,Belgaum,Potato,Local,FAQ,850,1450,1290,23 Feb 2018
+2548,Belgaum,Belgaum,Potato,Local,FAQ,850,2500,1360,30 Jul 2018
+2549,Belgaum,Belgaum,Potato,Local,FAQ,900,2100,1780,21 Apr 2018
+2550,Belgaum,Belgaum,Potato,Local,FAQ,900,2300,2100,17 May 2018
+2551,Belgaum,Belgaum,Potato,Local,FAQ,1050,1900,1600,29 Aug 2018
+2552,Belgaum,Belgaum,Potato,Local,FAQ,1100,2180,1900,07 Dec 2017
+2553,Belgaum,Belgaum,Potato,Local,FAQ,1200,2200,1900,26 Aug 2018
+2554,Hassan,Belur,Potato,Chandermukhi,FAQ,300,300,300,07 Sep 2017
+2555,Hassan,Belur,Potato,Chandermukhi,FAQ,600,700,700,09 Sep 2017
+2556,Hassan,Belur,Potato,Chandermukhi,FAQ,700,700,700,05 Sep 2017
+2557,Hassan,Belur,Potato,Chandermukhi,FAQ,800,800,800,10 Aug 2018
+2558,Hassan,Belur,Potato,Chandermukhi,FAQ,800,800,800,25 Aug 2018
+2559,Hassan,Belur,Potato,Chandermukhi,FAQ,1000,1000,1000,18 Jan 2018
+2560,Hassan,Belur,Potato,Chandermukhi,FAQ,1200,1200,1200,26 Feb 2018
+2561,Hassan,Belur,Potato,Chandermukhi,FAQ,1600,1600,1600,14 May 2018
+2562,Hassan,Belur,Potato,Chandermukhi,FAQ,1700,1700,1700,17 May 2018
+2563,Kolar,Chickkaballapura,Potato,Jalander,FAQ,500,1500,1000,29 May 2018
+2564,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,01 Nov 2017
+2565,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,14 Nov 2017
+2566,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,20 Nov 2017
+2567,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1000,1100,1075,27 Sep 2017
+2568,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,04 Aug 2018
+2569,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1075,1075,1075,25 Aug 2018
+2570,Kolar,Chickkaballapura,Potato,Local,FAQ,200,1200,700,06 Mar 2018
+2571,Kolar,Chickkaballapura,Potato,Local,FAQ,200,2000,1100,11 May 2018
+2572,Kolar,Chickkaballapura,Potato,Local,FAQ,800,1000,900,02 Sep 2017
+2573,Kolar,Chickkaballapura,Potato,Local,FAQ,1500,2100,1850,10 Aug 2018
+2574,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,895,1095,995,21 Oct 2017
+2575,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,900,1100,1000,22 Nov 2017
+2576,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1000,1000,1000,25 Jan 2018
+2577,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1150,1350,1250,21 Mar 2018
+2578,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1243,1443,1343,28 Mar 2018
+2579,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1351,1551,1451,02 May 2018
+2580,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1519,1719,1619,08 Jun 2018
+2581,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1840,2040,1940,20 Aug 2018
+2582,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1872,2072,1972,18 Jul 2018
+2583,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1880,2080,1980,16 Jul 2018
+2584,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1900,2100,2000,23 Aug 2018
+2585,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,1923,1923,1923,03 Jul 2018
+2586,Davangere,Davangere,Potato,Potato,FAQ,800,1000,900,28 Mar 2018
+2587,Davangere,Davangere,Potato,Potato,FAQ,1000,1200,1100,06 Oct 2017
+2588,Davangere,Davangere,Potato,Potato,FAQ,1200,1500,1350,22 Jun 2018
+2589,Davangere,Davangere,Potato,Potato,FAQ,1500,1800,1650,03 Nov 2017
+2590,Davangere,Davangere,Potato,Potato,FAQ,2000,2200,2100,13 Apr 2018
+2591,Hassan,Hassan,Potato,Potato,FAQ,300,1315,450,06 Feb 2018
+2592,Hassan,Hassan,Potato,Potato,FAQ,500,908,820,19 Oct 2017
+2593,Hassan,Hassan,Potato,Potato,FAQ,500,1200,500,24 Jan 2018
+2594,Hassan,Hassan,Potato,Potato,FAQ,537,990,880,18 Nov 2017
+2595,Hassan,Hassan,Potato,Potato,FAQ,567,1200,850,23 Feb 2018
+2596,Hassan,Hassan,Potato,Potato,FAQ,600,900,900,15 Nov 2017
+2597,Hassan,Hassan,Potato,Potato,FAQ,650,1000,650,11 Oct 2017
+2598,Hassan,Hassan,Potato,Potato,FAQ,898,1400,962,18 Jun 2018
+2599,Hassan,Hassan,Potato,Potato,FAQ,900,1346,925,03 Oct 2017
+2600,Hassan,Hassan,Potato,Potato,FAQ,1100,1100,1100,21 Aug 2018
+2601,Hassan,Hassan,Potato,Potato,FAQ,1200,1671,1400,30 Jun 2018
+2602,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,06 Jul 2018
+2603,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,15 Jun 2018
+2604,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,19 May 2018
+2605,Hassan,Hassan,Potato,Potato,FAQ,1400,1400,1400,28 May 2018
+2606,Chitradurga,Holalkere,Potato,Potato,Medium,800,800,800,24 Oct 2017
+2607,Bellary,Hospet,Potato,Potato,FAQ,700,1200,1000,03 Nov 2017
+2608,Bellary,Hospet,Potato,Potato,FAQ,800,1000,900,28 Feb 2018
+2609,Bellary,Hospet,Potato,Potato,FAQ,900,1700,1500,14 May 2018
+2610,Bellary,Hospet,Potato,Potato,FAQ,950,1600,1200,26 Jun 2018
+2611,Bellary,Hospet,Potato,Potato,FAQ,1000,1000,1000,16 Sep 2017
+2612,Bellary,Hospet,Potato,Potato,FAQ,1200,1400,1300,29 Aug 2018
+2613,Bellary,Hospet,Potato,Potato,FAQ,1200,1600,1300,09 May 2018
+2614,Bellary,Hospet,Potato,Potato,Medium,750,2000,1400,24 Oct 2017
+2615,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,500,2000,1000,24 Oct 2017
+2616,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,2250,1450,01 Sep 2018
+2617,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,600,700,650,02 Jan 2018
+2618,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,650,1300,1000,22 Jan 2018
+2619,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,700,1350,850,22 Feb 2018
+2620,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1250,1900,1700,07 May 2018
+2621,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1400,1500,1450,08 May 2018
+2622,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2300,2400,2350,24 May 2018
+2623,Dharwad,Hubli (Amaragol),Potato,Other,Medium,400,500,450,09 Oct 2017
+2624,Dharwad,Hubli (Amaragol),Potato,Other,Medium,450,450,450,16 Dec 2017
+2625,Dharwad,Hubli (Amaragol),Potato,Other,Medium,500,500,500,12 Dec 2017
+2626,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,850,700,12 Sep 2017
+2627,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,750,05 Oct 2017
+2628,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,750,11 Dec 2017
+2629,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,600,900,750,12 Dec 2017
+2630,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,650,900,750,02 Nov 2017
+2631,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,07 Dec 2017
+2632,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,700,1000,850,12 Jan 2018
+2633,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,750,850,800,21 Dec 2017
+2634,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,900,1050,950,27 Feb 2018
+2635,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,950,1300,1050,31 Jan 2018
+2636,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1300,1850,1600,30 Jul 2018
+2637,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1400,1450,1400,08 Mar 2018
+2638,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1600,1800,1700,27 Apr 2018
+2639,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1700,1800,1750,17 Apr 2018
+2640,Kolar,Malur,Potato,Potato,FAQ,800,1300,1000,30 Dec 2017
+2641,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,09 Feb 2018
+2642,Kolar,Malur,Potato,Potato,FAQ,900,1200,1000,22 May 2018
+2643,Kolar,Malur,Potato,Potato,FAQ,900,1300,1000,18 Dec 2017
+2644,Kolar,Malur,Potato,Potato,FAQ,1000,1400,1200,08 Dec 2017
+2645,Kolar,Malur,Potato,Potato,FAQ,1800,2200,2000,18 Jun 2018
+2646,Kolar,Malur,Potato,Potato,FAQ,1800,2300,2000,24 Jul 2018
+2647,Mandya,Mandya,Potato,Potato,FAQ,660,660,660,01 Aug 2018
+2648,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,400,800,600,20 Sep 2017
+2649,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,400,800,600,21 Sep 2017
+2650,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,600,1200,900,23 Dec 2017
+2651,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1000,850,04 Jan 2018
+2652,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,700,1100,900,05 Sep 2017
+2653,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,03 Oct 2017
+2654,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1100,950,07 Oct 2017
+2655,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,17 Feb 2018
+2656,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1200,1000,21 Nov 2017
+2657,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,02 Feb 2018
+2658,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,12 Mar 2018
+2659,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,16 Mar 2018
+2660,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1300,1050,17 Mar 2018
+2661,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1400,1100,16 Oct 2017
+2662,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,800,1400,1100,19 Oct 2017
+2663,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,900,1600,1250,17 Nov 2017
+2664,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,1900,1450,11 Jul 2018
+2665,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,17 Jul 2018
+2666,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1000,2000,1500,30 Jul 2018
+2667,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,1800,1500,03 May 2018
+2668,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1200,2000,1600,21 May 2018
+2669,Shimoga,Shimoga,Potato,Local,FAQ,1800,2500,2150,23 Jul 2018
+2670,Shimoga,Shimoga,Potato,Local,FAQ,2000,2200,2100,06 Jul 2018
+2671,Shimoga,Shimoga,Potato,Local,FAQ,2000,2200,2100,08 Jun 2018
+2672,Udupi,Udupi,Potato,Potato,FAQ,900,1100,1000,13 Sep 2017
+2673,Udupi,Udupi,Potato,Potato,FAQ,1000,1200,1100,15 Nov 2017
+2674,Udupi,Udupi,Potato,Potato,FAQ,1050,1250,1150,08 Nov 2017
+2675,Udupi,Udupi,Potato,Potato,FAQ,1800,2200,2000,02 May 2018
+2676,Udupi,Udupi,Potato,Potato,FAQ,1900,2100,2000,09 May 2018
+2677,Udupi,Udupi,Potato,Potato,FAQ,1900,2300,2100,01 Aug 2018

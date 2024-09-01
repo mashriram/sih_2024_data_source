@@ -1,0 +1,1822 @@
+0,1,2,3,4,5,6,7,8,9
+1,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1200,1000,11 Mar 2019
+2,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1400,1200,12 Feb 2019
+3,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,3800,3000,20 Jun 2019
+4,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,5200,4000,24 May 2019
+5,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4000,3000,06 Jul 2019
+6,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3400,15 Jul 2019
+7,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1200,4200,3200,20 Jul 2019
+8,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,1000,20 Sep 2018
+9,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1400,1000,19 Sep 2018
+10,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,11 Jan 2019
+11,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,11 Mar 2019
+12,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,18 Dec 2018
+13,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,18 Jan 2019
+14,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,22 Dec 2018
+15,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,28 Dec 2018
+16,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,320,320,320,21 Feb 2019
+17,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,01 Feb 2019
+18,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,400,400,400,05 Apr 2019
+19,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,400,400,400,10 Mar 2019
+20,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,600,600,600,22 Apr 2019
+21,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1000,1000,1000,19 Apr 2019
+22,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,05 Jul 2019
+23,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,22 May 2019
+24,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,09 May 2019
+25,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,27 May 2019
+26,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2000,2000,2000,02 Aug 2019
+27,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,28 Jun 2019
+28,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2500,2500,2500,11 Aug 2019
+29,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,13 Oct 2018
+30,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,11 Mar 2019
+31,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,13 Feb 2019
+32,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,23 Mar 2019
+33,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,03 Jan 2019
+34,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,19 Mar 2019
+35,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,29 Jan 2019
+36,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,1400,1000,02 Apr 2019
+37,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,1600,1100,18 Jan 2019
+38,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1600,1200,12 Apr 2019
+39,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,2000,1400,14 Apr 2019
+40,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2200,1600,20 Apr 2019
+41,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,26 Apr 2019
+42,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2600,1800,28 Apr 2019
+43,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3000,1800,08 Jul 2019
+44,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3000,2600,28 Jul 2019
+45,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3400,2300,16 Jun 2019
+46,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3000,2400,21 Jul 2019
+47,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3000,2500,31 Jul 2019
+48,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,500,300,04 Sep 2018
+49,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,07 Sep 2018
+50,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,11 Feb 2019
+51,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,20 Mar 2019
+52,Adilabad,Asifabad,Tomato,Local,FAQ,350,350,350,14 Aug 2019
+53,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2000,1800,17 Jan 2019
+54,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1600,21 Aug 2019
+55,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,4000,3000,27 Jul 2019
+56,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3200,2900,18 Apr 2019
+57,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4000,3000,18 May 2019
+58,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4200,3000,02 Aug 2019
+59,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3200,24 Jul 2019
+60,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4800,3500,04 Jun 2019
+61,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1100,900,04 Oct 2018
+62,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,900,27 Oct 2018
+63,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,05 Feb 2019
+64,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,08 Jan 2019
+65,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,16 Mar 2019
+66,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,23 Mar 2019
+67,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,24 Jan 2019
+68,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,800,800,800,18 Apr 2019
+69,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1000,1000,1000,31 Aug 2019
+70,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,05 Aug 2019
+71,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2300,2300,2300,29 Jul 2019
+72,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,22 Jun 2019
+73,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,10 Oct 2018
+74,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,220,220,220,26 Oct 2018
+75,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,01 Apr 2019
+76,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1800,1300,10 Apr 2019
+77,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3000,2000,23 Jun 2019
+78,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,28 May 2019
+79,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,2800,2000,25 Jun 2019
+80,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,2800,2400,05 Aug 2019
+81,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3200,2200,11 May 2019
+82,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3200,2200,18 May 2019
+83,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,2000,3600,2800,14 Jul 2019
+84,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,11 Oct 2018
+85,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,19 Sep 2018
+86,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,600,1000,800,02 Mar 2019
+87,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1500,1200,19 Jan 2019
+88,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,07 Apr 2019
+89,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,02 Jul 2019
+90,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,12 Jun 2019
+91,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,24 May 2019
+92,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,5000,4500,17 May 2019
+93,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,21 May 2019
+94,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,300,500,400,21 Oct 2018
+95,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,05 Sep 2018
+96,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,11 Sep 2018
+97,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,07 Oct 2018
+98,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,1000,800,12 Oct 2018
+99,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,23 Oct 2018
+100,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,500,1100,800,25 Oct 2018
+101,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,600,500,24 Mar 2019
+102,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,800,700,01 Feb 2019
+103,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,30 Aug 2019
+104,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1200,1000,31 Mar 2019
+105,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1600,2000,1800,29 Jan 2019
+106,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2300,12 Aug 2019
+107,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2300,29 Apr 2019
+108,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,04 May 2019
+109,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,09 May 2019
+110,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3300,23 Jul 2019
+111,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,08 Jun 2019
+112,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,10 Jun 2019
+113,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,11 Jun 2019
+114,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,13 May 2019
+115,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,15 Jul 2019
+116,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,16 Jun 2019
+117,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,17 Jun 2019
+118,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,01 Jun 2019
+119,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,04 Jun 2019
+120,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,16 May 2019
+121,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,26 May 2019
+122,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,29 Sep 2018
+123,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,10 Oct 2018
+124,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,17 Sep 2018
+125,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,100,300,200,04 Sep 2018
+126,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,400,800,600,16 Oct 2018
+127,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,400,900,650,22 Sep 2018
+128,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,05 Feb 2019
+129,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,2000,1600,14 Apr 2019
+130,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,2000,1600,19 Apr 2019
+131,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,3600,2600,03 Jul 2019
+132,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3200,2600,16 Jun 2019
+133,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,3200,3000,07 Jun 2019
+134,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,3600,3200,16 May 2019
+135,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,400,350,12 Sep 2018
+136,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,04 Oct 2018
+137,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,05 Sep 2018
+138,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,23 Oct 2018
+139,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,24 Oct 2018
+140,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,13 Oct 2018
+141,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,500,600,550,03 Sep 2018
+142,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,1000,1200,1100,22 Oct 2018
+143,Medak,Sangareddy,Tomato,Deshi,FAQ,400,800,600,01 Sep 2019
+144,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1000,900,06 Mar 2019
+145,Medak,Sangareddy,Tomato,Deshi,FAQ,3000,3200,3100,16 May 2019
+146,Medak,Sangareddy,Tomato,Deshi,FAQ,3400,3500,3400,01 Aug 2019
+147,Medak,Sangareddy,Tomato,Deshi,FAQ,3700,4100,3900,16 Jul 2019
+148,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4200,4000,04 Jul 2019
+149,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,500,700,600,10 Mar 2019
+150,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,500,700,600,22 Aug 2019
+151,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,700,1000,800,27 Jan 2019
+152,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,25 Jan 2019
+153,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,22 Feb 2019
+154,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,2400,1800,26 Dec 2018
+155,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,3200,2800,10 Aug 2019
+156,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3200,2600,17 Apr 2019
+157,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3400,04 Jul 2019
+158,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,800,21 Sep 2018
+159,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,1000,22 Sep 2018
+160,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,01 Mar 2019
+161,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,10 Feb 2019
+162,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,25 Feb 2019
+163,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1020,1020,1020,26 Aug 2019
+164,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,03 Jun 2019
+165,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2000,2000,2000,02 Jun 2019
+166,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2020,2020,2020,05 May 2019
+167,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,14 Sep 2018
+168,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,23 Sep 2018
+169,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,27 Sep 2018
+170,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,25 Feb 2019
+171,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,08 Feb 2019
+172,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,15 Mar 2019
+173,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,22 Jan 2019
+174,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,26 Dec 2018
+175,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,01 Jan 2019
+176,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1400,900,22 Dec 2018
+177,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,1400,1000,04 Jan 2019
+178,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1800,1300,08 Apr 2019
+179,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,2000,1400,10 Jan 2019
+180,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2200,1600,17 Apr 2019
+181,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2200,1600,29 Apr 2019
+182,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,08 May 2019
+183,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,10 May 2019
+184,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3000,2000,18 Jun 2019
+185,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3200,2100,15 Jun 2019
+186,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,2800,2400,04 Aug 2019
+187,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3400,2400,16 May 2019
+188,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3000,2800,13 Jul 2019
+189,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3200,2800,24 Jul 2019
+190,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,02 Sep 2018
+191,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,12 Oct 2018
+192,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,13 Sep 2018
+193,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,15 Sep 2018
+194,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,16 Sep 2018
+195,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,300,1200,700,23 Oct 2018
+196,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,600,800,700,16 Mar 2019
+197,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,01 Sep 2019
+198,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,15 Feb 2019
+199,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,18 Mar 2019
+200,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,30 Mar 2019
+201,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1400,1300,10 Feb 2019
+202,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1600,1400,08 Feb 2019
+203,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1500,2000,1800,03 Jan 2019
+204,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1500,2000,1800,14 Aug 2019
+205,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,800,700,12 Feb 2019
+206,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1200,1000,23 Jan 2019
+207,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1600,1200,10 Apr 2019
+208,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1000,1600,1200,18 Jan 2019
+209,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1600,1400,16 Jan 2019
+210,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,2000,1600,08 Jan 2019
+211,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,3200,2200,21 Jun 2019
+212,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,3200,2200,27 Jun 2019
+213,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2800,2200,25 Jun 2019
+214,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,3200,2400,08 Jun 2019
+215,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,3200,2400,20 Jun 2019
+216,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3200,2600,22 Jun 2019
+217,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3600,3000,20 May 2019
+218,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,4000,3400,27 May 2019
+219,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,4000,3400,31 May 2019
+220,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,600,450,01 Sep 2018
+221,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,18 Oct 2018
+222,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,14 Oct 2018
+223,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,500,700,600,19 Sep 2018
+224,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,600,800,700,26 Sep 2018
+225,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,800,1000,900,12 Oct 2018
+226,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,18 Mar 2019
+227,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1000,900,21 Feb 2019
+228,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1000,900,22 Mar 2019
+229,Medak,Sangareddy,Tomato,Deshi,FAQ,1000,1200,1100,20 Feb 2019
+230,Medak,Sangareddy,Tomato,Deshi,FAQ,2400,2700,2500,25 Jun 2019
+231,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,3800,3700,27 Jul 2019
+232,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,4000,3800,23 Jul 2019
+233,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4000,3900,06 Jul 2019
+234,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4100,3900,21 Jul 2019
+235,Medak,Sangareddy,Tomato,Deshi,FAQ,4300,4500,4400,29 May 2019
+236,Medak,Sangareddy,Tomato,Deshi,FAQ,4300,4600,4400,01 Jun 2019
+237,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,17 Aug 2019
+238,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,26 Aug 2019
+239,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,900,1100,1000,06 Feb 2019
+240,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,900,1200,1000,03 Feb 2019
+241,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,21 Feb 2019
+242,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,2000,02 May 2019
+243,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2000,18 Apr 2019
+244,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2500,3500,3000,17 May 2019
+245,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,01 Jun 2019
+246,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,22 Jun 2019
+247,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,25 May 2019
+248,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,03 Jun 2019
+249,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,20 Sep 2018
+250,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,29 Sep 2018
+251,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,08 Oct 2018
+252,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,30 Sep 2018
+253,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,250,500,375,07 Mar 2019
+254,Ranga Reddy,Shankarapally,Tomato,Local,Medium,100,200,150,27 Oct 2018
+255,Ranga Reddy,Shankarapally,Tomato,Local,Medium,4000,5000,4500,11 Oct 2018
+256,Medak,Vantamamidi,Tomato,Tomato,Medium,400,400,400,02 Oct 2018
+257,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1200,1700,1500,07 Apr 2019
+258,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,1800,1600,10 Apr 2019
+259,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,04 May 2019
+260,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,11 Aug 2019
+261,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,12 Jan 2019
+262,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2500,04 Aug 2019
+263,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3500,2500,19 May 2019
+264,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2500,4000,3500,22 May 2019
+265,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,3500,3200,04 Jun 2019
+266,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,02 Jun 2019
+267,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,4000,4500,4200,07 Jul 2019
+268,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,4000,4500,4200,11 Jul 2019
+269,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,05 Sep 2018
+270,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,16 Sep 2018
+271,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,700,900,800,07 Oct 2018
+272,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,1500,1800,1600,18 Oct 2018
+273,Ranga Reddy,Shankarapally,Tomato,Local,Medium,2000,3000,2500,20 Oct 2018
+274,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1000,800,01 Sep 2019
+275,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1200,1000,12 Mar 2019
+276,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1200,1000,26 Aug 2019
+277,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1800,17 Aug 2019
+278,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,1400,1000,19 Jan 2019
+279,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3600,3000,17 Jun 2019
+280,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4000,3200,05 Aug 2019
+281,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3200,16 Jul 2019
+282,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1500,5200,4000,17 May 2019
+283,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1500,1000,14 Oct 2018
+284,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,01 Apr 2019
+285,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,13 Dec 2018
+286,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,25 Mar 2019
+287,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,400,400,400,28 Mar 2019
+288,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,500,500,500,10 Apr 2019
+289,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2020,2020,2020,08 May 2019
+290,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2050,2050,2050,04 May 2019
+291,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,14 Jun 2019
+292,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,19 Jun 2019
+293,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,21 Sep 2018
+294,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,24 Oct 2018
+295,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,225,225,225,27 Oct 2018
+296,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,500,300,22 Aug 2019
+297,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,600,400,16 Feb 2019
+298,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,600,400,17 Feb 2019
+299,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,600,400,23 Aug 2019
+300,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,07 Mar 2019
+301,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,03 Mar 2019
+302,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,18 Mar 2019
+303,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,1200,900,27 Jan 2019
+304,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,02 Jun 2019
+305,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3200,2200,19 May 2019
+306,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2200,01 Jul 2019
+307,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3200,2500,25 Jul 2019
+308,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3200,2800,19 Jul 2019
+309,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3600,2600,11 Jul 2019
+310,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,01 Oct 2018
+311,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,03 Oct 2018
+312,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,20 Oct 2018
+313,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1200,800,22 Oct 2018
+314,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,03 Mar 2019
+315,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,09 Mar 2019
+316,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,23 Aug 2019
+317,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,20 Jun 2019
+318,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,30 Sep 2018
+319,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,14 Sep 2018
+320,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,17 Oct 2018
+321,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,19 Oct 2018
+322,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2000,3400,2700,20 Jul 2019
+323,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,400,300,07 Sep 2018
+324,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,500,350,24 Sep 2018
+325,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1600,2000,1800,09 Apr 2019
+326,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,21 Apr 2019
+327,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2200,10 Aug 2019
+328,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,25 Jul 2019
+329,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,07 Jul 2019
+330,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,11 Jul 2019
+331,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,25 Jun 2019
+332,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,27 Jul 2019
+333,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,100,350,225,27 Sep 2018
+334,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,500,350,17 Sep 2018
+335,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,400,780,590,20 Oct 2018
+336,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,600,500,07 Mar 2019
+337,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,09 Feb 2019
+338,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,09 Mar 2019
+339,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,1000,700,29 Dec 2018
+340,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,01 Jan 2019
+341,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,10 Mar 2019
+342,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1200,1000,10 Jan 2019
+343,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1200,1000,26 Jan 2019
+344,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,2000,1600,06 Jan 2019
+345,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2000,1800,23 Apr 2019
+346,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2000,1800,24 Apr 2019
+347,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,3200,2400,07 Jul 2019
+348,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3200,2600,19 May 2019
+349,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3600,2800,12 Jun 2019
+350,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,400,350,11 Sep 2018
+351,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,25 Oct 2018
+352,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,450,550,500,06 Sep 2018
+353,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,650,750,700,03 Oct 2018
+354,Medak,Sangareddy,Tomato,Deshi,FAQ,500,800,600,08 Mar 2019
+355,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,28 Feb 2019
+356,Medak,Sangareddy,Tomato,Deshi,FAQ,2500,3000,2800,19 Jun 2019
+357,Medak,Sangareddy,Tomato,Deshi,FAQ,3200,3400,3300,31 Jul 2019
+358,Medak,Sangareddy,Tomato,Deshi,FAQ,3400,3600,3500,17 Jul 2019
+359,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,4000,3800,13 Jul 2019
+360,Medak,Sangareddy,Tomato,Deshi,FAQ,3700,3900,3800,13 May 2019
+361,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,600,500,27 Mar 2019
+362,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,750,500,19 Aug 2019
+363,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,1800,06 Jan 2019
+364,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,1800,16 Apr 2019
+365,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,2000,30 Apr 2019
+366,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2000,08 May 2019
+367,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,3500,31 May 2019
+368,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,27 May 2019
+369,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,18 Sep 2018
+370,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,05 Oct 2018
+371,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,4000,4000,4000,13 Jul 2019
+372,Medak,Vantamamidi,Tomato,Local,Medium,500,500,500,07 Sep 2018
+373,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1000,800,20 Mar 2019
+374,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1200,900,20 Jan 2019
+375,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1600,1200,03 Jan 2019
+376,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1600,28 Aug 2019
+377,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1600,31 Aug 2019
+378,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,4200,3000,27 Apr 2019
+379,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4000,3200,22 Jul 2019
+380,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4200,3000,29 Jul 2019
+381,Hyderabad,Bowenpally,Tomato,Tomato,Medium,100,600,500,12 Sep 2018
+382,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1000,800,25 Oct 2018
+383,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1300,800,28 Sep 2018
+384,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,23 Jan 2019
+385,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,20 Jan 2019
+386,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,01 Jul 2019
+387,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,07 Jun 2019
+388,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,27 Jul 2019
+389,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,07 Jul 2019
+390,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,10 Jun 2019
+391,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,26 Sep 2018
+392,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,600,500,29 Dec 2018
+393,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,28 Feb 2019
+394,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,1800,1400,16 Jan 2019
+395,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2200,1600,25 Apr 2019
+396,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2200,1700,21 Apr 2019
+397,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,09 May 2019
+398,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3200,2300,12 May 2019
+399,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2100,27 Jun 2019
+400,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2400,26 Jul 2019
+401,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3400,2400,17 May 2019
+402,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3600,2500,13 Jun 2019
+403,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,29 Sep 2018
+404,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,21 Oct 2018
+405,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1600,1000,26 Oct 2018
+406,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,16 Feb 2019
+407,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,17 Feb 2019
+408,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,05 Mar 2019
+409,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1400,1600,1500,21 Jan 2019
+410,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1500,2000,1800,18 Aug 2019
+411,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2200,11 Aug 2019
+412,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2300,12 Jan 2019
+413,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,02 May 2019
+414,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,27 Jun 2019
+415,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,03 Aug 2019
+416,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,30 Jun 2019
+417,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,5000,4200,06 Jun 2019
+418,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,5000,4500,18 Jun 2019
+419,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,09 Sep 2018
+420,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,20 Sep 2018
+421,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,24 Sep 2018
+422,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2800,3350,3075,30 Jun 2019
+423,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,150,350,250,08 Sep 2018
+424,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,800,600,09 Mar 2019
+425,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,1200,1000,17 Mar 2019
+426,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,1600,1400,27 Mar 2019
+427,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2400,1600,13 Jan 2019
+428,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,3200,2800,09 Aug 2019
+429,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3400,08 Jul 2019
+430,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1100,900,01 Oct 2018
+431,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1800,1200,15 Oct 2018
+432,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,02 Mar 2019
+433,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,08 Mar 2019
+434,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,19 Jan 2019
+435,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,25 Dec 2018
+436,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,25 Jan 2019
+437,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,27 Dec 2018
+438,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,31 Mar 2019
+439,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,320,320,320,30 Dec 2018
+440,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,14 Jan 2019
+441,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,900,900,900,25 Aug 2019
+442,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,25 May 2019
+443,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,01 Jun 2019
+444,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,03 May 2019
+445,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2000,2000,2000,12 Jul 2019
+446,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,04 Aug 2019
+447,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,09 Jun 2019
+448,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,22 Jul 2019
+449,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,04 Oct 2018
+450,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,05 Sep 2018
+451,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,22 Sep 2018
+452,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,06 Mar 2019
+453,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,1000,600,04 Mar 2019
+454,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,300,600,400,23 Feb 2019
+455,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,17 Mar 2019
+456,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,27 Feb 2019
+457,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,12 Mar 2019
+458,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,13 Mar 2019
+459,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,28 Jan 2019
+460,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3000,2000,07 Jan 2019
+461,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2100,26 Jun 2019
+462,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3000,2800,29 Jul 2019
+463,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,02 Oct 2018
+464,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,700,900,800,22 Feb 2019
+465,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,21 Feb 2019
+466,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,23 Dec 2018
+467,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,25 Dec 2018
+468,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1400,1300,26 Aug 2019
+469,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1600,1400,17 Jan 2019
+470,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2200,07 May 2019
+471,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,3000,2500,08 May 2019
+472,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,13 Aug 2019
+473,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,25 Apr 2019
+474,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,06 Aug 2019
+475,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1400,1000,14 Mar 2019
+476,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,2200,1600,05 Apr 2019
+477,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,300,1500,1200,20 Feb 2019
+478,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,300,1700,1200,26 Feb 2019
+479,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3400,2800,27 Jun 2019
+480,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3200,17 Jul 2019
+481,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3200,19 Jul 2019
+482,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,700,03 Sep 2018
+483,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1300,1000,10 Oct 2018
+484,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,03 Jan 2019
+485,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,04 Mar 2019
+486,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,14 Feb 2019
+487,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,20 Mar 2019
+488,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,21 Mar 2019
+489,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,29 Mar 2019
+490,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,04 Apr 2019
+491,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1020,1020,1020,15 Apr 2019
+492,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1700,1700,1700,10 May 2019
+493,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2000,2000,2000,03 Aug 2019
+494,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2000,2000,2000,30 Jun 2019
+495,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2300,2300,2300,13 Jul 2019
+496,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,29 Jun 2019
+497,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2500,2500,2500,08 Jun 2019
+498,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2500,2500,2500,10 Aug 2019
+499,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,19 Oct 2018
+500,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,30 Sep 2018
+501,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,600,400,14 Feb 2019
+502,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,09 Feb 2019
+503,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,2000,1400,19 Apr 2019
+504,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2200,1600,03 May 2019
+505,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3200,2100,11 Jun 2019
+506,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3500,2200,08 Jan 2019
+507,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,01 Jun 2019
+508,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2200,03 Jul 2019
+509,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3000,2500,30 Jul 2019
+510,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,17 Oct 2018
+511,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,19 Oct 2018
+512,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,20 Sep 2018
+513,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,25 Sep 2018
+514,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,06 Oct 2018
+515,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1200,1000,15 Aug 2019
+516,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,04 Mar 2019
+517,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1500,1200,18 Jan 2019
+518,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1400,1800,1600,03 Feb 2019
+519,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,26 Apr 2019
+520,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,05 Aug 2019
+521,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,07 Aug 2019
+522,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,08 Aug 2019
+523,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,09 Jul 2019
+524,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,4000,3500,05 Jul 2019
+525,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,4000,3500,17 Jul 2019
+526,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1200,1000,13 Feb 2019
+527,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1600,1200,17 Dec 2018
+528,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1600,1200,19 Dec 2018
+529,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1800,1400,19 Feb 2019
+530,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1800,1600,31 Mar 2019
+531,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,1600,1400,20 Aug 2019
+532,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1600,25 Aug 2019
+533,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1600,27 Aug 2019
+534,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1600,29 Aug 2019
+535,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,4600,3400,14 Jul 2019
+536,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3400,2800,26 Jun 2019
+537,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3600,3000,28 Jun 2019
+538,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3800,3000,01 Jul 2019
+539,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4000,3000,23 Jul 2019
+540,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3200,09 Jul 2019
+541,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,2000,5200,4000,06 Jun 2019
+542,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1100,900,30 Sep 2018
+543,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,1000,23 Oct 2018
+544,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1100,800,03 Oct 2018
+545,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,15 Mar 2019
+546,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,16 Dec 2018
+547,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,17 Mar 2019
+548,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,20 Feb 2019
+549,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,21 Dec 2018
+550,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,27 Jan 2019
+551,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,28 Jan 2019
+552,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,400,400,400,12 Feb 2019
+553,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,500,500,500,12 Apr 2019
+554,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1200,1200,1200,13 Apr 2019
+555,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1200,1200,1200,22 Aug 2019
+556,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,12 Aug 2019
+557,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,13 May 2019
+558,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2100,2100,2100,13 Jun 2019
+559,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2100,2100,2100,17 Jul 2019
+560,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,14 Jul 2019
+561,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,26 Jul 2019
+562,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,08 Jul 2019
+563,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,18 Jul 2019
+564,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,03 Sep 2018
+565,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,07 Sep 2018
+566,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,300,300,300,06 Sep 2018
+567,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,1000,600,11 Feb 2019
+568,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,02 Mar 2019
+569,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,10 Mar 2019
+570,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,09 Mar 2019
+571,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,21 Mar 2019
+572,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,24 Mar 2019
+573,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,700,1500,1200,10 Aug 2019
+574,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2000,1500,17 Jan 2019
+575,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,05 May 2019
+576,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,06 May 2019
+577,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,550,375,26 Sep 2018
+578,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,500,400,20 Sep 2018
+579,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,7000,500,14 Oct 2018
+580,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,450,780,615,09 Oct 2018
+581,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,600,1120,860,24 Oct 2018
+582,Khammam,Khammam,Tomato,Tomato,FAQ,800,1000,800,17 Oct 2018
+583,Khammam,Khammam,Tomato,Tomato,FAQ,800,1000,800,19 Oct 2018
+584,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,20 Mar 2019
+585,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,28 Feb 2019
+586,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,30 Dec 2018
+587,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1200,800,03 Jan 2019
+588,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1200,1000,22 Jan 2019
+589,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1200,1000,29 Jan 2019
+590,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1000,1400,1200,05 Apr 2019
+591,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2400,2000,25 Apr 2019
+592,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3200,2800,15 May 2019
+593,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,08 Oct 2018
+594,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,26 Oct 2018
+595,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,27 Sep 2018
+596,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,800,1000,900,04 Oct 2018
+597,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,15 Feb 2019
+598,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,23 Feb 2019
+599,Medak,Sangareddy,Tomato,Deshi,FAQ,650,700,700,27 Aug 2019
+600,Medak,Sangareddy,Tomato,Deshi,FAQ,700,900,800,17 Mar 2019
+601,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1000,900,26 Mar 2019
+602,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1000,1000,30 Mar 2019
+603,Medak,Sangareddy,Tomato,Deshi,FAQ,900,1000,900,27 Mar 2019
+604,Medak,Sangareddy,Tomato,Deshi,FAQ,1600,1800,1700,03 Apr 2019
+605,Medak,Sangareddy,Tomato,Deshi,FAQ,2600,3000,2750,21 Jun 2019
+606,Medak,Sangareddy,Tomato,Deshi,FAQ,3500,3600,3600,19 Jul 2019
+607,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,3800,3700,24 Jul 2019
+608,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,3800,3700,24 May 2019
+609,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,3900,3800,16 Jun 2019
+610,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4000,3900,07 Jul 2019
+611,Medak,Sangareddy,Tomato,Deshi,FAQ,4300,4700,4500,08 Jun 2019
+612,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,28 Mar 2019
+613,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,29 Aug 2019
+614,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,01 Feb 2019
+615,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,05 May 2019
+616,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,26 Jan 2019
+617,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,05 Feb 2019
+618,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1800,1500,15 Jun 2019
+619,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,12 Aug 2019
+620,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,14 Aug 2019
+621,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2200,27 Jul 2019
+622,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2500,4500,3500,24 May 2019
+623,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2800,3700,3000,15 May 2019
+624,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,17 Jun 2019
+625,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,26 Jun 2019
+626,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,29 Jun 2019
+627,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4600,4000,14 Jul 2019
+628,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,4000,4800,4500,10 Jul 2019
+629,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,03 Jul 2019
+630,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,22 May 2019
+631,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,23 May 2019
+632,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,24 Jun 2019
+633,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,5000,4500,03 Jun 2019
+634,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,02 Sep 2018
+635,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,13 Sep 2018
+636,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,25 Sep 2018
+637,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,09 Oct 2018
+638,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,500,350,25 Sep 2018
+639,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,600,500,16 Mar 2019
+640,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,1000,800,20 Jan 2019
+641,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,26 Mar 2019
+642,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2400,2000,10 May 2019
+643,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,4000,3000,14 Jun 2019
+644,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3200,2800,01 Jul 2019
+645,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3600,3000,30 May 2019
+646,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,4000,3400,26 May 2019
+647,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,03 Oct 2018
+648,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,28 Sep 2018
+649,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,25 Sep 2018
+650,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,700,900,800,27 Sep 2018
+651,Medak,Sangareddy,Tomato,Deshi,FAQ,700,900,800,22 Aug 2019
+652,Medak,Sangareddy,Tomato,Deshi,FAQ,900,1100,1000,20 Mar 2019
+653,Medak,Sangareddy,Tomato,Deshi,FAQ,1400,1800,1600,03 Mar 2019
+654,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,3900,3800,17 Jun 2019
+655,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,4000,3800,20 Jul 2019
+656,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,23 Mar 2019
+657,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,30 Aug 2019
+658,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,11 Feb 2019
+659,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,19 Feb 2019
+660,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,900,1200,1000,15 Feb 2019
+661,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,18 Feb 2019
+662,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1200,1800,1400,13 Apr 2019
+663,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,13 Aug 2019
+664,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,1800,23 Apr 2019
+665,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2000,07 May 2019
+666,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2500,03 Aug 2019
+667,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2500,26 Jul 2019
+668,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2800,3500,3000,21 May 2019
+669,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3200,4000,3600,28 Jun 2019
+670,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,08 Jul 2019
+671,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,22 Sep 2018
+672,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,24 Sep 2018
+673,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1000,900,17 Oct 2018
+674,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,1500,1800,1600,19 Oct 2018
+675,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,4500,4500,4500,09 Jul 2019
+676,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,4500,4500,4500,20 Jul 2019
+677,Ranga Reddy,Shankarapally,Tomato,Local,Large,40,80,60,08 Sep 2018
+678,Ranga Reddy,Shankarapally,Tomato,Local,Medium,60,100,80,04 Oct 2018
+679,Ranga Reddy,Shankarapally,Tomato,Local,Medium,100,100,100,27 Sep 2018
+680,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1000,800,23 Aug 2019
+681,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,300,1700,1500,30 Mar 2019
+682,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,600,3400,2500,25 Apr 2019
+683,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,2800,2500,10 Apr 2019
+684,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3400,2800,29 Jun 2019
+685,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3000,11 Jul 2019
+686,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3400,03 Jul 2019
+687,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1200,5200,4000,25 May 2019
+688,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,1000,15 Sep 2018
+689,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1300,1000,13 Oct 2018
+690,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1400,1000,27 Sep 2018
+691,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1300,1000,26 Oct 2018
+692,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,03 Feb 2019
+693,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,05 Jan 2019
+694,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,15 Feb 2019
+695,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,19 Dec 2018
+696,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,22 Feb 2019
+697,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,22 Mar 2019
+698,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,24 Feb 2019
+699,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,31 Jan 2019
+700,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,27 Mar 2019
+701,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,30 Jan 2019
+702,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1000,1000,1000,24 Aug 2019
+703,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1820,1820,1820,11 May 2019
+704,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,14 Aug 2019
+705,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,26 May 2019
+706,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,11 Jul 2019
+707,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,21 Jul 2019
+708,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,07 Oct 2018
+709,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,08 Sep 2018
+710,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,15 Oct 2018
+711,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,17 Oct 2018
+712,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,600,500,28 Dec 2018
+713,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,01 Feb 2019
+714,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,23 Dec 2018
+715,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,06 Feb 2019
+716,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,18 Dec 2018
+717,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,21 Jan 2019
+718,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,26 Jan 2019
+719,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,31 Dec 2018
+720,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,31 Mar 2019
+721,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,900,21 Aug 2019
+722,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,1200,900,19 Jan 2019
+723,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1600,1200,09 Aug 2019
+724,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1800,1300,09 Apr 2019
+725,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,2000,1400,06 Apr 2019
+726,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2200,1600,15 Apr 2019
+727,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,27 Apr 2019
+728,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,2400,1800,28 Jun 2019
+729,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,2800,2400,02 Aug 2019
+730,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3400,2400,20 May 2019
+731,Adilabad,Asifabad,Tomato,Local,FAQ,500,500,500,04 Aug 2019
+732,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1000,800,22 Dec 2018
+733,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1400,1000,23 Feb 2019
+734,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1600,1200,18 Dec 2018
+735,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1600,1400,27 Feb 2019
+736,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1800,22 Aug 2019
+737,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,4000,3000,07 Jul 2019
+738,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,4400,3000,21 Jul 2019
+739,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3200,2600,15 Apr 2019
+740,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3000,25 Jul 2019
+741,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3200,12 Jul 2019
+742,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1200,5400,4200,02 Jun 2019
+743,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,700,07 Sep 2018
+744,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1400,1000,18 Sep 2018
+745,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1400,1200,22 Oct 2018
+746,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1800,1200,17 Oct 2018
+747,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1100,900,19 Oct 2018
+748,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,1000,08 Oct 2018
+749,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1300,1000,24 Sep 2018
+750,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,14 Mar 2019
+751,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,19 Aug 2019
+752,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,320,320,320,17 Jan 2019
+753,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,13 Mar 2019
+754,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1020,1020,1020,29 Aug 2019
+755,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2000,2000,2000,25 Jul 2019
+756,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2010,2010,2010,06 May 2019
+757,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2500,2500,2500,07 Aug 2019
+758,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2500,2500,2500,09 Aug 2019
+759,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,20 Oct 2018
+760,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,25 Oct 2018
+761,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,250,250,250,08 Oct 2018
+762,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,250,250,250,14 Oct 2018
+763,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,15 Feb 2019
+764,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,1200,500,16 Aug 2019
+765,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,1200,700,19 Dec 2018
+766,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,05 Feb 2019
+767,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,1400,1000,02 Jan 2019
+768,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1800,1500,11 Aug 2019
+769,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,2000,1500,08 Aug 2019
+770,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,02 May 2019
+771,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,30 Apr 2019
+772,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3000,2000,17 Jun 2019
+773,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3200,2100,15 May 2019
+774,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,22 May 2019
+775,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,2800,2000,22 Jun 2019
+776,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2600,2000,30 Jun 2019
+777,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2400,06 Aug 2019
+778,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3000,2300,07 Jul 2019
+779,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,4200,2900,21 May 2019
+780,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,10 Oct 2018
+781,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,17 Sep 2018
+782,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1400,1200,17 Feb 2019
+783,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,2000,1500,23 Dec 2018
+784,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,2000,1600,06 Jan 2019
+785,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,2400,1800,29 Dec 2018
+786,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,600,2800,2400,03 Aug 2019
+787,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,2800,2400,11 Aug 2019
+788,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3200,13 Jul 2019
+789,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3400,31 Jul 2019
+790,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4800,3400,22 May 2019
+791,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1000,800,10 Sep 2018
+792,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1400,1000,20 Oct 2018
+793,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,02 Feb 2019
+794,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,27 Feb 2019
+795,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,03 Apr 2019
+796,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,26 Jan 2019
+797,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,26 Mar 2019
+798,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,600,600,600,27 Apr 2019
+799,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1000,1000,1000,21 Apr 2019
+800,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1000,1000,1000,30 Aug 2019
+801,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,13 Aug 2019
+802,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2000,2000,2000,06 Jul 2019
+803,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2100,2100,2100,31 Jul 2019
+804,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,17 Jun 2019
+805,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2500,2500,2500,28 Jul 2019
+806,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,05 Oct 2018
+807,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,12 Oct 2018
+808,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,13 Sep 2018
+809,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,22 Feb 2019
+810,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,14 Mar 2019
+811,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,24 Dec 2018
+812,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,30 Jan 2019
+813,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,30 Mar 2019
+814,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,900,20 Aug 2019
+815,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1200,1000,27 Mar 2019
+816,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1600,1200,13 Aug 2019
+817,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3600,2300,09 Jun 2019
+818,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3600,2400,12 Jun 2019
+819,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2200,1800,16 Apr 2019
+820,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3600,2500,14 Jun 2019
+821,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,2000,2800,2400,24 Jun 2019
+822,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,2000,3600,2800,16 Jul 2019
+823,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,2000,3600,2800,18 Jul 2019
+824,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,07 Oct 2018
+825,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,08 Sep 2018
+826,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,24 Sep 2018
+827,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,04 Oct 2018
+828,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,600,500,14 Sep 2018
+829,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,500,700,600,15 Mar 2019
+830,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,14 Mar 2019
+831,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,27 Feb 2019
+832,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,29 Mar 2019
+833,Medak,Vantamamidi,Tomato,Tomato,Medium,400,400,400,27 Sep 2018
+834,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,2600,1900,29 Jun 2019
+835,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2100,21 Jun 2019
+836,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2400,27 Jul 2019
+837,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3000,2200,19 Jun 2019
+838,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3400,2400,14 May 2019
+839,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3200,2400,23 May 2019
+840,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,14 Oct 2018
+841,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,800,600,28 Sep 2018
+842,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,600,800,700,13 Mar 2019
+843,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,12 Mar 2019
+844,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,22 Dec 2018
+845,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1500,2000,1800,19 Aug 2019
+846,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,02 Apr 2019
+847,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,26 Jan 2019
+848,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,27 Apr 2019
+849,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,01 Aug 2019
+850,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,13 Jul 2019
+851,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,15 May 2019
+852,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,13 Jun 2019
+853,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,19 May 2019
+854,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,300,500,400,03 Oct 2018
+855,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,01 Oct 2018
+856,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,16 Sep 2018
+857,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,18 Oct 2018
+858,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,100,300,200,05 Sep 2018
+859,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,300,250,03 Sep 2018
+860,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,600,500,14 Feb 2019
+861,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,800,700,19 Feb 2019
+862,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1000,900,30 Mar 2019
+863,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1600,1400,09 Apr 2019
+864,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,2400,1800,06 May 2019
+865,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2400,2000,15 Apr 2019
+866,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2800,2200,28 Jun 2019
+867,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,2800,2400,19 Jun 2019
+868,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3600,2800,23 May 2019
+869,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,06 Sep 2018
+870,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,21 Sep 2018
+871,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,20 Oct 2018
+872,Hyderabad,L B Nagar,Tomato,Tomato,Medium,800,1200,1000,15 Oct 2018
+873,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,600,800,700,29 Sep 2018
+874,Medak,Sangareddy,Tomato,Deshi,FAQ,400,800,600,29 Aug 2019
+875,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,20 Aug 2019
+876,Medak,Sangareddy,Tomato,Deshi,FAQ,700,900,800,12 Mar 2019
+877,Medak,Sangareddy,Tomato,Deshi,FAQ,1500,2000,1700,02 Mar 2019
+878,Medak,Sangareddy,Tomato,Deshi,FAQ,2000,2400,2200,04 May 2019
+879,Medak,Sangareddy,Tomato,Deshi,FAQ,3000,3100,3050,03 Aug 2019
+880,Medak,Sangareddy,Tomato,Deshi,FAQ,3400,3800,3600,16 Aug 2019
+881,Medak,Sangareddy,Tomato,Deshi,FAQ,3500,3800,3600,22 May 2019
+882,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4100,3900,14 Jul 2019
+883,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4100,4000,14 Aug 2019
+884,Medak,Sangareddy,Tomato,Deshi,FAQ,5800,6200,5900,11 Jun 2019
+885,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,17 Mar 2019
+886,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,250,600,425,17 Oct 2018
+887,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,26 Dec 2018
+888,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,1000,500,16 Feb 2019
+889,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,1000,700,17 Feb 2019
+890,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,800,700,21 Mar 2019
+891,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,11 Mar 2019
+892,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,12 Mar 2019
+893,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1000,1600,1200,07 Jan 2019
+894,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1000,1600,1300,19 Jan 2019
+895,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1000,2000,1500,17 Apr 2019
+896,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1400,1300,06 Jul 2019
+897,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2400,2000,28 Apr 2019
+898,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,3200,2400,17 Jun 2019
+899,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,03 Sep 2018
+900,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,10 Sep 2018
+901,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,17 Sep 2018
+902,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,15 Sep 2018
+903,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,700,900,800,11 Oct 2018
+904,Medak,Sangareddy,Tomato,Deshi,FAQ,400,800,600,31 Aug 2019
+905,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1000,900,19 Mar 2019
+906,Medak,Sangareddy,Tomato,Deshi,FAQ,1800,2000,1900,12 Apr 2019
+907,Medak,Sangareddy,Tomato,Deshi,FAQ,2200,2500,2300,02 May 2019
+908,Medak,Sangareddy,Tomato,Deshi,FAQ,2400,2600,2500,22 Apr 2019
+909,Medak,Sangareddy,Tomato,Deshi,FAQ,2700,2900,2800,27 Jun 2019
+910,Medak,Sangareddy,Tomato,Deshi,FAQ,3200,3400,3300,17 May 2019
+911,Medak,Sangareddy,Tomato,Deshi,FAQ,3400,3800,3600,15 Jun 2019
+912,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,3900,3800,10 Jul 2019
+913,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4000,3900,10 May 2019
+914,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4200,3900,22 Jul 2019
+915,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,22 Mar 2019
+916,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,600,800,700,03 Mar 2019
+917,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1200,1500,1300,11 Apr 2019
+918,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2000,26 Apr 2019
+919,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2500,06 Aug 2019
+920,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,03 Jul 2019
+921,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,3500,06 Jun 2019
+922,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,20 Jul 2019
+923,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,14 Sep 2018
+924,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,02 Sep 2018
+925,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,02 Oct 2018
+926,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,15 Oct 2018
+927,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,700,900,800,24 Oct 2018
+928,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,400,600,500,23 Feb 2019
+929,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,500,750,625,12 Mar 2019
+930,Ranga Reddy,Shankarapally,Tomato,Local,Medium,50,100,75,11 Sep 2018
+931,Medak,Vantamamidi,Tomato,Local,Medium,500,500,500,05 Sep 2018
+932,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,22 Jul 2019
+933,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,26 Jun 2019
+934,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,28 May 2019
+935,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,04 Oct 2018
+936,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,18 Sep 2018
+937,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,21 Sep 2018
+938,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,600,1000,800,27 Aug 2019
+939,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2500,3000,2750,28 Jun 2019
+940,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2600,3300,2950,29 Jun 2019
+941,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,400,300,14 Sep 2018
+942,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,540,450,02 Oct 2018
+943,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,600,450,05 Oct 2018
+944,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,600,450,12 Oct 2018
+945,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,400,700,550,23 Oct 2018
+946,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,03 Mar 2019
+947,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,08 Feb 2019
+948,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,17 Mar 2019
+949,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,20 Feb 2019
+950,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,23 Mar 2019
+951,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1200,1000,04 Apr 2019
+952,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1200,1000,28 Jan 2019
+953,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,3200,3000,08 Jul 2019
+954,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,400,350,13 Sep 2018
+955,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,500,400,05 Oct 2018
+956,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,10 Oct 2018
+957,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,400,600,500,24 Sep 2018
+958,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,1000,1200,1100,24 Oct 2018
+959,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,1500,1600,1550,19 Oct 2018
+960,Medak,Sangareddy,Tomato,Deshi,FAQ,500,700,600,25 Feb 2019
+961,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,15 Mar 2019
+962,Medak,Sangareddy,Tomato,Deshi,FAQ,2000,2250,2100,06 May 2019
+963,Medak,Sangareddy,Tomato,Deshi,FAQ,2100,2300,2200,30 Apr 2019
+964,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,3900,3800,05 Jul 2019
+965,Medak,Sangareddy,Tomato,Deshi,FAQ,3700,3800,3800,25 May 2019
+966,Medak,Sangareddy,Tomato,Deshi,FAQ,3900,4200,4000,08 Jul 2019
+967,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,13 Mar 2019
+968,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,24 Mar 2019
+969,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,500,700,600,09 Mar 2019
+970,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,10 Feb 2019
+971,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,23 Feb 2019
+972,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1200,1700,1500,05 Apr 2019
+973,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,1800,09 May 2019
+974,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,2000,01 May 2019
+975,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,2000,19 Apr 2019
+976,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2500,3000,2800,28 Jul 2019
+977,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,16 Jun 2019
+978,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,20 Jun 2019
+979,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4200,3500,27 Jun 2019
+980,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,3800,07 Jun 2019
+981,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,12 Jun 2019
+982,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,24 Jul 2019
+983,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,600,400,23 Sep 2018
+984,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,08 Sep 2018
+985,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,10 Oct 2018
+986,Ranga Reddy,Shankarapally,Tomato,Local,Medium,30,50,40,01 Sep 2018
+987,Ranga Reddy,Shankarapally,Tomato,Local,Medium,50,80,65,01 Oct 2018
+988,Medak,Vantamamidi,Tomato,Local,Medium,400,400,400,11 Sep 2018
+989,Medak,Vantamamidi,Tomato,Local,Medium,400,400,400,19 Sep 2018
+990,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3000,2000,10 Jul 2019
+991,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,01 Sep 2018
+992,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,27 Sep 2018
+993,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1000,700,25 Oct 2018
+994,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,400,1600,1000,27 Oct 2018
+995,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,10 Mar 2019
+996,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,19 Feb 2019
+997,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,28 Feb 2019
+998,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,01 Feb 2019
+999,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,06 Mar 2019
+1000,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1400,1200,24 Aug 2019
+1001,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1400,1800,1600,05 Feb 2019
+1002,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1500,1700,1600,04 Feb 2019
+1003,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1600,2000,1800,04 Jan 2019
+1004,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1600,2000,1800,05 Apr 2019
+1005,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,19 Apr 2019
+1006,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2200,2100,23 Apr 2019
+1007,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,3000,2500,30 Apr 2019
+1008,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,09 Jun 2019
+1009,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,12 May 2019
+1010,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,29 Jul 2019
+1011,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,30 Jul 2019
+1012,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4500,4000,11 May 2019
+1013,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,02 Jun 2019
+1014,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,500,350,11 Oct 2018
+1015,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,550,375,23 Sep 2018
+1016,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,600,450,08 Oct 2018
+1017,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,600,450,10 Oct 2018
+1018,Khammam,Khammam,Tomato,Tomato,FAQ,800,900,800,02 Oct 2018
+1019,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,19 Mar 2019
+1020,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,500,800,600,06 Mar 2019
+1021,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1200,1000,27 Jan 2019
+1022,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1600,1000,12 Jan 2019
+1023,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1600,1300,13 Jan 2019
+1024,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1600,1400,14 Jan 2019
+1025,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2400,2000,09 May 2019
+1026,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2600,2100,03 May 2019
+1027,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2800,2200,01 May 2019
+1028,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,3200,2400,06 Jun 2019
+1029,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,3200,2400,11 May 2019
+1030,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,400,400,06 Oct 2018
+1031,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,04 Sep 2018
+1032,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,19 Sep 2018
+1033,Medak,Sadasivpet(Sangareddy),Tomato,Hybrid,Medium,1200,1400,1300,26 Oct 2018
+1034,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,300,500,400,12 Sep 2018
+1035,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,400,600,500,15 Sep 2018
+1036,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,26 Aug 2019
+1037,Medak,Sangareddy,Tomato,Deshi,FAQ,700,800,800,25 Aug 2019
+1038,Medak,Sangareddy,Tomato,Deshi,FAQ,700,900,800,16 Mar 2019
+1039,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1000,900,24 Mar 2019
+1040,Medak,Sangareddy,Tomato,Deshi,FAQ,900,1100,1000,31 Mar 2019
+1041,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1000,800,18 Mar 2019
+1042,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1200,1000,25 Mar 2019
+1043,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1300,1000,02 Feb 2019
+1044,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1400,1200,15 Feb 2019
+1045,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1400,1200,24 Feb 2019
+1046,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1400,1200,26 Mar 2019
+1047,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,2400,1600,28 Dec 2018
+1048,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2400,1600,14 Jan 2019
+1049,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2400,1600,16 Jan 2019
+1050,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,5000,3400,21 May 2019
+1051,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3000,2500,14 Apr 2019
+1052,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3400,07 Jun 2019
+1053,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1500,5200,4000,28 May 2019
+1054,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,600,500,06 Sep 2018
+1055,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,700,02 Sep 2018
+1056,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1000,800,01 Sep 2018
+1057,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1000,800,24 Oct 2018
+1058,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,1000,16 Sep 2018
+1059,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1700,1200,16 Oct 2018
+1060,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,06 Mar 2019
+1061,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,09 Jan 2019
+1062,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,09 Mar 2019
+1063,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,10 Jan 2019
+1064,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,23 Feb 2019
+1065,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,24 Mar 2019
+1066,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,28 Feb 2019
+1067,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,500,500,500,11 Apr 2019
+1068,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,800,800,800,20 Apr 2019
+1069,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1020,1020,1020,02 May 2019
+1070,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1200,1200,1200,01 May 2019
+1071,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1200,1200,1200,16 Aug 2019
+1072,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1200,1200,1200,21 Aug 2019
+1073,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,01 Aug 2019
+1074,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,15 Aug 2019
+1075,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,06 Jun 2019
+1076,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2020,2020,2020,15 Jun 2019
+1077,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2300,2300,2300,24 Jul 2019
+1078,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,21 Jun 2019
+1079,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,27 Jun 2019
+1080,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2500,2500,2500,24 May 2019
+1081,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,01 Sep 2018
+1082,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,18 Oct 2018
+1083,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,21 Oct 2018
+1084,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,600,400,19 Feb 2019
+1085,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,17 Aug 2019
+1086,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,25 Dec 2018
+1087,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,700,19 Aug 2019
+1088,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,25 Jan 2019
+1089,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,26 Mar 2019
+1090,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1600,1000,24 Jan 2019
+1091,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,1200,900,07 Feb 2019
+1092,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,18 Oct 2018
+1093,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,600,1000,800,14 Feb 2019
+1094,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,600,1000,800,19 Mar 2019
+1095,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,28 Mar 2019
+1096,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,29 Aug 2019
+1097,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,31 Aug 2019
+1098,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1200,1000,16 Aug 2019
+1099,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1400,1300,09 Feb 2019
+1100,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1400,1600,1500,31 Jan 2019
+1101,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,08 Apr 2019
+1102,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,10 Jan 2019
+1103,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,16 Jan 2019
+1104,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,02 Aug 2019
+1105,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,12 Jul 2019
+1106,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,14 May 2019
+1107,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,01 Sep 2018
+1108,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,03 Sep 2018
+1109,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,19 Sep 2018
+1110,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,1600,3400,2500,03 Aug 2019
+1111,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,300,250,01 Sep 2018
+1112,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,500,350,06 Oct 2018
+1113,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,400,350,19 Sep 2018
+1114,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,400,800,600,07 Oct 2018
+1115,Khammam,Khammam,Tomato,Tomato,FAQ,700,900,900,09 Oct 2018
+1116,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,200,400,300,08 Mar 2019
+1117,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,14 Mar 2019
+1118,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,21 Feb 2019
+1119,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,23 Feb 2019
+1120,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,1000,700,31 Jan 2019
+1121,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,1000,800,31 Dec 2018
+1122,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,800,700,29 Mar 2019
+1123,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1600,1200,02 Apr 2019
+1124,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1600,1400,08 Apr 2019
+1125,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1600,1400,15 Jan 2019
+1126,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,3200,2200,05 Jul 2019
+1127,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,3200,2400,12 May 2019
+1128,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,2400,2200,27 Apr 2019
+1129,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,2800,2400,30 Apr 2019
+1130,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3500,2600,23 Jun 2019
+1131,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3200,2800,10 Jun 2019
+1132,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3600,3000,01 Jun 2019
+1133,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,08 Sep 2018
+1134,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,20 Sep 2018
+1135,Medak,Sadasivpet(Sangareddy),Tomato,Local,Large,400,600,500,01 Sep 2018
+1136,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,550,650,600,22 Sep 2018
+1137,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,800,1000,900,05 Oct 2018
+1138,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,24 Aug 2019
+1139,Medak,Sangareddy,Tomato,Deshi,FAQ,700,900,800,11 Mar 2019
+1140,Medak,Sangareddy,Tomato,Deshi,FAQ,1900,2300,2100,05 May 2019
+1141,Medak,Sangareddy,Tomato,Deshi,FAQ,2200,2600,2400,28 Jun 2019
+1142,Medak,Sangareddy,Tomato,Deshi,FAQ,3200,3700,3400,02 Aug 2019
+1143,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,10 Sep 2018
+1144,Ranga Reddy,Shankarapally,Tomato,Local,Medium,1000,1500,1250,23 Oct 2018
+1145,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,07 Mar 2019
+1146,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,24 Dec 2018
+1147,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1400,1300,21 Aug 2019
+1148,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1400,1600,1500,06 Feb 2019
+1149,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,24 Jan 2019
+1150,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2200,2000,22 Apr 2019
+1151,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2300,24 Apr 2019
+1152,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,03 May 2019
+1153,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3300,22 Jun 2019
+1154,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,16 Jul 2019
+1155,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,18 Jul 2019
+1156,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,15 Jun 2019
+1157,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,08 Sep 2018
+1158,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,22 Oct 2018
+1159,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,600,800,700,22 Sep 2018
+1160,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,20 Oct 2018
+1161,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,26 Oct 2018
+1162,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,1600,2800,2200,01 Jul 2019
+1163,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,150,250,200,29 Sep 2018
+1164,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,300,250,11 Sep 2018
+1165,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,400,300,06 Sep 2018
+1166,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,200,600,400,01 Mar 2019
+1167,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,800,700,27 Mar 2019
+1168,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,2000,1600,22 Apr 2019
+1169,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2000,1800,07 Apr 2019
+1170,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2400,2000,16 Apr 2019
+1171,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2600,2100,29 Apr 2019
+1172,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,4000,3200,29 May 2019
+1173,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,3200,3000,17 May 2019
+1174,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,400,400,02 Oct 2018
+1175,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,07 Sep 2018
+1176,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,18 Sep 2018
+1177,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,22 Sep 2018
+1178,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,22 Oct 2018
+1179,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,24 Sep 2018
+1180,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,500,700,600,20 Sep 2018
+1181,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,1200,1400,1300,25 Oct 2018
+1182,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,28 Aug 2019
+1183,Medak,Sangareddy,Tomato,Deshi,FAQ,1000,1200,1100,18 Feb 2019
+1184,Medak,Sangareddy,Tomato,Deshi,FAQ,2000,2200,2100,24 Apr 2019
+1185,Medak,Sangareddy,Tomato,Deshi,FAQ,2000,2250,2100,03 May 2019
+1186,Medak,Sangareddy,Tomato,Deshi,FAQ,2500,2800,2600,26 Jun 2019
+1187,Medak,Sangareddy,Tomato,Deshi,FAQ,3000,3200,3100,14 May 2019
+1188,Medak,Sangareddy,Tomato,Deshi,FAQ,3400,3600,3500,18 Jul 2019
+1189,Medak,Sangareddy,Tomato,Deshi,FAQ,4200,4500,4400,30 May 2019
+1190,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,600,500,26 Mar 2019
+1191,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,600,800,700,06 Mar 2019
+1192,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,600,800,700,28 Feb 2019
+1193,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,12 Feb 2019
+1194,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,24 Jan 2019
+1195,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,31 Mar 2019
+1196,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,19 Mar 2019
+1197,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,500,800,600,21 Jan 2019
+1198,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,600,1000,800,02 Apr 2019
+1199,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,22 Jan 2019
+1200,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,17 Feb 2019
+1201,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2500,08 Aug 2019
+1202,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2500,09 Aug 2019
+1203,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2800,3500,3000,11 May 2019
+1204,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2800,4000,3500,16 May 2019
+1205,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,25 Jun 2019
+1206,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,16 Jul 2019
+1207,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,700,900,800,13 Oct 2018
+1208,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,700,900,800,14 Oct 2018
+1209,Ranga Reddy,Shankarapally,Tomato,Local,Medium,80,100,90,04 Sep 2018
+1210,Ranga Reddy,Shankarapally,Tomato,Local,Medium,4000,6000,5000,09 Oct 2018
+1211,Medak,Vantamamidi,Tomato,Local,Medium,400,400,400,03 Sep 2018
+1212,Medak,Vantamamidi,Tomato,Local,Medium,560,560,560,12 Oct 2018
+1213,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1000,800,16 Aug 2019
+1214,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,300,2800,2000,02 Jan 2019
+1215,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,1200,1000,11 Feb 2019
+1216,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,1600,1300,04 Jan 2019
+1217,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1800,24 Aug 2019
+1218,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4200,3400,16 May 2019
+1219,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3000,08 Jun 2019
+1220,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4600,3400,23 May 2019
+1221,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1200,4000,3000,05 Jul 2019
+1222,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1200,4400,3200,10 Jul 2019
+1223,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,11 Sep 2018
+1224,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,700,08 Sep 2018
+1225,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,900,700,25 Sep 2018
+1226,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,900,800,05 Sep 2018
+1227,Hyderabad,Bowenpally,Tomato,Tomato,Medium,300,1300,1000,29 Sep 2018
+1228,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1200,1000,14 Sep 2018
+1229,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,26 Dec 2018
+1230,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,31 Dec 2018
+1231,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,400,400,400,06 Apr 2019
+1232,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,400,400,400,09 Feb 2019
+1233,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,900,900,900,23 Aug 2019
+1234,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,30 May 2019
+1235,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,16 May 2019
+1236,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,17 May 2019
+1237,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,08 Aug 2019
+1238,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,26 Jun 2019
+1239,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2500,2500,2500,20 Jul 2019
+1240,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,28 Sep 2018
+1241,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,600,500,26 Aug 2019
+1242,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,20 Feb 2019
+1243,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,24 Feb 2019
+1244,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,25 Aug 2019
+1245,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,02 Feb 2019
+1246,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,10 Feb 2019
+1247,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,20 Jan 2019
+1248,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,26 Feb 2019
+1249,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,03 Apr 2019
+1250,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1400,900,21 Dec 2018
+1251,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1600,800,14 Aug 2019
+1252,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1600,1000,04 Apr 2019
+1253,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1600,1000,15 Aug 2019
+1254,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2000,1500,09 Jan 2019
+1255,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2200,1600,18 Apr 2019
+1256,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3200,2100,06 Jun 2019
+1257,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,26 May 2019
+1258,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3200,2200,10 Jun 2019
+1259,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,3200,2200,20 Jun 2019
+1260,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3000,2800,12 Jul 2019
+1261,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1600,3200,2400,24 May 2019
+1262,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,400,300,11 Sep 2018
+1263,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,05 Sep 2018
+1264,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1600,1200,25 Jan 2019
+1265,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,2200,1600,25 Dec 2018
+1266,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,2600,1600,31 Dec 2018
+1267,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,300,1700,1400,28 Mar 2019
+1268,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1800,19 Aug 2019
+1269,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,600,1400,1200,14 Feb 2019
+1270,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,600,3200,2500,12 Aug 2019
+1271,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4200,3000,26 Jul 2019
+1272,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4200,3200,30 Jul 2019
+1273,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,4400,3400,18 Jul 2019
+1274,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,900,23 Sep 2018
+1275,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1300,1000,11 Oct 2018
+1276,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1300,1000,12 Oct 2018
+1277,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,04 Feb 2019
+1278,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,04 Jan 2019
+1279,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,07 Mar 2019
+1280,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,17 Dec 2018
+1281,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,29 Dec 2018
+1282,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,21 Jan 2019
+1283,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,800,800,800,28 Aug 2019
+1284,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1020,1020,1020,14 Apr 2019
+1285,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1200,1200,1200,17 Aug 2019
+1286,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,20 May 2019
+1287,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,19 May 2019
+1288,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1900,1900,1900,05 Jun 2019
+1289,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,20 Jun 2019
+1290,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,250,250,250,12 Sep 2018
+1291,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,400,300,31 Aug 2019
+1292,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,22 Mar 2019
+1293,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,27 Aug 2019
+1294,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,21 Feb 2019
+1295,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,29 Mar 2019
+1296,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,2200,1500,23 Apr 2019
+1297,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2400,1700,07 May 2019
+1298,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,25 May 2019
+1299,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,27 May 2019
+1300,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,31 May 2019
+1301,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2400,03 Aug 2019
+1302,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3200,2500,20 Jul 2019
+1303,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,03 Sep 2018
+1304,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,10 Sep 2018
+1305,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,21 Sep 2018
+1306,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,26 Sep 2018
+1307,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,13 Feb 2019
+1308,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,18 Feb 2019
+1309,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,27 Aug 2019
+1310,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1600,1400,07 Feb 2019
+1311,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1400,1600,1500,20 Jan 2019
+1312,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1600,1800,1700,30 Jan 2019
+1313,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2200,2000,13 Apr 2019
+1314,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,24 Jul 2019
+1315,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,1200,900,23 Jan 2019
+1316,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,1600,1100,06 Jan 2019
+1317,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3600,2300,08 Jun 2019
+1318,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,29 May 2019
+1319,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3200,2500,22 Jul 2019
+1320,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1500,2500,2000,07 Apr 2019
+1321,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,2000,3600,2800,17 Jul 2019
+1322,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,15 Oct 2018
+1323,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,600,800,700,23 Mar 2019
+1324,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,20 Feb 2019
+1325,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,23 Feb 2019
+1326,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,26 Mar 2019
+1327,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,24 Feb 2019
+1328,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1400,1200,30 Dec 2018
+1329,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1400,1600,1500,02 Feb 2019
+1330,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1400,1600,1500,10 Apr 2019
+1331,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1400,1600,1500,20 Aug 2019
+1332,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2300,09 Aug 2019
+1333,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2300,20 Apr 2019
+1334,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,10 May 2019
+1335,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,01 Jul 2019
+1336,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,26 Jul 2019
+1337,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,5000,4800,14 Jun 2019
+1338,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,04 Sep 2018
+1339,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,12 Sep 2018
+1340,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,28 Sep 2018
+1341,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,11 Oct 2018
+1342,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,25 Oct 2018
+1343,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,1100,1300,1200,15 Oct 2018
+1344,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2000,3200,2600,21 Jul 2019
+1345,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,150,300,225,04 Oct 2018
+1346,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,350,275,10 Sep 2018
+1347,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,400,300,18 Sep 2018
+1348,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,500,350,12 Sep 2018
+1349,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,27 Dec 2018
+1350,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,1000,700,06 Feb 2019
+1351,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,26 Feb 2019
+1352,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1200,800,30 Jan 2019
+1353,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1000,900,31 Mar 2019
+1354,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1400,1100,02 Jan 2019
+1355,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2800,2200,26 Jun 2019
+1356,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,2800,2400,18 Jun 2019
+1357,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3200,2600,14 May 2019
+1358,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,2600,2500,30 Jun 2019
+1359,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,2800,2600,29 Jun 2019
+1360,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3200,2800,24 Jun 2019
+1361,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3600,3000,25 May 2019
+1362,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,27 Oct 2018
+1363,Medak,Sadasivpet(Sangareddy),Tomato,Local,Large,300,500,400,07 Sep 2018
+1364,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,400,600,500,17 Sep 2018
+1365,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,09 Mar 2019
+1366,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1200,1000,01 Feb 2019
+1367,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1300,900,16 Feb 2019
+1368,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1600,1200,24 Mar 2019
+1369,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1600,1300,25 Feb 2019
+1370,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1800,1200,01 Jan 2019
+1371,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,1400,1100,26 Jan 2019
+1372,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,4200,3000,28 Jul 2019
+1373,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3800,2800,18 Jun 2019
+1374,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1200,4400,3400,05 Jun 2019
+1375,Hyderabad,Bowenpally,Tomato,Tomato,Medium,100,600,500,13 Sep 2018
+1376,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,800,600,04 Sep 2018
+1377,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,1000,17 Sep 2018
+1378,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1300,1000,06 Oct 2018
+1379,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1400,1000,21 Oct 2018
+1380,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,15 Dec 2018
+1381,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,350,350,350,13 Feb 2019
+1382,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,800,800,800,25 Apr 2019
+1383,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1020,1020,1020,26 Apr 2019
+1384,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,03 Jul 2019
+1385,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,04 Jul 2019
+1386,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,12 May 2019
+1387,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,19 Jul 2019
+1388,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2400,2400,2400,16 Jun 2019
+1389,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,02 Sep 2018
+1390,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,11 Oct 2018
+1391,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,20 Sep 2018
+1392,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,22 Oct 2018
+1393,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,600,400,01 Mar 2019
+1394,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,600,400,24 Aug 2019
+1395,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,27 Dec 2018
+1396,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1000,700,31 Jan 2019
+1397,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,700,18 Aug 2019
+1398,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,16 Mar 2019
+1399,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,20 Mar 2019
+1400,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,30 Dec 2018
+1401,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,2200,1500,24 Apr 2019
+1402,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,2200,1600,22 Apr 2019
+1403,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3600,2300,07 Jun 2019
+1404,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,04 Jun 2019
+1405,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2100,05 Jul 2019
+1406,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3200,2500,23 Jul 2019
+1407,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,05 Oct 2018
+1408,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,16 Oct 2018
+1409,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,11 Mar 2019
+1410,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1200,1000,22 Aug 2019
+1411,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1200,1000,28 Aug 2019
+1412,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1600,1400,17 Aug 2019
+1413,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1600,1800,1700,02 Jan 2019
+1414,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1600,1800,1700,25 Jan 2019
+1415,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,06 Apr 2019
+1416,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,22 Jan 2019
+1417,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2200,2000,12 Apr 2019
+1418,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,01 May 2019
+1419,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,10 Jul 2019
+1420,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,28 Jun 2019
+1421,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,21 Jun 2019
+1422,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,15 Sep 2018
+1423,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,23 Sep 2018
+1424,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,27 Sep 2018
+1425,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,300,250,02 Sep 2018
+1426,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,300,250,30 Sep 2018
+1427,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,600,400,21 Sep 2018
+1428,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,500,400,16 Sep 2018
+1429,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,700,500,13 Oct 2018
+1430,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,460,750,602,22 Oct 2018
+1431,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,500,1300,900,15 Oct 2018
+1432,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,600,500,02 Mar 2019
+1433,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,07 Feb 2019
+1434,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,21 Jan 2019
+1435,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,800,700,13 Feb 2019
+1436,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1000,1600,1300,12 Apr 2019
+1437,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1600,1400,11 Jan 2019
+1438,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1600,1400,17 Jan 2019
+1439,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2400,2000,05 May 2019
+1440,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3200,2600,05 Jun 2019
+1441,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,07 Oct 2018
+1442,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,21 Oct 2018
+1443,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,400,600,500,14 Sep 2018
+1444,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,600,800,700,01 Oct 2018
+1445,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,600,800,700,28 Sep 2018
+1446,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,700,900,800,08 Oct 2018
+1447,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,24 Feb 2019
+1448,Medak,Sangareddy,Tomato,Deshi,FAQ,700,900,800,21 Mar 2019
+1449,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1000,900,25 Mar 2019
+1450,Medak,Sangareddy,Tomato,Deshi,FAQ,1700,1900,1800,10 Apr 2019
+1451,Medak,Sangareddy,Tomato,Deshi,FAQ,2000,2200,2100,25 Apr 2019
+1452,Medak,Sangareddy,Tomato,Deshi,FAQ,2900,3100,3000,19 May 2019
+1453,Medak,Sangareddy,Tomato,Deshi,FAQ,3200,3800,3400,25 Jul 2019
+1454,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,4200,3900,15 Jul 2019
+1455,Medak,Sangareddy,Tomato,Deshi,FAQ,5200,5400,5300,09 Jun 2019
+1456,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,25 Aug 2019
+1457,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,27 Aug 2019
+1458,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,750,500,20 Aug 2019
+1459,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,19 Jan 2019
+1460,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,14 Jan 2019
+1461,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1200,2000,1500,13 Jan 2019
+1462,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,2000,29 Apr 2019
+1463,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,3500,3200,30 Jun 2019
+1464,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,18 Jun 2019
+1465,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,3500,21 Jul 2019
+1466,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,3500,23 Jul 2019
+1467,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,06 Jul 2019
+1468,Medak,Sangareddy,Tomato,Deshi,FAQ,3500,4600,4200,13 Aug 2019
+1469,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,4000,3800,03 Jul 2019
+1470,Medak,Sangareddy,Tomato,Deshi,FAQ,3700,3900,3800,11 May 2019
+1471,Medak,Sangareddy,Tomato,Deshi,FAQ,5200,5800,5600,10 Jun 2019
+1472,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,200,350,300,18 Aug 2019
+1473,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,08 Mar 2019
+1474,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,600,500,29 Mar 2019
+1475,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,600,800,700,05 Mar 2019
+1476,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,600,800,700,07 Mar 2019
+1477,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,600,800,700,27 Feb 2019
+1478,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,02 Feb 2019
+1479,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,04 Feb 2019
+1480,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,16 Aug 2019
+1481,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,2000,28 Apr 2019
+1482,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2500,30 Jul 2019
+1483,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2200,2800,2500,29 Jul 2019
+1484,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,23 May 2019
+1485,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,3500,17 Jul 2019
+1486,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,30 May 2019
+1487,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,25 Sep 2018
+1488,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,04 Oct 2018
+1489,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,500,1000,750,26 Mar 2019
+1490,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,4000,4000,4000,18 Jul 2019
+1491,Ranga Reddy,Shankarapally,Tomato,Local,Medium,50,80,65,28 Sep 2018
+1492,Medak,Sangareddy,Tomato,Deshi,FAQ,3400,3800,3600,23 May 2019
+1493,Medak,Sangareddy,Tomato,Deshi,FAQ,3700,3900,3800,12 May 2019
+1494,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4200,3900,21 May 2019
+1495,Medak,Sangareddy,Tomato,Deshi,FAQ,4300,4500,4400,31 May 2019
+1496,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,14 Mar 2019
+1497,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,600,500,12 Mar 2019
+1498,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,500,700,600,02 Mar 2019
+1499,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1200,900,28 Jan 2019
+1500,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1300,1700,1500,06 Apr 2019
+1501,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,21 Apr 2019
+1502,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,1800,06 May 2019
+1503,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2500,1800,20 Apr 2019
+1504,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2000,17 Apr 2019
+1505,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2200,3000,2800,01 Aug 2019
+1506,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2500,3000,2800,25 Jul 2019
+1507,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2800,3750,3500,14 May 2019
+1508,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2800,4000,3500,20 May 2019
+1509,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,05 Jun 2019
+1510,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,10 Jun 2019
+1511,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,11 Jun 2019
+1512,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,4000,22 Jul 2019
+1513,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,06 Sep 2018
+1514,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,21 Sep 2018
+1515,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,09 Sep 2018
+1516,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,15 Sep 2018
+1517,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,03 Oct 2018
+1518,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,27 Sep 2018
+1519,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,500,700,600,09 Oct 2018
+1520,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,600,700,650,06 Jul 2019
+1521,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,14 Feb 2019
+1522,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1200,1800,1500,09 Apr 2019
+1523,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2500,3000,2800,02 Aug 2019
+1524,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,02 Jul 2019
+1525,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,04 Jul 2019
+1526,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,11 Sep 2018
+1527,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,17 Sep 2018
+1528,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,11 Oct 2018
+1529,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,900,1200,1000,16 Oct 2018
+1530,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,250,250,250,02 Mar 2019
+1531,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,500,1000,750,21 Feb 2019
+1532,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,1700,3060,2380,14 Feb 2019
+1533,Medak,Vantamamidi,Tomato,Local,Medium,200,300,250,23 Sep 2018
+1534,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,12 Sep 2018
+1535,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,23 Sep 2018
+1536,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,13 Oct 2018
+1537,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,25 Feb 2019
+1538,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,12 Feb 2019
+1539,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1600,1800,1700,03 Apr 2019
+1540,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1600,1800,1700,04 Apr 2019
+1541,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,23 Jan 2019
+1542,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2200,2000,14 Apr 2019
+1543,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2200,2100,15 Apr 2019
+1544,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2300,18 Apr 2019
+1545,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,3000,2500,05 May 2019
+1546,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2500,3000,2800,29 Jun 2019
+1547,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,04 Aug 2019
+1548,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,4000,3500,06 Jul 2019
+1549,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,20 Jul 2019
+1550,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,19 Jul 2019
+1551,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,23 Jun 2019
+1552,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,5000,4500,18 May 2019
+1553,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,20 May 2019
+1554,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,25 May 2019
+1555,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,27 May 2019
+1556,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,31 May 2019
+1557,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,05 Oct 2018
+1558,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,06 Sep 2018
+1559,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,13 Oct 2018
+1560,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,800,1000,900,14 Oct 2018
+1561,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,600,1000,800,28 Aug 2019
+1562,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,350,275,03 Oct 2018
+1563,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,250,400,325,01 Oct 2018
+1564,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,800,550,21 Oct 2018
+1565,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,300,400,350,22 Feb 2019
+1566,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,10 Feb 2019
+1567,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,25 Mar 2019
+1568,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,13 Mar 2019
+1569,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,25 Jan 2019
+1570,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,28 Dec 2018
+1571,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,800,1600,1000,04 Jan 2019
+1572,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1000,1200,1100,01 Apr 2019
+1573,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1000,1400,1200,03 Apr 2019
+1574,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3200,2600,13 May 2019
+1575,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3600,3000,21 May 2019
+1576,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,600,450,02 Sep 2018
+1577,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,14 Sep 2018
+1578,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,300,500,400,05 Sep 2018
+1579,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,450,550,500,10 Sep 2018
+1580,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,600,800,700,06 Oct 2018
+1581,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1200,1000,07 Mar 2019
+1582,Medak,Sangareddy,Tomato,Deshi,FAQ,2200,2500,2300,29 Apr 2019
+1583,Medak,Sangareddy,Tomato,Deshi,FAQ,3400,3600,3500,30 Jul 2019
+1584,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,4000,3800,02 Jul 2019
+1585,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,300,500,400,07 Sep 2018
+1586,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,26 Sep 2018
+1587,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,12 Oct 2018
+1588,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,600,800,700,26 Oct 2018
+1589,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,700,900,800,21 Oct 2018
+1590,Ranga Reddy,Shankarapally,Tomato,Local,Medium,80,100,90,25 Sep 2018
+1591,Medak,Vantamamidi,Tomato,Local,Medium,500,500,500,10 Sep 2018
+1592,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,20 Mar 2019
+1593,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,09 Feb 2019
+1594,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,23 Jan 2019
+1595,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,900,1250,1000,29 Jan 2019
+1596,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,07 Feb 2019
+1597,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2000,10 May 2019
+1598,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2000,27 Apr 2019
+1599,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2200,14 Apr 2019
+1600,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2500,10 Aug 2019
+1601,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2500,4000,3500,12 May 2019
+1602,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,14 Jun 2019
+1603,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,21 Jun 2019
+1604,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,4000,4500,4200,15 Jul 2019
+1605,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,06 Oct 2018
+1606,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,800,1000,900,25 Oct 2018
+1607,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,1000,1500,1200,23 Oct 2018
+1608,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,600,800,700,29 Jun 2019
+1609,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,800,800,800,27 Jun 2019
+1610,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,4000,4000,4000,11 Jul 2019
+1611,Ranga Reddy,Shankarapally,Tomato,Local,Medium,20,20,20,06 Oct 2018
+1612,Ranga Reddy,Shankarapally,Tomato,Local,Medium,60,100,80,02 Oct 2018
+1613,Ranga Reddy,Shankarapally,Tomato,Local,Medium,80,100,90,06 Sep 2018
+1614,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,5000,4500,14 Jul 2019
+1615,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,08 Jul 2019
+1616,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,29 May 2019
+1617,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4500,5000,4800,30 May 2019
+1618,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,300,500,400,02 Oct 2018
+1619,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,08 Oct 2018
+1620,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,1000,1200,1100,24 Oct 2018
+1621,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2100,4100,3100,07 Jun 2019
+1622,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2200,3400,2800,02 Aug 2019
+1623,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2500,3300,2900,04 Jun 2019
+1624,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,300,250,13 Sep 2018
+1625,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,300,250,28 Sep 2018
+1626,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,200,400,300,09 Sep 2018
+1627,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,400,800,600,19 Oct 2018
+1628,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,600,500,15 Feb 2019
+1629,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,18 Mar 2019
+1630,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,22 Mar 2019
+1631,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1000,800,28 Mar 2019
+1632,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1000,1600,1300,09 Jan 2019
+1633,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,2000,1600,18 Apr 2019
+1634,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2400,2000,02 May 2019
+1635,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2400,2000,20 Apr 2019
+1636,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3600,2800,04 Jun 2019
+1637,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,4000,3000,02 Jun 2019
+1638,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2400,3200,2800,09 Jun 2019
+1639,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,4000,3400,13 Jun 2019
+1640,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,400,350,30 Sep 2018
+1641,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,26 Sep 2018
+1642,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,700,900,800,13 Oct 2018
+1643,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,1500,1600,1550,20 Oct 2018
+1644,Medak,Sangareddy,Tomato,Deshi,FAQ,500,700,600,27 Feb 2019
+1645,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,16 Feb 2019
+1646,Medak,Sangareddy,Tomato,Deshi,FAQ,2100,2300,2200,01 May 2019
+1647,Medak,Sangareddy,Tomato,Deshi,FAQ,2200,2400,2300,20 Apr 2019
+1648,Medak,Sangareddy,Tomato,Deshi,FAQ,2300,2500,2400,21 Apr 2019
+1649,Medak,Sangareddy,Tomato,Deshi,FAQ,2600,2800,2700,20 Jun 2019
+1650,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,3800,3700,24 Jun 2019
+1651,Medak,Sangareddy,Tomato,Deshi,FAQ,3600,4000,3800,18 May 2019
+1652,Medak,Sangareddy,Tomato,Deshi,FAQ,3700,4100,3900,15 Aug 2019
+1653,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,600,500,11 Mar 2019
+1654,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,700,500,23 Aug 2019
+1655,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,30 Jan 2019
+1656,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,20 Feb 2019
+1657,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1200,2000,1500,22 Apr 2019
+1658,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,09 Jun 2019
+1659,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,3500,12 Jul 2019
+1660,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,3500,18 Jul 2019
+1661,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4000,3800,23 Jun 2019
+1662,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,03 Sep 2018
+1663,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,500,1000,750,23 Mar 2019
+1664,Ranga Reddy,Shankarapally,Tomato,Local,Medium,80,100,90,13 Oct 2018
+1665,Ranga Reddy,Shankarapally,Tomato,Local,Medium,1000,2000,1500,16 Oct 2018
+1666,Medak,Sangareddy,Tomato,Deshi,FAQ,600,800,700,10 Mar 2019
+1667,Medak,Sangareddy,Tomato,Deshi,FAQ,600,900,800,18 Aug 2019
+1668,Medak,Sangareddy,Tomato,Deshi,FAQ,700,800,800,21 Aug 2019
+1669,Medak,Sangareddy,Tomato,Deshi,FAQ,700,900,800,19 Aug 2019
+1670,Medak,Sangareddy,Tomato,Deshi,FAQ,800,1000,900,23 Mar 2019
+1671,Medak,Sangareddy,Tomato,Deshi,FAQ,1700,1900,1800,11 Apr 2019
+1672,Medak,Sangareddy,Tomato,Deshi,FAQ,1800,2000,1900,09 Apr 2019
+1673,Medak,Sangareddy,Tomato,Deshi,FAQ,2200,2500,2350,23 Apr 2019
+1674,Medak,Sangareddy,Tomato,Deshi,FAQ,2300,2600,2500,29 Jun 2019
+1675,Medak,Sangareddy,Tomato,Deshi,FAQ,3000,3200,3100,15 May 2019
+1676,Medak,Sangareddy,Tomato,Deshi,FAQ,3400,3800,3600,18 Jun 2019
+1677,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4000,3900,11 Jul 2019
+1678,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,21 Mar 2019
+1679,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,300,500,400,31 Aug 2019
+1680,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,600,500,25 Mar 2019
+1681,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,600,500,30 Mar 2019
+1682,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,600,800,700,04 Mar 2019
+1683,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1200,1100,16 Feb 2019
+1684,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1300,1800,1400,08 Apr 2019
+1685,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,15 Aug 2019
+1686,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2000,3000,2500,07 Aug 2019
+1687,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2200,3000,2800,31 Jul 2019
+1688,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2500,3000,2800,05 Aug 2019
+1689,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,19 Jun 2019
+1690,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,24 Jun 2019
+1691,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,05 Jul 2019
+1692,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,4500,4000,13 Jul 2019
+1693,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,13 Sep 2018
+1694,Medak,Vantamamidi,Tomato,Local,Medium,400,400,400,01 Oct 2018
+1695,Medak,Vantamamidi,Tomato,Tomato,Medium,280,280,280,06 Oct 2018
+1696,Medak,Vantamamidi,Tomato,Local,Medium,400,400,400,20 Sep 2018
+1697,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1400,1200,04 Mar 2019
+1698,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1400,1200,10 Feb 2019
+1699,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,200,1500,1200,18 Feb 2019
+1700,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,300,1200,1000,24 Dec 2018
+1701,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,1600,1400,24 Jan 2019
+1702,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,1800,1300,18 Jan 2019
+1703,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,1800,1600,29 Mar 2019
+1704,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2200,1500,15 Jan 2019
+1705,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,2400,1800,14 Aug 2019
+1706,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,400,3200,2200,16 Apr 2019
+1707,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,600,2400,1800,15 Aug 2019
+1708,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,800,3200,2600,13 Aug 2019
+1709,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3600,2800,24 Apr 2019
+1710,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3600,3000,21 Jun 2019
+1711,Hyderabad,Bowenpally,Tomato,Deshi,FAQ,1000,3800,3000,25 Jun 2019
+1712,Hyderabad,Bowenpally,Tomato,Tomato,Medium,200,1200,900,18 Oct 2018
+1713,Hyderabad,Bowenpally,Tomato,Tomato,Medium,400,1000,800,02 Oct 2018
+1714,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,16 Feb 2019
+1715,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,300,300,300,17 Feb 2019
+1716,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,400,400,400,03 Mar 2019
+1717,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1000,1000,1000,17 Apr 2019
+1718,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1020,1020,1020,28 Apr 2019
+1719,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1800,1800,1800,29 May 2019
+1720,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,15 May 2019
+1721,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1850,1850,1850,31 May 2019
+1722,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,1900,1900,1900,18 May 2019
+1723,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2200,2200,2200,15 Jul 2019
+1724,Ranga Reddy,Chevella,Tomato,Deshi,FAQ,2500,2500,2500,23 May 2019
+1725,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,01 Oct 2018
+1726,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,03 Oct 2018
+1727,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,15 Sep 2018
+1728,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,16 Sep 2018
+1729,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,200,200,200,29 Sep 2018
+1730,Ranga Reddy,Chevella,Tomato,Hybrid,Medium,250,250,250,06 Oct 2018
+1731,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,500,400,01 Sep 2019
+1732,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,600,400,18 Feb 2019
+1733,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,28 Aug 2019
+1734,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,200,800,500,29 Aug 2019
+1735,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,03 Feb 2019
+1736,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,800,600,12 Feb 2019
+1737,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,08 Mar 2019
+1738,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,25 Mar 2019
+1739,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,400,1200,800,28 Mar 2019
+1740,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,600,2800,1700,15 Jan 2019
+1741,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,1600,1200,12 Aug 2019
+1742,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,800,2000,1400,13 Apr 2019
+1743,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,3600,2300,05 Jun 2019
+1744,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1000,4000,2500,30 May 2019
+1745,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1200,2400,2000,07 Aug 2019
+1746,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,2800,2100,06 Jul 2019
+1747,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,1400,3000,2000,09 Jul 2019
+1748,Hyderabad,Gudimalkapur,Tomato,Deshi,FAQ,2000,3600,2800,15 Jul 2019
+1749,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,08 Oct 2018
+1750,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,600,400,22 Sep 2018
+1751,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,200,800,500,18 Sep 2018
+1752,Hyderabad,Gudimalkapur,Tomato,Tomato,Large,300,1000,600,24 Oct 2018
+1753,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,500,700,600,01 Mar 2019
+1754,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,600,800,700,25 Mar 2019
+1755,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,08 Mar 2019
+1756,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,800,1000,900,27 Mar 2019
+1757,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1000,1200,1100,21 Dec 2018
+1758,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1400,1300,01 Apr 2019
+1759,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1400,1300,01 Jan 2019
+1760,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1200,1400,1300,25 Aug 2019
+1761,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,1800,2000,1900,28 Jan 2019
+1762,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2200,28 Apr 2019
+1763,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,2500,2300,09 Jan 2019
+1764,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,2000,3000,2500,06 May 2019
+1765,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,3500,3200,07 Jan 2019
+1766,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3000,4000,3500,28 Jul 2019
+1767,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,19 Jun 2019
+1768,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,3500,4000,3800,21 Jul 2019
+1769,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,4500,4200,07 Jun 2019
+1770,Ranga Reddy,Ibrahimputnam,Tomato,Deshi,FAQ,4000,5000,4500,05 Jun 2019
+1771,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,400,600,500,07 Sep 2018
+1772,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,06 Oct 2018
+1773,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,10 Sep 2018
+1774,Ranga Reddy,Ibrahimputnam,Tomato,Local,Medium,500,700,600,26 Sep 2018
+1775,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2000,3500,2750,03 Jun 2019
+1776,Mahbubnagar,Kalwakurthy,Tomato,Local,FAQ,2500,3500,3000,06 Jun 2019
+1777,Mahbubnagar,Kalwakurthy,Tomato,Local,Medium,300,500,400,15 Sep 2018
+1778,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,800,600,11 Feb 2019
+1779,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,400,1200,700,24 Jan 2019
+1780,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,800,700,02 Feb 2019
+1781,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,800,700,04 Mar 2019
+1782,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,600,1200,900,03 Feb 2019
+1783,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1200,1800,1500,13 Apr 2019
+1784,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,2800,2200,08 May 2019
+1785,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,1600,3200,2400,11 Jun 2019
+1786,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2000,3600,2800,15 Jun 2019
+1787,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,3200,3000,18 May 2019
+1788,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,3600,3200,24 May 2019
+1789,Hyderabad,L B Nagar,Tomato,Deshi,FAQ,2800,3600,3200,28 May 2019
+1790,Hyderabad,L B Nagar,Tomato,Tomato,Medium,300,400,350,01 Oct 2018
+1791,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,16 Sep 2018
+1792,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,600,500,29 Sep 2018
+1793,Hyderabad,L B Nagar,Tomato,Tomato,Medium,400,800,600,17 Oct 2018
+1794,Hyderabad,L B Nagar,Tomato,Tomato,Medium,600,800,700,16 Oct 2018
+1795,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,300,500,400,08 Sep 2018
+1796,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,600,800,700,10 Oct 2018
+1797,Medak,Sadasivpet(Sangareddy),Tomato,Local,Medium,800,1000,900,15 Oct 2018
+1798,Medak,Sangareddy,Tomato,Deshi,FAQ,3200,3600,3400,26 Jul 2019
+1799,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4200,4100,09 Jul 2019
+1800,Medak,Sangareddy,Tomato,Deshi,FAQ,3800,4600,4200,20 May 2019
+1801,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,400,750,500,21 Aug 2019
+1802,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,600,1000,800,01 Apr 2019
+1803,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,13 Feb 2019
+1804,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,800,1000,900,20 Jan 2019
+1805,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1000,1300,1100,12 Apr 2019
+1806,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1500,2000,1800,15 Apr 2019
+1807,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2000,03 May 2019
+1808,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,1800,2500,2000,24 Apr 2019
+1809,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,2500,3500,2800,13 May 2019
+1810,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,3500,3200,01 Jul 2019
+1811,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4000,3500,26 May 2019
+1812,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3000,4500,3500,28 May 2019
+1813,Mahbubnagar,Shadnagar,Tomato,Deshi,FAQ,3500,5000,4500,09 Jul 2019
+1814,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,04 Sep 2018
+1815,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,12 Sep 2018
+1816,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,500,400,19 Sep 2018
+1817,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,400,600,500,28 Sep 2018
+1818,Mahbubnagar,Shadnagar,Tomato,Tomato,Medium,1800,2000,1900,20 Oct 2018
+1819,Ranga Reddy,Shankarapally,Tomato,Deshi,FAQ,3500,4000,3750,02 Jul 2019
+1820,Ranga Reddy,Shankarapally,Tomato,Local,Medium,70,100,85,13 Sep 2018
+1821,Medak,Vantamamidi,Tomato,Local,Medium,500,500,500,28 Sep 2018
