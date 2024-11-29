@@ -1,4 +1,5 @@
-from datetime import datetime
+from datetime import date, datetime, timedelta
+from sqlite3 import Date
 import requests
 import os
 from dateutil.relativedelta import relativedelta
@@ -164,6 +165,29 @@ def get_data_from_website():
                 print(result)
 
 
+def append_data_from_website(from_date:date,to_date:date):
+    DATE_FORMAT = "%d-%b-%Y"
+    from_date_formatted = from_date.strftime(DATE_FORMAT)
+    to_date_formatted = to_date.strftime(DATE_FORMAT)
+    for state, s_abbr in state_abbr.items():
+            for commodity, commodity_value in commodities.items():
+                print(commodity, s_abbr, district, market, year, commodity_value)
+
+                # Call the function and print the result
+                result = get_agmarknet_data_and_save_csv(
+                    commodity=commodity,
+                    state=s_abbr,
+                    district=district,
+                    market=market,
+                    date_from=from_date_formatted,
+                    date_to=to_date_formatted,
+                    trend=trend,
+                    commodity_head=commodity_value,
+                    state_head=state,
+                )
+                print(result)
+
+
 state_abbr = {
     "Andaman and Nicobar": "AN",
     "Andhra Pradesh": "AP",
@@ -263,3 +287,5 @@ if __name__ == "__main__":
     }
 
     get_data_from_website()
+    append_data_from_website(datetime.now(),(today = datetime.date.today()
+                                last_week = today - datetime.timedelta(weeks=1)))

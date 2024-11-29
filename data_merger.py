@@ -32,17 +32,21 @@ def merge_csvs_in_directory(directory_path, output_file):
 
 
 # Replace 'your_directory_path' with the actual path to your directory
-directory_path = "./fetch_data/responses/Onion"
-output_folder = "./fetch_data/statewise_results/Onion"
+directory_paths = ["./responses/onion","./responses/Gram dal","./responses/Groundnut oil","./responses/gur","./responses/masur dal","./responses/moong dal","./responses/mustard oil","./responses/Potato","./responses/Rice","./responses/Sugar","./responses/tea","./responses/tomato","./responses/tur dal","./responses/urad dal","./responses/vanaspati","./responses/wheat"]
+output_folders = ["./statewise_results/onion","./statewise_results/Gram dal","./statewise_results/Groundnut oil","./statewise_results/gur","./statewise_results/masur dal","./statewise_results/moong dal","./statewise_results/mustard oil","./statewise_results/Potato","./statewise_results/Rice","./statewise_results/Sugar","./statewise_results/tea","./statewise_results/tomato","./statewise_results/tur dal","./statewise_results/urad dal","./statewise_results/vanaspati","./statewise_results/wheat"]
 # Create the output folder if it doesn't exist
-if not os.path.exists(output_folder):
-    os.makedirs(output_folder)
+def statewise_all_years(directory_paths:list[str],output_folders:list[str]):
+    for directory_path,output_folder in zip(directory_paths,output_folders):
+        if not os.path.exists(output_folder):
+            os.makedirs(output_folder)
 
-# Iterate through   each folder in the directory
-for folder_name in os.listdir(directory_path):
-    folder_path = os.path.join(directory_path, folder_name)
+        # Iterate through   each folder in the directory
+        for folder_name in os.listdir(directory_path):
+            folder_path = os.path.join(directory_path, folder_name)
 
-    # Check if   it's a directory
-    if os.path.isdir(folder_path):
-        output_file = os.path.join(output_folder, folder_name + "_all_years.csv")
-        merge_csvs_in_directory(folder_path, output_file)
+            # Check if   it's a directory
+            if os.path.isdir(folder_path):
+                output_file = os.path.join(output_folder, folder_name + "_all_years.csv")
+                merge_csvs_in_directory(folder_path, output_file)
+
+statewise_all_years(directory_paths=directory_paths,output_folders=output_folders)
