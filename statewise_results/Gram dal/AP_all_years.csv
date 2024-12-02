@@ -1,8 +1,8 @@
-0,1,2,3,4,5,6,7,8,9
-1,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,8600,8700,8650,27 Nov 2016
-2,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,8600,8700,8650,28 Nov 2016
-1,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,4300,4500,4400,27 Jun 2016
-2,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,4300,4500,4400,29 Jun 2016
-3,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,5800,6000,5900,22 Jul 2016
-4,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,5800,6000,5900,26 Jul 2016
-5,Kurnool,Yemmiganur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,Medium,4900,4900,4900,08 May 2016
+,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,8600,8700,8650,27 Nov 2016,2016,Nov,27,2016-11-27
+1,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,8600,8700,8650,28 Nov 2016,2016,Nov,28,2016-11-28
+2,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,4300,4500,4400,27 Jun 2016,2016,Jun,27,2016-06-27
+3,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,4300,4500,4400,29 Jun 2016,2016,Jun,29,2016-06-29
+4,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,5800,6000,5900,22 Jul 2016,2016,Jul,22,2016-07-22
+5,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,5800,6000,5900,26 Jul 2016,2016,Jul,26,2016-07-26
+6,Kurnool,Yemmiganur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,Medium,4900,4900,4900,08 May 2016,2016,May,08,2016-05-08
