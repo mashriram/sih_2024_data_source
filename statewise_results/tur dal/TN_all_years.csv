@@ -1,2 +1,2 @@
-0,1,2,3,4,5,6,7,8,9
-1,Erode,Kavunthapadi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4850,5000,4900,17 Aug 2017
+,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,Erode,Kavunthapadi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4850,5000,4900,17 Aug 2017,2017,Aug,17,2017-08-17
