@@ -171,7 +171,7 @@ def append_data_from_website(from_date:date,to_date:date):
     to_date_formatted = to_date.strftime(DATE_FORMAT)
     for state, s_abbr in state_abbr.items():
             for commodity, commodity_value in commodities.items():
-                print(commodity, s_abbr, district, market, year, commodity_value)
+                print(commodity, s_abbr, district, market, commodity_value)
 
                 # Call the function and print the result
                 result = get_agmarknet_data_and_save_csv(
@@ -287,5 +287,4 @@ if __name__ == "__main__":
     }
 
     get_data_from_website()
-    append_data_from_website(datetime.now(),(today = datetime.date.today()
-                                last_week = today - datetime.timedelta(weeks=1)))
+    append_data_from_website(datetime.now(),(datetime.date.today() - datetime.timedelta(weeks=1)))
