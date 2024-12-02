@@ -1,2 +1,2 @@
-0,1,2,3,4,5,6,7,8,9
-1,Nawanshahr,Nawanshahar,Gur(Jaggery),Other,FAQ,2950,2950,2950,21 Feb 2017
+,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,Nawanshahr,Nawanshahar,Gur(Jaggery),Other,FAQ,2950,2950,2950,21 Feb 2017,2017,Feb,21,2017-02-21
