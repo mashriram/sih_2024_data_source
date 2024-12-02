@@ -1,32 +1,32 @@
-0,1,2,3,4,5,6,7,8,9
-1,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4095,4095,4095,28 Feb 2019
-2,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4595,4595,4595,01 May 2019
-3,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4595,4595,4595,02 May 2019
-4,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4280,4280,4280,21 Feb 2019
-5,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4325,4400,4362,11 Mar 2019
-6,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4450,4605,4527,09 Mar 2019
-7,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4655,4825,4740,15 Mar 2019
-1,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,5900,6010,5955,22 Apr 2020
-1,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4005,4050,4027,21 May 2018
-2,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4100,4300,4200,14 Apr 2018
-3,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4105,4105,4105,16 Apr 2018
-4,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4175,4195,4185,01 May 2018
-5,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4175,4525,4350,21 Mar 2018
-6,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4200,4200,4200,10 Apr 2018
-7,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4200,4475,4337,07 Apr 2018
-8,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4205,4205,4205,20 Apr 2018
-9,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4205,4205,4205,22 Mar 2018
-10,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4205,4575,4390,24 Mar 2018
-11,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4225,4225,4225,18 Apr 2018
-12,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4225,4225,4225,21 Apr 2018
-13,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4250,4250,4250,15 May 2018
-14,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4250,4250,4250,28 Mar 2018
-15,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4255,4255,4255,27 Mar 2018
-16,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4325,4325,4325,13 Mar 2018
-17,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4500,4600,4550,26 Mar 2018
-18,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4505,4505,4505,17 Mar 2018
-19,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4525,4525,4525,15 Mar 2018
-20,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4530,4530,4530,19 Mar 2018
-21,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4855,4855,4855,05 Apr 2018
-22,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4250,4400,4325,20 Mar 2018
-23,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4505,4505,4505,16 Mar 2018
+,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4095,4095,4095,28 Feb 2019,2019,Feb,28,2019-02-28
+1,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4595,4595,4595,01 May 2019,2019,May,01,2019-05-01
+2,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4595,4595,4595,02 May 2019,2019,May,02,2019-05-02
+3,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4280,4280,4280,21 Feb 2019,2019,Feb,21,2019-02-21
+4,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4325,4400,4362,11 Mar 2019,2019,Mar,11,2019-03-11
+5,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4450,4605,4527,09 Mar 2019,2019,Mar,09,2019-03-09
+6,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4655,4825,4740,15 Mar 2019,2019,Mar,15,2019-03-15
+7,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,5900,6010,5955,22 Apr 2020,2020,Apr,22,2020-04-22
+8,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4005,4050,4027,21 May 2018,2018,May,21,2018-05-21
+9,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4100,4300,4200,14 Apr 2018,2018,Apr,14,2018-04-14
+10,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4105,4105,4105,16 Apr 2018,2018,Apr,16,2018-04-16
+11,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4175,4195,4185,01 May 2018,2018,May,01,2018-05-01
+12,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4175,4525,4350,21 Mar 2018,2018,Mar,21,2018-03-21
+13,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4200,4200,4200,10 Apr 2018,2018,Apr,10,2018-04-10
+14,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4200,4475,4337,07 Apr 2018,2018,Apr,07,2018-04-07
+15,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4205,4205,4205,20 Apr 2018,2018,Apr,20,2018-04-20
+16,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4205,4205,4205,22 Mar 2018,2018,Mar,22,2018-03-22
+17,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4205,4575,4390,24 Mar 2018,2018,Mar,24,2018-03-24
+18,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4225,4225,4225,18 Apr 2018,2018,Apr,18,2018-04-18
+19,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4225,4225,4225,21 Apr 2018,2018,Apr,21,2018-04-21
+20,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4250,4250,4250,15 May 2018,2018,May,15,2018-05-15
+21,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4250,4250,4250,28 Mar 2018,2018,Mar,28,2018-03-28
+22,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4255,4255,4255,27 Mar 2018,2018,Mar,27,2018-03-27
+23,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4325,4325,4325,13 Mar 2018,2018,Mar,13,2018-03-13
+24,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4500,4600,4550,26 Mar 2018,2018,Mar,26,2018-03-26
+25,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4505,4505,4505,17 Mar 2018,2018,Mar,17,2018-03-17
+26,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4525,4525,4525,15 Mar 2018,2018,Mar,15,2018-03-15
+27,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4530,4530,4530,19 Mar 2018,2018,Mar,19,2018-03-19
+28,Surat,Songadh,Masur Dal,Kala Masoor New,FAQ,4855,4855,4855,05 Apr 2018,2018,Apr,05,2018-04-05
+29,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4250,4400,4325,20 Mar 2018,2018,Mar,20,2018-03-20
+30,Surat,Songadh,Masur Dal,Masoor Gola,FAQ,4505,4505,4505,16 Mar 2018,2018,Mar,16,2018-03-16

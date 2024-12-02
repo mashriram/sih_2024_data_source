@@ -1,9 +1,9 @@
-0,1,2,3,4,5,6,7,8,9
-1,Surguja,Ambikapur,Masur Dal,Masoor Gola,FAQ,4600,4600,4600,30 Jun 2017
-2,Koria,Manendragarh,Masur Dal,Masur Dal,FAQ,3000,3000,3000,30 Apr 2017
-1,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,5000,5448,5400,31 May 2024
-2,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,5460,5490,5480,30 Jun 2024
-1,Koria,Baikunthpur,Masur Dal,Kala Masoor New,FAQ,4000,4000,4000,31 Aug 2020
-1,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3000,3000,31 Jul 2018
-2,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3020,3010,20 Jun 2018
-3,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3100,3050,30 Jun 2018
+,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,Surguja,Ambikapur,Masur Dal,Masoor Gola,FAQ,4600,4600,4600,30 Jun 2017,2017,Jun,30,2017-06-30
+1,Koria,Manendragarh,Masur Dal,Masur Dal,FAQ,3000,3000,3000,30 Apr 2017,2017,Apr,30,2017-04-30
+2,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,5000,5448,5400,31 May 2024,2024,May,31,2024-05-31
+3,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,5460,5490,5480,30 Jun 2024,2024,Jun,30,2024-06-30
+4,Koria,Baikunthpur,Masur Dal,Kala Masoor New,FAQ,4000,4000,4000,31 Aug 2020,2020,Aug,31,2020-08-31
+5,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3000,3000,31 Jul 2018,2018,Jul,31,2018-07-31
+6,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3020,3010,20 Jun 2018,2018,Jun,20,2018-06-20
+7,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3100,3050,30 Jun 2018,2018,Jun,30,2018-06-30
