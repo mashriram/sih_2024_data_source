@@ -1,5 +1,8 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Thiruvannamalai,Vandavasi,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5649,7729,6689,09 Oct 2023,2023,Oct,09,2023-10-09
-1,Coimbatore,Madathukulam,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4300,4700,4450,26 Aug 2020,2020,Aug,26,2020-08-26
-2,Coimbatore,Madathukulam,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4800,5100,5000,27 Aug 2020,2020,Aug,27,2020-08-27
-3,Coimbatore,Madathukulam,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5400,5200,25 Aug 2020,2020,Aug,25,2020-08-25
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Thiruvannamalai,Vandavasi,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5649,7729,6689,09 Oct 2023,2023,Oct,9,2023-10-09
+1,1.0,Coimbatore,Madathukulam,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4300,4700,4450,26 Aug 2020,2020,Aug,26,2020-08-26
+2,2.0,Coimbatore,Madathukulam,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4800,5100,5000,27 Aug 2020,2020,Aug,27,2020-08-27
+3,3.0,Coimbatore,Madathukulam,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5400,5200,25 Aug 2020,2020,Aug,25,2020-08-25
+4,,Coimbatore,Madathukulam,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4300,4700,4450,26 Aug 2020,2020,Aug,26,2020-08-26 00:00:00
+5,,Coimbatore,Madathukulam,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4800,5100,5000,27 Aug 2020,2020,Aug,27,2020-08-27 00:00:00
+6,,Coimbatore,Madathukulam,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5400,5200,25 Aug 2020,2020,Aug,25,2020-08-25 00:00:00

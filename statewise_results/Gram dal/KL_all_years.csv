@@ -1,20 +1,39 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7600,7400,04 Dec 2021,2021,Dec,04,2021-12-04
-1,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7600,7400,06 Dec 2021,2021,Dec,06,2021-12-06
-2,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7600,7400,08 Dec 2021,2021,Dec,08,2021-12-08
-3,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,01 Dec 2021,2021,Dec,01,2021-12-01
-4,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,03 Dec 2021,2021,Dec,03,2021-12-03
-5,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,07 Dec 2021,2021,Dec,07,2021-12-07
-6,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,09 Dec 2021,2021,Dec,09,2021-12-09
-7,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7800,7400,02 Dec 2021,2021,Dec,02,2021-12-02
-8,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7800,7400,10 Dec 2021,2021,Dec,10,2021-12-10
-9,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,8000,7500,13 Dec 2021,2021,Dec,13,2021-12-13
-10,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7500,8000,7800,11 Jan 2022,2022,Jan,11,2022-01-11
-11,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10000,11000,10600,20 Dec 2021,2021,Dec,20,2021-12-20
-12,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,15 Dec 2021,2021,Dec,15,2021-12-15
-13,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,16 Dec 2021,2021,Dec,16,2021-12-16
-14,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,17 Dec 2021,2021,Dec,17,2021-12-17
-15,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,22 Dec 2021,2021,Dec,22,2021-12-22
-16,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,23 Dec 2021,2021,Dec,23,2021-12-23
-17,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,15000,11200,14 Dec 2021,2021,Dec,14,2021-12-14
-18,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,15000,13000,18 Dec 2021,2021,Dec,18,2021-12-18
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7600,7400,04 Dec 2021,2021,Dec,4,2021-12-04
+1,1.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7600,7400,06 Dec 2021,2021,Dec,6,2021-12-06
+2,2.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7600,7400,08 Dec 2021,2021,Dec,8,2021-12-08
+3,3.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,01 Dec 2021,2021,Dec,1,2021-12-01
+4,4.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,03 Dec 2021,2021,Dec,3,2021-12-03
+5,5.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,07 Dec 2021,2021,Dec,7,2021-12-07
+6,6.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,09 Dec 2021,2021,Dec,9,2021-12-09
+7,7.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7800,7400,02 Dec 2021,2021,Dec,2,2021-12-02
+8,8.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7800,7400,10 Dec 2021,2021,Dec,10,2021-12-10
+9,9.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,8000,7500,13 Dec 2021,2021,Dec,13,2021-12-13
+10,10.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7500,8000,7800,11 Jan 2022,2022,Jan,11,2022-01-11
+11,11.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10000,11000,10600,20 Dec 2021,2021,Dec,20,2021-12-20
+12,12.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,15 Dec 2021,2021,Dec,15,2021-12-15
+13,13.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,16 Dec 2021,2021,Dec,16,2021-12-16
+14,14.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,17 Dec 2021,2021,Dec,17,2021-12-17
+15,15.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,22 Dec 2021,2021,Dec,22,2021-12-22
+16,16.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,23 Dec 2021,2021,Dec,23,2021-12-23
+17,17.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,15000,11200,14 Dec 2021,2021,Dec,14,2021-12-14
+18,18.0,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,15000,13000,18 Dec 2021,2021,Dec,18,2021-12-18
+19,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7600,7400,04 Dec 2021,2021,Dec,04,2021-12-04 00:00:00
+20,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7600,7400,06 Dec 2021,2021,Dec,06,2021-12-06 00:00:00
+21,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7600,7400,08 Dec 2021,2021,Dec,08,2021-12-08 00:00:00
+22,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,01 Dec 2021,2021,Dec,01,2021-12-01 00:00:00
+23,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,03 Dec 2021,2021,Dec,03,2021-12-03 00:00:00
+24,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,07 Dec 2021,2021,Dec,07,2021-12-07 00:00:00
+25,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7700,7400,09 Dec 2021,2021,Dec,09,2021-12-09 00:00:00
+26,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7800,7400,02 Dec 2021,2021,Dec,02,2021-12-02 00:00:00
+27,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7800,7400,10 Dec 2021,2021,Dec,10,2021-12-10 00:00:00
+28,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,8000,7500,13 Dec 2021,2021,Dec,13,2021-12-13 00:00:00
+29,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7500,8000,7800,11 Jan 2022,2022,Jan,11,2022-01-11 00:00:00
+30,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10000,11000,10600,20 Dec 2021,2021,Dec,20,2021-12-20 00:00:00
+31,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,15 Dec 2021,2021,Dec,15,2021-12-15 00:00:00
+32,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,16 Dec 2021,2021,Dec,16,2021-12-16 00:00:00
+33,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,17 Dec 2021,2021,Dec,17,2021-12-17 00:00:00
+34,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,22 Dec 2021,2021,Dec,22,2021-12-22 00:00:00
+35,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,12000,11500,23 Dec 2021,2021,Dec,23,2021-12-23 00:00:00
+36,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,15000,11200,14 Dec 2021,2021,Dec,14,2021-12-14 00:00:00
+37,,Palakad,Koduvayoor,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11000,15000,13000,18 Dec 2021,2021,Dec,18,2021-12-18 00:00:00

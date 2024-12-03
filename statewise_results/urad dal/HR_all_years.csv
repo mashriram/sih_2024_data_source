@@ -1,18 +1,21 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Hissar,Hissar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6100,5800,07 Mar 2017,2017,Mar,07,2017-03-07
-1,Hissar,Hissar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8600,9400,9400,24 Nov 2016,2016,Nov,24,2016-11-24
-2,Mahendragarh-Narnaul,Narnaul,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6830,6830,6830,28 Oct 2016,2016,Oct,28,2016-10-28
-3,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,6000,5500,27 Sep 2018,2018,Sep,27,2018-09-27
-4,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5500,5300,01 Feb 2019,2019,Feb,01,2019-02-01
-5,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,7000,6500,13 Nov 2018,2018,Nov,13,2018-11-13
-6,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6200,7000,6800,12 Nov 2018,2018,Nov,12,2018-11-12
-7,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6500,7000,6700,23 Jun 2019,2019,Jun,23,2019-06-23
-8,Kurukshetra,Shahabad,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4100,4100,4100,01 Jun 2019,2019,Jun,01,2019-06-01
-9,Kurukshetra,Shahabad,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5900,5900,03 Jun 2019,2019,Jun,03,2019-06-03
-10,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,4500,4200,03 Jan 2018,2018,Jan,03,2018-01-03
-11,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6200,6000,04 Dec 2017,2017,Dec,04,2017-12-04
-12,Bhiwani,Loharu,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3500,3500,01 Jun 2018,2018,Jun,01,2018-06-01
-13,Bhiwani,Loharu,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3500,3500,02 Jun 2018,2018,Jun,02,2018-06-02
-14,Bhiwani,Loharu,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4420,4420,4420,01 Aug 2018,2018,Aug,01,2018-08-01
-15,Bhiwani,Loharu,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4420,4420,4420,28 Jul 2018,2018,Jul,28,2018-07-28
-16,Mahendragarh-Narnaul,Mohindergarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5000,5000,28 Feb 2018,2018,Feb,28,2018-02-28
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Hissar,Hissar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6100,5800,07 Mar 2017,2017,Mar,7,2017-03-07
+1,1.0,Hissar,Hissar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8600,9400,9400,24 Nov 2016,2016,Nov,24,2016-11-24
+2,2.0,Mahendragarh-Narnaul,Narnaul,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6830,6830,6830,28 Oct 2016,2016,Oct,28,2016-10-28
+3,3.0,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,6000,5500,27 Sep 2018,2018,Sep,27,2018-09-27
+4,4.0,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5500,5300,01 Feb 2019,2019,Feb,1,2019-02-01
+5,5.0,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,7000,6500,13 Nov 2018,2018,Nov,13,2018-11-13
+6,6.0,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6200,7000,6800,12 Nov 2018,2018,Nov,12,2018-11-12
+7,7.0,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6500,7000,6700,23 Jun 2019,2019,Jun,23,2019-06-23
+8,8.0,Kurukshetra,Shahabad,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4100,4100,4100,01 Jun 2019,2019,Jun,1,2019-06-01
+9,9.0,Kurukshetra,Shahabad,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5900,5900,03 Jun 2019,2019,Jun,3,2019-06-03
+10,10.0,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,4500,4200,03 Jan 2018,2018,Jan,3,2018-01-03
+11,11.0,Faridabad,Ballabhgarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6200,6000,04 Dec 2017,2017,Dec,4,2017-12-04
+12,12.0,Bhiwani,Loharu,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3500,3500,01 Jun 2018,2018,Jun,1,2018-06-01
+13,13.0,Bhiwani,Loharu,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3500,3500,02 Jun 2018,2018,Jun,2,2018-06-02
+14,14.0,Bhiwani,Loharu,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4420,4420,4420,01 Aug 2018,2018,Aug,1,2018-08-01
+15,15.0,Bhiwani,Loharu,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4420,4420,4420,28 Jul 2018,2018,Jul,28,2018-07-28
+16,16.0,Mahendragarh-Narnaul,Mohindergarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5000,5000,28 Feb 2018,2018,Feb,28,2018-02-28
+17,,Hissar,Hissar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6100,5800,07 Mar 2017,2017,Mar,07,2017-03-07 00:00:00
+18,,Hissar,Hissar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8600,9400,9400,24 Nov 2016,2016,Nov,24,2016-11-24 00:00:00
+19,,Mahendragarh-Narnaul,Narnaul,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6830,6830,6830,28 Oct 2016,2016,Oct,28,2016-10-28 00:00:00

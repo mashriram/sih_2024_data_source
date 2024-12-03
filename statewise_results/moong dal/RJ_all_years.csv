@@ -1,424 +1,496 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3201,3201.0,3201,16 Feb 2017,2017,Feb,16,2017-02-16
-1,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3301,3901.0,3601,03 Mar 2017,2017,Mar,03,2017-03-03
-2,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3552,3801.0,3676,27 Feb 2017,2017,Feb,27,2017-02-27
-3,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3580,3822.0,3701,01 Mar 2017,2017,Mar,01,2017-03-01
-4,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3701,4201.0,3951,13 Feb 2017,2017,Feb,13,2017-02-13
-5,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3711,3861.0,3786,24 Feb 2017,2017,Feb,24,2017-02-24
-6,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3711,4000.0,3855,23 Feb 2017,2017,Feb,23,2017-02-23
-7,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3751,4052.0,3901,20 Feb 2017,2017,Feb,20,2017-02-20
-8,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3752,3752.0,3752,25 Feb 2017,2017,Feb,25,2017-02-25
-9,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3761,4051.0,3906,15 Mar 2017,2017,Mar,15,2017-03-15
-10,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3800,4250.0,4025,30 Jan 2017,2017,Jan,30,2017-01-30
-11,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3800,4351.0,4075,06 Jan 2017,2017,Jan,06,2017-01-06
-12,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3801,3801.0,3801,28 Feb 2017,2017,Feb,28,2017-02-28
-13,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3801,4055.0,3928,10 Feb 2017,2017,Feb,10,2017-02-10
-14,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3825,3825.0,3825,14 Sep 2016,2016,Sep,14,2016-09-14
-15,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3825,3891.0,3858,08 Feb 2017,2017,Feb,08,2017-02-08
-16,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3831,4103.0,3967,06 Mar 2017,2017,Mar,06,2017-03-06
-17,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3850,3850.0,3850,14 Feb 2017,2017,Feb,14,2017-02-14
-18,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3850,4050.0,3950,11 Feb 2017,2017,Feb,11,2017-02-11
-19,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3851,3851.0,3851,13 Jul 2017,2017,Jul,13,2017-07-13
-20,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3851,3901.0,3876,09 Feb 2017,2017,Feb,09,2017-02-09
-21,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3851,3951.0,3901,09 Mar 2017,2017,Mar,09,2017-03-09
-22,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3851,4076.0,3963,15 Feb 2017,2017,Feb,15,2017-02-15
-23,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3858,4331.0,4094,02 Jan 2017,2017,Jan,02,2017-01-02
-24,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3861,3861.0,3861,04 Mar 2017,2017,Mar,04,2017-03-04
-25,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3901,3901.0,3901,02 Mar 2017,2017,Mar,02,2017-03-02
-26,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3901,4413.0,4157,22 Mar 2017,2017,Mar,22,2017-03-22
-27,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3902,4251.0,4076,03 Feb 2017,2017,Feb,03,2017-02-03
-28,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3909,4300.0,4104,22 Feb 2017,2017,Feb,22,2017-02-22
-29,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3921,4301.0,4111,19 Apr 2017,2017,Apr,19,2017-04-19
-30,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3950,4161.0,4055,06 Feb 2017,2017,Feb,06,2017-02-06
-31,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3950,4300.0,4125,21 Feb 2017,2017,Feb,21,2017-02-21
-32,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3951,4351.0,4151,25 Jan 2017,2017,Jan,25,2017-01-25
-33,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4250.0,4125,30 Nov 2016,2016,Nov,30,2016-11-30
-34,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4301.0,4150,28 Jan 2017,2017,Jan,28,2017-01-28
-35,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4351.0,4175,24 Jan 2017,2017,Jan,24,2017-01-24
-36,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4001,4001.0,4001,08 Apr 2017,2017,Apr,08,2017-04-08
-37,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4001,4001.0,4001,25 Mar 2017,2017,Mar,25,2017-03-25
-38,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4001,4325.0,4163,18 Apr 2017,2017,Apr,18,2017-04-18
-39,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4001,4601.0,4301,27 Mar 2017,2017,Mar,27,2017-03-27
-40,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4011,4561.0,4286,03 Dec 2016,2016,Dec,03,2016-12-03
-41,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4021,4301.0,4161,17 May 2017,2017,May,17,2017-05-17
-42,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4031,4601.0,4316,20 Mar 2017,2017,Mar,20,2017-03-20
-43,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4052,4570.0,4311,09 Dec 2016,2016,Dec,09,2016-12-09
-44,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4061,4061.0,4061,01 Feb 2017,2017,Feb,01,2017-02-01
-45,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4081,4151.0,4116,30 Dec 2016,2016,Dec,30,2016-12-30
-46,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4100,4100.0,4100,10 Sep 2016,2016,Sep,10,2016-09-10
-47,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4100,4271.0,4185,27 Dec 2016,2016,Dec,27,2016-12-27
-48,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4100,4451.0,4275,20 Dec 2016,2016,Dec,20,2016-12-20
-49,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4101,4201.0,4151,27 Jan 2017,2017,Jan,27,2017-01-27
-50,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4101,4360.0,4230,11 Jan 2017,2017,Jan,11,2017-01-11
-51,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4101,4401.0,4251,16 Jan 2017,2017,Jan,16,2017-01-16
-52,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4103,4450.0,4276,12 Dec 2016,2016,Dec,12,2016-12-12
-53,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4125,4125.0,4125,04 Feb 2017,2017,Feb,04,2017-02-04
-54,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4150,4150.0,4150,22 Nov 2016,2016,Nov,22,2016-11-22
-55,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4150,4325.0,4237,19 Jan 2017,2017,Jan,19,2017-01-19
-56,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4151,4450.0,4300,21 Dec 2016,2016,Dec,21,2016-12-21
-57,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4151,4501.0,4326,03 Sep 2016,2016,Sep,03,2016-09-03
-58,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4152,4201.0,4176,03 Jan 2017,2017,Jan,03,2017-01-03
-59,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4152,4351.0,4251,04 Jan 2017,2017,Jan,04,2017-01-04
-60,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4200,4253.0,4226,26 Dec 2016,2016,Dec,26,2016-12-26
-61,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4351.0,4276,14 Jan 2017,2017,Jan,14,2017-01-14
-62,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4351.0,4276,21 Jan 2017,2017,Jan,21,2017-01-21
-63,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4401.0,4301,09 Jan 2017,2017,Jan,09,2017-01-09
-64,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4441.0,4321,20 Jan 2017,2017,Jan,20,2017-01-20
-65,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4471.0,4336,17 Jan 2017,2017,Jan,17,2017-01-17
-66,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4211,4211.0,4211,17 Apr 2017,2017,Apr,17,2017-04-17
-67,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4225,4225.0,4225,02 Feb 2017,2017,Feb,02,2017-02-02
-68,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4231,4492.0,4361,26 Nov 2016,2016,Nov,26,2016-11-26
-69,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4250,4250.0,4250,24 Dec 2016,2016,Dec,24,2016-12-24
-70,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4250,4560.0,4405,11 Apr 2017,2017,Apr,11,2017-04-11
-71,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4251,4381.0,4316,12 Jan 2017,2017,Jan,12,2017-01-12
-72,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4251,4403.0,4327,10 Jan 2017,2017,Jan,10,2017-01-10
-73,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4251,4611.0,4431,02 Dec 2016,2016,Dec,02,2016-12-02
-74,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4252,4401.0,4326,05 Jan 2017,2017,Jan,05,2017-01-05
-75,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4261,4311.0,4286,28 Dec 2016,2016,Dec,28,2016-12-28
-76,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4271,4271.0,4271,16 Mar 2017,2017,Mar,16,2017-03-16
-77,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4283,4431.0,4357,23 Jan 2017,2017,Jan,23,2017-01-23
-78,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4300,4395.0,4347,13 Jan 2017,2017,Jan,13,2017-01-13
-79,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4350.0,4325,23 Dec 2016,2016,Dec,23,2016-12-23
-80,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4431.0,4366,22 Dec 2016,2016,Dec,22,2016-12-22
-81,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4450.0,4375,18 Jan 2017,2017,Jan,18,2017-01-18
-82,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4581.0,4441,13 Dec 2016,2016,Dec,13,2016-12-13
-83,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4594.0,4447,21 Mar 2017,2017,Mar,21,2017-03-21
-84,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4850.0,4575,21 Oct 2016,2016,Oct,21,2016-10-21
-85,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4325,4325.0,4325,14 Apr 2017,2017,Apr,14,2017-04-14
-86,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4331,4451.0,4391,23 Nov 2016,2016,Nov,23,2016-11-23
-87,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4331,4501.0,4416,28 Nov 2016,2016,Nov,28,2016-11-28
-88,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4350,4551.0,4450,05 Dec 2016,2016,Dec,05,2016-12-05
-89,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4350,4701.0,4526,03 Apr 2017,2017,Apr,03,2017-04-03
-90,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4351,4501.0,4426,21 Nov 2016,2016,Nov,21,2016-11-21
-91,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4351,4595.0,4473,07 Dec 2016,2016,Dec,07,2016-12-07
-92,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4351,4601.0,4476,29 Nov 2016,2016,Nov,29,2016-11-29
-93,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4352,4352.0,4352,07 Jan 2017,2017,Jan,07,2017-01-07
-94,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4352,4502.0,4427,10 Dec 2016,2016,Dec,10,2016-12-10
-95,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4401,4501.0,4451,10 Apr 2017,2017,Apr,10,2017-04-10
-96,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4402,4525.0,4463,24 Mar 2017,2017,Mar,24,2017-03-24
-97,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4411,4755.0,4583,01 Apr 2017,2017,Apr,01,2017-04-01
-98,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4425,4581.0,4503,15 Apr 2017,2017,Apr,15,2017-04-15
-99,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4450,4450.0,4450,08 Dec 2016,2016,Dec,08,2016-12-08
-100,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4451,4451.0,4451,13 Apr 2017,2017,Apr,13,2017-04-13
-101,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4471,4681.0,4576,18 Oct 2016,2016,Oct,18,2016-10-18
-102,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4551,4551.0,4551,08 Nov 2016,2016,Nov,08,2016-11-08
-103,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4551,4551.0,4551,18 Nov 2016,2016,Nov,18,2016-11-18
-104,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4570,4651.0,4610,13 Oct 2016,2016,Oct,13,2016-10-13
-105,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4575,4750.0,4662,27 Oct 2016,2016,Oct,27,2016-10-27
-106,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4591,4701.0,4646,19 Oct 2016,2016,Oct,19,2016-10-19
-107,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4591,4713.0,4652,08 Oct 2016,2016,Oct,08,2016-10-08
-108,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4600,4680.0,4640,14 Oct 2016,2016,Oct,14,2016-10-14
-109,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4601,4750.0,4675,17 Oct 2016,2016,Oct,17,2016-10-17
-110,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4611,4771.0,4691,23 Mar 2017,2017,Mar,23,2017-03-23
-111,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4625,4625.0,4625,06 Apr 2017,2017,Apr,06,2017-04-06
-112,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4625,4750.0,4687,15 Oct 2016,2016,Oct,15,2016-10-15
-113,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4671,4682.0,4676,17 Mar 2017,2017,Mar,17,2017-03-17
-114,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4671,4851.0,4761,06 Oct 2016,2016,Oct,06,2016-10-06
-115,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4751.0,4725,28 Oct 2016,2016,Oct,28,2016-10-28
-116,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4701,4701.0,4701,04 Apr 2017,2017,Apr,04,2017-04-04
-117,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4701,4801.0,4751,12 Oct 2016,2016,Oct,12,2016-10-12
-118,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4701,5013.0,4857,04 Oct 2016,2016,Oct,04,2016-10-04
-119,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4705,4811.0,4758,10 Oct 2016,2016,Oct,10,2016-10-10
-120,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4748,4748.0,4748,03 Nov 2016,2016,Nov,03,2016-11-03
-121,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,4801.0,4775,11 Oct 2016,2016,Oct,11,2016-10-11
-122,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4751,4812.0,4781,07 Oct 2016,2016,Oct,07,2016-10-07
-123,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4761,4771.0,4766,02 Nov 2016,2016,Nov,02,2016-11-02
-124,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4775,4812.0,4793,25 Oct 2016,2016,Oct,25,2016-10-25
-125,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4782,5002.0,4892,30 Sep 2016,2016,Sep,30,2016-09-30
-126,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4785,4892.0,4838,05 Oct 2016,2016,Oct,05,2016-10-05
-127,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4801,4861.0,4831,24 Oct 2016,2016,Oct,24,2016-10-24
-128,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4821,4865.0,4843,20 Oct 2016,2016,Oct,20,2016-10-20
-129,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4825,4825.0,4825,26 Oct 2016,2016,Oct,26,2016-10-26
-130,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4830,4962.0,4896,01 Oct 2016,2016,Oct,01,2016-10-01
-131,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4831,5031.0,4931,29 Sep 2016,2016,Sep,29,2016-09-29
-132,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,5250.0,5125,27 Sep 2016,2016,Sep,27,2016-09-27
-133,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5001,5001.0,5001,20 Sep 2016,2016,Sep,20,2016-09-20
-134,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5052,5052.0,5052,19 Sep 2016,2016,Sep,19,2016-09-19
-135,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5131,5249.0,5190,22 Sep 2016,2016,Sep,22,2016-09-22
-136,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5190,5340.0,5265,23 Sep 2016,2016,Sep,23,2016-09-23
-137,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5251,5321.0,5286,26 Sep 2016,2016,Sep,26,2016-09-26
-138,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1700,1750.0,1750,01 Feb 2017,2017,Feb,01,2017-02-01
-139,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1911,1911.0,1911,02 Feb 2017,2017,Feb,02,2017-02-02
-140,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3700,6975.0,5337,17 Nov 2018,2018,Nov,17,2018-11-17
-141,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4131,6975.0,5553,16 Nov 2018,2018,Nov,16,2018-11-16
-142,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4200,4450.0,4325,25 Mar 2019,2019,Mar,25,2019-03-25
-143,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4200,4500.0,4350,11 Oct 2018,2018,Oct,11,2018-10-11
-144,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4250,5700.0,4975,09 Oct 2018,2018,Oct,09,2018-10-09
-145,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4400,4400.0,4400,18 Apr 2019,2019,Apr,18,2019-04-18
-146,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4400,5000.0,4700,10 Oct 2018,2018,Oct,10,2018-10-10
-147,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,4715.0,4607,07 Mar 2019,2019,Mar,07,2019-03-07
-148,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,4850.0,4675,08 Mar 2019,2019,Mar,08,2019-03-08
-149,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,4925.0,4712,16 Mar 2019,2019,Mar,16,2019-03-16
-150,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,5300.0,4900,12 Nov 2018,2018,Nov,12,2018-11-12
-151,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,6975.0,5737,14 Nov 2018,2018,Nov,14,2018-11-14
-152,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,6975.0,5737,31 Oct 2018,2018,Oct,31,2018-10-31
-153,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4600,4800.0,4700,11 Mar 2019,2019,Mar,11,2019-03-11
-154,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4700.0,4700,09 Apr 2019,2019,Apr,09,2019-04-09
-155,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4700.0,4700,09 Mar 2019,2019,Mar,09,2019-03-09
-156,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4700.0,4700,13 Mar 2019,2019,Mar,13,2019-03-13
-157,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4700.0,4700,18 Mar 2019,2019,Mar,18,2019-03-18
-158,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4800.0,4750,13 Nov 2018,2018,Nov,13,2018-11-13
-159,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4900.0,4800,12 Mar 2019,2019,Mar,12,2019-03-12
-160,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,4900.0,4825,15 Mar 2019,2019,Mar,15,2019-03-15
-161,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5000.0,4900,04 Mar 2019,2019,Mar,04,2019-03-04
-162,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5050.0,4925,05 Mar 2019,2019,Mar,05,2019-03-05
-163,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5300.0,4900,24 Apr 2019,2019,Apr,24,2019-04-24
-164,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5200.0,5200,16 Apr 2019,2019,Apr,16,2019-04-16
-165,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5470.0,5350,23 Apr 2019,2019,Apr,23,2019-04-23
-166,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,23 Nov 2018,2018,Nov,23,2018-11-23
-167,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4550,4850.0,4700,31 Jan 2019,2019,Jan,31,2019-01-31
-168,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4550,4900.0,4750,22 Jan 2019,2019,Jan,22,2019-01-22
-169,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4550,5000.0,4850,26 Mar 2019,2019,Mar,26,2019-03-26
-170,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4580,5250.0,5000,29 Oct 2018,2018,Oct,29,2018-10-29
-171,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4650,5250.0,4850,11 Feb 2019,2019,Feb,11,2019-02-11
-172,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,5000.0,4850,24 Feb 2019,2019,Feb,24,2019-02-24
-173,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,5200.0,4850,05 Feb 2019,2019,Feb,05,2019-02-05
-174,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,5200.0,4850,20 Sep 2018,2018,Sep,20,2018-09-20
-175,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5200.0,5050,16 Apr 2019,2019,Apr,16,2019-04-16
-176,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5400.0,5200,05 Oct 2018,2018,Oct,05,2018-10-05
-177,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5100.0,4900,09 Mar 2019,2019,Mar,09,2019-03-09
-178,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5200.0,5000,01 May 2019,2019,May,01,2019-05-01
-179,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5200.0,5050,08 Apr 2019,2019,Apr,08,2019-04-08
-180,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5200.0,5050,09 Apr 2019,2019,Apr,09,2019-04-09
-181,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5200.0,5050,15 Apr 2019,2019,Apr,15,2019-04-15
-182,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5250.0,5150,06 Apr 2019,2019,Apr,06,2019-04-06
-183,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5350.0,5250,17 Nov 2018,2018,Nov,17,2018-11-17
-184,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5500.0,5250,20 Nov 2018,2018,Nov,20,2018-11-20
-185,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5500.0,5250,26 Nov 2018,2018,Nov,26,2018-11-26
-186,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4900,5100.0,4950,10 Mar 2019,2019,Mar,10,2019-03-10
-187,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5400.0,5350,01 Aug 2019,2019,Aug,01,2019-08-01
-188,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5500.0,5350,17 Oct 2018,2018,Oct,17,2018-10-17
-189,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5600.0,5400,18 Sep 2018,2018,Sep,18,2018-09-18
-190,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5250,5600.0,5450,16 Oct 2018,2018,Oct,16,2018-10-16
-191,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,5750.0,5600,07 Jul 2019,2019,Jul,07,2019-07-07
-192,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,5800.0,5650,19 May 2019,2019,May,19,2019-05-19
-193,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5600,6000.0,5800,22 May 2019,2019,May,22,2019-05-22
-194,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5650,6000.0,5850,27 May 2019,2019,May,27,2019-05-27
-195,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,15 Oct 2018,2018,Oct,15,2018-10-15
-196,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,22 Oct 2018,2018,Oct,22,2018-10-22
-197,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,23 Oct 2018,2018,Oct,23,2018-10-23
-198,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,25 Oct 2018,2018,Oct,25,2018-10-25
-199,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,26 Oct 2018,2018,Oct,26,2018-10-26
-200,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,31 Oct 2018,2018,Oct,31,2018-10-31
-201,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4050,5391.0,5391,03 Jul 2019,2019,Jul,03,2019-07-03
-202,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4775,5251.0,5180,21 Jan 2019,2019,Jan,21,2019-01-21
-203,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,5295.0,5250,04 Feb 2019,2019,Feb,04,2019-02-04
-204,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5051,5340.0,5295,14 Jan 2019,2019,Jan,14,2019-01-14
-205,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5090,5275.0,5230,11 Feb 2019,2019,Feb,11,2019-02-11
-206,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5211,5500.0,5500,01 Aug 2019,2019,Aug,01,2019-08-01
-207,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5385,5625.0,5500,02 Oct 2018,2018,Oct,02,2018-10-02
-208,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5400,5400.0,5400,28 Jun 2019,2019,Jun,28,2019-06-28
-209,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5416,5416.0,5416,14 Sep 2018,2018,Sep,14,2018-09-14
-210,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5450,5450.0,5450,26 Jul 2019,2019,Jul,26,2019-07-26
-211,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5455,5500.0,5500,29 Jun 2019,2019,Jun,29,2019-06-29
-212,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5650,5650.0,5650,25 Jul 2019,2019,Jul,25,2019-07-25
-213,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,4600,6300.0,5450,15 Sep 2014,2014,Sep,15,2014-09-15
-214,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,4800,6250.0,5525,18 Sep 2014,2014,Sep,18,2014-09-18
-215,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,4800,6400.0,5600,20 Sep 2014,2014,Sep,20,2014-09-20
-216,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,5400.0,5200,11 Sep 2014,2014,Sep,11,2014-09-11
-217,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,5800.0,5400,08 Sep 2014,2014,Sep,08,2014-09-08
-218,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,5800.0,5400,09 Sep 2014,2014,Sep,09,2014-09-09
-219,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,5800.0,5400,12 Sep 2014,2014,Sep,12,2014-09-12
-220,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6000.0,5500,05 Sep 2014,2014,Sep,05,2014-09-05
-221,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6000.0,5500,13 Sep 2014,2014,Sep,13,2014-09-13
-222,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6350.0,5625,17 Sep 2014,2014,Sep,17,2014-09-17
-223,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6400.0,5700,19 Sep 2014,2014,Sep,19,2014-09-19
-224,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6450.0,5725,23 Sep 2014,2014,Sep,23,2014-09-23
-225,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6500.0,5700,01 Oct 2014,2014,Oct,01,2014-10-01
-226,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5050,5750.0,5400,10 Sep 2014,2014,Sep,10,2014-09-10
-227,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5100,6200.0,5650,01 Sep 2014,2014,Sep,01,2014-09-01
-228,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5180,6600.0,5890,26 Sep 2014,2014,Sep,26,2014-09-26
-229,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5200,6200.0,5700,02 Sep 2014,2014,Sep,02,2014-09-02
-230,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5200,6300.0,5750,16 Sep 2014,2014,Sep,16,2014-09-16
-231,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5200,6500.0,5850,29 Sep 2014,2014,Sep,29,2014-09-29
-232,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6000.0,5750,06 Sep 2014,2014,Sep,06,2014-09-06
-233,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6400.0,5950,02 Oct 2014,2014,Oct,02,2014-10-02
-234,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6500.0,6000,22 Sep 2014,2014,Sep,22,2014-09-22
-235,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6500.0,6000,30 Sep 2014,2014,Sep,30,2014-09-30
-236,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6550.0,6025,07 Oct 2014,2014,Oct,07,2014-10-07
-237,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6600.0,6050,06 Oct 2014,2014,Oct,06,2014-10-06
-238,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6650.0,6075,27 Sep 2014,2014,Sep,27,2014-09-27
-239,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6800.0,6150,08 Oct 2014,2014,Oct,08,2014-10-08
-240,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6800.0,6150,14 Oct 2014,2014,Oct,14,2014-10-14
-241,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6800.0,6150,15 Oct 2014,2014,Oct,15,2014-10-15
-242,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6850.0,6175,11 Oct 2014,2014,Oct,11,2014-10-11
-243,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6900.0,6200,13 Oct 2014,2014,Oct,13,2014-10-13
-244,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6900.0,6200,20 Oct 2014,2014,Oct,20,2014-10-20
-245,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6950.0,6225,16 Oct 2014,2014,Oct,16,2014-10-16
-246,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,7015.0,6257,09 Oct 2014,2014,Oct,09,2014-10-09
-247,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,7150.0,6325,10 Oct 2014,2014,Oct,10,2014-10-10
-248,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,7200.0,6350,27 Oct 2014,2014,Oct,27,2014-10-27
-249,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,7326.0,6413,28 Oct 2014,2014,Oct,28,2014-10-28
-250,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5600,6900.0,6250,17 Oct 2014,2014,Oct,17,2014-10-17
-251,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5700,6325.0,6012,03 Oct 2014,2014,Oct,03,2014-10-03
-252,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5800,7600.0,6700,13 Nov 2014,2014,Nov,13,2014-11-13
-253,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5900,7520.0,6710,08 Jan 2015,2015,Jan,08,2015-01-08
-254,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6000,6850.0,6420,18 Oct 2014,2014,Oct,18,2014-10-18
-255,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6500,7350.0,6925,27 Nov 2014,2014,Nov,27,2014-11-27
-256,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6600,7400.0,7000,28 Nov 2014,2014,Nov,28,2014-11-28
-257,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6600,7540.0,7070,11 Nov 2014,2014,Nov,11,2014-11-11
-258,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6700,7500.0,7100,10 Nov 2014,2014,Nov,10,2014-11-10
-259,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6701,7465.0,7084,20 Nov 2014,2014,Nov,20,2014-11-20
-260,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7200.0,7000,03 Dec 2014,2014,Dec,03,2014-12-03
-261,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7300.0,7050,01 Dec 2014,2014,Dec,01,2014-12-01
-262,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7300.0,7050,02 Dec 2014,2014,Dec,02,2014-12-02
-263,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7300.0,7050,19 Nov 2014,2014,Nov,19,2014-11-19
-264,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,06 Nov 2014,2014,Nov,06,2014-11-06
-265,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,18 Nov 2014,2014,Nov,18,2014-11-18
-266,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,21 Nov 2014,2014,Nov,21,2014-11-21
-267,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,25 Nov 2014,2014,Nov,25,2014-11-25
-268,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,29 Nov 2014,2014,Nov,29,2014-11-29
-269,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,29 Oct 2014,2014,Oct,29,2014-10-29
-270,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,31 Oct 2014,2014,Oct,31,2014-10-31
-271,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7450.0,6825,09 Dec 2014,2014,Dec,09,2014-12-09
-272,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7500.0,7150,05 Dec 2014,2014,Dec,05,2014-12-05
-273,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7500.0,7150,06 Dec 2014,2014,Dec,06,2014-12-06
-274,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7500.0,7150,10 Dec 2014,2014,Dec,10,2014-12-10
-275,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7500.0,7150,12 Nov 2014,2014,Nov,12,2014-11-12
-276,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7550.0,7150,01 Nov 2014,2014,Nov,01,2014-11-01
-277,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7550.0,7150,26 Nov 2014,2014,Nov,26,2014-11-26
-278,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7600.0,7200,05 Nov 2014,2014,Nov,05,2014-11-05
-279,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7600.0,7200,22 Dec 2014,2014,Dec,22,2014-12-22
-280,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7645.0,7222,04 Nov 2014,2014,Nov,04,2014-11-04
-281,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7680.0,7240,07 Nov 2014,2014,Nov,07,2014-11-07
-282,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7700.0,7250,20 Dec 2014,2014,Dec,20,2014-12-20
-283,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7700.0,7250,23 Dec 2014,2014,Dec,23,2014-12-23
-284,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7700.0,7250,24 Dec 2014,2014,Dec,24,2014-12-24
-285,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7700.0,7250,25 Dec 2014,2014,Dec,25,2014-12-25
-286,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6850,7550.0,7200,08 Nov 2014,2014,Nov,08,2014-11-08
-287,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6850,7650.0,7200,15 Dec 2014,2014,Dec,15,2014-12-15
-288,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6861,7745.0,7303,20 Feb 2015,2015,Feb,20,2015-02-20
-289,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7400.0,7150,17 Nov 2014,2014,Nov,17,2014-11-17
-290,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7500.0,7200,08 Dec 2014,2014,Dec,08,2014-12-08
-291,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7600.0,7250,24 Nov 2014,2014,Nov,24,2014-11-24
-292,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7650.0,7220,14 Nov 2014,2014,Nov,14,2014-11-14
-293,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7700.0,7300,19 Dec 2014,2014,Dec,19,2014-12-19
-294,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6950,7626.25,7290,26 Feb 2015,2015,Feb,26,2015-02-26
-295,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6950,7700.0,7325,16 Dec 2014,2014,Dec,16,2014-12-16
-296,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6990,7391.0,7191,11 Dec 2014,2014,Dec,11,2014-12-11
-297,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7440.0,7220,07 Mar 2015,2015,Mar,07,2015-03-07
-298,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7500.0,7250,15 Nov 2014,2014,Nov,15,2014-11-15
-299,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7550.0,7275,03 Mar 2015,2015,Mar,03,2015-03-03
-300,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,01 Apr 2015,2015,Apr,01,2015-04-01
-301,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,02 Mar 2015,2015,Mar,02,2015-03-02
-302,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,04 Mar 2015,2015,Mar,04,2015-03-04
-303,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,27 Feb 2015,2015,Feb,27,2015-02-27
-304,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,28 Feb 2015,2015,Feb,28,2015-02-28
-305,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7650.0,7325,09 Feb 2015,2015,Feb,09,2015-02-09
-306,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7700.0,7350,09 Mar 2015,2015,Mar,09,2015-03-09
-307,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7700.0,7350,24 Feb 2015,2015,Feb,24,2015-02-24
-308,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7750.0,7375,13 Dec 2014,2014,Dec,13,2014-12-13
-309,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7760.0,7380,13 Mar 2015,2015,Mar,13,2015-03-13
-310,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7780.0,7390,14 Mar 2015,2015,Mar,14,2015-03-14
-311,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,03 Nov 2014,2014,Nov,03,2014-11-03
-312,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,16 Feb 2015,2015,Feb,16,2015-02-16
-313,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,17 Feb 2015,2015,Feb,17,2015-02-17
-314,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,21 Feb 2015,2015,Feb,21,2015-02-21
-315,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,23 Feb 2015,2015,Feb,23,2015-02-23
-316,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7900.0,7450,09 Jan 2015,2015,Jan,09,2015-01-09
-317,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000.0,7400,26 Dec 2014,2014,Dec,26,2014-12-26
-318,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7041,7600.0,7250,25 Feb 2015,2015,Feb,25,2015-02-25
-319,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7050,7728.0,7390,18 Dec 2014,2014,Dec,18,2014-12-18
-320,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7060,7230.0,7115,04 Dec 2014,2014,Dec,04,2014-12-04
-321,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7100,7600.0,7350,06 Feb 2015,2015,Feb,06,2015-02-06
-322,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7100,7650.0,7375,07 Feb 2015,2015,Feb,07,2015-02-07
-323,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7100,7700.0,7400,16 Mar 2015,2015,Mar,16,2015-03-16
-324,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7100,7750.0,7425,11 Mar 2015,2015,Mar,11,2015-03-11
-325,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7150,7750.0,7450,21 Mar 2015,2015,Mar,21,2015-03-21
-326,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7450.0,7325,03 Apr 2015,2015,Apr,03,2015-04-03
-327,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7550.0,7375,05 Feb 2015,2015,Feb,05,2015-02-05
-328,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7600.0,7400,04 Feb 2015,2015,Feb,04,2015-02-04
-329,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7600.0,7400,10 Feb 2015,2015,Feb,10,2015-02-10
-330,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7600.0,7400,23 Mar 2015,2015,Mar,23,2015-03-23
-331,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7600.0,7400,27 Mar 2015,2015,Mar,27,2015-03-27
-332,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7700.0,7450,17 Mar 2015,2015,Mar,17,2015-03-17
-333,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7700.0,7450,25 Mar 2015,2015,Mar,25,2015-03-25
-334,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7750.0,7450,13 Feb 2015,2015,Feb,13,2015-02-13
-335,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7780.0,7490,14 Feb 2015,2015,Feb,14,2015-02-14
-336,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7800.0,7500,10 Jan 2015,2015,Jan,10,2015-01-10
-337,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7800.0,7550,23 Jan 2015,2015,Jan,23,2015-01-23
-338,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7880.0,7540,17 Dec 2014,2014,Dec,17,2014-12-17
-339,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,8000.0,7600,27 Dec 2014,2014,Dec,27,2014-12-27
-340,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,8000.0,7600,30 Dec 2014,2014,Dec,30,2014-12-30
-341,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,8200.0,7700,29 Dec 2014,2014,Dec,29,2014-12-29
-342,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7241,7565.0,7403,19 Mar 2015,2015,Mar,19,2015-03-19
-343,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7250,7550.0,7400,11 Feb 2015,2015,Feb,11,2015-02-11
-344,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7251,7588.0,7419,12 Feb 2015,2015,Feb,12,2015-02-12
-345,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7700.0,7500,02 Feb 2015,2015,Feb,02,2015-02-02
-346,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7700.0,7500,24 Mar 2015,2015,Mar,24,2015-03-24
-347,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7700.0,7500,28 Jan 2015,2015,Jan,28,2015-01-28
-348,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7700.0,7500,31 Jan 2015,2015,Jan,31,2015-01-31
-349,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7740.0,7520,18 Mar 2015,2015,Mar,18,2015-03-18
-350,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7800.0,7550,17 Jan 2015,2015,Jan,17,2015-01-17
-351,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7800.0,7550,19 Jan 2015,2015,Jan,19,2015-01-19
-352,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7800.0,7550,21 Jan 2015,2015,Jan,21,2015-01-21
-353,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,8000.0,7650,01 Jan 2015,2015,Jan,01,2015-01-01
-354,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,8000.0,7650,07 Jan 2015,2015,Jan,07,2015-01-07
-355,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,8100.0,7700,31 Dec 2014,2014,Dec,31,2014-12-31
-356,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7350,7600.0,7475,03 Feb 2015,2015,Feb,03,2015-02-03
-357,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7350,7740.0,7545,12 Mar 2015,2015,Mar,12,2015-03-12
-358,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7350,8050.0,7700,02 Jan 2015,2015,Jan,02,2015-01-02
-359,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7650.0,7525,26 Mar 2015,2015,Mar,26,2015-03-26
-360,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7750.0,7575,30 Jan 2015,2015,Jan,30,2015-01-30
-361,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7800.0,7600,12 Jan 2015,2015,Jan,12,2015-01-12
-362,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7800.0,7600,16 Jan 2015,2015,Jan,16,2015-01-16
-363,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7800.0,7600,24 Jan 2015,2015,Jan,24,2015-01-24
-364,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7800.0,7600,27 Jan 2015,2015,Jan,27,2015-01-27
-365,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7850.0,7625,13 Jan 2015,2015,Jan,13,2015-01-13
-366,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7980.0,7600,06 Jan 2015,2015,Jan,06,2015-01-06
-367,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000.0,7700,03 Jan 2015,2015,Jan,03,2015-01-03
-368,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,8100.0,7750,05 Jan 2015,2015,Jan,05,2015-01-05
-369,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7488,7680.0,7584,29 Jan 2015,2015,Jan,29,2015-01-29
-370,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7500,7540.0,7520,15 Jan 2015,2015,Jan,15,2015-01-15
-371,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7500,7885.0,7692,19 Feb 2015,2015,Feb,19,2015-02-19
-372,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5470,6750.0,6110,30 Sep 2022,2022,Sep,30,2022-09-30
-373,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5400,7855.0,6200,16 Mar 2023,2023,Mar,16,2023-03-16
-374,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7300.0,7300,17 Jul 2023,2023,Jul,17,2023-07-17
-375,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3650,3701.0,3675,25 Aug 2016,2016,Aug,25,2016-08-25
-376,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3825,4000.0,3912,23 Aug 2016,2016,Aug,23,2016-08-23
-377,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3850,3850.0,3850,24 Aug 2016,2016,Aug,24,2016-08-24
-378,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4321,4321.0,4321,10 Aug 2016,2016,Aug,10,2016-08-10
-379,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7571.0,7500,21 Aug 2024,2024,Aug,21,2024-08-21
-380,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5881,6200.0,6158,09 Oct 2023,2023,Oct,09,2023-10-09
-381,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7050.0,7000,20 Aug 2024,2024,Aug,20,2024-08-20
-382,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6351,6840.0,6800,24 Oct 2023,2023,Oct,24,2023-10-24
-383,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6351,6840.0,6800,25 Oct 2023,2023,Oct,25,2023-10-25
-384,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7151.0,7100,16 Jul 2024,2024,Jul,16,2024-07-16
-385,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,6500.0,6500,04 Mar 2024,2024,Mar,04,2024-03-04
-386,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6701,7251.0,7000,21 Oct 2023,2023,Oct,21,2023-10-21
-387,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6830,7400.0,7210,20 Jul 2024,2024,Jul,20,2024-07-20
-388,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6851,6851.0,6851,27 Aug 2024,2024,Aug,27,2024-08-27
-389,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6891,7251.0,7100,15 Jul 2024,2024,Jul,15,2024-07-15
-390,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6900,7451.0,7051,30 Aug 2024,2024,Aug,30,2024-08-30
-391,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6901,6901.0,6901,18 Jul 2024,2024,Jul,18,2024-07-18
-392,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7000.0,7000,24 Aug 2024,2024,Aug,24,2024-08-24
-393,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7100.0,7050,19 Jul 2024,2024,Jul,19,2024-07-19
-394,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7051,7051.0,7051,31 Oct 2023,2023,Oct,31,2023-10-31
-395,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7070,7070.0,7070,18 Oct 2023,2023,Oct,18,2023-10-18
-396,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7080,7080.0,7080,30 Oct 2023,2023,Oct,30,2023-10-30
-397,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7470.0,7210,22 Jul 2024,2024,Jul,22,2024-07-22
-398,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7101,7101.0,7101,20 Oct 2023,2023,Oct,20,2023-10-20
-399,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7126,7451.0,7226,28 Aug 2024,2024,Aug,28,2024-08-28
-400,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7151,7151.0,7151,15 Sep 2023,2023,Sep,15,2023-09-15
-401,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7151,7200.0,7180,28 Oct 2023,2023,Oct,28,2023-10-28
-402,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7200.0,7200,03 Nov 2023,2023,Nov,03,2023-11-03
-403,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7221,7530.0,7380,16 Oct 2023,2023,Oct,16,2023-10-16
-404,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7251,7451.0,7351,04 Dec 2023,2023,Dec,04,2023-12-04
-405,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7276,7276.0,7276,08 Jul 2024,2024,Jul,08,2024-07-08
-406,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7300.0,7300,06 Nov 2023,2023,Nov,06,2023-11-06
-407,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7300.0,7300,08 Nov 2023,2023,Nov,08,2023-11-08
-408,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7551.0,7450,16 Aug 2024,2024,Aug,16,2024-08-16
-409,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7351,7551.0,7500,17 Aug 2024,2024,Aug,17,2024-08-17
-410,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7400,7400.0,7400,27 Oct 2023,2023,Oct,27,2023-10-27
-411,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7481,7481.0,7481,22 Aug 2024,2024,Aug,22,2024-08-22
-412,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7490,7490.0,7490,27 Nov 2023,2023,Nov,27,2023-11-27
-413,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7843,7843.0,7843,02 Oct 2023,2023,Oct,02,2023-10-02
-414,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7900,7900.0,7900,20 Jan 2024,2024,Jan,20,2024-01-20
-415,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,7740.0,6820,06 Jan 2024,2024,Jan,06,2024-01-06
-416,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,8290.0,7700,07 Oct 2023,2023,Oct,07,2023-10-07
-417,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4200,5800.0,5350,26 Sep 2019,2019,Sep,26,2019-09-26
-418,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5700,5785.0,5720,17 Sep 2019,2019,Sep,17,2019-09-17
-419,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,5200.0,5100,17 Sep 2019,2019,Sep,17,2019-09-17
-420,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,5500.0,5200,08 Sep 2019,2019,Sep,08,2019-09-08
-421,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5500.0,5300,12 Sep 2019,2019,Sep,12,2019-09-12
-422,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4483,4499.0,4491,17 Oct 2017,2017,Oct,17,2017-10-17
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3201,3201.0,3201,16 Feb 2017,2017,Feb,16,2017-02-16
+1,1.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3301,3901.0,3601,03 Mar 2017,2017,Mar,3,2017-03-03
+2,2.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3552,3801.0,3676,27 Feb 2017,2017,Feb,27,2017-02-27
+3,3.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3580,3822.0,3701,01 Mar 2017,2017,Mar,1,2017-03-01
+4,4.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3701,4201.0,3951,13 Feb 2017,2017,Feb,13,2017-02-13
+5,5.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3711,3861.0,3786,24 Feb 2017,2017,Feb,24,2017-02-24
+6,6.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3711,4000.0,3855,23 Feb 2017,2017,Feb,23,2017-02-23
+7,7.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3751,4052.0,3901,20 Feb 2017,2017,Feb,20,2017-02-20
+8,8.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3752,3752.0,3752,25 Feb 2017,2017,Feb,25,2017-02-25
+9,9.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3761,4051.0,3906,15 Mar 2017,2017,Mar,15,2017-03-15
+10,10.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3800,4250.0,4025,30 Jan 2017,2017,Jan,30,2017-01-30
+11,11.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3800,4351.0,4075,06 Jan 2017,2017,Jan,6,2017-01-06
+12,12.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3801,3801.0,3801,28 Feb 2017,2017,Feb,28,2017-02-28
+13,13.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3801,4055.0,3928,10 Feb 2017,2017,Feb,10,2017-02-10
+14,14.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3825,3825.0,3825,14 Sep 2016,2016,Sep,14,2016-09-14
+15,15.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3825,3891.0,3858,08 Feb 2017,2017,Feb,8,2017-02-08
+16,16.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3831,4103.0,3967,06 Mar 2017,2017,Mar,6,2017-03-06
+17,17.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3850,3850.0,3850,14 Feb 2017,2017,Feb,14,2017-02-14
+18,18.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3850,4050.0,3950,11 Feb 2017,2017,Feb,11,2017-02-11
+19,19.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3851,3851.0,3851,13 Jul 2017,2017,Jul,13,2017-07-13
+20,20.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3851,3901.0,3876,09 Feb 2017,2017,Feb,9,2017-02-09
+21,21.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3851,3951.0,3901,09 Mar 2017,2017,Mar,9,2017-03-09
+22,22.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3851,4076.0,3963,15 Feb 2017,2017,Feb,15,2017-02-15
+23,23.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3858,4331.0,4094,02 Jan 2017,2017,Jan,2,2017-01-02
+24,24.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3861,3861.0,3861,04 Mar 2017,2017,Mar,4,2017-03-04
+25,25.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3901,3901.0,3901,02 Mar 2017,2017,Mar,2,2017-03-02
+26,26.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3901,4413.0,4157,22 Mar 2017,2017,Mar,22,2017-03-22
+27,27.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3902,4251.0,4076,03 Feb 2017,2017,Feb,3,2017-02-03
+28,28.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3909,4300.0,4104,22 Feb 2017,2017,Feb,22,2017-02-22
+29,29.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3921,4301.0,4111,19 Apr 2017,2017,Apr,19,2017-04-19
+30,30.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3950,4161.0,4055,06 Feb 2017,2017,Feb,6,2017-02-06
+31,31.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3950,4300.0,4125,21 Feb 2017,2017,Feb,21,2017-02-21
+32,32.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3951,4351.0,4151,25 Jan 2017,2017,Jan,25,2017-01-25
+33,33.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4250.0,4125,30 Nov 2016,2016,Nov,30,2016-11-30
+34,34.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4301.0,4150,28 Jan 2017,2017,Jan,28,2017-01-28
+35,35.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4351.0,4175,24 Jan 2017,2017,Jan,24,2017-01-24
+36,36.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4001,4001.0,4001,08 Apr 2017,2017,Apr,8,2017-04-08
+37,37.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4001,4001.0,4001,25 Mar 2017,2017,Mar,25,2017-03-25
+38,38.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4001,4325.0,4163,18 Apr 2017,2017,Apr,18,2017-04-18
+39,39.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4001,4601.0,4301,27 Mar 2017,2017,Mar,27,2017-03-27
+40,40.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4011,4561.0,4286,03 Dec 2016,2016,Dec,3,2016-12-03
+41,41.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4021,4301.0,4161,17 May 2017,2017,May,17,2017-05-17
+42,42.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4031,4601.0,4316,20 Mar 2017,2017,Mar,20,2017-03-20
+43,43.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4052,4570.0,4311,09 Dec 2016,2016,Dec,9,2016-12-09
+44,44.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4061,4061.0,4061,01 Feb 2017,2017,Feb,1,2017-02-01
+45,45.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4081,4151.0,4116,30 Dec 2016,2016,Dec,30,2016-12-30
+46,46.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4100,4100.0,4100,10 Sep 2016,2016,Sep,10,2016-09-10
+47,47.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4100,4271.0,4185,27 Dec 2016,2016,Dec,27,2016-12-27
+48,48.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4100,4451.0,4275,20 Dec 2016,2016,Dec,20,2016-12-20
+49,49.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4101,4201.0,4151,27 Jan 2017,2017,Jan,27,2017-01-27
+50,50.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4101,4360.0,4230,11 Jan 2017,2017,Jan,11,2017-01-11
+51,51.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4101,4401.0,4251,16 Jan 2017,2017,Jan,16,2017-01-16
+52,52.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4103,4450.0,4276,12 Dec 2016,2016,Dec,12,2016-12-12
+53,53.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4125,4125.0,4125,04 Feb 2017,2017,Feb,4,2017-02-04
+54,54.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4150,4150.0,4150,22 Nov 2016,2016,Nov,22,2016-11-22
+55,55.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4150,4325.0,4237,19 Jan 2017,2017,Jan,19,2017-01-19
+56,56.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4151,4450.0,4300,21 Dec 2016,2016,Dec,21,2016-12-21
+57,57.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4151,4501.0,4326,03 Sep 2016,2016,Sep,3,2016-09-03
+58,58.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4152,4201.0,4176,03 Jan 2017,2017,Jan,3,2017-01-03
+59,59.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4152,4351.0,4251,04 Jan 2017,2017,Jan,4,2017-01-04
+60,60.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4200,4253.0,4226,26 Dec 2016,2016,Dec,26,2016-12-26
+61,61.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4351.0,4276,14 Jan 2017,2017,Jan,14,2017-01-14
+62,62.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4351.0,4276,21 Jan 2017,2017,Jan,21,2017-01-21
+63,63.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4401.0,4301,09 Jan 2017,2017,Jan,9,2017-01-09
+64,64.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4441.0,4321,20 Jan 2017,2017,Jan,20,2017-01-20
+65,65.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4201,4471.0,4336,17 Jan 2017,2017,Jan,17,2017-01-17
+66,66.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4211,4211.0,4211,17 Apr 2017,2017,Apr,17,2017-04-17
+67,67.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4225,4225.0,4225,02 Feb 2017,2017,Feb,2,2017-02-02
+68,68.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4231,4492.0,4361,26 Nov 2016,2016,Nov,26,2016-11-26
+69,69.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4250,4250.0,4250,24 Dec 2016,2016,Dec,24,2016-12-24
+70,70.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4250,4560.0,4405,11 Apr 2017,2017,Apr,11,2017-04-11
+71,71.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4251,4381.0,4316,12 Jan 2017,2017,Jan,12,2017-01-12
+72,72.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4251,4403.0,4327,10 Jan 2017,2017,Jan,10,2017-01-10
+73,73.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4251,4611.0,4431,02 Dec 2016,2016,Dec,2,2016-12-02
+74,74.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4252,4401.0,4326,05 Jan 2017,2017,Jan,5,2017-01-05
+75,75.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4261,4311.0,4286,28 Dec 2016,2016,Dec,28,2016-12-28
+76,76.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4271,4271.0,4271,16 Mar 2017,2017,Mar,16,2017-03-16
+77,77.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4283,4431.0,4357,23 Jan 2017,2017,Jan,23,2017-01-23
+78,78.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4300,4395.0,4347,13 Jan 2017,2017,Jan,13,2017-01-13
+79,79.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4350.0,4325,23 Dec 2016,2016,Dec,23,2016-12-23
+80,80.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4431.0,4366,22 Dec 2016,2016,Dec,22,2016-12-22
+81,81.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4450.0,4375,18 Jan 2017,2017,Jan,18,2017-01-18
+82,82.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4581.0,4441,13 Dec 2016,2016,Dec,13,2016-12-13
+83,83.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4594.0,4447,21 Mar 2017,2017,Mar,21,2017-03-21
+84,84.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4301,4850.0,4575,21 Oct 2016,2016,Oct,21,2016-10-21
+85,85.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4325,4325.0,4325,14 Apr 2017,2017,Apr,14,2017-04-14
+86,86.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4331,4451.0,4391,23 Nov 2016,2016,Nov,23,2016-11-23
+87,87.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4331,4501.0,4416,28 Nov 2016,2016,Nov,28,2016-11-28
+88,88.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4350,4551.0,4450,05 Dec 2016,2016,Dec,5,2016-12-05
+89,89.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4350,4701.0,4526,03 Apr 2017,2017,Apr,3,2017-04-03
+90,90.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4351,4501.0,4426,21 Nov 2016,2016,Nov,21,2016-11-21
+91,91.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4351,4595.0,4473,07 Dec 2016,2016,Dec,7,2016-12-07
+92,92.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4351,4601.0,4476,29 Nov 2016,2016,Nov,29,2016-11-29
+93,93.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4352,4352.0,4352,07 Jan 2017,2017,Jan,7,2017-01-07
+94,94.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4352,4502.0,4427,10 Dec 2016,2016,Dec,10,2016-12-10
+95,95.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4401,4501.0,4451,10 Apr 2017,2017,Apr,10,2017-04-10
+96,96.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4402,4525.0,4463,24 Mar 2017,2017,Mar,24,2017-03-24
+97,97.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4411,4755.0,4583,01 Apr 2017,2017,Apr,1,2017-04-01
+98,98.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4425,4581.0,4503,15 Apr 2017,2017,Apr,15,2017-04-15
+99,99.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4450,4450.0,4450,08 Dec 2016,2016,Dec,8,2016-12-08
+100,100.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4451,4451.0,4451,13 Apr 2017,2017,Apr,13,2017-04-13
+101,101.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4471,4681.0,4576,18 Oct 2016,2016,Oct,18,2016-10-18
+102,102.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4551,4551.0,4551,08 Nov 2016,2016,Nov,8,2016-11-08
+103,103.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4551,4551.0,4551,18 Nov 2016,2016,Nov,18,2016-11-18
+104,104.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4570,4651.0,4610,13 Oct 2016,2016,Oct,13,2016-10-13
+105,105.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4575,4750.0,4662,27 Oct 2016,2016,Oct,27,2016-10-27
+106,106.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4591,4701.0,4646,19 Oct 2016,2016,Oct,19,2016-10-19
+107,107.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4591,4713.0,4652,08 Oct 2016,2016,Oct,8,2016-10-08
+108,108.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4600,4680.0,4640,14 Oct 2016,2016,Oct,14,2016-10-14
+109,109.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4601,4750.0,4675,17 Oct 2016,2016,Oct,17,2016-10-17
+110,110.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4611,4771.0,4691,23 Mar 2017,2017,Mar,23,2017-03-23
+111,111.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4625,4625.0,4625,06 Apr 2017,2017,Apr,6,2017-04-06
+112,112.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4625,4750.0,4687,15 Oct 2016,2016,Oct,15,2016-10-15
+113,113.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4671,4682.0,4676,17 Mar 2017,2017,Mar,17,2017-03-17
+114,114.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4671,4851.0,4761,06 Oct 2016,2016,Oct,6,2016-10-06
+115,115.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4751.0,4725,28 Oct 2016,2016,Oct,28,2016-10-28
+116,116.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4701,4701.0,4701,04 Apr 2017,2017,Apr,4,2017-04-04
+117,117.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4701,4801.0,4751,12 Oct 2016,2016,Oct,12,2016-10-12
+118,118.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4701,5013.0,4857,04 Oct 2016,2016,Oct,4,2016-10-04
+119,119.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4705,4811.0,4758,10 Oct 2016,2016,Oct,10,2016-10-10
+120,120.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4748,4748.0,4748,03 Nov 2016,2016,Nov,3,2016-11-03
+121,121.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,4801.0,4775,11 Oct 2016,2016,Oct,11,2016-10-11
+122,122.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4751,4812.0,4781,07 Oct 2016,2016,Oct,7,2016-10-07
+123,123.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4761,4771.0,4766,02 Nov 2016,2016,Nov,2,2016-11-02
+124,124.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4775,4812.0,4793,25 Oct 2016,2016,Oct,25,2016-10-25
+125,125.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4782,5002.0,4892,30 Sep 2016,2016,Sep,30,2016-09-30
+126,126.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4785,4892.0,4838,05 Oct 2016,2016,Oct,5,2016-10-05
+127,127.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4801,4861.0,4831,24 Oct 2016,2016,Oct,24,2016-10-24
+128,128.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4821,4865.0,4843,20 Oct 2016,2016,Oct,20,2016-10-20
+129,129.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4825,4825.0,4825,26 Oct 2016,2016,Oct,26,2016-10-26
+130,130.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4830,4962.0,4896,01 Oct 2016,2016,Oct,1,2016-10-01
+131,131.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4831,5031.0,4931,29 Sep 2016,2016,Sep,29,2016-09-29
+132,132.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,5250.0,5125,27 Sep 2016,2016,Sep,27,2016-09-27
+133,133.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5001,5001.0,5001,20 Sep 2016,2016,Sep,20,2016-09-20
+134,134.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5052,5052.0,5052,19 Sep 2016,2016,Sep,19,2016-09-19
+135,135.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5131,5249.0,5190,22 Sep 2016,2016,Sep,22,2016-09-22
+136,136.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5190,5340.0,5265,23 Sep 2016,2016,Sep,23,2016-09-23
+137,137.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5251,5321.0,5286,26 Sep 2016,2016,Sep,26,2016-09-26
+138,138.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1700,1750.0,1750,01 Feb 2017,2017,Feb,1,2017-02-01
+139,139.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1911,1911.0,1911,02 Feb 2017,2017,Feb,2,2017-02-02
+140,140.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3700,6975.0,5337,17 Nov 2018,2018,Nov,17,2018-11-17
+141,141.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4131,6975.0,5553,16 Nov 2018,2018,Nov,16,2018-11-16
+142,142.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4200,4450.0,4325,25 Mar 2019,2019,Mar,25,2019-03-25
+143,143.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4200,4500.0,4350,11 Oct 2018,2018,Oct,11,2018-10-11
+144,144.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4250,5700.0,4975,09 Oct 2018,2018,Oct,9,2018-10-09
+145,145.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4400,4400.0,4400,18 Apr 2019,2019,Apr,18,2019-04-18
+146,146.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4400,5000.0,4700,10 Oct 2018,2018,Oct,10,2018-10-10
+147,147.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,4715.0,4607,07 Mar 2019,2019,Mar,7,2019-03-07
+148,148.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,4850.0,4675,08 Mar 2019,2019,Mar,8,2019-03-08
+149,149.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,4925.0,4712,16 Mar 2019,2019,Mar,16,2019-03-16
+150,150.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,5300.0,4900,12 Nov 2018,2018,Nov,12,2018-11-12
+151,151.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,6975.0,5737,14 Nov 2018,2018,Nov,14,2018-11-14
+152,152.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,6975.0,5737,31 Oct 2018,2018,Oct,31,2018-10-31
+153,153.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4600,4800.0,4700,11 Mar 2019,2019,Mar,11,2019-03-11
+154,154.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4700.0,4700,09 Apr 2019,2019,Apr,9,2019-04-09
+155,155.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4700.0,4700,09 Mar 2019,2019,Mar,9,2019-03-09
+156,156.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4700.0,4700,13 Mar 2019,2019,Mar,13,2019-03-13
+157,157.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4700.0,4700,18 Mar 2019,2019,Mar,18,2019-03-18
+158,158.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4800.0,4750,13 Nov 2018,2018,Nov,13,2018-11-13
+159,159.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4700,4900.0,4800,12 Mar 2019,2019,Mar,12,2019-03-12
+160,160.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,4900.0,4825,15 Mar 2019,2019,Mar,15,2019-03-15
+161,161.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5000.0,4900,04 Mar 2019,2019,Mar,4,2019-03-04
+162,162.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5050.0,4925,05 Mar 2019,2019,Mar,5,2019-03-05
+163,163.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5300.0,4900,24 Apr 2019,2019,Apr,24,2019-04-24
+164,164.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5200.0,5200,16 Apr 2019,2019,Apr,16,2019-04-16
+165,165.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5470.0,5350,23 Apr 2019,2019,Apr,23,2019-04-23
+166,166.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,23 Nov 2018,2018,Nov,23,2018-11-23
+167,167.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4550,4850.0,4700,31 Jan 2019,2019,Jan,31,2019-01-31
+168,168.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4550,4900.0,4750,22 Jan 2019,2019,Jan,22,2019-01-22
+169,169.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4550,5000.0,4850,26 Mar 2019,2019,Mar,26,2019-03-26
+170,170.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4580,5250.0,5000,29 Oct 2018,2018,Oct,29,2018-10-29
+171,171.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4650,5250.0,4850,11 Feb 2019,2019,Feb,11,2019-02-11
+172,172.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,5000.0,4850,24 Feb 2019,2019,Feb,24,2019-02-24
+173,173.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,5200.0,4850,05 Feb 2019,2019,Feb,5,2019-02-05
+174,174.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,5200.0,4850,20 Sep 2018,2018,Sep,20,2018-09-20
+175,175.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5200.0,5050,16 Apr 2019,2019,Apr,16,2019-04-16
+176,176.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4800,5400.0,5200,05 Oct 2018,2018,Oct,5,2018-10-05
+177,177.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5100.0,4900,09 Mar 2019,2019,Mar,9,2019-03-09
+178,178.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5200.0,5000,01 May 2019,2019,May,1,2019-05-01
+179,179.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5200.0,5050,08 Apr 2019,2019,Apr,8,2019-04-08
+180,180.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5200.0,5050,09 Apr 2019,2019,Apr,9,2019-04-09
+181,181.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5200.0,5050,15 Apr 2019,2019,Apr,15,2019-04-15
+182,182.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5250.0,5150,06 Apr 2019,2019,Apr,6,2019-04-06
+183,183.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5350.0,5250,17 Nov 2018,2018,Nov,17,2018-11-17
+184,184.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5500.0,5250,20 Nov 2018,2018,Nov,20,2018-11-20
+185,185.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4850,5500.0,5250,26 Nov 2018,2018,Nov,26,2018-11-26
+186,186.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4900,5100.0,4950,10 Mar 2019,2019,Mar,10,2019-03-10
+187,187.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5400.0,5350,01 Aug 2019,2019,Aug,1,2019-08-01
+188,188.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5500.0,5350,17 Oct 2018,2018,Oct,17,2018-10-17
+189,189.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5600.0,5400,18 Sep 2018,2018,Sep,18,2018-09-18
+190,190.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5250,5600.0,5450,16 Oct 2018,2018,Oct,16,2018-10-16
+191,191.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,5750.0,5600,07 Jul 2019,2019,Jul,7,2019-07-07
+192,192.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,5800.0,5650,19 May 2019,2019,May,19,2019-05-19
+193,193.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5600,6000.0,5800,22 May 2019,2019,May,22,2019-05-22
+194,194.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5650,6000.0,5850,27 May 2019,2019,May,27,2019-05-27
+195,195.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,15 Oct 2018,2018,Oct,15,2018-10-15
+196,196.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,22 Oct 2018,2018,Oct,22,2018-10-22
+197,197.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,23 Oct 2018,2018,Oct,23,2018-10-23
+198,198.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,25 Oct 2018,2018,Oct,25,2018-10-25
+199,199.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,26 Oct 2018,2018,Oct,26,2018-10-26
+200,200.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6975,6975.0,6975,31 Oct 2018,2018,Oct,31,2018-10-31
+201,201.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4050,5391.0,5391,03 Jul 2019,2019,Jul,3,2019-07-03
+202,202.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4775,5251.0,5180,21 Jan 2019,2019,Jan,21,2019-01-21
+203,203.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,5295.0,5250,04 Feb 2019,2019,Feb,4,2019-02-04
+204,204.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5051,5340.0,5295,14 Jan 2019,2019,Jan,14,2019-01-14
+205,205.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5090,5275.0,5230,11 Feb 2019,2019,Feb,11,2019-02-11
+206,206.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5211,5500.0,5500,01 Aug 2019,2019,Aug,1,2019-08-01
+207,207.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5385,5625.0,5500,02 Oct 2018,2018,Oct,2,2018-10-02
+208,208.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5400,5400.0,5400,28 Jun 2019,2019,Jun,28,2019-06-28
+209,209.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5416,5416.0,5416,14 Sep 2018,2018,Sep,14,2018-09-14
+210,210.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5450,5450.0,5450,26 Jul 2019,2019,Jul,26,2019-07-26
+211,211.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5455,5500.0,5500,29 Jun 2019,2019,Jun,29,2019-06-29
+212,212.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5650,5650.0,5650,25 Jul 2019,2019,Jul,25,2019-07-25
+213,213.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,4600,6300.0,5450,15 Sep 2014,2014,Sep,15,2014-09-15
+214,214.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,4800,6250.0,5525,18 Sep 2014,2014,Sep,18,2014-09-18
+215,215.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,4800,6400.0,5600,20 Sep 2014,2014,Sep,20,2014-09-20
+216,216.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,5400.0,5200,11 Sep 2014,2014,Sep,11,2014-09-11
+217,217.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,5800.0,5400,08 Sep 2014,2014,Sep,8,2014-09-08
+218,218.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,5800.0,5400,09 Sep 2014,2014,Sep,9,2014-09-09
+219,219.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,5800.0,5400,12 Sep 2014,2014,Sep,12,2014-09-12
+220,220.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6000.0,5500,05 Sep 2014,2014,Sep,5,2014-09-05
+221,221.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6000.0,5500,13 Sep 2014,2014,Sep,13,2014-09-13
+222,222.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6350.0,5625,17 Sep 2014,2014,Sep,17,2014-09-17
+223,223.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6400.0,5700,19 Sep 2014,2014,Sep,19,2014-09-19
+224,224.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6450.0,5725,23 Sep 2014,2014,Sep,23,2014-09-23
+225,225.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5000,6500.0,5700,01 Oct 2014,2014,Oct,1,2014-10-01
+226,226.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5050,5750.0,5400,10 Sep 2014,2014,Sep,10,2014-09-10
+227,227.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5100,6200.0,5650,01 Sep 2014,2014,Sep,1,2014-09-01
+228,228.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5180,6600.0,5890,26 Sep 2014,2014,Sep,26,2014-09-26
+229,229.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5200,6200.0,5700,02 Sep 2014,2014,Sep,2,2014-09-02
+230,230.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5200,6300.0,5750,16 Sep 2014,2014,Sep,16,2014-09-16
+231,231.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5200,6500.0,5850,29 Sep 2014,2014,Sep,29,2014-09-29
+232,232.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6000.0,5750,06 Sep 2014,2014,Sep,6,2014-09-06
+233,233.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6400.0,5950,02 Oct 2014,2014,Oct,2,2014-10-02
+234,234.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6500.0,6000,22 Sep 2014,2014,Sep,22,2014-09-22
+235,235.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6500.0,6000,30 Sep 2014,2014,Sep,30,2014-09-30
+236,236.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6550.0,6025,07 Oct 2014,2014,Oct,7,2014-10-07
+237,237.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6600.0,6050,06 Oct 2014,2014,Oct,6,2014-10-06
+238,238.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6650.0,6075,27 Sep 2014,2014,Sep,27,2014-09-27
+239,239.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6800.0,6150,08 Oct 2014,2014,Oct,8,2014-10-08
+240,240.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6800.0,6150,14 Oct 2014,2014,Oct,14,2014-10-14
+241,241.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6800.0,6150,15 Oct 2014,2014,Oct,15,2014-10-15
+242,242.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6850.0,6175,11 Oct 2014,2014,Oct,11,2014-10-11
+243,243.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6900.0,6200,13 Oct 2014,2014,Oct,13,2014-10-13
+244,244.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6900.0,6200,20 Oct 2014,2014,Oct,20,2014-10-20
+245,245.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,6950.0,6225,16 Oct 2014,2014,Oct,16,2014-10-16
+246,246.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,7015.0,6257,09 Oct 2014,2014,Oct,9,2014-10-09
+247,247.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,7150.0,6325,10 Oct 2014,2014,Oct,10,2014-10-10
+248,248.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,7200.0,6350,27 Oct 2014,2014,Oct,27,2014-10-27
+249,249.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5500,7326.0,6413,28 Oct 2014,2014,Oct,28,2014-10-28
+250,250.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5600,6900.0,6250,17 Oct 2014,2014,Oct,17,2014-10-17
+251,251.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5700,6325.0,6012,03 Oct 2014,2014,Oct,3,2014-10-03
+252,252.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5800,7600.0,6700,13 Nov 2014,2014,Nov,13,2014-11-13
+253,253.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,5900,7520.0,6710,08 Jan 2015,2015,Jan,8,2015-01-08
+254,254.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6000,6850.0,6420,18 Oct 2014,2014,Oct,18,2014-10-18
+255,255.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6500,7350.0,6925,27 Nov 2014,2014,Nov,27,2014-11-27
+256,256.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6600,7400.0,7000,28 Nov 2014,2014,Nov,28,2014-11-28
+257,257.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6600,7540.0,7070,11 Nov 2014,2014,Nov,11,2014-11-11
+258,258.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6700,7500.0,7100,10 Nov 2014,2014,Nov,10,2014-11-10
+259,259.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6701,7465.0,7084,20 Nov 2014,2014,Nov,20,2014-11-20
+260,260.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7200.0,7000,03 Dec 2014,2014,Dec,3,2014-12-03
+261,261.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7300.0,7050,01 Dec 2014,2014,Dec,1,2014-12-01
+262,262.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7300.0,7050,02 Dec 2014,2014,Dec,2,2014-12-02
+263,263.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7300.0,7050,19 Nov 2014,2014,Nov,19,2014-11-19
+264,264.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,06 Nov 2014,2014,Nov,6,2014-11-06
+265,265.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,18 Nov 2014,2014,Nov,18,2014-11-18
+266,266.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,21 Nov 2014,2014,Nov,21,2014-11-21
+267,267.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,25 Nov 2014,2014,Nov,25,2014-11-25
+268,268.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,29 Nov 2014,2014,Nov,29,2014-11-29
+269,269.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,29 Oct 2014,2014,Oct,29,2014-10-29
+270,270.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7400.0,7100,31 Oct 2014,2014,Oct,31,2014-10-31
+271,271.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7450.0,6825,09 Dec 2014,2014,Dec,9,2014-12-09
+272,272.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7500.0,7150,05 Dec 2014,2014,Dec,5,2014-12-05
+273,273.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7500.0,7150,06 Dec 2014,2014,Dec,6,2014-12-06
+274,274.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7500.0,7150,10 Dec 2014,2014,Dec,10,2014-12-10
+275,275.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7500.0,7150,12 Nov 2014,2014,Nov,12,2014-11-12
+276,276.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7550.0,7150,01 Nov 2014,2014,Nov,1,2014-11-01
+277,277.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7550.0,7150,26 Nov 2014,2014,Nov,26,2014-11-26
+278,278.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7600.0,7200,05 Nov 2014,2014,Nov,5,2014-11-05
+279,279.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7600.0,7200,22 Dec 2014,2014,Dec,22,2014-12-22
+280,280.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7645.0,7222,04 Nov 2014,2014,Nov,4,2014-11-04
+281,281.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7680.0,7240,07 Nov 2014,2014,Nov,7,2014-11-07
+282,282.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7700.0,7250,20 Dec 2014,2014,Dec,20,2014-12-20
+283,283.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7700.0,7250,23 Dec 2014,2014,Dec,23,2014-12-23
+284,284.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7700.0,7250,24 Dec 2014,2014,Dec,24,2014-12-24
+285,285.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6800,7700.0,7250,25 Dec 2014,2014,Dec,25,2014-12-25
+286,286.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6850,7550.0,7200,08 Nov 2014,2014,Nov,8,2014-11-08
+287,287.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6850,7650.0,7200,15 Dec 2014,2014,Dec,15,2014-12-15
+288,288.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6861,7745.0,7303,20 Feb 2015,2015,Feb,20,2015-02-20
+289,289.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7400.0,7150,17 Nov 2014,2014,Nov,17,2014-11-17
+290,290.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7500.0,7200,08 Dec 2014,2014,Dec,8,2014-12-08
+291,291.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7600.0,7250,24 Nov 2014,2014,Nov,24,2014-11-24
+292,292.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7650.0,7220,14 Nov 2014,2014,Nov,14,2014-11-14
+293,293.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6900,7700.0,7300,19 Dec 2014,2014,Dec,19,2014-12-19
+294,294.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6950,7626.25,7290,26 Feb 2015,2015,Feb,26,2015-02-26
+295,295.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6950,7700.0,7325,16 Dec 2014,2014,Dec,16,2014-12-16
+296,296.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,6990,7391.0,7191,11 Dec 2014,2014,Dec,11,2014-12-11
+297,297.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7440.0,7220,07 Mar 2015,2015,Mar,7,2015-03-07
+298,298.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7500.0,7250,15 Nov 2014,2014,Nov,15,2014-11-15
+299,299.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7550.0,7275,03 Mar 2015,2015,Mar,3,2015-03-03
+300,300.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,01 Apr 2015,2015,Apr,1,2015-04-01
+301,301.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,02 Mar 2015,2015,Mar,2,2015-03-02
+302,302.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,04 Mar 2015,2015,Mar,4,2015-03-04
+303,303.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,27 Feb 2015,2015,Feb,27,2015-02-27
+304,304.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7600.0,7300,28 Feb 2015,2015,Feb,28,2015-02-28
+305,305.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7650.0,7325,09 Feb 2015,2015,Feb,9,2015-02-09
+306,306.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7700.0,7350,09 Mar 2015,2015,Mar,9,2015-03-09
+307,307.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7700.0,7350,24 Feb 2015,2015,Feb,24,2015-02-24
+308,308.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7750.0,7375,13 Dec 2014,2014,Dec,13,2014-12-13
+309,309.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7760.0,7380,13 Mar 2015,2015,Mar,13,2015-03-13
+310,310.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7780.0,7390,14 Mar 2015,2015,Mar,14,2015-03-14
+311,311.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,03 Nov 2014,2014,Nov,3,2014-11-03
+312,312.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,16 Feb 2015,2015,Feb,16,2015-02-16
+313,313.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,17 Feb 2015,2015,Feb,17,2015-02-17
+314,314.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,21 Feb 2015,2015,Feb,21,2015-02-21
+315,315.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7800.0,7400,23 Feb 2015,2015,Feb,23,2015-02-23
+316,316.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,7900.0,7450,09 Jan 2015,2015,Jan,9,2015-01-09
+317,317.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000.0,7400,26 Dec 2014,2014,Dec,26,2014-12-26
+318,318.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7041,7600.0,7250,25 Feb 2015,2015,Feb,25,2015-02-25
+319,319.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7050,7728.0,7390,18 Dec 2014,2014,Dec,18,2014-12-18
+320,320.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7060,7230.0,7115,04 Dec 2014,2014,Dec,4,2014-12-04
+321,321.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7100,7600.0,7350,06 Feb 2015,2015,Feb,6,2015-02-06
+322,322.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7100,7650.0,7375,07 Feb 2015,2015,Feb,7,2015-02-07
+323,323.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7100,7700.0,7400,16 Mar 2015,2015,Mar,16,2015-03-16
+324,324.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7100,7750.0,7425,11 Mar 2015,2015,Mar,11,2015-03-11
+325,325.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7150,7750.0,7450,21 Mar 2015,2015,Mar,21,2015-03-21
+326,326.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7450.0,7325,03 Apr 2015,2015,Apr,3,2015-04-03
+327,327.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7550.0,7375,05 Feb 2015,2015,Feb,5,2015-02-05
+328,328.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7600.0,7400,04 Feb 2015,2015,Feb,4,2015-02-04
+329,329.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7600.0,7400,10 Feb 2015,2015,Feb,10,2015-02-10
+330,330.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7600.0,7400,23 Mar 2015,2015,Mar,23,2015-03-23
+331,331.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7600.0,7400,27 Mar 2015,2015,Mar,27,2015-03-27
+332,332.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7700.0,7450,17 Mar 2015,2015,Mar,17,2015-03-17
+333,333.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7700.0,7450,25 Mar 2015,2015,Mar,25,2015-03-25
+334,334.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7750.0,7450,13 Feb 2015,2015,Feb,13,2015-02-13
+335,335.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7780.0,7490,14 Feb 2015,2015,Feb,14,2015-02-14
+336,336.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7800.0,7500,10 Jan 2015,2015,Jan,10,2015-01-10
+337,337.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7800.0,7550,23 Jan 2015,2015,Jan,23,2015-01-23
+338,338.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,7880.0,7540,17 Dec 2014,2014,Dec,17,2014-12-17
+339,339.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,8000.0,7600,27 Dec 2014,2014,Dec,27,2014-12-27
+340,340.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,8000.0,7600,30 Dec 2014,2014,Dec,30,2014-12-30
+341,341.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7200,8200.0,7700,29 Dec 2014,2014,Dec,29,2014-12-29
+342,342.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7241,7565.0,7403,19 Mar 2015,2015,Mar,19,2015-03-19
+343,343.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7250,7550.0,7400,11 Feb 2015,2015,Feb,11,2015-02-11
+344,344.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7251,7588.0,7419,12 Feb 2015,2015,Feb,12,2015-02-12
+345,345.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7700.0,7500,02 Feb 2015,2015,Feb,2,2015-02-02
+346,346.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7700.0,7500,24 Mar 2015,2015,Mar,24,2015-03-24
+347,347.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7700.0,7500,28 Jan 2015,2015,Jan,28,2015-01-28
+348,348.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7700.0,7500,31 Jan 2015,2015,Jan,31,2015-01-31
+349,349.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7740.0,7520,18 Mar 2015,2015,Mar,18,2015-03-18
+350,350.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7800.0,7550,17 Jan 2015,2015,Jan,17,2015-01-17
+351,351.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7800.0,7550,19 Jan 2015,2015,Jan,19,2015-01-19
+352,352.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,7800.0,7550,21 Jan 2015,2015,Jan,21,2015-01-21
+353,353.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,8000.0,7650,01 Jan 2015,2015,Jan,1,2015-01-01
+354,354.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,8000.0,7650,07 Jan 2015,2015,Jan,7,2015-01-07
+355,355.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7300,8100.0,7700,31 Dec 2014,2014,Dec,31,2014-12-31
+356,356.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7350,7600.0,7475,03 Feb 2015,2015,Feb,3,2015-02-03
+357,357.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7350,7740.0,7545,12 Mar 2015,2015,Mar,12,2015-03-12
+358,358.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7350,8050.0,7700,02 Jan 2015,2015,Jan,2,2015-01-02
+359,359.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7650.0,7525,26 Mar 2015,2015,Mar,26,2015-03-26
+360,360.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7750.0,7575,30 Jan 2015,2015,Jan,30,2015-01-30
+361,361.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7800.0,7600,12 Jan 2015,2015,Jan,12,2015-01-12
+362,362.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7800.0,7600,16 Jan 2015,2015,Jan,16,2015-01-16
+363,363.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7800.0,7600,24 Jan 2015,2015,Jan,24,2015-01-24
+364,364.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7800.0,7600,27 Jan 2015,2015,Jan,27,2015-01-27
+365,365.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7850.0,7625,13 Jan 2015,2015,Jan,13,2015-01-13
+366,366.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,7980.0,7600,06 Jan 2015,2015,Jan,6,2015-01-06
+367,367.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000.0,7700,03 Jan 2015,2015,Jan,3,2015-01-03
+368,368.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7400,8100.0,7750,05 Jan 2015,2015,Jan,5,2015-01-05
+369,369.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7488,7680.0,7584,29 Jan 2015,2015,Jan,29,2015-01-29
+370,370.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7500,7540.0,7520,15 Jan 2015,2015,Jan,15,2015-01-15
+371,371.0,Ajmer,Madanganj Kishangarh,Green Gram Dal (Moong Dal),Other,FAQ,7500,7885.0,7692,19 Feb 2015,2015,Feb,19,2015-02-19
+372,372.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5470,6750.0,6110,30 Sep 2022,2022,Sep,30,2022-09-30
+373,373.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5400,7855.0,6200,16 Mar 2023,2023,Mar,16,2023-03-16
+374,374.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7300.0,7300,17 Jul 2023,2023,Jul,17,2023-07-17
+375,375.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3650,3701.0,3675,25 Aug 2016,2016,Aug,25,2016-08-25
+376,376.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3825,4000.0,3912,23 Aug 2016,2016,Aug,23,2016-08-23
+377,377.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3850,3850.0,3850,24 Aug 2016,2016,Aug,24,2016-08-24
+378,378.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4321,4321.0,4321,10 Aug 2016,2016,Aug,10,2016-08-10
+379,379.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7571.0,7500,21 Aug 2024,2024,Aug,21,2024-08-21
+380,380.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5881,6200.0,6158,09 Oct 2023,2023,Oct,9,2023-10-09
+381,381.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7050.0,7000,20 Aug 2024,2024,Aug,20,2024-08-20
+382,382.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6351,6840.0,6800,24 Oct 2023,2023,Oct,24,2023-10-24
+383,383.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6351,6840.0,6800,25 Oct 2023,2023,Oct,25,2023-10-25
+384,384.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7151.0,7100,16 Jul 2024,2024,Jul,16,2024-07-16
+385,385.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,6500.0,6500,04 Mar 2024,2024,Mar,4,2024-03-04
+386,386.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6701,7251.0,7000,21 Oct 2023,2023,Oct,21,2023-10-21
+387,387.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6830,7400.0,7210,20 Jul 2024,2024,Jul,20,2024-07-20
+388,388.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6851,6851.0,6851,27 Aug 2024,2024,Aug,27,2024-08-27
+389,389.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6891,7251.0,7100,15 Jul 2024,2024,Jul,15,2024-07-15
+390,390.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6900,7451.0,7051,30 Aug 2024,2024,Aug,30,2024-08-30
+391,391.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6901,6901.0,6901,18 Jul 2024,2024,Jul,18,2024-07-18
+392,392.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7000.0,7000,24 Aug 2024,2024,Aug,24,2024-08-24
+393,393.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7100.0,7050,19 Jul 2024,2024,Jul,19,2024-07-19
+394,394.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7051,7051.0,7051,31 Oct 2023,2023,Oct,31,2023-10-31
+395,395.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7070,7070.0,7070,18 Oct 2023,2023,Oct,18,2023-10-18
+396,396.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7080,7080.0,7080,30 Oct 2023,2023,Oct,30,2023-10-30
+397,397.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7470.0,7210,22 Jul 2024,2024,Jul,22,2024-07-22
+398,398.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7101,7101.0,7101,20 Oct 2023,2023,Oct,20,2023-10-20
+399,399.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7126,7451.0,7226,28 Aug 2024,2024,Aug,28,2024-08-28
+400,400.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7151,7151.0,7151,15 Sep 2023,2023,Sep,15,2023-09-15
+401,401.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7151,7200.0,7180,28 Oct 2023,2023,Oct,28,2023-10-28
+402,402.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7200.0,7200,03 Nov 2023,2023,Nov,3,2023-11-03
+403,403.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7221,7530.0,7380,16 Oct 2023,2023,Oct,16,2023-10-16
+404,404.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7251,7451.0,7351,04 Dec 2023,2023,Dec,4,2023-12-04
+405,405.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7276,7276.0,7276,08 Jul 2024,2024,Jul,8,2024-07-08
+406,406.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7300.0,7300,06 Nov 2023,2023,Nov,6,2023-11-06
+407,407.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7300.0,7300,08 Nov 2023,2023,Nov,8,2023-11-08
+408,408.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7551.0,7450,16 Aug 2024,2024,Aug,16,2024-08-16
+409,409.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7351,7551.0,7500,17 Aug 2024,2024,Aug,17,2024-08-17
+410,410.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7400,7400.0,7400,27 Oct 2023,2023,Oct,27,2023-10-27
+411,411.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7481,7481.0,7481,22 Aug 2024,2024,Aug,22,2024-08-22
+412,412.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7490,7490.0,7490,27 Nov 2023,2023,Nov,27,2023-11-27
+413,413.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7843,7843.0,7843,02 Oct 2023,2023,Oct,2,2023-10-02
+414,414.0,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7900,7900.0,7900,20 Jan 2024,2024,Jan,20,2024-01-20
+415,415.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4500,7740.0,6820,06 Jan 2024,2024,Jan,6,2024-01-06
+416,416.0,Ganganagar,Sriganganagar (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,8290.0,7700,07 Oct 2023,2023,Oct,7,2023-10-07
+417,417.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4200,5800.0,5350,26 Sep 2019,2019,Sep,26,2019-09-26
+418,418.0,Beawar,Jaitaran,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5700,5785.0,5720,17 Sep 2019,2019,Sep,17,2019-09-17
+419,419.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,5200.0,5100,17 Sep 2019,2019,Sep,17,2019-09-17
+420,420.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,5500.0,5200,08 Sep 2019,2019,Sep,8,2019-09-08
+421,421.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5500.0,5300,12 Sep 2019,2019,Sep,12,2019-09-12
+422,422.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4483,4499.0,4491,17 Oct 2017,2017,Oct,17,2017-10-17
+423,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3451,4300.0,4200,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
+424,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,7100.0,6300,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
+425,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5350,7351.0,6701,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
+426,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7150.0,6800,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
+427,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7172.0,6901,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
+428,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7200.0,6775,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
+429,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7200.0,6775,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
+430,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5700,6900.0,5700,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
+431,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5700,7270.0,6750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
+432,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5701,7251.0,6900,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
+433,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5701,7281.0,6700,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
+434,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5800,6800.0,6551,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
+435,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5800,6970.0,6710,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
+436,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7000.0,6751,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
+437,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7400.0,7000,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
+438,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7571.0,7500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
+439,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5900,6850.0,6540,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
+440,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5900,6971.0,6650,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
+441,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5902,7220.0,6880,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
+442,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,6551.0,6100,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
+443,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,6951.0,6601,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
+444,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7001.0,6800,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
+445,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7050.0,7000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
+446,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7102.0,6500,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
+447,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7200.0,6800,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
+448,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7501.0,7100,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
+449,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6180,7425.0,6651,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
+450,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6200,6800.0,6501,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
+451,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6200,7090.0,7000,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
+452,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6200,7400.0,6800,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
+453,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6201,7100.0,7001,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
+454,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6201,7275.0,6900,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
+455,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6251,7350.0,6700,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
+456,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6290,7200.0,6901,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
+457,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6300,7300.0,6900,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
+458,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6301,7250.0,6901,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
+459,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6350,6880.0,6800,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
+460,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6400,7200.0,7051,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
+461,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6400,7400.0,7300,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
+462,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7101.0,6900,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
+463,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7151.0,7100,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
+464,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7310.0,6900,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
+465,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6421,7000.0,6700,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
+466,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6480,7340.0,7201,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
+467,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6531,7100.0,6990,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
+468,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6600,6600.0,6600,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
+469,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6600,7100.0,6870,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
+470,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6600,7375.0,6900,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
+471,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6601,7301.0,7000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
+472,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6650,6650.0,6650,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
+473,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6830,7400.0,7210,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
+474,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6850,6850.0,6850,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
+475,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6851,6851.0,6851,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
+476,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6891,7251.0,7100,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
+477,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6900,7451.0,7051,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
+478,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6901,6901.0,6901,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
+479,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7000.0,7000,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
+480,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7100.0,7050,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
+481,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7300.0,7250,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
+482,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7470.0,7210,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
+483,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7651.0,7400,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
+484,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7126,7451.0,7226,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
+485,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7151,7541.0,7451,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
+486,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7200.0,7200,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
+487,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7276,7276.0,7276,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
+488,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7551.0,7450,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
+489,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7351,7351.0,7351,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
+490,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7351,7551.0,7500,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
+491,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7471,7491.0,7480,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
+492,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7471,7626.0,7500,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
+493,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7481,7481.0,7481,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
+494,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7490,7490.0,7490,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00

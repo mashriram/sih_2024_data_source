@@ -1,4 +1,5 @@
 from datetime import date, datetime, timedelta
+
 from sqlite3 import Date
 import requests
 import os
@@ -286,5 +287,5 @@ if __name__ == "__main__":
         44: "tea",
     }
 
-    get_data_from_website()
-    append_data_from_website(datetime.now(),(datetime.date.today() - datetime.timedelta(weeks=1)))
+    # get_data_from_website()
+    append_data_from_website(date(2024,7,1),date.today())

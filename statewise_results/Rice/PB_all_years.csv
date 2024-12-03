@@ -1,355 +1,507 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Ferozpur,Zira,Rice,1009 Kar,FAQ,1500,2200,2000,25 Nov 2020,2020,Nov,25,2020-11-25
-1,kapurthala,Dhilwan,Rice,Other,FAQ,2000,2000,2000,10 Nov 2016,2016,Nov,10,2016-11-10
-2,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2300,2200,16 Nov 2016,2016,Nov,16,2016-11-16
-3,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2300,2200,11 Nov 2016,2016,Nov,11,2016-11-11
-4,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2350,2300,18 Nov 2016,2016,Nov,18,2016-11-18
-5,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2150,2485,2315,19 Nov 2016,2016,Nov,19,2016-11-19
-6,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,03 Dec 2016,2016,Dec,03,2016-12-03
-7,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,28 Nov 2016,2016,Nov,28,2016-11-28
-8,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2300,2200,10 Nov 2016,2016,Nov,10,2016-11-10
-9,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,02 Dec 2016,2016,Dec,02,2016-12-02
-10,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,04 Dec 2016,2016,Dec,04,2016-12-04
-11,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2300,2200,14 Nov 2016,2016,Nov,14,2016-11-14
-12,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,21 Nov 2016,2016,Nov,21,2016-11-21
-13,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2470,2470,2470,06 Dec 2016,2016,Dec,06,2016-12-06
-14,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,20 Nov 2016,2016,Nov,20,2016-11-20
-15,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2450,2550,2550,05 Dec 2016,2016,Dec,05,2016-12-05
-16,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,21 Nov 2016,2016,Nov,21,2016-11-21
-17,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2300,2450,2400,19 Dec 2016,2016,Dec,19,2016-12-19
-18,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2300,2200,12 Nov 2016,2016,Nov,12,2016-11-12
-19,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,30 Nov 2016,2016,Nov,30,2016-11-30
-20,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2150,2485,2315,20 Nov 2016,2016,Nov,20,2016-11-20
-21,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2300,2200,17 Nov 2016,2016,Nov,17,2016-11-17
-22,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,24 Nov 2016,2016,Nov,24,2016-11-24
-23,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,26 Nov 2016,2016,Nov,26,2016-11-26
-24,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,29 Nov 2016,2016,Nov,29,2016-11-29
-25,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2300,2250,15 Nov 2016,2016,Nov,15,2016-11-15
-26,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2300,2250,15 Nov 2016,2016,Nov,15,2016-11-15
-27,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2450,2450,2450,21 Nov 2016,2016,Nov,21,2016-11-21
-28,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2550,2550,2550,02 Dec 2016,2016,Dec,02,2016-12-02
-29,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2150,2485,2315,21 Nov 2016,2016,Nov,21,2016-11-21
-30,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2250,2210,13 Nov 2016,2016,Nov,13,2016-11-13
-31,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,30 Nov 2016,2016,Nov,30,2016-11-30
-32,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,02 Dec 2016,2016,Dec,02,2016-12-02
-33,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,20 Nov 2016,2016,Nov,20,2016-11-20
-34,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,23 Nov 2016,2016,Nov,23,2016-11-23
-35,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,05 Dec 2016,2016,Dec,05,2016-12-05
-36,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,27 Nov 2016,2016,Nov,27,2016-11-27
-37,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2100,2400,2250,30 Nov 2016,2016,Nov,30,2016-11-30
-38,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,03 Dec 2016,2016,Dec,03,2016-12-03
-39,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2250,2210,13 Nov 2016,2016,Nov,13,2016-11-13
-40,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,19 Nov 2016,2016,Nov,19,2016-11-19
-41,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2350,2200,14 Nov 2016,2016,Nov,14,2016-11-14
-42,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,22 Nov 2016,2016,Nov,22,2016-11-22
-43,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3550,3175,05 Dec 2018,2018,Dec,05,2018-12-05
-44,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2900,3400,3175,14 Nov 2018,2018,Nov,14,2018-11-14
-45,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3700,3150,01 Dec 2018,2018,Dec,01,2018-12-01
-46,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3440,3470,3440,27 Dec 2018,2018,Dec,27,2018-12-27
-47,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2600,3650,3100,28 Nov 2018,2018,Nov,28,2018-11-28
-48,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2950,3000,2980,31 Oct 2018,2018,Oct,31,2018-10-31
-49,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3550,3175,07 Dec 2018,2018,Dec,07,2018-12-07
-50,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3000,3700,3240,28 Nov 2018,2018,Nov,28,2018-11-28
-51,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2911,3250,3080,02 Nov 2018,2018,Nov,02,2018-11-02
-52,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3105,3700,3327,29 Nov 2018,2018,Nov,29,2018-11-29
-53,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3400,3200,14 Nov 2018,2018,Nov,14,2018-11-14
-54,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2900,3050,2940,30 Oct 2018,2018,Oct,30,2018-10-30
-55,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3700,3150,01 Dec 2018,2018,Dec,01,2018-12-01
-56,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3500,3150,22 Nov 2018,2018,Nov,22,2018-11-22
-57,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3585,3192,29 Nov 2018,2018,Nov,29,2018-11-29
-58,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3400,3440,3400,28 Dec 2018,2018,Dec,28,2018-12-28
-59,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3400,3440,3440,26 Dec 2018,2018,Dec,26,2018-12-26
-60,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3550,3175,07 Dec 2018,2018,Dec,07,2018-12-07
-61,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3700,3250,06 Nov 2018,2018,Nov,06,2018-11-06
-62,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3000,3325,3162,06 Nov 2018,2018,Nov,06,2018-11-06
-63,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3100,3515,3325,19 Nov 2018,2018,Nov,19,2018-11-19
-64,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3400,3100,15 Nov 2018,2018,Nov,15,2018-11-15
-65,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3500,3150,19 Nov 2018,2018,Nov,19,2018-11-19
-66,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,3100,3550,3325,27 Nov 2018,2018,Nov,27,2018-11-27
-67,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,3175,3350,3300,28 Oct 2018,2018,Oct,28,2018-10-28
-68,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2900,3600,3187,22 Nov 2018,2018,Nov,22,2018-11-22
-69,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3000,3200,3100,09 Nov 2018,2018,Nov,09,2018-11-09
-70,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3300,3500,3400,27 Nov 2018,2018,Nov,27,2018-11-27
-71,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2500,3500,3100,03 Jan 2019,2019,Jan,03,2019-01-03
-72,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3500,3150,17 Nov 2018,2018,Nov,17,2018-11-17
-73,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3000,3479,3450,31 Dec 2018,2018,Dec,31,2018-12-31
-74,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3000,3525,3212,17 Nov 2018,2018,Nov,17,2018-11-17
-75,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3000,3470,3440,30 Dec 2018,2018,Dec,30,2018-12-30
-76,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3300,3470,3400,29 Dec 2018,2018,Dec,29,2018-12-29
-77,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3500,3150,12 Dec 2018,2018,Dec,12,2018-12-12
-78,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2950,3450,3222,18 Nov 2018,2018,Nov,18,2018-11-18
-79,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2750,3450,3100,16 Nov 2018,2018,Nov,16,2018-11-16
-80,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3150,3100,14 Dec 2018,2018,Dec,14,2018-12-14
-81,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3400,3100,11 Dec 2018,2018,Dec,11,2018-12-11
-82,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2600,2600,2600,09 Nov 2018,2018,Nov,09,2018-11-09
-83,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2950,3400,3175,15 Nov 2018,2018,Nov,15,2018-11-15
-84,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2170,2918,2800,17 Nov 2014,2014,Nov,17,2014-11-17
-85,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2640,2550,10 Dec 2014,2014,Dec,10,2014-12-10
-86,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2700,2550,06 Nov 2014,2014,Nov,06,2014-11-06
-87,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2200,2800,2600,01 Nov 2014,2014,Nov,01,2014-11-01
-88,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2500,2450,03 Dec 2014,2014,Dec,03,2014-12-03
-89,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2200,2910,2650,20 Oct 2014,2014,Oct,20,2014-10-20
-90,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2360,2990,2680,03 Nov 2014,2014,Nov,03,2014-11-03
-91,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2650,3000,2900,27 Oct 2014,2014,Oct,27,2014-10-27
-92,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2100,2750,2625,14 Nov 2014,2014,Nov,14,2014-11-14
-93,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2150,2705,2525,27 Nov 2014,2014,Nov,27,2014-11-27
-94,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2060,2735,2685,11 Dec 2014,2014,Dec,11,2014-12-11
-95,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2740,2680,12 Dec 2014,2014,Dec,12,2014-12-12
-96,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2850,2400,25 Nov 2014,2014,Nov,25,2014-11-25
-97,Ludhiana,Jagraon,Rice,Other,FAQ,2500,2900,2700,20 Nov 2014,2014,Nov,20,2014-11-20
-98,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2630,2475,29 Nov 2014,2014,Nov,29,2014-11-29
-99,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2225,2925,2825,20 Nov 2014,2014,Nov,20,2014-11-20
-100,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2220,2900,2715,13 Nov 2014,2014,Nov,13,2014-11-13
-101,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2195,2875,2805,19 Nov 2014,2014,Nov,19,2014-11-19
-102,Muktsar,Bariwala,Rice,Other,FAQ,2165,2915,2820,10 Nov 2014,2014,Nov,10,2014-11-10
-103,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2500,2350,08 Dec 2014,2014,Dec,08,2014-12-08
-104,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2880,2450,21 Nov 2014,2014,Nov,21,2014-11-21
-105,Amritsar,Majitha,Rice,Basmati Paddy,FAQ,1800,2300,2000,20 Sep 2014,2014,Sep,20,2014-09-20
-106,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3000,2811,03 Nov 2014,2014,Nov,03,2014-11-03
-107,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,2850,2750,21 Nov 2014,2014,Nov,21,2014-11-21
-108,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2000,2870,2730,18 Nov 2014,2014,Nov,18,2014-11-18
-109,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2200,2425,2350,29 Nov 2014,2014,Nov,29,2014-11-29
-110,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2175,2900,2870,20 Nov 2014,2014,Nov,20,2014-11-20
-111,Ludhiana,Jagraon,Rice,Other,FAQ,2100,2500,2300,15 Dec 2014,2014,Dec,15,2014-12-15
-112,Ludhiana,Jagraon,Rice,Other,FAQ,2500,2990,2700,14 Nov 2014,2014,Nov,14,2014-11-14
-113,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2525,2325,02 Dec 2014,2014,Dec,02,2014-12-02
-114,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2211,3015,2850,07 Nov 2014,2014,Nov,07,2014-11-07
-115,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2230,2435,2325,30 Sep 2014,2014,Sep,30,2014-09-30
-116,Ludhiana,Jagraon,Rice,Other,FAQ,2800,3160,3000,15 Nov 2014,2014,Nov,15,2014-11-15
-117,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,2830,2750,28 Nov 2014,2014,Nov,28,2014-11-28
-118,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2550,2560,2555,18 Oct 2014,2014,Oct,18,2014-10-18
-119,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2600,2800,2700,21 Oct 2014,2014,Oct,21,2014-10-21
-120,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2135,2670,2525,21 Nov 2014,2014,Nov,21,2014-11-21
-121,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2145,2725,2620,24 Nov 2014,2014,Nov,24,2014-11-24
-122,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2840,2790,26 Nov 2014,2014,Nov,26,2014-11-26
-123,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2600,2400,03 Dec 2014,2014,Dec,03,2014-12-03
-124,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2670,2400,19 Oct 2014,2014,Oct,19,2014-10-19
-125,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2600,2500,16 Dec 2014,2014,Dec,16,2014-12-16
-126,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2925,2600,01 Nov 2014,2014,Nov,01,2014-11-01
-127,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3145,3000,17 Nov 2014,2014,Nov,17,2014-11-17
-128,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2300,2961,2825,19 Nov 2014,2014,Nov,19,2014-11-19
-129,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,11 Oct 2014,2014,Oct,11,2014-10-11
-130,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1825,2750,2625,16 Nov 2014,2014,Nov,16,2014-11-16
-131,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2100,2485,2350,08 Dec 2014,2014,Dec,08,2014-12-08
-132,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2037,2905,2855,11 Nov 2014,2014,Nov,11,2014-11-11
-133,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2345,2345,2345,30 Dec 2014,2014,Dec,30,2014-12-30
-134,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2700,2680,06 Dec 2014,2014,Dec,06,2014-12-06
-135,Ludhiana,Jagraon,Rice,Other,FAQ,1900,2100,2000,22 Dec 2014,2014,Dec,22,2014-12-22
-136,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2500,2350,12 Dec 2014,2014,Dec,12,2014-12-12
-137,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2730,2500,21 Oct 2014,2014,Oct,21,2014-10-21
-138,Ludhiana,Jagraon,Rice,Other,FAQ,2500,2770,2600,28 Nov 2014,2014,Nov,28,2014-11-28
-139,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2810,2750,26 Nov 2014,2014,Nov,26,2014-11-26
-140,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2861,2725,17 Nov 2014,2014,Nov,17,2014-11-17
-141,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,3011,2850,10 Nov 2014,2014,Nov,10,2014-11-10
-142,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2350,3025,2960,04 Nov 2014,2014,Nov,04,2014-11-04
-143,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2410,2405,04 Oct 2014,2014,Oct,04,2014-10-04
-144,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1960,2405,2215,04 Dec 2014,2014,Dec,04,2014-12-04
-145,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2210,2680,2630,05 Dec 2014,2014,Dec,05,2014-12-05
-146,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2400,2300,26 Dec 2014,2014,Dec,26,2014-12-26
-147,Ludhiana,Jagraon,Rice,Other,FAQ,2200,3050,2750,10 Nov 2014,2014,Nov,10,2014-11-10
-148,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2500,2400,18 Dec 2014,2014,Dec,18,2014-12-18
-149,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2925,2500,31 Oct 2014,2014,Oct,31,2014-10-31
-150,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,3050,2850,06 Nov 2014,2014,Nov,06,2014-11-06
-151,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,08 Oct 2014,2014,Oct,08,2014-10-08
-152,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2150,2725,2605,26 Nov 2014,2014,Nov,26,2014-11-26
-153,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2885,2800,14 Nov 2014,2014,Nov,14,2014-11-14
-154,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2175,3090,2950,08 Nov 2014,2014,Nov,08,2014-11-08
-155,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2830,2780,25 Nov 2014,2014,Nov,25,2014-11-25
-156,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2730,2730,2730,13 Dec 2014,2014,Dec,13,2014-12-13
-157,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2580,2350,11 Dec 2014,2014,Dec,11,2014-12-11
-158,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2605,2450,01 Dec 2014,2014,Dec,01,2014-12-01
-159,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2821,2750,27 Nov 2014,2014,Nov,27,2014-11-27
-160,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2180,2846,2540,16 Oct 2014,2014,Oct,16,2014-10-16
-161,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2250,3065,2950,10 Nov 2014,2014,Nov,10,2014-11-10
-162,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2410,2405,05 Oct 2014,2014,Oct,05,2014-10-05
-163,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,10 Oct 2014,2014,Oct,10,2014-10-10
-164,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2060,2750,2630,20 Nov 2014,2014,Nov,20,2014-11-20
-165,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1950,2615,2580,02 Dec 2014,2014,Dec,02,2014-12-02
-166,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2680,2640,28 Nov 2014,2014,Nov,28,2014-11-28
-167,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2220,2680,2640,27 Nov 2014,2014,Nov,27,2014-11-27
-168,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2585,2520,24 Dec 2014,2014,Dec,24,2014-12-24
-169,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2675,2645,09 Dec 2014,2014,Dec,09,2014-12-09
-170,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2595,2595,2595,15 Dec 2014,2014,Dec,15,2014-12-15
-171,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2880,2450,22 Oct 2014,2014,Oct,22,2014-10-22
-172,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2905,2600,27 Oct 2014,2014,Oct,27,2014-10-27
-173,Ludhiana,Jagraon,Rice,Other,FAQ,2235,2815,2500,28 Oct 2014,2014,Oct,28,2014-10-28
-174,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3050,2800,19 Nov 2014,2014,Nov,19,2014-11-19
-175,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2420,2460,2435,13 Oct 2014,2014,Oct,13,2014-10-13
-176,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2700,2800,2750,22 Oct 2014,2014,Oct,22,2014-10-22
-177,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2000,2350,2210,02 Dec 2014,2014,Dec,02,2014-12-02
-178,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2040,2751,2500,22 Nov 2014,2014,Nov,22,2014-11-22
-179,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2060,2750,2630,19 Nov 2014,2014,Nov,19,2014-11-19
-180,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2080,2300,2185,07 Jan 2015,2015,Jan,07,2015-01-07
-181,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2460,2670,2510,10 Dec 2014,2014,Dec,10,2014-12-10
-182,Amritsar,Majitha,Rice,Basmati Paddy,FAQ,1900,2250,2100,19 Sep 2014,2014,Sep,19,2014-09-19
-183,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3021,2750,04 Nov 2014,2014,Nov,04,2014-11-04
-184,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2060,2400,2250,01 Dec 2014,2014,Dec,01,2014-12-01
-185,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2325,2550,2450,28 Nov 2014,2014,Nov,28,2014-11-28
-186,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2450,2510,2510,25 Dec 2014,2014,Dec,25,2014-12-25
-187,Ludhiana,Jagraon,Rice,Other,FAQ,2280,2980,2580,02 Nov 2014,2014,Nov,02,2014-11-02
-188,Faridkot,Jaitu,Rice,Basmati Paddy,FAQ,2251,2620,2600,26 Sep 2014,2014,Sep,26,2014-09-26
-189,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2200,2971,2300,28 Oct 2014,2014,Oct,28,2014-10-28
-190,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2235,2911,2825,18 Nov 2014,2014,Nov,18,2014-11-18
-191,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1650,2498,2350,09 Dec 2014,2014,Dec,09,2014-12-09
-192,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1850,2535,2271,12 Dec 2014,2014,Dec,12,2014-12-12
-193,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2100,2700,2570,25 Nov 2014,2014,Nov,25,2014-11-25
-194,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1950,2610,2550,19 Dec 2014,2014,Dec,19,2014-12-19
-195,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1970,2690,2640,04 Dec 2014,2014,Dec,04,2014-12-04
-196,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2635,2550,20 Dec 2014,2014,Dec,20,2014-12-20
-197,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2150,2885,2800,13 Nov 2014,2014,Nov,13,2014-11-13
-198,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2640,2600,17 Dec 2014,2014,Dec,17,2014-12-17
-199,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2550,2640,2550,22 Dec 2014,2014,Dec,22,2014-12-22
-200,Ludhiana,Jagraon,Rice,Other,FAQ,2450,2770,2650,04 Nov 2014,2014,Nov,04,2014-11-04
-201,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3000,2800,13 Nov 2014,2014,Nov,13,2014-11-13
-202,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3055,2800,18 Nov 2014,2014,Nov,18,2014-11-18
-203,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2160,2378,2345,29 Sep 2014,2014,Sep,29,2014-09-29
-204,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1950,2450,2320,05 Dec 2014,2014,Dec,05,2014-12-05
-205,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2780,2700,21 Nov 2014,2014,Nov,21,2014-11-21
-206,Ludhiana,Jagraon,Rice,Other,FAQ,2000,2400,2200,19 Dec 2014,2014,Dec,19,2014-12-19
-207,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2500,2400,23 Dec 2014,2014,Dec,23,2014-12-23
-208,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2855,2600,27 Nov 2014,2014,Nov,27,2014-11-27
-209,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2350,2400,2375,03 Oct 2014,2014,Oct,03,2014-10-03
-210,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2450,2410,15 Oct 2014,2014,Oct,15,2014-10-15
-211,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2410,07 Oct 2014,2014,Oct,07,2014-10-07
-212,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2460,2430,09 Oct 2014,2014,Oct,09,2014-10-09
-213,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2550,2560,2555,19 Oct 2014,2014,Oct,19,2014-10-19
-214,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2205,2400,2360,22 Dec 2014,2014,Dec,22,2014-12-22
-215,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2110,2640,2600,01 Dec 2014,2014,Dec,01,2014-12-01
-216,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2240,2950,2870,18 Nov 2014,2014,Nov,18,2014-11-18
-217,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2585,2500,23 Dec 2014,2014,Dec,23,2014-12-23
-218,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2625,2580,16 Dec 2014,2014,Dec,16,2014-12-16
-219,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2680,2600,18 Dec 2014,2014,Dec,18,2014-12-18
-220,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2600,2400,02 Dec 2014,2014,Dec,02,2014-12-02
-221,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2550,2400,24 Dec 2014,2014,Dec,24,2014-12-24
-222,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2875,2600,11 Nov 2014,2014,Nov,11,2014-11-11
-223,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2850,2725,14 Nov 2014,2014,Nov,14,2014-11-14
-224,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3010,2850,13 Nov 2014,2014,Nov,13,2014-11-13
-225,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2230,2510,2410,01 Oct 2014,2014,Oct,01,2014-10-01
-226,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2410,06 Oct 2014,2014,Oct,06,2014-10-06
-227,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,14 Oct 2014,2014,Oct,14,2014-10-14
-228,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1851,2775,2625,15 Nov 2014,2014,Nov,15,2014-11-15
-229,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2680,2600,03 Dec 2014,2014,Dec,03,2014-12-03
-230,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2770,2400,17 Oct 2014,2014,Oct,17,2014-10-17
-231,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2910,2400,25 Oct 2014,2014,Oct,25,2014-10-25
-232,Ludhiana,Jagraon,Rice,Other,FAQ,2450,2695,2580,09 Dec 2014,2014,Dec,09,2014-12-09
-233,Faridkot,Jaitu,Rice,Basmati Paddy,FAQ,2325,2600,2400,27 Sep 2014,2014,Sep,27,2014-09-27
-234,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3000,2850,05 Nov 2014,2014,Nov,05,2014-11-05
-235,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,2910,2550,25 Nov 2014,2014,Nov,25,2014-11-25
-236,Ferozpur,Zira,Rice,1009 Kar,FAQ,100,300,200,11 Jul 2023,2023,Jul,11,2023-07-11
-237,Fazilka,Abohar,Rice,Other,FAQ,1450,1450,1450,03 Oct 2015,2015,Oct,03,2015-10-03
-238,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2000,2235,2145,24 Dec 2015,2015,Dec,24,2015-12-24
-239,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2130,2225,2175,25 Dec 2015,2015,Dec,25,2015-12-25
-240,Ludhiana,Jagraon,Rice,Other,FAQ,1860,2050,1950,22 Jan 2016,2016,Jan,22,2016-01-22
-241,Ludhiana,Jagraon,Rice,Other,FAQ,2105,2105,2105,21 Dec 2015,2015,Dec,21,2015-12-21
-242,Fazilka,Abohar,Rice,Other,FAQ,1450,1450,1450,02 Oct 2015,2015,Oct,02,2015-10-02
-243,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1575,2230,2150,14 Dec 2015,2015,Dec,14,2015-12-14
-244,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2075,2231,2150,04 Jan 2016,2016,Jan,04,2016-01-04
-245,Muktsar,Malout,Rice,Other,FAQ,1621,2145,1950,19 Nov 2015,2015,Nov,19,2015-11-19
-246,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2205,2400,2335,11 Dec 2015,2015,Dec,11,2015-12-11
-247,Barnala,Barnala,Rice,Other,FAQ,1600,1955,1777,22 Jan 2016,2016,Jan,22,2016-01-22
-248,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1570,1671,1631,06 Nov 2015,2015,Nov,06,2015-11-06
-249,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1850,2361,2200,20 Nov 2015,2015,Nov,20,2015-11-20
-250,Muktsar,Malout,Rice,Other,FAQ,1550,1671,1631,09 Nov 2015,2015,Nov,09,2015-11-09
-251,Fazilka,Abohar,Rice,Other,FAQ,1450,1450,1450,04 Oct 2015,2015,Oct,04,2015-10-04
-252,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1400,1950,1750,23 Nov 2015,2015,Nov,23,2015-11-23
-253,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1550,1721,1600,04 Nov 2015,2015,Nov,04,2015-11-04
-254,Ludhiana,Jagraon,Rice,Other,FAQ,2075,2075,2075,31 Dec 2015,2015,Dec,31,2015-12-31
-255,Ludhiana,Jagraon,Rice,Other,FAQ,2545,2545,2545,27 Nov 2015,2015,Nov,27,2015-11-27
-256,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2000,2320,2200,08 Apr 2016,2016,Apr,08,2016-04-08
-257,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1575,2230,2150,16 Dec 2015,2015,Dec,16,2015-12-16
-258,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2000,2260,2125,13 Dec 2015,2015,Dec,13,2015-12-13
-259,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2150,2305,2250,04 Dec 2015,2015,Dec,04,2015-12-04
-260,Barnala,Barnala,Rice,Other,FAQ,1600,1600,1600,04 Feb 2016,2016,Feb,04,2016-02-04
-261,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2550,2600,2600,08 Dec 2015,2015,Dec,08,2015-12-08
-262,Ludhiana,Jagraon,Rice,Other,FAQ,2395,2395,2395,04 Dec 2015,2015,Dec,04,2015-12-04
-263,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2600,2450,10 Dec 2015,2015,Dec,10,2015-12-10
-264,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1870,2305,2255,24 Nov 2015,2015,Nov,24,2015-11-24
-265,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2235,2175,17 Dec 2015,2015,Dec,17,2015-12-17
-266,Barnala,Barnala,Rice,Other,FAQ,1750,1750,1750,29 Jan 2016,2016,Jan,29,2016-01-29
-267,Ludhiana,Jagraon,Rice,Other,FAQ,1650,1650,1650,13 Nov 2015,2015,Nov,13,2015-11-13
-268,Ludhiana,Jagraon,Rice,Other,FAQ,2000,2285,2100,22 Dec 2015,2015,Dec,22,2015-12-22
-269,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1500,2365,2300,08 Dec 2015,2015,Dec,08,2015-12-08
-270,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1625,1700,1700,03 Nov 2015,2015,Nov,03,2015-11-03
-271,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2500,2450,08 Dec 2015,2015,Dec,08,2015-12-08
-272,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,27 Nov 2015,2015,Nov,27,2015-11-27
-273,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1550,2750,2250,30 Nov 2015,2015,Nov,30,2015-11-30
-274,Ludhiana,Jagraon,Rice,Other,FAQ,1450,1450,1450,07 Nov 2015,2015,Nov,07,2015-11-07
-275,Ludhiana,Jagraon,Rice,Other,FAQ,2240,2240,2240,24 Dec 2015,2015,Dec,24,2015-12-24
-276,Ludhiana,Jagraon,Rice,Other,FAQ,2245,2245,2245,23 Dec 2015,2015,Dec,23,2015-12-23
-277,Ludhiana,Jagraon,Rice,Other,FAQ,2250,2250,2250,18 Dec 2015,2015,Dec,18,2015-12-18
-278,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2145,2351,2235,08 Dec 2015,2015,Dec,08,2015-12-08
-279,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2200,2500,2300,04 Dec 2015,2015,Dec,04,2015-12-04
-280,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,14 Nov 2015,2015,Nov,14,2015-11-14
-281,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2050,2330,2285,03 Dec 2015,2015,Dec,03,2015-12-03
-282,Ludhiana,Jagraon,Rice,Other,FAQ,1800,2010,1950,27 Jan 2016,2016,Jan,27,2016-01-27
-283,Ludhiana,Jagraon,Rice,Other,FAQ,1830,2060,1910,26 Jan 2016,2016,Jan,26,2016-01-26
-284,Ludhiana,Jagraon,Rice,Other,FAQ,2110,2110,2110,06 Jan 2016,2016,Jan,06,2016-01-06
-285,Ludhiana,Jagraon,Rice,Other,FAQ,2275,2275,2275,17 Dec 2015,2015,Dec,17,2015-12-17
-286,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1570,1651,1625,04 Nov 2015,2015,Nov,04,2015-11-04
-287,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,1900,2200,2000,23 Dec 2015,2015,Dec,23,2015-12-23
-288,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2055,2460,2371,01 Dec 2015,2015,Dec,01,2015-12-01
-289,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,09 Nov 2015,2015,Nov,09,2015-11-09
-290,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2000,2365,2320,09 Dec 2015,2015,Dec,09,2015-12-09
-291,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1650,1700,1700,09 Nov 2015,2015,Nov,09,2015-11-09
-292,Ludhiana,Jagraon,Rice,Other,FAQ,2060,2060,2060,15 Jan 2016,2016,Jan,15,2016-01-15
-293,Ludhiana,Jagraon,Rice,Other,FAQ,2075,2075,2075,05 Jan 2016,2016,Jan,05,2016-01-05
-294,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,1900,2270,2100,22 Dec 2015,2015,Dec,22,2015-12-22
-295,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2100,2400,2200,02 Dec 2015,2015,Dec,02,2015-12-02
-296,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,19 Nov 2015,2015,Nov,19,2015-11-19
-297,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1960,2310,2250,05 Dec 2015,2015,Dec,05,2015-12-05
-298,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2385,2350,25 Nov 2015,2015,Nov,25,2015-11-25
-299,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2225,2500,2335,12 Dec 2015,2015,Dec,12,2015-12-12
-300,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1600,1740,1650,07 Nov 2015,2015,Nov,07,2015-11-07
-301,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1725,2460,2000,04 Dec 2015,2015,Dec,04,2015-12-04
-302,Ludhiana,Jagraon,Rice,Other,FAQ,1850,2060,1950,23 Jan 2016,2016,Jan,23,2016-01-23
-303,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,4500,21 Nov 2015,2015,Nov,21,2015-11-21
-304,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1400,1800,1600,10 Nov 2015,2015,Nov,10,2015-11-10
-305,Ludhiana,Jagraon,Rice,Other,FAQ,1950,1950,1950,20 Nov 2015,2015,Nov,20,2015-11-20
-306,Ludhiana,Jagraon,Rice,Other,FAQ,2075,2075,2075,02 Jan 2016,2016,Jan,02,2016-01-02
-307,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1950,2150,2065,08 Jan 2016,2016,Jan,08,2016-01-08
-308,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2300,2300,2300,13 Apr 2016,2016,Apr,13,2016-04-13
-309,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1900,2480,2400,27 Nov 2015,2015,Nov,27,2015-11-27
-310,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1985,2330,2265,28 Nov 2015,2015,Nov,28,2015-11-28
-311,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2000,2345,2285,02 Dec 2015,2015,Dec,02,2015-12-02
-312,Barnala,Barnala,Rice,Other,FAQ,1895,1995,1945,21 Jan 2016,2016,Jan,21,2016-01-21
-313,Barnala,Barnala,Rice,Other,FAQ,1995,2065,2030,20 Jan 2016,2016,Jan,20,2016-01-20
-314,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2650,2650,2650,24 Nov 2015,2015,Nov,24,2015-11-24
-315,Ludhiana,Jagraon,Rice,Other,FAQ,2075,2075,2075,18 Jan 2016,2016,Jan,18,2016-01-18
-316,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1600,1665,1631,05 Nov 2015,2015,Nov,05,2015-11-05
-317,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2135,2100,30 Dec 2015,2015,Dec,30,2015-12-30
-318,Ludhiana,Jagraon,Rice,Other,FAQ,1450,2340,2100,21 Nov 2015,2015,Nov,21,2015-11-21
-319,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2000,2200,2100,29 Dec 2015,2015,Dec,29,2015-12-29
-320,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,5000,6000,5500,12 Nov 2015,2015,Nov,12,2015-11-12
-321,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2015,2245,2170,15 Dec 2015,2015,Dec,15,2015-12-15
-322,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2215,2185,29 Dec 2015,2015,Dec,29,2015-12-29
-323,Barnala,Barnala,Rice,Other,FAQ,1725,2050,1887,18 Jan 2016,2016,Jan,18,2016-01-18
-324,Ludhiana,Jagraon,Rice,Other,FAQ,1950,1950,1950,19 Nov 2015,2015,Nov,19,2015-11-19
-325,Ludhiana,Jagraon,Rice,Other,FAQ,2060,2060,2060,04 Jan 2016,2016,Jan,04,2016-01-04
-326,Ludhiana,Jagraon,Rice,Other,FAQ,2495,2495,2495,24 Nov 2015,2015,Nov,24,2015-11-24
-327,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1550,1721,1625,10 Nov 2015,2015,Nov,10,2015-11-10
-328,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1900,2050,1950,21 Jan 2016,2016,Jan,21,2016-01-21
-329,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1925,2200,2165,05 Jan 2016,2016,Jan,05,2016-01-05
-330,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1950,2167,2150,06 Jan 2016,2016,Jan,06,2016-01-06
-331,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2100,2200,2150,24 Dec 2015,2015,Dec,24,2015-12-24
-332,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,13 Nov 2015,2015,Nov,13,2015-11-13
-333,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,20 Nov 2015,2015,Nov,20,2015-11-20
-334,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,5000,7000,6000,17 Nov 2015,2015,Nov,17,2015-11-17
-335,kapurthala,Bhulath,Rice,1009 Kar,FAQ,700,700,700,03 Nov 2023,2023,Nov,03,2023-11-03
-336,Sangrur,Ahmedgarh,Rice,Other,FAQ,2203,2203,2203,05 Oct 2023,2023,Oct,05,2023-10-05
-337,Sangrur,Ahmedgarh,Rice,Other,FAQ,2203,2203,2203,07 Oct 2023,2023,Oct,07,2023-10-07
-338,Sangrur,Ahmedgarh,Rice,Other,FAQ,2203,2203,2203,06 Oct 2023,2023,Oct,06,2023-10-06
-339,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1835,1835,1835,31 Oct 2019,2019,Oct,31,2019-10-31
-340,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2250,2730,2490,06 Nov 2019,2019,Nov,06,2019-11-06
-341,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,3031,3300,3150,30 Oct 2017,2017,Oct,30,2017-10-30
-342,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2880,3290,3100,04 Nov 2017,2017,Nov,04,2017-11-04
-343,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,3236,3236,3236,31 Jul 2018,2018,Jul,31,2018-07-31
-344,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2810,3160,3020,10 Nov 2017,2017,Nov,10,2017-11-10
-345,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2650,3200,3100,12 Nov 2017,2017,Nov,12,2017-11-12
-346,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2650,3200,2825,11 Nov 2017,2017,Nov,11,2017-11-11
-347,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,3050,3090,3065,05 Nov 2017,2017,Nov,05,2017-11-05
-348,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2750,3275,3140,13 Nov 2017,2017,Nov,13,2017-11-13
-349,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,3070,3300,3100,01 Nov 2017,2017,Nov,01,2017-11-01
-350,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2885,3300,3150,03 Nov 2017,2017,Nov,03,2017-11-03
-351,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2741,3320,3250,31 Oct 2017,2017,Oct,31,2017-10-31
-352,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2870,3205,3125,06 Nov 2017,2017,Nov,06,2017-11-06
-353,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2900,3290,3150,02 Nov 2017,2017,Nov,02,2017-11-02
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Ferozpur,Zira,Rice,1009 Kar,FAQ,1500,2200,2000,25 Nov 2020,2020,Nov,25,2020-11-25
+1,1.0,kapurthala,Dhilwan,Rice,Other,FAQ,2000,2000,2000,10 Nov 2016,2016,Nov,10,2016-11-10
+2,2.0,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2300,2200,16 Nov 2016,2016,Nov,16,2016-11-16
+3,3.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2300,2200,11 Nov 2016,2016,Nov,11,2016-11-11
+4,4.0,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2350,2300,18 Nov 2016,2016,Nov,18,2016-11-18
+5,5.0,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2150,2485,2315,19 Nov 2016,2016,Nov,19,2016-11-19
+6,6.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,03 Dec 2016,2016,Dec,3,2016-12-03
+7,7.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,28 Nov 2016,2016,Nov,28,2016-11-28
+8,8.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2300,2200,10 Nov 2016,2016,Nov,10,2016-11-10
+9,9.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,02 Dec 2016,2016,Dec,2,2016-12-02
+10,10.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,04 Dec 2016,2016,Dec,4,2016-12-04
+11,11.0,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2300,2200,14 Nov 2016,2016,Nov,14,2016-11-14
+12,12.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,21 Nov 2016,2016,Nov,21,2016-11-21
+13,13.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2470,2470,2470,06 Dec 2016,2016,Dec,6,2016-12-06
+14,14.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,20 Nov 2016,2016,Nov,20,2016-11-20
+15,15.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2450,2550,2550,05 Dec 2016,2016,Dec,5,2016-12-05
+16,16.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,21 Nov 2016,2016,Nov,21,2016-11-21
+17,17.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2300,2450,2400,19 Dec 2016,2016,Dec,19,2016-12-19
+18,18.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2300,2200,12 Nov 2016,2016,Nov,12,2016-11-12
+19,19.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,30 Nov 2016,2016,Nov,30,2016-11-30
+20,20.0,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2150,2485,2315,20 Nov 2016,2016,Nov,20,2016-11-20
+21,21.0,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2300,2200,17 Nov 2016,2016,Nov,17,2016-11-17
+22,22.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,24 Nov 2016,2016,Nov,24,2016-11-24
+23,23.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,26 Nov 2016,2016,Nov,26,2016-11-26
+24,24.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,29 Nov 2016,2016,Nov,29,2016-11-29
+25,25.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2300,2250,15 Nov 2016,2016,Nov,15,2016-11-15
+26,26.0,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2300,2250,15 Nov 2016,2016,Nov,15,2016-11-15
+27,27.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2450,2450,2450,21 Nov 2016,2016,Nov,21,2016-11-21
+28,28.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2550,2550,2550,02 Dec 2016,2016,Dec,2,2016-12-02
+29,29.0,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2150,2485,2315,21 Nov 2016,2016,Nov,21,2016-11-21
+30,30.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2250,2210,13 Nov 2016,2016,Nov,13,2016-11-13
+31,31.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,30 Nov 2016,2016,Nov,30,2016-11-30
+32,32.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,02 Dec 2016,2016,Dec,2,2016-12-02
+33,33.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,20 Nov 2016,2016,Nov,20,2016-11-20
+34,34.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,23 Nov 2016,2016,Nov,23,2016-11-23
+35,35.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,05 Dec 2016,2016,Dec,5,2016-12-05
+36,36.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,27 Nov 2016,2016,Nov,27,2016-11-27
+37,37.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2100,2400,2250,30 Nov 2016,2016,Nov,30,2016-11-30
+38,38.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,03 Dec 2016,2016,Dec,3,2016-12-03
+39,39.0,Tarntaran,Khem karan,Rice,Basmati Paddy,FAQ,2100,2250,2210,13 Nov 2016,2016,Nov,13,2016-11-13
+40,40.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2150,2485,2315,19 Nov 2016,2016,Nov,19,2016-11-19
+41,41.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2100,2350,2200,14 Nov 2016,2016,Nov,14,2016-11-14
+42,42.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2150,2485,2315,22 Nov 2016,2016,Nov,22,2016-11-22
+43,43.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3550,3175,05 Dec 2018,2018,Dec,5,2018-12-05
+44,44.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2900,3400,3175,14 Nov 2018,2018,Nov,14,2018-11-14
+45,45.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3700,3150,01 Dec 2018,2018,Dec,1,2018-12-01
+46,46.0,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3440,3470,3440,27 Dec 2018,2018,Dec,27,2018-12-27
+47,47.0,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2600,3650,3100,28 Nov 2018,2018,Nov,28,2018-11-28
+48,48.0,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2950,3000,2980,31 Oct 2018,2018,Oct,31,2018-10-31
+49,49.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3550,3175,07 Dec 2018,2018,Dec,7,2018-12-07
+50,50.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3000,3700,3240,28 Nov 2018,2018,Nov,28,2018-11-28
+51,51.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2911,3250,3080,02 Nov 2018,2018,Nov,2,2018-11-02
+52,52.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3105,3700,3327,29 Nov 2018,2018,Nov,29,2018-11-29
+53,53.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3400,3200,14 Nov 2018,2018,Nov,14,2018-11-14
+54,54.0,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2900,3050,2940,30 Oct 2018,2018,Oct,30,2018-10-30
+55,55.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3700,3150,01 Dec 2018,2018,Dec,1,2018-12-01
+56,56.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3500,3150,22 Nov 2018,2018,Nov,22,2018-11-22
+57,57.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3585,3192,29 Nov 2018,2018,Nov,29,2018-11-29
+58,58.0,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3400,3440,3400,28 Dec 2018,2018,Dec,28,2018-12-28
+59,59.0,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3400,3440,3440,26 Dec 2018,2018,Dec,26,2018-12-26
+60,60.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3550,3175,07 Dec 2018,2018,Dec,7,2018-12-07
+61,61.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3700,3250,06 Nov 2018,2018,Nov,6,2018-11-06
+62,62.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3000,3325,3162,06 Nov 2018,2018,Nov,6,2018-11-06
+63,63.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3100,3515,3325,19 Nov 2018,2018,Nov,19,2018-11-19
+64,64.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3400,3100,15 Nov 2018,2018,Nov,15,2018-11-15
+65,65.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3500,3150,19 Nov 2018,2018,Nov,19,2018-11-19
+66,66.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,3100,3550,3325,27 Nov 2018,2018,Nov,27,2018-11-27
+67,67.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,3175,3350,3300,28 Oct 2018,2018,Oct,28,2018-10-28
+68,68.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2900,3600,3187,22 Nov 2018,2018,Nov,22,2018-11-22
+69,69.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3000,3200,3100,09 Nov 2018,2018,Nov,9,2018-11-09
+70,70.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3300,3500,3400,27 Nov 2018,2018,Nov,27,2018-11-27
+71,71.0,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2500,3500,3100,03 Jan 2019,2019,Jan,3,2019-01-03
+72,72.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2800,3500,3150,17 Nov 2018,2018,Nov,17,2018-11-17
+73,73.0,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3000,3479,3450,31 Dec 2018,2018,Dec,31,2018-12-31
+74,74.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,3000,3525,3212,17 Nov 2018,2018,Nov,17,2018-11-17
+75,75.0,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3000,3470,3440,30 Dec 2018,2018,Dec,30,2018-12-30
+76,76.0,Faridkot,Sadiq,Rice,Basmati Paddy,FAQ,3300,3470,3400,29 Dec 2018,2018,Dec,29,2018-12-29
+77,77.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3500,3150,12 Dec 2018,2018,Dec,12,2018-12-12
+78,78.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2950,3450,3222,18 Nov 2018,2018,Nov,18,2018-11-18
+79,79.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2750,3450,3100,16 Nov 2018,2018,Nov,16,2018-11-16
+80,80.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3150,3100,14 Dec 2018,2018,Dec,14,2018-12-14
+81,81.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2800,3400,3100,11 Dec 2018,2018,Dec,11,2018-12-11
+82,82.0,Jalandhar,Jalandhar City,Rice,Basmati Paddy,FAQ,2600,2600,2600,09 Nov 2018,2018,Nov,9,2018-11-09
+83,83.0,Tarntaran,Khem karan,Rice,Basumathi,FAQ,2950,3400,3175,15 Nov 2018,2018,Nov,15,2018-11-15
+84,84.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2170,2918,2800,17 Nov 2014,2014,Nov,17,2014-11-17
+85,85.0,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2640,2550,10 Dec 2014,2014,Dec,10,2014-12-10
+86,86.0,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2700,2550,06 Nov 2014,2014,Nov,6,2014-11-06
+87,87.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2200,2800,2600,01 Nov 2014,2014,Nov,1,2014-11-01
+88,88.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2500,2450,03 Dec 2014,2014,Dec,3,2014-12-03
+89,89.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2200,2910,2650,20 Oct 2014,2014,Oct,20,2014-10-20
+90,90.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2360,2990,2680,03 Nov 2014,2014,Nov,3,2014-11-03
+91,91.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2650,3000,2900,27 Oct 2014,2014,Oct,27,2014-10-27
+92,92.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2100,2750,2625,14 Nov 2014,2014,Nov,14,2014-11-14
+93,93.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2150,2705,2525,27 Nov 2014,2014,Nov,27,2014-11-27
+94,94.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2060,2735,2685,11 Dec 2014,2014,Dec,11,2014-12-11
+95,95.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2740,2680,12 Dec 2014,2014,Dec,12,2014-12-12
+96,96.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2850,2400,25 Nov 2014,2014,Nov,25,2014-11-25
+97,97.0,Ludhiana,Jagraon,Rice,Other,FAQ,2500,2900,2700,20 Nov 2014,2014,Nov,20,2014-11-20
+98,98.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2630,2475,29 Nov 2014,2014,Nov,29,2014-11-29
+99,99.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2225,2925,2825,20 Nov 2014,2014,Nov,20,2014-11-20
+100,100.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2220,2900,2715,13 Nov 2014,2014,Nov,13,2014-11-13
+101,101.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2195,2875,2805,19 Nov 2014,2014,Nov,19,2014-11-19
+102,102.0,Muktsar,Bariwala,Rice,Other,FAQ,2165,2915,2820,10 Nov 2014,2014,Nov,10,2014-11-10
+103,103.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2500,2350,08 Dec 2014,2014,Dec,8,2014-12-08
+104,104.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2880,2450,21 Nov 2014,2014,Nov,21,2014-11-21
+105,105.0,Amritsar,Majitha,Rice,Basmati Paddy,FAQ,1800,2300,2000,20 Sep 2014,2014,Sep,20,2014-09-20
+106,106.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3000,2811,03 Nov 2014,2014,Nov,3,2014-11-03
+107,107.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,2850,2750,21 Nov 2014,2014,Nov,21,2014-11-21
+108,108.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2000,2870,2730,18 Nov 2014,2014,Nov,18,2014-11-18
+109,109.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2200,2425,2350,29 Nov 2014,2014,Nov,29,2014-11-29
+110,110.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2175,2900,2870,20 Nov 2014,2014,Nov,20,2014-11-20
+111,111.0,Ludhiana,Jagraon,Rice,Other,FAQ,2100,2500,2300,15 Dec 2014,2014,Dec,15,2014-12-15
+112,112.0,Ludhiana,Jagraon,Rice,Other,FAQ,2500,2990,2700,14 Nov 2014,2014,Nov,14,2014-11-14
+113,113.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2525,2325,02 Dec 2014,2014,Dec,2,2014-12-02
+114,114.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2211,3015,2850,07 Nov 2014,2014,Nov,7,2014-11-07
+115,115.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2230,2435,2325,30 Sep 2014,2014,Sep,30,2014-09-30
+116,116.0,Ludhiana,Jagraon,Rice,Other,FAQ,2800,3160,3000,15 Nov 2014,2014,Nov,15,2014-11-15
+117,117.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,2830,2750,28 Nov 2014,2014,Nov,28,2014-11-28
+118,118.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2550,2560,2555,18 Oct 2014,2014,Oct,18,2014-10-18
+119,119.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2600,2800,2700,21 Oct 2014,2014,Oct,21,2014-10-21
+120,120.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2135,2670,2525,21 Nov 2014,2014,Nov,21,2014-11-21
+121,121.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2145,2725,2620,24 Nov 2014,2014,Nov,24,2014-11-24
+122,122.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2840,2790,26 Nov 2014,2014,Nov,26,2014-11-26
+123,123.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2600,2400,03 Dec 2014,2014,Dec,3,2014-12-03
+124,124.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2670,2400,19 Oct 2014,2014,Oct,19,2014-10-19
+125,125.0,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2600,2500,16 Dec 2014,2014,Dec,16,2014-12-16
+126,126.0,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2925,2600,01 Nov 2014,2014,Nov,1,2014-11-01
+127,127.0,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3145,3000,17 Nov 2014,2014,Nov,17,2014-11-17
+128,128.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2300,2961,2825,19 Nov 2014,2014,Nov,19,2014-11-19
+129,129.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,11 Oct 2014,2014,Oct,11,2014-10-11
+130,130.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1825,2750,2625,16 Nov 2014,2014,Nov,16,2014-11-16
+131,131.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2100,2485,2350,08 Dec 2014,2014,Dec,8,2014-12-08
+132,132.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2037,2905,2855,11 Nov 2014,2014,Nov,11,2014-11-11
+133,133.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2345,2345,2345,30 Dec 2014,2014,Dec,30,2014-12-30
+134,134.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2700,2680,06 Dec 2014,2014,Dec,6,2014-12-06
+135,135.0,Ludhiana,Jagraon,Rice,Other,FAQ,1900,2100,2000,22 Dec 2014,2014,Dec,22,2014-12-22
+136,136.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2500,2350,12 Dec 2014,2014,Dec,12,2014-12-12
+137,137.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2730,2500,21 Oct 2014,2014,Oct,21,2014-10-21
+138,138.0,Ludhiana,Jagraon,Rice,Other,FAQ,2500,2770,2600,28 Nov 2014,2014,Nov,28,2014-11-28
+139,139.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2810,2750,26 Nov 2014,2014,Nov,26,2014-11-26
+140,140.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2861,2725,17 Nov 2014,2014,Nov,17,2014-11-17
+141,141.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,3011,2850,10 Nov 2014,2014,Nov,10,2014-11-10
+142,142.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2350,3025,2960,04 Nov 2014,2014,Nov,4,2014-11-04
+143,143.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2410,2405,04 Oct 2014,2014,Oct,4,2014-10-04
+144,144.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1960,2405,2215,04 Dec 2014,2014,Dec,4,2014-12-04
+145,145.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2210,2680,2630,05 Dec 2014,2014,Dec,5,2014-12-05
+146,146.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2400,2300,26 Dec 2014,2014,Dec,26,2014-12-26
+147,147.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,3050,2750,10 Nov 2014,2014,Nov,10,2014-11-10
+148,148.0,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2500,2400,18 Dec 2014,2014,Dec,18,2014-12-18
+149,149.0,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2925,2500,31 Oct 2014,2014,Oct,31,2014-10-31
+150,150.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,3050,2850,06 Nov 2014,2014,Nov,6,2014-11-06
+151,151.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,08 Oct 2014,2014,Oct,8,2014-10-08
+152,152.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2150,2725,2605,26 Nov 2014,2014,Nov,26,2014-11-26
+153,153.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2885,2800,14 Nov 2014,2014,Nov,14,2014-11-14
+154,154.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2175,3090,2950,08 Nov 2014,2014,Nov,8,2014-11-08
+155,155.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2830,2780,25 Nov 2014,2014,Nov,25,2014-11-25
+156,156.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2730,2730,2730,13 Dec 2014,2014,Dec,13,2014-12-13
+157,157.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2580,2350,11 Dec 2014,2014,Dec,11,2014-12-11
+158,158.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2605,2450,01 Dec 2014,2014,Dec,1,2014-12-01
+159,159.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2821,2750,27 Nov 2014,2014,Nov,27,2014-11-27
+160,160.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2180,2846,2540,16 Oct 2014,2014,Oct,16,2014-10-16
+161,161.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2250,3065,2950,10 Nov 2014,2014,Nov,10,2014-11-10
+162,162.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2410,2405,05 Oct 2014,2014,Oct,5,2014-10-05
+163,163.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,10 Oct 2014,2014,Oct,10,2014-10-10
+164,164.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2060,2750,2630,20 Nov 2014,2014,Nov,20,2014-11-20
+165,165.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1950,2615,2580,02 Dec 2014,2014,Dec,2,2014-12-02
+166,166.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2680,2640,28 Nov 2014,2014,Nov,28,2014-11-28
+167,167.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2220,2680,2640,27 Nov 2014,2014,Nov,27,2014-11-27
+168,168.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2585,2520,24 Dec 2014,2014,Dec,24,2014-12-24
+169,169.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2675,2645,09 Dec 2014,2014,Dec,9,2014-12-09
+170,170.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2595,2595,2595,15 Dec 2014,2014,Dec,15,2014-12-15
+171,171.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2880,2450,22 Oct 2014,2014,Oct,22,2014-10-22
+172,172.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2905,2600,27 Oct 2014,2014,Oct,27,2014-10-27
+173,173.0,Ludhiana,Jagraon,Rice,Other,FAQ,2235,2815,2500,28 Oct 2014,2014,Oct,28,2014-10-28
+174,174.0,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3050,2800,19 Nov 2014,2014,Nov,19,2014-11-19
+175,175.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2420,2460,2435,13 Oct 2014,2014,Oct,13,2014-10-13
+176,176.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2700,2800,2750,22 Oct 2014,2014,Oct,22,2014-10-22
+177,177.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2000,2350,2210,02 Dec 2014,2014,Dec,2,2014-12-02
+178,178.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2040,2751,2500,22 Nov 2014,2014,Nov,22,2014-11-22
+179,179.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2060,2750,2630,19 Nov 2014,2014,Nov,19,2014-11-19
+180,180.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2080,2300,2185,07 Jan 2015,2015,Jan,7,2015-01-07
+181,181.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2460,2670,2510,10 Dec 2014,2014,Dec,10,2014-12-10
+182,182.0,Amritsar,Majitha,Rice,Basmati Paddy,FAQ,1900,2250,2100,19 Sep 2014,2014,Sep,19,2014-09-19
+183,183.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3021,2750,04 Nov 2014,2014,Nov,4,2014-11-04
+184,184.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2060,2400,2250,01 Dec 2014,2014,Dec,1,2014-12-01
+185,185.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2325,2550,2450,28 Nov 2014,2014,Nov,28,2014-11-28
+186,186.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2450,2510,2510,25 Dec 2014,2014,Dec,25,2014-12-25
+187,187.0,Ludhiana,Jagraon,Rice,Other,FAQ,2280,2980,2580,02 Nov 2014,2014,Nov,2,2014-11-02
+188,188.0,Faridkot,Jaitu,Rice,Basmati Paddy,FAQ,2251,2620,2600,26 Sep 2014,2014,Sep,26,2014-09-26
+189,189.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2200,2971,2300,28 Oct 2014,2014,Oct,28,2014-10-28
+190,190.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2235,2911,2825,18 Nov 2014,2014,Nov,18,2014-11-18
+191,191.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1650,2498,2350,09 Dec 2014,2014,Dec,9,2014-12-09
+192,192.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1850,2535,2271,12 Dec 2014,2014,Dec,12,2014-12-12
+193,193.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2100,2700,2570,25 Nov 2014,2014,Nov,25,2014-11-25
+194,194.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1950,2610,2550,19 Dec 2014,2014,Dec,19,2014-12-19
+195,195.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1970,2690,2640,04 Dec 2014,2014,Dec,4,2014-12-04
+196,196.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2635,2550,20 Dec 2014,2014,Dec,20,2014-12-20
+197,197.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2150,2885,2800,13 Nov 2014,2014,Nov,13,2014-11-13
+198,198.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2640,2600,17 Dec 2014,2014,Dec,17,2014-12-17
+199,199.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2550,2640,2550,22 Dec 2014,2014,Dec,22,2014-12-22
+200,200.0,Ludhiana,Jagraon,Rice,Other,FAQ,2450,2770,2650,04 Nov 2014,2014,Nov,4,2014-11-04
+201,201.0,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3000,2800,13 Nov 2014,2014,Nov,13,2014-11-13
+202,202.0,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3055,2800,18 Nov 2014,2014,Nov,18,2014-11-18
+203,203.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2160,2378,2345,29 Sep 2014,2014,Sep,29,2014-09-29
+204,204.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1950,2450,2320,05 Dec 2014,2014,Dec,5,2014-12-05
+205,205.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2780,2700,21 Nov 2014,2014,Nov,21,2014-11-21
+206,206.0,Ludhiana,Jagraon,Rice,Other,FAQ,2000,2400,2200,19 Dec 2014,2014,Dec,19,2014-12-19
+207,207.0,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2500,2400,23 Dec 2014,2014,Dec,23,2014-12-23
+208,208.0,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2855,2600,27 Nov 2014,2014,Nov,27,2014-11-27
+209,209.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2350,2400,2375,03 Oct 2014,2014,Oct,3,2014-10-03
+210,210.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2450,2410,15 Oct 2014,2014,Oct,15,2014-10-15
+211,211.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2410,07 Oct 2014,2014,Oct,7,2014-10-07
+212,212.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2460,2430,09 Oct 2014,2014,Oct,9,2014-10-09
+213,213.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2550,2560,2555,19 Oct 2014,2014,Oct,19,2014-10-19
+214,214.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2205,2400,2360,22 Dec 2014,2014,Dec,22,2014-12-22
+215,215.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2110,2640,2600,01 Dec 2014,2014,Dec,1,2014-12-01
+216,216.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2240,2950,2870,18 Nov 2014,2014,Nov,18,2014-11-18
+217,217.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2585,2500,23 Dec 2014,2014,Dec,23,2014-12-23
+218,218.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2625,2580,16 Dec 2014,2014,Dec,16,2014-12-16
+219,219.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2680,2600,18 Dec 2014,2014,Dec,18,2014-12-18
+220,220.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2600,2400,02 Dec 2014,2014,Dec,2,2014-12-02
+221,221.0,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2550,2400,24 Dec 2014,2014,Dec,24,2014-12-24
+222,222.0,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2875,2600,11 Nov 2014,2014,Nov,11,2014-11-11
+223,223.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2850,2725,14 Nov 2014,2014,Nov,14,2014-11-14
+224,224.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3010,2850,13 Nov 2014,2014,Nov,13,2014-11-13
+225,225.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2230,2510,2410,01 Oct 2014,2014,Oct,1,2014-10-01
+226,226.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2410,06 Oct 2014,2014,Oct,6,2014-10-06
+227,227.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,14 Oct 2014,2014,Oct,14,2014-10-14
+228,228.0,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1851,2775,2625,15 Nov 2014,2014,Nov,15,2014-11-15
+229,229.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2680,2600,03 Dec 2014,2014,Dec,3,2014-12-03
+230,230.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2770,2400,17 Oct 2014,2014,Oct,17,2014-10-17
+231,231.0,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2910,2400,25 Oct 2014,2014,Oct,25,2014-10-25
+232,232.0,Ludhiana,Jagraon,Rice,Other,FAQ,2450,2695,2580,09 Dec 2014,2014,Dec,9,2014-12-09
+233,233.0,Faridkot,Jaitu,Rice,Basmati Paddy,FAQ,2325,2600,2400,27 Sep 2014,2014,Sep,27,2014-09-27
+234,234.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3000,2850,05 Nov 2014,2014,Nov,5,2014-11-05
+235,235.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,2910,2550,25 Nov 2014,2014,Nov,25,2014-11-25
+236,236.0,Ferozpur,Zira,Rice,1009 Kar,FAQ,100,300,200,11 Jul 2023,2023,Jul,11,2023-07-11
+237,237.0,Fazilka,Abohar,Rice,Other,FAQ,1450,1450,1450,03 Oct 2015,2015,Oct,3,2015-10-03
+238,238.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2000,2235,2145,24 Dec 2015,2015,Dec,24,2015-12-24
+239,239.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2130,2225,2175,25 Dec 2015,2015,Dec,25,2015-12-25
+240,240.0,Ludhiana,Jagraon,Rice,Other,FAQ,1860,2050,1950,22 Jan 2016,2016,Jan,22,2016-01-22
+241,241.0,Ludhiana,Jagraon,Rice,Other,FAQ,2105,2105,2105,21 Dec 2015,2015,Dec,21,2015-12-21
+242,242.0,Fazilka,Abohar,Rice,Other,FAQ,1450,1450,1450,02 Oct 2015,2015,Oct,2,2015-10-02
+243,243.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1575,2230,2150,14 Dec 2015,2015,Dec,14,2015-12-14
+244,244.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2075,2231,2150,04 Jan 2016,2016,Jan,4,2016-01-04
+245,245.0,Muktsar,Malout,Rice,Other,FAQ,1621,2145,1950,19 Nov 2015,2015,Nov,19,2015-11-19
+246,246.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2205,2400,2335,11 Dec 2015,2015,Dec,11,2015-12-11
+247,247.0,Barnala,Barnala,Rice,Other,FAQ,1600,1955,1777,22 Jan 2016,2016,Jan,22,2016-01-22
+248,248.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1570,1671,1631,06 Nov 2015,2015,Nov,6,2015-11-06
+249,249.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1850,2361,2200,20 Nov 2015,2015,Nov,20,2015-11-20
+250,250.0,Muktsar,Malout,Rice,Other,FAQ,1550,1671,1631,09 Nov 2015,2015,Nov,9,2015-11-09
+251,251.0,Fazilka,Abohar,Rice,Other,FAQ,1450,1450,1450,04 Oct 2015,2015,Oct,4,2015-10-04
+252,252.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1400,1950,1750,23 Nov 2015,2015,Nov,23,2015-11-23
+253,253.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1550,1721,1600,04 Nov 2015,2015,Nov,4,2015-11-04
+254,254.0,Ludhiana,Jagraon,Rice,Other,FAQ,2075,2075,2075,31 Dec 2015,2015,Dec,31,2015-12-31
+255,255.0,Ludhiana,Jagraon,Rice,Other,FAQ,2545,2545,2545,27 Nov 2015,2015,Nov,27,2015-11-27
+256,256.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2000,2320,2200,08 Apr 2016,2016,Apr,8,2016-04-08
+257,257.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1575,2230,2150,16 Dec 2015,2015,Dec,16,2015-12-16
+258,258.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2000,2260,2125,13 Dec 2015,2015,Dec,13,2015-12-13
+259,259.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2150,2305,2250,04 Dec 2015,2015,Dec,4,2015-12-04
+260,260.0,Barnala,Barnala,Rice,Other,FAQ,1600,1600,1600,04 Feb 2016,2016,Feb,4,2016-02-04
+261,261.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2550,2600,2600,08 Dec 2015,2015,Dec,8,2015-12-08
+262,262.0,Ludhiana,Jagraon,Rice,Other,FAQ,2395,2395,2395,04 Dec 2015,2015,Dec,4,2015-12-04
+263,263.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2600,2450,10 Dec 2015,2015,Dec,10,2015-12-10
+264,264.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1870,2305,2255,24 Nov 2015,2015,Nov,24,2015-11-24
+265,265.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2235,2175,17 Dec 2015,2015,Dec,17,2015-12-17
+266,266.0,Barnala,Barnala,Rice,Other,FAQ,1750,1750,1750,29 Jan 2016,2016,Jan,29,2016-01-29
+267,267.0,Ludhiana,Jagraon,Rice,Other,FAQ,1650,1650,1650,13 Nov 2015,2015,Nov,13,2015-11-13
+268,268.0,Ludhiana,Jagraon,Rice,Other,FAQ,2000,2285,2100,22 Dec 2015,2015,Dec,22,2015-12-22
+269,269.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1500,2365,2300,08 Dec 2015,2015,Dec,8,2015-12-08
+270,270.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1625,1700,1700,03 Nov 2015,2015,Nov,3,2015-11-03
+271,271.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2500,2450,08 Dec 2015,2015,Dec,8,2015-12-08
+272,272.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,27 Nov 2015,2015,Nov,27,2015-11-27
+273,273.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1550,2750,2250,30 Nov 2015,2015,Nov,30,2015-11-30
+274,274.0,Ludhiana,Jagraon,Rice,Other,FAQ,1450,1450,1450,07 Nov 2015,2015,Nov,7,2015-11-07
+275,275.0,Ludhiana,Jagraon,Rice,Other,FAQ,2240,2240,2240,24 Dec 2015,2015,Dec,24,2015-12-24
+276,276.0,Ludhiana,Jagraon,Rice,Other,FAQ,2245,2245,2245,23 Dec 2015,2015,Dec,23,2015-12-23
+277,277.0,Ludhiana,Jagraon,Rice,Other,FAQ,2250,2250,2250,18 Dec 2015,2015,Dec,18,2015-12-18
+278,278.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2145,2351,2235,08 Dec 2015,2015,Dec,8,2015-12-08
+279,279.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2200,2500,2300,04 Dec 2015,2015,Dec,4,2015-12-04
+280,280.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,14 Nov 2015,2015,Nov,14,2015-11-14
+281,281.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2050,2330,2285,03 Dec 2015,2015,Dec,3,2015-12-03
+282,282.0,Ludhiana,Jagraon,Rice,Other,FAQ,1800,2010,1950,27 Jan 2016,2016,Jan,27,2016-01-27
+283,283.0,Ludhiana,Jagraon,Rice,Other,FAQ,1830,2060,1910,26 Jan 2016,2016,Jan,26,2016-01-26
+284,284.0,Ludhiana,Jagraon,Rice,Other,FAQ,2110,2110,2110,06 Jan 2016,2016,Jan,6,2016-01-06
+285,285.0,Ludhiana,Jagraon,Rice,Other,FAQ,2275,2275,2275,17 Dec 2015,2015,Dec,17,2015-12-17
+286,286.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1570,1651,1625,04 Nov 2015,2015,Nov,4,2015-11-04
+287,287.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,1900,2200,2000,23 Dec 2015,2015,Dec,23,2015-12-23
+288,288.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2055,2460,2371,01 Dec 2015,2015,Dec,1,2015-12-01
+289,289.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,09 Nov 2015,2015,Nov,9,2015-11-09
+290,290.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2000,2365,2320,09 Dec 2015,2015,Dec,9,2015-12-09
+291,291.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1650,1700,1700,09 Nov 2015,2015,Nov,9,2015-11-09
+292,292.0,Ludhiana,Jagraon,Rice,Other,FAQ,2060,2060,2060,15 Jan 2016,2016,Jan,15,2016-01-15
+293,293.0,Ludhiana,Jagraon,Rice,Other,FAQ,2075,2075,2075,05 Jan 2016,2016,Jan,5,2016-01-05
+294,294.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,1900,2270,2100,22 Dec 2015,2015,Dec,22,2015-12-22
+295,295.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2100,2400,2200,02 Dec 2015,2015,Dec,2,2015-12-02
+296,296.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,19 Nov 2015,2015,Nov,19,2015-11-19
+297,297.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1960,2310,2250,05 Dec 2015,2015,Dec,5,2015-12-05
+298,298.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2385,2350,25 Nov 2015,2015,Nov,25,2015-11-25
+299,299.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2225,2500,2335,12 Dec 2015,2015,Dec,12,2015-12-12
+300,300.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1600,1740,1650,07 Nov 2015,2015,Nov,7,2015-11-07
+301,301.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1725,2460,2000,04 Dec 2015,2015,Dec,4,2015-12-04
+302,302.0,Ludhiana,Jagraon,Rice,Other,FAQ,1850,2060,1950,23 Jan 2016,2016,Jan,23,2016-01-23
+303,303.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,4500,21 Nov 2015,2015,Nov,21,2015-11-21
+304,304.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1400,1800,1600,10 Nov 2015,2015,Nov,10,2015-11-10
+305,305.0,Ludhiana,Jagraon,Rice,Other,FAQ,1950,1950,1950,20 Nov 2015,2015,Nov,20,2015-11-20
+306,306.0,Ludhiana,Jagraon,Rice,Other,FAQ,2075,2075,2075,02 Jan 2016,2016,Jan,2,2016-01-02
+307,307.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1950,2150,2065,08 Jan 2016,2016,Jan,8,2016-01-08
+308,308.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2300,2300,2300,13 Apr 2016,2016,Apr,13,2016-04-13
+309,309.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1900,2480,2400,27 Nov 2015,2015,Nov,27,2015-11-27
+310,310.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1985,2330,2265,28 Nov 2015,2015,Nov,28,2015-11-28
+311,311.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2000,2345,2285,02 Dec 2015,2015,Dec,2,2015-12-02
+312,312.0,Barnala,Barnala,Rice,Other,FAQ,1895,1995,1945,21 Jan 2016,2016,Jan,21,2016-01-21
+313,313.0,Barnala,Barnala,Rice,Other,FAQ,1995,2065,2030,20 Jan 2016,2016,Jan,20,2016-01-20
+314,314.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,2650,2650,2650,24 Nov 2015,2015,Nov,24,2015-11-24
+315,315.0,Ludhiana,Jagraon,Rice,Other,FAQ,2075,2075,2075,18 Jan 2016,2016,Jan,18,2016-01-18
+316,316.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1600,1665,1631,05 Nov 2015,2015,Nov,5,2015-11-05
+317,317.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2135,2100,30 Dec 2015,2015,Dec,30,2015-12-30
+318,318.0,Ludhiana,Jagraon,Rice,Other,FAQ,1450,2340,2100,21 Nov 2015,2015,Nov,21,2015-11-21
+319,319.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2000,2200,2100,29 Dec 2015,2015,Dec,29,2015-12-29
+320,320.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,5000,6000,5500,12 Nov 2015,2015,Nov,12,2015-11-12
+321,321.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2015,2245,2170,15 Dec 2015,2015,Dec,15,2015-12-15
+322,322.0,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2215,2185,29 Dec 2015,2015,Dec,29,2015-12-29
+323,323.0,Barnala,Barnala,Rice,Other,FAQ,1725,2050,1887,18 Jan 2016,2016,Jan,18,2016-01-18
+324,324.0,Ludhiana,Jagraon,Rice,Other,FAQ,1950,1950,1950,19 Nov 2015,2015,Nov,19,2015-11-19
+325,325.0,Ludhiana,Jagraon,Rice,Other,FAQ,2060,2060,2060,04 Jan 2016,2016,Jan,4,2016-01-04
+326,326.0,Ludhiana,Jagraon,Rice,Other,FAQ,2495,2495,2495,24 Nov 2015,2015,Nov,24,2015-11-24
+327,327.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1550,1721,1625,10 Nov 2015,2015,Nov,10,2015-11-10
+328,328.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1900,2050,1950,21 Jan 2016,2016,Jan,21,2016-01-21
+329,329.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1925,2200,2165,05 Jan 2016,2016,Jan,5,2016-01-05
+330,330.0,Muktsar,Malout,Rice,Basmati Paddy,FAQ,1950,2167,2150,06 Jan 2016,2016,Jan,6,2016-01-06
+331,331.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2100,2200,2150,24 Dec 2015,2015,Dec,24,2015-12-24
+332,332.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,13 Nov 2015,2015,Nov,13,2015-11-13
+333,333.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,4000,6000,5000,20 Nov 2015,2015,Nov,20,2015-11-20
+334,334.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,5000,7000,6000,17 Nov 2015,2015,Nov,17,2015-11-17
+335,335.0,kapurthala,Bhulath,Rice,1009 Kar,FAQ,700,700,700,03 Nov 2023,2023,Nov,3,2023-11-03
+336,336.0,Sangrur,Ahmedgarh,Rice,Other,FAQ,2203,2203,2203,05 Oct 2023,2023,Oct,5,2023-10-05
+337,337.0,Sangrur,Ahmedgarh,Rice,Other,FAQ,2203,2203,2203,07 Oct 2023,2023,Oct,7,2023-10-07
+338,338.0,Sangrur,Ahmedgarh,Rice,Other,FAQ,2203,2203,2203,06 Oct 2023,2023,Oct,6,2023-10-06
+339,339.0,kapurthala,Dhilwan,Rice,Basmati Paddy,FAQ,1835,1835,1835,31 Oct 2019,2019,Oct,31,2019-10-31
+340,340.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,2250,2730,2490,06 Nov 2019,2019,Nov,6,2019-11-06
+341,341.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,3031,3300,3150,30 Oct 2017,2017,Oct,30,2017-10-30
+342,342.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2880,3290,3100,04 Nov 2017,2017,Nov,4,2017-11-04
+343,343.0,Tarntaran,Khemkaran (Amarkot),Rice,Basumathi,FAQ,3236,3236,3236,31 Jul 2018,2018,Jul,31,2018-07-31
+344,344.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2810,3160,3020,10 Nov 2017,2017,Nov,10,2017-11-10
+345,345.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2650,3200,3100,12 Nov 2017,2017,Nov,12,2017-11-12
+346,346.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2650,3200,2825,11 Nov 2017,2017,Nov,11,2017-11-11
+347,347.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,3050,3090,3065,05 Nov 2017,2017,Nov,5,2017-11-05
+348,348.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2750,3275,3140,13 Nov 2017,2017,Nov,13,2017-11-13
+349,349.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,3070,3300,3100,01 Nov 2017,2017,Nov,1,2017-11-01
+350,350.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2885,3300,3150,03 Nov 2017,2017,Nov,3,2017-11-03
+351,351.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2741,3320,3250,31 Oct 2017,2017,Oct,31,2017-10-31
+352,352.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2870,3205,3125,06 Nov 2017,2017,Nov,6,2017-11-06
+353,353.0,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2900,3290,3150,02 Nov 2017,2017,Nov,2,2017-11-02
+354,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2170,2918,2800,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
+355,,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2640,2550,10 Dec 2014,2014,Dec,10,2014-12-10 00:00:00
+356,,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2700,2550,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
+357,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2200,2800,2600,01 Nov 2014,2014,Nov,01,2014-11-01 00:00:00
+358,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2500,2450,03 Dec 2014,2014,Dec,03,2014-12-03 00:00:00
+359,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2200,2910,2650,20 Oct 2014,2014,Oct,20,2014-10-20 00:00:00
+360,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2360,2990,2680,03 Nov 2014,2014,Nov,03,2014-11-03 00:00:00
+361,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2650,3000,2900,27 Oct 2014,2014,Oct,27,2014-10-27 00:00:00
+362,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2100,2750,2625,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
+363,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2150,2705,2525,27 Nov 2014,2014,Nov,27,2014-11-27 00:00:00
+364,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2060,2735,2685,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
+365,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2740,2680,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
+366,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2850,2400,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00
+367,,Ludhiana,Jagraon,Rice,Other,FAQ,2500,2900,2700,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
+368,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2630,2475,29 Nov 2014,2014,Nov,29,2014-11-29 00:00:00
+369,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2225,2925,2825,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
+370,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2220,2900,2715,13 Nov 2014,2014,Nov,13,2014-11-13 00:00:00
+371,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2195,2875,2805,19 Nov 2014,2014,Nov,19,2014-11-19 00:00:00
+372,,Muktsar,Bariwala,Rice,Other,FAQ,2165,2915,2820,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
+373,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2500,2350,08 Dec 2014,2014,Dec,08,2014-12-08 00:00:00
+374,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2880,2450,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
+375,,Amritsar,Majitha,Rice,Basmati Paddy,FAQ,1800,2300,2000,20 Sep 2014,2014,Sep,20,2014-09-20 00:00:00
+376,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3000,2811,03 Nov 2014,2014,Nov,03,2014-11-03 00:00:00
+377,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,2850,2750,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
+378,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2000,2870,2730,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
+379,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2200,2425,2350,29 Nov 2014,2014,Nov,29,2014-11-29 00:00:00
+380,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2175,2900,2870,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
+381,,Ludhiana,Jagraon,Rice,Other,FAQ,2100,2500,2300,15 Dec 2014,2014,Dec,15,2014-12-15 00:00:00
+382,,Ludhiana,Jagraon,Rice,Other,FAQ,2500,2990,2700,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
+383,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2525,2325,02 Dec 2014,2014,Dec,02,2014-12-02 00:00:00
+384,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2211,3015,2850,07 Nov 2014,2014,Nov,07,2014-11-07 00:00:00
+385,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2230,2435,2325,30 Sep 2014,2014,Sep,30,2014-09-30 00:00:00
+386,,Ludhiana,Jagraon,Rice,Other,FAQ,2800,3160,3000,15 Nov 2014,2014,Nov,15,2014-11-15 00:00:00
+387,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,2830,2750,28 Nov 2014,2014,Nov,28,2014-11-28 00:00:00
+388,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2550,2560,2555,18 Oct 2014,2014,Oct,18,2014-10-18 00:00:00
+389,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2600,2800,2700,21 Oct 2014,2014,Oct,21,2014-10-21 00:00:00
+390,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2135,2670,2525,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
+391,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2145,2725,2620,24 Nov 2014,2014,Nov,24,2014-11-24 00:00:00
+392,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2840,2790,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
+393,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2600,2400,03 Dec 2014,2014,Dec,03,2014-12-03 00:00:00
+394,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2670,2400,19 Oct 2014,2014,Oct,19,2014-10-19 00:00:00
+395,,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2600,2500,16 Dec 2014,2014,Dec,16,2014-12-16 00:00:00
+396,,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2925,2600,01 Nov 2014,2014,Nov,01,2014-11-01 00:00:00
+397,,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3145,3000,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
+398,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2300,2961,2825,19 Nov 2014,2014,Nov,19,2014-11-19 00:00:00
+399,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,11 Oct 2014,2014,Oct,11,2014-10-11 00:00:00
+400,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1825,2750,2625,16 Nov 2014,2014,Nov,16,2014-11-16 00:00:00
+401,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2100,2485,2350,08 Dec 2014,2014,Dec,08,2014-12-08 00:00:00
+402,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2037,2905,2855,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
+403,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2345,2345,2345,30 Dec 2014,2014,Dec,30,2014-12-30 00:00:00
+404,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2700,2680,06 Dec 2014,2014,Dec,06,2014-12-06 00:00:00
+405,,Ludhiana,Jagraon,Rice,Other,FAQ,1900,2100,2000,22 Dec 2014,2014,Dec,22,2014-12-22 00:00:00
+406,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2500,2350,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
+407,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2730,2500,21 Oct 2014,2014,Oct,21,2014-10-21 00:00:00
+408,,Ludhiana,Jagraon,Rice,Other,FAQ,2500,2770,2600,28 Nov 2014,2014,Nov,28,2014-11-28 00:00:00
+409,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2810,2750,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
+410,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2861,2725,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
+411,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,3011,2850,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
+412,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2350,3025,2960,04 Nov 2014,2014,Nov,04,2014-11-04 00:00:00
+413,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2410,2405,04 Oct 2014,2014,Oct,04,2014-10-04 00:00:00
+414,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1960,2405,2215,04 Dec 2014,2014,Dec,04,2014-12-04 00:00:00
+415,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2210,2680,2630,05 Dec 2014,2014,Dec,05,2014-12-05 00:00:00
+416,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2400,2300,26 Dec 2014,2014,Dec,26,2014-12-26 00:00:00
+417,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,3050,2750,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
+418,,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2500,2400,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
+419,,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2925,2500,31 Oct 2014,2014,Oct,31,2014-10-31 00:00:00
+420,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,3050,2850,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
+421,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,08 Oct 2014,2014,Oct,08,2014-10-08 00:00:00
+422,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2150,2725,2605,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
+423,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2885,2800,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
+424,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2175,3090,2950,08 Nov 2014,2014,Nov,08,2014-11-08 00:00:00
+425,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2830,2780,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00
+426,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2730,2730,2730,13 Dec 2014,2014,Dec,13,2014-12-13 00:00:00
+427,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2580,2350,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
+428,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2205,2605,2450,01 Dec 2014,2014,Dec,01,2014-12-01 00:00:00
+429,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2821,2750,27 Nov 2014,2014,Nov,27,2014-11-27 00:00:00
+430,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2180,2846,2540,16 Oct 2014,2014,Oct,16,2014-10-16 00:00:00
+431,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2250,3065,2950,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
+432,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2410,2405,05 Oct 2014,2014,Oct,05,2014-10-05 00:00:00
+433,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,10 Oct 2014,2014,Oct,10,2014-10-10 00:00:00
+434,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2060,2750,2630,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
+435,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1950,2615,2580,02 Dec 2014,2014,Dec,02,2014-12-02 00:00:00
+436,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2680,2640,28 Nov 2014,2014,Nov,28,2014-11-28 00:00:00
+437,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2220,2680,2640,27 Nov 2014,2014,Nov,27,2014-11-27 00:00:00
+438,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2585,2520,24 Dec 2014,2014,Dec,24,2014-12-24 00:00:00
+439,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2675,2645,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
+440,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2595,2595,2595,15 Dec 2014,2014,Dec,15,2014-12-15 00:00:00
+441,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2880,2450,22 Oct 2014,2014,Oct,22,2014-10-22 00:00:00
+442,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2905,2600,27 Oct 2014,2014,Oct,27,2014-10-27 00:00:00
+443,,Ludhiana,Jagraon,Rice,Other,FAQ,2235,2815,2500,28 Oct 2014,2014,Oct,28,2014-10-28 00:00:00
+444,,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3050,2800,19 Nov 2014,2014,Nov,19,2014-11-19 00:00:00
+445,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2420,2460,2435,13 Oct 2014,2014,Oct,13,2014-10-13 00:00:00
+446,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2700,2800,2750,22 Oct 2014,2014,Oct,22,2014-10-22 00:00:00
+447,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2000,2350,2210,02 Dec 2014,2014,Dec,02,2014-12-02 00:00:00
+448,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2040,2751,2500,22 Nov 2014,2014,Nov,22,2014-11-22 00:00:00
+449,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2060,2750,2630,19 Nov 2014,2014,Nov,19,2014-11-19 00:00:00
+450,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2080,2300,2185,07 Jan 2015,2015,Jan,07,2015-01-07 00:00:00
+451,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2460,2670,2510,10 Dec 2014,2014,Dec,10,2014-12-10 00:00:00
+452,,Amritsar,Majitha,Rice,Basmati Paddy,FAQ,1900,2250,2100,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
+453,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3021,2750,04 Nov 2014,2014,Nov,04,2014-11-04 00:00:00
+454,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2060,2400,2250,01 Dec 2014,2014,Dec,01,2014-12-01 00:00:00
+455,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2325,2550,2450,28 Nov 2014,2014,Nov,28,2014-11-28 00:00:00
+456,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2450,2510,2510,25 Dec 2014,2014,Dec,25,2014-12-25 00:00:00
+457,,Ludhiana,Jagraon,Rice,Other,FAQ,2280,2980,2580,02 Nov 2014,2014,Nov,02,2014-11-02 00:00:00
+458,,Faridkot,Jaitu,Rice,Basmati Paddy,FAQ,2251,2620,2600,26 Sep 2014,2014,Sep,26,2014-09-26 00:00:00
+459,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2200,2971,2300,28 Oct 2014,2014,Oct,28,2014-10-28 00:00:00
+460,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2235,2911,2825,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
+461,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1650,2498,2350,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
+462,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1850,2535,2271,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
+463,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2100,2700,2570,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00
+464,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1950,2610,2550,19 Dec 2014,2014,Dec,19,2014-12-19 00:00:00
+465,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,1970,2690,2640,04 Dec 2014,2014,Dec,04,2014-12-04 00:00:00
+466,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2100,2635,2550,20 Dec 2014,2014,Dec,20,2014-12-20 00:00:00
+467,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2150,2885,2800,13 Nov 2014,2014,Nov,13,2014-11-13 00:00:00
+468,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2640,2600,17 Dec 2014,2014,Dec,17,2014-12-17 00:00:00
+469,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2550,2640,2550,22 Dec 2014,2014,Dec,22,2014-12-22 00:00:00
+470,,Ludhiana,Jagraon,Rice,Other,FAQ,2450,2770,2650,04 Nov 2014,2014,Nov,04,2014-11-04 00:00:00
+471,,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3000,2800,13 Nov 2014,2014,Nov,13,2014-11-13 00:00:00
+472,,Ludhiana,Jagraon,Rice,Other,FAQ,2600,3055,2800,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
+473,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2160,2378,2345,29 Sep 2014,2014,Sep,29,2014-09-29 00:00:00
+474,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1950,2450,2320,05 Dec 2014,2014,Dec,05,2014-12-05 00:00:00
+475,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2200,2780,2700,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
+476,,Ludhiana,Jagraon,Rice,Other,FAQ,2000,2400,2200,19 Dec 2014,2014,Dec,19,2014-12-19 00:00:00
+477,,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2500,2400,23 Dec 2014,2014,Dec,23,2014-12-23 00:00:00
+478,,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2855,2600,27 Nov 2014,2014,Nov,27,2014-11-27 00:00:00
+479,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2350,2400,2375,03 Oct 2014,2014,Oct,03,2014-10-03 00:00:00
+480,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2400,2450,2410,15 Oct 2014,2014,Oct,15,2014-10-15 00:00:00
+481,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2410,07 Oct 2014,2014,Oct,07,2014-10-07 00:00:00
+482,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2460,2430,09 Oct 2014,2014,Oct,09,2014-10-09 00:00:00
+483,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2550,2560,2555,19 Oct 2014,2014,Oct,19,2014-10-19 00:00:00
+484,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,2205,2400,2360,22 Dec 2014,2014,Dec,22,2014-12-22 00:00:00
+485,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2110,2640,2600,01 Dec 2014,2014,Dec,01,2014-12-01 00:00:00
+486,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2240,2950,2870,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
+487,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2585,2500,23 Dec 2014,2014,Dec,23,2014-12-23 00:00:00
+488,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2625,2580,16 Dec 2014,2014,Dec,16,2014-12-16 00:00:00
+489,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2680,2600,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
+490,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2600,2400,02 Dec 2014,2014,Dec,02,2014-12-02 00:00:00
+491,,Ludhiana,Jagraon,Rice,Other,FAQ,2300,2550,2400,24 Dec 2014,2014,Dec,24,2014-12-24 00:00:00
+492,,Ludhiana,Jagraon,Rice,Other,FAQ,2400,2875,2600,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
+493,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,2850,2725,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
+494,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3010,2850,13 Nov 2014,2014,Nov,13,2014-11-13 00:00:00
+495,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2230,2510,2410,01 Oct 2014,2014,Oct,01,2014-10-01 00:00:00
+496,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2410,06 Oct 2014,2014,Oct,06,2014-10-06 00:00:00
+497,,Muktsar,Muktsar,Rice,Basmati Paddy,FAQ,2410,2450,2430,14 Oct 2014,2014,Oct,14,2014-10-14 00:00:00
+498,,Fazilka,Abohar,Rice,Basmati Paddy,FAQ,1851,2775,2625,15 Nov 2014,2014,Nov,15,2014-11-15 00:00:00
+499,,Muktsar,Bariwala,Rice,Basmati Paddy,FAQ,2400,2680,2600,03 Dec 2014,2014,Dec,03,2014-12-03 00:00:00
+500,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2770,2400,17 Oct 2014,2014,Oct,17,2014-10-17 00:00:00
+501,,Ludhiana,Jagraon,Rice,Other,FAQ,2200,2910,2400,25 Oct 2014,2014,Oct,25,2014-10-25 00:00:00
+502,,Ludhiana,Jagraon,Rice,Other,FAQ,2450,2695,2580,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
+503,,Faridkot,Jaitu,Rice,Basmati Paddy,FAQ,2325,2600,2400,27 Sep 2014,2014,Sep,27,2014-09-27 00:00:00
+504,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2210,3000,2850,05 Nov 2014,2014,Nov,05,2014-11-05 00:00:00
+505,,Muktsar,Malout,Rice,Basmati Paddy,FAQ,2250,2910,2550,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00

@@ -1,0 +1,955 @@
+0,1,2,3,4,5,6,7,8,9
+1,Adilabad,Adilabad(Rythu Bazar),Onion,White,FAQ,5000,5000,5000,06 Jul 2024
+2,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,08 Oct 2024
+3,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,09 Nov 2024
+4,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4000,3000,02 Dec 2024
+5,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,3500,27 Nov 2024
+6,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,4000,28 Sep 2024
+7,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,3500,3000,14 Jul 2024
+8,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,4000,3200,20 Oct 2024
+9,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,5000,4000,09 Sep 2024
+10,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,01 Dec 2024
+11,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,4500,2200,23 Nov 2024
+12,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5000,2300,20 Oct 2024
+13,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3600,2000,09 Jul 2024
+14,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,4000,2500,18 Nov 2024
+15,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,3000,2000,15 Jul 2024
+16,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2000,3000,2500,22 Jul 2024
+17,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2500,4500,2800,26 Aug 2024
+18,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4000,4000,05 Jul 2024
+19,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4200,4600,4400,25 Jul 2024
+20,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,02 Nov 2024
+21,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,09 Nov 2024
+22,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,25 Oct 2024
+23,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,01 Aug 2024
+24,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,11 Jul 2024
+25,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,25 Jul 2024
+26,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,12 Nov 2024
+27,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3400,2800,26 Jul 2024
+28,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3000,4700,3500,12 Sep 2024
+29,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,5600,4400,26 Nov 2024
+30,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,4600,4200,29 Oct 2024
+31,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3500,2800,08 Nov 2024
+32,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3000,2300,14 Sep 2024
+33,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3400,2400,06 Sep 2024
+34,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,2600,19 Oct 2024
+35,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,4000,2500,27 Sep 2024
+36,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,07 Jul 2024
+37,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,14 Jul 2024
+38,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,11 Sep 2024
+39,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,30 Aug 2024
+40,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,18 Sep 2024
+41,Ranga Reddy,"Ramakrisnapuram,RBZ",Onion,1st Sort,FAQ,3800,3800,3800,05 Jul 2024
+42,Ranga Reddy,"Ramakrisnapuram,RBZ",Onion,1st Sort,FAQ,3900,3900,3900,02 Jul 2024
+43,Medak,Sadasivpet,Onion,1st Sort,FAQ,870,3272,2959,05 Aug 2024
+44,Medak,Sadasivpet,Onion,1st Sort,FAQ,1111,4351,3501,27 Nov 2024
+45,Medak,Sadasivpet,Onion,1st Sort,FAQ,1349,3312,3130,18 Jul 2024
+46,Medak,Sadasivpet,Onion,1st Sort,FAQ,1579,4959,4869,19 Sep 2024
+47,Medak,Sadasivpet,Onion,1st Sort,FAQ,1719,4019,3939,04 Oct 2024
+48,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,04 Aug 2024
+49,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,500,2500,2200,28 Oct 2024
+50,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,05 Oct 2024
+51,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,16 Oct 2024
+52,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,16 Sep 2024
+53,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,2800,18 Oct 2024
+54,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3000,09 Jul 2024
+55,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,3500,20 Sep 2024
+56,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,3500,2800,12 Jul 2024
+57,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,4000,3000,02 Sep 2024
+58,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3200,3200,3200,10 Jul 2024
+59,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,03 Jul 2024
+60,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,5000,2200,23 Oct 2024
+61,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,4000,2100,08 Nov 2024
+62,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,4800,1800,19 Oct 2024
+63,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3000,2000,25 Nov 2024
+64,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,1800,07 Aug 2024
+65,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2000,05 Aug 2024
+66,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2100,19 Jul 2024
+67,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3600,1800,10 Aug 2024
+68,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,4500,2500,27 Aug 2024
+69,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4000,4500,4400,04 Aug 2024
+70,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4400,4600,4500,15 Aug 2024
+71,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4400,4600,4500,19 Aug 2024
+72,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4400,4800,4500,30 Jul 2024
+73,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5200,6000,5600,23 Sep 2024
+74,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5400,6000,5600,22 Sep 2024
+75,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,12 Oct 2024
+76,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,21 Oct 2024
+77,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,16 Nov 2024
+78,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,11 Nov 2024
+79,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,17 Oct 2024
+80,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4900,4900,4900,07 Sep 2024
+81,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4900,4900,4900,23 Aug 2024
+82,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5400,5400,5400,24 Sep 2024
+83,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5400,5400,5400,26 Nov 2024
+84,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,2500,4000,3200,25 Sep 2024
+85,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3400,3000,10 Aug 2024
+86,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,4800,4000,18 Nov 2024
+87,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,5700,4700,28 Nov 2024
+88,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,5000,4500,19 Sep 2024
+89,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4300,5000,4600,25 Oct 2024
+90,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,1600,1400,03 Jul 2024
+91,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,2100,1600,31 Jul 2024
+92,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,700,3500,2800,09 Nov 2024
+93,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1800,1500,19 Jul 2024
+94,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2500,2400,31 Aug 2024
+95,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1200,2800,2200,13 Aug 2024
+96,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,10 Aug 2024
+97,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,12 Aug 2024
+98,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,20 Jul 2024
+99,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,29 Jul 2024
+100,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,22 Nov 2024
+101,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,04 Sep 2024
+102,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,13 Oct 2024
+103,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,17 Oct 2024
+104,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,19 Oct 2024
+105,Medak,Sadasivpet,Onion,1st Sort,FAQ,1111,4949,4589,03 Nov 2024
+106,Medak,Sadasivpet,Onion,1st Sort,FAQ,1456,5030,4352,16 Sep 2024
+107,Medak,Sadasivpet,Onion,1st Sort,FAQ,1616,4818,4329,09 Oct 2024
+108,Medak,Sadasivpet,Onion,1st Sort,FAQ,1616,5266,4660,28 Sep 2024
+109,Medak,Sadasivpet,Onion,1st Sort,FAQ,1701,4430,4160,30 Aug 2024
+110,Medak,Sadasivpet,Onion,1st Sort,FAQ,3460,3672,3672,29 Nov 2024
+111,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,03 Jul 2024
+112,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,600,3000,2400,23 Jul 2024
+113,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3000,2500,25 Oct 2024
+114,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,2800,19 Jul 2024
+115,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,4000,29 Nov 2024
+116,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,4000,3200,24 Nov 2024
+117,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,4500,3500,04 Sep 2024
+118,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,4800,3600,05 Sep 2024
+119,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,5000,4000,12 Sep 2024
+120,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,27 Jul 2024
+121,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,11 Aug 2024
+122,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,500,5000,2400,30 Nov 2024
+123,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,900,4500,2400,10 Nov 2024
+124,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2200,04 Jul 2024
+125,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4000,4000,04 Jul 2024
+126,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4000,4000,09 Jul 2024
+127,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4400,4000,01 Jul 2024
+128,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4000,4500,4200,06 Aug 2024
+129,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4200,4500,4400,26 Jul 2024
+130,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,14 Nov 2024
+131,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5000,5600,5200,24 Aug 2024
+132,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5200,5600,5400,05 Sep 2024
+133,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,11 Oct 2024
+134,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,16 Sep 2024
+135,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,18 Oct 2024
+136,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3700,3700,3700,06 Aug 2024
+137,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,25 Oct 2024
+138,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,28 Oct 2024
+139,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5400,5400,5400,22 Sep 2024
+140,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5400,5400,5400,23 Sep 2024
+141,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,3000,4000,3500,29 Sep 2024
+142,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,5000,4500,03 Oct 2024
+143,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,6000,5000,15 Sep 2024
+144,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3400,3000,20 Jul 2024
+145,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3500,3000,23 Jul 2024
+146,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,5000,4100,21 Nov 2024
+147,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,5200,4400,11 Nov 2024
+148,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3500,2000,29 Oct 2024
+149,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3500,2800,28 Nov 2024
+150,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3500,2800,29 Nov 2024
+151,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1600,1400,09 Jul 2024
+152,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1800,1500,11 Jul 2024
+153,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3000,2300,23 Sep 2024
+154,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3100,2200,05 Sep 2024
+155,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3400,2500,01 Oct 2024
+156,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2000,1800,02 Aug 2024
+157,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2100,1800,26 Jul 2024
+158,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,12 Jul 2024
+159,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,06 Nov 2024
+160,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,04 Oct 2024
+161,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3500,3000,07 Nov 2024
+162,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,2800,20 Jul 2024
+163,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4500,3500,20 Nov 2024
+164,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,3500,2800,18 Jul 2024
+165,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,24 Jul 2024
+166,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,03 Aug 2024
+167,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,02 Jul 2024
+168,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,500,3500,1500,21 Nov 2024
+169,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,5000,2700,09 Oct 2024
+170,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5000,2500,26 Nov 2024
+171,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5500,3000,26 Sep 2024
+172,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3400,2000,25 Jul 2024
+173,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3600,2000,02 Jul 2024
+174,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,5200,3000,16 Sep 2024
+175,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,5200,3200,15 Sep 2024
+176,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2000,4500,3000,07 Oct 2024
+177,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4000,4400,4400,23 Jul 2024
+178,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4000,4600,4400,10 Aug 2024
+179,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4400,4600,4500,01 Aug 2024
+180,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4400,4600,4500,29 Jul 2024
+181,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5200,5000,29 Aug 2024
+182,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5500,6000,5600,19 Sep 2024
+183,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,28 Oct 2024
+184,Adilabad,Jainath,Onion,1st Sort,FAQ,800,1000,900,09 Oct 2024
+185,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,15 Jul 2024
+186,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,22 Jul 2024
+187,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,03 Aug 2024
+188,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,21 Oct 2024
+189,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,25 Nov 2024
+190,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3400,2800,25 Jul 2024
+191,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3500,4200,4000,03 Oct 2024
+192,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,5000,4400,16 Oct 2024
+193,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,5000,4500,14 Oct 2024
+194,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,2800,1800,11 Sep 2024
+195,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,2800,2300,12 Sep 2024
+196,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,2400,18 Sep 2024
+197,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2000,1800,05 Aug 2024
+198,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2200,2000,10 Aug 2024
+199,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,04 Aug 2024
+200,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,14 Aug 2024
+201,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,25 Jul 2024
+202,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,03 Nov 2024
+203,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,11 Nov 2024
+204,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,06 Oct 2024
+205,Medak,Sadasivpet,Onion,1st Sort,FAQ,555,2551,1326,11 Nov 2024
+206,Medak,Sadasivpet,Onion,1st Sort,FAQ,559,2560,1800,22 Nov 2024
+207,Medak,Sadasivpet,Onion,1st Sort,FAQ,730,3919,3479,13 Aug 2024
+208,Medak,Sadasivpet,Onion,1st Sort,FAQ,888,3099,3099,02 Jul 2024
+209,Medak,Sadasivpet,Onion,1st Sort,FAQ,1116,5151,2223,16 Nov 2024
+210,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,08 Sep 2024
+211,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,23 Oct 2024
+212,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,03 Oct 2024
+213,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,15 Sep 2024
+214,Medak,Sadasivpet,Onion,1st Sort,FAQ,1126,4179,3579,22 Aug 2024
+215,Medak,Sadasivpet,Onion,1st Sort,FAQ,1360,3519,3450,10 Aug 2024
+216,Medak,Sadasivpet,Onion,1st Sort,FAQ,1379,4472,4051,24 Aug 2024
+217,Medak,Sadasivpet,Onion,1st Sort,FAQ,1431,3401,2951,06 Jul 2024
+218,Medak,Sadasivpet,Onion,1st Sort,FAQ,1812,4455,3306,23 Aug 2024
+219,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,01 Aug 2024
+220,Medak,Sadasivpet,Onion,1st Sort,FAQ,1356,3630,2639,25 Nov 2024
+221,Medak,Sadasivpet,Onion,1st Sort,FAQ,2343,3152,3044,09 Aug 2024
+222,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,4500,3200,31 Aug 2024
+223,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3200,3200,3200,09 Jul 2024
+224,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,500,4000,2000,15 Nov 2024
+225,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,4200,2000,17 Oct 2024
+226,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,700,2000,1500,28 Oct 2024
+227,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3200,1800,20 Jul 2024
+228,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2000,24 Jul 2024
+229,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3600,2200,16 Jul 2024
+230,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4500,2400,25 Aug 2024
+231,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,5200,3000,18 Sep 2024
+232,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1400,5200,3200,23 Sep 2024
+233,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1600,5000,3200,12 Sep 2024
+234,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,3000,5000,3500,17 Sep 2024
+235,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4400,4000,02 Jul 2024
+236,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4200,4500,4400,18 Aug 2024
+237,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5200,5000,12 Nov 2024
+238,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,19 Oct 2024
+239,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6400,6000,08 Oct 2024
+240,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6400,6000,08 Sep 2024
+241,Adilabad,Jainath,Onion,1st Sort,FAQ,625,1000,825,11 Oct 2024
+242,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,06 Oct 2024
+243,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,02 Sep 2024
+244,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4900,4900,4900,24 Aug 2024
+245,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,4500,4200,26 Sep 2024
+246,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3500,3000,22 Jul 2024
+247,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3300,4800,3500,11 Sep 2024
+248,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,4700,4200,14 Nov 2024
+249,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,4700,4500,11 Oct 2024
+250,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4500,5100,4800,21 Oct 2024
+251,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3200,2400,04 Oct 2024
+252,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3500,2600,26 Sep 2024
+253,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,4000,2800,17 Oct 2024
+254,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2100,1800,25 Jul 2024
+255,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2200,1800,23 Jul 2024
+256,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,19 Jul 2024
+257,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,22 Jul 2024
+258,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,02 Sep 2024
+259,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,10 Nov 2024
+260,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,19 Aug 2024
+261,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,20 Nov 2024
+262,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,20 Sep 2024
+263,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,29 Sep 2024
+264,Medak,Sadasivpet,Onion,1st Sort,FAQ,1056,4260,4212,21 Aug 2024
+265,Medak,Sadasivpet,Onion,1st Sort,FAQ,1556,5339,4439,26 Oct 2024
+266,Medak,Sadasivpet,Onion,1st Sort,FAQ,1789,4907,4411,25 Oct 2024
+267,Medak,Sadasivpet,Onion,1st Sort,FAQ,2159,4379,4379,18 Oct 2024
+268,Medak,Sadasivpet,Onion,1st Sort,FAQ,2209,4160,4160,26 Nov 2024
+269,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,01 Jul 2024
+270,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,05 Aug 2024
+271,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,600,3500,2000,02 Jul 2024
+272,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,2000,1600,23 Sep 2024
+273,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,2800,24 Jul 2024
+274,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3000,11 Jul 2024
+275,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,3500,3000,07 Jul 2024
+276,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,5000,4000,19 Sep 2024
+277,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,19 Oct 2024
+278,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,03 Sep 2024
+279,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,500,3500,2000,17 Nov 2024
+280,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,500,5000,2000,26 Oct 2024
+281,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,5500,3000,29 Sep 2024
+282,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,700,4500,2200,22 Nov 2024
+283,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,4500,2500,31 Oct 2024
+284,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,1800,21 Jul 2024
+285,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,3500,2000,09 Aug 2024
+286,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,3500,2200,12 Jul 2024
+287,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,3600,2000,03 Jul 2024
+288,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4500,2500,24 Aug 2024
+289,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4500,2600,23 Aug 2024
+290,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,5000,2000,21 Oct 2024
+291,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1600,4800,2500,14 Oct 2024
+292,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2000,5200,3200,30 Sep 2024
+293,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4000,3800,11 Jul 2024
+294,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,05 Nov 2024
+295,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,23 Nov 2024
+296,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5200,5000,03 Sep 2024
+297,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,24 Oct 2024
+298,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,01 Jul 2024
+299,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,16 Jul 2024
+300,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5200,5200,5200,27 Aug 2024
+301,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2200,3400,2800,13 Jul 2024
+302,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3500,3000,27 Jul 2024
+303,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2800,4100,3400,30 Aug 2024
+304,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,5000,4100,19 Nov 2024
+305,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,4800,4400,28 Oct 2024
+306,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,4000,2500,23 Oct 2024
+307,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1800,1500,10 Jul 2024
+308,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3500,2400,24 Sep 2024
+309,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,2300,19 Sep 2024
+310,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,2400,10 Oct 2024
+311,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,2500,15 Oct 2024
+312,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,4300,2600,21 Oct 2024
+313,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,04 Jul 2024
+314,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,13 Jul 2024
+315,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,21 Aug 2024
+316,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,24 Nov 2024
+317,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,06 Sep 2024
+318,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,13 Sep 2024
+319,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,27 Nov 2024
+320,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,16 Sep 2024
+321,Medak,Sadasivpet,Onion,1st Sort,FAQ,621,2223,2223,04 Nov 2024
+322,Medak,Sadasivpet,Onion,1st Sort,FAQ,720,3267,3260,03 Aug 2024
+323,Medak,Sadasivpet,Onion,1st Sort,FAQ,1313,3130,3035,09 Jul 2024
+324,Medak,Sadasivpet,Onion,1st Sort,FAQ,1512,4759,4689,20 Sep 2024
+325,Medak,Sadasivpet,Onion,1st Sort,FAQ,1616,3459,3459,12 Aug 2024
+326,Medak,Sadasivpet,Onion,1st Sort,FAQ,1650,3080,2809,08 Aug 2024
+327,Medak,Sadasivpet,Onion,1st Sort,FAQ,1674,4500,3751,28 Aug 2024
+328,Medak,Sadasivpet,Onion,1st Sort,FAQ,1908,1908,1908,03 Oct 2024
+329,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,22 Jul 2024
+330,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,29 Oct 2024
+331,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3000,22 Oct 2024
+332,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4000,3000,19 Nov 2024
+333,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,4500,3500,14 Sep 2024
+334,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,4500,3000,26 Aug 2024
+335,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,5000,4000,15 Sep 2024
+336,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,08 Aug 2024
+337,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,11 Nov 2024
+338,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,05 Oct 2024
+339,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,26 Aug 2024
+340,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,23 Sep 2024
+341,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,400,5000,3000,20 Sep 2024
+342,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,4100,2600,10 Oct 2024
+343,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,700,5200,2500,22 Oct 2024
+344,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5500,2700,03 Dec 2024
+345,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5500,3500,24 Sep 2024
+346,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,1800,31 Jul 2024
+347,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,4000,2000,13 Aug 2024
+348,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,5200,2600,05 Oct 2024
+349,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4700,2500,01 Sep 2024
+350,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4000,3800,08 Jul 2024
+351,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4000,4500,4400,09 Aug 2024
+352,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4200,4500,4400,11 Aug 2024
+353,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,4800,19 Nov 2024
+354,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,01 Nov 2024
+355,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5200,5000,27 Aug 2024
+356,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6400,6000,10 Sep 2024
+357,Adilabad,Jainath,Onion,1st Sort,FAQ,800,1000,900,08 Nov 2024
+358,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,04 Oct 2024
+359,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,10 Oct 2024
+360,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,14 Oct 2024
+361,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5200,5200,5200,29 Aug 2024
+362,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,3000,3500,3250,02 Jul 2024
+363,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,6000,5000,28 Nov 2024
+364,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2000,3200,2600,06 Jul 2024
+365,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3300,2800,18 Jul 2024
+366,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3400,2800,02 Aug 2024
+367,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,4800,4600,30 Sep 2024
+368,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4500,5100,4800,18 Oct 2024
+369,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,1500,1300,06 Jul 2024
+370,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,3200,2800,22 Nov 2024
+371,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,3500,2600,13 Nov 2024
+372,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1600,1400,01 Jul 2024
+373,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1600,1400,16 Jul 2024
+374,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1800,1500,12 Jul 2024
+375,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,4000,2400,26 Oct 2024
+376,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,3500,2000,30 Sep 2024
+377,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,02 Aug 2024
+378,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,15 Jul 2024
+379,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,28 Jul 2024
+380,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,01 Sep 2024
+381,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,11 Oct 2024
+382,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,18 Oct 2024
+383,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,30 Sep 2024
+384,Medak,Sadasivpet,Onion,1st Sort,FAQ,512,4030,3412,14 Aug 2024
+385,Medak,Sadasivpet,Onion,1st Sort,FAQ,1161,3389,3259,10 Jul 2024
+386,Medak,Sadasivpet,Onion,1st Sort,FAQ,1453,3212,2872,15 Jul 2024
+387,Medak,Sadasivpet,Onion,1st Sort,FAQ,1506,5425,5165,18 Nov 2024
+388,Medak,Sadasivpet,Onion,1st Sort,FAQ,1512,5411,5411,13 Nov 2024
+389,Medak,Sadasivpet,Onion,1st Sort,FAQ,1620,5229,4960,21 Sep 2024
+390,Medak,Sadasivpet,Onion,1st Sort,FAQ,3006,3339,3312,23 Jul 2024
+391,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,06 Jul 2024
+392,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,15 Jul 2024
+393,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,23 Jul 2024
+394,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,2500,2000,17 Sep 2024
+395,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,2600,13 Nov 2024
+396,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,2800,21 Oct 2024
+397,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4000,3000,25 Nov 2024
+398,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,3500,3000,25 Jul 2024
+399,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,07 Aug 2024
+400,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,20 Jul 2024
+401,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3800,3800,3800,21 Aug 2024
+402,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,01 Sep 2024
+403,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,700,4800,2000,13 Oct 2024
+404,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,700,5000,2300,07 Nov 2024
+405,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,4800,2400,13 Nov 2024
+406,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2000,14 Jul 2024
+407,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,5000,2000,11 Oct 2024
+408,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,3000,1800,16 Aug 2024
+409,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1500,4000,2000,19 Aug 2024
+410,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1500,4200,2200,21 Aug 2024
+411,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1500,5000,3000,07 Sep 2024
+412,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4000,3800,07 Jul 2024
+413,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4000,4500,4400,05 Aug 2024
+414,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5000,5400,5200,31 Aug 2024
+415,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,10 Oct 2024
+416,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,20 Sep 2024
+417,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,6000,6500,6200,27 Sep 2024
+418,Adilabad,Jainath,Onion,1st Sort,FAQ,550,625,587,31 Oct 2024
+419,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3800,3800,3800,29 Jul 2024
+420,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,18 Jul 2024
+421,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,04 Nov 2024
+422,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,13 Aug 2024
+423,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,08 Nov 2024
+424,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,6000,5000,16 Sep 2024
+425,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3300,2800,07 Aug 2024
+426,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3500,2800,03 Jul 2024
+427,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,4600,4000,15 Nov 2024
+428,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,5000,4400,08 Nov 2024
+429,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,5100,4600,16 Sep 2024
+430,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,5200,4600,08 Oct 2024
+431,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4300,5000,4700,23 Oct 2024
+432,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3800,2800,05 Nov 2024
+433,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,4000,2400,02 Nov 2024
+434,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,2400,1800,03 Aug 2024
+435,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1600,1400,04 Jul 2024
+436,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1800,1400,15 Jul 2024
+437,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,2800,2300,13 Sep 2024
+438,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2600,2400,30 Aug 2024
+439,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,3400,2500,04 Sep 2024
+440,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,05 Aug 2024
+441,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,02 Nov 2024
+442,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,07 Oct 2024
+443,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3500,2800,07 Oct 2024
+444,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,13 Oct 2024
+445,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3400,3000,04 Jul 2024
+446,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4000,3000,17 Aug 2024
+447,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4000,3000,22 Nov 2024
+448,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4000,3000,23 Nov 2024
+449,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4500,3200,23 Aug 2024
+450,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,3500,28 Nov 2024
+451,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,3000,2600,21 Jul 2024
+452,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,3500,2800,13 Jul 2024
+453,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,3500,3000,12 Aug 2024
+454,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,5000,4000,21 Sep 2024
+455,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,5000,4000,22 Sep 2024
+456,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3200,3200,3200,13 Jul 2024
+457,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,22 Jul 2024
+458,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,28 Jul 2024
+459,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,14 Oct 2024
+460,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,23 Oct 2024
+461,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,5000,2400,19 Nov 2024
+462,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5000,2500,27 Nov 2024
+463,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5000,3000,01 Oct 2024
+464,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3200,1800,01 Jul 2024
+465,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2200,18 Jul 2024
+466,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,5200,3000,19 Sep 2024
+467,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,3500,1800,26 Jul 2024
+468,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4700,2500,29 Aug 2024
+469,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,5200,3000,21 Sep 2024
+470,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1500,3500,1800,08 Aug 2024
+471,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2000,3400,2500,12 Aug 2024
+472,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2700,5000,3300,08 Sep 2024
+473,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4400,4800,4600,17 Aug 2024
+474,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,03 Nov 2024
+475,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,27 Oct 2024
+476,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6400,6000,07 Oct 2024
+477,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,12 Jul 2024
+478,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,13 Jul 2024
+479,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,18 Aug 2024
+480,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4900,4900,4900,01 Oct 2024
+481,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4900,4900,4900,14 Sep 2024
+482,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5400,5400,5400,10 Sep 2024
+483,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,4500,4200,15 Oct 2024
+484,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3600,3000,04 Jul 2024
+485,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3000,4100,3200,13 Aug 2024
+486,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3500,4500,4200,04 Oct 2024
+487,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3500,4800,3600,06 Sep 2024
+488,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3500,4800,3600,10 Sep 2024
+489,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,5400,4400,22 Nov 2024
+490,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,5200,4800,21 Sep 2024
+491,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4300,5000,4600,24 Oct 2024
+492,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3200,2800,21 Nov 2024
+493,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,09 Oct 2024
+494,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,20 Oct 2024
+495,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,28 Nov 2024
+496,Ranga Reddy,"Ramakrisnapuram,RBZ",Onion,1st Sort,FAQ,3900,3900,3900,03 Jul 2024
+497,Medak,Sadasivpet,Onion,1st Sort,FAQ,512,3401,3251,27 Jul 2024
+498,Medak,Sadasivpet,Onion,1st Sort,FAQ,666,6003,2502,06 Nov 2024
+499,Medak,Sadasivpet,Onion,1st Sort,FAQ,1060,3179,3179,12 Nov 2024
+500,Medak,Sadasivpet,Onion,1st Sort,FAQ,1856,4230,4230,17 Oct 2024
+501,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,09 Jul 2024
+502,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,16 Jul 2024
+503,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3500,2500,04 Nov 2024
+504,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3600,2800,26 Nov 2024
+505,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,4000,2500,30 Oct 2024
+506,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,3600,2600,18 Nov 2024
+507,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,1800,14 Oct 2024
+508,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,4300,2800,18 Oct 2024
+509,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2100,1800,01 Aug 2024
+510,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2200,1800,22 Jul 2024
+511,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,08 Aug 2024
+512,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,11 Aug 2024
+513,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,18 Jul 2024
+514,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,30 Oct 2024
+515,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,14 Oct 2024
+516,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,26 Aug 2024
+517,Medak,Sadasivpet,Onion,1st Sort,FAQ,509,2800,2385,20 Nov 2024
+518,Medak,Sadasivpet,Onion,1st Sort,FAQ,1230,3366,2979,13 Jul 2024
+519,Medak,Sadasivpet,Onion,1st Sort,FAQ,1356,4830,4279,13 Sep 2024
+520,Medak,Sadasivpet,Onion,1st Sort,FAQ,1612,3289,3211,08 Jul 2024
+521,Medak,Sadasivpet,Onion,1st Sort,FAQ,2016,5012,4389,12 Sep 2024
+522,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,07 Jul 2024
+523,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,26 Jul 2024
+524,Adilabad,Adilabad(Rythu Bazar),Onion,White,FAQ,5000,5000,5000,03 Jul 2024
+525,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3000,2500,08 Jul 2024
+526,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3000,2700,26 Oct 2024
+527,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,4000,3000,13 Aug 2024
+528,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,4000,3200,19 Oct 2024
+529,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,27 Oct 2024
+530,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4000,3000,03 Oct 2024
+531,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4800,3400,27 Aug 2024
+532,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,06 Jul 2024
+533,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,23 Nov 2024
+534,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,03 Dec 2024
+535,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,21 Sep 2024
+536,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,4500,2300,03 Nov 2024
+537,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2000,30 Jul 2024
+538,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,4000,2100,18 Aug 2024
+539,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4800,2500,30 Aug 2024
+540,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,5200,2800,22 Sep 2024
+541,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1600,4000,2000,15 Aug 2024
+542,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2000,5200,3200,27 Sep 2024
+543,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,04 Nov 2024
+544,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5200,5000,07 Nov 2024
+545,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5200,5000,08 Nov 2024
+546,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5400,6000,5600,21 Sep 2024
+547,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,07 Sep 2024
+548,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,09 Sep 2024
+549,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,12 Sep 2024
+550,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,17 Sep 2024
+551,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6400,6000,28 Sep 2024
+552,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,6000,6800,6400,03 Oct 2024
+553,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,06 Jul 2024
+554,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,22 Aug 2024
+555,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,05 Nov 2024
+556,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,11 Aug 2024
+557,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,03 Oct 2024
+558,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,22 Oct 2024
+559,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5400,5400,5400,26 Sep 2024
+560,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,6000,4500,14 Sep 2024
+561,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2000,3300,2800,15 Jul 2024
+562,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,4000,3000,14 Aug 2024
+563,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3500,5000,3800,05 Sep 2024
+564,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3600,4600,3800,04 Sep 2024
+565,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,4800,4000,16 Nov 2024
+566,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,5000,4400,05 Nov 2024
+567,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,5000,4400,13 Nov 2024
+568,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,4700,4500,26 Oct 2024
+569,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,5200,4400,02 Nov 2024
+570,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4300,5000,4600,26 Sep 2024
+571,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,3200,2800,14 Nov 2024
+572,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,2000,1500,20 Jul 2024
+573,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,2500,09 Oct 2024
+574,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3700,2500,11 Oct 2024
+575,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,2000,2700,2500,12 Aug 2024
+576,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,17 Jul 2024
+577,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,09 Nov 2024
+578,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,17 Nov 2024
+579,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,22 Aug 2024
+580,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,05 Oct 2024
+581,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,12 Sep 2024
+582,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,28 Aug 2024
+583,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,02 Oct 2024
+584,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,25 Sep 2024
+585,Medak,Sadasivpet,Onion,1st Sort,FAQ,1009,3260,2859,04 Jul 2024
+586,Medak,Sadasivpet,Onion,1st Sort,FAQ,1663,4155,3416,20 Aug 2024
+587,Medak,Sadasivpet,Onion,1st Sort,FAQ,1710,3123,3123,01 Aug 2024
+588,Medak,Sadasivpet,Onion,1st Sort,FAQ,1818,5469,4179,06 Sep 2024
+589,Medak,Sadasivpet,Onion,1st Sort,FAQ,1826,4356,4356,21 Nov 2024
+590,Medak,Sadasivpet,Onion,1st Sort,FAQ,4338,4365,4365,29 Aug 2024
+591,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,08 Jul 2024
+592,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,11 Jul 2024
+593,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,27 Jul 2024
+594,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,11 Nov 2024
+595,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3400,2800,08 Aug 2024
+596,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,2800,24 Oct 2024
+597,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3000,10 Aug 2024
+598,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3000,17 Jul 2024
+599,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,5000,4000,13 Sep 2024
+600,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,02 Dec 2024
+601,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,500,4500,2000,16 Nov 2024
+602,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,500,5000,2500,03 Oct 2024
+603,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,4500,2000,16 Oct 2024
+604,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,4500,2000,29 Oct 2024
+605,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,4800,2500,12 Nov 2024
+606,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5200,3200,14 Sep 2024
+607,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3600,2200,17 Jul 2024
+608,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1500,4500,2200,06 Nov 2024
+609,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4200,4600,4400,27 Jul 2024
+610,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,22 Nov 2024
+611,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6400,6000,14 Sep 2024
+612,Adilabad,Jainath,Onion,1st Sort,FAQ,800,1000,900,26 Oct 2024
+613,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3400,3400,3400,08 Oct 2024
+614,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,19 Oct 2024
+615,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,23 Nov 2024
+616,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5200,5200,5200,05 Sep 2024
+617,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,4500,4250,03 Aug 2024
+618,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,6000,4500,18 Sep 2024
+619,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2000,3500,2800,12 Jul 2024
+620,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2200,3400,2800,08 Jul 2024
+621,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3500,3000,08 Aug 2024
+622,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3400,3000,09 Jul 2024
+623,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3000,4200,3600,12 Aug 2024
+624,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3000,4400,3500,03 Sep 2024
+625,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,5000,4100,20 Nov 2024
+626,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,5400,4400,23 Nov 2024
+627,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,5700,4700,27 Nov 2024
+628,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,4600,4400,30 Oct 2024
+629,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3200,2600,19 Nov 2024
+630,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3500,2800,11 Nov 2024
+631,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3500,2800,27 Nov 2024
+632,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,2100,1500,24 Jul 2024
+633,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,2800,2400,16 Sep 2024
+634,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3300,2400,05 Oct 2024
+635,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,2500,07 Oct 2024
+636,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,01 Aug 2024
+637,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,31 Jul 2024
+638,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,01 Nov 2024
+639,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,16 Nov 2024
+640,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,18 Aug 2024
+641,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,07 Sep 2024
+642,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,21 Oct 2024
+643,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3000,2500,11 Oct 2024
+644,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,05 Nov 2024
+645,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,09 Oct 2024
+646,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3000,12 Nov 2024
+647,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3100,03 Jul 2024
+648,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,3500,30 Nov 2024
+649,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,4000,3000,15 Aug 2024
+650,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,4200,3600,14 Aug 2024
+651,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,04 Aug 2024
+652,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,29 Aug 2024
+653,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,500,5000,2000,05 Nov 2024
+654,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,4700,2000,30 Oct 2024
+655,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,5000,2400,04 Oct 2024
+656,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,700,4500,2500,02 Nov 2024
+657,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,4500,2500,28 Nov 2024
+658,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2000,28 Jul 2024
+659,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,4000,2000,11 Aug 2024
+660,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,4000,2200,14 Aug 2024
+661,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4800,3000,31 Aug 2024
+662,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4400,4000,15 Jul 2024
+663,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5000,5000,21 Nov 2024
+664,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5200,5000,11 Nov 2024
+665,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5200,5000,30 Aug 2024
+666,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5000,5400,5200,25 Aug 2024
+667,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5000,5400,5200,26 Aug 2024
+668,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,13 Sep 2024
+669,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,26 Oct 2024
+670,Adilabad,Jainath,Onion,1st Sort,FAQ,1000,1000,1000,30 Oct 2024
+671,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,04 Aug 2024
+672,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,08 Sep 2024
+673,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5400,5400,5400,30 Nov 2024
+674,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3400,3000,19 Jul 2024
+675,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3500,4500,4200,01 Oct 2024
+676,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3800,5600,4400,25 Nov 2024
+677,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,700,3500,2800,07 Nov 2024
+678,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1800,1500,13 Jul 2024
+679,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,2500,16 Oct 2024
+680,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3600,2500,28 Sep 2024
+681,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2200,2000,09 Aug 2024
+682,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,13 Nov 2024
+683,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,14 Sep 2024
+684,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,16 Oct 2024
+685,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,26 Oct 2024
+686,Ranga Reddy,"Ramakrisnapuram,RBZ",Onion,1st Sort,FAQ,3900,3900,3900,01 Jul 2024
+687,Medak,Sadasivpet,Onion,1st Sort,FAQ,512,3405,3339,31 Jul 2024
+688,Medak,Sadasivpet,Onion,1st Sort,FAQ,710,3456,3212,22 Jul 2024
+689,Medak,Sadasivpet,Onion,1st Sort,FAQ,1056,4052,3859,16 Aug 2024
+690,Medak,Sadasivpet,Onion,1st Sort,FAQ,1212,4130,3172,02 Dec 2024
+691,Medak,Sadasivpet,Onion,1st Sort,FAQ,1314,5265,4851,10 Sep 2024
+692,Medak,Sadasivpet,Onion,1st Sort,FAQ,1509,4709,3636,01 Oct 2024
+693,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5500,5500,5500,22 Sep 2024
+694,Medak,Sadasivpet,Onion,1st Sort,FAQ,819,4500,3369,30 Nov 2024
+695,Medak,Sadasivpet,Onion,1st Sort,FAQ,859,3206,2560,23 Nov 2024
+696,Medak,Sadasivpet,Onion,1st Sort,FAQ,1053,3349,3151,20 Jul 2024
+697,Medak,Sadasivpet,Onion,1st Sort,FAQ,1116,4669,4509,24 Oct 2024
+698,Medak,Sadasivpet,Onion,1st Sort,FAQ,1560,4430,3402,05 Oct 2024
+699,Medak,Sadasivpet,Onion,1st Sort,FAQ,1629,3080,2759,12 Jul 2024
+700,Medak,Sadasivpet,Onion,1st Sort,FAQ,2511,4460,4460,03 Sep 2024
+701,Medak,Sadasivpet,Onion,1st Sort,FAQ,1515,4444,4179,27 Aug 2024
+702,Medak,Sadasivpet,Onion,1st Sort,FAQ,1536,3030,2955,11 Jul 2024
+703,Medak,Sadasivpet,Onion,1st Sort,FAQ,1716,5379,4806,09 Sep 2024
+704,Medak,Sadasivpet,Onion,1st Sort,FAQ,1818,5004,4411,18 Sep 2024
+705,Medak,Sadasivpet,Onion,1st Sort,FAQ,4279,4490,4490,23 Sep 2024
+706,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,10 Jul 2024
+707,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,28 Jul 2024
+708,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,31 Jul 2024
+709,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,400,1200,1000,02 Nov 2024
+710,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,5000,4000,25 Sep 2024
+711,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,10 Nov 2024
+712,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,17 Oct 2024
+713,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,22 Jul 2024
+714,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,23 Oct 2024
+715,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,30 Oct 2024
+716,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,2800,06 Jul 2024
+717,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4500,3500,30 Aug 2024
+718,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,3500,29 Sep 2024
+719,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,4000,2500,20 Aug 2024
+720,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,4000,3500,18 Aug 2024
+721,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,4500,4000,25 Aug 2024
+722,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,04 Jul 2024
+723,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3800,3800,3800,20 Aug 2024
+724,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,04 Sep 2024
+725,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,500,5000,2200,27 Oct 2024
+726,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,4500,2500,29 Nov 2024
+727,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5200,2700,08 Oct 2024
+728,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2000,06 Aug 2024
+729,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2000,07 Jul 2024
+730,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2100,23 Jul 2024
+731,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3600,1800,01 Aug 2024
+732,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3600,2200,10 Jul 2024
+733,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,4000,2100,20 Aug 2024
+734,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,4500,2000,15 Oct 2024
+735,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4000,2500,06 Jul 2024
+736,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,5000,3000,05 Sep 2024
+737,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1800,3500,2500,12 Oct 2024
+738,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2000,3500,2500,08 Jul 2024
+739,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2200,4500,3200,22 Aug 2024
+740,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4400,4000,14 Jul 2024
+741,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4000,4600,4400,08 Aug 2024
+742,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4400,4600,4500,02 Aug 2024
+743,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5000,5600,5200,29 Oct 2024
+744,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,14 Oct 2024
+745,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6400,6000,06 Sep 2024
+746,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,6000,6400,6400,01 Oct 2024
+747,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4400,4400,4400,19 Aug 2024
+748,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,09 Nov 2024
+749,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,11 Oct 2024
+750,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5400,5400,5400,16 Sep 2024
+751,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2200,3300,2800,01 Jul 2024
+752,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3400,2800,24 Jul 2024
+753,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3300,2700,03 Aug 2024
+754,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3600,3000,11 Jul 2024
+755,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2800,4100,3400,31 Aug 2024
+756,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3500,4800,4000,14 Sep 2024
+757,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,5000,4400,09 Nov 2024
+758,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,5200,4400,04 Nov 2024
+759,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,5000,4500,10 Oct 2024
+760,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,3600,2800,16 Nov 2024
+761,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1800,1500,18 Jul 2024
+762,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3100,2400,03 Oct 2024
+763,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3700,2500,08 Oct 2024
+764,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2100,1800,07 Aug 2024
+765,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1200,2400,2000,14 Aug 2024
+766,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,05 Jul 2024
+767,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,08 Nov 2024
+768,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,15 Nov 2024
+769,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,30 Nov 2024
+770,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,05 Sep 2024
+771,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,24 Aug 2024
+772,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,27 Oct 2024
+773,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,28 Oct 2024
+774,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,19 Sep 2024
+775,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5500,5500,5500,23 Sep 2024
+776,Medak,Sadasivpet,Onion,1st Sort,FAQ,512,3366,3151,24 Jul 2024
+777,Medak,Sadasivpet,Onion,1st Sort,FAQ,1256,5739,4789,05 Sep 2024
+778,Medak,Sadasivpet,Onion,1st Sort,FAQ,1404,4707,4275,31 Aug 2024
+779,Medak,Sadasivpet,Onion,1st Sort,FAQ,1823,5103,5004,25 Sep 2024
+780,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3000,2500,14 Oct 2024
+781,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3000,10 Jul 2024
+782,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4500,3200,28 Aug 2024
+783,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4500,3500,07 Sep 2024
+784,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,4000,10 Sep 2024
+785,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,4800,3800,29 Aug 2024
+786,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,3500,3000,22 Aug 2024
+787,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3200,3200,3200,31 Jul 2024
+788,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,15 Oct 2024
+789,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,19 Sep 2024
+790,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,28 Sep 2024
+791,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,5000,2300,02 Dec 2024
+792,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2200,13 Jul 2024
+793,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,5000,2400,06 Oct 2024
+794,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4800,2600,28 Aug 2024
+795,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1500,5000,2600,04 Sep 2024
+796,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1500,5000,3000,13 Sep 2024
+797,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1500,5000,3200,10 Sep 2024
+798,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4000,3800,06 Jul 2024
+799,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4800,5200,5000,31 Oct 2024
+800,Adilabad,Jainath,Onion,1st Sort,FAQ,550,625,587,10 Oct 2024
+801,Adilabad,Jainath,Onion,1st Sort,FAQ,550,625,587,24 Oct 2024
+802,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,10 Aug 2024
+803,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4900,4900,4900,25 Aug 2024
+804,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,5400,5400,5400,13 Sep 2024
+805,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,4500,4200,05 Oct 2024
+806,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2200,3400,2800,16 Jul 2024
+807,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2300,5200,4800,24 Sep 2024
+808,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3500,3000,09 Aug 2024
+809,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,5000,4600,28 Sep 2024
+810,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,5200,4800,20 Sep 2024
+811,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4500,5000,4700,22 Oct 2024
+812,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,2000,1700,30 Jul 2024
+813,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,3200,2600,20 Nov 2024
+814,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,4000,2500,24 Oct 2024
+815,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3500,2300,20 Sep 2024
+816,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2200,2000,08 Aug 2024
+817,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2500,2400,03 Sep 2024
+818,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,06 Jul 2024
+819,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,09 Aug 2024
+820,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,24 Jul 2024
+821,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,26 Jul 2024
+822,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,31 Oct 2024
+823,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,24 Oct 2024
+824,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,25 Oct 2024
+825,Medak,Sadasivpet,Onion,1st Sort,FAQ,1012,4652,4329,24 Sep 2024
+826,Medak,Sadasivpet,Onion,1st Sort,FAQ,1160,4169,3169,03 Dec 2024
+827,Medak,Sadasivpet,Onion,1st Sort,FAQ,1539,3144,3139,01 Jul 2024
+828,Medak,Sadasivpet,Onion,1st Sort,FAQ,1616,4011,3951,08 Oct 2024
+829,Medak,Sadasivpet,Onion,1st Sort,FAQ,2269,5579,2269,09 Nov 2024
+830,Medak,Sadasivpet,Onion,1st Sort,FAQ,2889,3132,3051,26 Jul 2024
+831,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,400,2500,2000,03 Nov 2024
+832,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3000,2400,31 Oct 2024
+833,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3000,2500,12 Oct 2024
+834,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,3500,2500,01 Jul 2024
+835,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,15 Jul 2024
+836,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,15 Oct 2024
+837,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,2800,16 Jul 2024
+838,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3000,08 Nov 2024
+839,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3500,3000,16 Aug 2024
+840,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4000,3000,03 Dec 2024
+841,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,4000,3000,30 Sep 2024
+842,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,3500,27 Sep 2024
+843,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,2000,4000,3500,08 Sep 2024
+844,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3600,3600,3600,13 Aug 2024
+845,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3800,3800,3800,18 Aug 2024
+846,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,24 Aug 2024
+847,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,27 Aug 2024
+848,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,4800,2200,18 Oct 2024
+849,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5500,3500,25 Sep 2024
+850,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3400,1800,03 Aug 2024
+851,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,2200,27 Jul 2024
+852,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,3000,2000,29 Jul 2024
+853,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1200,4000,2000,17 Aug 2024
+854,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1500,5000,2500,11 Nov 2024
+855,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,2500,5000,3000,11 Sep 2024
+856,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,3000,5000,4000,09 Sep 2024
+857,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,3600,4000,3800,13 Jul 2024
+858,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4000,4500,4200,22 Jul 2024
+859,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4200,4600,4400,13 Aug 2024
+860,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,20 Oct 2024
+861,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,6000,6400,6400,26 Sep 2024
+862,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,6000,6600,6400,30 Sep 2024
+863,Adilabad,Jainath,Onion,1st Sort,FAQ,1000,1000,1000,05 Nov 2024
+864,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,07 Nov 2024
+865,Hyderabad,L B Nagar,Onion,1st Sort,FAQ,4000,6000,4500,13 Sep 2024
+866,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2000,3400,2800,10 Jul 2024
+867,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3300,2700,30 Jul 2024
+868,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3500,3000,02 Jul 2024
+869,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3600,4200,3900,05 Oct 2024
+870,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,5000,4400,07 Nov 2024
+871,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4000,5600,4700,29 Nov 2024
+872,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,5000,4400,06 Nov 2024
+873,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,5000,4500,09 Oct 2024
+874,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4100,5100,4500,15 Oct 2024
+875,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,5000,4500,18 Sep 2024
+876,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,5200,4600,07 Oct 2024
+877,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4500,5100,4800,19 Oct 2024
+878,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3500,2100,28 Oct 2024
+879,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3600,2800,25 Nov 2024
+880,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,3600,2600,15 Nov 2024
+881,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,4000,2500,25 Oct 2024
+882,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,1600,1400,08 Jul 2024
+883,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,2800,1800,09 Sep 2024
+884,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,3000,2000,10 Sep 2024
+885,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,800,4000,2300,21 Sep 2024
+886,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,03 Jul 2024
+887,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,08 Jul 2024
+888,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,10 Jul 2024
+889,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,27 Jul 2024
+890,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,25 Nov 2024
+891,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,25 Aug 2024
+892,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,29 Nov 2024
+893,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,27 Sep 2024
+894,Medak,Sadasivpet,Onion,1st Sort,FAQ,530,3182,2942,19 Jul 2024
+895,Medak,Sadasivpet,Onion,1st Sort,FAQ,950,3466,3051,07 Aug 2024
+896,Medak,Sadasivpet,Onion,1st Sort,FAQ,1330,3260,3212,03 Jul 2024
+897,Medak,Sadasivpet,Onion,1st Sort,FAQ,1612,4849,4509,16 Oct 2024
+898,Medak,Sadasivpet,Onion,1st Sort,FAQ,3151,3151,3151,14 Nov 2024
+899,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,05 Jul 2024
+900,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,800,4500,3800,01 Oct 2024
+901,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,04 Oct 2024
+902,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,06 Nov 2024
+903,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3000,2500,06 Oct 2024
+904,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,3300,2800,09 Aug 2024
+905,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,4000,26 Nov 2024
+906,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1000,5000,4000,26 Sep 2024
+907,Hyderabad,Bowenpally,Onion,1st Sort,FAQ,1500,3600,3000,11 Aug 2024
+908,Hyderabad,Erragadda(Rythu Bazar),Onion,1st Sort,FAQ,3900,3900,3900,01 Jul 2024
+909,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,400,5100,2200,24 Oct 2024
+910,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,4500,2400,24 Nov 2024
+911,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,600,5000,2400,20 Nov 2024
+912,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,800,5000,2300,09 Nov 2024
+913,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1000,3500,1800,02 Aug 2024
+914,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,1600,5200,3000,28 Sep 2024
+915,Hyderabad,Gudimalkapur,Onion,1st Sort,FAQ,3000,4800,4000,02 Sep 2024
+916,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4200,4600,4400,16 Aug 2024
+917,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4400,4600,4500,20 Aug 2024
+918,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,4400,4800,4600,28 Jul 2024
+919,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,13 Oct 2024
+920,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,5600,6000,6000,22 Oct 2024
+921,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,6000,6400,6400,24 Sep 2024
+922,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,6000,6400,6400,29 Sep 2024
+923,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,01 Nov 2024
+924,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,27 Oct 2024
+925,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,4900,4900,4900,30 Aug 2024
+926,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2400,3500,2800,05 Aug 2024
+927,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3500,3000,01 Aug 2024
+928,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,2500,3500,3000,31 Jul 2024
+929,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3000,4700,3500,13 Sep 2024
+930,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3000,4800,3600,09 Sep 2024
+931,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,3600,4800,4000,23 Sep 2024
+932,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4200,4800,4500,27 Sep 2024
+933,Hyderabad,Mahboob Manison,Onion,1st Sort,FAQ,4300,5400,4800,17 Oct 2024
+934,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,500,3500,2800,06 Nov 2024
+935,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,1600,1400,02 Jul 2024
+936,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,3200,2800,23 Nov 2024
+937,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,600,4300,2500,22 Oct 2024
+938,Hyderabad,Mahboob Manison,Onion,2nd Sort,FAQ,1000,2200,1800,27 Jul 2024
+939,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,01 Jul 2024
+940,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,07 Aug 2024
+941,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,11 Jul 2024
+942,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,3500,3500,3500,21 Jul 2024
+943,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,04 Nov 2024
+944,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,07 Nov 2024
+945,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4000,4000,4000,21 Nov 2024
+946,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,4500,4500,4500,23 Aug 2024
+947,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,5000,5000,5000,26 Sep 2024
+948,Medak,Sadasivpet,Onion,1st Sort,FAQ,710,3105,2951,06 Aug 2024
+949,Medak,Sadasivpet,Onion,1st Sort,FAQ,1056,4611,4339,30 Sep 2024
+950,Medak,Sadasivpet,Onion,1st Sort,FAQ,1616,5562,3560,07 Nov 2024
+951,Medak,Sadasivpet,Onion,1st Sort,FAQ,2511,6003,5769,04 Sep 2024
+952,Medak,Sadasivpet,Onion,1st Sort,FAQ,2652,5266,5266,27 Sep 2024
+953,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,02 Jul 2024
+954,Medak,Siddipet(Rythu Bazar),Onion,1st Sort,FAQ,3500,4500,4000,03 Aug 2024

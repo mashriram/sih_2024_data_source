@@ -1,321 +1,326 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Kishanganj,Kishanganj,Mustard Oil,Other,FAQ,15000,17500,16000,22 Mar 2022,2022,Mar,22,2022-03-22
-1,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16000,17500,16500,02 Aug 2022,2022,Aug,02,2022-08-02
-2,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16000,17500,16500,18 Aug 2022,2022,Aug,18,2022-08-18
-3,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,01 Aug 2022,2022,Aug,01,2022-08-01
-4,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,05 Aug 2022,2022,Aug,05,2022-08-05
-5,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,11 Aug 2022,2022,Aug,11,2022-08-11
-6,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,23 Aug 2022,2022,Aug,23,2022-08-23
-7,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16500,17500,17000,26 Aug 2022,2022,Aug,26,2022-08-26
-8,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16500,18000,17500,23 May 2022,2022,May,23,2022-05-23
-9,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,17000,19000,18000,05 May 2022,2022,May,05,2022-05-05
-10,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,17500,18500,18000,13 May 2022,2022,May,13,2022-05-13
-11,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3600,3800,3700,16 Jul 2015,2015,Jul,16,2015-07-16
-12,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3650,3750,3700,17 Jul 2015,2015,Jul,17,2015-07-17
-13,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3700,3800,3750,15 Jul 2015,2015,Jul,15,2015-07-15
-14,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3800,4000,3900,22 Aug 2015,2015,Aug,22,2015-08-22
-15,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,9500,9700,9600,05 Feb 2015,2015,Feb,05,2015-02-05
-16,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2650,2600,16 Dec 2022,2022,Dec,16,2022-12-16
-17,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2650,2600,29 Dec 2022,2022,Dec,29,2022-12-29
-18,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2700,2650,12 Dec 2022,2022,Dec,12,2022-12-12
-19,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2700,2650,14 Dec 2022,2022,Dec,14,2022-12-14
-20,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2700,2650,20 Dec 2022,2022,Dec,20,2022-12-20
-21,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,04 Jan 2023,2023,Jan,04,2023-01-04
-22,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,11 Jan 2023,2023,Jan,11,2023-01-11
-23,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,14 Jan 2023,2023,Jan,14,2023-01-14
-24,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,18 Nov 2022,2022,Nov,18,2022-11-18
-25,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,24 Dec 2022,2022,Dec,24,2022-12-24
-26,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,05 Jan 2023,2023,Jan,05,2023-01-05
-27,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,10 Dec 2022,2022,Dec,10,2022-12-10
-28,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,10 Jan 2023,2023,Jan,10,2023-01-10
-29,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,11 Dec 2022,2022,Dec,11,2022-12-11
-30,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,20 Jan 2023,2023,Jan,20,2023-01-20
-31,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,22 Dec 2022,2022,Dec,22,2022-12-22
-32,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,23 Dec 2022,2022,Dec,23,2022-12-23
-33,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,25 Nov 2022,2022,Nov,25,2022-11-25
-34,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,01 Dec 2022,2022,Dec,01,2022-12-01
-35,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,02 Jan 2023,2023,Jan,02,2023-01-02
-36,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,06 Nov 2022,2022,Nov,06,2022-11-06
-37,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,08 Nov 2022,2022,Nov,08,2022-11-08
-38,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,09 Jan 2023,2023,Jan,09,2023-01-09
-39,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,15 Jan 2023,2023,Jan,15,2023-01-15
-40,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,19 Jan 2023,2023,Jan,19,2023-01-19
-41,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,20 Nov 2022,2022,Nov,20,2022-11-20
-42,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,21 Dec 2022,2022,Dec,21,2022-12-21
-43,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,22 Nov 2022,2022,Nov,22,2022-11-22
-44,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,24 Jan 2023,2023,Jan,24,2023-01-24
-45,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,26 Dec 2022,2022,Dec,26,2022-12-26
-46,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,27 Dec 2022,2022,Dec,27,2022-12-27
-47,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2800,2750,11 Nov 2022,2022,Nov,11,2022-11-11
-48,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2800,2750,13 Nov 2022,2022,Nov,13,2022-11-13
-49,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2800,2750,16 Nov 2022,2022,Nov,16,2022-11-16
-50,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2800,2750,30 Jan 2023,2023,Jan,30,2023-01-30
-51,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2680,2850,2800,03 Dec 2022,2022,Dec,03,2022-12-03
-52,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,02 Dec 2022,2022,Dec,02,2022-12-02
-53,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,04 Dec 2022,2022,Dec,04,2022-12-04
-54,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,07 Nov 2022,2022,Nov,07,2022-11-07
-55,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,12 Nov 2022,2022,Nov,12,2022-11-12
-56,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,13 Jan 2023,2023,Jan,13,2023-01-13
-57,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,16 Jan 2023,2023,Jan,16,2023-01-16
-58,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,17 Dec 2022,2022,Dec,17,2022-12-17
-59,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,18 Jan 2023,2023,Jan,18,2023-01-18
-60,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,19 Nov 2022,2022,Nov,19,2022-11-19
-61,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,21 Nov 2022,2022,Nov,21,2022-11-21
-62,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,23 Jan 2023,2023,Jan,23,2023-01-23
-63,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,24 Nov 2022,2022,Nov,24,2022-11-24
-64,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,25 Dec 2022,2022,Dec,25,2022-12-25
-65,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,25 Jan 2023,2023,Jan,25,2023-01-25
-66,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,26 Nov 2022,2022,Nov,26,2022-11-26
-67,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,28 Dec 2022,2022,Dec,28,2022-12-28
-68,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,29 Jan 2023,2023,Jan,29,2023-01-29
-69,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,30 Dec 2022,2022,Dec,30,2022-12-30
-70,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,31 Dec 2022,2022,Dec,31,2022-12-31
-71,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2850,2800,03 Jan 2023,2023,Jan,03,2023-01-03
-72,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2850,2800,05 Dec 2022,2022,Dec,05,2022-12-05
-73,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2850,2800,17 Nov 2022,2022,Nov,17,2022-11-17
-74,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,09 Dec 2022,2022,Dec,09,2022-12-09
-75,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,09 Nov 2022,2022,Nov,09,2022-11-09
-76,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,23 Nov 2022,2022,Nov,23,2022-11-23
-77,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,26 Jan 2023,2023,Jan,26,2023-01-26
-78,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,28 Jan 2023,2023,Jan,28,2023-01-28
-79,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,28 Nov 2022,2022,Nov,28,2022-11-28
-80,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,29 Nov 2022,2022,Nov,29,2022-11-29
-81,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2900,2850,04 Nov 2022,2022,Nov,04,2022-11-04
-82,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2900,2850,15 Nov 2022,2022,Nov,15,2022-11-15
-83,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2900,2850,30 Nov 2022,2022,Nov,30,2022-11-30
-84,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2760,2850,2800,02 Nov 2022,2022,Nov,02,2022-11-02
-85,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2800,2900,2850,03 Nov 2022,2022,Nov,03,2022-11-03
-86,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2800,2900,2850,05 Nov 2022,2022,Nov,05,2022-11-05
-87,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2800,2900,2850,10 Nov 2022,2022,Nov,10,2022-11-10
-88,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2850,2950,2900,01 Nov 2022,2022,Nov,01,2022-11-01
-89,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,21000,23000,22500,11 Oct 2022,2022,Oct,11,2022-10-11
-90,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,1450,1550,1500,17 Oct 2022,2022,Oct,17,2022-10-17
-91,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,01 Mar 2023,2023,Mar,01,2023-03-01
-92,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,01 May 2023,2023,May,01,2023-05-01
-93,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,02 Mar 2023,2023,Mar,02,2023-03-02
-94,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,02 May 2023,2023,May,02,2023-05-02
-95,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,03 Apr 2023,2023,Apr,03,2023-04-03
-96,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,04 Apr 2023,2023,Apr,04,2023-04-04
-97,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,05 Apr 2023,2023,Apr,05,2023-04-05
-98,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,05 May 2023,2023,May,05,2023-05-05
-99,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,05 Nov 2022,2022,Nov,05,2022-11-05
-100,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,06 Apr 2023,2023,Apr,06,2023-04-06
-101,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,06 May 2023,2023,May,06,2023-05-06
-102,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,06 Nov 2022,2022,Nov,06,2022-11-06
-103,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,07 Nov 2022,2022,Nov,07,2022-11-07
-104,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,08 May 2023,2023,May,08,2023-05-08
-105,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,08 Nov 2022,2022,Nov,08,2022-11-08
-106,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,09 Nov 2022,2022,Nov,09,2022-11-09
-107,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,10 Apr 2023,2023,Apr,10,2023-04-10
-108,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,10 Mar 2023,2023,Mar,10,2023-03-10
-109,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,10 May 2023,2023,May,10,2023-05-10
-110,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,10 Nov 2022,2022,Nov,10,2022-11-10
-111,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 Apr 2023,2023,Apr,11,2023-04-11
-112,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 Mar 2023,2023,Mar,11,2023-03-11
-113,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 May 2023,2023,May,11,2023-05-11
-114,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 Nov 2022,2022,Nov,11,2022-11-11
-115,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 Oct 2022,2022,Oct,11,2022-10-11
-116,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,12 Jan 2023,2023,Jan,12,2023-01-12
-117,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,12 May 2023,2023,May,12,2023-05-12
-118,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,12 Oct 2022,2022,Oct,12,2022-10-12
-119,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Apr 2023,2023,Apr,13,2023-04-13
-120,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Jan 2023,2023,Jan,13,2023-01-13
-121,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Mar 2023,2023,Mar,13,2023-03-13
-122,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Nov 2022,2022,Nov,13,2022-11-13
-123,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Oct 2022,2022,Oct,13,2022-10-13
-124,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,14 Apr 2023,2023,Apr,14,2023-04-14
-125,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,14 Nov 2022,2022,Nov,14,2022-11-14
-126,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,15 Apr 2023,2023,Apr,15,2023-04-15
-127,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,15 Feb 2023,2023,Feb,15,2023-02-15
-128,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,15 Nov 2022,2022,Nov,15,2022-11-15
-129,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,15 Oct 2022,2022,Oct,15,2022-10-15
-130,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Feb 2023,2023,Feb,16,2023-02-16
-131,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Mar 2023,2023,Mar,16,2023-03-16
-132,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 May 2023,2023,May,16,2023-05-16
-133,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Nov 2022,2022,Nov,16,2022-11-16
-134,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Oct 2022,2022,Oct,16,2022-10-16
-135,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,17 Apr 2023,2023,Apr,17,2023-04-17
-136,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,17 Mar 2023,2023,Mar,17,2023-03-17
-137,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,17 May 2023,2023,May,17,2023-05-17
-138,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Apr 2023,2023,Apr,18,2023-04-18
-139,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Feb 2023,2023,Feb,18,2023-02-18
-140,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 May 2023,2023,May,18,2023-05-18
-141,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Nov 2022,2022,Nov,18,2022-11-18
-142,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Oct 2022,2022,Oct,18,2022-10-18
-143,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,19 Apr 2023,2023,Apr,19,2023-04-19
-144,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,19 May 2023,2023,May,19,2023-05-19
-145,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,19 Nov 2022,2022,Nov,19,2022-11-19
-146,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,20 Feb 2023,2023,Feb,20,2023-02-20
-147,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,20 May 2023,2023,May,20,2023-05-20
-148,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,21 Feb 2023,2023,Feb,21,2023-02-21
-149,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,21 Nov 2022,2022,Nov,21,2022-11-21
-150,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,22 Apr 2023,2023,Apr,22,2023-04-22
-151,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,22 Feb 2023,2023,Feb,22,2023-02-22
-152,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,22 Nov 2022,2022,Nov,22,2022-11-22
-153,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,24 Apr 2023,2023,Apr,24,2023-04-24
-154,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,24 Feb 2023,2023,Feb,24,2023-02-24
-155,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,24 May 2023,2023,May,24,2023-05-24
-156,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,25 Feb 2023,2023,Feb,25,2023-02-25
-157,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,25 Mar 2023,2023,Mar,25,2023-03-25
-158,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,25 May 2023,2023,May,25,2023-05-25
-159,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,26 Apr 2023,2023,Apr,26,2023-04-26
-160,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,26 May 2023,2023,May,26,2023-05-26
-161,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,27 Apr 2023,2023,Apr,27,2023-04-27
-162,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,27 Feb 2023,2023,Feb,27,2023-02-27
-163,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,27 Mar 2023,2023,Mar,27,2023-03-27
-164,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,27 May 2023,2023,May,27,2023-05-27
-165,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,28 Apr 2023,2023,Apr,28,2023-04-28
-166,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,28 Mar 2023,2023,Mar,28,2023-03-28
-167,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,29 Mar 2023,2023,Mar,29,2023-03-29
-168,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,30 Mar 2023,2023,Mar,30,2023-03-30
-169,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,31 Mar 2023,2023,Mar,31,2023-03-31
-170,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,01 Feb 2023,2023,Feb,01,2023-02-01
-171,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,02 Feb 2023,2023,Feb,02,2023-02-02
-172,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,02 Jan 2023,2023,Jan,02,2023-01-02
-173,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,03 Feb 2023,2023,Feb,03,2023-02-03
-174,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,03 Jan 2023,2023,Jan,03,2023-01-03
-175,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,04 Feb 2023,2023,Feb,04,2023-02-04
-176,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,04 Jan 2023,2023,Jan,04,2023-01-04
-177,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,05 Dec 2022,2022,Dec,05,2022-12-05
-178,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,06 Feb 2023,2023,Feb,06,2023-02-06
-179,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,06 Jan 2023,2023,Jan,06,2023-01-06
-180,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,07 Apr 2023,2023,Apr,07,2023-04-07
-181,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,07 Feb 2023,2023,Feb,07,2023-02-07
-182,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,07 Jan 2023,2023,Jan,07,2023-01-07
-183,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,08 Feb 2023,2023,Feb,08,2023-02-08
-184,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,09 Feb 2023,2023,Feb,09,2023-02-09
-185,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,09 Jan 2023,2023,Jan,09,2023-01-09
-186,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,10 Dec 2022,2022,Dec,10,2022-12-10
-187,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,10 Feb 2023,2023,Feb,10,2023-02-10
-188,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,11 Jan 2023,2023,Jan,11,2023-01-11
-189,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,13 Dec 2022,2022,Dec,13,2022-12-13
-190,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,13 Feb 2023,2023,Feb,13,2023-02-13
-191,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,14 Mar 2023,2023,Mar,14,2023-03-14
-192,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,15 Mar 2023,2023,Mar,15,2023-03-15
-193,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,17 Feb 2023,2023,Feb,17,2023-02-17
-194,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,18 Jan 2023,2023,Jan,18,2023-01-18
-195,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,18 Mar 2023,2023,Mar,18,2023-03-18
-196,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,19 Dec 2022,2022,Dec,19,2022-12-19
-197,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,19 Jan 2023,2023,Jan,19,2023-01-19
-198,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,20 Dec 2022,2022,Dec,20,2022-12-20
-199,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,20 Jan 2023,2023,Jan,20,2023-01-20
-200,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,21 Dec 2022,2022,Dec,21,2022-12-21
-201,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,21 Jan 2023,2023,Jan,21,2023-01-21
-202,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,22 Dec 2022,2022,Dec,22,2022-12-22
-203,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,23 Jan 2023,2023,Jan,23,2023-01-23
-204,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,23 May 2023,2023,May,23,2023-05-23
-205,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,24 Dec 2022,2022,Dec,24,2022-12-24
-206,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,24 Jan 2023,2023,Jan,24,2023-01-24
-207,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,25 Dec 2022,2022,Dec,25,2022-12-25
-208,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,25 Jan 2023,2023,Jan,25,2023-01-25
-209,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,25 Nov 2022,2022,Nov,25,2022-11-25
-210,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,26 Dec 2022,2022,Dec,26,2022-12-26
-211,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,26 Jan 2023,2023,Jan,26,2023-01-26
-212,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,27 Nov 2022,2022,Nov,27,2022-11-27
-213,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,28 Jan 2023,2023,Jan,28,2023-01-28
-214,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,28 Nov 2022,2022,Nov,28,2022-11-28
-215,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,30 Dec 2022,2022,Dec,30,2022-12-30
-216,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,30 Nov 2022,2022,Nov,30,2022-11-30
-217,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15500,15000,05 Jan 2023,2023,Jan,05,2023-01-05
-218,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,15000,15600,15300,14 Dec 2022,2022,Dec,14,2022-12-14
-219,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,15500,16500,16000,12 Sep 2022,2022,Sep,12,2022-09-12
-220,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,15500,16800,16000,06 Sep 2022,2022,Sep,06,2022-09-06
-221,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,02 Sep 2022,2022,Sep,02,2022-09-02
-222,Madhepura,Bihariganj,Mustard Oil,Other,FAQ,1400,2000,1700,18 Jun 2016,2016,Jun,18,2016-06-18
-223,Madhepura,Bihariganj,Mustard Oil,Other,FAQ,13000,15000,14000,27 Jun 2016,2016,Jun,27,2016-06-27
-224,Madhepura,Bihariganj,Mustard Oil,Other,FAQ,13000,15000,14000,30 Jun 2016,2016,Jun,30,2016-06-30
-225,Madhepura,Bihariganj,Mustard Oil,Other,FAQ,14000,16000,15000,19 May 2016,2016,May,19,2016-05-19
-226,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,01 Dec 2015,2015,Dec,01,2015-12-01
-227,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,01 Nov 2015,2015,Nov,01,2015-11-01
-228,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,02 Dec 2015,2015,Dec,02,2015-12-02
-229,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,02 Nov 2015,2015,Nov,02,2015-11-02
-230,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,03 Nov 2015,2015,Nov,03,2015-11-03
-231,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,04 Nov 2015,2015,Nov,04,2015-11-04
-232,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,05 Nov 2015,2015,Nov,05,2015-11-05
-233,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,06 Nov 2015,2015,Nov,06,2015-11-06
-234,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,07 Nov 2015,2015,Nov,07,2015-11-07
-235,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,09 Nov 2015,2015,Nov,09,2015-11-09
-236,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,10 Nov 2015,2015,Nov,10,2015-11-10
-237,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,11 Nov 2015,2015,Nov,11,2015-11-11
-238,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,12 Nov 2015,2015,Nov,12,2015-11-12
-239,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,13 Nov 2015,2015,Nov,13,2015-11-13
-240,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,14 Nov 2015,2015,Nov,14,2015-11-14
-241,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,15 Nov 2015,2015,Nov,15,2015-11-15
-242,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,16 Nov 2015,2015,Nov,16,2015-11-16
-243,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,17 Nov 2015,2015,Nov,17,2015-11-17
-244,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,18 Nov 2015,2015,Nov,18,2015-11-18
-245,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,19 Nov 2015,2015,Nov,19,2015-11-19
-246,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,20 Nov 2015,2015,Nov,20,2015-11-20
-247,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,21 Nov 2015,2015,Nov,21,2015-11-21
-248,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,22 Nov 2015,2015,Nov,22,2015-11-22
-249,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,23 Nov 2015,2015,Nov,23,2015-11-23
-250,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,24 Nov 2015,2015,Nov,24,2015-11-24
-251,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,25 Nov 2015,2015,Nov,25,2015-11-25
-252,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,26 Nov 2015,2015,Nov,26,2015-11-26
-253,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,27 Nov 2015,2015,Nov,27,2015-11-27
-254,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,28 Nov 2015,2015,Nov,28,2015-11-28
-255,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,28 Oct 2015,2015,Oct,28,2015-10-28
-256,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,29 Nov 2015,2015,Nov,29,2015-11-29
-257,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,29 Oct 2015,2015,Oct,29,2015-10-29
-258,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,30 Nov 2015,2015,Nov,30,2015-11-30
-259,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,30 Oct 2015,2015,Oct,30,2015-10-30
-260,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9050,13 Oct 2015,2015,Oct,13,2015-10-13
-261,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9050,14 Oct 2015,2015,Oct,14,2015-10-14
-262,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9050,15 Oct 2015,2015,Oct,15,2015-10-15
-263,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9050,16 Oct 2015,2015,Oct,16,2015-10-16
-264,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,01 Oct 2015,2015,Oct,01,2015-10-01
-265,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,02 Oct 2015,2015,Oct,02,2015-10-02
-266,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,03 Oct 2015,2015,Oct,03,2015-10-03
-267,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,04 Oct 2015,2015,Oct,04,2015-10-04
-268,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,05 Oct 2015,2015,Oct,05,2015-10-05
-269,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,06 Oct 2015,2015,Oct,06,2015-10-06
-270,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,07 Oct 2015,2015,Oct,07,2015-10-07
-271,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,08 Oct 2015,2015,Oct,08,2015-10-08
-272,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,09 Oct 2015,2015,Oct,09,2015-10-09
-273,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,10 Oct 2015,2015,Oct,10,2015-10-10
-274,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,11 Oct 2015,2015,Oct,11,2015-10-11
-275,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,12 Oct 2015,2015,Oct,12,2015-10-12
-276,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,24 Sep 2015,2015,Sep,24,2015-09-24
-277,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,26 Sep 2015,2015,Sep,26,2015-09-26
-278,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,29 Sep 2015,2015,Sep,29,2015-09-29
-279,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,30 Sep 2015,2015,Sep,30,2015-09-30
-280,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9500,10000,9750,23 Sep 2015,2015,Sep,23,2015-09-23
-281,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,01 Jan 2016,2016,Jan,01,2016-01-01
-282,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,02 Jan 2016,2016,Jan,02,2016-01-02
-283,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,03 Dec 2015,2015,Dec,03,2015-12-03
-284,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,03 Jan 2016,2016,Jan,03,2016-01-03
-285,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,04 Dec 2015,2015,Dec,04,2015-12-04
-286,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,04 Jan 2016,2016,Jan,04,2016-01-04
-287,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,05 Dec 2015,2015,Dec,05,2015-12-05
-288,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,05 Jan 2016,2016,Jan,05,2016-01-05
-289,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,06 Dec 2015,2015,Dec,06,2015-12-06
-290,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,06 Jan 2016,2016,Jan,06,2016-01-06
-291,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,07 Dec 2015,2015,Dec,07,2015-12-07
-292,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,07 Jan 2016,2016,Jan,07,2016-01-07
-293,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,08 Dec 2015,2015,Dec,08,2015-12-08
-294,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,08 Jan 2016,2016,Jan,08,2016-01-08
-295,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,09 Dec 2015,2015,Dec,09,2015-12-09
-296,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,09 Jan 2016,2016,Jan,09,2016-01-09
-297,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,10 Dec 2015,2015,Dec,10,2015-12-10
-298,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,10 Jan 2016,2016,Jan,10,2016-01-10
-299,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,11 Dec 2015,2015,Dec,11,2015-12-11
-300,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,12 Dec 2015,2015,Dec,12,2015-12-12
-301,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,13 Dec 2015,2015,Dec,13,2015-12-13
-302,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,14 Dec 2015,2015,Dec,14,2015-12-14
-303,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,14 Jan 2016,2016,Jan,14,2016-01-14
-304,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,15 Dec 2015,2015,Dec,15,2015-12-15
-305,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,16 Dec 2015,2015,Dec,16,2015-12-16
-306,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,17 Dec 2015,2015,Dec,17,2015-12-17
-307,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,18 Dec 2015,2015,Dec,18,2015-12-18
-308,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,19 Dec 2015,2015,Dec,19,2015-12-19
-309,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,20 Jan 2016,2016,Jan,20,2016-01-20
-310,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,21 Jan 2016,2016,Jan,21,2016-01-21
-311,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,22 Jan 2016,2016,Jan,22,2016-01-22
-312,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,23 Jan 2016,2016,Jan,23,2016-01-23
-313,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,24 Dec 2015,2015,Dec,24,2015-12-24
-314,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,24 Jan 2016,2016,Jan,24,2016-01-24
-315,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,25 Dec 2015,2015,Dec,25,2015-12-25
-316,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,25 Jan 2016,2016,Jan,25,2016-01-25
-317,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,27 Jan 2016,2016,Jan,27,2016-01-27
-318,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,30 Jan 2016,2016,Jan,30,2016-01-30
-319,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,31 Jan 2016,2016,Jan,31,2016-01-31
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Kishanganj,Kishanganj,Mustard Oil,Other,FAQ,15000,17500,16000,22 Mar 2022,2022,Mar,22,2022-03-22
+1,1.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16000,17500,16500,02 Aug 2022,2022,Aug,2,2022-08-02
+2,2.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16000,17500,16500,18 Aug 2022,2022,Aug,18,2022-08-18
+3,3.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,01 Aug 2022,2022,Aug,1,2022-08-01
+4,4.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,05 Aug 2022,2022,Aug,5,2022-08-05
+5,5.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,11 Aug 2022,2022,Aug,11,2022-08-11
+6,6.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,23 Aug 2022,2022,Aug,23,2022-08-23
+7,7.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16500,17500,17000,26 Aug 2022,2022,Aug,26,2022-08-26
+8,8.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16500,18000,17500,23 May 2022,2022,May,23,2022-05-23
+9,9.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,17000,19000,18000,05 May 2022,2022,May,5,2022-05-05
+10,10.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,17500,18500,18000,13 May 2022,2022,May,13,2022-05-13
+11,11.0,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3600,3800,3700,16 Jul 2015,2015,Jul,16,2015-07-16
+12,12.0,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3650,3750,3700,17 Jul 2015,2015,Jul,17,2015-07-17
+13,13.0,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3700,3800,3750,15 Jul 2015,2015,Jul,15,2015-07-15
+14,14.0,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3800,4000,3900,22 Aug 2015,2015,Aug,22,2015-08-22
+15,15.0,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,9500,9700,9600,05 Feb 2015,2015,Feb,5,2015-02-05
+16,16.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2650,2600,16 Dec 2022,2022,Dec,16,2022-12-16
+17,17.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2650,2600,29 Dec 2022,2022,Dec,29,2022-12-29
+18,18.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2700,2650,12 Dec 2022,2022,Dec,12,2022-12-12
+19,19.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2700,2650,14 Dec 2022,2022,Dec,14,2022-12-14
+20,20.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2550,2700,2650,20 Dec 2022,2022,Dec,20,2022-12-20
+21,21.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,04 Jan 2023,2023,Jan,4,2023-01-04
+22,22.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,11 Jan 2023,2023,Jan,11,2023-01-11
+23,23.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,14 Jan 2023,2023,Jan,14,2023-01-14
+24,24.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,18 Nov 2022,2022,Nov,18,2022-11-18
+25,25.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2700,2650,24 Dec 2022,2022,Dec,24,2022-12-24
+26,26.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,05 Jan 2023,2023,Jan,5,2023-01-05
+27,27.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,10 Dec 2022,2022,Dec,10,2022-12-10
+28,28.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,10 Jan 2023,2023,Jan,10,2023-01-10
+29,29.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,11 Dec 2022,2022,Dec,11,2022-12-11
+30,30.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,20 Jan 2023,2023,Jan,20,2023-01-20
+31,31.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,22 Dec 2022,2022,Dec,22,2022-12-22
+32,32.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,23 Dec 2022,2022,Dec,23,2022-12-23
+33,33.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2600,2750,2700,25 Nov 2022,2022,Nov,25,2022-11-25
+34,34.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,01 Dec 2022,2022,Dec,1,2022-12-01
+35,35.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,02 Jan 2023,2023,Jan,2,2023-01-02
+36,36.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,06 Nov 2022,2022,Nov,6,2022-11-06
+37,37.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,08 Nov 2022,2022,Nov,8,2022-11-08
+38,38.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,09 Jan 2023,2023,Jan,9,2023-01-09
+39,39.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,15 Jan 2023,2023,Jan,15,2023-01-15
+40,40.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,19 Jan 2023,2023,Jan,19,2023-01-19
+41,41.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,20 Nov 2022,2022,Nov,20,2022-11-20
+42,42.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,21 Dec 2022,2022,Dec,21,2022-12-21
+43,43.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,22 Nov 2022,2022,Nov,22,2022-11-22
+44,44.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,24 Jan 2023,2023,Jan,24,2023-01-24
+45,45.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,26 Dec 2022,2022,Dec,26,2022-12-26
+46,46.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2750,2700,27 Dec 2022,2022,Dec,27,2022-12-27
+47,47.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2800,2750,11 Nov 2022,2022,Nov,11,2022-11-11
+48,48.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2800,2750,13 Nov 2022,2022,Nov,13,2022-11-13
+49,49.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2800,2750,16 Nov 2022,2022,Nov,16,2022-11-16
+50,50.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2650,2800,2750,30 Jan 2023,2023,Jan,30,2023-01-30
+51,51.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2680,2850,2800,03 Dec 2022,2022,Dec,3,2022-12-03
+52,52.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,02 Dec 2022,2022,Dec,2,2022-12-02
+53,53.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,04 Dec 2022,2022,Dec,4,2022-12-04
+54,54.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,07 Nov 2022,2022,Nov,7,2022-11-07
+55,55.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,12 Nov 2022,2022,Nov,12,2022-11-12
+56,56.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,13 Jan 2023,2023,Jan,13,2023-01-13
+57,57.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,16 Jan 2023,2023,Jan,16,2023-01-16
+58,58.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,17 Dec 2022,2022,Dec,17,2022-12-17
+59,59.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,18 Jan 2023,2023,Jan,18,2023-01-18
+60,60.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,19 Nov 2022,2022,Nov,19,2022-11-19
+61,61.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,21 Nov 2022,2022,Nov,21,2022-11-21
+62,62.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,23 Jan 2023,2023,Jan,23,2023-01-23
+63,63.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,24 Nov 2022,2022,Nov,24,2022-11-24
+64,64.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,25 Dec 2022,2022,Dec,25,2022-12-25
+65,65.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,25 Jan 2023,2023,Jan,25,2023-01-25
+66,66.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,26 Nov 2022,2022,Nov,26,2022-11-26
+67,67.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,28 Dec 2022,2022,Dec,28,2022-12-28
+68,68.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,29 Jan 2023,2023,Jan,29,2023-01-29
+69,69.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,30 Dec 2022,2022,Dec,30,2022-12-30
+70,70.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2800,2750,31 Dec 2022,2022,Dec,31,2022-12-31
+71,71.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2850,2800,03 Jan 2023,2023,Jan,3,2023-01-03
+72,72.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2850,2800,05 Dec 2022,2022,Dec,5,2022-12-05
+73,73.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2700,2850,2800,17 Nov 2022,2022,Nov,17,2022-11-17
+74,74.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,09 Dec 2022,2022,Dec,9,2022-12-09
+75,75.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,09 Nov 2022,2022,Nov,9,2022-11-09
+76,76.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,23 Nov 2022,2022,Nov,23,2022-11-23
+77,77.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,26 Jan 2023,2023,Jan,26,2023-01-26
+78,78.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,28 Jan 2023,2023,Jan,28,2023-01-28
+79,79.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,28 Nov 2022,2022,Nov,28,2022-11-28
+80,80.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2850,2800,29 Nov 2022,2022,Nov,29,2022-11-29
+81,81.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2900,2850,04 Nov 2022,2022,Nov,4,2022-11-04
+82,82.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2900,2850,15 Nov 2022,2022,Nov,15,2022-11-15
+83,83.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2750,2900,2850,30 Nov 2022,2022,Nov,30,2022-11-30
+84,84.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2760,2850,2800,02 Nov 2022,2022,Nov,2,2022-11-02
+85,85.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2800,2900,2850,03 Nov 2022,2022,Nov,3,2022-11-03
+86,86.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2800,2900,2850,05 Nov 2022,2022,Nov,5,2022-11-05
+87,87.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2800,2900,2850,10 Nov 2022,2022,Nov,10,2022-11-10
+88,88.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,2850,2950,2900,01 Nov 2022,2022,Nov,1,2022-11-01
+89,89.0,Nawada,Nawada,Mustard Oil,Mustard Oil,FAQ,21000,23000,22500,11 Oct 2022,2022,Oct,11,2022-10-11
+90,90.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,1450,1550,1500,17 Oct 2022,2022,Oct,17,2022-10-17
+91,91.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,01 Mar 2023,2023,Mar,1,2023-03-01
+92,92.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,01 May 2023,2023,May,1,2023-05-01
+93,93.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,02 Mar 2023,2023,Mar,2,2023-03-02
+94,94.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,02 May 2023,2023,May,2,2023-05-02
+95,95.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,03 Apr 2023,2023,Apr,3,2023-04-03
+96,96.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,04 Apr 2023,2023,Apr,4,2023-04-04
+97,97.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,05 Apr 2023,2023,Apr,5,2023-04-05
+98,98.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,05 May 2023,2023,May,5,2023-05-05
+99,99.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,05 Nov 2022,2022,Nov,5,2022-11-05
+100,100.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,06 Apr 2023,2023,Apr,6,2023-04-06
+101,101.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,06 May 2023,2023,May,6,2023-05-06
+102,102.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,06 Nov 2022,2022,Nov,6,2022-11-06
+103,103.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,07 Nov 2022,2022,Nov,7,2022-11-07
+104,104.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,08 May 2023,2023,May,8,2023-05-08
+105,105.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,08 Nov 2022,2022,Nov,8,2022-11-08
+106,106.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,09 Nov 2022,2022,Nov,9,2022-11-09
+107,107.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,10 Apr 2023,2023,Apr,10,2023-04-10
+108,108.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,10 Mar 2023,2023,Mar,10,2023-03-10
+109,109.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,10 May 2023,2023,May,10,2023-05-10
+110,110.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,10 Nov 2022,2022,Nov,10,2022-11-10
+111,111.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 Apr 2023,2023,Apr,11,2023-04-11
+112,112.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 Mar 2023,2023,Mar,11,2023-03-11
+113,113.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 May 2023,2023,May,11,2023-05-11
+114,114.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 Nov 2022,2022,Nov,11,2022-11-11
+115,115.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,11 Oct 2022,2022,Oct,11,2022-10-11
+116,116.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,12 Jan 2023,2023,Jan,12,2023-01-12
+117,117.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,12 May 2023,2023,May,12,2023-05-12
+118,118.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,12 Oct 2022,2022,Oct,12,2022-10-12
+119,119.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Apr 2023,2023,Apr,13,2023-04-13
+120,120.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Jan 2023,2023,Jan,13,2023-01-13
+121,121.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Mar 2023,2023,Mar,13,2023-03-13
+122,122.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Nov 2022,2022,Nov,13,2022-11-13
+123,123.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,13 Oct 2022,2022,Oct,13,2022-10-13
+124,124.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,14 Apr 2023,2023,Apr,14,2023-04-14
+125,125.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,14 Nov 2022,2022,Nov,14,2022-11-14
+126,126.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,15 Apr 2023,2023,Apr,15,2023-04-15
+127,127.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,15 Feb 2023,2023,Feb,15,2023-02-15
+128,128.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,15 Nov 2022,2022,Nov,15,2022-11-15
+129,129.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,15 Oct 2022,2022,Oct,15,2022-10-15
+130,130.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Feb 2023,2023,Feb,16,2023-02-16
+131,131.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Mar 2023,2023,Mar,16,2023-03-16
+132,132.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 May 2023,2023,May,16,2023-05-16
+133,133.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Nov 2022,2022,Nov,16,2022-11-16
+134,134.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Oct 2022,2022,Oct,16,2022-10-16
+135,135.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,17 Apr 2023,2023,Apr,17,2023-04-17
+136,136.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,17 Mar 2023,2023,Mar,17,2023-03-17
+137,137.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,17 May 2023,2023,May,17,2023-05-17
+138,138.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Apr 2023,2023,Apr,18,2023-04-18
+139,139.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Feb 2023,2023,Feb,18,2023-02-18
+140,140.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 May 2023,2023,May,18,2023-05-18
+141,141.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Nov 2022,2022,Nov,18,2022-11-18
+142,142.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Oct 2022,2022,Oct,18,2022-10-18
+143,143.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,19 Apr 2023,2023,Apr,19,2023-04-19
+144,144.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,19 May 2023,2023,May,19,2023-05-19
+145,145.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,19 Nov 2022,2022,Nov,19,2022-11-19
+146,146.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,20 Feb 2023,2023,Feb,20,2023-02-20
+147,147.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,20 May 2023,2023,May,20,2023-05-20
+148,148.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,21 Feb 2023,2023,Feb,21,2023-02-21
+149,149.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,21 Nov 2022,2022,Nov,21,2022-11-21
+150,150.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,22 Apr 2023,2023,Apr,22,2023-04-22
+151,151.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,22 Feb 2023,2023,Feb,22,2023-02-22
+152,152.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,22 Nov 2022,2022,Nov,22,2022-11-22
+153,153.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,24 Apr 2023,2023,Apr,24,2023-04-24
+154,154.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,24 Feb 2023,2023,Feb,24,2023-02-24
+155,155.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,24 May 2023,2023,May,24,2023-05-24
+156,156.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,25 Feb 2023,2023,Feb,25,2023-02-25
+157,157.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,25 Mar 2023,2023,Mar,25,2023-03-25
+158,158.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,25 May 2023,2023,May,25,2023-05-25
+159,159.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,26 Apr 2023,2023,Apr,26,2023-04-26
+160,160.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,26 May 2023,2023,May,26,2023-05-26
+161,161.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,27 Apr 2023,2023,Apr,27,2023-04-27
+162,162.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,27 Feb 2023,2023,Feb,27,2023-02-27
+163,163.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,27 Mar 2023,2023,Mar,27,2023-03-27
+164,164.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,27 May 2023,2023,May,27,2023-05-27
+165,165.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,28 Apr 2023,2023,Apr,28,2023-04-28
+166,166.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,28 Mar 2023,2023,Mar,28,2023-03-28
+167,167.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,29 Mar 2023,2023,Mar,29,2023-03-29
+168,168.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,30 Mar 2023,2023,Mar,30,2023-03-30
+169,169.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,31 Mar 2023,2023,Mar,31,2023-03-31
+170,170.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,01 Feb 2023,2023,Feb,1,2023-02-01
+171,171.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,02 Feb 2023,2023,Feb,2,2023-02-02
+172,172.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,02 Jan 2023,2023,Jan,2,2023-01-02
+173,173.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,03 Feb 2023,2023,Feb,3,2023-02-03
+174,174.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,03 Jan 2023,2023,Jan,3,2023-01-03
+175,175.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,04 Feb 2023,2023,Feb,4,2023-02-04
+176,176.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,04 Jan 2023,2023,Jan,4,2023-01-04
+177,177.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,05 Dec 2022,2022,Dec,5,2022-12-05
+178,178.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,06 Feb 2023,2023,Feb,6,2023-02-06
+179,179.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,06 Jan 2023,2023,Jan,6,2023-01-06
+180,180.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,07 Apr 2023,2023,Apr,7,2023-04-07
+181,181.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,07 Feb 2023,2023,Feb,7,2023-02-07
+182,182.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,07 Jan 2023,2023,Jan,7,2023-01-07
+183,183.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,08 Feb 2023,2023,Feb,8,2023-02-08
+184,184.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,09 Feb 2023,2023,Feb,9,2023-02-09
+185,185.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,09 Jan 2023,2023,Jan,9,2023-01-09
+186,186.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,10 Dec 2022,2022,Dec,10,2022-12-10
+187,187.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,10 Feb 2023,2023,Feb,10,2023-02-10
+188,188.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,11 Jan 2023,2023,Jan,11,2023-01-11
+189,189.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,13 Dec 2022,2022,Dec,13,2022-12-13
+190,190.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,13 Feb 2023,2023,Feb,13,2023-02-13
+191,191.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,14 Mar 2023,2023,Mar,14,2023-03-14
+192,192.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,15 Mar 2023,2023,Mar,15,2023-03-15
+193,193.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,17 Feb 2023,2023,Feb,17,2023-02-17
+194,194.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,18 Jan 2023,2023,Jan,18,2023-01-18
+195,195.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,18 Mar 2023,2023,Mar,18,2023-03-18
+196,196.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,19 Dec 2022,2022,Dec,19,2022-12-19
+197,197.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,19 Jan 2023,2023,Jan,19,2023-01-19
+198,198.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,20 Dec 2022,2022,Dec,20,2022-12-20
+199,199.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,20 Jan 2023,2023,Jan,20,2023-01-20
+200,200.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,21 Dec 2022,2022,Dec,21,2022-12-21
+201,201.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,21 Jan 2023,2023,Jan,21,2023-01-21
+202,202.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,22 Dec 2022,2022,Dec,22,2022-12-22
+203,203.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,23 Jan 2023,2023,Jan,23,2023-01-23
+204,204.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,23 May 2023,2023,May,23,2023-05-23
+205,205.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,24 Dec 2022,2022,Dec,24,2022-12-24
+206,206.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,24 Jan 2023,2023,Jan,24,2023-01-24
+207,207.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,25 Dec 2022,2022,Dec,25,2022-12-25
+208,208.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,25 Jan 2023,2023,Jan,25,2023-01-25
+209,209.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,25 Nov 2022,2022,Nov,25,2022-11-25
+210,210.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,26 Dec 2022,2022,Dec,26,2022-12-26
+211,211.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,26 Jan 2023,2023,Jan,26,2023-01-26
+212,212.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,27 Nov 2022,2022,Nov,27,2022-11-27
+213,213.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,28 Jan 2023,2023,Jan,28,2023-01-28
+214,214.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,28 Nov 2022,2022,Nov,28,2022-11-28
+215,215.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,30 Dec 2022,2022,Dec,30,2022-12-30
+216,216.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15000,14750,30 Nov 2022,2022,Nov,30,2022-11-30
+217,217.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,14500,15500,15000,05 Jan 2023,2023,Jan,5,2023-01-05
+218,218.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,15000,15600,15300,14 Dec 2022,2022,Dec,14,2022-12-14
+219,219.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,15500,16500,16000,12 Sep 2022,2022,Sep,12,2022-09-12
+220,220.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,15500,16800,16000,06 Sep 2022,2022,Sep,6,2022-09-06
+221,221.0,Patna,Patna City,Mustard Oil,Mustard Oil,FAQ,16300,17500,17000,02 Sep 2022,2022,Sep,2,2022-09-02
+222,222.0,Madhepura,Bihariganj,Mustard Oil,Other,FAQ,1400,2000,1700,18 Jun 2016,2016,Jun,18,2016-06-18
+223,223.0,Madhepura,Bihariganj,Mustard Oil,Other,FAQ,13000,15000,14000,27 Jun 2016,2016,Jun,27,2016-06-27
+224,224.0,Madhepura,Bihariganj,Mustard Oil,Other,FAQ,13000,15000,14000,30 Jun 2016,2016,Jun,30,2016-06-30
+225,225.0,Madhepura,Bihariganj,Mustard Oil,Other,FAQ,14000,16000,15000,19 May 2016,2016,May,19,2016-05-19
+226,226.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,01 Dec 2015,2015,Dec,1,2015-12-01
+227,227.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,01 Nov 2015,2015,Nov,1,2015-11-01
+228,228.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,02 Dec 2015,2015,Dec,2,2015-12-02
+229,229.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,02 Nov 2015,2015,Nov,2,2015-11-02
+230,230.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,03 Nov 2015,2015,Nov,3,2015-11-03
+231,231.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,04 Nov 2015,2015,Nov,4,2015-11-04
+232,232.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,05 Nov 2015,2015,Nov,5,2015-11-05
+233,233.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,06 Nov 2015,2015,Nov,6,2015-11-06
+234,234.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,07 Nov 2015,2015,Nov,7,2015-11-07
+235,235.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,09 Nov 2015,2015,Nov,9,2015-11-09
+236,236.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,10 Nov 2015,2015,Nov,10,2015-11-10
+237,237.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,11 Nov 2015,2015,Nov,11,2015-11-11
+238,238.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,12 Nov 2015,2015,Nov,12,2015-11-12
+239,239.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,13 Nov 2015,2015,Nov,13,2015-11-13
+240,240.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,14 Nov 2015,2015,Nov,14,2015-11-14
+241,241.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,15 Nov 2015,2015,Nov,15,2015-11-15
+242,242.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,16 Nov 2015,2015,Nov,16,2015-11-16
+243,243.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,17 Nov 2015,2015,Nov,17,2015-11-17
+244,244.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,18 Nov 2015,2015,Nov,18,2015-11-18
+245,245.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,19 Nov 2015,2015,Nov,19,2015-11-19
+246,246.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,20 Nov 2015,2015,Nov,20,2015-11-20
+247,247.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,21 Nov 2015,2015,Nov,21,2015-11-21
+248,248.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,22 Nov 2015,2015,Nov,22,2015-11-22
+249,249.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,23 Nov 2015,2015,Nov,23,2015-11-23
+250,250.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,24 Nov 2015,2015,Nov,24,2015-11-24
+251,251.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,25 Nov 2015,2015,Nov,25,2015-11-25
+252,252.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,26 Nov 2015,2015,Nov,26,2015-11-26
+253,253.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,27 Nov 2015,2015,Nov,27,2015-11-27
+254,254.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,28 Nov 2015,2015,Nov,28,2015-11-28
+255,255.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,28 Oct 2015,2015,Oct,28,2015-10-28
+256,256.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,29 Nov 2015,2015,Nov,29,2015-11-29
+257,257.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,29 Oct 2015,2015,Oct,29,2015-10-29
+258,258.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,30 Nov 2015,2015,Nov,30,2015-11-30
+259,259.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,8000,8500,8250,30 Oct 2015,2015,Oct,30,2015-10-30
+260,260.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9050,13 Oct 2015,2015,Oct,13,2015-10-13
+261,261.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9050,14 Oct 2015,2015,Oct,14,2015-10-14
+262,262.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9050,15 Oct 2015,2015,Oct,15,2015-10-15
+263,263.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9050,16 Oct 2015,2015,Oct,16,2015-10-16
+264,264.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,01 Oct 2015,2015,Oct,1,2015-10-01
+265,265.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,02 Oct 2015,2015,Oct,2,2015-10-02
+266,266.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,03 Oct 2015,2015,Oct,3,2015-10-03
+267,267.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,04 Oct 2015,2015,Oct,4,2015-10-04
+268,268.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,05 Oct 2015,2015,Oct,5,2015-10-05
+269,269.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,06 Oct 2015,2015,Oct,6,2015-10-06
+270,270.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,07 Oct 2015,2015,Oct,7,2015-10-07
+271,271.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,08 Oct 2015,2015,Oct,8,2015-10-08
+272,272.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,09 Oct 2015,2015,Oct,9,2015-10-09
+273,273.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,10 Oct 2015,2015,Oct,10,2015-10-10
+274,274.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,11 Oct 2015,2015,Oct,11,2015-10-11
+275,275.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,12 Oct 2015,2015,Oct,12,2015-10-12
+276,276.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,24 Sep 2015,2015,Sep,24,2015-09-24
+277,277.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,26 Sep 2015,2015,Sep,26,2015-09-26
+278,278.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,29 Sep 2015,2015,Sep,29,2015-09-29
+279,279.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9000,10000,9500,30 Sep 2015,2015,Sep,30,2015-09-30
+280,280.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,9500,10000,9750,23 Sep 2015,2015,Sep,23,2015-09-23
+281,281.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,01 Jan 2016,2016,Jan,1,2016-01-01
+282,282.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,02 Jan 2016,2016,Jan,2,2016-01-02
+283,283.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,03 Dec 2015,2015,Dec,3,2015-12-03
+284,284.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,03 Jan 2016,2016,Jan,3,2016-01-03
+285,285.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,04 Dec 2015,2015,Dec,4,2015-12-04
+286,286.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,04 Jan 2016,2016,Jan,4,2016-01-04
+287,287.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,05 Dec 2015,2015,Dec,5,2015-12-05
+288,288.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,05 Jan 2016,2016,Jan,5,2016-01-05
+289,289.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,06 Dec 2015,2015,Dec,6,2015-12-06
+290,290.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,06 Jan 2016,2016,Jan,6,2016-01-06
+291,291.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,07 Dec 2015,2015,Dec,7,2015-12-07
+292,292.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,07 Jan 2016,2016,Jan,7,2016-01-07
+293,293.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,08 Dec 2015,2015,Dec,8,2015-12-08
+294,294.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,08 Jan 2016,2016,Jan,8,2016-01-08
+295,295.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,09 Dec 2015,2015,Dec,9,2015-12-09
+296,296.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,09 Jan 2016,2016,Jan,9,2016-01-09
+297,297.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,10 Dec 2015,2015,Dec,10,2015-12-10
+298,298.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,10 Jan 2016,2016,Jan,10,2016-01-10
+299,299.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,11 Dec 2015,2015,Dec,11,2015-12-11
+300,300.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,12 Dec 2015,2015,Dec,12,2015-12-12
+301,301.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,13 Dec 2015,2015,Dec,13,2015-12-13
+302,302.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,14 Dec 2015,2015,Dec,14,2015-12-14
+303,303.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,14 Jan 2016,2016,Jan,14,2016-01-14
+304,304.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,15 Dec 2015,2015,Dec,15,2015-12-15
+305,305.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,16 Dec 2015,2015,Dec,16,2015-12-16
+306,306.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,17 Dec 2015,2015,Dec,17,2015-12-17
+307,307.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,18 Dec 2015,2015,Dec,18,2015-12-18
+308,308.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,19 Dec 2015,2015,Dec,19,2015-12-19
+309,309.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,20 Jan 2016,2016,Jan,20,2016-01-20
+310,310.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,21 Jan 2016,2016,Jan,21,2016-01-21
+311,311.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,22 Jan 2016,2016,Jan,22,2016-01-22
+312,312.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,23 Jan 2016,2016,Jan,23,2016-01-23
+313,313.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,24 Dec 2015,2015,Dec,24,2015-12-24
+314,314.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,24 Jan 2016,2016,Jan,24,2016-01-24
+315,315.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,25 Dec 2015,2015,Dec,25,2015-12-25
+316,316.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,25 Jan 2016,2016,Jan,25,2016-01-25
+317,317.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,27 Jan 2016,2016,Jan,27,2016-01-27
+318,318.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,30 Jan 2016,2016,Jan,30,2016-01-30
+319,319.0,Chhapra,Chhapra,Mustard Oil,Other,FAQ,12000,14000,13000,31 Jan 2016,2016,Jan,31,2016-01-31
+320,,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3600,3800,3700,16 Jul 2015,2015,Jul,16,2015-07-16 00:00:00
+321,,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3650,3750,3700,17 Jul 2015,2015,Jul,17,2015-07-17 00:00:00
+322,,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3700,3800,3750,15 Jul 2015,2015,Jul,15,2015-07-15 00:00:00
+323,,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,3800,4000,3900,22 Aug 2015,2015,Aug,22,2015-08-22 00:00:00
+324,,Aurangabad,Aurangabad,Mustard Oil,Other,FAQ,9500,9700,9600,05 Feb 2015,2015,Feb,05,2015-02-05 00:00:00

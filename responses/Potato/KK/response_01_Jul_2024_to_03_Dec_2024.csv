@@ -1,0 +1,1159 @@
+0,1,2,3,4,5,6,7,8,9
+1,Hassan,Arasikere,Potato,Local,FAQ,3000,3000,3000,05 Nov 2024
+2,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1500,2000,1800,10 Aug 2024
+3,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1700,2600,2200,06 Nov 2024
+4,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1700,2800,1900,19 Sep 2024
+5,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1700,2800,2300,26 Oct 2024
+6,Bangalore,Bangalore,Potato,Local,FAQ,1600,3400,2800,10 Sep 2024
+7,Bangalore,Bangalore,Potato,Local,FAQ,2600,3400,3000,03 Oct 2024
+8,Bangalore,Bangalore,Potato,Local,FAQ,3200,3400,3300,03 Jul 2024
+9,Bangalore,Bangalore,Potato,Local,FAQ,3200,3400,3300,05 Jul 2024
+10,Bangalore,Bangalore,Potato,Local,FAQ,3600,3800,3700,26 Jul 2024
+11,Bangalore,Bangalore,Potato,Potato,FAQ,2200,3000,2600,09 Aug 2024
+12,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,04 Jul 2024
+13,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3200,2800,10 Jul 2024
+14,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3000,2700,09 Oct 2024
+15,Belgaum,Belgaum,Potato,Local,FAQ,2000,3000,2500,17 Sep 2024
+16,Belgaum,Belgaum,Potato,Local,FAQ,2000,3500,3000,28 Oct 2024
+17,Belgaum,Belgaum,Potato,Local,FAQ,2000,4000,3500,11 Nov 2024
+18,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,13 Aug 2024
+19,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,17 Aug 2024
+20,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,30 Sep 2024
+21,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,3000,23 Jul 2024
+22,Belgaum,Belgaum,Potato,Local,FAQ,2500,3300,2900,09 Jul 2024
+23,Belgaum,Belgaum,Potato,Local,FAQ,2500,3800,3500,25 Oct 2024
+24,Belgaum,Belgaum,Potato,Local,FAQ,2600,3300,3100,16 Jul 2024
+25,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1600,1800,1700,03 Oct 2024
+26,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1600,1800,1700,08 Nov 2024
+27,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3200,3000,13 Nov 2024
+28,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3600,2600,26 Nov 2024
+29,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,3000,2600,03 Nov 2024
+30,Kolar,Chickkaballapura,Potato,Local,FAQ,2500,2600,2550,16 Sep 2024
+31,Kolar,Chickkaballapura,Potato,Local,FAQ,2800,3200,3000,15 Nov 2024
+32,Kolar,Chickkaballapura,Potato,Local,FAQ,3400,3600,3500,12 Oct 2024
+33,Kolar,Chickkaballapura,Potato,Local,FAQ,3400,3800,3700,15 Oct 2024
+34,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2575,2775,2675,25 Nov 2024
+35,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2765,2965,2865,06 Nov 2024
+36,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2769,2969,2869,10 Jul 2024
+37,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2774,2974,2874,28 Nov 2024
+38,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2841,3041,2941,19 Nov 2024
+39,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2841,3041,2941,25 Oct 2024
+40,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2892,3092,2992,08 Nov 2024
+41,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2940,3140,3040,18 Jul 2024
+42,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2987,3187,3087,20 Jul 2024
+43,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3105,3305,3205,27 Aug 2024
+44,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,06 Nov 2024
+45,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,30 Oct 2024
+46,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,25 Sep 2024
+47,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,09 Jul 2024
+48,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,13 Sep 2024
+49,Davangere,Davangere,Potato,Potato,FAQ,2200,2600,2400,01 Aug 2024
+50,Davangere,Davangere,Potato,Potato,FAQ,2200,2600,2400,31 Jul 2024
+51,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,10 Sep 2024
+52,Bangalore,Doddaballa Pur,Potato,Local,FAQ,3000,4000,3500,26 Jul 2024
+53,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1800,3000,2400,24 Oct 2024
+54,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,3500,3000,18 Nov 2024
+55,Bangalore,Bangalore,Potato,Local,FAQ,1600,2600,2100,17 Aug 2024
+56,Bangalore,Bangalore,Potato,Local,FAQ,1600,2800,2200,20 Aug 2024
+57,Bangalore,Bangalore,Potato,Local,FAQ,1600,3200,2400,21 Sep 2024
+58,Bangalore,Bangalore,Potato,Local,FAQ,3000,3600,3000,24 Oct 2024
+59,Bangalore,Bangalore,Potato,Local,FAQ,3400,3600,3500,01 Aug 2024
+60,Bangalore,Bangalore,Potato,Local,FAQ,3400,3600,3500,29 Jul 2024
+61,Bangalore,Bangalore,Potato,Potato,FAQ,2000,3000,2500,14 Oct 2024
+62,Bangalore,Bangalore,Potato,Potato,FAQ,2200,5000,3600,03 Dec 2024
+63,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,04 Nov 2024
+64,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,07 Nov 2024
+65,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2700,23 Sep 2024
+66,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,2900,28 Aug 2024
+67,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,2800,03 Oct 2024
+68,Belgaum,Belgaum,Potato,Local,FAQ,2200,3800,3200,18 Oct 2024
+69,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,12 Aug 2024
+70,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,14 Aug 2024
+71,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,30 Aug 2024
+72,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,3000,20 Jul 2024
+73,Belgaum,Belgaum,Potato,Local,FAQ,2500,3300,2900,05 Jul 2024
+74,Belgaum,Belgaum,Potato,Local,FAQ,2500,3800,3500,23 Oct 2024
+75,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1600,1800,1700,02 Oct 2024
+76,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1600,1800,1700,09 Nov 2024
+77,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3000,2500,01 Dec 2024
+78,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2600,2500,20 Nov 2024
+79,Kolar,Chickkaballapura,Potato,Local,FAQ,2500,2600,2500,18 Sep 2024
+80,Kolar,Chickkaballapura,Potato,Local,FAQ,2500,3000,2800,05 Nov 2024
+81,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2778,2778,2778,04 Oct 2024
+82,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2857,3057,2957,09 Sep 2024
+83,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3152,3352,3252,16 Aug 2024
+84,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,12 Nov 2024
+85,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,27 Aug 2024
+86,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,13 Aug 2024
+87,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,16 Aug 2024
+88,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3000,2800,05 Oct 2024
+89,Bangalore,Doddaballa Pur,Potato,Local,FAQ,3000,4000,3500,11 Jul 2024
+90,Chamrajnagar,Gundlupet,Potato,Chandermukhi,FAQ,2800,2800,2800,03 Jul 2024
+91,Chamrajnagar,Gundlupet,Potato,Chandermukhi,FAQ,3000,3000,3000,28 Oct 2024
+92,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2100,2400,2200,28 Nov 2024
+93,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3000,2800,07 Nov 2024
+94,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1200,1100,13 Jul 2024
+95,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,12 Sep 2024
+96,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,13000,1250,07 Nov 2024
+97,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1200,1150,24 Oct 2024
+98,Kolar,Kolar,Potato,Local,FAQ,1000,2000,1600,09 Oct 2024
+99,Kolar,Kolar,Potato,Local,FAQ,1500,3000,2600,10 Nov 2024
+100,Kolar,Kolar,Potato,Local,FAQ,1500,4000,2900,19 Nov 2024
+101,Kolar,Kolar,Potato,Local,FAQ,2000,2500,2300,22 Jul 2024
+102,Kolar,Kolar,Potato,Local,FAQ,2000,3000,2500,29 Jul 2024
+103,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2200,2800,2500,21 Sep 2024
+104,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2200,2800,2500,28 Oct 2024
+105,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2600,3000,2800,25 Jul 2024
+106,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,02 Dec 2024
+107,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,13 Sep 2024
+108,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,08 Aug 2024
+109,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,12 Nov 2024
+110,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,26 Aug 2024
+111,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,04 Oct 2024
+112,Udupi,Udupi,Potato,Potato,FAQ,3400,3600,3500,19 Sep 2024
+113,Udupi,Udupi,Potato,Potato,FAQ,3500,3600,3600,22 Oct 2024
+114,Udupi,Udupi,Potato,Potato,FAQ,3500,3700,3600,02 Aug 2024
+115,Udupi,Udupi,Potato,Potato,FAQ,3500,3700,3600,13 Aug 2024
+116,Hassan,Arasikere,Potato,Local,FAQ,2000,3000,2000,31 Aug 2024
+117,Hassan,Arasikere,Potato,Local,FAQ,2000,3000,2500,15 Oct 2024
+118,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1700,2600,2200,29 Oct 2024
+119,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,3000,2300,05 Aug 2024
+120,Bangalore,Bangalore,Potato,Local,FAQ,1600,3000,2300,25 Sep 2024
+121,Bangalore,Bangalore,Potato,Local,FAQ,3000,3600,3200,06 Aug 2024
+122,Bangalore,Bangalore,Potato,Local,FAQ,3200,3400,3300,06 Jul 2024
+123,Bangalore,Bangalore,Potato,Local,FAQ,3400,3800,3600,15 Jul 2024
+124,Bangalore,Bangalore,Potato,Potato,FAQ,2000,3000,2500,18 Oct 2024
+125,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,03 Jul 2024
+126,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3000,2700,10 Oct 2024
+127,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3000,2800,27 Sep 2024
+128,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,2900,22 Aug 2024
+129,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3400,3000,25 Jul 2024
+130,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,3000,20 Sep 2024
+131,Belgaum,Belgaum,Potato,Local,FAQ,1000,3200,2800,14 Nov 2024
+132,Belgaum,Belgaum,Potato,Local,FAQ,1000,3500,3000,20 Nov 2024
+133,Belgaum,Belgaum,Potato,Local,FAQ,2000,3000,2500,21 Sep 2024
+134,Belgaum,Belgaum,Potato,Local,FAQ,2000,3200,2500,10 Sep 2024
+135,Belgaum,Belgaum,Potato,Local,FAQ,2000,4000,3500,09 Nov 2024
+136,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,14 Oct 2024
+137,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,21 Aug 2024
+138,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,28 Sep 2024
+139,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,3000,22 Jul 2024
+140,Belgaum,Belgaum,Potato,Local,FAQ,2500,3600,3000,12 Sep 2024
+141,Belgaum,Belgaum,Potato,Local,FAQ,2500,4000,3500,22 Oct 2024
+142,Belgaum,Belgaum,Potato,Local,FAQ,3000,3500,3300,02 Jul 2024
+143,Kolar,Chickkaballapura,Potato,Jalander,FAQ,1600,1800,1700,11 Nov 2024
+144,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3000,2500,06 Nov 2024
+145,Kolar,Chickkaballapura,Potato,Local,FAQ,3400,3600,3500,14 Oct 2024
+146,Kolar,Chickkaballapura,Potato,Local,FAQ,3400,4000,3800,23 Oct 2024
+147,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2532,2732,2632,02 Jul 2024
+148,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2565,2565,2565,10 Oct 2024
+149,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2778,2778,2778,15 Nov 2024
+150,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2807,3007,2907,13 Aug 2024
+151,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2868,3068,2968,27 Nov 2024
+152,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2904,3104,3004,26 Aug 2024
+153,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2941,2941,2941,03 Sep 2024
+154,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2941,2941,2941,04 Jul 2024
+155,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3031,3031,3031,07 Nov 2024
+156,Kolar,Chintamani,Potato,Local,FAQ,2200,3000,2500,14 Nov 2024
+157,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,16 Nov 2024
+158,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,08 Oct 2024
+159,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,17 Aug 2024
+160,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,12 Jul 2024
+161,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,19 Sep 2024
+162,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,21 Sep 2024
+163,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,24 Sep 2024
+164,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3000,2800,04 Nov 2024
+165,Chamrajnagar,Gundlupet,Potato,Chandermukhi,FAQ,3000,3000,3000,24 Oct 2024
+166,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,2600,2400,25 Nov 2024
+167,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,2800,2500,28 Sep 2024
+168,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1400,2600,2000,22 Aug 2024
+169,Bangalore,Bangalore,Potato,Local,FAQ,3000,3600,3000,25 Oct 2024
+170,Bangalore,Bangalore,Potato,Local,FAQ,3000,3600,3200,05 Aug 2024
+171,Bangalore,Bangalore,Potato,Local,FAQ,3200,3400,3300,08 Jul 2024
+172,Bangalore,Bangalore,Potato,Potato,FAQ,2000,3000,2500,16 Oct 2024
+173,Bangalore,Bangalore,Potato,Potato,FAQ,2200,3000,2600,13 Aug 2024
+174,Bangalore,Bangalore,Potato,Potato,FAQ,2200,3000,2600,14 Aug 2024
+175,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3000,2800,30 Sep 2024
+176,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,2800,19 Jul 2024
+177,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,2900,29 Aug 2024
+178,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,3000,11 Sep 2024
+179,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,05 Aug 2024
+180,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,29 Jul 2024
+181,Belgaum,Belgaum,Potato,Local,FAQ,2500,3500,3000,03 Oct 2024
+182,Belgaum,Belgaum,Potato,Local,FAQ,2500,3500,3000,29 Oct 2024
+183,Belgaum,Belgaum,Potato,Local,FAQ,3000,4000,3500,08 Oct 2024
+184,Hassan,Channarayapatna,Potato,Local,FAQ,3000,3000,3000,19 Aug 2024
+185,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3000,2500,26 Oct 2024
+186,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,3000,2600,02 Nov 2024
+187,Kolar,Chickkaballapura,Potato,Local,FAQ,2800,2900,2850,02 Oct 2024
+188,Kolar,Chickkaballapura,Potato,Local,FAQ,3000,3200,3100,06 Oct 2024
+189,Kolar,Chickkaballapura,Potato,Local,FAQ,3000,3600,3200,09 Nov 2024
+190,Kolar,Chickkaballapura,Potato,Local,FAQ,3400,3800,3600,19 Oct 2024
+191,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2465,2665,2565,18 Oct 2024
+192,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2515,2715,2615,05 Oct 2024
+193,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2714,2914,2814,12 Aug 2024
+194,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2799,2999,2899,16 Nov 2024
+195,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2824,3024,2924,07 Oct 2024
+196,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2876,3076,2976,15 Jul 2024
+197,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3001,3201,3101,25 Jul 2024
+198,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3031,3031,3031,05 Jul 2024
+199,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3053,3253,3153,16 Jul 2024
+200,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3126,3326,3226,20 Aug 2024
+201,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,30 Aug 2024
+202,Davangere,Davangere,Potato,Potato,FAQ,1800,2500,2000,05 Oct 2024
+203,Davangere,Davangere,Potato,Potato,FAQ,2000,2600,2200,17 Sep 2024
+204,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,06 Nov 2024
+205,Bangalore,Doddaballa Pur,Potato,Local,FAQ,3000,4000,3500,09 Jul 2024
+206,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,3000,2400,28 Aug 2024
+207,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3000,2700,07 Oct 2024
+208,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3100,2800,23 Jul 2024
+209,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,2800,2600,21 Oct 2024
+210,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2800,3200,3000,15 Jul 2024
+211,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1200,1100,16 Jul 2024
+212,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,08 Aug 2024
+213,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,30 Jul 2024
+214,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,21 Oct 2024
+215,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,08 Aug 2024
+216,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,18 Aug 2024
+217,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2300,30 Sep 2024
+218,Kolar,Kolar,Potato,Local,FAQ,2000,3000,2300,16 Oct 2024
+219,Kolar,Kolar,Potato,Local,FAQ,2500,3000,2700,05 Jul 2024
+220,Hassan,Hassan,Potato,Potato,FAQ,1000,2500,1200,28 Aug 2024
+221,Hassan,Hassan,Potato,Potato,FAQ,1100,1600,1300,12 Sep 2024
+222,Hassan,Hassan,Potato,Potato,FAQ,1800,3040,1800,25 Jul 2024
+223,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2000,2200,2100,28 Oct 2024
+224,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1200,3100,2500,10 Aug 2024
+225,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3000,2700,26 Aug 2024
+226,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3000,2800,11 Sep 2024
+227,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3000,2800,31 Aug 2024
+228,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,3000,3200,3100,24 Jul 2024
+229,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,3000,3200,3100,27 Jul 2024
+230,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,08 Jul 2024
+231,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,08 Nov 2024
+232,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1200,1150,03 Sep 2024
+233,Kalburgi,Kalburgi,Potato,Potato,FAQ,1200,1300,1250,20 Aug 2024
+234,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,20 Aug 2024
+235,Kolar,Kolar,Potato,Local,FAQ,1000,2000,1400,18 Sep 2024
+236,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,07 Aug 2024
+237,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1800,30 Jul 2024
+238,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,13 Oct 2024
+239,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,21 Jul 2024
+240,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,27 Aug 2024
+241,Kolar,Kolar,Potato,Local,FAQ,1500,3000,2300,10 Jul 2024
+242,Kolar,Malur,Potato,Potato,FAQ,3200,3600,3500,28 Aug 2024
+243,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,2800,2500,25 Sep 2024
+244,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2500,26 Oct 2024
+245,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2500,2700,2600,18 Sep 2024
+246,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2800,3000,3000,20 Jul 2024
+247,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3700,30 Oct 2024
+248,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,05 Nov 2024
+249,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,27 Nov 2024
+250,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,07 Nov 2024
+251,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,16 Aug 2024
+252,Shimoga,Shimoga,Potato,Local,FAQ,3600,4000,3800,06 Sep 2024
+253,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,03 Jul 2024
+254,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,10 Jul 2024
+255,Hassan,Arasikere,Potato,Local,FAQ,1000,7000,3000,19 Aug 2024
+256,Hassan,Arasikere,Potato,Local,FAQ,2000,7000,4000,15 Jul 2024
+257,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1500,2500,2000,12 Aug 2024
+258,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,2800,2400,14 Oct 2024
+259,Bangalore,Bangalore,Potato,Local,FAQ,1600,3200,2400,18 Sep 2024
+260,Bangalore,Bangalore,Potato,Local,FAQ,2000,3000,2500,30 Oct 2024
+261,Bangalore,Bangalore,Potato,Local,FAQ,2400,3400,2900,02 Dec 2024
+262,Bangalore,Bangalore,Potato,Potato,FAQ,2200,5000,3600,02 Dec 2024
+263,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2500,22 Oct 2024
+264,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2700,25 Sep 2024
+265,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3200,3000,05 Aug 2024
+266,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3200,3000,06 Aug 2024
+267,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3000,2800,26 Sep 2024
+268,Belgaum,Belgaum,Potato,Local,FAQ,1000,3000,2500,18 Sep 2024
+269,Belgaum,Belgaum,Potato,Local,FAQ,1000,3500,3000,16 Nov 2024
+270,Belgaum,Belgaum,Potato,Local,FAQ,2000,3200,2500,04 Sep 2024
+271,Belgaum,Belgaum,Potato,Local,FAQ,2000,3200,2500,06 Sep 2024
+272,Belgaum,Belgaum,Potato,Local,FAQ,2000,3200,2500,09 Sep 2024
+273,Belgaum,Belgaum,Potato,Local,FAQ,2500,3500,3000,26 Oct 2024
+274,Belgaum,Belgaum,Potato,Local,FAQ,2600,3200,3000,19 Jul 2024
+275,Belgaum,Belgaum,Potato,Local,FAQ,3000,4000,3500,05 Oct 2024
+276,Hassan,Belur,Potato,Chandermukhi,FAQ,1600,1600,1600,24 Sep 2024
+277,Kolar,Chickkaballapura,Potato,Local,FAQ,2300,3000,2900,03 Jul 2024
+278,Kolar,Chickkaballapura,Potato,Local,FAQ,2500,3000,2800,01 Nov 2024
+279,Kolar,Chickkaballapura,Potato,Local,FAQ,2500,3000,2800,29 Oct 2024
+280,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2603,2803,2703,01 Oct 2024
+281,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2655,2855,2755,03 Oct 2024
+282,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2655,2855,2755,17 Sep 2024
+283,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2656,2856,2756,14 Oct 2024
+284,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2765,2965,2865,13 Sep 2024
+285,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2876,3076,2976,05 Sep 2024
+286,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2976,2976,2976,19 Oct 2024
+287,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3031,3031,3031,29 Oct 2024
+288,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3141,3341,3241,22 Jul 2024
+289,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,15 Nov 2024
+290,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,04 Sep 2024
+291,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,18 Sep 2024
+292,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,23 Jul 2024
+293,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,23 Sep 2024
+294,Davangere,Davangere,Potato,Potato,FAQ,2200,2600,2400,30 Jul 2024
+295,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,24 Sep 2024
+296,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3500,3000,03 Oct 2024
+297,Bangalore,Doddaballa Pur,Potato,Local,FAQ,3000,4000,3500,19 Nov 2024
+298,Hassan,Hassan,Potato,Potato,FAQ,900,3100,1200,18 Jul 2024
+299,Hassan,Hassan,Potato,Potato,FAQ,1200,2900,1500,09 Oct 2024
+300,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1800,1800,1800,21 Sep 2024
+301,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2600,2850,2700,19 Aug 2024
+302,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2800,2800,2800,07 Aug 2024
+303,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,800,3100,2000,14 Sep 2024
+304,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1800,3000,2500,14 Aug 2024
+305,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3100,2800,03 Aug 2024
+306,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3200,2800,05 Aug 2024
+307,Kolar,Malur,Potato,Potato,FAQ,2800,3200,3100,27 Sep 2024
+308,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2500,21 Oct 2024
+309,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2900,23 Sep 2024
+310,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2200,2800,2500,05 Nov 2024
+311,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2600,3000,2800,27 Jul 2024
+312,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2700,3000,2900,17 Jul 2024
+313,Bangalore,Ramanagara,Potato,Potato,FAQ,3200,3800,3500,04 Sep 2024
+314,Shimoga,Shimoga,Potato,Local,FAQ,3000,4000,3500,12 Jul 2024
+315,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,21 Oct 2024
+316,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,31 Jul 2024
+317,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,19 Nov 2024
+318,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,26 Jul 2024
+319,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,07 Nov 2024
+320,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,08 Nov 2024
+321,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,05 Jul 2024
+322,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,09 Jul 2024
+323,Udupi,Udupi,Potato,Potato,FAQ,3400,3500,3500,14 Nov 2024
+324,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,3000,2200,31 Aug 2024
+325,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,3000,2400,20 Nov 2024
+326,Bangalore,Bangalore,Potato,Local,FAQ,1200,2800,2000,23 Aug 2024
+327,Bangalore,Bangalore,Potato,Local,FAQ,1200,2800,2000,29 Aug 2024
+328,Bangalore,Bangalore,Potato,Local,FAQ,1600,2600,2100,09 Aug 2024
+329,Bangalore,Bangalore,Potato,Local,FAQ,1600,2800,2200,21 Aug 2024
+330,Bangalore,Bangalore,Potato,Local,FAQ,1600,3000,2300,23 Sep 2024
+331,Bangalore,Bangalore,Potato,Local,FAQ,2600,3400,3000,09 Oct 2024
+332,Bangalore,Bangalore,Potato,Local,FAQ,3600,3800,3700,23 Jul 2024
+333,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,20 Aug 2024
+334,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3000,2700,08 Oct 2024
+335,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3400,3000,26 Jul 2024
+336,Kolar,Bangarpet,Potato,Local,FAQ,2000,3000,2500,25 Nov 2024
+337,Belgaum,Belgaum,Potato,Local,FAQ,1000,3500,3000,19 Nov 2024
+338,Belgaum,Belgaum,Potato,Local,FAQ,2000,4000,3500,19 Oct 2024
+339,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,27 Jul 2024
+340,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,23 Aug 2024
+341,Belgaum,Belgaum,Potato,Local,FAQ,2500,3300,2900,04 Jul 2024
+342,Belgaum,Belgaum,Potato,Local,FAQ,2500,3400,3000,27 Aug 2024
+343,Belgaum,Belgaum,Potato,Local,FAQ,2500,3500,3000,04 Oct 2024
+344,Belgaum,Belgaum,Potato,Local,FAQ,2500,3600,3000,13 Sep 2024
+345,Hassan,Belur,Potato,Chandermukhi,FAQ,1500,1500,1500,29 Aug 2024
+346,Kolar,Chickkaballapura,Potato,Local,FAQ,2600,3400,3000,19 Nov 2024
+347,Kolar,Chickkaballapura,Potato,Local,FAQ,2800,2900,2850,04 Oct 2024
+348,Kolar,Chickkaballapura,Potato,Local,FAQ,3400,3600,3500,11 Oct 2024
+349,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2632,2632,2632,30 Jul 2024
+350,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2636,2836,2736,26 Sep 2024
+351,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2717,2917,2817,04 Nov 2024
+352,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2987,3187,3087,26 Jul 2024
+353,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3031,3031,3031,08 Aug 2024
+354,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,18 Oct 2024
+355,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,19 Oct 2024
+356,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,07 Aug 2024
+357,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,28 Aug 2024
+358,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,06 Sep 2024
+359,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3400,3000,20 Sep 2024
+360,Madikeri(Kodagu),Gonikappal,Potato,Local,FAQ,1018,1018,1018,06 Sep 2024
+361,Hassan,Hassan,Potato,Potato,FAQ,1000,1800,1200,28 Sep 2024
+362,Hassan,Hassan,Potato,Potato,FAQ,2976,2976,2976,04 Oct 2024
+363,Bangalore,Hoskote,Potato,Local,FAQ,5500,5500,5500,29 Jul 2024
+364,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2800,3000,2900,13 Jul 2024
+365,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,2500,2300,30 Nov 2024
+366,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,2900,2500,16 Oct 2024
+367,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,2800,2650,16 Aug 2024
+368,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3000,2800,17 Sep 2024
+369,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1200,1100,12 Jul 2024
+370,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,03 Aug 2024
+371,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,03 Oct 2024
+372,Kalburgi,Kalburgi,Potato,Potato,FAQ,1200,1300,1250,16 Nov 2024
+373,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,13 Aug 2024
+374,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,20 Sep 2024
+375,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,25 Sep 2024
+376,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,16 Jul 2024
+377,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2400,3100,2700,19 Jul 2024
+378,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,2900,2700,02 Oct 2024
+379,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,2900,2750,08 Oct 2024
+380,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3100,2800,09 Aug 2024
+381,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3100,2800,26 Oct 2024
+382,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,01 Jul 2024
+383,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,10 Jul 2024
+384,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1400,1200,07 Aug 2024
+385,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1400,1200,25 Sep 2024
+386,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,19 Oct 2024
+387,Kolar,Kolar,Potato,Local,FAQ,1000,2000,1600,16 Sep 2024
+388,Kolar,Kolar,Potato,Local,FAQ,1000,2200,1700,12 Aug 2024
+389,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,02 Aug 2024
+390,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1800,27 Oct 2024
+391,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,12 Sep 2024
+392,Kolar,Kolar,Potato,Local,FAQ,1500,3000,2300,07 Nov 2024
+393,Kolar,Kolar,Potato,Local,FAQ,2000,3000,2500,04 Aug 2024
+394,Kolar,Kolar,Potato,Local,FAQ,2000,3000,2600,18 Jul 2024
+395,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1800,2000,2000,29 Aug 2024
+396,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,2500,2200,13 Nov 2024
+397,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2800,25 Oct 2024
+398,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2600,3100,2800,16 Sep 2024
+399,Bangalore,Ramanagara,Potato,Potato,FAQ,3500,4000,3800,11 Sep 2024
+400,Bangalore,Ramanagara,Potato,Potato,FAQ,3600,4100,4000,27 Nov 2024
+401,Shimoga,Shimoga,Potato,Local,FAQ,2400,2600,2500,12 Sep 2024
+402,Shimoga,Shimoga,Potato,Local,FAQ,3000,3500,3250,04 Jul 2024
+403,Shimoga,Shimoga,Potato,Local,FAQ,3000,4000,3500,15 Jul 2024
+404,Shimoga,Shimoga,Potato,Local,FAQ,3000,35000,32250,08 Jul 2024
+405,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3700,29 Oct 2024
+406,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,07 Oct 2024
+407,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,28 Nov 2024
+408,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,28 Oct 2024
+409,Udupi,Udupi,Potato,Potato,FAQ,2800,3000,2900,26 Nov 2024
+410,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,04 Nov 2024
+411,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,12 Nov 2024
+412,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,15 Oct 2024
+413,Udupi,Udupi,Potato,Potato,FAQ,3500,3600,3600,18 Oct 2024
+414,Udupi,Udupi,Potato,Potato,FAQ,3500,3700,3600,08 Aug 2024
+415,Udupi,Udupi,Potato,Potato,FAQ,3700,4000,3800,09 Sep 2024
+416,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,2800,2700,13 Nov 2024
+417,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3000,2800,06 Sep 2024
+418,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2700,3000,2850,20 Sep 2024
+419,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2900,3100,3000,25 Jul 2024
+420,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,03 Dec 2024
+421,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,14 Aug 2024
+422,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,26 Sep 2024
+423,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,02 Aug 2024
+424,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,26 Oct 2024
+425,Kalburgi,Kalburgi,Potato,Potato,FAQ,1200,1400,1300,21 Sep 2024
+426,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,22 Aug 2024
+427,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,31 Jul 2024
+428,Kolar,Kolar,Potato,Local,FAQ,2000,3000,2600,26 Nov 2024
+429,Kolar,Malur,Potato,Potato,FAQ,3500,4200,4166,12 Jul 2024
+430,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2200,2800,2500,19 Sep 2024
+431,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2200,2800,2600,03 Sep 2024
+432,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2600,3000,2800,29 Jul 2024
+433,Mysore,Nanjangud,Potato,Potato,FAQ,3030,3703,3333,19 Nov 2024
+434,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,01 Aug 2024
+435,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,01 Oct 2024
+436,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,02 Sep 2024
+437,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,05 Sep 2024
+438,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,08 Nov 2024
+439,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,09 Sep 2024
+440,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,11 Nov 2024
+441,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,28 Aug 2024
+442,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,12 Aug 2024
+443,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,14 Oct 2024
+444,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,06 Jul 2024
+445,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,11 Jul 2024
+446,Udupi,Udupi,Potato,Potato,FAQ,3300,3400,3400,01 Oct 2024
+447,Udupi,Udupi,Potato,Potato,FAQ,3500,3600,3600,21 Oct 2024
+448,Udupi,Udupi,Potato,Potato,FAQ,3500,3600,3600,27 Aug 2024
+449,Hassan,Arasikere,Potato,Local,FAQ,2000,3200,2000,21 Sep 2024
+450,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,3000,2400,12 Nov 2024
+451,Bangalore,Bangalore,Potato,Local,FAQ,1600,2600,2100,12 Aug 2024
+452,Bangalore,Bangalore,Potato,Local,FAQ,1600,3000,2300,26 Sep 2024
+453,Bangalore,Bangalore,Potato,Local,FAQ,1600,3000,2300,30 Sep 2024
+454,Bangalore,Bangalore,Potato,Local,FAQ,1600,3200,2400,20 Sep 2024
+455,Bangalore,Bangalore,Potato,Local,FAQ,1600,3200,2900,11 Sep 2024
+456,Bangalore,Bangalore,Potato,Local,FAQ,3400,3800,3600,10 Jul 2024
+457,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2500,24 Oct 2024
+458,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2500,25 Oct 2024
+459,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,3000,03 Aug 2024
+460,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3400,3000,22 Jul 2024
+461,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,2800,07 Oct 2024
+462,Kolar,Bangarpet,Potato,Local,FAQ,1200,1500,1300,06 Sep 2024
+463,Belgaum,Belgaum,Potato,Local,FAQ,1000,3200,2800,15 Nov 2024
+464,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,01 Aug 2024
+465,Belgaum,Belgaum,Potato,Local,FAQ,2500,3600,3200,09 Oct 2024
+466,Belgaum,Belgaum,Potato,Local,FAQ,2500,3600,3200,10 Oct 2024
+467,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2600,2500,25 Sep 2024
+468,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2600,2500,28 Sep 2024
+469,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2637,2837,2737,23 Sep 2024
+470,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2678,2878,2778,01 Jul 2024
+471,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2678,2878,2778,21 Sep 2024
+472,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2678,2878,2778,25 Sep 2024
+473,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2799,2999,2899,31 Aug 2024
+474,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2817,3017,2917,22 Aug 2024
+475,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2891,3091,2991,21 Aug 2024
+476,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2987,3187,3087,14 Aug 2024
+477,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3030,3030,3030,06 Aug 2024
+478,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3075,3275,3175,15 Oct 2024
+479,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,19 Jul 2024
+480,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,20 Sep 2024
+481,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3000,2800,20 Nov 2024
+482,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,07 Nov 2024
+483,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,09 Sep 2024
+484,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,12 Sep 2024
+485,Bangalore,Doddaballa Pur,Potato,Local,FAQ,3000,4000,3500,08 Jul 2024
+486,Madikeri(Kodagu),Gonikappal,Potato,Local,FAQ,1082,1082,1082,08 Nov 2024
+487,Hassan,Hassan,Potato,Potato,FAQ,1000,1000,1000,27 Sep 2024
+488,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2000,3000,2500,22 Aug 2024
+489,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,3300,3300,3300,08 Jul 2024
+490,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,3000,2400,07 Aug 2024
+491,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2100,3100,2500,04 Sep 2024
+492,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,3000,2700,01 Aug 2024
+493,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,2900,2700,02 Aug 2024
+494,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3000,2700,13 Aug 2024
+495,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3100,2800,17 Aug 2024
+496,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3000,2800,25 Sep 2024
+497,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2700,3000,2850,13 Jul 2024
+498,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2700,3100,2850,08 Jul 2024
+499,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2700,3200,2900,23 Sep 2024
+500,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2800,3000,2900,21 Aug 2024
+501,Hassan,Arasikere,Potato,Local,FAQ,2000,3000,3000,16 Nov 2024
+502,Hassan,Arasikere,Potato,Local,FAQ,2000,3000,3000,17 Sep 2024
+503,Hassan,Arasikere,Potato,Local,FAQ,2000,3500,2000,26 Aug 2024
+504,Hassan,Arasikere,Potato,Local,FAQ,2500,3000,3000,09 Sep 2024
+505,Hassan,Arasikere,Potato,Local,FAQ,3000,3000,3000,27 Aug 2024
+506,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,3000,2500,03 Dec 2024
+507,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2500,3500,3000,24 Sep 2024
+508,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2500,3700,2500,25 Sep 2024
+509,Bangalore,Bangalore,Potato,Local,FAQ,1600,2600,2100,14 Aug 2024
+510,Bangalore,Bangalore,Potato,Local,FAQ,1600,3200,2900,13 Sep 2024
+511,Bangalore,Bangalore,Potato,Local,FAQ,2600,3400,3000,07 Oct 2024
+512,Bangalore,Bangalore,Potato,Local,FAQ,3200,3400,3300,01 Jul 2024
+513,Bangalore,Bangalore,Potato,Potato,FAQ,2000,3000,2600,29 Oct 2024
+514,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2500,21 Oct 2024
+515,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3400,3000,23 Jul 2024
+516,Kolar,Bangarpet,Potato,Jalander,FAQ,2000,3000,2500,12 Aug 2024
+517,Belgaum,Belgaum,Potato,Local,FAQ,2000,4000,3500,12 Nov 2024
+518,Belgaum,Belgaum,Potato,Local,FAQ,2200,3800,3200,16 Oct 2024
+519,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,03 Aug 2024
+520,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,20 Aug 2024
+521,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,22 Aug 2024
+522,Belgaum,Belgaum,Potato,Local,FAQ,2500,3300,2900,06 Jul 2024
+523,Belgaum,Belgaum,Potato,Local,FAQ,2500,3500,3000,02 Oct 2024
+524,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2600,2500,06 Sep 2024
+525,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2074,2274,2174,06 Jul 2024
+526,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2678,2878,2778,30 Sep 2024
+527,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2773,2973,2873,08 Oct 2024
+528,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2778,2778,2778,20 Nov 2024
+529,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2785,2985,2885,09 Oct 2024
+530,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2799,2999,2899,02 Dec 2024
+531,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2799,2999,2899,27 Sep 2024
+532,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2871,3071,2971,29 Jul 2024
+533,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2941,2941,2941,03 Jul 2024
+534,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3031,3031,3031,12 Jul 2024
+535,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,05 Nov 2024
+536,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,10 Oct 2024
+537,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,23 Oct 2024
+538,Davangere,Davangere,Potato,Potato,FAQ,1800,2500,2000,04 Oct 2024
+539,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,11 Jul 2024
+540,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,11 Sep 2024
+541,Davangere,Davangere,Potato,Potato,FAQ,2000,2600,2200,03 Jul 2024
+542,Davangere,Davangere,Potato,Potato,FAQ,2200,2600,2400,16 Jul 2024
+543,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3000,2750,21 Oct 2024
+544,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,27 Sep 2024
+545,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3400,3000,19 Sep 2024
+546,Bangalore,Doddaballa Pur,Potato,Local,FAQ,3000,3600,3300,02 Sep 2024
+547,Hassan,Hassan,Potato,Potato,FAQ,1000,1900,1500,28 Oct 2024
+548,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,3000,2500,09 Jul 2024
+549,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,2800,2500,29 Oct 2024
+550,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,3200,2700,22 Jul 2024
+551,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2300,2700,2500,16 Nov 2024
+552,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,2800,2650,22 Aug 2024
+553,Kolar,Malur,Potato,Potato,FAQ,3000,3500,3300,29 Oct 2024
+554,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2400,3000,2700,17 Sep 2024
+555,Bangalore,Ramanagara,Potato,Potato,FAQ,3600,4000,3800,02 Oct 2024
+556,Shimoga,Shimoga,Potato,Local,FAQ,3000,4000,3500,11 Jul 2024
+557,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,17 Sep 2024
+558,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,18 Oct 2024
+559,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,19 Sep 2024
+560,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,20 Sep 2024
+561,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,23 Oct 2024
+562,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,25 Sep 2024
+563,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,29 Aug 2024
+564,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,10 Oct 2024
+565,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,24 Jul 2024
+566,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,30 Aug 2024
+567,Udupi,Udupi,Potato,Potato,FAQ,3500,3600,3600,24 Oct 2024
+568,Udupi,Udupi,Potato,Potato,FAQ,3500,3600,3600,28 Oct 2024
+569,Udupi,Udupi,Potato,Potato,FAQ,3500,3700,3600,03 Aug 2024
+570,Hassan,Arasikere,Potato,Local,FAQ,3000,5000,5000,19 Oct 2024
+571,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,3000,2500,16 Nov 2024
+572,Chikmagalur,Bagepalli,Potato,Sinduri,FAQ,1800,3000,2400,02 Nov 2024
+573,Bangalore,Bangalore,Potato,Local,FAQ,2600,3400,3000,01 Oct 2024
+574,Bangalore,Bangalore,Potato,Local,FAQ,3000,3600,3000,21 Oct 2024
+575,Bangalore,Bangalore,Potato,Local,FAQ,3400,3800,3600,11 Jul 2024
+576,Bangalore,Bangalore,Potato,Local,FAQ,3600,3800,3700,19 Jul 2024
+577,Bangalore,Bangalore,Potato,Local,FAQ,3600,4000,3800,19 Oct 2024
+578,Bangalore,Bangalore,Potato,Potato,FAQ,2000,3000,2600,28 Oct 2024
+579,Bangalore,Bangalore,Potato,Potato,FAQ,2200,3000,2600,08 Aug 2024
+580,Bangalore,Bangalore,Potato,Potato,FAQ,2200,3000,2600,12 Aug 2024
+581,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3200,2800,11 Jul 2024
+582,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,2800,20 Jul 2024
+583,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,3000,17 Sep 2024
+584,Kolar,Bangarpet,Potato,Local,FAQ,2000,3000,2500,20 Sep 2024
+585,Belgaum,Belgaum,Potato,Local,FAQ,1000,3000,2500,19 Sep 2024
+586,Belgaum,Belgaum,Potato,Local,FAQ,1000,3800,3200,08 Nov 2024
+587,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,07 Aug 2024
+588,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,10 Aug 2024
+589,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,02 Sep 2024
+590,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,15 Oct 2024
+591,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,29 Aug 2024
+592,Belgaum,Belgaum,Potato,Local,FAQ,2600,3200,3000,10 Jul 2024
+593,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3800,2600,25 Nov 2024
+594,Kolar,Chickkaballapura,Potato,Local,FAQ,3400,3600,3500,18 Oct 2024
+595,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2746,2946,2846,04 Sep 2024
+596,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2807,3007,2907,13 Nov 2024
+597,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,22 Oct 2024
+598,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,27 Sep 2024
+599,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,03 Aug 2024
+600,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,21 Aug 2024
+601,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,26 Jul 2024
+602,Davangere,Davangere,Potato,Potato,FAQ,2200,2600,2400,10 Jul 2024
+603,Davangere,Davangere,Potato,Potato,FAQ,2300,2600,2400,06 Jul 2024
+604,Hassan,Hassan,Potato,Potato,FAQ,1200,3400,1800,19 Jul 2024
+605,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2600,2600,2600,03 Jul 2024
+606,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2400,2800,2600,12 Nov 2024
+607,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,2900,2700,01 Oct 2024
+608,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3100,2800,05 Sep 2024
+609,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3000,2800,23 Oct 2024
+610,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3000,2800,26 Sep 2024
+611,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3100,2800,20 Jul 2024
+612,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2800,3100,2950,30 Jul 2024
+613,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2900,3150,3000,06 Jul 2024
+614,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1200,1100,20 Jul 2024
+615,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,21 Aug 2024
+616,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1200,1150,02 Dec 2024
+617,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1200,1150,05 Aug 2024
+618,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1350,1225,03 Jul 2024
+619,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1400,1250,31 Jul 2024
+620,Kalburgi,Kalburgi,Potato,Potato,FAQ,1800,2000,1900,09 Aug 2024
+621,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,28 Aug 2024
+622,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,3000,3000,3000,04 Jul 2024
+623,Kolar,Kolar,Potato,Local,FAQ,1000,1500,1300,23 Sep 2024
+624,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,03 Sep 2024
+625,Kolar,Kolar,Potato,Local,FAQ,3000,4000,3300,06 Nov 2024
+626,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1800,2500,2000,17 Aug 2024
+627,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2200,15 Oct 2024
+628,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2200,2800,2500,29 Oct 2024
+629,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2900,3000,3000,19 Jul 2024
+630,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,03 Sep 2024
+631,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,06 Aug 2024
+632,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,22 Aug 2024
+633,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,29 Jul 2024
+634,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,30 Sep 2024
+635,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,08 Jul 2024
+636,Udupi,Udupi,Potato,Potato,FAQ,3500,3700,3600,06 Aug 2024
+637,Udupi,Udupi,Potato,Potato,FAQ,3700,4000,3800,04 Sep 2024
+638,Udupi,Udupi,Potato,Potato,FAQ,3900,4000,4000,02 Jul 2024
+639,Udupi,Udupi,Potato,Potato,FAQ,3900,4000,4000,19 Jul 2024
+640,Hassan,Arasikere,Potato,Local,FAQ,2500,7000,7000,03 Aug 2024
+641,Bangalore,Bangalore,Potato,Local,FAQ,1200,2800,2000,22 Aug 2024
+642,Bangalore,Bangalore,Potato,Local,FAQ,3600,4000,3800,14 Oct 2024
+643,Bangalore,Bangalore,Potato,Potato,FAQ,2200,3000,2600,17 Aug 2024
+644,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,05 Jul 2024
+645,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3100,2700,10 Sep 2024
+646,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,3000,01 Aug 2024
+647,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,3000,29 Jul 2024
+648,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,2800,01 Oct 2024
+649,Belgaum,Belgaum,Potato,Local,FAQ,1000,3500,3000,04 Nov 2024
+650,Belgaum,Belgaum,Potato,Local,FAQ,1000,3800,3200,06 Nov 2024
+651,Belgaum,Belgaum,Potato,Local,FAQ,2000,3000,2500,23 Sep 2024
+652,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,06 Aug 2024
+653,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,30 Jul 2024
+654,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,3000,24 Jul 2024
+655,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,3000,2600,27 Oct 2024
+656,Kolar,Chickkaballapura,Potato,Local,FAQ,3400,3600,3500,08 Oct 2024
+657,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2678,2878,2778,05 Nov 2024
+658,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3031,3031,3031,01 Aug 2024
+659,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,01 Oct 2024
+660,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,24 Oct 2024
+661,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,25 Oct 2024
+662,Davangere,Davangere,Potato,Potato,FAQ,1800,2400,2000,20 Aug 2024
+663,Davangere,Davangere,Potato,Potato,FAQ,2000,2600,2200,24 Jul 2024
+664,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3000,2750,08 Nov 2024
+665,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3000,2800,22 Oct 2024
+666,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,13 Sep 2024
+667,Bangalore,Doddaballa Pur,Potato,Local,FAQ,3000,3600,3300,16 Aug 2024
+668,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,500,2800,2000,05 Oct 2024
+669,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,2800,2400,11 Nov 2024
+670,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,2800,2500,18 Nov 2024
+671,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,2900,2700,14 Oct 2024
+672,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,2900,2750,03 Oct 2024
+673,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2700,3200,3000,02 Jul 2024
+674,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2800,2900,2850,30 Sep 2024
+675,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2800,3100,2950,16 Jul 2024
+676,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,24 Sep 2024
+677,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,15 Nov 2024
+678,Kalburgi,Kalburgi,Potato,Potato,FAQ,1200,1400,1300,27 Sep 2024
+679,Kolar,Kolar,Potato,Local,FAQ,1000,2000,1500,11 Aug 2024
+680,Kolar,Kolar,Potato,Local,FAQ,1000,2200,2000,02 Oct 2024
+681,Kolar,Kolar,Potato,Local,FAQ,1500,2500,1800,01 Jul 2024
+682,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,01 Aug 2024
+683,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,10 Oct 2024
+684,Kolar,Kolar,Potato,Local,FAQ,1500,3000,2300,14 Nov 2024
+685,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,2500,2000,10 Aug 2024
+686,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,2500,2200,02 Jul 2024
+687,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1800,2000,1900,24 Aug 2024
+688,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2800,19 Oct 2024
+689,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2200,2900,2750,30 Nov 2024
+690,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2600,3000,2900,24 Jul 2024
+691,Bangalore,Ramanagara,Potato,Potato,FAQ,3600,4000,3800,06 Nov 2024
+692,Shimoga,Shimoga,Potato,Local,FAQ,3000,4000,3500,10 Jul 2024
+693,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,22 Oct 2024
+694,Kolar,Kolar,Potato,Local,FAQ,2000,2500,2300,03 Jul 2024
+695,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,2800,2500,11 Oct 2024
+696,Shimoga,Shimoga,Potato,Local,FAQ,3000,3800,3400,09 Jul 2024
+697,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,10 Sep 2024
+698,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,18 Sep 2024
+699,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,15 Jul 2024
+700,Udupi,Udupi,Potato,Potato,FAQ,3400,3600,3500,12 Sep 2024
+701,Udupi,Udupi,Potato,Potato,FAQ,3400,3600,3500,21 Sep 2024
+702,Bangalore,Bangalore,Potato,Local,FAQ,1600,2800,2200,19 Aug 2024
+703,Bangalore,Bangalore,Potato,Local,FAQ,1600,3000,2300,27 Sep 2024
+704,Bangalore,Bangalore,Potato,Local,FAQ,2400,3200,2800,08 Nov 2024
+705,Bangalore,Bangalore,Potato,Local,FAQ,3200,3400,3300,02 Jul 2024
+706,Bangalore,Bangalore,Potato,Local,FAQ,3400,3600,3500,03 Aug 2024
+707,Bangalore,Bangalore,Potato,Local,FAQ,3600,3800,3700,25 Jul 2024
+708,Bangalore,Bangalore,Potato,Potato,FAQ,2000,3000,2500,15 Oct 2024
+709,Bangalore,Bangalore,Potato,Potato,FAQ,2000,3000,2600,30 Oct 2024
+710,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,19 Aug 2024
+711,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,21 Aug 2024
+712,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3200,3000,07 Aug 2024
+713,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,3000,12 Sep 2024
+714,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,3000,13 Sep 2024
+715,Belgaum,Belgaum,Potato,Local,FAQ,1500,3000,2800,27 Nov 2024
+716,Belgaum,Belgaum,Potato,Local,FAQ,2000,3000,2500,14 Sep 2024
+717,Belgaum,Belgaum,Potato,Local,FAQ,2000,3000,2500,24 Sep 2024
+718,Belgaum,Belgaum,Potato,Local,FAQ,2000,3000,2500,26 Sep 2024
+719,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,09 Aug 2024
+720,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,19 Aug 2024
+721,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,3000,25 Jul 2024
+722,Belgaum,Belgaum,Potato,Local,FAQ,2500,3300,2900,03 Jul 2024
+723,Belgaum,Belgaum,Potato,Local,FAQ,2500,3500,3000,25 Nov 2024
+724,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3400,3000,18 Nov 2024
+725,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2600,2500,27 Sep 2024
+726,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,3000,2600,28 Oct 2024
+727,Kolar,Chickkaballapura,Potato,Local,FAQ,2600,3200,3100,21 Aug 2024
+728,Kolar,Chickkaballapura,Potato,Local,FAQ,3000,3400,3300,09 Oct 2024
+729,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2557,2757,2657,24 Sep 2024
+730,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2678,2878,2778,12 Nov 2024
+731,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2757,2957,2857,19 Sep 2024
+732,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2774,2974,2874,28 Aug 2024
+733,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2892,3092,2992,20 Sep 2024
+734,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,13 Nov 2024
+735,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,22 Aug 2024
+736,Davangere,Davangere,Potato,Potato,FAQ,2000,2600,2200,02 Jul 2024
+737,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3000,2800,05 Nov 2024
+738,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3500,3000,18 Oct 2024
+739,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1700,2400,2000,26 Nov 2024
+740,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1800,2600,2200,22 Oct 2024
+741,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1900,3000,2800,09 Oct 2024
+742,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,2900,2500,27 Sep 2024
+743,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,2800,2500,04 Oct 2024
+744,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3100,2800,10 Jul 2024
+745,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2800,3000,2900,20 Aug 2024
+746,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,19 Nov 2024
+747,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,28 Sep 2024
+748,Kolar,Kolar,Potato,Local,FAQ,1000,2000,1800,30 Oct 2024
+749,Kolar,Kolar,Potato,Local,FAQ,1000,2500,2000,25 Aug 2024
+750,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,01 Sep 2024
+751,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1800,28 Jul 2024
+752,Kolar,Kolar,Potato,Local,FAQ,2000,4000,3500,13 Nov 2024
+753,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2600,3000,2800,11 Sep 2024
+754,Bangalore,Ramanagara,Potato,Potato,FAQ,3600,4000,3800,05 Oct 2024
+755,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,11 Sep 2024
+756,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,15 Nov 2024
+757,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,27 Aug 2024
+758,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,13 Nov 2024
+759,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,16 Oct 2024
+760,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,21 Aug 2024
+761,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,11 Nov 2024
+762,Udupi,Udupi,Potato,Potato,FAQ,3300,3400,3400,27 Sep 2024
+763,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,2900,2700,24 Sep 2024
+764,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3200,2800,26 Jul 2024
+765,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3100,2800,13 Sep 2024
+766,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3200,2800,08 Nov 2024
+767,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2900,3100,3000,31 Jul 2024
+768,Mysore,K.R.Nagar,Potato,Chandermukhi,FAQ,2307,2307,2307,23 Sep 2024
+769,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1200,1100,01 Aug 2024
+770,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,23 Sep 2024
+771,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,29 Jul 2024
+772,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,13000,1150,11 Jul 2024
+773,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1400,1250,09 Oct 2024
+774,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,05 Nov 2024
+775,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,09 Jul 2024
+776,Kolar,Kolar,Potato,Local,FAQ,2000,2500,2300,08 Jul 2024
+777,Kolar,Kolar,Potato,Local,FAQ,2000,2500,2300,11 Jul 2024
+778,Kolar,Kolar,Potato,Local,FAQ,2000,2500,2300,24 Jul 2024
+779,Kolar,Kolar,Potato,Local,FAQ,2000,3000,2600,11 Nov 2024
+780,Kolar,Malur,Potato,Potato,FAQ,3000,3300,3100,30 Sep 2024
+781,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,3300,2400,06 Jul 2024
+782,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2500,3100,3000,11 Jul 2024
+783,Shimoga,Shimoga,Potato,Local,FAQ,3000,4000,3500,05 Jul 2024
+784,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,04 Nov 2024
+785,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,05 Aug 2024
+786,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,15 Oct 2024
+787,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,07 Aug 2024
+788,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,19 Aug 2024
+789,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,30 Jul 2024
+790,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,05 Oct 2024
+791,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,12 Jul 2024
+792,Udupi,Udupi,Potato,Potato,FAQ,3400,3500,3500,13 Nov 2024
+793,Hassan,Arasikere,Potato,Local,FAQ,2500,5000,2500,11 Nov 2024
+794,Hassan,Arasikere,Potato,Local,FAQ,3000,3000,3000,19 Nov 2024
+795,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2100,3000,2600,30 Sep 2024
+796,Bangalore,Bangalore,Potato,Local,FAQ,1600,2600,2100,08 Aug 2024
+797,Bangalore,Bangalore,Potato,Local,FAQ,1600,3400,2800,09 Sep 2024
+798,Bangalore,Bangalore,Potato,Local,FAQ,2000,3000,2500,28 Oct 2024
+799,Bangalore,Bangalore,Potato,Local,FAQ,2400,3400,2900,03 Dec 2024
+800,Bangalore,Bangalore,Potato,Local,FAQ,2600,3400,3000,08 Oct 2024
+801,Bangalore,Bangalore,Potato,Local,FAQ,3400,3800,3600,12 Jul 2024
+802,Bangalore,Bangalore,Potato,Local,FAQ,3600,3800,3700,20 Jul 2024
+803,Bangalore,Bangalore,Potato,Local,FAQ,3600,3800,3700,22 Jul 2024
+804,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,06 Jul 2024
+805,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2700,24 Sep 2024
+806,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3200,2800,12 Jul 2024
+807,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3100,2700,09 Sep 2024
+808,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,3000,02 Aug 2024
+809,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,3000,18 Sep 2024
+810,Belgaum,Belgaum,Potato,Local,FAQ,1000,3200,2800,13 Nov 2024
+811,Belgaum,Belgaum,Potato,Local,FAQ,2000,3000,2500,25 Sep 2024
+812,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,03 Sep 2024
+813,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,16 Aug 2024
+814,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,3000,26 Jul 2024
+815,Belgaum,Belgaum,Potato,Local,FAQ,2500,3400,3000,26 Aug 2024
+816,Belgaum,Belgaum,Potato,Local,FAQ,2500,3600,3000,11 Sep 2024
+817,Belgaum,Belgaum,Potato,Local,FAQ,3000,3500,3200,01 Jul 2024
+818,Belgaum,Belgaum,Potato,Local,FAQ,3000,4000,3000,07 Oct 2024
+819,Hassan,Channarayapatna,Potato,Local,FAQ,3000,3000,3000,10 Aug 2024
+820,Hassan,Channarayapatna,Potato,Local,FAQ,3000,3000,3000,29 Aug 2024
+821,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3000,2500,12 Nov 2024
+822,Kolar,Chickkaballapura,Potato,Local,FAQ,3000,3600,3400,25 Oct 2024
+823,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2746,2946,2846,30 Aug 2024
+824,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2778,2778,2778,22 Oct 2024
+825,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2987,3187,3087,29 Aug 2024
+826,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3001,3201,3101,24 Jul 2024
+827,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3071,3071,3071,23 Oct 2024
+828,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3125,3125,3125,17 Aug 2024
+829,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3234,3434,3334,16 Oct 2024
+830,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3333,3333,3333,11 Jul 2024
+831,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,14 Nov 2024
+832,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,15 Oct 2024
+833,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,27 Nov 2024
+834,Davangere,Davangere,Potato,Potato,FAQ,2200,2600,2400,05 Jul 2024
+835,Davangere,Davangere,Potato,Potato,FAQ,2200,2600,2400,25 Jul 2024
+836,Hassan,Hassan,Potato,Potato,FAQ,1300,3200,1800,05 Oct 2024
+837,Hassan,Hassan,Potato,Potato,FAQ,1300,3200,1800,05 Sep 2024
+838,Hassan,Hassan,Potato,Potato,FAQ,1400,2200,1600,21 Aug 2024
+839,Hassan,Hassan,Potato,Potato,FAQ,1600,1900,1600,05 Jul 2024
+840,Hassan,Hassan,Potato,Potato,FAQ,2100,2600,2100,15 Oct 2024
+841,Hassan,Hassan,Potato,Potato,FAQ,2100,3200,2945,26 Jul 2024
+842,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,3100,3100,3100,19 Jul 2024
+843,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,3200,3200,3200,04 Jul 2024
+844,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,2900,2100,02 Dec 2024
+845,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,2800,2400,18 Oct 2024
+846,Hassan,Arasikere,Potato,Local,FAQ,2000,2500,2000,29 Jul 2024
+847,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1800,2800,2500,05 Oct 2024
+848,Bangalore,Bangalore,Potato,Local,FAQ,1200,2800,2000,28 Aug 2024
+849,Bangalore,Bangalore,Potato,Local,FAQ,1600,2600,2100,13 Aug 2024
+850,Bangalore,Bangalore,Potato,Local,FAQ,3600,3800,3700,24 Jul 2024
+851,Bangalore,Bangalore,Potato,Local,FAQ,3600,4000,3800,18 Oct 2024
+852,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3200,2800,09 Jul 2024
+853,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,3000,31 Jul 2024
+854,Belgaum,Belgaum,Potato,Local,FAQ,1000,3000,2500,20 Sep 2024
+855,Belgaum,Belgaum,Potato,Local,FAQ,1000,3800,3200,07 Nov 2024
+856,Belgaum,Belgaum,Potato,Local,FAQ,2000,3500,3000,05 Nov 2024
+857,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,31 Aug 2024
+858,Belgaum,Belgaum,Potato,Local,FAQ,2500,4000,3500,21 Oct 2024
+859,Belgaum,Belgaum,Potato,Local,FAQ,2600,3200,3000,12 Jul 2024
+860,Belgaum,Belgaum,Potato,Local,FAQ,2600,3300,3100,13 Jul 2024
+861,Belgaum,Belgaum,Potato,Local,FAQ,2600,3300,3100,15 Jul 2024
+862,Kolar,Chickkaballapura,Potato,Local,FAQ,600,2800,2400,02 Dec 2024
+863,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3500,2800,10 Nov 2024
+864,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3600,2600,27 Nov 2024
+865,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2800,2700,22 Sep 2024
+866,Kolar,Chickkaballapura,Potato,Local,FAQ,2600,3200,3100,28 Aug 2024
+867,Kolar,Chickkaballapura,Potato,Local,FAQ,2800,3000,2900,06 Jul 2024
+868,Kolar,Chickkaballapura,Potato,Local,FAQ,2800,3000,2900,13 Jul 2024
+869,Kolar,Chickkaballapura,Potato,Local,FAQ,2800,3000,2900,20 Jul 2024
+870,Kolar,Chickkaballapura,Potato,Local,FAQ,3000,3100,3050,05 Oct 2024
+871,Kolar,Chickkaballapura,Potato,Local,FAQ,3400,4000,3800,20 Oct 2024
+872,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2678,2878,2778,10 Sep 2024
+873,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2778,2778,2778,08 Jul 2024
+874,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2931,3131,3031,31 Jul 2024
+875,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2987,3187,3087,23 Aug 2024
+876,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,03 Dec 2024
+877,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,20 Nov 2024
+878,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,26 Nov 2024
+879,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,26 Sep 2024
+880,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,29 Oct 2024
+881,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,09 Oct 2024
+882,Davangere,Davangere,Potato,Potato,FAQ,2000,2600,2200,18 Jul 2024
+883,Davangere,Davangere,Potato,Potato,FAQ,2000,2600,2400,20 Jul 2024
+884,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,21 Sep 2024
+885,Hassan,Hassan,Potato,Potato,FAQ,900,2200,1200,20 Aug 2024
+886,Hassan,Hassan,Potato,Potato,FAQ,1200,3600,1800,24 Jul 2024
+887,Bangalore,Hoskote,Potato,Local,FAQ,4400,4400,4400,09 Aug 2024
+888,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2900,2900,2900,06 Aug 2024
+889,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,1500,3000,2400,29 Aug 2024
+890,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,2800,2400,20 Nov 2024
+891,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,2800,2500,30 Oct 2024
+892,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3000,2800,09 Sep 2024
+893,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3000,2800,24 Aug 2024
+894,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3000,2800,06 Aug 2024
+895,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,28 Aug 2024
+896,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1350,1175,27 Jul 2024
+897,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,10 Oct 2024
+898,Hassan,Arasikere,Potato,Local,FAQ,2000,2900,2900,30 Sep 2024
+899,Hassan,Arasikere,Potato,Local,FAQ,3000,3000,3000,14 Aug 2024
+900,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1500,2500,2000,08 Sep 2024
+901,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1800,2900,2200,16 Oct 2024
+902,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,3000,2400,14 Nov 2024
+903,Bangalore,Bangalore,Potato,Local,FAQ,1600,3200,2900,12 Sep 2024
+904,Bangalore,Bangalore,Potato,Local,FAQ,2400,3200,2800,04 Nov 2024
+905,Bangalore,Bangalore,Potato,Local,FAQ,2400,3200,2800,07 Nov 2024
+906,Bangalore,Bangalore,Potato,Local,FAQ,2600,3400,3000,10 Oct 2024
+907,Bangalore,Bangalore,Potato,Local,FAQ,3200,3400,3300,04 Jul 2024
+908,Bangalore,Bangalore,Potato,Local,FAQ,3600,4000,3800,15 Oct 2024
+909,Bangalore,Bangalore,Potato,Potato,FAQ,2000,3000,2500,19 Oct 2024
+910,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3400,3000,24 Jul 2024
+911,Belgaum,Belgaum,Potato,Local,FAQ,2000,3200,2500,05 Sep 2024
+912,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,08 Aug 2024
+913,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,01 Oct 2024
+914,Belgaum,Belgaum,Potato,Local,FAQ,2500,3200,2800,28 Aug 2024
+915,Belgaum,Belgaum,Potato,Local,FAQ,2500,3400,3000,24 Aug 2024
+916,Belgaum,Belgaum,Potato,Local,FAQ,2500,3500,3000,26 Nov 2024
+917,Kolar,Chickkaballapura,Potato,Local,FAQ,2800,3000,2900,17 Aug 2024
+918,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2617,2817,2717,02 Aug 2024
+919,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2900,3100,3000,02 Sep 2024
+920,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2931,3131,3031,03 Dec 2024
+921,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2976,2976,2976,18 Sep 2024
+922,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3007,3207,3107,23 Jul 2024
+923,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3030,3030,3030,09 Jul 2024
+924,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3040,3240,3140,05 Aug 2024
+925,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,09 Aug 2024
+926,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,05 Sep 2024
+927,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,25 Oct 2024
+928,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3100,2800,26 Sep 2024
+929,Hassan,Hassan,Potato,Potato,FAQ,900,3100,2800,20 Jul 2024
+930,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1100,2800,2000,19 Sep 2024
+931,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,1600,2500,2000,23 Sep 2024
+932,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,2500,2200,27 Nov 2024
+933,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,3000,2600,30 Aug 2024
+934,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2400,3100,2800,08 Aug 2024
+935,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,2800,2650,10 Sep 2024
+936,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3000,2750,28 Oct 2024
+937,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2800,3050,2900,23 Aug 2024
+938,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1250,1175,02 Jul 2024
+939,Kalburgi,Kalburgi,Potato,Potato,FAQ,1200,1400,1300,09 Sep 2024
+940,Kalburgi,Kalburgi,Potato,Potato,FAQ,1600,2000,1800,09 Jul 2024
+941,Kolar,Kolar,Potato,Local,FAQ,1000,2000,1500,09 Aug 2024
+942,Kolar,Kolar,Potato,Local,FAQ,1000,2000,1500,10 Sep 2024
+943,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1800,23 Aug 2024
+944,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,12 Jul 2024
+945,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,21 Oct 2024
+946,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,23 Jul 2024
+947,Kolar,Kolar,Potato,Local,FAQ,2000,2500,2300,07 Jul 2024
+948,Kolar,Kolar,Potato,Local,FAQ,2000,3000,2300,02 Jul 2024
+949,Kolar,Malur,Potato,Potato,FAQ,3500,5000,4166,06 Sep 2024
+950,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2200,2500,2200,04 Oct 2024
+951,Hassan,Arasikere,Potato,Local,FAQ,1000,3000,3000,12 Aug 2024
+952,Chikmagalur,Bagepalli,Potato,Potato,FAQ,1500,2600,2100,14 Aug 2024
+953,Chikmagalur,Bagepalli,Potato,Potato,FAQ,2000,2800,2400,09 Nov 2024
+954,Bangalore,Bangalore,Potato,Local,FAQ,2600,3200,2900,17 Sep 2024
+955,Bangalore,Bangalore,Potato,Local,FAQ,3400,3600,3500,02 Aug 2024
+956,Bangalore,Bangalore,Potato,Local,FAQ,3400,3600,3500,31 Jul 2024
+957,Bangalore,Bangalore,Potato,Local,FAQ,3400,3800,3600,09 Jul 2024
+958,Bangalore,Bangalore,Potato,Potato,FAQ,2200,3000,2600,16 Aug 2024
+959,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,01 Jul 2024
+960,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,02 Jul 2024
+961,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,08 Jul 2024
+962,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,2900,23 Aug 2024
+963,Belgaum,Belgaum,Potato,Local,FAQ,2500,3800,3500,24 Oct 2024
+964,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3000,2500,08 Nov 2024
+965,Kolar,Chickkaballapura,Potato,Local,FAQ,600,3400,3000,11 Nov 2024
+966,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2600,2550,30 Sep 2024
+967,Kolar,Chickkaballapura,Potato,Local,FAQ,3000,4000,3800,21 Oct 2024
+968,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2493,2693,2593,14 Nov 2024
+969,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2678,2878,2778,11 Sep 2024
+970,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2817,3017,2917,11 Nov 2024
+971,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3031,3031,3031,21 Oct 2024
+972,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3234,3434,3334,06 Sep 2024
+973,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,07 Nov 2024
+974,Davangere,Davangere,Potato,Potato,FAQ,1600,2000,1800,08 Nov 2024
+975,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,08 Aug 2024
+976,Davangere,Davangere,Potato,Potato,FAQ,2200,2600,2400,02 Aug 2024
+977,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2000,2600,2300,25 Nov 2024
+978,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3000,2800,04 Oct 2024
+979,Bangalore,Doddaballa Pur,Potato,Local,FAQ,2500,3200,2800,23 Sep 2024
+980,Bangalore,Doddaballa Pur,Potato,Local,FAQ,3000,4000,3500,10 Jul 2024
+981,Hassan,Hassan,Potato,Potato,FAQ,900,2000,1800,29 Aug 2024
+982,Hassan,Hassan,Potato,Potato,FAQ,1000,1800,1500,29 Sep 2024
+983,Hassan,Hassan,Potato,Potato,FAQ,1000,3100,1000,03 Oct 2024
+984,Hassan,Hassan,Potato,Potato,FAQ,1600,3200,2600,07 Oct 2024
+985,Hassan,Hassan,Potato,Potato,FAQ,3000,3000,3000,27 Aug 2024
+986,Dharwad,Hubli (Amaragol),Potato,Local,FAQ,2500,3000,2750,27 Aug 2024
+987,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,2600,2300,15 Oct 2024
+988,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2000,3000,2500,05 Oct 2024
+989,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2400,2800,2600,03 Dec 2024
+990,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2400,2800,2600,10 Oct 2024
+991,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3100,2850,09 Nov 2024
+992,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2800,3100,2950,11 Jul 2024
+993,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,11 Sep 2024
+994,Kolar,Kolar,Potato,Local,FAQ,1000,2500,2000,26 Aug 2024
+995,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,11 Oct 2024
+996,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,05 Aug 2024
+997,Kolar,Kolar,Potato,Local,FAQ,1500,3000,2300,26 Jul 2024
+998,Kolar,Kolar,Potato,Local,FAQ,2000,3000,2800,24 Oct 2024
+999,Kolar,Kolar,Potato,Local,FAQ,2000,4000,3000,25 Oct 2024
+1000,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,2500,2000,09 Aug 2024
+1001,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,2500,2200,05 Jul 2024
+1002,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,1500,3100,2400,01 Jul 2024
+1003,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2800,30 Aug 2024
+1004,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,23 Jul 2024
+1005,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,24 Sep 2024
+1006,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,06 Nov 2024
+1007,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,04 Jul 2024
+1008,Udupi,Udupi,Potato,Potato,FAQ,3200,3400,3300,16 Jul 2024
+1009,Udupi,Udupi,Potato,Potato,FAQ,3400,3500,3500,28 Aug 2024
+1010,Udupi,Udupi,Potato,Potato,FAQ,3400,3500,3500,31 Aug 2024
+1011,Udupi,Udupi,Potato,Potato,FAQ,3400,3600,3500,17 Sep 2024
+1012,Udupi,Udupi,Potato,Potato,FAQ,3400,3600,3500,24 Jul 2024
+1013,Udupi,Udupi,Potato,Potato,FAQ,3700,4000,3800,05 Sep 2024
+1014,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,14 Oct 2024
+1015,Kolar,Kolar,Potato,Local,FAQ,1200,2000,1700,09 Sep 2024
+1016,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,05 Sep 2024
+1017,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,24 Sep 2024
+1018,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,26 Sep 2024
+1019,Kolar,Kolar,Potato,Local,FAQ,1500,3000,2400,15 Nov 2024
+1020,Kolar,Kolar,Potato,Local,FAQ,1500,3000,2600,01 Dec 2024
+1021,Shimoga,Shimoga,Potato,Local,FAQ,3000,3500,3250,02 Jul 2024
+1022,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,09 Aug 2024
+1023,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,23 Aug 2024
+1024,Udupi,Udupi,Potato,Potato,FAQ,3300,3400,3400,30 Sep 2024
+1025,Udupi,Udupi,Potato,Potato,FAQ,3700,4000,3800,10 Sep 2024
+1026,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2200,3000,2600,04 Nov 2024
+1027,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2400,3200,2800,25 Oct 2024
+1028,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3100,2800,29 Jul 2024
+1029,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,2600,2600,14 Nov 2024
+1030,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,2800,2700,05 Nov 2024
+1031,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,2850,2700,19 Aug 2024
+1032,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3100,2800,18 Sep 2024
+1033,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2700,3100,2900,12 Aug 2024
+1034,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1400,1200,10 Aug 2024
+1035,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,06 Aug 2024
+1036,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,12 Aug 2024
+1037,Kolar,Kolar,Potato,Local,FAQ,1000,1200,1100,08 Sep 2024
+1038,Kolar,Kolar,Potato,Local,FAQ,1000,2000,1500,19 Aug 2024
+1039,Kolar,Kolar,Potato,Local,FAQ,1000,2500,2000,14 Aug 2024
+1040,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,15 Aug 2024
+1041,Kolar,Kolar,Potato,Local,FAQ,1500,2200,2000,18 Oct 2024
+1042,Kolar,Kolar,Potato,Local,FAQ,2000,3000,2300,19 Jul 2024
+1043,Kolar,Malur,Potato,Potato,FAQ,3000,3500,3200,31 Aug 2024
+1044,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,2800,2500,20 Sep 2024
+1045,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2500,07 Aug 2024
+1046,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2600,3000,2800,23 Jul 2024
+1047,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2800,3000,3000,18 Jul 2024
+1048,Shimoga,Shimoga,Potato,Local,FAQ,3000,3500,3250,01 Jul 2024
+1049,Shimoga,Shimoga,Potato,Local,FAQ,3000,3500,3250,03 Jul 2024
+1050,Shimoga,Shimoga,Potato,Local,FAQ,3000,4000,3500,16 Jul 2024
+1051,Shimoga,Shimoga,Potato,Local,FAQ,3000,4000,3500,19 Jul 2024
+1052,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,06 Nov 2024
+1053,Tumkur,Tumkur,Potato,Other,FAQ,2600,3800,3100,05 Jul 2024
+1054,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,09 Oct 2024
+1055,Udupi,Udupi,Potato,Potato,FAQ,3300,3400,3400,26 Sep 2024
+1056,Udupi,Udupi,Potato,Potato,FAQ,3400,3500,3500,16 Nov 2024
+1057,Udupi,Udupi,Potato,Potato,FAQ,3400,3600,3500,24 Sep 2024
+1058,Udupi,Udupi,Potato,Potato,FAQ,3500,3600,3600,22 Aug 2024
+1059,Udupi,Udupi,Potato,Potato,FAQ,3500,3600,3600,23 Aug 2024
+1060,Udupi,Udupi,Potato,Potato,FAQ,3500,3700,3600,12 Aug 2024
+1061,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2600,3000,2600,30 Jul 2024
+1062,Bangalore,Ramanagara,Potato,Potato,FAQ,3200,3600,3400,17 Jul 2024
+1063,Shimoga,Shimoga,Potato,Local,FAQ,3000,4000,3500,18 Jul 2024
+1064,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,02 Aug 2024
+1065,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,04 Sep 2024
+1066,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,08 Oct 2024
+1067,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,20 Aug 2024
+1068,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,22 Jul 2024
+1069,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,24 Oct 2024
+1070,Udupi,Udupi,Potato,Potato,FAQ,3400,3600,3500,13 Sep 2024
+1071,Udupi,Udupi,Potato,Potato,FAQ,3500,3700,3600,09 Aug 2024
+1072,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2600,3000,2800,31 Jul 2024
+1073,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,22 Oct 2024
+1074,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,26 Nov 2024
+1075,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,25 Jul 2024
+1076,Udupi,Udupi,Potato,Potato,FAQ,3400,3500,3500,15 Nov 2024
+1077,Udupi,Udupi,Potato,Potato,FAQ,3400,3600,3500,20 Sep 2024
+1078,Udupi,Udupi,Potato,Potato,FAQ,3500,3700,3600,01 Aug 2024
+1079,Udupi,Udupi,Potato,Potato,FAQ,3900,4000,4000,18 Jul 2024
+1080,Udupi,Udupi,Potato,Potato,FAQ,3900,4000,4000,22 Jul 2024
+1081,Hassan,Arasikere,Potato,Local,FAQ,2000,3000,2000,20 Jul 2024
+1082,Hassan,Arasikere,Potato,Local,FAQ,2000,3000,3000,06 Jul 2024
+1083,Bangalore,Bangalore,Potato,Local,FAQ,1200,2800,2000,27 Aug 2024
+1084,Bangalore,Bangalore,Potato,Local,FAQ,1600,2600,2100,16 Aug 2024
+1085,Bangalore,Bangalore,Potato,Local,FAQ,1600,3000,2300,24 Sep 2024
+1086,Bangalore,Bangalore,Potato,Local,FAQ,1600,3200,2400,19 Sep 2024
+1087,Bangalore,Bangalore,Potato,Local,FAQ,2000,3000,2500,29 Oct 2024
+1088,Bangalore,Bangalore,Potato,Local,FAQ,3000,3600,3000,22 Oct 2024
+1089,Bangalore,Bangalore,Potato,Local,FAQ,3000,3600,3200,07 Aug 2024
+1090,Bangalore,Bangalore,Potato,Local,FAQ,3600,4000,3800,16 Oct 2024
+1091,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3000,2600,08 Nov 2024
+1092,Bangalore,Bangalore,Potato,Potato,FAQ,2400,3200,2800,15 Jul 2024
+1093,Bangalore,Bangalore,Potato,Potato,FAQ,2600,3200,2900,27 Aug 2024
+1094,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,3000,19 Sep 2024
+1095,Bangalore,Bangalore,Potato,Potato,FAQ,2800,3200,3000,21 Sep 2024
+1096,Belgaum,Belgaum,Potato,Local,FAQ,2000,3000,2500,27 Sep 2024
+1097,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,02 Aug 2024
+1098,Belgaum,Belgaum,Potato,Local,FAQ,2500,3100,2800,31 Jul 2024
+1099,Belgaum,Belgaum,Potato,Local,FAQ,2600,3200,3000,11 Jul 2024
+1100,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2600,2500,13 Oct 2024
+1101,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2600,2500,29 Sep 2024
+1102,Kolar,Chickkaballapura,Potato,Local,FAQ,2400,2600,2550,24 Sep 2024
+1103,Kolar,Chickkaballapura,Potato,Local,FAQ,2600,2800,2700,21 Sep 2024
+1104,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2746,2946,2846,28 Oct 2024
+1105,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,2931,3131,3031,03 Aug 2024
+1106,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3031,3031,3031,30 Oct 2024
+1107,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,3202,3402,3302,19 Aug 2024
+1108,Davangere,Davangere,Potato,Potato,FAQ,1500,2000,1800,28 Nov 2024
+1109,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,14 Aug 2024
+1110,Davangere,Davangere,Potato,Potato,FAQ,1800,2200,2000,31 Aug 2024
+1111,Davangere,Davangere,Potato,Potato,FAQ,1800,2400,2000,03 Sep 2024
+1112,Davangere,Davangere,Potato,Potato,FAQ,1800,2400,2000,06 Aug 2024
+1113,Davangere,Davangere,Potato,Potato,FAQ,1800,2500,2000,03 Oct 2024
+1114,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,10 Sep 2024
+1115,Davangere,Davangere,Potato,Potato,FAQ,2000,2500,2200,12 Sep 2024
+1116,Bangalore,Doddaballa Pur,Potato,Local,FAQ,3000,3600,3300,04 Jul 2024
+1117,Chamrajnagar,Gundlupet,Potato,Chandermukhi,FAQ,2300,2500,2300,04 Nov 2024
+1118,Hassan,Hassan,Potato,Potato,FAQ,1800,2500,2500,02 Jul 2024
+1119,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2000,2900,2500,24 Aug 2024
+1120,Dharwad,Hubli (Amaragol),Potato,Other,FAQ,2600,2800,2700,31 Aug 2024
+1121,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2400,2900,2650,24 Oct 2024
+1122,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3100,2750,05 Jul 2024
+1123,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2500,3200,2800,01 Jul 2024
+1124,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,2900,2750,19 Sep 2024
+1125,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2600,3100,2850,18 Jul 2024
+1126,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2650,3000,2800,12 Jul 2024
+1127,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,2800,2900,2850,06 Nov 2024
+1128,Dharwad,Hubli (Amaragol),Potato,Potato,FAQ,3000,3200,3100,03 Jul 2024
+1129,Mysore,K.R.Nagar,Potato,Potato,FAQ,2000,2333,2083,19 Sep 2024
+1130,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1200,1100,16 Aug 2024
+1131,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1200,1100,30 Sep 2024
+1132,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1300,1150,04 Sep 2024
+1133,Kalburgi,Kalburgi,Potato,Potato,FAQ,1000,1400,1200,06 Nov 2024
+1134,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,13 Aug 2024
+1135,Kalburgi,Kalburgi,Potato,Potato,FAQ,1100,1300,1200,24 Jul 2024
+1136,Kolar,Kolar,Potato,Local,FAQ,1000,1500,1300,02 Sep 2024
+1137,Kolar,Kolar,Potato,Local,FAQ,1500,2000,1700,25 Jul 2024
+1138,Kolar,Kolar,Potato,Local,FAQ,1500,2200,2000,21 Aug 2024
+1139,Kolar,Kolar,Potato,Local,FAQ,1500,2500,2000,14 Jul 2024
+1140,Kolar,Kolar,Potato,Local,FAQ,2000,2500,2300,04 Jul 2024
+1141,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2400,03 Jul 2024
+1142,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2000,3000,2500,13 Aug 2024
+1143,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2300,3000,2800,29 Nov 2024
+1144,Mysore,Mysore (Bandipalya),Potato,Potato,FAQ,2500,3100,3000,09 Jul 2024
+1145,Bangalore,Ramanagara,Potato,Potato,FAQ,3300,3500,3400,06 Jul 2024
+1146,Bangalore,Ramanagara,Potato,Potato,FAQ,3600,4200,4000,01 Sep 2024
+1147,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,03 Dec 2024
+1148,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,13 Aug 2024
+1149,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,14 Aug 2024
+1150,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,20 Nov 2024
+1151,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3750,25 Oct 2024
+1152,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,03 Oct 2024
+1153,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,04 Oct 2024
+1154,Shimoga,Shimoga,Potato,Local,FAQ,3500,4000,3800,27 Sep 2024
+1155,Udupi,Udupi,Potato,Potato,FAQ,3000,3200,3100,03 Oct 2024
+1156,Udupi,Udupi,Potato,Potato,FAQ,3400,3500,3500,19 Nov 2024
+1157,Udupi,Udupi,Potato,Potato,FAQ,3400,3600,3500,29 Jul 2024
+1158,Udupi,Udupi,Potato,Potato,FAQ,3900,4000,4000,01 Jul 2024

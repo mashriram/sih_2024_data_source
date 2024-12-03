@@ -1,0 +1,1905 @@
+0,1,2,3,4,5,6,7,8,9
+1,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,24 Oct 2024
+2,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,08 Oct 2024
+3,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,31 Jul 2024
+4,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,10 Jul 2024
+5,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,29 Oct 2024
+6,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,18 Sep 2024
+7,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,2800,2700,09 Jul 2024
+8,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2800,20 Nov 2024
+9,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2700,3000,2900,26 Oct 2024
+10,Kolar,Bangarpet,Rice,Hamsa St.,FAQ,3500,4000,3800,20 Nov 2024
+11,Kolar,Bangarpet,Rice,Hansa,FAQ,5000,5500,5300,30 Sep 2024
+12,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2500,3000,2700,02 Jul 2024
+13,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2500,3000,2700,04 Jul 2024
+14,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2700,3000,2800,19 Jul 2024
+15,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3200,3100,15 Oct 2024
+16,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,25 Nov 2024
+17,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3200,3500,3400,11 Sep 2024
+18,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3200,3500,3400,30 Nov 2024
+19,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3800,4000,3900,12 Nov 2024
+20,Shimoga,Bhadravathi,Rice,Medium,FAQ,3077,3077,3077,22 Aug 2024
+21,Bidar,Bidar,Rice,Broken Rice,FAQ,2500,4000,3000,21 Aug 2024
+22,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,03 Jul 2024
+23,Bidar,Bidar,Rice,Broken Rice,FAQ,3000,4000,3500,24 Oct 2024
+24,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4000,6400,5500,26 Oct 2024
+25,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4500,6500,5500,25 Oct 2024
+26,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5100,6400,5300,02 Aug 2024
+27,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6200,5600,12 Aug 2024
+28,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5500,13 Jul 2024
+29,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,20 Jul 2024
+30,Chikmagalur,Chikkamagalore,Rice,Other,FAQ,6199,6199,6199,25 Sep 2024
+31,Davangere,Davangere,Rice,Broken Rice,FAQ,2350,2350,2350,12 Nov 2024
+32,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,12 Jul 2024
+33,Davangere,Davangere,Rice,Medium,FAQ,2800,4900,3850,30 Sep 2024
+34,Davangere,Davangere,Rice,Medium,FAQ,2900,4500,3700,19 Aug 2024
+35,Davangere,Davangere,Rice,Medium,FAQ,2900,6050,5020,03 Aug 2024
+36,Davangere,Davangere,Rice,Medium,FAQ,2900,6200,4550,02 Aug 2024
+37,Davangere,Davangere,Rice,Medium,FAQ,4000,4250,4125,14 Oct 2024
+38,Davangere,Davangere,Rice,Medium,FAQ,4400,4500,4450,04 Oct 2024
+39,Bangalore,Doddaballa Pur,Rice,Broken Rice,FAQ,2420,2500,2460,10 Jul 2024
+40,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2300,2450,2400,02 Jul 2024
+41,Koppal,Gangavathi,Rice,Other,FAQ,2690,2910,2700,08 Jul 2024
+42,Koppal,Gangavathi,Rice,Other,FAQ,4590,4590,4590,07 Nov 2024
+43,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4125,4175,4150,15 Jul 2024
+44,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,20 Aug 2024
+45,Haveri,Haveri,Rice,Broken Rice,FAQ,3700,3700,3700,30 Sep 2024
+46,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,7850,7850,7850,03 Sep 2024
+47,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2500,06 Jul 2024
+48,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2050,2850,2550,06 Aug 2024
+49,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2800,2550,19 Nov 2024
+50,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3000,2700,25 Oct 2024
+51,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,2900,2500,13 Nov 2024
+52,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,3050,2700,17 Aug 2024
+53,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2250,3100,2750,16 Aug 2024
+54,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4100,3550,23 Oct 2024
+55,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,18 Oct 2024
+56,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,25 Sep 2024
+57,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,05 Jul 2024
+58,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,10 Sep 2024
+59,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,13 Aug 2024
+60,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,14 Aug 2024
+61,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,05 Jul 2024
+62,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,21 Oct 2024
+63,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,16 Oct 2024
+64,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,19 Oct 2024
+65,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,21 Sep 2024
+66,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,15 Oct 2024
+67,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2200,2700,2500,19 Sep 2024
+68,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2800,3000,2900,15 Oct 2024
+69,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2800,3000,2900,14 Nov 2024
+70,Bidar,Bidar,Rice,Broken Rice,FAQ,2000,4500,3800,23 Oct 2024
+71,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,04 Jul 2024
+72,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,04 Oct 2024
+73,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,11 Jul 2024
+74,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,19 Jul 2024
+75,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,23 Aug 2024
+76,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3200,3000,14 Aug 2024
+77,Bidar,Bidar,Rice,Broken Rice,FAQ,3000,3400,3200,16 Nov 2024
+78,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4800,6500,5200,05 Nov 2024
+79,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6500,5700,26 Sep 2024
+80,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,18 Jul 2024
+81,Chamrajnagar,Chamaraj Nagar,Rice,Other,FAQ,5331,5331,5331,31 Aug 2024
+82,Kolar,Chintamani,Rice,Hansa,FAQ,3200,3400,3300,20 Jul 2024
+83,Davangere,Davangere,Rice,Broken Rice,FAQ,2130,2500,2315,14 Oct 2024
+84,Davangere,Davangere,Rice,Medium,FAQ,2800,5020,4100,25 Jul 2024
+85,Davangere,Davangere,Rice,Medium,FAQ,2800,6500,4650,29 Jul 2024
+86,Davangere,Davangere,Rice,Medium,FAQ,2900,5750,4325,07 Aug 2024
+87,Davangere,Davangere,Rice,Medium,FAQ,5733,6684,6208,21 Sep 2024
+88,Bangalore,Doddaballa Pur,Rice,Broken Rice,FAQ,2810,2820,2815,05 Oct 2024
+89,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2500,2500,2500,04 Sep 2024
+90,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2500,2700,2605,07 Oct 2024
+91,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2650,2650,2650,30 Oct 2024
+92,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2850,2930,2890,07 Nov 2024
+93,Koppal,Gangavathi,Rice,Other,FAQ,2850,2850,2850,20 Nov 2024
+94,Koppal,Gangavathi,Rice,Other,FAQ,2900,2950,2930,23 Aug 2024
+95,Koppal,Gangavathi,Rice,Other,FAQ,3000,3450,3350,08 Oct 2024
+96,Koppal,Gangavathi,Rice,Other,FAQ,3380,4060,3400,05 Aug 2024
+97,Koppal,Gangavathi,Rice,Other,FAQ,3450,4825,3726,02 Jul 2024
+98,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4175,4175,4175,29 Jul 2024
+99,Kolar,Gowribidanoor,Rice,Pusa Basmati Raw (Old),FAQ,4700,5300,5000,03 Aug 2024
+100,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2550,02 Aug 2024
+101,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2550,13 Aug 2024
+102,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2150,3000,2550,04 Sep 2024
+103,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,3000,4000,3500,08 Nov 2024
+104,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,3450,4800,3700,03 Dec 2024
+105,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4200,3650,19 Jul 2024
+106,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4300,3850,30 Aug 2024
+107,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4400,3800,13 Aug 2024
+108,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6300,5500,09 Jul 2024
+109,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,03 Aug 2024
+110,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,06 Aug 2024
+111,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,25 Oct 2024
+112,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,07 Oct 2024
+113,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,15 Oct 2024
+114,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,20 Sep 2024
+115,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,10 Jul 2024
+116,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,12 Aug 2024
+117,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,27 Aug 2024
+118,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,08 Nov 2024
+119,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,28 Oct 2024
+120,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,03 Oct 2024
+121,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,01 Aug 2024
+122,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,17 Aug 2024
+123,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,21 Aug 2024
+124,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,29 Aug 2024
+125,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,29 Jul 2024
+126,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,03 Oct 2024
+127,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2800,3200,3000,16 Oct 2024
+128,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3000,3500,3300,12 Sep 2024
+129,Kolar,Bangarpet,Rice,Hansa,FAQ,4500,5000,4800,23 Sep 2024
+130,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3200,3100,31 Aug 2024
+131,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,30 Aug 2024
+132,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,4000,4200,4100,05 Oct 2024
+133,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4500,5000,4800,12 Sep 2024
+134,Shimoga,Bhadravathi,Rice,Medium,FAQ,2924,2924,2924,30 Oct 2024
+135,Bidar,Bidar,Rice,Broken Rice,FAQ,2000,3500,3000,07 Nov 2024
+136,Bidar,Bidar,Rice,Broken Rice,FAQ,2800,3200,3000,25 Sep 2024
+137,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,05 Aug 2024
+138,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,16 Aug 2024
+139,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4500,6600,5700,23 Oct 2024
+140,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6200,5500,09 Jul 2024
+141,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6250,5500,24 Jul 2024
+142,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5500,10 Jul 2024
+143,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,23 Jul 2024
+144,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,04 Oct 2024
+145,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5600,6500,5800,15 Nov 2024
+146,Chikmagalur,Chikkamagalore,Rice,Pusa Basmati Raw (Old),FAQ,6022,6022,6022,02 Aug 2024
+147,Davangere,Davangere,Rice,Broken Rice,FAQ,2130,2500,2315,19 Oct 2024
+148,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2200,2200,05 Jul 2024
+149,Davangere,Davangere,Rice,Broken Rice,FAQ,2450,2450,2450,13 Nov 2024
+150,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,24 Oct 2024
+151,Davangere,Davangere,Rice,Medium,FAQ,2700,3500,3100,18 Jul 2024
+152,Davangere,Davangere,Rice,Medium,FAQ,2800,5107,3954,01 Aug 2024
+153,Davangere,Davangere,Rice,Medium,FAQ,2900,3250,3075,30 Oct 2024
+154,Bangalore,Doddaballa Pur,Rice,Broken Rice,FAQ,2340,3450,2600,19 Nov 2024
+155,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2350,2900,2370,27 Sep 2024
+156,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2500,2540,2520,03 Sep 2024
+157,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2500,2610,2600,10 Jul 2024
+158,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2551,2781,2641,16 Nov 2024
+159,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2945,2970,2955,25 Oct 2024
+160,Koppal,Gangavathi,Rice,Other,FAQ,2600,3410,3400,02 Dec 2024
+161,Koppal,Gangavathi,Rice,Other,FAQ,2705,4300,3040,26 Aug 2024
+162,Koppal,Gangavathi,Rice,Other,FAQ,2841,3071,3030,13 Sep 2024
+163,Kalburgi,Kalburgi,Rice,Fine,FAQ,3000,3900,3600,16 Nov 2024
+164,Kalburgi,Kalburgi,Rice,Fine,FAQ,3800,4250,3800,03 Dec 2024
+165,Kalburgi,Kalburgi,Rice,Fine,FAQ,4200,6100,5300,29 Jul 2024
+166,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6450,5700,28 Aug 2024
+167,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6500,5500,12 Aug 2024
+168,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6600,5300,09 Sep 2024
+169,Kalburgi,Kalburgi,Rice,Fine,FAQ,4600,6500,5500,03 Jul 2024
+170,Kolar,Kolar,Rice,Fine,FAQ,6300,6800,6550,14 Nov 2024
+171,Tumkur,Madhugiri,Rice,Other,FAQ,3000,5000,3200,21 Sep 2024
+172,Tumkur,Madhugiri,Rice,Other,FAQ,4900,5100,5000,28 Oct 2024
+173,Kolar,Malur,Rice,Sona,FAQ,3500,4000,3879,17 Sep 2024
+174,Kolar,Malur,Rice,Sona,FAQ,4000,6500,5908,28 Aug 2024
+175,Kolar,Malur,Rice,Sona,FAQ,5000,8000,7850,20 Aug 2024
+176,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3940,3940,3940,14 Nov 2024
+177,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2700,2700,2700,15 Nov 2024
+178,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2700,3200,3000,29 Aug 2024
+179,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2800,3000,2900,26 Sep 2024
+180,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2810,2900,2900,23 Aug 2024
+181,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3000,3200,3200,25 Sep 2024
+182,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5675,7145,6980,24 Sep 2024
+183,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5850,6950,6350,11 Sep 2024
+184,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7000,6900,26 Aug 2024
+185,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7100,09 Nov 2024
+186,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7600,6800,03 Jul 2024
+187,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6200,7000,6900,23 Aug 2024
+188,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4100,5600,5250,11 Sep 2024
+189,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5600,5300,29 Oct 2024
+190,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5800,5200,11 Oct 2024
+191,Belgaum,Sankeshwar,Rice,Other,FAQ,2700,2860,2800,07 Oct 2024
+192,Belgaum,Sankeshwar,Rice,Other,FAQ,5500,6180,6000,19 Sep 2024
+193,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,03 Dec 2024
+194,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,10 Oct 2024
+195,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,23 Oct 2024
+196,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,28 Nov 2024
+197,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,01 Jul 2024
+198,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,10 Sep 2024
+199,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,19 Sep 2024
+200,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,20 Sep 2024
+201,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,25 Sep 2024
+202,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,01 Oct 2024
+203,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,10 Oct 2024
+204,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,14 Oct 2024
+205,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,22 Oct 2024
+206,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,27 Nov 2024
+207,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,05 Jul 2024
+208,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,09 Oct 2024
+209,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,15 Jul 2024
+210,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,17 Aug 2024
+211,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,23 Sep 2024
+212,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,24 Oct 2024
+213,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,29 Jul 2024
+214,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5800,4650,10 Sep 2024
+215,Raichur,Sindhanur,Rice,Medium,FAQ,4550,4550,4550,18 Sep 2024
+216,Tumkur,Tumkur,Rice,Other,FAQ,3500,6200,4400,30 Aug 2024
+217,Tumkur,Tumkur,Rice,Other,FAQ,3600,6600,4500,25 Nov 2024
+218,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,02 Aug 2024
+219,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,12 Aug 2024
+220,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,31 Jul 2024
+221,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,22 Oct 2024
+222,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,20 Jul 2024
+223,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,01 Aug 2024
+224,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,09 Aug 2024
+225,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,09 Sep 2024
+226,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,20 Jul 2024
+227,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,09 Oct 2024
+228,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,10 Oct 2024
+229,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,15 Oct 2024
+230,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,08 Aug 2024
+231,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,11 Sep 2024
+232,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,12 Aug 2024
+233,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,04 Nov 2024
+234,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,07 Nov 2024
+235,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,28 Oct 2024
+236,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,16 Oct 2024
+237,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,19 Oct 2024
+238,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,19 Sep 2024
+239,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,21 Sep 2024
+240,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,25 Sep 2024
+241,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2200,2700,2500,13 Jul 2024
+242,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2700,19 Nov 2024
+243,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2700,25 Oct 2024
+244,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3000,3120,3100,21 Sep 2024
+245,Kolar,Bangarpet,Rice,Hansa,FAQ,6000,6500,6300,21 Sep 2024
+246,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,04 Oct 2024
+247,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3500,4000,3800,27 Nov 2024
+248,Kolar,Bangarpet,Rice,Sona Fine,FAQ,3500,4500,4000,03 Dec 2024
+249,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4000,5000,4500,26 Nov 2024
+250,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4500,5000,4800,04 Oct 2024
+251,Shimoga,Bhadravathi,Rice,Medium,FAQ,2900,2900,2900,13 Nov 2024
+252,Shimoga,Bhadravathi,Rice,Medium,FAQ,2900,2900,2900,19 Sep 2024
+253,Shimoga,Bhadravathi,Rice,Medium,FAQ,3070,3070,3070,07 Nov 2024
+254,Bidar,Bidar,Rice,Broken Rice,FAQ,2000,3500,3000,21 Oct 2024
+255,Bidar,Bidar,Rice,Broken Rice,FAQ,2200,4300,3200,12 Nov 2024
+256,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,02 Aug 2024
+257,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,03 Aug 2024
+258,Bidar,Bidar,Rice,Broken Rice,FAQ,3000,3200,3100,30 Jul 2024
+259,Bidar,Bidar,Rice,Broken Rice,FAQ,3000,3400,3200,19 Nov 2024
+260,Bidar,Bidar,Rice,Broken Rice,FAQ,3200,4200,3600,25 Oct 2024
+261,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4500,6500,5500,21 Oct 2024
+262,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6500,5500,22 Oct 2024
+263,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,19 Jul 2024
+264,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,31 Jul 2024
+265,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,01 Oct 2024
+266,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,19 Oct 2024
+267,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,28 Sep 2024
+268,Kolar,Chintamani,Rice,Sona,FAQ,5200,6200,5500,20 Jul 2024
+269,Davangere,Davangere,Rice,Broken Rice,FAQ,2170,2575,2375,04 Nov 2024
+270,Davangere,Davangere,Rice,Broken Rice,FAQ,2450,2450,2450,11 Jul 2024
+271,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2900,2700,15 Jul 2024
+272,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4025,4335,4150,06 Jul 2024
+273,Kolar,Gowribidanoor,Rice,Pusa Basmati Raw (Old),FAQ,2600,4000,3300,13 Sep 2024
+274,Bangalore,Hoskote,Rice,Coarse,FAQ,3115,3115,3115,09 Sep 2024
+275,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2975,2650,15 Nov 2024
+276,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2550,23 Oct 2024
+277,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3060,2650,20 Aug 2024
+278,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2800,2400,06 Nov 2024
+279,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2800,2500,04 Jul 2024
+280,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2900,2500,28 Sep 2024
+281,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3000,2600,18 Jul 2024
+282,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,3100,2600,05 Sep 2024
+283,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4000,3600,26 Oct 2024
+284,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3050,3950,3655,19 Nov 2024
+285,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3050,4600,4000,30 Jul 2024
+286,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4000,3600,24 Oct 2024
+287,Kalburgi,Kalburgi,Rice,Fine,FAQ,4100,6300,5600,15 Oct 2024
+288,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6200,5450,03 Aug 2024
+289,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6200,5550,18 Jul 2024
+290,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6400,5500,03 Sep 2024
+291,Kalburgi,Kalburgi,Rice,Fine,FAQ,4600,6500,5400,06 Sep 2024
+292,Kalburgi,Kalburgi,Rice,Fine,FAQ,5000,6000,5500,02 Dec 2024
+293,Kalburgi,Kalburgi,Rice,Fine,FAQ,5850,7000,6700,20 Aug 2024
+294,Kolar,Kolar,Rice,Fine,FAQ,6400,6700,6516,23 Oct 2024
+295,Kolar,Kolar,Rice,Fine,FAQ,6400,6800,6600,30 Oct 2024
+296,Mandya,Maddur,Rice,Broken Rice,FAQ,1600,1600,1600,22 Oct 2024
+297,Raichur,Manvi,Rice,Other,FAQ,3000,3000,3000,19 Sep 2024
+298,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,4500,4500,4500,31 Aug 2024
+299,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2800,2400,26 Oct 2024
+300,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2300,2800,2500,20 Jul 2024
+301,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2850,2957,2850,12 Aug 2024
+302,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2900,3045,3000,08 Aug 2024
+303,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3000,3050,3050,16 Sep 2024
+304,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,3300,5200,4800,05 Aug 2024
+305,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5600,7400,6700,11 Jul 2024
+306,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7400,7000,10 Jul 2024
+307,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,6500,24 Jul 2024
+308,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7600,6800,18 Sep 2024
+309,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6500,7000,6800,15 Nov 2024
+310,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5600,5300,06 Nov 2024
+311,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5800,5000,30 Sep 2024
+312,Mysore,Mysore (Bandipalya),Rice,Sona Mansoori Non Basmati,FAQ,4000,5400,5000,15 Jul 2024
+313,Belgaum,Sankeshwar,Rice,Other,FAQ,5500,6090,5900,30 Aug 2024
+314,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,02 Dec 2024
+315,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,13 Nov 2024
+316,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,06 Sep 2024
+317,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,25 Jul 2024
+318,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,29 Jul 2024
+319,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,03 Dec 2024
+320,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,20 Nov 2024
+321,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,09 Jul 2024
+322,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,12 Jul 2024
+323,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,23 Jul 2024
+324,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,28 Aug 2024
+325,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,05 Sep 2024
+326,Kalburgi,Kalburgi,Rice,Fine,FAQ,4800,6500,5700,23 Aug 2024
+327,Kalburgi,Kalburgi,Rice,Fine,FAQ,5000,6800,5950,21 Aug 2024
+328,Kolar,Kolar,Rice,Fine,FAQ,5200,5600,5577,26 Sep 2024
+329,Kolar,Kolar,Rice,Fine,FAQ,6200,6500,6439,24 Sep 2024
+330,Mandya,Maddur,Rice,Other,FAQ,3300,3300,3300,04 Jul 2024
+331,Tumkur,Madhugiri,Rice,Other,FAQ,4000,5500,5200,28 Nov 2024
+332,Kolar,Malur,Rice,Sona,FAQ,4000,6000,5102,19 Jul 2024
+333,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3265,3330,3330,06 Aug 2024
+334,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,8500,16500,15500,21 Oct 2024
+335,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2600,2300,24 Jul 2024
+336,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2600,2400,25 Jul 2024
+337,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2800,2400,18 Oct 2024
+338,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2400,2800,2600,05 Jul 2024
+339,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2850,2850,2850,09 Nov 2024
+340,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2900,2900,2900,11 Nov 2024
+341,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2944,2944,2944,17 Aug 2024
+342,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3000,3300,3100,26 Aug 2024
+343,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,3800,5200,4800,07 Aug 2024
+344,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5250,6900,6300,03 Sep 2024
+345,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5700,7050,6850,16 Sep 2024
+346,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,6800,26 Jul 2024
+347,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5850,7250,6670,30 Nov 2024
+348,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7000,26 Oct 2024
+349,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7100,21 Oct 2024
+350,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6900,7000,6900,29 Aug 2024
+351,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4100,5580,5450,03 Sep 2024
+352,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4300,5200,4800,23 Aug 2024
+353,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4650,5350,5250,29 Nov 2024
+354,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5300,4800,05 Nov 2024
+355,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5600,5300,09 Nov 2024
+356,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4890,5800,5500,29 Aug 2024
+357,Tumkur,Pavagada,Rice,Coarse,FAQ,3000,4000,3100,30 Sep 2024
+358,Bangalore,Ramanagara,Rice,Fine,FAQ,5000,6500,6000,24 Jul 2024
+359,Belgaum,Sankeshwar,Rice,Other,FAQ,2300,2550,2400,18 Jul 2024
+360,Belgaum,Sankeshwar,Rice,Other,FAQ,2600,2850,2800,06 Sep 2024
+361,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,03 Sep 2024
+362,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,08 Aug 2024
+363,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,12 Aug 2024
+364,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,31 Jul 2024
+365,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3600,20 Aug 2024
+366,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,02 Dec 2024
+367,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,05 Nov 2024
+368,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,26 Nov 2024
+369,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,13 Sep 2024
+370,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,16 Jul 2024
+371,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,17 Sep 2024
+372,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,19 Aug 2024
+373,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,05 Nov 2024
+374,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,12 Jul 2024
+375,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,18 Jul 2024
+376,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,22 Jul 2024
+377,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,23 Oct 2024
+378,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,24 Sep 2024
+379,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,26 Nov 2024
+380,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,09 Sep 2024
+381,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,20 Aug 2024
+382,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,26 Jul 2024
+383,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,18 Sep 2024
+384,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,21 Sep 2024
+385,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,23 Sep 2024
+386,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,09 Jul 2024
+387,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,21 Aug 2024
+388,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,25 Jul 2024
+389,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,03 Jul 2024
+390,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,12 Jul 2024
+391,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,22 Jul 2024
+392,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,24 Sep 2024
+393,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,06 Aug 2024
+394,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,20 Aug 2024
+395,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,22 Aug 2024
+396,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,26 Jul 2024
+397,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,30 Oct 2024
+398,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,13 Sep 2024
+399,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,18 Oct 2024
+400,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,04 Jul 2024
+401,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,08 Jul 2024
+402,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2800,3000,2900,25 Jul 2024
+403,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4500,5200,4800,11 Sep 2024
+404,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,01 Oct 2024
+405,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,06 Jul 2024
+406,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,31 Jul 2024
+407,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3200,3100,19 Oct 2024
+408,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,3000,6000,5000,25 Jul 2024
+409,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4000,6500,5800,27 Sep 2024
+410,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6350,5550,10 Aug 2024
+411,Davangere,Davangere,Rice,Broken Rice,FAQ,2100,2650,2375,04 Sep 2024
+412,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2800,2630,02 Jul 2024
+413,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,05 Aug 2024
+414,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,14 Nov 2024
+415,Davangere,Davangere,Rice,Medium,FAQ,2900,7110,5005,05 Sep 2024
+416,Davangere,Davangere,Rice,Medium,FAQ,3325,3325,3325,06 Jul 2024
+417,Davangere,Davangere,Rice,Medium,FAQ,6020,6450,6211,20 Aug 2024
+418,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2475,2700,2475,17 Aug 2024
+419,Koppal,Gangavathi,Rice,Other,FAQ,2840,3580,3000,26 Nov 2024
+420,Koppal,Gangavathi,Rice,Other,FAQ,2850,2980,2940,30 Oct 2024
+421,Koppal,Gangavathi,Rice,Other,FAQ,2850,3040,2990,24 Oct 2024
+422,Koppal,Gangavathi,Rice,Other,FAQ,2900,2950,2950,08 Nov 2024
+423,Koppal,Gangavathi,Rice,Other,FAQ,3180,3225,3200,18 Oct 2024
+424,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4150,4275,4185,02 Jul 2024
+425,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,21 Aug 2024
+426,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4380,4380,4380,28 Oct 2024
+427,Hassan,Hassan,Rice,Broken Rice,FAQ,2100,2100,2100,02 Jul 2024
+428,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2900,2550,05 Nov 2024
+429,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2500,13 Sep 2024
+430,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2800,2500,08 Jul 2024
+431,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,3000,2600,03 Sep 2024
+432,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,6300,3800,04 Oct 2024
+433,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4200,3650,12 Jul 2024
+434,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,16 Jul 2024
+435,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,20 Jul 2024
+436,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,21 Aug 2024
+437,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,30 Aug 2024
+438,Shimoga,Shimogga(Theertahalli),Rice,Coarse,FAQ,5200,5200,5200,19 Oct 2024
+439,Raichur,Sindhanur,Rice,Medium,FAQ,4325,4925,4925,12 Sep 2024
+440,Raichur,Sindhanur,Rice,Medium,FAQ,4700,4700,4700,16 Sep 2024
+441,Raichur,Sindhanur,Rice,Medium,FAQ,4861,4861,4861,05 Sep 2024
+442,Raichur,Sindhanur,Rice,Sona Medium,FAQ,4100,4100,4100,13 Nov 2024
+443,Tumkur,Sira,Rice,Other,FAQ,2940,2940,2940,12 Jul 2024
+444,Tumkur,Sira,Rice,Other,FAQ,4000,4000,4000,02 Dec 2024
+445,Tumkur,Tumkur,Rice,Other,FAQ,3600,6500,4400,07 Nov 2024
+446,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,03 Jul 2024
+447,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,22 Jul 2024
+448,Davangere,Davangere,Rice,Medium,FAQ,2900,6988,4944,15 Nov 2024
+449,Davangere,Davangere,Rice,Medium,FAQ,2930,4250,3590,24 Sep 2024
+450,Bangalore,Doddaballa Pur,Rice,Other,FAQ,7900,7900,7900,10 Jul 2024
+451,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2650,2650,2650,18 Oct 2024
+452,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2700,2710,2705,25 Jul 2024
+453,Koppal,Gangavathi,Rice,Other,FAQ,2700,2710,2705,10 Sep 2024
+454,Koppal,Gangavathi,Rice,Other,FAQ,2700,2740,2730,09 Sep 2024
+455,Koppal,Gangavathi,Rice,Other,FAQ,2825,2965,2890,20 Sep 2024
+456,Koppal,Gangavathi,Rice,Other,FAQ,3380,3410,3400,06 Aug 2024
+457,Kolar,Gowribidanoor,Rice,Pusa Basmati Raw (Old),FAQ,3200,3500,3350,05 Oct 2024
+458,Haveri,Hirekerur,Rice,Other,FAQ,4000,4200,4100,01 Jul 2024
+459,Bangalore,Hoskote,Rice,Coarse,FAQ,962,962,962,02 Sep 2024
+460,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,1800,2800,2400,16 Jul 2024
+461,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2900,2450,26 Oct 2024
+462,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2900,2650,12 Nov 2024
+463,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,3000,2500,09 Sep 2024
+464,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4300,3850,16 Jul 2024
+465,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4400,3800,13 Sep 2024
+466,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3150,4200,3625,06 Aug 2024
+467,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3300,4200,3800,29 Aug 2024
+468,Kalburgi,Kalburgi,Rice,Coarse,FAQ,4550,6500,5950,03 Dec 2024
+469,Kalburgi,Kalburgi,Rice,Fine,FAQ,4100,5400,4800,20 Jul 2024
+470,Kalburgi,Kalburgi,Rice,Fine,FAQ,4150,6150,5275,19 Nov 2024
+471,Kalburgi,Kalburgi,Rice,Fine,FAQ,4425,6600,5450,10 Aug 2024
+472,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6300,5400,15 Jul 2024
+473,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6500,5500,04 Jul 2024
+474,Tumkur,Madhugiri,Rice,Other,FAQ,4000,6500,6442,11 Sep 2024
+475,Kolar,Malur,Rice,Sona,FAQ,3000,6000,3490,02 Dec 2024
+476,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,2450,2580,2450,06 Jul 2024
+477,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3100,3100,3100,29 Oct 2024
+478,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,7000,16500,15000,17 Oct 2024
+479,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,9000,15000,14500,04 Oct 2024
+480,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3625,3745,3625,04 Sep 2024
+481,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5350,6950,6400,06 Sep 2024
+482,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7400,7000,17 Jul 2024
+483,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,6300,29 Jul 2024
+484,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4200,5000,5000,13 Nov 2024
+485,Belgaum,Nippani,Rice,Medium,FAQ,5300,5300,5300,14 Oct 2024
+486,Tumkur,Pavagada,Rice,Masuri,FAQ,6000,8500,8000,11 Jul 2024
+487,Belgaum,Sankeshwar,Rice,Other,FAQ,5500,6105,5900,15 Nov 2024
+488,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,08 Oct 2024
+489,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,09 Jul 2024
+490,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,12 Jul 2024
+491,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,22 Oct 2024
+492,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,27 Aug 2024
+493,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,18 Oct 2024
+494,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,28 Nov 2024
+495,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,07 Aug 2024
+496,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,09 Aug 2024
+497,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,12 Sep 2024
+498,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,31 Aug 2024
+499,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,03 Sep 2024
+500,Hassan,Arasikere,Rice,Fine(Basmati),FAQ,5955,5955,5955,28 Aug 2024
+501,Hassan,Arasikere,Rice,Medium,FAQ,5490,5490,5490,27 Nov 2024
+502,Hassan,Arasikere,Rice,Medium,FAQ,5955,5955,5955,28 Aug 2024
+503,Hassan,Arasikere,Rice,Medium,FAQ,6540,6540,6540,05 Sep 2024
+504,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,22 Jul 2024
+505,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,23 Aug 2024
+506,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,09 Jul 2024
+507,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,30 Oct 2024
+508,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,13 Sep 2024
+509,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,17 Sep 2024
+510,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,18 Sep 2024
+511,Bangalore,Bangalore,Rice,Medium,FAQ,4700,5600,5150,02 Dec 2024
+512,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,07 Aug 2024
+513,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,19 Aug 2024
+514,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,25 Oct 2024
+515,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,12 Sep 2024
+516,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,01 Jul 2024
+517,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2800,3000,2900,20 Sep 2024
+518,Kolar,Bangarpet,Rice,Hamsa St.,FAQ,4200,5500,4800,28 Oct 2024
+519,Kolar,Bangarpet,Rice,Hamsa St.,FAQ,6500,7850,7175,18 Sep 2024
+520,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2700,3000,2800,15 Jul 2024
+521,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2700,3000,2900,26 Sep 2024
+522,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,19 Nov 2024
+523,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3400,03 Oct 2024
+524,Shimoga,Bhadravathi,Rice,Broken Rice,FAQ,2486,2486,2486,11 Sep 2024
+525,Shimoga,Bhadravathi,Rice,Medium,FAQ,2750,2750,2750,18 Jul 2024
+526,Bidar,Bidar,Rice,Broken Rice,FAQ,2800,3200,3000,24 Jul 2024
+527,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,15 Oct 2024
+528,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,18 Oct 2024
+529,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,26 Jul 2024
+530,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,01 Aug 2024
+531,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,30 Jul 2024
+532,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,15 Oct 2024
+533,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,18 Oct 2024
+534,Kolar,Chintamani,Rice,Broken Rice,FAQ,3000,3100,3050,24 Oct 2024
+535,Kolar,Chintamani,Rice,Sona,FAQ,4300,6000,5704,11 Jul 2024
+536,Davangere,Davangere,Rice,Medium,FAQ,2600,2600,2600,01 Jul 2024
+537,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,23 Jul 2024
+538,Davangere,Davangere,Rice,Medium,FAQ,2700,5000,3850,24 Jul 2024
+539,Davangere,Davangere,Rice,Medium,FAQ,2800,2800,2800,27 Sep 2024
+540,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,12 Aug 2024
+541,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,18 Sep 2024
+542,Davangere,Davangere,Rice,Medium,FAQ,2900,3800,3350,29 Oct 2024
+543,Davangere,Davangere,Rice,Medium,FAQ,2900,4200,3550,26 Nov 2024
+544,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2400,2650,2400,19 Nov 2024
+545,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2625,2643,2640,09 Aug 2024
+546,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2700,2700,2700,29 Oct 2024
+547,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2748,2752,2752,18 Sep 2024
+548,Koppal,Gangavathi,Rice,Other,FAQ,2650,3400,2990,14 Oct 2024
+549,Koppal,Gangavathi,Rice,Other,FAQ,2690,2700,2700,05 Nov 2024
+550,Koppal,Gangavathi,Rice,Other,FAQ,2690,3960,2930,09 Jul 2024
+551,Koppal,Gangavathi,Rice,Other,FAQ,2700,3840,3365,01 Oct 2024
+552,Koppal,Gangavathi,Rice,Other,FAQ,2821,3040,2951,24 Sep 2024
+553,Koppal,Gangavathi,Rice,Other,FAQ,2930,4670,2970,11 Nov 2024
+554,Koppal,Gangavathi,Rice,Other,FAQ,3120,4500,3400,29 Jul 2024
+555,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,28 Nov 2024
+556,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5800,4650,19 Sep 2024
+557,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2500,2500,2500,18 Sep 2024
+558,Raichur,Sindhanur,Rice,Broken Rice,FAQ,3100,3100,3100,26 Sep 2024
+559,Raichur,Sindhanur,Rice,Medium,FAQ,4500,4500,4500,14 Nov 2024
+560,Raichur,Sindhanur,Rice,Medium,FAQ,4550,4620,4600,18 Oct 2024
+561,Raichur,Sindhanur,Rice,Medium,FAQ,4700,4700,4700,28 Sep 2024
+562,Raichur,Sindhanur,Rice,Medium,FAQ,5000,5000,5000,22 Sep 2024
+563,Tumkur,Sira,Rice,Other,FAQ,5225,5225,5225,12 Sep 2024
+564,Mandya,Srirangapattana,Rice,Broken Rice,FAQ,2700,2870,2870,20 Aug 2024
+565,Mandya,Srirangapattana,Rice,Medium,FAQ,3155,3155,3155,30 Oct 2024
+566,Tumkur,Tumkur,Rice,Other,FAQ,3600,6800,4500,27 Nov 2024
+567,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,19 Aug 2024
+568,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,27 Aug 2024
+569,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,01 Oct 2024
+570,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,06 Jul 2024
+571,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,12 Jul 2024
+572,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,15 Jul 2024
+573,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,23 Jul 2024
+574,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,02 Aug 2024
+575,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,02 Jul 2024
+576,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,23 Jul 2024
+577,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,22 Oct 2024
+578,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,24 Jul 2024
+579,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,24 Oct 2024
+580,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,01 Oct 2024
+581,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,07 Oct 2024
+582,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,08 Oct 2024
+583,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,23 Sep 2024
+584,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,19 Jul 2024
+585,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3200,3100,28 Oct 2024
+586,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2700,3000,2800,18 Jul 2024
+587,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3200,3500,3400,14 Oct 2024
+588,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4000,5000,4500,03 Oct 2024
+589,Kolar,Bangarpet,Rice,Sona Fine,FAQ,5000,5500,5300,26 Sep 2024
+590,Bidar,Bidar,Rice,Broken Rice,FAQ,2000,4000,3000,06 Nov 2024
+591,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,02 Jul 2024
+592,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,12 Aug 2024
+593,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,01 Jul 2024
+594,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,16 Jul 2024
+595,Kolar,Chintamani,Rice,Sona,FAQ,4800,5000,4900,07 Jul 2024
+596,Kolar,Chintamani,Rice,Sona,FAQ,4940,5405,5200,05 Aug 2024
+597,Kolar,Chintamani,Rice,Sona,FAQ,5150,5200,5180,01 Aug 2024
+598,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2000,2000,27 Aug 2024
+599,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,30 Oct 2024
+600,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,26 Jul 2024
+601,Davangere,Davangere,Rice,Medium,FAQ,2750,6990,4870,19 Nov 2024
+602,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,13 Nov 2024
+603,Davangere,Davangere,Rice,Medium,FAQ,3000,5200,4100,24 Oct 2024
+604,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2580,2580,2580,20 Aug 2024
+605,Koppal,Gangavathi,Rice,Other,FAQ,2701,2940,2910,17 Sep 2024
+606,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,03 Aug 2024
+607,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4400,4400,4400,26 Sep 2024
+608,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4519,4553,4536,19 Nov 2024
+609,Chamrajnagar,Gundlupet,Rice,Other,FAQ,3450,3450,3450,26 Aug 2024
+610,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,1800,3000,2500,03 Jul 2024
+611,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2800,2550,15 Jul 2024
+612,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3000,2450,14 Oct 2024
+613,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,2900,2600,01 Oct 2024
+614,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4000,3500,25 Oct 2024
+615,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4000,3650,28 Sep 2024
+616,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3300,4150,3800,27 Sep 2024
+617,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3500,5050,4100,20 Aug 2024
+618,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3575,4500,4100,24 Aug 2024
+619,Kalburgi,Kalburgi,Rice,Coarse,FAQ,4100,6150,5250,14 Nov 2024
+620,Kalburgi,Kalburgi,Rice,Fine,FAQ,4150,6000,5150,23 Oct 2024
+621,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,08 Aug 2024
+622,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,19 Jul 2024
+623,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,30 Jul 2024
+624,Raichur,Sindhanur,Rice,Medium,FAQ,4800,4800,4800,17 Sep 2024
+625,Raichur,Sindhanur,Rice,Medium,FAQ,4830,4830,4830,28 Aug 2024
+626,Raichur,Sindhanur,Rice,Pusa Basmati Raw (Old),FAQ,2080,2080,2080,04 Aug 2024
+627,Tumkur,Sira,Rice,Other,FAQ,4999,4999,4999,04 Jul 2024
+628,Madikeri(Kodagu),Somvarpet,Rice,Fine,FAQ,6470,6470,6470,20 Jul 2024
+629,Tumkur,Tumkur,Rice,Other,FAQ,3600,6500,4100,28 Nov 2024
+630,Hassan,Arasikere,Rice,Medium,FAQ,5000,5000,5000,03 Sep 2024
+631,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,11 Sep 2024
+632,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,13 Aug 2024
+633,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,24 Jul 2024
+634,Bangalore,Bangalore,Rice,Dappa,FAQ,3800,4200,4000,02 Dec 2024
+635,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,12 Sep 2024
+636,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,14 Oct 2024
+637,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,19 Oct 2024
+638,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,27 Sep 2024
+639,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,20 Aug 2024
+640,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,26 Jul 2024
+641,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,04 Jul 2024
+642,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,10 Sep 2024
+643,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,25 Jul 2024
+644,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,08 Nov 2024
+645,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,05 Jul 2024
+646,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,10 Jul 2024
+647,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2700,30 Sep 2024
+648,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2800,12 Aug 2024
+649,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2800,29 Jul 2024
+650,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3200,3000,06 Aug 2024
+651,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2600,3000,2800,25 Jul 2024
+652,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2700,3000,2900,23 Sep 2024
+653,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2800,3000,2900,14 Oct 2024
+654,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3000,3200,3100,24 Oct 2024
+655,Kolar,Bangarpet,Rice,Hamsa St.,FAQ,2500,3000,2800,20 Sep 2024
+656,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2500,3000,2800,13 Jul 2024
+657,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,18 Sep 2024
+658,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,4500,5000,4800,05 Sep 2024
+659,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,09 Jul 2024
+660,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,18 Jul 2024
+661,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6400,5500,07 Aug 2024
+662,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5250,6500,5700,07 Oct 2024
+663,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,03 Aug 2024
+664,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,11 Jul 2024
+665,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,10 Oct 2024
+666,Davangere,Davangere,Rice,Broken Rice,FAQ,2130,2500,2315,07 Oct 2024
+667,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2830,2515,03 Oct 2024
+668,Davangere,Davangere,Rice,Medium,FAQ,2500,5153,3827,16 Jul 2024
+669,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,23 Sep 2024
+670,Davangere,Davangere,Rice,Medium,FAQ,2900,4250,3575,28 Oct 2024
+671,Davangere,Davangere,Rice,Medium,FAQ,2900,6995,4950,04 Nov 2024
+672,Davangere,Davangere,Rice,Medium,FAQ,4250,4800,4525,11 Nov 2024
+673,Bangalore,Doddaballa Pur,Rice,Broken Rice,FAQ,2780,2780,2780,26 Sep 2024
+674,Bangalore,Doddaballa Pur,Rice,Other,FAQ,3390,7800,6500,26 Sep 2024
+675,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2500,2500,2500,26 Aug 2024
+676,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2500,2520,2500,04 Jul 2024
+677,Koppal,Gangavathi,Rice,Other,FAQ,2850,2860,2860,20 Jul 2024
+678,Koppal,Gangavathi,Rice,Other,FAQ,2910,4300,2930,06 Sep 2024
+679,Koppal,Gangavathi,Rice,Other,FAQ,3370,3410,3390,24 Jul 2024
+680,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4150,4175,4165,08 Jul 2024
+681,Hassan,Hassan,Rice,Other,FAQ,3000,3500,3014,28 Oct 2024
+682,Mysore,K.R.Nagar,Rice,Broken Rice,FAQ,3057,3057,3057,24 Oct 2024
+683,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2800,2400,08 Aug 2024
+684,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,14 Aug 2024
+685,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,23 Aug 2024
+686,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,21 Oct 2024
+687,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,16 Oct 2024
+688,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,19 Aug 2024
+689,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,28 Aug 2024
+690,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,19 Jul 2024
+691,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,07 Oct 2024
+692,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,08 Oct 2024
+693,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,23 Sep 2024
+694,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,23 Aug 2024
+695,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2900,01 Oct 2024
+696,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2700,3000,2900,26 Nov 2024
+697,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3000,3200,3100,07 Oct 2024
+698,Kolar,Bangarpet,Rice,Hamsa St.,FAQ,4800,5500,5000,25 Oct 2024
+699,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2700,3200,3000,06 Sep 2024
+700,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2800,3300,3000,31 Jul 2024
+701,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,4000,4500,4300,07 Nov 2024
+702,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4000,5000,4500,02 Dec 2024
+703,Shimoga,Bhadravathi,Rice,Medium,FAQ,2300,2300,2300,14 Nov 2024
+704,Shimoga,Bhadravathi,Rice,Medium,FAQ,2734,2734,2734,08 Oct 2024
+705,Bidar,Bidar,Rice,Broken Rice,FAQ,2500,3500,3000,14 Oct 2024
+706,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,12 Jul 2024
+707,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3500,3200,14 Nov 2024
+708,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4200,6600,5700,08 Nov 2024
+709,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5600,6500,5800,16 Nov 2024
+710,Kolar,Chintamani,Rice,Hansa,FAQ,3150,3450,3380,24 Oct 2024
+711,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2000,2000,25 Jul 2024
+712,Davangere,Davangere,Rice,Broken Rice,FAQ,2513,2513,2513,02 Dec 2024
+713,Davangere,Davangere,Rice,Broken Rice,FAQ,2650,2650,2650,30 Jul 2024
+714,Davangere,Davangere,Rice,Medium,FAQ,2900,5100,4000,17 Sep 2024
+715,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2590,2700,2690,26 Jul 2024
+716,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2690,2735,2700,14 Nov 2024
+717,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2830,2890,2840,21 Sep 2024
+718,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2845,2900,2850,30 Jul 2024
+719,Koppal,Gangavathi,Rice,Other,FAQ,2500,3420,2900,23 Jul 2024
+720,Koppal,Gangavathi,Rice,Other,FAQ,2650,2660,2650,07 Oct 2024
+721,Koppal,Gangavathi,Rice,Other,FAQ,2650,2660,2660,15 Oct 2024
+722,Koppal,Gangavathi,Rice,Other,FAQ,2740,2760,2755,20 Aug 2024
+723,Koppal,Gangavathi,Rice,Other,FAQ,4800,4800,4800,04 Sep 2024
+724,Hassan,Hassan,Rice,Other,FAQ,3000,3900,3700,29 Sep 2024
+725,Haveri,Haveri,Rice,IR 20 Fine Raw,FAQ,6255,6705,6450,30 Sep 2024
+726,Bangalore,Hoskote,Rice,Coarse,FAQ,3153,3153,3153,19 Jul 2024
+727,Bangalore,Hoskote,Rice,Coarse,FAQ,3233,3233,3233,03 Aug 2024
+728,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,2900,5225,4062,17 Aug 2024
+729,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,3476,5376,4000,23 Oct 2024
+730,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2500,09 Jul 2024
+731,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2800,2550,24 Jul 2024
+732,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2950,2500,12 Jul 2024
+733,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2150,2950,2550,10 Aug 2024
+734,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2150,3000,2600,10 Oct 2024
+735,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,3100,2600,24 Aug 2024
+736,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4000,3550,04 Nov 2024
+737,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4200,3650,24 Sep 2024
+738,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4210,3800,11 Jul 2024
+739,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4300,3800,24 Jul 2024
+740,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3400,4300,4020,28 Aug 2024
+741,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3600,4400,4050,27 Aug 2024
+742,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3600,4650,4050,22 Aug 2024
+743,Kalburgi,Kalburgi,Rice,Fine,FAQ,4050,6100,5250,24 Oct 2024
+744,Kalburgi,Kalburgi,Rice,Fine,FAQ,4150,6200,5500,14 Oct 2024
+745,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6250,5500,02 Aug 2024
+746,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6400,5400,12 Sep 2024
+747,Kolar,Kolar,Rice,Fine,FAQ,5500,6000,5702,09 Oct 2024
+748,Kolar,Kolar,Rice,Fine,FAQ,6100,6400,6235,19 Sep 2024
+749,Kolar,Kolar,Rice,Fine,FAQ,6500,6900,6730,12 Jul 2024
+750,Mandya,Maddur,Rice,Broken Rice,FAQ,1600,1600,1600,02 Oct 2024
+751,Mandya,Maddur,Rice,Other,FAQ,2440,2440,2440,25 Oct 2024
+752,Tumkur,Madhugiri,Rice,Other,FAQ,2800,4800,2890,26 Aug 2024
+753,Kolar,Malur,Rice,Sona,FAQ,2500,5800,4166,26 Jul 2024
+754,Kolar,Malur,Rice,Sona,FAQ,4500,5500,5000,13 Sep 2024
+755,Kolar,Malur,Rice,Sona,FAQ,5000,6000,5257,10 Sep 2024
+756,Kolar,Mulabagilu,Rice,Medium,FAQ,4500,5500,5000,27 Sep 2024
+757,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3200,3200,3200,27 Sep 2024
+758,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3230,3275,3230,07 Oct 2024
+759,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2600,2500,27 Jul 2024
+760,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2800,2400,14 Oct 2024
+761,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5700,7400,7000,15 Jul 2024
+762,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7400,6500,19 Jul 2024
+763,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7400,7000,11 Oct 2024
+764,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4300,5600,5000,30 Aug 2024
+765,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4300,5850,5300,12 Sep 2024
+766,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5600,5300,08 Nov 2024
+767,Mysore,Mysore (Bandipalya),Rice,Sona Mansoori Non Basmati,FAQ,4000,5400,5000,17 Jul 2024
+768,Belgaum,Nippani,Rice,Broken Rice,FAQ,3200,3200,3200,18 Oct 2024
+769,Tumkur,Pavagada,Rice,Masuri,FAQ,4000,8000,5000,12 Jul 2024
+770,Tumkur,Pavagada,Rice,Masuri,FAQ,5000,6000,5800,09 Oct 2024
+771,Bangalore,Ramanagara,Rice,Fine,FAQ,5000,6000,5600,03 Jul 2024
+772,Belgaum,Sankeshwar,Rice,Other,FAQ,2700,2876,2750,10 Sep 2024
+773,Belgaum,Sankeshwar,Rice,Other,FAQ,5800,6135,5900,16 Aug 2024
+774,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,07 Oct 2024
+775,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,11 Nov 2024
+776,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,12 Nov 2024
+777,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,01 Aug 2024
+778,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,05 Sep 2024
+779,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,07 Aug 2024
+780,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,11 Jul 2024
+781,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,16 Jul 2024
+782,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,27 Sep 2024
+783,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,28 Aug 2024
+784,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,23 Oct 2024
+785,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,30 Oct 2024
+786,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6050,24 Sep 2024
+787,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6050,26 Sep 2024
+788,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,10 Jul 2024
+789,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,20 Sep 2024
+790,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,03 Oct 2024
+791,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,13 Nov 2024
+792,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,14 Aug 2024
+793,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,09 Oct 2024
+794,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,10 Oct 2024
+795,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,24 Sep 2024
+796,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,07 Aug 2024
+797,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,17 Aug 2024
+798,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,22 Aug 2024
+799,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,24 Jul 2024
+800,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,29 Jul 2024
+801,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,01 Oct 2024
+802,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,30 Sep 2024
+803,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,03 Jul 2024
+804,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,09 Jul 2024
+805,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,12 Jul 2024
+806,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,20 Jul 2024
+807,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,22 Jul 2024
+808,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,23 Jul 2024
+809,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2700,30 Nov 2024
+810,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2900,25 Sep 2024
+811,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2700,3000,2900,17 Sep 2024
+812,Kolar,Bangarpet,Rice,Hansa,FAQ,7000,7500,7300,25 Sep 2024
+813,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2700,3100,2900,29 Jul 2024
+814,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2800,3000,2900,01 Jul 2024
+815,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3600,3400,24 Oct 2024
+816,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3700,3500,24 Sep 2024
+817,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3200,3500,3400,16 Oct 2024
+818,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4500,5000,4800,16 Sep 2024
+819,Shimoga,Bhadravathi,Rice,Medium,FAQ,2528,2528,2528,10 Jul 2024
+820,Bidar,Bidar,Rice,Broken Rice,FAQ,2800,3200,3000,26 Sep 2024
+821,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,03 Oct 2024
+822,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4200,6500,5600,13 Nov 2024
+823,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,08 Aug 2024
+824,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,05 Oct 2024
+825,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,30 Sep 2024
+826,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5390,6300,5600,29 Jul 2024
+827,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5400,6300,5600,26 Jul 2024
+828,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5600,6500,5800,19 Nov 2024
+829,Chikmagalur,Chikkamagalore,Rice,Other,FAQ,2931,2931,2931,27 Nov 2024
+830,Davangere,Davangere,Rice,Broken Rice,FAQ,2100,3370,2735,25 Nov 2024
+831,Davangere,Davangere,Rice,Broken Rice,FAQ,2450,2450,2450,16 Jul 2024
+832,Davangere,Davangere,Rice,Broken Rice,FAQ,2680,2680,2680,19 Aug 2024
+833,Davangere,Davangere,Rice,Medium,FAQ,2026,6230,4470,10 Oct 2024
+834,Davangere,Davangere,Rice,Medium,FAQ,2650,2650,2650,11 Jul 2024
+835,Davangere,Davangere,Rice,Medium,FAQ,2800,2800,2800,30 Jul 2024
+836,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,02 Sep 2024
+837,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,04 Sep 2024
+838,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,09 Sep 2024
+839,Davangere,Davangere,Rice,Medium,FAQ,2900,6048,4474,22 Oct 2024
+840,Davangere,Davangere,Rice,Medium,FAQ,2900,6050,5450,08 Aug 2024
+841,Davangere,Davangere,Rice,Medium,FAQ,4176,5020,4690,09 Aug 2024
+842,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2100,2910,2890,15 Oct 2024
+843,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2400,2600,2500,05 Oct 2024
+844,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2650,2720,2710,20 Jul 2024
+845,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2835,2850,2840,18 Jul 2024
+846,Koppal,Gangavathi,Rice,Other,FAQ,2660,2780,2725,07 Aug 2024
+847,Koppal,Gangavathi,Rice,Pusa Basmati Raw (New),FAQ,3180,3527,3293,26 Sep 2024
+848,Koppal,Gangavathi,Rice,Sarbati Raw,FAQ,1800,1800,1800,11 Sep 2024
+849,Chamrajnagar,Gundlupet,Rice,Other,FAQ,3170,3170,3170,23 Aug 2024
+850,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,3150,3150,3150,02 Sep 2024
+851,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2800,2450,25 Jul 2024
+852,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2800,2550,20 Jul 2024
+853,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3050,2700,28 Aug 2024
+854,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3300,4000,3650,26 Sep 2024
+855,Kalburgi,Kalburgi,Rice,Fine,FAQ,4000,6000,5200,06 Nov 2024
+856,Kalburgi,Kalburgi,Rice,Fine,FAQ,4101,6100,5200,05 Nov 2024
+857,Kalburgi,Kalburgi,Rice,Fine,FAQ,4300,6000,5150,26 Jul 2024
+858,Kalburgi,Kalburgi,Rice,Fine,FAQ,4350,6400,5600,29 Aug 2024
+859,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6350,5350,05 Sep 2024
+860,Kalburgi,Kalburgi,Rice,Fine,FAQ,4600,6300,5450,07 Aug 2024
+861,Kolar,Kolar,Rice,Fine,FAQ,3800,4000,3846,23 Sep 2024
+862,Raichur,Manvi,Rice,Other,FAQ,2300,2800,2502,21 Sep 2024
+863,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3320,3320,3320,03 Jul 2024
+864,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,5690,14150,14150,16 Aug 2024
+865,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,9606,9606,9606,05 Aug 2024
+866,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2800,2800,2800,05 Aug 2024
+867,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2850,2850,2850,08 Nov 2024
+868,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3000,3000,3000,20 Sep 2024
+869,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3000,3050,3050,17 Sep 2024
+870,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7200,30 Sep 2024
+871,Tumkur,Pavagada,Rice,Coarse,FAQ,2500,4000,2700,09 Jul 2024
+872,Tumkur,Pavagada,Rice,Coarse,FAQ,2600,5000,2800,15 Jul 2024
+873,Tumkur,Pavagada,Rice,Masuri,FAQ,5000,8000,5580,17 Aug 2024
+874,Belgaum,Sankeshwar,Rice,Other,FAQ,2700,2850,2800,21 Sep 2024
+875,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,05 Nov 2024
+876,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,19 Nov 2024
+877,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,24 Oct 2024
+878,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,04 Jul 2024
+879,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,17 Aug 2024
+880,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,20 Jul 2024
+881,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,23 Aug 2024
+882,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,23 Sep 2024
+883,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,09 Oct 2024
+884,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,16 Oct 2024
+885,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,25 Oct 2024
+886,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,03 Aug 2024
+887,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,06 Aug 2024
+888,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,21 Sep 2024
+889,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,02 Dec 2024
+890,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,05 Jul 2024
+891,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,07 Aug 2024
+892,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,10 Oct 2024
+893,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,14 Oct 2024
+894,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,19 Nov 2024
+895,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,20 Sep 2024
+896,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,22 Oct 2024
+897,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,27 Sep 2024
+898,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5800,4650,11 Sep 2024
+899,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2950,2950,2950,06 Aug 2024
+900,Raichur,Sindhanur,Rice,Medium,FAQ,4500,4500,4500,20 Nov 2024
+901,Hassan,Arasikere,Rice,Medium,FAQ,6020,6020,6020,17 Aug 2024
+902,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,01 Aug 2024
+903,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,21 Aug 2024
+904,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,25 Jul 2024
+905,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,28 Aug 2024
+906,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,19 Sep 2024
+907,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,02 Jul 2024
+908,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,03 Jul 2024
+909,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,11 Jul 2024
+910,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,06 Jul 2024
+911,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,11 Jul 2024
+912,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,14 Oct 2024
+913,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,26 Sep 2024
+914,Bangalore,Bangalore,Rice,Medium,FAQ,4700,5600,5150,03 Dec 2024
+915,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,05 Aug 2024
+916,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,13 Aug 2024
+917,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,16 Aug 2024
+918,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,21 Oct 2024
+919,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2900,26 Sep 2024
+920,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2600,3000,2800,27 Nov 2024
+921,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3200,3500,3400,16 Sep 2024
+922,Kolar,Bangarpet,Rice,Medium,FAQ,2700,3000,2900,12 Sep 2024
+923,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2700,3100,2900,13 Sep 2024
+924,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3200,3100,23 Sep 2024
+925,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,25 Sep 2024
+926,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3200,3700,3500,16 Sep 2024
+927,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3400,3700,3500,17 Sep 2024
+928,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4000,4500,4300,20 Sep 2024
+929,Bidar,Bidar,Rice,Broken Rice,FAQ,2000,4000,3200,13 Nov 2024
+930,Bidar,Bidar,Rice,Broken Rice,FAQ,2500,4000,3300,08 Nov 2024
+931,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,01 Aug 2024
+932,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,05 Oct 2024
+933,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,20 Jul 2024
+934,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,28 Sep 2024
+935,Bidar,Bidar,Rice,Broken Rice,FAQ,3000,3400,3200,15 Nov 2024
+936,Bidar,Bidar,Rice,Broken Rice,FAQ,3000,4000,3500,05 Nov 2024
+937,Bidar,Bidar,Rice,Broken Rice,FAQ,3000,4500,4000,28 Oct 2024
+938,Bidar,Bidar,Rice,Broken Rice,FAQ,3500,4500,4000,26 Oct 2024
+939,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6500,5700,14 Nov 2024
+940,Chikmagalur,Chikkamagalore,Rice,Pusa Basmati Raw (Old),FAQ,6020,6020,6020,21 Aug 2024
+941,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,01 Jul 2024
+942,Davangere,Davangere,Rice,Broken Rice,FAQ,2750,2750,2750,21 Sep 2024
+943,Davangere,Davangere,Rice,Medium,FAQ,2600,2600,2600,12 Jul 2024
+944,Davangere,Davangere,Rice,Medium,FAQ,2900,3600,3300,08 Oct 2024
+945,Davangere,Davangere,Rice,Medium,FAQ,2900,5708,4510,30 Aug 2024
+946,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2680,2680,2680,06 Sep 2024
+947,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2680,2830,2710,29 Jul 2024
+948,Koppal,Gangavathi,Rice,Other,FAQ,2900,3840,2940,28 Aug 2024
+949,Koppal,Gangavathi,Rice,Other,FAQ,3020,3030,3020,14 Nov 2024
+950,Koppal,Gangavathi,Rice,Other,FAQ,3050,3370,3220,30 Sep 2024
+951,Koppal,Gangavathi,Rice,Other,FAQ,3370,3425,3380,01 Aug 2024
+952,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4125,4125,4125,12 Aug 2024
+953,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4180,4180,4180,22 Jul 2024
+954,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,01 Aug 2024
+955,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2900,2550,10 Jul 2024
+956,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2950,2505,26 Jul 2024
+957,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2950,2550,31 Jul 2024
+958,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2900,2550,01 Aug 2024
+959,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3000,2550,24 Oct 2024
+960,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,2900,2500,12 Aug 2024
+961,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,2900,2550,11 Nov 2024
+962,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,3800,3500,29 Jul 2024
+963,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,3850,3550,28 Oct 2024
+964,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4200,3700,10 Oct 2024
+965,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4300,3800,11 Sep 2024
+966,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4400,3800,23 Jul 2024
+967,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4500,4000,04 Jul 2024
+968,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3150,4000,3600,14 Oct 2024
+969,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3150,4250,3800,03 Sep 2024
+970,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4200,3800,06 Sep 2024
+971,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4350,3850,03 Jul 2024
+972,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3300,4200,3800,07 Aug 2024
+973,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3500,4400,4050,03 Aug 2024
+974,Kalburgi,Kalburgi,Rice,Fine,FAQ,3100,3800,3550,15 Nov 2024
+975,Kalburgi,Kalburgi,Rice,Fine,FAQ,4100,6000,5300,19 Oct 2024
+976,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6050,5450,24 Jul 2024
+977,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6500,5400,13 Sep 2024
+978,Kalburgi,Kalburgi,Rice,Fine,FAQ,5500,6500,6000,08 Nov 2024
+979,Kalburgi,Kalburgi,Rice,Fine,FAQ,6000,7050,6600,16 Aug 2024
+980,Kolar,Kolar,Rice,Fine,FAQ,6700,7000,6880,19 Jul 2024
+981,Tumkur,Madhugiri,Rice,Other,FAQ,4000,5600,5560,20 Sep 2024
+982,Karwar(Uttar Kannad),Mundgod,Rice,Broken Rice,FAQ,2825,2825,2825,27 Aug 2024
+983,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2600,2300,29 Jul 2024
+984,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2400,2800,2600,04 Jul 2024
+985,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2600,2900,2600,18 Jul 2024
+986,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3050,3620,3050,23 Sep 2024
+987,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3050,3720,3150,24 Sep 2024
+988,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3110,3110,3110,02 Dec 2024
+989,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,3800,5200,4600,09 Aug 2024
+990,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5200,6850,6560,29 Nov 2024
+991,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,6750,26 Sep 2024
+992,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,6900,18 Oct 2024
+993,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7100,15 Oct 2024
+994,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7600,6800,04 Jul 2024
+995,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4212,5119,4910,19 Aug 2024
+996,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4900,5200,5000,27 Aug 2024
+997,Mysore,Mysore (Bandipalya),Rice,Sona Mansoori Non Basmati,FAQ,4000,5400,5000,09 Jul 2024
+998,Mysore,Mysore (Bandipalya),Rice,Sona Mansoori Non Basmati,FAQ,4000,5400,5000,11 Jul 2024
+999,Mysore,Mysore (Bandipalya),Rice,Sona Mansoori Non Basmati,FAQ,8500,9500,9500,04 Sep 2024
+1000,Bangalore,Ramanagara,Rice,Fine,FAQ,5000,7400,6000,30 Aug 2024
+1001,Belgaum,Sankeshwar,Rice,Other,FAQ,2500,2700,2600,21 Aug 2024
+1002,Belgaum,Sankeshwar,Rice,Other,FAQ,5800,6015,6000,05 Sep 2024
+1003,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,03 Oct 2024
+1004,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,07 Nov 2024
+1005,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,15 Oct 2024
+1006,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,16 Nov 2024
+1007,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,08 Nov 2024
+1008,Raichur,Sindhanur,Rice,Medium,FAQ,5000,5000,5000,20 Oct 2024
+1009,Tumkur,Sira,Rice,Broken Rice,FAQ,2550,2789,2676,06 Aug 2024
+1010,Tumkur,Sira,Rice,Other,FAQ,3200,3200,3200,09 Sep 2024
+1011,Kalburgi,Kalburgi,Rice,Fine,FAQ,4150,6400,5200,26 Oct 2024
+1012,Kalburgi,Kalburgi,Rice,Fine,FAQ,4300,6300,5300,10 Oct 2024
+1013,Kalburgi,Kalburgi,Rice,Fine,FAQ,4450,6350,5300,04 Oct 2024
+1014,Kalburgi,Kalburgi,Rice,Fine,FAQ,5900,7100,6650,17 Aug 2024
+1015,Kolar,Kolar,Rice,Fine,FAQ,6100,6400,6223,16 Oct 2024
+1016,Mandya,Maddur,Rice,Broken Rice,FAQ,1600,1600,1600,25 Oct 2024
+1017,Mandya,Maddur,Rice,Other,FAQ,3300,3300,3300,24 Jul 2024
+1018,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,2990,2990,2990,02 Sep 2024
+1019,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3600,4100,3600,09 Sep 2024
+1020,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2600,2400,26 Jul 2024
+1021,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2800,2600,25 Oct 2024
+1022,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2875,2940,2875,16 Aug 2024
+1023,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,3800,5200,4800,08 Aug 2024
+1024,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,4000,5400,5000,18 Jul 2024
+1025,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,7400,27 Jul 2024
+1026,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5900,7100,6650,12 Sep 2024
+1027,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7100,17 Oct 2024
+1028,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7100,19 Oct 2024
+1029,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,3800,5200,4600,13 Aug 2024
+1030,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4200,5190,4800,22 Aug 2024
+1031,Tumkur,Pavagada,Rice,Masuri,FAQ,4000,9500,6500,19 Jul 2024
+1032,Bangalore,Ramanagara,Rice,Fine,FAQ,5000,6200,6000,25 Oct 2024
+1033,Bangalore,Ramanagara,Rice,Fine,FAQ,5000,6800,6000,08 Nov 2024
+1034,Belgaum,Sankeshwar,Rice,Other,FAQ,5000,5695,5500,09 Sep 2024
+1035,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,08 Nov 2024
+1036,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,15 Nov 2024
+1037,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,16 Oct 2024
+1038,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,02 Aug 2024
+1039,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,02 Jul 2024
+1040,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,15 Jul 2024
+1041,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,21 Sep 2024
+1042,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,23 Jul 2024
+1043,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,03 Oct 2024
+1044,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6050,30 Sep 2024
+1045,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,04 Jul 2024
+1046,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,08 Jul 2024
+1047,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,17 Aug 2024
+1048,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,22 Aug 2024
+1049,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,29 Aug 2024
+1050,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,29 Jul 2024
+1051,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,06 Nov 2024
+1052,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,14 Nov 2024
+1053,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,24 Jul 2024
+1054,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,31 Aug 2024
+1055,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5800,4650,13 Sep 2024
+1056,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5800,4650,18 Sep 2024
+1057,Shimoga,Shimoga,Rice,Medium,FAQ,3810,5500,4650,07 Oct 2024
+1058,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2475,2475,2475,24 Jul 2024
+1059,Raichur,Sindhanur,Rice,Medium,FAQ,4800,4800,4800,22 Aug 2024
+1060,Mandya,Srirangapattana,Rice,Broken Rice,FAQ,2650,2825,2800,03 Aug 2024
+1061,Mandya,Srirangapattana,Rice,Broken Rice,FAQ,2800,2800,2800,25 Sep 2024
+1062,Mandya,Srirangapattana,Rice,Medium,FAQ,3180,4500,3180,29 Aug 2024
+1063,Hassan,Arasikere,Rice,Medium,FAQ,4808,4808,4808,28 Nov 2024
+1064,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,05 Aug 2024
+1065,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,10 Sep 2024
+1066,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,16 Aug 2024
+1067,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,08 Nov 2024
+1068,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,03 Oct 2024
+1069,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,13 Sep 2024
+1070,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,17 Sep 2024
+1071,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,04 Jul 2024
+1072,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,08 Jul 2024
+1073,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,15 Jul 2024
+1074,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,25 Oct 2024
+1075,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,14 Aug 2024
+1076,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,14 Oct 2024
+1077,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,20 Sep 2024
+1078,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,27 Sep 2024
+1079,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2700,15 Nov 2024
+1080,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2800,04 Jul 2024
+1081,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2600,3100,2800,05 Sep 2024
+1082,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3500,3800,3600,05 Oct 2024
+1083,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2700,3200,3100,03 Sep 2024
+1084,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2900,3600,3300,30 Sep 2024
+1085,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,5200,6000,5600,01 Aug 2024
+1086,Shimoga,Bhadravathi,Rice,Medium,FAQ,2700,2700,2700,11 Sep 2024
+1087,Shimoga,Bhadravathi,Rice,Medium,FAQ,2900,2900,2900,07 Aug 2024
+1088,Bidar,Bidar,Rice,Broken Rice,FAQ,2800,3100,3000,01 Jul 2024
+1089,Bidar,Bidar,Rice,Broken Rice,FAQ,2800,4000,3300,22 Oct 2024
+1090,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,06 Aug 2024
+1091,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,09 Oct 2024
+1092,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,10 Oct 2024
+1093,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,16 Oct 2024
+1094,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,23 Jul 2024
+1095,Bidar,Bidar,Rice,Broken Rice,FAQ,2950,3200,3000,07 Oct 2024
+1096,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6300,5500,06 Jul 2024
+1097,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,06 Aug 2024
+1098,Kolar,Chickkaballapura,Rice,Medium,FAQ,2500,5000,3450,23 Oct 2024
+1099,Kolar,Chintamani,Rice,Hansa,FAQ,2600,4200,3750,04 Jul 2024
+1100,Davangere,Davangere,Rice,Broken Rice,FAQ,2510,2510,2510,04 Oct 2024
+1101,Davangere,Davangere,Rice,Medium,FAQ,2900,7213,5060,15 Oct 2024
+1102,Davangere,Davangere,Rice,Medium,FAQ,3400,3400,3400,02 Jul 2024
+1103,Davangere,Davangere,Rice,Medium,FAQ,4250,5130,4690,18 Oct 2024
+1104,Bangalore,Doddaballa Pur,Rice,Broken Rice,FAQ,2650,2650,2650,08 Nov 2024
+1105,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2370,2540,2465,19 Sep 2024
+1106,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2380,2380,2380,02 Aug 2024
+1107,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2690,2730,2720,12 Sep 2024
+1108,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2800,2820,2810,21 Aug 2024
+1109,Koppal,Gangavathi,Rice,Other,FAQ,2640,2650,2650,21 Oct 2024
+1110,Koppal,Gangavathi,Rice,Other,FAQ,2660,2940,2890,16 Aug 2024
+1111,Koppal,Gangavathi,Rice,Other,FAQ,2750,2940,2920,03 Sep 2024
+1112,Kolar,Gowribidanoor,Rice,Sona,FAQ,4500,5250,4800,14 Nov 2024
+1113,Chamrajnagar,Gundlupet,Rice,Other,FAQ,3330,3330,3330,28 Aug 2024
+1114,Hassan,Hassan,Rice,Coarse,FAQ,2500,2500,2500,29 Aug 2024
+1115,Hassan,Hassan,Rice,Other,FAQ,4200,7500,5400,26 Jul 2024
+1116,Bangalore,Hoskote,Rice,Coarse,FAQ,3500,3500,3500,29 Jul 2024
+1117,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,3157,5000,4078,04 Jul 2024
+1118,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,29 Oct 2024
+1119,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,02 Aug 2024
+1120,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,02 Jul 2024
+1121,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,15 Jul 2024
+1122,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,16 Aug 2024
+1123,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,01 Jul 2024
+1124,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,04 Oct 2024
+1125,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,05 Aug 2024
+1126,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,19 Oct 2024
+1127,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,25 Jul 2024
+1128,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,25 Sep 2024
+1129,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,27 Aug 2024
+1130,Raichur,Sindhanur,Rice,Medium,FAQ,4950,4950,4950,13 Jul 2024
+1131,Raichur,Sindhanur,Rice,Medium,FAQ,5000,5000,5000,26 Oct 2024
+1132,Tumkur,Sira,Rice,Broken Rice,FAQ,3000,3000,3000,17 Sep 2024
+1133,Mandya,Srirangapattana,Rice,Broken Rice,FAQ,2700,2700,2700,22 Oct 2024
+1134,Hassan,Arasikere,Rice,Medium,FAQ,6102,6102,6102,20 Sep 2024
+1135,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,08 Aug 2024
+1136,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,09 Aug 2024
+1137,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,28 Oct 2024
+1138,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,30 Sep 2024
+1139,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,05 Aug 2024
+1140,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,11 Sep 2024
+1141,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,12 Sep 2024
+1142,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,09 Aug 2024
+1143,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,09 Sep 2024
+1144,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,22 Oct 2024
+1145,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,17 Sep 2024
+1146,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,02 Jul 2024
+1147,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,2900,2700,13 Sep 2024
+1148,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2700,02 Dec 2024
+1149,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2700,3000,2900,31 Jul 2024
+1150,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2800,3000,2900,03 Oct 2024
+1151,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3000,3200,3100,03 Dec 2024
+1152,Kolar,Bangarpet,Rice,Hansa,FAQ,4000,4500,4300,01 Oct 2024
+1153,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,20 Nov 2024
+1154,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,26 Nov 2024
+1155,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,28 Oct 2024
+1156,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3400,01 Oct 2024
+1157,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3500,4500,4000,04 Sep 2024
+1158,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3500,4800,4000,02 Aug 2024
+1159,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4000,5000,4500,14 Oct 2024
+1160,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,08 Aug 2024
+1161,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,10 Jul 2024
+1162,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6200,5500,16 Aug 2024
+1163,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6200,5500,17 Aug 2024
+1164,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6300,5500,04 Jul 2024
+1165,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6200,5500,02 Jul 2024
+1166,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,09 Oct 2024
+1167,Chikmagalur,Chikkamagalore,Rice,Pusa Basmati Raw (Old),FAQ,6000,6000,6000,17 Sep 2024
+1168,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2000,2000,31 Aug 2024
+1169,Davangere,Davangere,Rice,Broken Rice,FAQ,2260,2260,2260,24 Jul 2024
+1170,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,18 Jul 2024
+1171,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,12 Sep 2024
+1172,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,20 Sep 2024
+1173,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,28 Aug 2024
+1174,Davangere,Davangere,Rice,Medium,FAQ,2950,4700,3825,05 Oct 2024
+1175,Davangere,Davangere,Rice,Medium,FAQ,3893,3893,3893,02 Dec 2024
+1176,Bangalore,Doddaballa Pur,Rice,Other,FAQ,3450,6000,4230,19 Nov 2024
+1177,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2400,2400,2400,28 Nov 2024
+1178,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2450,2730,2730,01 Jul 2024
+1179,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2650,2650,2650,03 Oct 2024
+1180,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2720,2720,2720,05 Aug 2024
+1181,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2850,2925,2900,04 Nov 2024
+1182,Koppal,Gangavathi,Rice,Other,FAQ,2650,2660,2660,05 Jul 2024
+1183,Koppal,Gangavathi,Rice,Other,FAQ,2690,2870,2800,15 Jul 2024
+1184,Koppal,Gangavathi,Rice,Other,FAQ,2710,2710,2710,12 Nov 2024
+1185,Koppal,Gangavathi,Rice,Other,FAQ,2710,2730,2715,03 Aug 2024
+1186,Koppal,Gangavathi,Rice,Other,FAQ,2770,4700,4220,14 Aug 2024
+1187,Koppal,Gangavathi,Rice,Other,FAQ,2880,3075,2970,19 Sep 2024
+1188,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4000,3550,05 Nov 2024
+1189,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4300,3800,12 Sep 2024
+1190,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4350,3800,08 Jul 2024
+1191,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4400,3850,31 Jul 2024
+1192,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4000,3700,15 Oct 2024
+1193,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3500,4700,4150,21 Aug 2024
+1194,Kalburgi,Kalburgi,Rice,Fine,FAQ,4100,6400,5400,28 Sep 2024
+1195,Kalburgi,Kalburgi,Rice,Fine,FAQ,4200,6000,5150,22 Jul 2024
+1196,Kalburgi,Kalburgi,Rice,Fine,FAQ,4200,6250,5350,05 Aug 2024
+1197,Kalburgi,Kalburgi,Rice,Fine,FAQ,4300,6250,5500,07 Oct 2024
+1198,Kalburgi,Kalburgi,Rice,Fine,FAQ,4450,6400,5500,01 Jul 2024
+1199,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6300,5500,06 Jul 2024
+1200,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6500,5550,13 Aug 2024
+1201,Kalburgi,Kalburgi,Rice,Fine,FAQ,5200,5300,5250,27 Aug 2024
+1202,Kolar,Kolar,Rice,Coarse,FAQ,2400,2800,2684,06 Nov 2024
+1203,Karwar(Uttar Kannad),Mundgod,Rice,Broken Rice,FAQ,2800,2800,2800,13 Nov 2024
+1204,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3070,3190,3190,24 Sep 2024
+1205,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3645,3645,3645,23 Aug 2024
+1206,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,5000,16500,16000,15 Jul 2024
+1207,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,5800,14500,12900,30 Sep 2024
+1208,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2600,2300,01 Aug 2024
+1209,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2300,2900,2500,11 Jul 2024
+1210,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2700,2950,2900,19 Nov 2024
+1211,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2800,3000,2900,10 Jul 2024
+1212,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,4000,4040,4000,11 Sep 2024
+1213,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7400,6500,20 Jul 2024
+1214,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7400,7000,08 Oct 2024
+1215,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,6750,25 Sep 2024
+1216,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7600,6800,01 Jul 2024
+1217,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4400,5800,5300,04 Sep 2024
+1218,Mysore,Mysore (Bandipalya),Rice,Sona Mansoori Non Basmati,FAQ,4000,5400,5000,10 Jul 2024
+1219,Belgaum,Sankeshwar,Rice,Other,FAQ,5500,6236,6150,10 Oct 2024
+1220,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,05 Jul 2024
+1221,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,17 Sep 2024
+1222,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,30 Jul 2024
+1223,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,04 Nov 2024
+1224,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,04 Oct 2024
+1225,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,12 Nov 2024
+1226,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,01 Jul 2024
+1227,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,10 Sep 2024
+1228,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,11 Jul 2024
+1229,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,19 Jul 2024
+1230,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,19 Sep 2024
+1231,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,02 Sep 2024
+1232,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,05 Oct 2024
+1233,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,06 Aug 2024
+1234,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,06 Jul 2024
+1235,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,09 Sep 2024
+1236,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,20 Aug 2024
+1237,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,21 Oct 2024
+1238,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,22 Aug 2024
+1239,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,26 Aug 2024
+1240,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,26 Jul 2024
+1241,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5800,4650,20 Nov 2024
+1242,Koppal,Gangavathi,Rice,Other,FAQ,2900,2970,2940,23 Sep 2024
+1243,Koppal,Gangavathi,Rice,Other,FAQ,3300,3480,3430,13 Nov 2024
+1244,Koppal,Gangavathi,Rice,Other,FAQ,3380,3840,3400,02 Aug 2024
+1245,Koppal,Gangavathi,Rice,Other,FAQ,3810,4300,3980,16 Jul 2024
+1246,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4110,4110,4110,03 Jul 2024
+1247,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4110,4150,4147,18 Jul 2024
+1248,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4175,4175,4175,07 Oct 2024
+1249,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4263,4263,4263,25 Jul 2024
+1250,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4300,4775,4530,05 Jul 2024
+1251,Belgaum,Gokak,Rice,Sona Mansoori Non Basmati,FAQ,6140,6140,6140,18 Jul 2024
+1252,Hassan,Hassan,Rice,Coarse,FAQ,2200,2200,2200,15 Jul 2024
+1253,Haveri,Hirekerur,Rice,Other,FAQ,2200,2300,2250,31 Aug 2024
+1254,Chitradurga,Hiriyur,Rice,Coarse,FAQ,5500,5500,5500,13 Nov 2024
+1255,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2900,2550,04 Nov 2024
+1256,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3200,2800,27 Aug 2024
+1257,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2800,2600,29 Oct 2024
+1258,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2900,2600,28 Oct 2024
+1259,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2950,2600,02 Jul 2024
+1260,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3000,2600,10 Sep 2024
+1261,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3200,2800,23 Aug 2024
+1262,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4000,3550,01 Oct 2024
+1263,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3150,4000,3600,18 Oct 2024
+1264,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3150,4000,3600,19 Oct 2024
+1265,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3150,4300,3800,02 Aug 2024
+1266,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4400,3800,05 Sep 2024
+1267,Kalburgi,Kalburgi,Rice,Fine,FAQ,4100,6000,5150,25 Jul 2024
+1268,Kalburgi,Kalburgi,Rice,Fine,FAQ,4200,6300,5200,26 Sep 2024
+1269,Kalburgi,Kalburgi,Rice,Fine,FAQ,4200,6300,5350,12 Nov 2024
+1270,Kalburgi,Kalburgi,Rice,Fine,FAQ,4200,6400,5500,24 Sep 2024
+1271,Kalburgi,Kalburgi,Rice,Fine,FAQ,4450,6500,5600,30 Aug 2024
+1272,Kalburgi,Kalburgi,Rice,Fine,FAQ,5000,6600,5800,22 Aug 2024
+1273,Mandya,Maddur,Rice,Other,FAQ,3154,3154,3154,23 Oct 2024
+1274,Mandya,Maddur,Rice,Other,FAQ,3400,3400,3400,20 Jul 2024
+1275,Tumkur,Madhugiri,Rice,Other,FAQ,3000,4500,3800,23 Jul 2024
+1276,Kolar,Malur,Rice,Sona,FAQ,2800,6300,4666,04 Oct 2024
+1277,Kolar,Malur,Rice,Sona,FAQ,3800,6000,4040,05 Nov 2024
+1278,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3320,3320,3320,10 Jul 2024
+1279,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3645,3645,3645,22 Aug 2024
+1280,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2700,2950,2800,13 Nov 2024
+1281,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2800,2900,2800,06 Nov 2024
+1282,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2800,3150,2900,30 Aug 2024
+1283,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2800,3150,3000,22 Aug 2024
+1284,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2900,3000,3000,03 Sep 2024
+1285,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2917,3154,3050,19 Aug 2024
+1286,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5300,6800,6250,04 Sep 2024
+1287,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,7400,02 Aug 2024
+1288,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,6800,04 Oct 2024
+1289,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7600,6800,05 Jul 2024
+1290,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,3800,5200,4800,16 Aug 2024
+1291,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4300,5800,5300,15 Nov 2024
+1292,Bangalore,Ramanagara,Rice,Fine,FAQ,5600,6400,6000,06 Jul 2024
+1293,Bangalore,Ramanagara,Rice,Fine,FAQ,5600,6500,6000,05 Oct 2024
+1294,Haveri,Ranebennur,Rice,Medium,FAQ,5200,5600,5350,19 Nov 2024
+1295,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,17 Aug 2024
+1296,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,22 Aug 2024
+1297,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,29 Aug 2024
+1298,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,29 Jul 2024
+1299,Bangalore,Bangalore,Rice,Dappa,FAQ,4200,4500,4350,26 Sep 2024
+1300,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,19 Jul 2024
+1301,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,08 Aug 2024
+1302,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,04 Nov 2024
+1303,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,07 Nov 2024
+1304,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,20 Sep 2024
+1305,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,27 Sep 2024
+1306,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,02 Aug 2024
+1307,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,03 Aug 2024
+1308,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,26 Sep 2024
+1309,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,06 Jul 2024
+1310,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,15 Jul 2024
+1311,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2000,2500,2300,18 Sep 2024
+1312,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2500,3000,2800,29 Oct 2024
+1313,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2800,3000,2900,24 Sep 2024
+1314,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2500,3500,3000,12 Aug 2024
+1315,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3200,3100,19 Sep 2024
+1316,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3200,3100,26 Oct 2024
+1317,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3200,17 Aug 2024
+1318,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4200,6600,5735,29 Aug 2024
+1319,Shimoga,Bhadravathi,Rice,Medium,FAQ,2715,2715,2715,20 Nov 2024
+1320,Bidar,Bidar,Rice,Broken Rice,FAQ,2000,3000,2500,20 Aug 2024
+1321,Bidar,Bidar,Rice,Broken Rice,FAQ,2000,4100,3200,09 Nov 2024
+1322,Bidar,Bidar,Rice,Broken Rice,FAQ,2800,3200,3050,07 Aug 2024
+1323,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,17 Aug 2024
+1324,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4000,6500,5500,14 Oct 2024
+1325,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4300,6580,5600,09 Nov 2024
+1326,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4400,6500,5400,12 Nov 2024
+1327,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5500,12 Jul 2024
+1328,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,03 Oct 2024
+1329,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5310,6500,5700,25 Sep 2024
+1330,Hassan,Channarayapatna,Rice,Hassan Dappa,FAQ,3400,3400,3400,27 Sep 2024
+1331,Chikmagalur,Chikkamagalore,Rice,Other,FAQ,4000,4000,4000,25 Nov 2024
+1332,Kolar,Chintamani,Rice,Broken Rice,FAQ,2600,3100,2948,04 Jul 2024
+1333,Kolar,Chintamani,Rice,Sona,FAQ,3250,6255,5000,25 Jul 2024
+1334,Davangere,Davangere,Rice,Broken Rice,FAQ,2260,2260,2260,19 Jul 2024
+1335,Davangere,Davangere,Rice,Broken Rice,FAQ,2530,2530,2530,28 Oct 2024
+1336,Davangere,Davangere,Rice,Medium,FAQ,2600,3600,3100,15 Jul 2024
+1337,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,12 Nov 2024
+1338,Davangere,Davangere,Rice,Medium,FAQ,2900,5100,4000,19 Sep 2024
+1339,Davangere,Davangere,Rice,Medium,FAQ,2900,6425,4663,25 Nov 2024
+1340,Davangere,Davangere,Rice,Medium,FAQ,3100,3100,3100,23 Oct 2024
+1341,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2330,2720,2700,26 Nov 2024
+1342,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2700,2700,2700,28 Oct 2024
+1343,Koppal,Gangavathi,Rice,Other,FAQ,2700,4696,3840,01 Jul 2024
+1344,Koppal,Gangavathi,Rice,Other,FAQ,2740,4000,2760,02 Sep 2024
+1345,Koppal,Gangavathi,Rice,Other,FAQ,3380,3400,3390,13 Aug 2024
+1346,Koppal,Gangavathi,Rice,Other,FAQ,3380,3410,3400,09 Aug 2024
+1347,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4062,5950,4583,09 Oct 2024
+1348,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,17 Aug 2024
+1349,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,29 Oct 2024
+1350,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,30 Oct 2024
+1351,Bangalore,Bangalore,Rice,Dappa,FAQ,3800,4200,4000,03 Dec 2024
+1352,Bangalore,Bangalore,Rice,Dappa,FAQ,4400,4600,4500,01 Jul 2024
+1353,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,03 Aug 2024
+1354,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,29 Aug 2024
+1355,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6000,5700,03 Dec 2024
+1356,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,01 Jul 2024
+1357,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6800,6100,08 Jul 2024
+1358,Bangalore,Bangalore,Rice,Fine,FAQ,5800,6300,6050,24 Oct 2024
+1359,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,19 Sep 2024
+1360,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,25 Sep 2024
+1361,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,30 Sep 2024
+1362,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,27 Aug 2024
+1363,Bangalore,Bangalore,Rice,Medium,FAQ,5200,5800,5500,29 Oct 2024
+1364,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,09 Oct 2024
+1365,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,10 Oct 2024
+1366,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2200,2600,2400,15 Jul 2024
+1367,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2700,3000,2900,19 Aug 2024
+1368,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3000,3200,3100,14 Nov 2024
+1369,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3000,3600,3400,04 Oct 2024
+1370,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2500,3000,2800,09 Jul 2024
+1371,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3300,3100,19 Aug 2024
+1372,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,29 Oct 2024
+1373,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3600,3400,07 Oct 2024
+1374,Kolar,Bangarpet,Rice,Sona Fine,FAQ,6000,6500,6300,27 Nov 2024
+1375,Shimoga,Bhadravathi,Rice,Medium,FAQ,2700,2700,2700,15 Oct 2024
+1376,Bidar,Bidar,Rice,Broken Rice,FAQ,2500,3500,3000,27 Sep 2024
+1377,Bidar,Bidar,Rice,Broken Rice,FAQ,2800,3200,3000,10 Aug 2024
+1378,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,16 Jul 2024
+1379,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,3000,6000,4500,20 Aug 2024
+1380,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,3000,6100,5600,21 Aug 2024
+1381,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4600,6600,5400,28 Oct 2024
+1382,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4900,6600,5900,08 Oct 2024
+1383,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6200,5500,14 Aug 2024
+1384,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5200,6200,5500,23 Aug 2024
+1385,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,03 Jul 2024
+1386,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5500,27 Jul 2024
+1387,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6400,5600,16 Oct 2024
+1388,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5600,6500,5800,20 Nov 2024
+1389,Chikmagalur,Chikkamagalore,Rice,Other,FAQ,4000,4000,4000,19 Sep 2024
+1390,Davangere,Davangere,Rice,Broken Rice,FAQ,2150,2550,2350,11 Nov 2024
+1391,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2200,2200,08 Jul 2024
+1392,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,15 Nov 2024
+1393,Davangere,Davangere,Rice,Broken Rice,FAQ,2580,2580,2580,05 Aug 2024
+1394,Davangere,Davangere,Rice,Broken Rice,FAQ,2680,2680,2680,17 Sep 2024
+1395,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,19 Jul 2024
+1396,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,13 Sep 2024
+1397,Davangere,Davangere,Rice,Medium,FAQ,2900,3985,3442,27 Nov 2024
+1398,Davangere,Davangere,Rice,Medium,FAQ,2900,5050,3975,26 Sep 2024
+1399,Davangere,Davangere,Rice,Medium,FAQ,2900,7120,5010,26 Aug 2024
+1400,Davangere,Davangere,Rice,Medium,FAQ,4250,6056,5153,03 Oct 2024
+1401,Davangere,Davangere,Rice,Medium,FAQ,5000,6350,5675,09 Jul 2024
+1402,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2510,2700,2510,08 Aug 2024
+1403,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4361,4361,4361,30 Jul 2024
+1404,Chamrajnagar,Gundlupet,Rice,Other,FAQ,3670,3670,3670,04 Sep 2024
+1405,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,5290,5290,5290,31 Aug 2024
+1406,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2500,15 Oct 2024
+1407,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2600,22 Aug 2024
+1408,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2600,29 Aug 2024
+1409,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2050,2850,2550,19 Jul 2024
+1410,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3000,2650,30 Aug 2024
+1411,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4200,3800,10 Sep 2024
+1412,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3600,5000,4050,16 Aug 2024
+1413,Kalburgi,Kalburgi,Rice,Coarse,FAQ,4150,6250,5400,16 Nov 2024
+1414,Kalburgi,Kalburgi,Rice,Fine,FAQ,2100,3000,2600,11 Jul 2024
+1415,Kalburgi,Kalburgi,Rice,Fine,FAQ,4000,6250,5300,13 Nov 2024
+1416,Kalburgi,Kalburgi,Rice,Fine,FAQ,4300,6250,5500,18 Oct 2024
+1417,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6600,5600,11 Sep 2024
+1418,Chikmagalur,Koppa,Rice,Jaya,FAQ,4000,4000,4000,05 Nov 2024
+1419,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3230,3230,3230,03 Oct 2024
+1420,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3245,3245,3245,19 Nov 2024
+1421,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,8000,16500,12000,16 Sep 2024
+1422,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2941,3000,3000,09 Aug 2024
+1423,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2950,3600,3600,18 Sep 2024
+1424,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,6800,31 Jul 2024
+1425,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5900,7000,6900,24 Aug 2024
+1426,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5300,5200,24 Aug 2024
+1427,Mysore,Mysore (Bandipalya),Rice,Sona Mansoori Non Basmati,FAQ,4000,5000,5000,20 Jul 2024
+1428,Belgaum,Nippani,Rice,Medium,FAQ,7000,7000,7000,30 Aug 2024
+1429,Tumkur,Pavagada,Rice,Masuri,FAQ,5000,8000,6500,14 Nov 2024
+1430,Belgaum,Sankeshwar,Rice,Other,FAQ,2700,2875,2800,23 Aug 2024
+1431,Belgaum,Sankeshwar,Rice,Other,FAQ,5800,6370,6200,20 Nov 2024
+1432,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,18 Oct 2024
+1433,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,01 Oct 2024
+1434,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,02 Sep 2024
+1435,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,03 Aug 2024
+1436,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,04 Sep 2024
+1437,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,06 Jul 2024
+1438,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,29 Aug 2024
+1439,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,30 Jul 2024
+1440,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,03 Dec 2024
+1441,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,13 Aug 2024
+1442,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,16 Aug 2024
+1443,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,25 Oct 2024
+1444,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,26 Sep 2024
+1445,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,27 Nov 2024
+1446,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,30 Sep 2024
+1447,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2500,2500,2500,08 Aug 2024
+1448,Raichur,Sindhanur,Rice,Medium,FAQ,4500,4500,4500,04 Nov 2024
+1449,Raichur,Sindhanur,Rice,Medium,FAQ,4650,4700,4700,12 Oct 2024
+1450,Raichur,Sindhanur,Rice,Medium,FAQ,4900,4900,4900,05 Aug 2024
+1451,Raichur,Sindhanur,Rice,Medium,FAQ,5350,5600,5350,26 Sep 2024
+1452,Tumkur,Sira,Rice,Other,FAQ,3200,3200,3200,17 Sep 2024
+1453,Tumkur,Sira,Rice,Other,FAQ,6688,6688,6688,22 Jul 2024
+1454,Mandya,Srirangapattana,Rice,Broken Rice,FAQ,2766,3050,3050,31 Aug 2024
+1455,Mandya,Srirangapattana,Rice,Medium,FAQ,4800,4800,4800,07 Nov 2024
+1456,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2900,2550,05 Aug 2024
+1457,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,2950,2500,13 Jul 2024
+1458,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3200,2650,21 Aug 2024
+1459,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2800,2450,30 Sep 2024
+1460,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2850,2550,16 Nov 2024
+1461,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2900,2550,26 Sep 2024
+1462,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3000,2650,06 Sep 2024
+1463,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,3150,2800,14 Aug 2024
+1464,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4100,3550,02 Jul 2024
+1465,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4150,3600,11 Nov 2024
+1466,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4300,3850,01 Aug 2024
+1467,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,3850,3600,13 Nov 2024
+1468,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4400,3850,01 Jul 2024
+1469,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3500,4600,4000,23 Aug 2024
+1470,Kalburgi,Kalburgi,Rice,Coarse,FAQ,4150,6000,5400,15 Nov 2024
+1471,Kalburgi,Kalburgi,Rice,Coarse,FAQ,4200,7100,5500,02 Dec 2024
+1472,Kalburgi,Kalburgi,Rice,Fine,FAQ,4100,6000,5250,30 Jul 2024
+1473,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6000,5250,16 Jul 2024
+1474,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6400,5250,04 Sep 2024
+1475,Kolar,Kolar,Rice,Fine,FAQ,5600,6000,5843,13 Sep 2024
+1476,Mandya,Maddur,Rice,Broken Rice,FAQ,1600,1600,1600,04 Oct 2024
+1477,Mandya,Maddur,Rice,Broken Rice,FAQ,2000,2000,2000,05 Sep 2024
+1478,Tumkur,Madhugiri,Rice,Other,FAQ,3200,4000,3324,02 Dec 2024
+1479,Kolar,Malur,Rice,Sona,FAQ,3000,6000,5245,29 Oct 2024
+1480,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,2900,2980,2980,11 Sep 2024
+1481,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3070,3190,3190,30 Sep 2024
+1482,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,9000,14500,12500,20 Sep 2024
+1483,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2300,2900,2500,19 Jul 2024
+1484,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2800,3300,2900,27 Aug 2024
+1485,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2810,3150,3000,24 Aug 2024
+1486,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2850,2850,2850,13 Aug 2024
+1487,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2900,3000,2900,07 Nov 2024
+1488,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7400,6800,08 Jul 2024
+1489,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7600,6800,20 Sep 2024
+1490,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6400,7000,6900,22 Aug 2024
+1491,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4600,5585,5260,28 Oct 2024
+1492,Belgaum,Nippani,Rice,Other,FAQ,11511,11511,11511,20 Sep 2024
+1493,Bangalore,Ramanagara,Rice,Fine,FAQ,6000,62500,6100,11 Sep 2024
+1494,Hassan,Sakaleshpura,Rice,Kachha Basmati,FAQ,3280,3300,3300,15 Oct 2024
+1495,Belgaum,Sankeshwar,Rice,Other,FAQ,2600,2770,2700,08 Oct 2024
+1496,Belgaum,Sankeshwar,Rice,Other,FAQ,2700,2880,2842,05 Oct 2024
+1497,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,05 Oct 2024
+1498,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,19 Oct 2024
+1499,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,09 Aug 2024
+1500,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,12 Sep 2024
+1501,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,13 Sep 2024
+1502,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,18 Sep 2024
+1503,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,19 Aug 2024
+1504,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,21 Aug 2024
+1505,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,22 Aug 2024
+1506,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,06 Nov 2024
+1507,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,08 Oct 2024
+1508,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,15 Oct 2024
+1509,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6050,27 Sep 2024
+1510,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,04 Nov 2024
+1511,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,27 Nov 2024
+1512,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,28 Oct 2024
+1513,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,03 Jul 2024
+1514,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,08 Jul 2024
+1515,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,11 Sep 2024
+1516,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,18 Jul 2024
+1517,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,22 Jul 2024
+1518,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,24 Sep 2024
+1519,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,05 Oct 2024
+1520,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,14 Nov 2024
+1521,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,21 Oct 2024
+1522,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,02 Sep 2024
+1523,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,04 Sep 2024
+1524,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,06 Jul 2024
+1525,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,06 Sep 2024
+1526,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,18 Sep 2024
+1527,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,20 Aug 2024
+1528,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,24 Jul 2024
+1529,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,26 Aug 2024
+1530,Shimoga,Shimoga,Rice,Fine,FAQ,4600,7500,6050,13 Nov 2024
+1531,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,02 Jul 2024
+1532,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,04 Jul 2024
+1533,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,08 Jul 2024
+1534,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,12 Nov 2024
+1535,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,15 Nov 2024
+1536,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,18 Oct 2024
+1537,Raichur,Sindhanur,Rice,Medium,FAQ,4000,4000,4000,30 Jul 2024
+1538,Raichur,Sindhanur,Rice,Medium,FAQ,4500,4500,4500,09 Nov 2024
+1539,Madikeri(Kodagu),Somvarpet,Rice,Sarbati Raw,FAQ,7000,7000,7000,04 Nov 2024
+1540,Mandya,Srirangapattana,Rice,Broken Rice,FAQ,2936,2936,2936,30 Oct 2024
+1541,Mandya,Srirangapattana,Rice,Medium,FAQ,2824,3106,3100,31 Aug 2024
+1542,Tumkur,Tumkur,Rice,Other,FAQ,3400,6000,4500,12 Nov 2024
+1543,Hassan,Hassan,Rice,Coarse,FAQ,2200,3400,2200,03 Sep 2024
+1544,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,4000,4000,4000,01 Jul 2024
+1545,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,4800,6250,5525,05 Sep 2024
+1546,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,1800,2800,2300,29 Jul 2024
+1547,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,2900,2500,18 Oct 2024
+1548,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,2900,2550,07 Oct 2024
+1549,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,3200,2700,11 Sep 2024
+1550,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4000,3500,06 Jul 2024
+1551,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4300,3800,18 Jul 2024
+1552,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4150,3650,05 Aug 2024
+1553,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4300,3650,04 Sep 2024
+1554,Kalburgi,Kalburgi,Rice,Fine,FAQ,50,6150,5500,29 Oct 2024
+1555,Kalburgi,Kalburgi,Rice,Fine,FAQ,3050,3875,3550,14 Nov 2024
+1556,Kalburgi,Kalburgi,Rice,Fine,FAQ,4000,6200,5150,25 Oct 2024
+1557,Kalburgi,Kalburgi,Rice,Fine,FAQ,4100,6000,5200,28 Oct 2024
+1558,Kalburgi,Kalburgi,Rice,Fine,FAQ,4300,6000,5100,19 Jul 2024
+1559,Kalburgi,Kalburgi,Rice,Fine,FAQ,4300,6150,5400,06 Aug 2024
+1560,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6000,5500,23 Jul 2024
+1561,Kalburgi,Kalburgi,Rice,Fine,FAQ,4600,6500,5550,10 Sep 2024
+1562,Kolar,Kolar,Rice,Fine,FAQ,5600,6000,5800,06 Nov 2024
+1563,Mandya,Maddur,Rice,Broken Rice,FAQ,1600,1600,1600,08 Oct 2024
+1564,Mandya,Maddur,Rice,Other,FAQ,2700,2700,2700,22 Aug 2024
+1565,Kolar,Malur,Rice,Sona,FAQ,4000,5000,4300,14 Oct 2024
+1566,Kolar,Malur,Rice,Sona,FAQ,5000,6000,5542,16 Jul 2024
+1567,Karwar(Uttar Kannad),Mundgod,Rice,Broken Rice,FAQ,2800,2800,2800,28 Oct 2024
+1568,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,4732,4732,4732,12 Sep 2024
+1569,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,10430,13600,10430,29 Nov 2024
+1570,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2600,2400,23 Jul 2024
+1571,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2800,2500,15 Oct 2024
+1572,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2400,2800,2600,06 Jul 2024
+1573,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2900,3000,3000,30 Sep 2024
+1574,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2950,3600,3600,10 Sep 2024
+1575,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5450,7050,6600,10 Sep 2024
+1576,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7000,14 Oct 2024
+1577,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7200,23 Oct 2024
+1578,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7600,6800,06 Jul 2024
+1579,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6100,7000,6900,27 Aug 2024
+1580,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4200,5400,5100,19 Nov 2024
+1581,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4200,5500,4900,11 Nov 2024
+1582,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4850,5650,5350,30 Nov 2024
+1583,Mysore,Mysore (Bandipalya),Rice,Sona Mansoori Non Basmati,FAQ,4000,5400,5000,19 Jul 2024
+1584,Tumkur,Pavagada,Rice,Coarse,FAQ,2600,4600,2800,05 Aug 2024
+1585,Belgaum,Sankeshwar,Rice,Other,FAQ,5000,5670,5500,28 Nov 2024
+1586,Belgaum,Sankeshwar,Rice,Other,FAQ,5900,6310,6200,04 Nov 2024
+1587,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,2800,20 Nov 2024
+1588,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,09 Oct 2024
+1589,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,14 Nov 2024
+1590,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,26 Nov 2024
+1591,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,13 Aug 2024
+1592,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,14 Aug 2024
+1593,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,24 Jul 2024
+1594,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,26 Jul 2024
+1595,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,30 Aug 2024
+1596,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,31 Aug 2024
+1597,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,03 Sep 2024
+1598,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,08 Aug 2024
+1599,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,23 Sep 2024
+1600,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,04 Nov 2024
+1601,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,07 Nov 2024
+1602,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,15 Oct 2024
+1603,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,16 Nov 2024
+1604,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,29 Aug 2024
+1605,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5509,4650,09 Aug 2024
+1606,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5800,4650,17 Sep 2024
+1607,Shimoga,Shimogga(Theertahalli),Rice,Coarse,FAQ,5200,5200,5200,25 Oct 2024
+1608,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2590,2590,2590,12 Nov 2024
+1609,Raichur,Sindhanur,Rice,Medium,FAQ,4500,4500,4500,29 Sep 2024
+1610,Raichur,Sindhanur,Rice,Medium,FAQ,4850,4850,4850,30 Sep 2024
+1611,Raichur,Sindhanur,Rice,Medium,FAQ,4920,4920,4920,10 Aug 2024
+1612,Mandya,Srirangapattana,Rice,Medium,FAQ,2685,2725,2685,11 Jul 2024
+1613,Raichur,Sindhanur,Rice,Medium,FAQ,4400,4850,4840,16 Aug 2024
+1614,Raichur,Sindhanur,Rice,Medium,FAQ,4570,4570,4570,24 Sep 2024
+1615,Raichur,Sindhanur,Rice,Medium,FAQ,5150,5170,5160,27 Jul 2024
+1616,Raichur,Sindhanur,Rice,Medium,FAQ,5400,5500,5500,20 Jul 2024
+1617,Tumkur,Sira,Rice,Other,FAQ,5000,5000,5000,02 Jul 2024
+1618,Madikeri(Kodagu),Somvarpet,Rice,Coarse (I.R.20),FAQ,2800,2900,2900,25 Oct 2024
+1619,Mandya,Srirangapattana,Rice,Medium,FAQ,2725,2725,2725,03 Aug 2024
+1620,Tumkur,Tumkur,Rice,Other,FAQ,3600,6500,4600,02 Dec 2024
+1621,Shimoga,Shimoga,Rice,Fine,FAQ,2150,3850,3000,09 Sep 2024
+1622,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,07 Nov 2024
+1623,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,19 Nov 2024
+1624,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,28 Oct 2024
+1625,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,22 Jul 2024
+1626,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,26 Jul 2024
+1627,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,27 Aug 2024
+1628,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,03 Aug 2024
+1629,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,04 Sep 2024
+1630,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,06 Sep 2024
+1631,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,08 Nov 2024
+1632,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,21 Sep 2024
+1633,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2900,2900,2900,04 Nov 2024
+1634,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2900,2900,2900,05 Sep 2024
+1635,Raichur,Sindhanur,Rice,Medium,FAQ,4400,5400,5400,11 Nov 2024
+1636,Raichur,Sindhanur,Rice,Medium,FAQ,4760,4770,4770,04 Oct 2024
+1637,Raichur,Sindhanur,Rice,Pusa Basmati Raw (Old),FAQ,2231,2231,2231,03 Aug 2024
+1638,Raichur,Sindhanur,Rice,Pusa Basmati Raw (Old),FAQ,2240,2540,2540,18 Jul 2024
+1639,Tumkur,Sira,Rice,Other,FAQ,3500,3500,3500,02 Sep 2024
+1640,Madikeri(Kodagu),Somvarpet,Rice,Fine,FAQ,6700,6700,6700,10 Jul 2024
+1641,Mandya,Srirangapattana,Rice,Medium,FAQ,2980,3200,3200,20 Aug 2024
+1642,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,28 Oct 2024
+1643,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2400,2400,2400,15 Oct 2024
+1644,Raichur,Sindhanur,Rice,Medium,FAQ,3900,5200,5200,26 Nov 2024
+1645,Raichur,Sindhanur,Rice,Medium,FAQ,4400,4400,4400,06 Nov 2024
+1646,Raichur,Sindhanur,Rice,Medium,FAQ,4400,4400,4400,21 Jul 2024
+1647,Raichur,Sindhanur,Rice,Medium,FAQ,4450,4450,4450,10 Nov 2024
+1648,Raichur,Sindhanur,Rice,Medium,FAQ,4520,4520,4520,07 Oct 2024
+1649,Tumkur,Sira,Rice,Other,FAQ,2940,2940,2940,18 Jul 2024
+1650,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2550,2710,2690,22 Jul 2024
+1651,Koppal,Gangavathi,Rice,Other,FAQ,2420,2990,2910,28 Oct 2024
+1652,Koppal,Gangavathi,Rice,Other,FAQ,2700,4370,2710,04 Jul 2024
+1653,Koppal,Gangavathi,Rice,Other,FAQ,2880,2890,2890,19 Jul 2024
+1654,Koppal,Gangavathi,Rice,Other,FAQ,2961,2985,2980,25 Oct 2024
+1655,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4070,4070,4070,23 Sep 2024
+1656,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4110,4385,4240,18 Oct 2024
+1657,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,31 Jul 2024
+1658,Chamrajnagar,Gundlupet,Rice,Other,FAQ,3330,3330,3330,09 Sep 2024
+1659,Hassan,Hassan,Rice,Other,FAQ,3200,6200,6000,10 Sep 2024
+1660,Haveri,Hirekerur,Rice,Broken Rice,FAQ,2200,2300,2250,31 Aug 2024
+1661,Haveri,Hirekerur,Rice,Broken Rice,FAQ,4000,4200,4100,01 Jul 2024
+1662,Bangalore,Hoskote,Rice,Coarse,FAQ,3192,3192,3192,13 Sep 2024
+1663,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,3330,6755,5042,26 Nov 2024
+1664,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2850,2600,01 Jul 2024
+1665,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3000,2600,12 Sep 2024
+1666,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,3000,2600,19 Oct 2024
+1667,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,2850,2600,24 Sep 2024
+1668,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,3500,4200,3800,02 Dec 2024
+1669,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4100,3650,07 Oct 2024
+1670,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,3850,3550,13 Jul 2024
+1671,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,3850,3550,26 Jul 2024
+1672,Kalburgi,Kalburgi,Rice,Fine,FAQ,4200,6200,5400,02 Jul 2024
+1673,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6300,5250,30 Sep 2024
+1674,Kalburgi,Kalburgi,Rice,Fine,FAQ,6000,7000,6500,14 Aug 2024
+1675,Kolar,Kolar,Rice,Fine,FAQ,6000,6400,6203,04 Jul 2024
+1676,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,5500,18000,16800,02 Aug 2024
+1677,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2800,2400,17 Oct 2024
+1678,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2800,2400,21 Oct 2024
+1679,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3000,3050,3050,19 Sep 2024
+1680,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7400,6700,09 Jul 2024
+1681,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7500,6750,23 Sep 2024
+1682,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7000,11 Nov 2024
+1683,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6200,6710,6400,30 Aug 2024
+1684,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6900,7100,7000,19 Nov 2024
+1685,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,3800,5200,4600,17 Aug 2024
+1686,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4200,5600,5350,10 Sep 2024
+1687,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5300,5250,02 Dec 2024
+1688,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5800,5000,04 Oct 2024
+1689,Bangalore,Ramanagara,Rice,Fine,FAQ,5000,7000,6250,20 Jul 2024
+1690,Belgaum,Sankeshwar,Rice,Other,FAQ,2600,2837,2700,29 Aug 2024
+1691,Belgaum,Sankeshwar,Rice,Other,FAQ,4500,4980,4700,06 Aug 2024
+1692,Belgaum,Sankeshwar,Rice,Other,FAQ,5400,6373,6200,04 Oct 2024
+1693,Belgaum,Sankeshwar,Rice,Other,FAQ,5500,6236,6000,11 Oct 2024
+1694,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,04 Oct 2024
+1695,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,06 Nov 2024
+1696,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,30 Oct 2024
+1697,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3800,3050,21 Oct 2024
+1698,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,10 Jul 2024
+1699,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,15 Nov 2024
+1700,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,13 Aug 2024
+1701,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,14 Aug 2024
+1702,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,23 Aug 2024
+1703,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,31 Jul 2024
+1704,Shimoga,Shimoga,Rice,Medium,FAQ,3500,5500,4650,19 Aug 2024
+1705,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,03 Jul 2024
+1706,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,10 Jul 2024
+1707,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,29 Oct 2024
+1708,Tumkur,Sira,Rice,Other,FAQ,5260,5260,5260,31 Aug 2024
+1709,Tumkur,Sira,Rice,Other,FAQ,6740,6740,6740,06 Nov 2024
+1710,Tumkur,Tumkur,Rice,Other,FAQ,3500,6500,4600,26 Nov 2024
+1711,Koppal,Gangavathi,Rice,Other,FAQ,2890,2999,2930,29 Oct 2024
+1712,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4100,4175,4137,03 Oct 2024
+1713,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4180,4180,4180,24 Jul 2024
+1714,Kolar,Gowribidanoor,Rice,Pusa Basmati Raw (Old),FAQ,2700,3500,3100,25 Sep 2024
+1715,Hassan,Hassan,Rice,Coarse,FAQ,2500,2500,2500,04 Oct 2024
+1716,Hassan,Hassan,Rice,Other,FAQ,5168,5168,5168,09 Jul 2024
+1717,Chitradurga,Hiriyur,Rice,Coarse,FAQ,3202,3202,3202,17 Aug 2024
+1718,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,1800,2800,2400,23 Jul 2024
+1719,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2900,2550,07 Aug 2024
+1720,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2950,2550,03 Aug 2024
+1721,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2125,2850,2600,27 Sep 2024
+1722,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,3950,3550,22 Jul 2024
+1723,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4000,3550,06 Nov 2024
+1724,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4000,3550,25 Jul 2024
+1725,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4000,3575,20 Jul 2024
+1726,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4200,3750,30 Sep 2024
+1727,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4300,3750,15 Jul 2024
+1728,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4300,3800,09 Sep 2024
+1729,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3150,4200,3800,10 Jul 2024
+1730,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3500,5000,4000,14 Aug 2024
+1731,Kalburgi,Kalburgi,Rice,Fine,FAQ,422,6300,5500,27 Sep 2024
+1732,Kalburgi,Kalburgi,Rice,Fine,FAQ,4000,6000,5100,13 Jul 2024
+1733,Kalburgi,Kalburgi,Rice,Fine,FAQ,4100,6000,5150,04 Nov 2024
+1734,Kalburgi,Kalburgi,Rice,Fine,FAQ,4200,6300,5150,11 Nov 2024
+1735,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6300,5400,08 Oct 2024
+1736,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6350,5500,10 Jul 2024
+1737,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6200,5350,31 Jul 2024
+1738,Kolar,Kolar,Rice,Fine,FAQ,5500,5800,5682,20 Sep 2024
+1739,Mandya,Maddur,Rice,Other,FAQ,2800,2800,2800,30 Sep 2024
+1740,Kolar,Malur,Rice,Sona,FAQ,4000,5000,4500,04 Sep 2024
+1741,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,2950,4130,4130,28 Oct 2024
+1742,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3195,3195,3195,19 Sep 2024
+1743,Karwar(Uttar Kannad),Mundgod,Rice,Kachha Basmati,FAQ,3435,3435,3435,02 Jul 2024
+1744,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,5500,18000,16300,30 Jul 2024
+1745,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2600,2400,31 Jul 2024
+1746,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2400,2800,2600,03 Jul 2024
+1747,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,3050,4040,3050,21 Sep 2024
+1748,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,3320,5200,4800,10 Aug 2024
+1749,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,3800,5200,4800,12 Aug 2024
+1750,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5700,7050,6850,17 Sep 2024
+1751,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5700,7050,6850,19 Sep 2024
+1752,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,7000,01 Aug 2024
+1753,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,7000,25 Jul 2024
+1754,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,7200,30 Jul 2024
+1755,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5850,6950,6350,21 Sep 2024
+1756,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7000,09 Oct 2024
+1757,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7500,7000,13 Nov 2024
+1758,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6620,7000,6900,19 Aug 2024
+1759,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4600,5700,5000,09 Oct 2024
+1760,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4600,5800,5200,07 Nov 2024
+1761,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4800,5600,5300,25 Oct 2024
+1762,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,5110,5400,5200,26 Aug 2024
+1763,Belgaum,Sankeshwar,Rice,Other,FAQ,6000,6375,6200,19 Nov 2024
+1764,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,14 Oct 2024
+1765,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,05 Aug 2024
+1766,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,19 Jul 2024
+1767,Shimoga,Shimoga,Rice,Coarse,FAQ,3500,4300,3900,16 Aug 2024
+1768,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,07 Oct 2024
+1769,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,11 Nov 2024
+1770,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,19 Oct 2024
+1771,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6050,25 Sep 2024
+1772,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,01 Aug 2024
+1773,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,03 Jul 2024
+1774,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,05 Aug 2024
+1775,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,05 Sep 2024
+1776,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,21 Aug 2024
+1777,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,25 Jul 2024
+1778,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,02 Aug 2024
+1779,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,08 Oct 2024
+1780,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,12 Aug 2024
+1781,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,16 Oct 2024
+1782,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,23 Aug 2024
+1783,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,23 Jul 2024
+1784,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5800,4650,12 Sep 2024
+1785,Shimoga,Shimogga(Theertahalli),Rice,Coarse,FAQ,6804,6804,6804,26 Oct 2024
+1786,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2650,2650,2650,10 Aug 2024
+1787,Raichur,Sindhanur,Rice,Broken Rice,FAQ,3050,3050,3050,20 Sep 2024
+1788,Raichur,Sindhanur,Rice,Medium,FAQ,4850,4880,4870,27 Sep 2024
+1789,Raichur,Sindhanur,Rice,Medium,FAQ,4870,4870,4870,09 Sep 2024
+1790,Tumkur,Sira,Rice,Other,FAQ,5280,5280,5280,13 Sep 2024
+1791,Mandya,Srirangapattana,Rice,Broken Rice,FAQ,2800,2818,2818,11 Jul 2024
+1792,Bangalore,Bangalore,Rice,Dappa,FAQ,3100,4300,3700,07 Aug 2024
+1793,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,04 Nov 2024
+1794,Bangalore,Bangalore,Rice,Dappa,FAQ,3700,4300,4000,07 Nov 2024
+1795,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,06 Aug 2024
+1796,Bangalore,Bangalore,Rice,Fine,FAQ,5000,6400,5700,16 Aug 2024
+1797,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6000,5700,02 Dec 2024
+1798,Bangalore,Bangalore,Rice,Fine,FAQ,6000,6500,6250,18 Oct 2024
+1799,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,28 Aug 2024
+1800,Bangalore,Bangalore,Rice,Medium,FAQ,4800,5500,5150,31 Jul 2024
+1801,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6000,5900,24 Sep 2024
+1802,Bangalore,Bangalore,Rice,Medium,FAQ,5800,6900,6350,11 Jul 2024
+1803,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,2800,3100,2900,22 Jul 2024
+1804,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,25 Oct 2024
+1805,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3500,4000,3800,15 Nov 2024
+1806,Kolar,Bangarpet,Rice,Sona Fine,FAQ,4500,6000,5500,06 Aug 2024
+1807,Shimoga,Bhadravathi,Rice,Medium,FAQ,2748,2748,2748,02 Sep 2024
+1808,Bidar,Bidar,Rice,Broken Rice,FAQ,2500,3500,3100,08 Oct 2024
+1809,Bidar,Bidar,Rice,Broken Rice,FAQ,2600,3500,3000,25 Jul 2024
+1810,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,29 Jul 2024
+1811,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3100,3000,30 Sep 2024
+1812,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3400,3000,13 Jul 2024
+1813,Bidar,Bidar,Rice,Broken Rice,FAQ,3000,3300,3100,27 Jul 2024
+1814,Bidar,Bidar,Rice,Broken Rice,FAQ,3000,3400,3200,20 Nov 2024
+1815,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4000,6500,5500,06 Nov 2024
+1816,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4200,6400,5400,07 Nov 2024
+1817,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,4200,6600,5500,24 Oct 2024
+1818,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5300,6300,5600,05 Aug 2024
+1819,Kolar,Chintamani,Rice,Sona,FAQ,5400,5500,5460,24 Oct 2024
+1820,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2900,2450,23 Jul 2024
+1821,Davangere,Davangere,Rice,Broken Rice,FAQ,2450,2500,2475,19 Nov 2024
+1822,Davangere,Davangere,Rice,Broken Rice,FAQ,2600,2600,2600,12 Aug 2024
+1823,Davangere,Davangere,Rice,Broken Rice,FAQ,2670,2670,2670,10 Sep 2024
+1824,Davangere,Davangere,Rice,Broken Rice,FAQ,3300,3300,3300,29 Jul 2024
+1825,Davangere,Davangere,Rice,Medium,FAQ,2000,5675,4210,27 Aug 2024
+1826,Davangere,Davangere,Rice,Medium,FAQ,2300,4250,3275,01 Oct 2024
+1827,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,08 Nov 2024
+1828,Davangere,Davangere,Rice,Medium,FAQ,2900,4937,4100,31 Aug 2024
+1829,Davangere,Davangere,Rice,Medium,FAQ,2900,6770,4835,20 Nov 2024
+1830,Davangere,Davangere,Rice,Medium,FAQ,2950,2950,2950,28 Nov 2024
+1831,Davangere,Davangere,Rice,Medium,FAQ,5708,5750,5729,16 Aug 2024
+1832,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2500,2500,2500,06 Jul 2024
+1833,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2651,3000,2850,30 Sep 2024
+1834,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2750,2790,2780,22 Oct 2024
+1835,Koppal,Gangavathi,Rice,Other,FAQ,2430,3050,2950,04 Nov 2024
+1836,Koppal,Gangavathi,Rice,Other,FAQ,2700,4350,2900,22 Jul 2024
+1837,Koppal,Gangavathi,Rice,Other,FAQ,2760,2935,2800,11 Jul 2024
+1838,Koppal,Gangavathi,Rice,Other,FAQ,2850,2960,2850,10 Oct 2024
+1839,Koppal,Gangavathi,Rice,Other,FAQ,3000,4500,3810,26 Jul 2024
+1840,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4050,4050,4050,01 Jul 2024
+1841,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4175,4384,4280,21 Oct 2024
+1842,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4380,4380,4380,30 Oct 2024
+1843,Bangalore,Hoskote,Rice,Pusa Basmati Raw (New),FAQ,2850,5105,3977,16 Aug 2024
+1844,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,1800,2900,2400,30 Jul 2024
+1845,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2000,3000,2550,08 Oct 2024
+1846,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2100,2975,2600,14 Nov 2024
+1847,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,2200,2850,2500,04 Oct 2024
+1848,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3000,4000,3600,29 Oct 2024
+1849,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4000,3600,12 Nov 2024
+1850,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4200,3850,10 Aug 2024
+1851,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3100,4400,4000,09 Jul 2024
+1852,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4250,3900,08 Aug 2024
+1853,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4300,3800,08 Oct 2024
+1854,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3200,4400,3950,12 Aug 2024
+1855,Kalburgi,Kalburgi,Rice,Coarse,FAQ,3550,5000,4000,17 Aug 2024
+1856,Kalburgi,Kalburgi,Rice,Coarse,FAQ,4000,5000,4500,08 Nov 2024
+1857,Kalburgi,Kalburgi,Rice,Fine,FAQ,4250,6250,5100,01 Oct 2024
+1858,Kalburgi,Kalburgi,Rice,Fine,FAQ,4400,6250,5600,08 Jul 2024
+1859,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6000,5500,12 Jul 2024
+1860,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6150,5400,01 Aug 2024
+1861,Kalburgi,Kalburgi,Rice,Fine,FAQ,4500,6200,5500,08 Aug 2024
+1862,Kalburgi,Kalburgi,Rice,Fine,FAQ,4600,6450,5750,24 Aug 2024
+1863,Karwar(Uttar Kannad),Mundgod,Rice,Broken Rice,FAQ,2895,2895,2895,07 Oct 2024
+1864,Mysore,Mysore (Bandipalya),Rice,Basumathi,FAQ,5000,16500,12000,19 Jul 2024
+1865,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2200,2600,2400,02 Aug 2024
+1866,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2400,2800,2600,02 Jul 2024
+1867,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5350,6900,6350,02 Dec 2024
+1868,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5800,7600,7000,23 Jul 2024
+1869,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,6000,7600,6800,02 Jul 2024
+1870,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4250,5850,5350,06 Sep 2024
+1871,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4700,5600,5100,08 Oct 2024
+1872,Mysore,Mysore (Bandipalya),Rice,Sona Mansoori Non Basmati,FAQ,4000,5400,5000,08 Jul 2024
+1873,Bangalore,Ramanagara,Rice,Fine,FAQ,4700,6000,5600,23 Oct 2024
+1874,Belgaum,Sankeshwar,Rice,Other,FAQ,3100,3200,3150,31 Aug 2024
+1875,Belgaum,Sankeshwar,Rice,Other,FAQ,5500,6263,5900,27 Sep 2024
+1876,Belgaum,Sankeshwar,Rice,Other,FAQ,5700,6470,5900,20 Aug 2024
+1877,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,25 Oct 2024
+1878,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3050,3000,29 Oct 2024
+1879,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,06 Aug 2024
+1880,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,26 Aug 2024
+1881,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,26 Sep 2024
+1882,Shimoga,Shimoga,Rice,Coarse,FAQ,2150,3850,3000,30 Sep 2024
+1883,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,16 Nov 2024
+1884,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7500,6050,24 Oct 2024
+1885,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,11 Sep 2024
+1886,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,12 Aug 2024
+1887,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,18 Jul 2024
+1888,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,20 Jul 2024
+1889,Shimoga,Shimoga,Rice,Fine,FAQ,4500,7800,6150,30 Aug 2024
+1890,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,01 Aug 2024
+1891,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,01 Oct 2024
+1892,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,09 Jul 2024
+1893,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,11 Jul 2024
+1894,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,11 Nov 2024
+1895,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,28 Aug 2024
+1896,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,30 Oct 2024
+1897,Shimoga,Shimoga,Rice,Medium,FAQ,3800,5500,4650,31 Jul 2024
+1898,Shimoga,Shimogga(Theertahalli),Rice,Coarse,FAQ,4800,4800,4800,10 Sep 2024
+1899,Raichur,Sindhanur,Rice,Medium,FAQ,4500,4500,4500,02 Oct 2024
+1900,Raichur,Sindhanur,Rice,Medium,FAQ,4500,4500,4500,22 Oct 2024
+1901,Raichur,Sindhanur,Rice,Medium,FAQ,4850,4880,4860,25 Sep 2024
+1902,Tumkur,Sira,Rice,Broken Rice,FAQ,2781,2781,2781,03 Sep 2024
+1903,Tumkur,Sira,Rice,Hansa,FAQ,3100,3100,3100,29 Oct 2024
+1904,Tumkur,Sira,Rice,Other,FAQ,5000,6734,5976,26 Sep 2024

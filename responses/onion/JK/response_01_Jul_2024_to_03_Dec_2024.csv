@@ -1,0 +1,781 @@
+0,1,2,3,4,5,6,7,8,9
+1,Jammu,Akhnoor,Onion,Other,FAQ,3400,3600,3500,09 Aug 2024
+2,Jammu,Akhnoor,Onion,Other,FAQ,3400,3600,3500,10 Aug 2024
+3,Jammu,Akhnoor,Onion,Other,FAQ,3400,3600,3500,27 Aug 2024
+4,Jammu,Akhnoor,Onion,Other,FAQ,3400,3600,3500,28 Aug 2024
+5,Jammu,Akhnoor,Onion,Other,FAQ,3400,3800,3600,01 Jul 2024
+6,Jammu,Akhnoor,Onion,Other,FAQ,3400,3800,3600,14 Aug 2024
+7,Jammu,Akhnoor,Onion,Other,FAQ,3400,3800,3600,15 Aug 2024
+8,Jammu,Akhnoor,Onion,Other,FAQ,3400,3800,3600,20 Aug 2024
+9,Jammu,Akhnoor,Onion,Other,FAQ,3500,3700,3600,12 Aug 2024
+10,Jammu,Akhnoor,Onion,Other,FAQ,3500,3700,3600,15 Jul 2024
+11,Jammu,Akhnoor,Onion,Other,FAQ,3500,3700,3600,19 Aug 2024
+12,Jammu,Akhnoor,Onion,Other,FAQ,3500,3800,3650,06 Aug 2024
+13,Jammu,Akhnoor,Onion,Other,FAQ,3500,3900,3700,07 Aug 2024
+14,Jammu,Akhnoor,Onion,Other,FAQ,3500,3900,3700,17 Jul 2024
+15,Jammu,Akhnoor,Onion,Other,FAQ,3500,4000,3750,03 Dec 2024
+16,Jammu,Akhnoor,Onion,Other,FAQ,3500,4000,3750,09 Jul 2024
+17,Jammu,Akhnoor,Onion,Other,FAQ,3500,4000,3750,13 Jul 2024
+18,Jammu,Akhnoor,Onion,Other,FAQ,3600,3800,3700,16 Aug 2024
+19,Jammu,Akhnoor,Onion,Other,FAQ,3600,3800,3700,17 Aug 2024
+20,Jammu,Akhnoor,Onion,Other,FAQ,3600,3800,3700,18 Jul 2024
+21,Jammu,Akhnoor,Onion,Other,FAQ,3600,3900,3750,01 Aug 2024
+22,Jammu,Akhnoor,Onion,Other,FAQ,3600,3900,3750,03 Aug 2024
+23,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,02 Aug 2024
+24,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,02 Dec 2024
+25,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,08 Aug 2024
+26,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,08 Jul 2024
+27,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,10 Jul 2024
+28,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,11 Jul 2024
+29,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,12 Jul 2024
+30,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,19 Jul 2024
+31,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,22 Aug 2024
+32,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,22 Jul 2024
+33,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,23 Aug 2024
+34,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,24 Aug 2024
+35,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,24 Jul 2024
+36,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,25 Jul 2024
+37,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,29 Nov 2024
+38,Jammu,Akhnoor,Onion,Other,FAQ,3600,4000,3800,31 Jul 2024
+39,Jammu,Akhnoor,Onion,Other,FAQ,3700,3900,3800,21 Aug 2024
+40,Jammu,Akhnoor,Onion,Other,FAQ,3700,3900,3800,30 Jul 2024
+41,Jammu,Akhnoor,Onion,Other,FAQ,3700,4000,3850,05 Aug 2024
+42,Jammu,Akhnoor,Onion,Other,FAQ,3700,4000,3850,20 Jul 2024
+43,Jammu,Akhnoor,Onion,Other,FAQ,3700,4000,3850,29 Jul 2024
+44,Jammu,Akhnoor,Onion,Other,FAQ,3700,4100,3900,05 Jul 2024
+45,Jammu,Akhnoor,Onion,Other,FAQ,3700,4100,3900,27 Jul 2024
+46,Jammu,Akhnoor,Onion,Other,FAQ,3800,4000,3900,23 Jul 2024
+47,Jammu,Akhnoor,Onion,Other,FAQ,3800,4000,3900,26 Jul 2024
+48,Jammu,Akhnoor,Onion,Other,FAQ,3800,4200,4000,02 Jul 2024
+49,Jammu,Akhnoor,Onion,Other,FAQ,3800,4200,4000,27 Nov 2024
+50,Jammu,Akhnoor,Onion,Other,FAQ,3800,4200,4000,28 Nov 2024
+51,Jammu,Akhnoor,Onion,Other,FAQ,3800,4200,4000,29 Aug 2024
+52,Jammu,Akhnoor,Onion,Other,FAQ,3900,4500,4200,15 Oct 2024
+53,Jammu,Akhnoor,Onion,Other,FAQ,3900,4500,4200,24 Oct 2024
+54,Jammu,Akhnoor,Onion,Other,FAQ,4000,4200,4100,03 Jul 2024
+55,Jammu,Akhnoor,Onion,Other,FAQ,4000,4300,4150,05 Sep 2024
+56,Jammu,Akhnoor,Onion,Other,FAQ,4000,4400,4200,08 Nov 2024
+57,Jammu,Akhnoor,Onion,Other,FAQ,4000,4400,4200,08 Oct 2024
+58,Jammu,Akhnoor,Onion,Other,FAQ,4000,4400,4200,09 Oct 2024
+59,Jammu,Akhnoor,Onion,Other,FAQ,4000,4400,4200,16 Oct 2024
+60,Jammu,Akhnoor,Onion,Other,FAQ,4000,4400,4200,21 Oct 2024
+61,Jammu,Akhnoor,Onion,Other,FAQ,4000,4400,4200,25 Oct 2024
+62,Jammu,Akhnoor,Onion,Other,FAQ,4000,4400,4200,26 Nov 2024
+63,Jammu,Akhnoor,Onion,Other,FAQ,4000,4400,4200,26 Oct 2024
+64,Jammu,Akhnoor,Onion,Other,FAQ,4000,4400,4200,26 Sep 2024
+65,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,01 Nov 2024
+66,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,02 Oct 2024
+67,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,07 Nov 2024
+68,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,10 Oct 2024
+69,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,14 Oct 2024
+70,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,17 Oct 2024
+71,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,19 Oct 2024
+72,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,21 Nov 2024
+73,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,21 Sep 2024
+74,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,22 Oct 2024
+75,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,23 Nov 2024
+76,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,24 Sep 2024
+77,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,25 Nov 2024
+78,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,25 Sep 2024
+79,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,28 Oct 2024
+80,Jammu,Akhnoor,Onion,Other,FAQ,4000,4500,4250,30 Oct 2024
+81,Jammu,Akhnoor,Onion,Other,FAQ,4000,4600,4300,11 Oct 2024
+82,Jammu,Akhnoor,Onion,Other,FAQ,4000,4600,4300,18 Oct 2024
+83,Jammu,Akhnoor,Onion,Other,FAQ,4000,4600,4300,23 Oct 2024
+84,Jammu,Akhnoor,Onion,Other,FAQ,4000,4600,4300,30 Aug 2024
+85,Jammu,Akhnoor,Onion,Other,FAQ,4100,4500,4300,12 Oct 2024
+86,Jammu,Akhnoor,Onion,Other,FAQ,4100,4500,4300,20 Nov 2024
+87,Jammu,Akhnoor,Onion,Other,FAQ,4100,4500,4300,20 Sep 2024
+88,Jammu,Akhnoor,Onion,Other,FAQ,4100,4500,4300,22 Nov 2024
+89,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,01 Oct 2024
+90,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,02 Nov 2024
+91,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,03 Oct 2024
+92,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,04 Nov 2024
+93,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,06 Sep 2024
+94,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,07 Oct 2024
+95,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,07 Sep 2024
+96,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,09 Nov 2024
+97,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,09 Sep 2024
+98,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,11 Nov 2024
+99,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,11 Sep 2024
+100,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,12 Nov 2024
+101,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,14 Sep 2024
+102,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,15 Nov 2024
+103,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,16 Nov 2024
+104,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,19 Nov 2024
+105,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,23 Sep 2024
+106,Jammu,Akhnoor,Onion,Other,FAQ,4200,4600,4400,30 Sep 2024
+107,Jammu,Akhnoor,Onion,Other,FAQ,4300,4500,4400,13 Sep 2024
+108,Jammu,Akhnoor,Onion,Other,FAQ,4300,4600,4450,12 Sep 2024
+109,Jammu,Akhnoor,Onion,Other,FAQ,4300,4700,4500,03 Sep 2024
+110,Jammu,Akhnoor,Onion,Other,FAQ,4300,4700,4500,04 Oct 2024
+111,Jammu,Akhnoor,Onion,Other,FAQ,4300,4700,4500,10 Sep 2024
+112,Jammu,Akhnoor,Onion,Other,FAQ,4300,4700,4500,13 Nov 2024
+113,Jammu,Akhnoor,Onion,Other,FAQ,4300,4700,4500,18 Nov 2024
+114,Jammu,Akhnoor,Onion,Other,FAQ,4300,4900,4600,02 Sep 2024
+115,Jammu,Akhnoor,Onion,Other,FAQ,4300,4900,4600,31 Aug 2024
+116,Jammu,Akhnoor,Onion,Other,FAQ,4400,4800,4600,04 Sep 2024
+117,Jammu,Akhnoor,Onion,Other,FAQ,4400,4800,4600,18 Sep 2024
+118,Jammu,Akhnoor,Onion,Other,FAQ,4500,4900,4700,17 Sep 2024
+119,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,3200,3400,3300,05 Aug 2024
+120,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,3200,3400,3300,09 Aug 2024
+121,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,3500,3600,3550,18 Jul 2024
+122,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,3500,4000,3750,10 Jul 2024
+123,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,3600,3700,3650,27 Jul 2024
+124,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4000,4500,4250,12 Sep 2024
+125,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4000,4500,4250,26 Nov 2024
+126,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4000,4500,4250,29 Jul 2024
+127,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4200,4500,4350,21 Aug 2024
+128,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4300,4500,4400,20 Aug 2024
+129,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4300,4500,4400,23 Aug 2024
+130,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4400,4700,4550,31 Aug 2024
+131,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,4700,4600,06 Sep 2024
+132,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,4700,4600,22 Aug 2024
+133,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,5000,4700,04 Sep 2024
+134,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,5000,4750,02 Nov 2024
+135,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,5000,4750,03 Dec 2024
+136,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,5000,4750,07 Oct 2024
+137,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,5000,4750,10 Sep 2024
+138,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,5000,4750,11 Sep 2024
+139,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,5000,4750,22 Nov 2024
+140,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,5000,4750,29 Aug 2024
+141,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4500,5000,4750,30 Aug 2024
+142,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4600,4700,4650,02 Sep 2024
+143,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4600,4800,4700,29 Nov 2024
+144,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4700,5000,4850,09 Sep 2024
+145,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4700,5000,4850,17 Aug 2024
+146,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,4800,5000,4900,04 Oct 2024
+147,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5200,5100,03 Oct 2024
+148,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5200,5100,13 Sep 2024
+149,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,11 Nov 2024
+150,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,12 Nov 2024
+151,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,13 Nov 2024
+152,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,14 Sep 2024
+153,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,15 Oct 2024
+154,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,19 Oct 2024
+155,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,21 Oct 2024
+156,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,21 Sep 2024
+157,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,23 Oct 2024
+158,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,24 Oct 2024
+159,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,25 Sep 2024
+160,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,27 Aug 2024
+161,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5000,5500,5250,28 Oct 2024
+162,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5200,5500,5350,09 Oct 2024
+163,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5200,5500,5350,18 Oct 2024
+164,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5200,5500,5350,30 Sep 2024
+165,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5300,5500,5400,19 Nov 2024
+166,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5500,5600,5550,31 Oct 2024
+167,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5500,5700,5600,14 Oct 2024
+168,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5500,5700,5600,21 Nov 2024
+169,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5500,5800,5650,27 Sep 2024
+170,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5500,6000,5750,01 Oct 2024
+171,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5500,6000,5750,04 Nov 2024
+172,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5500,6000,5750,05 Nov 2024
+173,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5500,6000,5750,18 Nov 2024
+174,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5600,5800,5700,20 Nov 2024
+175,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5800,6000,5900,09 Nov 2024
+176,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5800,6000,5900,17 Sep 2024
+177,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5800,6000,5900,19 Sep 2024
+178,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,5800,6000,5900,20 Sep 2024
+179,Anantnag,Ashahipora (Anantnagh),Onion,Other,FAQ,6000,6500,6250,07 Nov 2024
+180,Jammu,Batote,Onion,Nasik,FAQ,3400,3800,3600,12 Aug 2024
+181,Jammu,Batote,Onion,Other,FAQ,2400,2600,2500,01 Jul 2024
+182,Jammu,Batote,Onion,Other,FAQ,2600,3000,2800,02 Jul 2024
+183,Jammu,Batote,Onion,Other,FAQ,3000,3400,3200,07 Aug 2024
+184,Jammu,Batote,Onion,Other,FAQ,3200,3600,3400,13 Sep 2024
+185,Jammu,Batote,Onion,Other,FAQ,3400,3600,3500,26 Jul 2024
+186,Jammu,Batote,Onion,Other,FAQ,3400,3600,3500,28 Aug 2024
+187,Jammu,Batote,Onion,Other,FAQ,3400,3600,3500,29 Aug 2024
+188,Jammu,Batote,Onion,Other,FAQ,3400,3800,3600,11 Jul 2024
+189,Jammu,Batote,Onion,Other,FAQ,3500,3700,3600,03 Aug 2024
+190,Jammu,Batote,Onion,Other,FAQ,3500,3700,3600,05 Jul 2024
+191,Jammu,Batote,Onion,Other,FAQ,3500,3700,3600,15 Jul 2024
+192,Jammu,Batote,Onion,Other,FAQ,3500,3700,3600,27 Aug 2024
+193,Jammu,Batote,Onion,Other,FAQ,3500,3700,3600,30 Aug 2024
+194,Jammu,Batote,Onion,Other,FAQ,3500,4000,3750,09 Aug 2024
+195,Jammu,Batote,Onion,Other,FAQ,3500,4000,3750,16 Jul 2024
+196,Jammu,Batote,Onion,Other,FAQ,3500,4000,3750,20 Aug 2024
+197,Jammu,Batote,Onion,Other,FAQ,3500,4000,3750,25 Jul 2024
+198,Jammu,Batote,Onion,Other,FAQ,3600,3800,3700,24 Aug 2024
+199,Jammu,Batote,Onion,Other,FAQ,3600,3800,3700,27 Jul 2024
+200,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,03 Jul 2024
+201,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,06 Aug 2024
+202,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,10 Aug 2024
+203,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,10 Sep 2024
+204,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,11 Sep 2024
+205,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,12 Sep 2024
+206,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,13 Aug 2024
+207,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,14 Aug 2024
+208,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,16 Aug 2024
+209,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,17 Aug 2024
+210,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,21 Aug 2024
+211,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,22 Aug 2024
+212,Jammu,Batote,Onion,Other,FAQ,3600,4000,3800,28 Sep 2024
+213,Jammu,Batote,Onion,Other,FAQ,3800,4000,3900,10 Jul 2024
+214,Jammu,Batote,Onion,Other,FAQ,3800,4000,3900,29 Jul 2024
+215,Jammu,Batote,Onion,Other,FAQ,3800,4000,3900,30 Jul 2024
+216,Jammu,Batote,Onion,Other,FAQ,3800,4200,4000,01 Aug 2024
+217,Jammu,Batote,Onion,Other,FAQ,3800,4200,4000,05 Aug 2024
+218,Jammu,Batote,Onion,Other,FAQ,3800,4200,4000,08 Aug 2024
+219,Jammu,Batote,Onion,Other,FAQ,3800,4200,4000,13 Jul 2024
+220,Jammu,Batote,Onion,Other,FAQ,3800,4200,4000,14 Sep 2024
+221,Jammu,Batote,Onion,Other,FAQ,3800,4200,4000,23 Aug 2024
+222,Jammu,Batote,Onion,Other,FAQ,3800,4200,4000,24 Jul 2024
+223,Jammu,Batote,Onion,Other,FAQ,4000,4200,4100,06 Jul 2024
+224,Jammu,Batote,Onion,Other,FAQ,4000,4400,4200,09 Jul 2024
+225,Jammu,Batote,Onion,Other,FAQ,4000,4400,4200,09 Sep 2024
+226,Jammu,Batote,Onion,Other,FAQ,4000,4400,4200,18 Jul 2024
+227,Jammu,Batote,Onion,Other,FAQ,4000,4400,4200,21 Sep 2024
+228,Jammu,Batote,Onion,Other,FAQ,4000,4400,4200,22 Jul 2024
+229,Jammu,Batote,Onion,Other,FAQ,4000,4400,4200,23 Jul 2024
+230,Jammu,Batote,Onion,Other,FAQ,4000,4400,4200,25 Sep 2024
+231,Jammu,Batote,Onion,Other,FAQ,4000,4400,4200,27 Sep 2024
+232,Jammu,Batote,Onion,Other,FAQ,4000,4400,4200,31 Jul 2024
+233,Jammu,Batote,Onion,Other,FAQ,4000,4500,4250,03 Dec 2024
+234,Jammu,Batote,Onion,Other,FAQ,4000,4500,4250,06 Nov 2024
+235,Jammu,Batote,Onion,Other,FAQ,4000,4500,4250,20 Jul 2024
+236,Jammu,Batote,Onion,Other,FAQ,4000,4500,4250,20 Nov 2024
+237,Jammu,Batote,Onion,Other,FAQ,4000,4500,4250,25 Nov 2024
+238,Jammu,Batote,Onion,Other,FAQ,4000,4500,4250,25 Oct 2024
+239,Jammu,Batote,Onion,Other,FAQ,4000,4500,4250,29 Nov 2024
+240,Jammu,Batote,Onion,Other,FAQ,4100,4500,4300,08 Jul 2024
+241,Jammu,Batote,Onion,Other,FAQ,4100,4500,4300,24 Sep 2024
+242,Jammu,Batote,Onion,Other,FAQ,4100,4500,4300,30 Nov 2024
+243,Jammu,Batote,Onion,Other,FAQ,4200,4600,4400,19 Jul 2024
+244,Jammu,Batote,Onion,Other,FAQ,4200,4600,4400,19 Sep 2024
+245,Jammu,Batote,Onion,Other,FAQ,4200,4600,4400,28 Nov 2024
+246,Jammu,Batote,Onion,Other,FAQ,4200,4600,4400,30 Sep 2024
+247,Jammu,Batote,Onion,Other,FAQ,4300,4700,4500,02 Dec 2024
+248,Jammu,Batote,Onion,Other,FAQ,4300,4700,4500,07 Sep 2024
+249,Jammu,Batote,Onion,Other,FAQ,4300,4700,4500,19 Nov 2024
+250,Jammu,Batote,Onion,Other,FAQ,4400,4800,4600,01 Oct 2024
+251,Jammu,Batote,Onion,Other,FAQ,4400,4800,4600,02 Sep 2024
+252,Jammu,Batote,Onion,Other,FAQ,4400,4800,4600,03 Sep 2024
+253,Jammu,Batote,Onion,Other,FAQ,4400,4800,4600,04 Nov 2024
+254,Jammu,Batote,Onion,Other,FAQ,4400,4800,4600,05 Nov 2024
+255,Jammu,Batote,Onion,Other,FAQ,4400,4800,4600,22 Oct 2024
+256,Jammu,Batote,Onion,Other,FAQ,4400,4800,4600,26 Nov 2024
+257,Jammu,Batote,Onion,Other,FAQ,4400,4800,4600,27 Nov 2024
+258,Jammu,Batote,Onion,Other,FAQ,4500,4700,4600,17 Sep 2024
+259,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,02 Nov 2024
+260,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,04 Sep 2024
+261,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,05 Sep 2024
+262,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,06 Sep 2024
+263,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,09 Nov 2024
+264,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,09 Oct 2024
+265,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,10 Oct 2024
+266,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,11 Oct 2024
+267,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,14 Oct 2024
+268,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,15 Oct 2024
+269,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,16 Nov 2024
+270,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,16 Oct 2024
+271,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,17 Oct 2024
+272,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,18 Nov 2024
+273,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,19 Oct 2024
+274,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,21 Nov 2024
+275,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,21 Oct 2024
+276,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,23 Oct 2024
+277,Jammu,Batote,Onion,Other,FAQ,4500,5000,4750,28 Oct 2024
+278,Jammu,Batote,Onion,Other,FAQ,4500,5500,5000,31 Oct 2024
+279,Jammu,Batote,Onion,Other,FAQ,4600,5000,4800,11 Nov 2024
+280,Jammu,Batote,Onion,Other,FAQ,4600,5000,4800,22 Nov 2024
+281,Jammu,Batote,Onion,Other,FAQ,4800,5200,5000,23 Nov 2024
+282,Jammu,Batote,Onion,Other,FAQ,4800,5200,5000,24 Oct 2024
+283,Jammu,Batote,Onion,Other,FAQ,5000,5400,5200,03 Oct 2024
+284,Jammu,Batote,Onion,Other,FAQ,5000,5400,5200,04 Oct 2024
+285,Jammu,Batote,Onion,Other,FAQ,5000,5400,5200,05 Oct 2024
+286,Jammu,Batote,Onion,Other,FAQ,5000,5400,5200,29 Oct 2024
+287,Jammu,Batote,Onion,Other,FAQ,5000,5400,5200,30 Oct 2024
+288,Jammu,Batote,Onion,Other,FAQ,5000,5500,5250,07 Nov 2024
+289,Jammu,Batote,Onion,Other,FAQ,5000,5500,5250,08 Oct 2024
+290,Jammu,Batote,Onion,Other,FAQ,5000,5500,5250,12 Nov 2024
+291,Jammu,Batote,Onion,Other,FAQ,5000,5500,5250,13 Nov 2024
+292,Jammu,Batote,Onion,Other,FAQ,5100,5500,5300,08 Nov 2024
+293,Jammu,Batote,Onion,Other,FAQ,5200,5600,5400,07 Oct 2024
+294,Kathua,Kathua,Onion,Other,FAQ,3200,3400,3300,01 Jul 2024
+295,Kathua,Kathua,Onion,Other,FAQ,3200,3500,3400,27 Aug 2024
+296,Kathua,Kathua,Onion,Other,FAQ,3200,3600,3400,20 Aug 2024
+297,Kathua,Kathua,Onion,Other,FAQ,3400,3600,3500,10 Aug 2024
+298,Kathua,Kathua,Onion,Other,FAQ,3400,3600,3500,24 Aug 2024
+299,Kathua,Kathua,Onion,Other,FAQ,3400,3600,3500,28 Aug 2024
+300,Kathua,Kathua,Onion,Other,FAQ,3400,3600,3500,29 Aug 2024
+301,Kathua,Kathua,Onion,Other,FAQ,3400,3800,3600,12 Aug 2024
+302,Kathua,Kathua,Onion,Other,FAQ,3400,3800,3600,13 Aug 2024
+303,Kathua,Kathua,Onion,Other,FAQ,3400,3800,3600,14 Aug 2024
+304,Kathua,Kathua,Onion,Other,FAQ,3400,3800,3600,17 Aug 2024
+305,Kathua,Kathua,Onion,Other,FAQ,3500,3800,3650,04 Jul 2024
+306,Kathua,Kathua,Onion,Other,FAQ,3500,3800,3650,08 Jul 2024
+307,Kathua,Kathua,Onion,Other,FAQ,3500,3800,3650,10 Jul 2024
+308,Kathua,Kathua,Onion,Other,FAQ,3500,3800,3650,11 Jul 2024
+309,Kathua,Kathua,Onion,Other,FAQ,3500,3800,3650,12 Jul 2024
+310,Kathua,Kathua,Onion,Other,FAQ,3500,3800,3650,13 Jul 2024
+311,Kathua,Kathua,Onion,Other,FAQ,3500,4000,3750,03 Dec 2024
+312,Kathua,Kathua,Onion,Other,FAQ,3500,4000,3750,05 Jul 2024
+313,Kathua,Kathua,Onion,Other,FAQ,3500,4000,3750,06 Jul 2024
+314,Kathua,Kathua,Onion,Other,FAQ,3500,4000,3750,25 Nov 2024
+315,Kathua,Kathua,Onion,Other,FAQ,3500,4000,3750,29 Nov 2024
+316,Kathua,Kathua,Onion,Other,FAQ,3500,4000,3750,30 Nov 2024
+317,Kathua,Kathua,Onion,Other,FAQ,3600,3800,3700,01 Aug 2024
+318,Kathua,Kathua,Onion,Other,FAQ,3600,3800,3700,05 Aug 2024
+319,Kathua,Kathua,Onion,Other,FAQ,3600,3800,3700,06 Aug 2024
+320,Kathua,Kathua,Onion,Other,FAQ,3600,3800,3700,07 Aug 2024
+321,Kathua,Kathua,Onion,Other,FAQ,3600,3800,3700,08 Aug 2024
+322,Kathua,Kathua,Onion,Other,FAQ,3600,3800,3700,09 Jul 2024
+323,Kathua,Kathua,Onion,Other,FAQ,3600,3800,3700,16 Aug 2024
+324,Kathua,Kathua,Onion,Other,FAQ,3600,3800,3700,21 Aug 2024
+325,Kathua,Kathua,Onion,Other,FAQ,3600,3800,3700,26 Jul 2024
+326,Kathua,Kathua,Onion,Other,FAQ,3600,4000,3800,02 Aug 2024
+327,Kathua,Kathua,Onion,Other,FAQ,3600,4000,3800,03 Aug 2024
+328,Kathua,Kathua,Onion,Other,FAQ,3600,4000,3800,15 Jul 2024
+329,Kathua,Kathua,Onion,Other,FAQ,3600,4000,3800,22 Jul 2024
+330,Kathua,Kathua,Onion,Other,FAQ,3600,4000,3800,24 Jul 2024
+331,Kathua,Kathua,Onion,Other,FAQ,3600,4000,3800,30 Jul 2024
+332,Kathua,Kathua,Onion,Other,FAQ,3800,4000,3900,16 Jul 2024
+333,Kathua,Kathua,Onion,Other,FAQ,3800,4000,3900,18 Jul 2024
+334,Kathua,Kathua,Onion,Other,FAQ,3800,4000,3900,22 Aug 2024
+335,Kathua,Kathua,Onion,Other,FAQ,3800,4000,3900,23 Jul 2024
+336,Kathua,Kathua,Onion,Other,FAQ,3800,4000,3900,29 Jul 2024
+337,Kathua,Kathua,Onion,Other,FAQ,3800,4000,3900,31 Jul 2024
+338,Kathua,Kathua,Onion,Other,FAQ,3800,4200,4000,07 Sep 2024
+339,Kathua,Kathua,Onion,Other,FAQ,3800,4200,4000,19 Jul 2024
+340,Kathua,Kathua,Onion,Other,FAQ,3800,4200,4000,20 Jul 2024
+341,Kathua,Kathua,Onion,Other,FAQ,3800,4200,4000,27 Jul 2024
+342,Kathua,Kathua,Onion,Other,FAQ,3800,4200,4000,28 Nov 2024
+343,Kathua,Kathua,Onion,Other,FAQ,3800,4600,4200,15 Oct 2024
+344,Kathua,Kathua,Onion,Other,FAQ,4000,4200,4100,02 Jul 2024
+345,Kathua,Kathua,Onion,Other,FAQ,4000,4200,4100,03 Jul 2024
+346,Kathua,Kathua,Onion,Other,FAQ,4000,4200,4100,05 Sep 2024
+347,Kathua,Kathua,Onion,Other,FAQ,4000,4200,4100,27 Nov 2024
+348,Kathua,Kathua,Onion,Other,FAQ,4000,4400,4200,11 Sep 2024
+349,Kathua,Kathua,Onion,Other,FAQ,4000,4400,4200,16 Oct 2024
+350,Kathua,Kathua,Onion,Other,FAQ,4000,4400,4200,17 Sep 2024
+351,Kathua,Kathua,Onion,Other,FAQ,4000,4400,4200,18 Oct 2024
+352,Kathua,Kathua,Onion,Other,FAQ,4000,4400,4200,21 Sep 2024
+353,Kathua,Kathua,Onion,Other,FAQ,4000,4400,4200,22 Oct 2024
+354,Kathua,Kathua,Onion,Other,FAQ,4000,4400,4200,24 Sep 2024
+355,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,07 Oct 2024
+356,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,08 Oct 2024
+357,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,09 Oct 2024
+358,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,10 Oct 2024
+359,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,11 Oct 2024
+360,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,13 Sep 2024
+361,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,17 Oct 2024
+362,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,19 Oct 2024
+363,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,19 Sep 2024
+364,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,20 Nov 2024
+365,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,21 Oct 2024
+366,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,22 Nov 2024
+367,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,23 Oct 2024
+368,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,26 Nov 2024
+369,Kathua,Kathua,Onion,Other,FAQ,4000,4500,4250,26 Sep 2024
+370,Kathua,Kathua,Onion,Other,FAQ,4000,4600,4300,14 Oct 2024
+371,Kathua,Kathua,Onion,Other,FAQ,4000,4600,4300,25 Oct 2024
+372,Kathua,Kathua,Onion,Other,FAQ,4000,4800,4400,24 Oct 2024
+373,Kathua,Kathua,Onion,Other,FAQ,4000,5000,4250,27 Sep 2024
+374,Kathua,Kathua,Onion,Other,FAQ,4200,4400,4300,02 Dec 2024
+375,Kathua,Kathua,Onion,Other,FAQ,4200,4400,4300,18 Sep 2024
+376,Kathua,Kathua,Onion,Other,FAQ,4200,4600,4400,05 Oct 2024
+377,Kathua,Kathua,Onion,Other,FAQ,4200,4600,4400,25 Sep 2024
+378,Kathua,Kathua,Onion,Other,FAQ,4200,4600,4400,28 Sep 2024
+379,Kathua,Kathua,Onion,Other,FAQ,4400,4600,4500,03 Oct 2024
+380,Kathua,Kathua,Onion,Other,FAQ,4400,4600,4500,04 Oct 2024
+381,Kathua,Kathua,Onion,Other,FAQ,4400,4600,4500,09 Sep 2024
+382,Kathua,Kathua,Onion,Other,FAQ,4400,4600,4500,10 Sep 2024
+383,Kathua,Kathua,Onion,Other,FAQ,4400,4600,4500,14 Sep 2024
+384,Kathua,Kathua,Onion,Other,FAQ,4400,4600,4500,30 Sep 2024
+385,Kathua,Kathua,Onion,Other,FAQ,4400,4800,4600,28 Oct 2024
+386,Kathua,Kathua,Onion,Other,FAQ,4500,4800,4650,18 Nov 2024
+387,Kathua,Kathua,Onion,Other,FAQ,4500,5000,4700,02 Nov 2024
+388,Kathua,Kathua,Onion,Other,FAQ,4500,5000,4750,03 Sep 2024
+389,Kathua,Kathua,Onion,Other,FAQ,4500,5000,4750,04 Sep 2024
+390,Kathua,Kathua,Onion,Other,FAQ,4500,5000,4750,21 Nov 2024
+391,Kathua,Kathua,Onion,Other,FAQ,4500,5000,4750,23 Nov 2024
+392,Kathua,Kathua,Onion,Other,FAQ,4500,5000,4750,30 Oct 2024
+393,Kathua,Kathua,Onion,Other,FAQ,4500,5000,4800,19 Nov 2024
+394,Kathua,Kathua,Onion,Other,FAQ,4600,5000,4800,31 Aug 2024
+395,Kathua,Kathua,Onion,Other,FAQ,4700,5000,4850,30 Aug 2024
+396,Kathua,Kathua,Onion,Other,FAQ,4800,5000,4900,06 Sep 2024
+397,Kathua,Kathua,Onion,Other,FAQ,4800,5200,5000,02 Sep 2024
+398,Kathua,Kathua,Onion,Other,FAQ,5000,5200,5100,12 Nov 2024
+399,Kathua,Kathua,Onion,Other,FAQ,5000,5500,5200,06 Nov 2024
+400,Kathua,Kathua,Onion,Other,FAQ,5000,5500,5250,11 Nov 2024
+401,Kathua,Kathua,Onion,Other,FAQ,5400,5700,5500,08 Nov 2024
+402,Kathua,Kathua,Onion,Other,FAQ,5500,6000,5700,07 Nov 2024
+403,Anantnag,Kulgam,Onion,Red,FAQ,2500,3000,2750,05 Jul 2024
+404,Anantnag,Kulgam,Onion,Red,FAQ,2750,3000,2850,02 Jul 2024
+405,Anantnag,Kulgam,Onion,Red,FAQ,2750,3000,2900,05 Aug 2024
+406,Anantnag,Kulgam,Onion,Red,FAQ,2750,3250,3000,08 Jul 2024
+407,Anantnag,Kulgam,Onion,Red,FAQ,2750,3250,3000,09 Jul 2024
+408,Anantnag,Kulgam,Onion,Red,FAQ,2750,3250,3000,10 Jul 2024
+409,Anantnag,Kulgam,Onion,Red,FAQ,2750,3250,3000,12 Jul 2024
+410,Anantnag,Kulgam,Onion,Red,FAQ,3000,3250,3150,06 Aug 2024
+411,Anantnag,Kulgam,Onion,Red,FAQ,3000,3250,3150,06 Jul 2024
+412,Anantnag,Kulgam,Onion,Red,FAQ,3000,3500,3250,04 Jul 2024
+413,Anantnag,Kulgam,Onion,Red,FAQ,3000,3500,3250,07 Aug 2024
+414,Anantnag,Kulgam,Onion,Red,FAQ,3250,3750,3500,13 Jul 2024
+415,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,01 Jul 2024
+416,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,02 Aug 2024
+417,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,15 Jul 2024
+418,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,18 Jul 2024
+419,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,19 Jul 2024
+420,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,20 Jul 2024
+421,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,23 Jul 2024
+422,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,24 Jul 2024
+423,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,25 Jul 2024
+424,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,27 Jul 2024
+425,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,29 Jul 2024
+426,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,30 Jul 2024
+427,Anantnag,Kulgam,Onion,Red,FAQ,3500,4000,3750,31 Jul 2024
+428,Anantnag,Kulgam,Onion,Red,FAQ,3750,4000,3850,22 Jul 2024
+429,Anantnag,Kulgam,Onion,Red,FAQ,3750,4100,4000,08 Aug 2024
+430,Anantnag,Kulgam,Onion,Red,FAQ,4500,5000,4750,02 Dec 2024
+431,Anantnag,Kulgam,Onion,Red,FAQ,4500,5000,4750,03 Dec 2024
+432,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,2400,3400,2900,10 Jul 2024
+433,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3100,3300,3200,26 Jul 2024
+434,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3100,3300,3200,27 Jul 2024
+435,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3100,3300,3200,30 Jul 2024
+436,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3100,3300,3200,31 Jul 2024
+437,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3200,3400,3300,01 Aug 2024
+438,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3200,3400,3300,02 Aug 2024
+439,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3200,3400,3300,22 Jul 2024
+440,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3200,3400,3300,23 Jul 2024
+441,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3200,3400,3300,24 Jul 2024
+442,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3200,3400,3300,29 Jul 2024
+443,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3300,3500,3400,03 Aug 2024
+444,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3300,3500,3400,05 Aug 2024
+445,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3300,3500,3400,06 Aug 2024
+446,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3300,3500,3400,11 Jul 2024
+447,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3300,3500,3400,15 Jul 2024
+448,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3300,3500,3400,20 Jul 2024
+449,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3300,3500,3400,25 Jul 2024
+450,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3400,3600,3500,01 Jul 2024
+451,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3400,3600,3500,02 Jul 2024
+452,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3400,3600,3500,07 Aug 2024
+453,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3400,3600,3500,08 Aug 2024
+454,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3500,3700,3600,03 Jul 2024
+455,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3500,3700,3600,04 Jul 2024
+456,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3500,3700,3600,09 Aug 2024
+457,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3500,3700,3600,13 Jul 2024
+458,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3600,3800,3700,05 Jul 2024
+459,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3600,3800,3700,06 Jul 2024
+460,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3600,3800,3700,08 Jul 2024
+461,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3600,3800,3700,09 Jul 2024
+462,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3600,3800,3700,10 Aug 2024
+463,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3600,3800,3700,12 Jul 2024
+464,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3600,3800,3700,28 Nov 2024
+465,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4000,3900,02 Dec 2024
+466,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4000,3900,12 Aug 2024
+467,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4000,3900,20 Aug 2024
+468,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4000,3900,21 Aug 2024
+469,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4000,3900,22 Aug 2024
+470,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4000,3900,25 Nov 2024
+471,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4000,3900,26 Nov 2024
+472,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4000,3900,27 Nov 2024
+473,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4000,3900,30 Nov 2024
+474,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4200,4000,16 Aug 2024
+475,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4200,4000,17 Aug 2024
+476,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,3800,4200,4000,19 Aug 2024
+477,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4000,4200,4100,13 Aug 2024
+478,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4000,4200,4100,23 Nov 2024
+479,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4000,4300,4150,29 Nov 2024
+480,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4000,5000,4500,24 Sep 2024
+481,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4100,4300,4200,14 Aug 2024
+482,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4100,4500,4300,04 Sep 2024
+483,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4100,4500,4300,23 Aug 2024
+484,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4100,4700,4400,07 Sep 2024
+485,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4200,4400,4300,31 Aug 2024
+486,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4200,4600,4400,11 Sep 2024
+487,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4200,4600,4400,12 Sep 2024
+488,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4200,4600,4400,13 Sep 2024
+489,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4200,4800,4500,05 Sep 2024
+490,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4200,4800,4500,10 Sep 2024
+491,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4200,4800,4500,14 Sep 2024
+492,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4200,5200,4700,02 Nov 2024
+493,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4200,5200,4700,04 Nov 2024
+494,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4300,4500,4400,02 Sep 2024
+495,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4300,4500,4400,03 Sep 2024
+496,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4300,4500,4400,28 Aug 2024
+497,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4300,4500,4400,30 Aug 2024
+498,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4300,4800,4500,09 Sep 2024
+499,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4300,4800,4550,06 Sep 2024
+500,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4400,4500,4450,29 Aug 2024
+501,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4500,4700,4600,27 Aug 2024
+502,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4500,5000,4750,04 Oct 2024
+503,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4500,5000,4750,05 Oct 2024
+504,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,4800,4700,08 Oct 2024
+505,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,4800,4700,19 Nov 2024
+506,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,4800,4700,20 Nov 2024
+507,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,4800,4700,21 Nov 2024
+508,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,4800,4700,22 Nov 2024
+509,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,4800,4700,24 Oct 2024
+510,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,4800,4700,25 Oct 2024
+511,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,5000,4800,19 Oct 2024
+512,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,5000,4800,30 Oct 2024
+513,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,5100,4850,18 Sep 2024
+514,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4600,5100,4850,19 Sep 2024
+515,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4700,4900,4800,21 Oct 2024
+516,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4700,4900,4800,22 Oct 2024
+517,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4700,4900,4800,23 Oct 2024
+518,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4700,4900,4800,29 Oct 2024
+519,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,03 Oct 2024
+520,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,07 Oct 2024
+521,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,10 Oct 2024
+522,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,11 Oct 2024
+523,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,14 Oct 2024
+524,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,16 Oct 2024
+525,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,17 Oct 2024
+526,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,18 Oct 2024
+527,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,28 Oct 2024
+528,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5000,4900,30 Sep 2024
+529,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5200,5000,09 Oct 2024
+530,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5200,5000,18 Nov 2024
+531,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5200,5000,21 Sep 2024
+532,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5200,5000,26 Sep 2024
+533,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5200,5000,27 Sep 2024
+534,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5200,5000,28 Sep 2024
+535,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4800,5300,5050,25 Sep 2024
+536,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4900,5100,5000,15 Oct 2024
+537,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,4900,5100,5000,17 Sep 2024
+538,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5000,5200,5100,05 Nov 2024
+539,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5000,5200,5100,13 Nov 2024
+540,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5000,5200,5100,14 Nov 2024
+541,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5000,5400,5200,16 Nov 2024
+542,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5000,5600,5300,11 Nov 2024
+543,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5000,5600,5300,12 Nov 2024
+544,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5000,6000,5500,09 Nov 2024
+545,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5000,6500,5750,07 Nov 2024
+546,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5000,6500,5750,08 Nov 2024
+547,Jammu,Narwal Jammu (F&V),Onion,Other,FAQ,5200,6400,5800,06 Nov 2024
+548,Srinagar,Parimpore,Onion,Nasik,FAQ,2000,3000,2500,31 Oct 2024
+549,Srinagar,Parimpore,Onion,Nasik,FAQ,2200,2400,2300,08 Nov 2024
+550,Srinagar,Parimpore,Onion,Nasik,FAQ,2200,2600,2400,02 Nov 2024
+551,Srinagar,Parimpore,Onion,Nasik,FAQ,2800,3200,3000,26 Nov 2024
+552,Srinagar,Parimpore,Onion,Nasik,FAQ,3000,3500,3250,03 Dec 2024
+553,Srinagar,Parimpore,Onion,Nasik,FAQ,3000,3500,3250,30 Nov 2024
+554,Srinagar,Parimpore,Onion,Nasik,FAQ,3000,4000,3500,16 Oct 2024
+555,Srinagar,Parimpore,Onion,Nasik,FAQ,3000,4000,3500,17 Oct 2024
+556,Srinagar,Parimpore,Onion,Nasik,FAQ,3000,4000,3500,28 Oct 2024
+557,Srinagar,Parimpore,Onion,Nasik,FAQ,3500,4500,4000,06 Nov 2024
+558,Srinagar,Parimpore,Onion,Nasik,FAQ,3500,4500,4000,21 Oct 2024
+559,Srinagar,Parimpore,Onion,Nasik,FAQ,3500,4500,4000,28 Nov 2024
+560,Srinagar,Parimpore,Onion,Nasik,FAQ,3900,4300,4100,20 Nov 2024
+561,Srinagar,Parimpore,Onion,Nasik,FAQ,3900,4300,4100,22 Nov 2024
+562,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,4400,4200,19 Nov 2024
+563,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,4400,4200,23 Nov 2024
+564,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,4500,4250,13 Aug 2024
+565,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,02 Dec 2024
+566,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,04 Nov 2024
+567,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,05 Nov 2024
+568,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,09 Nov 2024
+569,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,11 Nov 2024
+570,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,12 Nov 2024
+571,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,16 Nov 2024
+572,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,21 Nov 2024
+573,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,29 Nov 2024
+574,Srinagar,Parimpore,Onion,Nasik,FAQ,4000,5000,4500,29 Oct 2024
+575,Srinagar,Parimpore,Onion,Nasik,FAQ,4200,4600,4400,18 Nov 2024
+576,Srinagar,Parimpore,Onion,Nasik,FAQ,4800,5000,4900,22 Oct 2024
+577,Srinagar,Parimpore,Onion,Nasik,FAQ,4800,5000,4900,23 Oct 2024
+578,Srinagar,Parimpore,Onion,Nasik,FAQ,4800,5000,4900,24 Oct 2024
+579,Srinagar,Parimpore,Onion,Onion,FAQ,3000,3500,3250,02 Aug 2024
+580,Srinagar,Parimpore,Onion,Onion,FAQ,3000,3500,3250,03 Aug 2024
+581,Srinagar,Parimpore,Onion,Onion,FAQ,3500,3600,3550,14 Oct 2024
+582,Srinagar,Parimpore,Onion,Onion,FAQ,3500,3600,3550,15 Oct 2024
+583,Srinagar,Parimpore,Onion,Onion,FAQ,3500,3800,3650,04 Jul 2024
+584,Srinagar,Parimpore,Onion,Onion,FAQ,3500,3800,3650,06 Jul 2024
+585,Srinagar,Parimpore,Onion,Onion,FAQ,3500,3800,3750,05 Jul 2024
+586,Srinagar,Parimpore,Onion,Onion,FAQ,3500,4000,3750,22 Jul 2024
+587,Srinagar,Parimpore,Onion,Onion,FAQ,3600,3800,3700,05 Aug 2024
+588,Srinagar,Parimpore,Onion,Onion,FAQ,3600,3800,3700,06 Aug 2024
+589,Srinagar,Parimpore,Onion,Onion,FAQ,3700,3800,3750,15 Jul 2024
+590,Srinagar,Parimpore,Onion,Onion,FAQ,3700,3800,3750,18 Jul 2024
+591,Srinagar,Parimpore,Onion,Onion,FAQ,3800,4000,3900,03 Jul 2024
+592,Srinagar,Parimpore,Onion,Onion,FAQ,3800,4000,3900,09 Aug 2024
+593,Srinagar,Parimpore,Onion,Onion,FAQ,3800,4000,3900,20 Jul 2024
+594,Srinagar,Parimpore,Onion,Onion,FAQ,4000,4500,4250,12 Aug 2024
+595,Srinagar,Parimpore,Onion,Onion,FAQ,4000,4500,4250,14 Aug 2024
+596,Srinagar,Parimpore,Onion,Onion,FAQ,4200,4600,4400,19 Oct 2024
+597,Srinagar,Parimpore,Onion,Onion,FAQ,4500,4600,4550,17 Aug 2024
+598,Srinagar,Parimpore,Onion,Onion,FAQ,4500,5000,4750,07 Oct 2024
+599,Srinagar,Parimpore,Onion,Onion,FAQ,4800,5000,4900,05 Sep 2024
+600,Srinagar,Parimpore,Onion,Onion,FAQ,4800,5000,4900,06 Sep 2024
+601,Srinagar,Parimpore,Onion,Onion,FAQ,4800,5000,4900,07 Sep 2024
+602,Srinagar,Parimpore,Onion,Onion,FAQ,4800,5000,4900,08 Oct 2024
+603,Srinagar,Parimpore,Onion,Onion,FAQ,4800,5000,4900,09 Sep 2024
+604,Srinagar,Parimpore,Onion,Onion,FAQ,4800,5200,5000,25 Oct 2024
+605,Srinagar,Parimpore,Onion,Onion,FAQ,5000,5200,5100,11 Sep 2024
+606,Srinagar,Parimpore,Onion,Onion,FAQ,5000,5200,5100,12 Sep 2024
+607,Srinagar,Parimpore,Onion,Onion,FAQ,5000,6000,5500,19 Sep 2024
+608,Srinagar,Parimpore,Onion,Onion,FAQ,5000,6000,5500,26 Sep 2024
+609,Srinagar,Parimpore,Onion,Other,FAQ,3000,3200,3100,08 Nov 2024
+610,Srinagar,Parimpore,Onion,Other,FAQ,3000,3400,3200,02 Nov 2024
+611,Srinagar,Parimpore,Onion,Other,FAQ,3000,3500,3250,31 Oct 2024
+612,Srinagar,Parimpore,Onion,Other,FAQ,5000,7000,6000,09 Oct 2024
+613,Srinagar,Parimpore,Onion,Other,FAQ,5100,5300,5200,11 Oct 2024
+614,Rajouri,Rajouri (F&V),Onion,Other,FAQ,2000,2400,2200,03 Jul 2024
+615,Rajouri,Rajouri (F&V),Onion,Other,FAQ,2200,2400,2300,21 Sep 2024
+616,Rajouri,Rajouri (F&V),Onion,Other,FAQ,2500,2700,2600,24 Sep 2024
+617,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3600,3800,3700,05 Aug 2024
+618,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3600,3800,3700,29 Jul 2024
+619,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3700,3900,3800,23 Jul 2024
+620,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3700,3900,3800,26 Jul 2024
+621,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3700,3900,3800,31 Jul 2024
+622,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,02 Aug 2024
+623,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,03 Aug 2024
+624,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,04 Jul 2024
+625,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,05 Jul 2024
+626,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,06 Aug 2024
+627,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,08 Aug 2024
+628,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,09 Aug 2024
+629,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,12 Aug 2024
+630,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,13 Aug 2024
+631,Rajouri,Rajouri (F&V),Onion,Other,FAQ,3800,4000,3900,30 Jul 2024
+632,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4000,4200,4100,02 Jul 2024
+633,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4000,4200,4100,08 Jul 2024
+634,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4000,4200,4100,10 Aug 2024
+635,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4000,4200,4100,10 Jul 2024
+636,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4000,4400,4200,11 Jul 2024
+637,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4000,4400,4200,14 Aug 2024
+638,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4000,4600,4300,12 Jul 2024
+639,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4000,4600,4300,16 Jul 2024
+640,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4200,4400,4300,13 Jul 2024
+641,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,10 Sep 2024
+642,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,16 Aug 2024
+643,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,18 Jul 2024
+644,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,19 Jul 2024
+645,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,20 Aug 2024
+646,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,20 Jul 2024
+647,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,21 Aug 2024
+648,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,27 Nov 2024
+649,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,28 Aug 2024
+650,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4500,4700,4600,29 Aug 2024
+651,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4600,4700,4600,30 Aug 2024
+652,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4600,4800,4700,11 Sep 2024
+653,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4600,4800,4700,12 Sep 2024
+654,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4600,4800,4700,22 Aug 2024
+655,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4600,4800,4700,24 Aug 2024
+656,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4800,4900,4850,29 Nov 2024
+657,Rajouri,Rajouri (F&V),Onion,Other,FAQ,4800,5000,4900,02 Sep 2024
+658,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5000,5200,5100,16 Sep 2024
+659,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5000,5400,5200,13 Sep 2024
+660,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5100,5300,5200,14 Sep 2024
+661,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5200,5400,5300,18 Sep 2024
+662,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5200,5400,5300,19 Sep 2024
+663,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5400,5600,5500,02 Nov 2024
+664,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5400,5600,5500,30 Sep 2024
+665,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5500,5700,5600,01 Oct 2024
+666,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5500,5700,5600,03 Oct 2024
+667,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5500,5700,5600,05 Oct 2024
+668,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5500,5700,5600,11 Oct 2024
+669,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,15 Oct 2024
+670,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,16 Nov 2024
+671,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,21 Nov 2024
+672,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,22 Nov 2024
+673,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,22 Oct 2024
+674,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,23 Nov 2024
+675,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,23 Oct 2024
+676,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,24 Oct 2024
+677,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,25 Oct 2024
+678,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5600,5800,5700,28 Oct 2024
+679,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5700,5900,5800,06 Nov 2024
+680,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5700,5900,5800,09 Nov 2024
+681,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5700,5900,5800,10 Oct 2024
+682,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5700,5900,5800,13 Nov 2024
+683,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5700,5900,5800,16 Oct 2024
+684,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5700,5900,5800,18 Nov 2024
+685,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5700,5900,5800,19 Nov 2024
+686,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5700,5900,5800,25 Nov 2024
+687,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5700,5900,5800,26 Nov 2024
+688,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5800,6000,5900,03 Dec 2024
+689,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5800,6000,5900,11 Nov 2024
+690,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5800,6000,5900,12 Nov 2024
+691,Rajouri,Rajouri (F&V),Onion,Other,FAQ,5800,6000,5900,21 Oct 2024
+692,Rajouri,Rajouri (F&V),Onion,Other,FAQ,6000,6200,6100,07 Nov 2024
+693,Udhampur,Udhampur,Onion,Other,FAQ,3000,3500,3250,06 Aug 2024
+694,Udhampur,Udhampur,Onion,Other,FAQ,3400,3600,3500,01 Aug 2024
+695,Udhampur,Udhampur,Onion,Other,FAQ,3400,3600,3500,02 Aug 2024
+696,Udhampur,Udhampur,Onion,Other,FAQ,3400,3600,3500,03 Aug 2024
+697,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,02 Jul 2024
+698,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,03 Jul 2024
+699,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,04 Jul 2024
+700,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,05 Jul 2024
+701,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,06 Jul 2024
+702,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,14 Aug 2024
+703,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,16 Aug 2024
+704,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,17 Aug 2024
+705,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,20 Aug 2024
+706,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,21 Aug 2024
+707,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,23 Jul 2024
+708,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,24 Jul 2024
+709,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,25 Jul 2024
+710,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,26 Jul 2024
+711,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,26 Nov 2024
+712,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,27 Jul 2024
+713,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,30 Jul 2024
+714,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3750,31 Jul 2024
+715,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3800,27 Nov 2024
+716,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3800,28 Nov 2024
+717,Udhampur,Udhampur,Onion,Other,FAQ,3500,4000,3800,29 Nov 2024
+718,Udhampur,Udhampur,Onion,Other,FAQ,3500,4500,4000,12 Sep 2024
+719,Udhampur,Udhampur,Onion,Other,FAQ,3500,4500,4000,13 Sep 2024
+720,Udhampur,Udhampur,Onion,Other,FAQ,3500,4700,4000,03 Dec 2024
+721,Udhampur,Udhampur,Onion,Other,FAQ,3600,3800,3700,07 Aug 2024
+722,Udhampur,Udhampur,Onion,Other,FAQ,3600,3800,3700,08 Aug 2024
+723,Udhampur,Udhampur,Onion,Other,FAQ,3600,3800,3700,09 Aug 2024
+724,Udhampur,Udhampur,Onion,Other,FAQ,3600,3800,3700,10 Aug 2024
+725,Udhampur,Udhampur,Onion,Other,FAQ,3600,3800,3700,13 Aug 2024
+726,Udhampur,Udhampur,Onion,Other,FAQ,3800,4000,3900,12 Jul 2024
+727,Udhampur,Udhampur,Onion,Other,FAQ,3800,4000,3900,13 Jul 2024
+728,Udhampur,Udhampur,Onion,Other,FAQ,4000,4200,4100,22 Aug 2024
+729,Udhampur,Udhampur,Onion,Other,FAQ,4000,4200,4100,23 Aug 2024
+730,Udhampur,Udhampur,Onion,Other,FAQ,4000,4500,4200,30 Nov 2024
+731,Udhampur,Udhampur,Onion,Other,FAQ,4000,4500,4250,05 Sep 2024
+732,Udhampur,Udhampur,Onion,Other,FAQ,4000,4500,4250,06 Sep 2024
+733,Udhampur,Udhampur,Onion,Other,FAQ,4000,4500,4250,09 Jul 2024
+734,Udhampur,Udhampur,Onion,Other,FAQ,4000,4500,4250,10 Jul 2024
+735,Udhampur,Udhampur,Onion,Other,FAQ,4000,4500,4250,11 Jul 2024
+736,Udhampur,Udhampur,Onion,Other,FAQ,4000,4500,4250,14 Sep 2024
+737,Udhampur,Udhampur,Onion,Other,FAQ,4000,4500,4250,24 Aug 2024
+738,Udhampur,Udhampur,Onion,Other,FAQ,4500,5000,4750,04 Sep 2024
+739,Udhampur,Udhampur,Onion,Other,FAQ,4500,5000,4750,07 Sep 2024
+740,Udhampur,Udhampur,Onion,Other,FAQ,4500,5000,4750,10 Sep 2024
+741,Udhampur,Udhampur,Onion,Other,FAQ,4500,5000,4750,11 Sep 2024
+742,Udhampur,Udhampur,Onion,Other,FAQ,4500,5000,4750,30 Aug 2024
+743,Udhampur,Udhampur,Onion,Other,FAQ,4500,5000,4750,31 Aug 2024
+744,Udhampur,Udhampur,Onion,Other,FAQ,4500,5000,4800,03 Sep 2024
+745,Udhampur,Udhampur,Onion,Other,FAQ,4800,5000,4900,19 Nov 2024
+746,Udhampur,Udhampur,Onion,Other,FAQ,4800,5000,4900,20 Nov 2024
+747,Udhampur,Udhampur,Onion,Other,FAQ,4800,5000,4900,21 Nov 2024
+748,Udhampur,Udhampur,Onion,Other,FAQ,4800,5000,4900,27 Aug 2024
+749,Udhampur,Udhampur,Onion,Other,FAQ,4800,5000,4900,28 Aug 2024
+750,Udhampur,Udhampur,Onion,Other,FAQ,4800,5000,4900,29 Aug 2024
+751,Udhampur,Udhampur,Onion,Other,FAQ,4800,5200,5000,22 Nov 2024
+752,Udhampur,Udhampur,Onion,Other,FAQ,4800,5500,5000,23 Nov 2024
+753,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5200,31 Oct 2024
+754,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,03 Oct 2024
+755,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,15 Oct 2024
+756,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,16 Oct 2024
+757,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,17 Oct 2024
+758,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,17 Sep 2024
+759,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,18 Oct 2024
+760,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,18 Sep 2024
+761,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,19 Oct 2024
+762,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,19 Sep 2024
+763,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,22 Oct 2024
+764,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,23 Oct 2024
+765,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,24 Oct 2024
+766,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,25 Oct 2024
+767,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,28 Sep 2024
+768,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,29 Oct 2024
+769,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5250,30 Oct 2024
+770,Udhampur,Udhampur,Onion,Other,FAQ,5000,5500,5300,04 Oct 2024
+771,Udhampur,Udhampur,Onion,Other,FAQ,5000,5800,5500,06 Nov 2024
+772,Udhampur,Udhampur,Onion,Other,FAQ,5400,5800,5600,09 Nov 2024
+773,Udhampur,Udhampur,Onion,Other,FAQ,5500,5700,5600,16 Nov 2024
+774,Udhampur,Udhampur,Onion,Other,FAQ,5500,5800,5600,07 Nov 2024
+775,Udhampur,Udhampur,Onion,Other,FAQ,5500,5800,5700,02 Nov 2024
+776,Udhampur,Udhampur,Onion,Other,FAQ,5500,6000,5750,24 Sep 2024
+777,Udhampur,Udhampur,Onion,Other,FAQ,5500,6000,5750,25 Sep 2024
+778,Udhampur,Udhampur,Onion,Other,FAQ,5500,6000,5750,26 Sep 2024
+779,Udhampur,Udhampur,Onion,Other,FAQ,5500,6000,5750,27 Sep 2024
+780,Udhampur,Udhampur,Onion,Other,FAQ,5500,6000,5800,05 Nov 2024

@@ -1,42 +1,44 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Panna,Devandranagar,Rice,Other,FAQ,1400,1400,1400,27 Jan 2017,2017,Jan,27,2017-01-27
-1,Sagar,Rehli,Rice,Other,FAQ,1000,1200,1100,04 Jan 2017,2017,Jan,04,2017-01-04
-2,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,27 Dec 2018,2018,Dec,27,2018-12-27
-3,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,02 Jan 2019,2019,Jan,02,2019-01-02
-4,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,10 Jan 2019,2019,Jan,10,2019-01-10
-5,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,07 Jan 2019,2019,Jan,07,2019-01-07
-6,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,29 Dec 2018,2018,Dec,29,2018-12-29
-7,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,08 Jan 2019,2019,Jan,08,2019-01-08
-8,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,11 Jan 2019,2019,Jan,11,2019-01-11
-9,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,03 Jan 2019,2019,Jan,03,2019-01-03
-10,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,14 Jan 2019,2019,Jan,14,2019-01-14
-11,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,31 Dec 2018,2018,Dec,31,2018-12-31
-12,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,05 Jan 2019,2019,Jan,05,2019-01-05
-13,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,12 Dec 2018,2018,Dec,12,2018-12-12
-14,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,13 Dec 2018,2018,Dec,13,2018-12-13
-15,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,18 Dec 2018,2018,Dec,18,2018-12-18
-16,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,22 Dec 2018,2018,Dec,22,2018-12-22
-17,Sehore,Baktara,Rice,1009 Kar,FAQ,1550,1550,1550,01 Jul 2019,2019,Jul,01,2019-07-01
-18,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,09 Jan 2019,2019,Jan,09,2019-01-09
-19,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,10 Dec 2018,2018,Dec,10,2018-12-10
-20,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,15 Jan 2019,2019,Jan,15,2019-01-15
-21,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,14 Dec 2018,2018,Dec,14,2018-12-14
-22,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,26 Dec 2018,2018,Dec,26,2018-12-26
-23,Rewa,Hanumana,Rice,Other,FAQ,1100,1200,1150,20 Feb 2015,2015,Feb,20,2015-02-20
-24,Sagar,Rehli,Rice,Other,FAQ,1350,1400,1375,16 Jan 2015,2015,Jan,16,2015-01-16
-25,Anupur,Kotma,Rice,Other,FAQ,2000,2000,2000,31 Jan 2016,2016,Jan,31,2016-01-31
-26,Bhopal,Berasia,Rice,1009 Kar,FAQ,2000,4010,3700,08 Nov 2023,2023,Nov,08,2023-11-08
-27,Bhopal,Berasia,Rice,1009 Kar,FAQ,1200,4470,4260,04 Dec 2023,2023,Dec,04,2023-12-04
-28,Bhopal,Berasia,Rice,1009 Kar,FAQ,1600,4500,4380,05 Dec 2023,2023,Dec,05,2023-12-05
-29,Bhopal,Berasia,Rice,1009 Kar,FAQ,2400,2400,2400,03 Nov 2023,2023,Nov,03,2023-11-03
-30,Bhopal,Berasia,Rice,1009 Kar,FAQ,1600,4100,3790,20 Nov 2023,2023,Nov,20,2023-11-20
-31,Bhopal,Berasia,Rice,1009 Kar,FAQ,2600,2605,2600,02 Nov 2023,2023,Nov,02,2023-11-02
-32,Bhopal,Berasia,Rice,1009 Kar,FAQ,2700,2700,2700,04 Nov 2023,2023,Nov,04,2023-11-04
-33,Bhopal,Berasia,Rice,1009 Kar,FAQ,2730,2730,2730,31 Oct 2023,2023,Oct,31,2023-10-31
-34,Bhopal,Berasia,Rice,1009 Kar,FAQ,1200,4470,4260,02 Dec 2023,2023,Dec,02,2023-12-02
-35,Bhopal,Berasia,Rice,1009 Kar,FAQ,2000,4150,3515,06 Nov 2023,2023,Nov,06,2023-11-06
-36,Shehdol,Shahdol,Rice,Other,FAQ,1200,1300,1250,05 May 2018,2018,May,05,2018-05-05
-37,Panna,Ajaygarh,Rice,Parmal,FAQ,1400,1400,1400,10 Feb 2018,2018,Feb,10,2018-02-10
-38,Mandsaur,Suvasra,Rice,1009 Kar,FAQ,1735,1735,1735,19 Apr 2018,2018,Apr,19,2018-04-19
-39,Panna,Ajaygarh,Rice,1009 Kar,FAQ,1735,1737,1736,19 Jun 2018,2018,Jun,19,2018-06-19
-40,Badwani,Badwani,Rice,1009 Kar,FAQ,5000,5000,5000,16 Feb 2018,2018,Feb,16,2018-02-16
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Panna,Devandranagar,Rice,Other,FAQ,1400,1400,1400,27 Jan 2017,2017,Jan,27,2017-01-27
+1,1.0,Sagar,Rehli,Rice,Other,FAQ,1000,1200,1100,04 Jan 2017,2017,Jan,4,2017-01-04
+2,2.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,27 Dec 2018,2018,Dec,27,2018-12-27
+3,3.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,02 Jan 2019,2019,Jan,2,2019-01-02
+4,4.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,10 Jan 2019,2019,Jan,10,2019-01-10
+5,5.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,07 Jan 2019,2019,Jan,7,2019-01-07
+6,6.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,29 Dec 2018,2018,Dec,29,2018-12-29
+7,7.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,08 Jan 2019,2019,Jan,8,2019-01-08
+8,8.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,11 Jan 2019,2019,Jan,11,2019-01-11
+9,9.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,03 Jan 2019,2019,Jan,3,2019-01-03
+10,10.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,14 Jan 2019,2019,Jan,14,2019-01-14
+11,11.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,31 Dec 2018,2018,Dec,31,2018-12-31
+12,12.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,05 Jan 2019,2019,Jan,5,2019-01-05
+13,13.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,12 Dec 2018,2018,Dec,12,2018-12-12
+14,14.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,13 Dec 2018,2018,Dec,13,2018-12-13
+15,15.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,18 Dec 2018,2018,Dec,18,2018-12-18
+16,16.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,22 Dec 2018,2018,Dec,22,2018-12-22
+17,17.0,Sehore,Baktara,Rice,1009 Kar,FAQ,1550,1550,1550,01 Jul 2019,2019,Jul,1,2019-07-01
+18,18.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,09 Jan 2019,2019,Jan,9,2019-01-09
+19,19.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,10 Dec 2018,2018,Dec,10,2018-12-10
+20,20.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,15 Jan 2019,2019,Jan,15,2019-01-15
+21,21.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,14 Dec 2018,2018,Dec,14,2018-12-14
+22,22.0,Sehore,Baktara,Rice,Govt. Quality,FAQ,1750,1750,1750,26 Dec 2018,2018,Dec,26,2018-12-26
+23,23.0,Rewa,Hanumana,Rice,Other,FAQ,1100,1200,1150,20 Feb 2015,2015,Feb,20,2015-02-20
+24,24.0,Sagar,Rehli,Rice,Other,FAQ,1350,1400,1375,16 Jan 2015,2015,Jan,16,2015-01-16
+25,25.0,Anupur,Kotma,Rice,Other,FAQ,2000,2000,2000,31 Jan 2016,2016,Jan,31,2016-01-31
+26,26.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,2000,4010,3700,08 Nov 2023,2023,Nov,8,2023-11-08
+27,27.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,1200,4470,4260,04 Dec 2023,2023,Dec,4,2023-12-04
+28,28.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,1600,4500,4380,05 Dec 2023,2023,Dec,5,2023-12-05
+29,29.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,2400,2400,2400,03 Nov 2023,2023,Nov,3,2023-11-03
+30,30.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,1600,4100,3790,20 Nov 2023,2023,Nov,20,2023-11-20
+31,31.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,2600,2605,2600,02 Nov 2023,2023,Nov,2,2023-11-02
+32,32.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,2700,2700,2700,04 Nov 2023,2023,Nov,4,2023-11-04
+33,33.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,2730,2730,2730,31 Oct 2023,2023,Oct,31,2023-10-31
+34,34.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,1200,4470,4260,02 Dec 2023,2023,Dec,2,2023-12-02
+35,35.0,Bhopal,Berasia,Rice,1009 Kar,FAQ,2000,4150,3515,06 Nov 2023,2023,Nov,6,2023-11-06
+36,36.0,Shehdol,Shahdol,Rice,Other,FAQ,1200,1300,1250,05 May 2018,2018,May,5,2018-05-05
+37,37.0,Panna,Ajaygarh,Rice,Parmal,FAQ,1400,1400,1400,10 Feb 2018,2018,Feb,10,2018-02-10
+38,38.0,Mandsaur,Suvasra,Rice,1009 Kar,FAQ,1735,1735,1735,19 Apr 2018,2018,Apr,19,2018-04-19
+39,39.0,Panna,Ajaygarh,Rice,1009 Kar,FAQ,1735,1737,1736,19 Jun 2018,2018,Jun,19,2018-06-19
+40,40.0,Badwani,Badwani,Rice,1009 Kar,FAQ,5000,5000,5000,16 Feb 2018,2018,Feb,16,2018-02-16
+41,,Rewa,Hanumana,Rice,Other,FAQ,1100,1200,1150,20 Feb 2015,2015,Feb,20,2015-02-20 00:00:00
+42,,Sagar,Rehli,Rice,Other,FAQ,1350,1400,1375,16 Jan 2015,2015,Jan,16,2015-01-16 00:00:00

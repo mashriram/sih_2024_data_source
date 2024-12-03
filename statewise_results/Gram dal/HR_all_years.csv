@@ -1,42 +1,61 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5000,5000,30 Aug 2017,2017,Aug,30,2017-08-30
-1,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,6000,5000,22 Feb 2017,2017,Feb,22,2017-02-22
-2,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,6000,5000,23 Jan 2017,2017,Jan,23,2017-01-23
-3,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,7000,6000,15 Mar 2017,2017,Mar,15,2017-03-15
-4,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,8000,5200,31 Jul 2017,2017,Jul,31,2017-07-31
-5,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,28 Dec 2016,2016,Dec,28,2016-12-28
-6,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,28 Mar 2017,2017,Mar,28,2017-03-28
-7,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,30 Jun 2017,2017,Jun,30,2017-06-30
-8,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7000,7000,12 Jan 2017,2017,Jan,12,2017-01-12
-9,Hissar,Hissar,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11100,14200,11500,21 Nov 2016,2016,Nov,21,2016-11-21
-10,Hissar,Hissar,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11450,11450,11450,06 Nov 2016,2016,Nov,06,2016-11-06
-11,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6400,6400,6400,20 Oct 2016,2016,Oct,20,2016-10-20
-12,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6131,6131,6131,22 Feb 2017,2017,Feb,22,2017-02-22
-13,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,8650,9250,8650,08 Nov 2016,2016,Nov,08,2016-11-08
-14,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10600,11300,10600,05 Dec 2016,2016,Dec,05,2016-12-05
-15,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10625,10625,10625,18 Nov 2016,2016,Nov,18,2016-11-18
-16,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11700,11700,11700,27 Dec 2016,2016,Dec,27,2016-12-27
-17,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,12025,12025,12025,01 Dec 2016,2016,Dec,01,2016-12-01
-18,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,12300,12500,12300,28 Oct 2016,2016,Oct,28,2016-10-28
-19,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,5000,4000,20 Dec 2018,2018,Dec,20,2018-12-20
-20,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,5000,4000,27 Sep 2018,2018,Sep,27,2018-09-27
-21,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,4100,4100,08 May 2023,2023,May,08,2023-05-08
-22,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4200,4200,4200,15 May 2023,2023,May,15,2023-05-15
-23,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4270,4380,4380,04 May 2023,2023,May,04,2023-05-04
-24,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,4000,4000,29 May 2018,2018,May,29,2018-05-29
-25,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,4000,4000,30 Jul 2018,2018,Jul,30,2018-07-30
-26,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,6000,6000,29 Aug 2018,2018,Aug,29,2018-08-29
-27,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4650,6000,6000,29 Jan 2018,2018,Jan,29,2018-01-29
-28,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5000,5000,19 Feb 2018,2018,Feb,19,2018-02-19
-29,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5000,5000,21 Mar 2018,2018,Mar,21,2018-03-21
-30,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5000,5000,26 Sep 2017,2017,Sep,26,2017-09-26
-31,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,6000,5000,25 Sep 2017,2017,Sep,25,2017-09-25
-32,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,8000,6000,22 Nov 2017,2017,Nov,22,2017-11-22
-33,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,27 Dec 2017,2017,Dec,27,2017-12-27
-34,Sirsa,Dabwali,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,3380,3420,3380,05 Jun 2018,2018,Jun,05,2018-06-05
-35,Sirsa,Dabwali,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,5550,5550,5550,19 Sep 2017,2017,Sep,19,2017-09-19
-36,Sirsa,Dabwali,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,5750,5750,5750,14 Sep 2017,2017,Sep,14,2017-09-14
-37,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3560,3560,3560,11 Apr 2018,2018,Apr,11,2018-04-11
-38,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3630,3630,3630,09 Apr 2018,2018,Apr,09,2018-04-09
-39,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3630,3630,3630,10 Apr 2018,2018,Apr,10,2018-04-10
-40,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5100,5100,5100,07 Oct 2017,2017,Oct,07,2017-10-07
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5000,5000,30 Aug 2017,2017,Aug,30,2017-08-30
+1,1.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,6000,5000,22 Feb 2017,2017,Feb,22,2017-02-22
+2,2.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,6000,5000,23 Jan 2017,2017,Jan,23,2017-01-23
+3,3.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,7000,6000,15 Mar 2017,2017,Mar,15,2017-03-15
+4,4.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,8000,5200,31 Jul 2017,2017,Jul,31,2017-07-31
+5,5.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,28 Dec 2016,2016,Dec,28,2016-12-28
+6,6.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,28 Mar 2017,2017,Mar,28,2017-03-28
+7,7.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,30 Jun 2017,2017,Jun,30,2017-06-30
+8,8.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7000,7000,12 Jan 2017,2017,Jan,12,2017-01-12
+9,9.0,Hissar,Hissar,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11100,14200,11500,21 Nov 2016,2016,Nov,21,2016-11-21
+10,10.0,Hissar,Hissar,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11450,11450,11450,06 Nov 2016,2016,Nov,6,2016-11-06
+11,11.0,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6400,6400,6400,20 Oct 2016,2016,Oct,20,2016-10-20
+12,12.0,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6131,6131,6131,22 Feb 2017,2017,Feb,22,2017-02-22
+13,13.0,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,8650,9250,8650,08 Nov 2016,2016,Nov,8,2016-11-08
+14,14.0,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10600,11300,10600,05 Dec 2016,2016,Dec,5,2016-12-05
+15,15.0,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10625,10625,10625,18 Nov 2016,2016,Nov,18,2016-11-18
+16,16.0,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11700,11700,11700,27 Dec 2016,2016,Dec,27,2016-12-27
+17,17.0,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,12025,12025,12025,01 Dec 2016,2016,Dec,1,2016-12-01
+18,18.0,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,12300,12500,12300,28 Oct 2016,2016,Oct,28,2016-10-28
+19,19.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,5000,4000,20 Dec 2018,2018,Dec,20,2018-12-20
+20,20.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,5000,4000,27 Sep 2018,2018,Sep,27,2018-09-27
+21,21.0,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,4100,4100,08 May 2023,2023,May,8,2023-05-08
+22,22.0,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4200,4200,4200,15 May 2023,2023,May,15,2023-05-15
+23,23.0,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4270,4380,4380,04 May 2023,2023,May,4,2023-05-04
+24,24.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,4000,4000,29 May 2018,2018,May,29,2018-05-29
+25,25.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,4000,4000,30 Jul 2018,2018,Jul,30,2018-07-30
+26,26.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4000,6000,6000,29 Aug 2018,2018,Aug,29,2018-08-29
+27,27.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4650,6000,6000,29 Jan 2018,2018,Jan,29,2018-01-29
+28,28.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5000,5000,19 Feb 2018,2018,Feb,19,2018-02-19
+29,29.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5000,5000,21 Mar 2018,2018,Mar,21,2018-03-21
+30,30.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5000,5000,26 Sep 2017,2017,Sep,26,2017-09-26
+31,31.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,6000,5000,25 Sep 2017,2017,Sep,25,2017-09-25
+32,32.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,8000,6000,22 Nov 2017,2017,Nov,22,2017-11-22
+33,33.0,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,27 Dec 2017,2017,Dec,27,2017-12-27
+34,34.0,Sirsa,Dabwali,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,3380,3420,3380,05 Jun 2018,2018,Jun,5,2018-06-05
+35,35.0,Sirsa,Dabwali,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,5550,5550,5550,19 Sep 2017,2017,Sep,19,2017-09-19
+36,36.0,Sirsa,Dabwali,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,5750,5750,5750,14 Sep 2017,2017,Sep,14,2017-09-14
+37,37.0,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3560,3560,3560,11 Apr 2018,2018,Apr,11,2018-04-11
+38,38.0,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3630,3630,3630,09 Apr 2018,2018,Apr,9,2018-04-09
+39,39.0,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3630,3630,3630,10 Apr 2018,2018,Apr,10,2018-04-10
+40,40.0,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5100,5100,5100,07 Oct 2017,2017,Oct,7,2017-10-07
+41,,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5000,5000,30 Aug 2017,2017,Aug,30,2017-08-30 00:00:00
+42,,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,6000,5000,22 Feb 2017,2017,Feb,22,2017-02-22 00:00:00
+43,,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,6000,5000,23 Jan 2017,2017,Jan,23,2017-01-23 00:00:00
+44,,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,7000,6000,15 Mar 2017,2017,Mar,15,2017-03-15 00:00:00
+45,,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,8000,5200,31 Jul 2017,2017,Jul,31,2017-07-31 00:00:00
+46,,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,28 Dec 2016,2016,Dec,28,2016-12-28 00:00:00
+47,,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,28 Mar 2017,2017,Mar,28,2017-03-28 00:00:00
+48,,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6000,6000,6000,30 Jun 2017,2017,Jun,30,2017-06-30 00:00:00
+49,,Yamuna Nagar,Bilaspur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7000,7000,7000,12 Jan 2017,2017,Jan,12,2017-01-12 00:00:00
+50,,Hissar,Hissar,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11100,14200,11500,21 Nov 2016,2016,Nov,21,2016-11-21 00:00:00
+51,,Hissar,Hissar,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11450,11450,11450,06 Nov 2016,2016,Nov,06,2016-11-06 00:00:00
+52,,Mahendragarh-Narnaul,Narnaul,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6400,6400,6400,20 Oct 2016,2016,Oct,20,2016-10-20 00:00:00
+53,,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6131,6131,6131,22 Feb 2017,2017,Feb,22,2017-02-22 00:00:00
+54,,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,8650,9250,8650,08 Nov 2016,2016,Nov,08,2016-11-08 00:00:00
+55,,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10600,11300,10600,05 Dec 2016,2016,Dec,05,2016-12-05 00:00:00
+56,,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10625,10625,10625,18 Nov 2016,2016,Nov,18,2016-11-18 00:00:00
+57,,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,11700,11700,11700,27 Dec 2016,2016,Dec,27,2016-12-27 00:00:00
+58,,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,12025,12025,12025,01 Dec 2016,2016,Dec,01,2016-12-01 00:00:00
+59,,Sirsa,Sirsa,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,12300,12500,12300,28 Oct 2016,2016,Oct,28,2016-10-28 00:00:00

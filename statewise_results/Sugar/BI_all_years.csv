@@ -1,3 +1,5 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Madhepura,Bihariganj,Sugar,Other,FAQ,3200,3600,3400,09 Jun 2016,2016,Jun,09,2016-06-09
-1,Madhepura,Bihariganj,Sugar,Other,FAQ,3500,4500,4000,29 Jun 2016,2016,Jun,29,2016-06-29
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Madhepura,Bihariganj,Sugar,Other,FAQ,3200,3600,3400,09 Jun 2016,2016,Jun,9,2016-06-09
+1,1.0,Madhepura,Bihariganj,Sugar,Other,FAQ,3500,4500,4000,29 Jun 2016,2016,Jun,29,2016-06-29
+2,,Madhepura,Bihariganj,Sugar,Other,FAQ,3200,3600,3400,09 Jun 2016,2016,Jun,09,2016-06-09 00:00:00
+3,,Madhepura,Bihariganj,Sugar,Other,FAQ,3500,4500,4000,29 Jun 2016,2016,Jun,29,2016-06-29 00:00:00

@@ -1,5 +1,9 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5000,5600,5250,03 Jun 2015,2015,Jun,03,2015-06-03
-1,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5000,5650,5500,01 Jun 2015,2015,Jun,01,2015-06-01
-2,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5100,5600,5250,04 Jun 2015,2015,Jun,04,2015-06-04
-3,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5200,5900,5500,11 Jun 2015,2015,Jun,11,2015-06-11
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5000,5600,5250,03 Jun 2015,2015,Jun,3,2015-06-03
+1,1.0,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5000,5650,5500,01 Jun 2015,2015,Jun,1,2015-06-01
+2,2.0,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5100,5600,5250,04 Jun 2015,2015,Jun,4,2015-06-04
+3,3.0,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5200,5900,5500,11 Jun 2015,2015,Jun,11,2015-06-11
+4,,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5000,5600,5250,03 Jun 2015,2015,Jun,03,2015-06-03 00:00:00
+5,,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5000,5650,5500,01 Jun 2015,2015,Jun,01,2015-06-01 00:00:00
+6,,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5100,5600,5250,04 Jun 2015,2015,Jun,04,2015-06-04 00:00:00
+7,,Badwani,Khetia,Ground Nut Oil,Other,FAQ,5200,5900,5500,11 Jun 2015,2015,Jun,11,2015-06-11 00:00:00

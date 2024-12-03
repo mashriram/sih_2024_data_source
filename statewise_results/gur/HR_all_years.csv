@@ -1,266 +1,354 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Bhiwani,Behal,Gur(Jaggery),Khandsari,FAQ,2855,2855,2855,02 Nov 2016,2016,Nov,02,2016-11-02
-1,Bhiwani,Behal,Gur(Jaggery),Khandsari,FAQ,3540,3540,3540,18 Nov 2016,2016,Nov,18,2016-11-18
-2,Bhiwani,Behal,Gur(Jaggery),Khandsari,FAQ,3875,3875,3875,29 Sep 2016,2016,Sep,29,2016-09-29
-3,Hissar,Narnaund,Gur(Jaggery),Other,FAQ,3000,3500,3200,30 Jun 2017,2017,Jun,30,2017-06-30
-4,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,1600,1600,1600,27 Mar 2017,2017,Mar,27,2017-03-27
-5,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2498,2800,2700,19 Jan 2017,2017,Jan,19,2017-01-19
-6,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,2500,2500,07 Sep 2016,2016,Sep,07,2016-09-07
-7,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,3117,2500,14 Oct 2016,2016,Oct,14,2016-10-14
-8,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,3125,2860,16 Jan 2017,2017,Jan,16,2017-01-16
-9,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,3200,2900,19 Oct 2016,2016,Oct,19,2016-10-19
-10,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2523,2523,2523,08 Mar 2017,2017,Mar,08,2017-03-08
-11,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2528,3050,2831,25 Oct 2016,2016,Oct,25,2016-10-25
-12,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2567,2567,2567,24 Feb 2017,2017,Feb,24,2017-02-24
-13,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2700,2600,19 Nov 2016,2016,Nov,19,2016-11-19
-14,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2925,2925,17 Nov 2016,2016,Nov,17,2016-11-17
-15,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2940,2925,05 Dec 2016,2016,Dec,05,2016-12-05
-16,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2612,4200,3015,24 Nov 2016,2016,Nov,24,2016-11-24
-17,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2650,4150,3333,26 Nov 2016,2016,Nov,26,2016-11-26
-18,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2665,2665,2665,02 Dec 2016,2016,Dec,02,2016-12-02
-19,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2675,4050,3040,16 Nov 2016,2016,Nov,16,2016-11-16
-20,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,2700,2700,27 Jan 2017,2017,Jan,27,2017-01-27
-21,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,2960,2960,07 Nov 2016,2016,Nov,07,2016-11-07
-22,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3025,2850,03 Nov 2016,2016,Nov,03,2016-11-03
-23,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3075,2968,28 Nov 2016,2016,Nov,28,2016-11-28
-24,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3140,2900,09 Nov 2016,2016,Nov,09,2016-11-09
-25,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3200,2900,12 Nov 2016,2016,Nov,12,2016-11-12
-26,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3290,2800,28 Jan 2017,2017,Jan,28,2017-01-28
-27,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3300,2725,08 Nov 2016,2016,Nov,08,2016-11-08
-28,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3750,3200,03 Sep 2016,2016,Sep,03,2016-09-03
-29,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,4250,2900,01 Dec 2016,2016,Dec,01,2016-12-01
-30,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,4300,3000,03 Jan 2017,2017,Jan,03,2017-01-03
-31,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,4350,2900,30 Dec 2016,2016,Dec,30,2016-12-30
-32,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,4525,4525,18 Jan 2017,2017,Jan,18,2017-01-18
-33,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2725,3225,3000,17 Oct 2016,2016,Oct,17,2016-10-17
-34,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2750,3250,2927,18 Oct 2016,2016,Oct,18,2016-10-18
-35,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2750,3300,2900,10 Nov 2016,2016,Nov,10,2016-11-10
-36,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2775,4400,3070,26 Dec 2016,2016,Dec,26,2016-12-26
-37,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2780,3480,2780,28 Oct 2016,2016,Oct,28,2016-10-28
-38,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2780,4190,2950,27 Oct 2016,2016,Oct,27,2016-10-27
-39,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2787,3980,2787,10 Jan 2017,2017,Jan,10,2017-01-10
-40,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2795,2795,2795,14 Nov 2016,2016,Nov,14,2016-11-14
-41,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2795,2965,2940,15 Nov 2016,2016,Nov,15,2016-11-15
-42,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,2800,2800,27 Dec 2016,2016,Dec,27,2016-12-27
-43,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,4160,3125,20 Feb 2017,2017,Feb,20,2017-02-20
-44,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,4400,3090,01 Feb 2017,2017,Feb,01,2017-02-01
-45,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2840,2900,2840,29 Nov 2016,2016,Nov,29,2016-11-29
-46,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2850,2970,2850,27 Feb 2017,2017,Feb,27,2017-02-27
-47,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2860,2860,2860,20 Mar 2017,2017,Mar,20,2017-03-20
-48,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2865,3000,2960,18 Nov 2016,2016,Nov,18,2016-11-18
-49,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2875,2875,2875,09 Jan 2017,2017,Jan,09,2017-01-09
-50,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2890,2890,2890,11 Mar 2017,2017,Mar,11,2017-03-11
-51,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2895,2970,2925,03 Mar 2017,2017,Mar,03,2017-03-03
-52,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2899,2900,2899,06 Mar 2017,2017,Mar,06,2017-03-06
-53,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2900,2900,05 Apr 2017,2017,Apr,05,2017-04-05
-54,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2925,2915,21 Feb 2017,2017,Feb,21,2017-02-21
-55,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2935,2900,07 Mar 2017,2017,Mar,07,2017-03-07
-56,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2943,2943,14 Mar 2017,2017,Mar,14,2017-03-14
-57,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2925,2925,2925,23 Mar 2017,2017,Mar,23,2017-03-23
-58,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2925,3565,2940,18 Feb 2017,2017,Feb,18,2017-02-18
-59,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2930,2930,2930,25 Feb 2017,2017,Feb,25,2017-02-25
-60,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2950,2950,2950,23 Nov 2016,2016,Nov,23,2016-11-23
-61,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2950,2955,2950,16 Feb 2017,2017,Feb,16,2017-02-16
-62,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2955,2955,2955,14 Feb 2017,2017,Feb,14,2017-02-14
-63,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2955,4150,2955,01 Mar 2017,2017,Mar,01,2017-03-01
-64,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2960,2960,2960,15 Feb 2017,2017,Feb,15,2017-02-15
-65,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2965,2965,2965,21 Jan 2017,2017,Jan,21,2017-01-21
-66,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2970,2970,2970,23 Jan 2017,2017,Jan,23,2017-01-23
-67,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2990,3030,3000,11 Feb 2017,2017,Feb,11,2017-02-11
-68,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2991,3030,3000,13 Feb 2017,2017,Feb,13,2017-02-13
-69,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3000,3000,3000,26 Oct 2016,2016,Oct,26,2016-10-26
-70,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3005,3005,3005,06 Apr 2017,2017,Apr,06,2017-04-06
-71,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3040,3040,3040,02 Feb 2017,2017,Feb,02,2017-02-02
-72,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3075,3275,3075,24 Oct 2016,2016,Oct,24,2016-10-24
-73,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3080,3080,3080,08 Apr 2017,2017,Apr,08,2017-04-08
-74,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3080,4150,4150,10 Feb 2017,2017,Feb,10,2017-02-10
-75,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3200,3200,3200,08 Sep 2016,2016,Sep,08,2016-09-08
-76,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3200,3200,3200,10 Sep 2016,2016,Sep,10,2016-09-10
-77,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3290,3290,3290,20 Sep 2016,2016,Sep,20,2016-09-20
-78,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3665,3955,3665,06 Sep 2016,2016,Sep,06,2016-09-06
-79,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3775,3950,3775,09 Sep 2016,2016,Sep,09,2016-09-09
-80,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,4200,4200,4200,09 Feb 2017,2017,Feb,09,2017-02-09
-81,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,4200,4200,4200,15 Dec 2016,2016,Dec,15,2016-12-15
-82,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,3200,3200,3200,07 Jul 2017,2017,Jul,07,2017-07-07
-83,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,04 Mar 2015,2015,Mar,04,2015-03-04
-84,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,24 Feb 2015,2015,Feb,24,2015-02-24
-85,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,08 Mar 2015,2015,Mar,08,2015-03-08
-86,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,22 Feb 2015,2015,Feb,22,2015-02-22
-87,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2600,0,17 Feb 2015,2015,Feb,17,2015-02-17
-88,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,3000,0,06 Mar 2015,2015,Mar,06,2015-03-06
-89,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2100,2100,2100,11 Dec 2014,2014,Dec,11,2014-12-11
-90,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,09 Dec 2014,2014,Dec,09,2014-12-09
-91,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,17 Dec 2014,2014,Dec,17,2014-12-17
-92,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,18 Nov 2014,2014,Nov,18,2014-11-18
-93,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,21 Nov 2014,2014,Nov,21,2014-11-21
-94,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,30 Dec 2014,2014,Dec,30,2014-12-30
-95,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2300,2250,01 Jan 2015,2015,Jan,01,2015-01-01
-96,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18
-97,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2211,2225,2218,07 Dec 2014,2014,Dec,07,2014-12-07
-98,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2240,2240,2240,30 Nov 2014,2014,Nov,30,2014-11-30
-99,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,06 Dec 2014,2014,Dec,06,2014-12-06
-100,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,11 Nov 2014,2014,Nov,11,2014-11-11
-101,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,23 Nov 2014,2014,Nov,23,2014-11-23
-102,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,24 Dec 2014,2014,Dec,24,2014-12-24
-103,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,26 Nov 2014,2014,Nov,26,2014-11-26
-104,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,31 Jan 2015,2015,Jan,31,2015-01-31
-105,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,05 Jan 2015,2015,Jan,05,2015-01-05
-106,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,30 Jan 2015,2015,Jan,30,2015-01-30
-107,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2380,2380,2380,07 Feb 2015,2015,Feb,07,2015-02-07
-108,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Feb 2015,2015,Feb,03,2015-02-03
-109,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Nov 2014,2014,Nov,03,2014-11-03
-110,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,13 Jan 2015,2015,Jan,13,2015-01-13
-111,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,14 Nov 2014,2014,Nov,14,2014-11-14
-112,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,26 Oct 2014,2014,Oct,26,2014-10-26
-113,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,28 Jan 2015,2015,Jan,28,2015-01-28
-114,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,06 Nov 2014,2014,Nov,06,2014-11-06
-115,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,09 Nov 2014,2014,Nov,09,2014-11-09
-116,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2500,2500,2500,26 Mar 2015,2015,Mar,26,2015-03-26
-117,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2600,2600,2600,10 Sep 2014,2014,Sep,10,2014-09-10
-118,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2800,2800,2800,09 Sep 2014,2014,Sep,09,2014-09-09
-119,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,20 Feb 2015,2015,Feb,20,2015-02-20
-120,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,27 Apr 2015,2015,Apr,27,2015-04-27
-121,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2100,2300,2195,24 Feb 2015,2015,Feb,24,2015-02-24
-122,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2160,2300,2160,23 Feb 2015,2015,Feb,23,2015-02-23
-123,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2161,2271,2161,05 Mar 2015,2015,Mar,05,2015-03-05
-124,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2200,2200,2200,08 Apr 2015,2015,Apr,08,2015-04-08
-125,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2211,2211,26 Feb 2015,2015,Feb,26,2015-02-26
-126,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2300,2300,27 Feb 2015,2015,Feb,27,2015-02-27
-127,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2215,2215,2215,25 Feb 2015,2015,Feb,25,2015-02-25
-128,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2281,2291,2281,07 Mar 2015,2015,Mar,07,2015-03-07
-129,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2150,2150,24 Feb 2015,2015,Feb,24,2015-02-24
-130,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2500,2500,10 Jun 2015,2015,Jun,10,2015-06-10
-131,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2100,2100,06 Mar 2015,2015,Mar,06,2015-03-06
-132,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2150,2150,02 Mar 2015,2015,Mar,02,2015-03-02
-133,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2200,2100,18 Mar 2015,2015,Mar,18,2015-03-18
-134,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2100,2200,2200,12 Mar 2015,2015,Mar,12,2015-03-12
-135,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,11 Mar 2015,2015,Mar,11,2015-03-11
-136,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,26 Mar 2015,2015,Mar,26,2015-03-26
-137,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18
-138,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2500,2500,15 Jun 2015,2015,Jun,15,2015-06-15
-139,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2500,2700,2700,15 May 2015,2015,May,15,2015-05-15
-140,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2600,2700,2700,22 Apr 2015,2015,Apr,22,2015-04-22
-141,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,02 Apr 2015,2015,Apr,02,2015-04-02
-142,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,27 Apr 2015,2015,Apr,27,2015-04-27
-143,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,28 Apr 2015,2015,Apr,28,2015-04-28
-144,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2700,30 Apr 2015,2015,Apr,30,2015-04-30
-145,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,12 Apr 2015,2015,Apr,12,2015-04-12
-146,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,16 May 2015,2015,May,16,2015-05-16
-147,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,27 Mar 2015,2015,Mar,27,2015-03-27
-148,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2800,2800,05 Apr 2015,2015,Apr,05,2015-04-05
-149,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,14 Apr 2015,2015,Apr,14,2015-04-14
-150,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,31 Mar 2015,2015,Mar,31,2015-03-31
-151,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,3100,3100,06 Jun 2015,2015,Jun,06,2015-06-06
-152,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2000,2200,2100,12 Dec 2014,2014,Dec,12,2014-12-12
-153,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2200,2200,11 Dec 2014,2014,Dec,11,2014-12-11
-154,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2500,2300,14 Dec 2014,2014,Dec,14,2014-12-14
-155,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2500,0,14 Aug 2015,2015,Aug,14,2015-08-14
-156,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2615,2600,09 Aug 2015,2015,Aug,09,2015-08-09
-157,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2400,2400,2400,11 Jul 2015,2015,Jul,11,2015-07-11
-158,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,02 Apr 2015,2015,Apr,02,2015-04-02
-159,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,10 Dec 2014,2014,Dec,10,2014-12-10
-160,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Feb 2015,2015,Feb,28,2015-02-28
-161,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Mar 2015,2015,Mar,28,2015-03-28
-162,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,29 May 2015,2015,May,29,2015-05-29
-163,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2350,2450,2400,21 Nov 2014,2014,Nov,21,2014-11-21
-164,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,17 Nov 2014,2014,Nov,17,2014-11-17
-165,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,18 Feb 2015,2015,Feb,18,2015-02-18
-166,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,20 Feb 2015,2015,Feb,20,2015-02-20
-167,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,22 Nov 2014,2014,Nov,22,2014-11-22
-168,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,23 Jan 2015,2015,Jan,23,2015-01-23
-169,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,31 Jan 2015,2015,Jan,31,2015-01-31
-170,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2500,2500,2500,14 Jan 2015,2015,Jan,14,2015-01-14
-171,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,1992,2975,2825,14 Oct 2015,2015,Oct,14,2015-10-14
-172,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2000,2000,2000,18 Feb 2016,2016,Feb,18,2016-02-18
-173,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2000,2750,2000,04 Feb 2016,2016,Feb,04,2016-02-04
-174,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2070,2070,2070,06 Jan 2016,2016,Jan,06,2016-01-06
-175,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2100,3200,2821,17 Nov 2015,2015,Nov,17,2015-11-17
-176,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2175,2175,2175,30 Nov 2015,2015,Nov,30,2015-11-30
-177,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2175,2585,2450,01 Dec 2015,2015,Dec,01,2015-12-01
-178,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2187,2475,2475,27 Nov 2015,2015,Nov,27,2015-11-27
-179,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2200,2250,2200,04 Dec 2015,2015,Dec,04,2015-12-04
-180,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2200,2915,2650,15 Feb 2016,2016,Feb,15,2016-02-15
-181,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2200,3550,2615,11 Dec 2015,2015,Dec,11,2015-12-11
-182,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2250,2690,2690,17 Dec 2015,2015,Dec,17,2015-12-17
-183,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2261,3200,2560,16 Nov 2015,2015,Nov,16,2015-11-16
-184,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2265,2265,2265,20 Nov 2015,2015,Nov,20,2015-11-20
-185,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2270,2270,2270,23 Nov 2015,2015,Nov,23,2015-11-23
-186,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2270,2270,2270,24 Nov 2015,2015,Nov,24,2015-11-24
-187,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2312,2800,2795,22 Dec 2015,2015,Dec,22,2015-12-22
-188,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2355,2690,2650,18 Dec 2015,2015,Dec,18,2015-12-18
-189,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2356,2590,2370,26 Nov 2015,2015,Nov,26,2015-11-26
-190,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2375,2890,2375,03 Mar 2016,2016,Mar,03,2016-03-03
-191,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2380,2380,2380,16 Jan 2016,2016,Jan,16,2016-01-16
-192,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2380,2830,2720,23 Feb 2016,2016,Feb,23,2016-02-23
-193,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2390,3550,2800,21 Dec 2015,2015,Dec,21,2015-12-21
-194,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2390,3641,2390,23 Jan 2016,2016,Jan,23,2016-01-23
-195,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2400,2900,2590,26 Oct 2015,2015,Oct,26,2015-10-26
-196,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2400,3200,2400,16 Jun 2016,2016,Jun,16,2016-06-16
-197,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2400,3550,2400,24 Dec 2015,2015,Dec,24,2015-12-24
-198,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2410,2410,2410,17 Feb 2016,2016,Feb,17,2016-02-17
-199,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2412,3550,2800,07 Nov 2015,2015,Nov,07,2015-11-07
-200,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2417,2965,2790,09 Nov 2015,2015,Nov,09,2015-11-09
-201,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2440,2440,2440,09 Feb 2016,2016,Feb,09,2016-02-09
-202,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,2500,2500,20 Jun 2016,2016,Jun,20,2016-06-20
-203,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,3350,3290,28 Oct 2015,2015,Oct,28,2015-10-28
-204,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2518,2815,2518,06 Oct 2015,2015,Oct,06,2015-10-06
-205,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2545,2600,2545,25 Jan 2016,2016,Jan,25,2016-01-25
-206,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2550,2550,2550,16 Mar 2016,2016,Mar,16,2016-03-16
-207,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2550,3010,2980,12 Oct 2015,2015,Oct,12,2015-10-12
-208,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2575,3100,2800,13 Oct 2015,2015,Oct,13,2015-10-13
-209,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2750,2740,14 Dec 2015,2015,Dec,14,2015-12-14
-210,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2765,2649,05 Nov 2015,2015,Nov,05,2015-11-05
-211,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,3000,3000,24 Jun 2016,2016,Jun,24,2016-06-24
-212,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,3350,2800,04 Nov 2015,2015,Nov,04,2015-11-04
-213,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2625,2625,2625,09 Dec 2015,2015,Dec,09,2015-12-09
-214,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2625,2725,2625,10 Dec 2015,2015,Dec,10,2015-12-10
-215,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2630,2630,2630,28 Jan 2016,2016,Jan,28,2016-01-28
-216,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2665,2665,2665,08 Apr 2016,2016,Apr,08,2016-04-08
-217,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3200,3125,11 Nov 2015,2015,Nov,11,2015-11-11
-218,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3225,2939,28 Mar 2016,2016,Mar,28,2016-03-28
-219,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2725,2725,2725,06 Apr 2016,2016,Apr,06,2016-04-06
-220,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2730,2730,2730,24 Oct 2015,2015,Oct,24,2015-10-24
-221,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2750,2825,2750,04 Apr 2016,2016,Apr,04,2016-04-04
-222,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2750,3146,3010,19 Oct 2015,2015,Oct,19,2015-10-19
-223,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2775,2860,2825,22 Feb 2016,2016,Feb,22,2016-02-22
-224,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,2800,2800,17 Oct 2015,2015,Oct,17,2015-10-17
-225,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,2900,2850,01 Jun 2016,2016,Jun,01,2016-06-01
-226,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,3365,2800,13 Jun 2016,2016,Jun,13,2016-06-13
-227,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,3650,3600,11 Jul 2016,2016,Jul,11,2016-07-11
-228,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,3980,3860,25 Jul 2016,2016,Jul,25,2016-07-25
-229,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2815,2880,2815,02 Oct 2015,2015,Oct,02,2015-10-02
-230,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2825,2825,2825,13 Apr 2016,2016,Apr,13,2016-04-13
-231,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2825,2940,2825,20 Oct 2015,2015,Oct,20,2015-10-20
-232,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2850,2850,2850,05 Oct 2015,2015,Oct,05,2015-10-05
-233,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2875,3025,2950,29 Mar 2016,2016,Mar,29,2016-03-29
-234,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2900,2900,10 Feb 2016,2016,Feb,10,2016-02-10
-235,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2900,2900,30 Aug 2016,2016,Aug,30,2016-08-30
-236,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,3000,2900,07 Jun 2016,2016,Jun,07,2016-06-07
-237,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2930,2930,2930,05 May 2016,2016,May,05,2016-05-05
-238,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3000,3000,3000,06 Jun 2016,2016,Jun,06,2016-06-06
-239,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3000,3000,3000,22 Oct 2015,2015,Oct,22,2015-10-22
-240,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3000,3310,3000,02 Jun 2016,2016,Jun,02,2016-06-02
-241,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3020,3020,3020,18 Apr 2016,2016,Apr,18,2016-04-18
-242,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3060,3180,3060,08 Feb 2016,2016,Feb,08,2016-02-08
-243,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3200,3750,3200,23 Aug 2016,2016,Aug,23,2016-08-23
-244,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3300,3300,3300,08 Jun 2016,2016,Jun,08,2016-06-08
-245,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3300,3300,3300,27 Jun 2016,2016,Jun,27,2016-06-27
-246,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3420,3420,3420,18 Jun 2016,2016,Jun,18,2016-06-18
-247,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3510,3510,3510,20 Jan 2016,2016,Jan,20,2016-01-20
-248,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3650,3650,3650,21 Apr 2016,2016,Apr,21,2016-04-21
-249,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3810,3810,3810,22 Jul 2016,2016,Jul,22,2016-07-22
-250,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3825,3825,3825,05 Aug 2016,2016,Aug,05,2016-08-05
-251,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3840,3840,3840,04 Aug 2016,2016,Aug,04,2016-08-04
-252,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2350,0,17 Sep 2015,2015,Sep,17,2015-09-17
-253,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2400,0,09 Sep 2015,2015,Sep,09,2015-09-09
-254,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2100,2100,2100,27 Nov 2015,2015,Nov,27,2015-11-27
-255,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2200,2200,2200,15 Oct 2015,2015,Oct,15,2015-10-15
-256,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2200,2200,2200,27 Dec 2015,2015,Dec,27,2015-12-27
-257,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2250,2500,2325,04 Sep 2015,2015,Sep,04,2015-09-04
-258,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2425,2435,2425,02 Sep 2015,2015,Sep,02,2015-09-02
-259,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2500,2500,2500,21 Oct 2015,2015,Oct,21,2015-10-21
-260,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2500,2500,2500,29 Oct 2015,2015,Oct,29,2015-10-29
-261,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2500,2500,2500,30 Dec 2015,2015,Dec,30,2015-12-30
-262,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2500,2500,2500,31 Dec 2015,2015,Dec,31,2015-12-31
-263,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,3740,3740,3740,02 Oct 2015,2015,Oct,02,2015-10-02
-264,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2500,2500,2500,25 Sep 2015,2015,Sep,25,2015-09-25
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Bhiwani,Behal,Gur(Jaggery),Khandsari,FAQ,2855,2855,2855,02 Nov 2016,2016,Nov,2,2016-11-02
+1,1.0,Bhiwani,Behal,Gur(Jaggery),Khandsari,FAQ,3540,3540,3540,18 Nov 2016,2016,Nov,18,2016-11-18
+2,2.0,Bhiwani,Behal,Gur(Jaggery),Khandsari,FAQ,3875,3875,3875,29 Sep 2016,2016,Sep,29,2016-09-29
+3,3.0,Hissar,Narnaund,Gur(Jaggery),Other,FAQ,3000,3500,3200,30 Jun 2017,2017,Jun,30,2017-06-30
+4,4.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,1600,1600,1600,27 Mar 2017,2017,Mar,27,2017-03-27
+5,5.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2498,2800,2700,19 Jan 2017,2017,Jan,19,2017-01-19
+6,6.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,2500,2500,07 Sep 2016,2016,Sep,7,2016-09-07
+7,7.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,3117,2500,14 Oct 2016,2016,Oct,14,2016-10-14
+8,8.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,3125,2860,16 Jan 2017,2017,Jan,16,2017-01-16
+9,9.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,3200,2900,19 Oct 2016,2016,Oct,19,2016-10-19
+10,10.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2523,2523,2523,08 Mar 2017,2017,Mar,8,2017-03-08
+11,11.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2528,3050,2831,25 Oct 2016,2016,Oct,25,2016-10-25
+12,12.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2567,2567,2567,24 Feb 2017,2017,Feb,24,2017-02-24
+13,13.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2700,2600,19 Nov 2016,2016,Nov,19,2016-11-19
+14,14.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2925,2925,17 Nov 2016,2016,Nov,17,2016-11-17
+15,15.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2940,2925,05 Dec 2016,2016,Dec,5,2016-12-05
+16,16.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2612,4200,3015,24 Nov 2016,2016,Nov,24,2016-11-24
+17,17.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2650,4150,3333,26 Nov 2016,2016,Nov,26,2016-11-26
+18,18.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2665,2665,2665,02 Dec 2016,2016,Dec,2,2016-12-02
+19,19.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2675,4050,3040,16 Nov 2016,2016,Nov,16,2016-11-16
+20,20.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,2700,2700,27 Jan 2017,2017,Jan,27,2017-01-27
+21,21.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,2960,2960,07 Nov 2016,2016,Nov,7,2016-11-07
+22,22.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3025,2850,03 Nov 2016,2016,Nov,3,2016-11-03
+23,23.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3075,2968,28 Nov 2016,2016,Nov,28,2016-11-28
+24,24.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3140,2900,09 Nov 2016,2016,Nov,9,2016-11-09
+25,25.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3200,2900,12 Nov 2016,2016,Nov,12,2016-11-12
+26,26.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3290,2800,28 Jan 2017,2017,Jan,28,2017-01-28
+27,27.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3300,2725,08 Nov 2016,2016,Nov,8,2016-11-08
+28,28.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3750,3200,03 Sep 2016,2016,Sep,3,2016-09-03
+29,29.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,4250,2900,01 Dec 2016,2016,Dec,1,2016-12-01
+30,30.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,4300,3000,03 Jan 2017,2017,Jan,3,2017-01-03
+31,31.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,4350,2900,30 Dec 2016,2016,Dec,30,2016-12-30
+32,32.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,4525,4525,18 Jan 2017,2017,Jan,18,2017-01-18
+33,33.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2725,3225,3000,17 Oct 2016,2016,Oct,17,2016-10-17
+34,34.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2750,3250,2927,18 Oct 2016,2016,Oct,18,2016-10-18
+35,35.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2750,3300,2900,10 Nov 2016,2016,Nov,10,2016-11-10
+36,36.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2775,4400,3070,26 Dec 2016,2016,Dec,26,2016-12-26
+37,37.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2780,3480,2780,28 Oct 2016,2016,Oct,28,2016-10-28
+38,38.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2780,4190,2950,27 Oct 2016,2016,Oct,27,2016-10-27
+39,39.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2787,3980,2787,10 Jan 2017,2017,Jan,10,2017-01-10
+40,40.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2795,2795,2795,14 Nov 2016,2016,Nov,14,2016-11-14
+41,41.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2795,2965,2940,15 Nov 2016,2016,Nov,15,2016-11-15
+42,42.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,2800,2800,27 Dec 2016,2016,Dec,27,2016-12-27
+43,43.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,4160,3125,20 Feb 2017,2017,Feb,20,2017-02-20
+44,44.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,4400,3090,01 Feb 2017,2017,Feb,1,2017-02-01
+45,45.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2840,2900,2840,29 Nov 2016,2016,Nov,29,2016-11-29
+46,46.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2850,2970,2850,27 Feb 2017,2017,Feb,27,2017-02-27
+47,47.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2860,2860,2860,20 Mar 2017,2017,Mar,20,2017-03-20
+48,48.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2865,3000,2960,18 Nov 2016,2016,Nov,18,2016-11-18
+49,49.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2875,2875,2875,09 Jan 2017,2017,Jan,9,2017-01-09
+50,50.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2890,2890,2890,11 Mar 2017,2017,Mar,11,2017-03-11
+51,51.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2895,2970,2925,03 Mar 2017,2017,Mar,3,2017-03-03
+52,52.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2899,2900,2899,06 Mar 2017,2017,Mar,6,2017-03-06
+53,53.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2900,2900,05 Apr 2017,2017,Apr,5,2017-04-05
+54,54.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2925,2915,21 Feb 2017,2017,Feb,21,2017-02-21
+55,55.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2935,2900,07 Mar 2017,2017,Mar,7,2017-03-07
+56,56.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2943,2943,14 Mar 2017,2017,Mar,14,2017-03-14
+57,57.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2925,2925,2925,23 Mar 2017,2017,Mar,23,2017-03-23
+58,58.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2925,3565,2940,18 Feb 2017,2017,Feb,18,2017-02-18
+59,59.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2930,2930,2930,25 Feb 2017,2017,Feb,25,2017-02-25
+60,60.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2950,2950,2950,23 Nov 2016,2016,Nov,23,2016-11-23
+61,61.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2950,2955,2950,16 Feb 2017,2017,Feb,16,2017-02-16
+62,62.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2955,2955,2955,14 Feb 2017,2017,Feb,14,2017-02-14
+63,63.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2955,4150,2955,01 Mar 2017,2017,Mar,1,2017-03-01
+64,64.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2960,2960,2960,15 Feb 2017,2017,Feb,15,2017-02-15
+65,65.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2965,2965,2965,21 Jan 2017,2017,Jan,21,2017-01-21
+66,66.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2970,2970,2970,23 Jan 2017,2017,Jan,23,2017-01-23
+67,67.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2990,3030,3000,11 Feb 2017,2017,Feb,11,2017-02-11
+68,68.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2991,3030,3000,13 Feb 2017,2017,Feb,13,2017-02-13
+69,69.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3000,3000,3000,26 Oct 2016,2016,Oct,26,2016-10-26
+70,70.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3005,3005,3005,06 Apr 2017,2017,Apr,6,2017-04-06
+71,71.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3040,3040,3040,02 Feb 2017,2017,Feb,2,2017-02-02
+72,72.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3075,3275,3075,24 Oct 2016,2016,Oct,24,2016-10-24
+73,73.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3080,3080,3080,08 Apr 2017,2017,Apr,8,2017-04-08
+74,74.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3080,4150,4150,10 Feb 2017,2017,Feb,10,2017-02-10
+75,75.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3200,3200,3200,08 Sep 2016,2016,Sep,8,2016-09-08
+76,76.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3200,3200,3200,10 Sep 2016,2016,Sep,10,2016-09-10
+77,77.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3290,3290,3290,20 Sep 2016,2016,Sep,20,2016-09-20
+78,78.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3665,3955,3665,06 Sep 2016,2016,Sep,6,2016-09-06
+79,79.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3775,3950,3775,09 Sep 2016,2016,Sep,9,2016-09-09
+80,80.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,4200,4200,4200,09 Feb 2017,2017,Feb,9,2017-02-09
+81,81.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,4200,4200,4200,15 Dec 2016,2016,Dec,15,2016-12-15
+82,82.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,3200,3200,3200,07 Jul 2017,2017,Jul,7,2017-07-07
+83,83.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,04 Mar 2015,2015,Mar,4,2015-03-04
+84,84.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,24 Feb 2015,2015,Feb,24,2015-02-24
+85,85.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,08 Mar 2015,2015,Mar,8,2015-03-08
+86,86.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,22 Feb 2015,2015,Feb,22,2015-02-22
+87,87.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2600,0,17 Feb 2015,2015,Feb,17,2015-02-17
+88,88.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,3000,0,06 Mar 2015,2015,Mar,6,2015-03-06
+89,89.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2100,2100,2100,11 Dec 2014,2014,Dec,11,2014-12-11
+90,90.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,09 Dec 2014,2014,Dec,9,2014-12-09
+91,91.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,17 Dec 2014,2014,Dec,17,2014-12-17
+92,92.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,18 Nov 2014,2014,Nov,18,2014-11-18
+93,93.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,21 Nov 2014,2014,Nov,21,2014-11-21
+94,94.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,30 Dec 2014,2014,Dec,30,2014-12-30
+95,95.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2300,2250,01 Jan 2015,2015,Jan,1,2015-01-01
+96,96.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18
+97,97.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2211,2225,2218,07 Dec 2014,2014,Dec,7,2014-12-07
+98,98.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2240,2240,2240,30 Nov 2014,2014,Nov,30,2014-11-30
+99,99.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,06 Dec 2014,2014,Dec,6,2014-12-06
+100,100.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,11 Nov 2014,2014,Nov,11,2014-11-11
+101,101.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,23 Nov 2014,2014,Nov,23,2014-11-23
+102,102.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,24 Dec 2014,2014,Dec,24,2014-12-24
+103,103.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,26 Nov 2014,2014,Nov,26,2014-11-26
+104,104.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,31 Jan 2015,2015,Jan,31,2015-01-31
+105,105.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,05 Jan 2015,2015,Jan,5,2015-01-05
+106,106.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,30 Jan 2015,2015,Jan,30,2015-01-30
+107,107.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2380,2380,2380,07 Feb 2015,2015,Feb,7,2015-02-07
+108,108.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Feb 2015,2015,Feb,3,2015-02-03
+109,109.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Nov 2014,2014,Nov,3,2014-11-03
+110,110.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,13 Jan 2015,2015,Jan,13,2015-01-13
+111,111.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,14 Nov 2014,2014,Nov,14,2014-11-14
+112,112.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,26 Oct 2014,2014,Oct,26,2014-10-26
+113,113.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,28 Jan 2015,2015,Jan,28,2015-01-28
+114,114.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,06 Nov 2014,2014,Nov,6,2014-11-06
+115,115.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,09 Nov 2014,2014,Nov,9,2014-11-09
+116,116.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2500,2500,2500,26 Mar 2015,2015,Mar,26,2015-03-26
+117,117.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2600,2600,2600,10 Sep 2014,2014,Sep,10,2014-09-10
+118,118.0,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2800,2800,2800,09 Sep 2014,2014,Sep,9,2014-09-09
+119,119.0,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,20 Feb 2015,2015,Feb,20,2015-02-20
+120,120.0,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,27 Apr 2015,2015,Apr,27,2015-04-27
+121,121.0,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2100,2300,2195,24 Feb 2015,2015,Feb,24,2015-02-24
+122,122.0,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2160,2300,2160,23 Feb 2015,2015,Feb,23,2015-02-23
+123,123.0,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2161,2271,2161,05 Mar 2015,2015,Mar,5,2015-03-05
+124,124.0,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2200,2200,2200,08 Apr 2015,2015,Apr,8,2015-04-08
+125,125.0,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2211,2211,26 Feb 2015,2015,Feb,26,2015-02-26
+126,126.0,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2300,2300,27 Feb 2015,2015,Feb,27,2015-02-27
+127,127.0,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2215,2215,2215,25 Feb 2015,2015,Feb,25,2015-02-25
+128,128.0,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2281,2291,2281,07 Mar 2015,2015,Mar,7,2015-03-07
+129,129.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2150,2150,24 Feb 2015,2015,Feb,24,2015-02-24
+130,130.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2500,2500,10 Jun 2015,2015,Jun,10,2015-06-10
+131,131.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2100,2100,06 Mar 2015,2015,Mar,6,2015-03-06
+132,132.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2150,2150,02 Mar 2015,2015,Mar,2,2015-03-02
+133,133.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2200,2100,18 Mar 2015,2015,Mar,18,2015-03-18
+134,134.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2100,2200,2200,12 Mar 2015,2015,Mar,12,2015-03-12
+135,135.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,11 Mar 2015,2015,Mar,11,2015-03-11
+136,136.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,26 Mar 2015,2015,Mar,26,2015-03-26
+137,137.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18
+138,138.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2500,2500,15 Jun 2015,2015,Jun,15,2015-06-15
+139,139.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2500,2700,2700,15 May 2015,2015,May,15,2015-05-15
+140,140.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2600,2700,2700,22 Apr 2015,2015,Apr,22,2015-04-22
+141,141.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,02 Apr 2015,2015,Apr,2,2015-04-02
+142,142.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,27 Apr 2015,2015,Apr,27,2015-04-27
+143,143.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,28 Apr 2015,2015,Apr,28,2015-04-28
+144,144.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2700,30 Apr 2015,2015,Apr,30,2015-04-30
+145,145.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,12 Apr 2015,2015,Apr,12,2015-04-12
+146,146.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,16 May 2015,2015,May,16,2015-05-16
+147,147.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,27 Mar 2015,2015,Mar,27,2015-03-27
+148,148.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2800,2800,05 Apr 2015,2015,Apr,5,2015-04-05
+149,149.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,14 Apr 2015,2015,Apr,14,2015-04-14
+150,150.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,31 Mar 2015,2015,Mar,31,2015-03-31
+151,151.0,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,3100,3100,06 Jun 2015,2015,Jun,6,2015-06-06
+152,152.0,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2000,2200,2100,12 Dec 2014,2014,Dec,12,2014-12-12
+153,153.0,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2200,2200,11 Dec 2014,2014,Dec,11,2014-12-11
+154,154.0,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2500,2300,14 Dec 2014,2014,Dec,14,2014-12-14
+155,155.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2500,0,14 Aug 2015,2015,Aug,14,2015-08-14
+156,156.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2615,2600,09 Aug 2015,2015,Aug,9,2015-08-09
+157,157.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2400,2400,2400,11 Jul 2015,2015,Jul,11,2015-07-11
+158,158.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,02 Apr 2015,2015,Apr,2,2015-04-02
+159,159.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,10 Dec 2014,2014,Dec,10,2014-12-10
+160,160.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Feb 2015,2015,Feb,28,2015-02-28
+161,161.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Mar 2015,2015,Mar,28,2015-03-28
+162,162.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,29 May 2015,2015,May,29,2015-05-29
+163,163.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2350,2450,2400,21 Nov 2014,2014,Nov,21,2014-11-21
+164,164.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,17 Nov 2014,2014,Nov,17,2014-11-17
+165,165.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,18 Feb 2015,2015,Feb,18,2015-02-18
+166,166.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,20 Feb 2015,2015,Feb,20,2015-02-20
+167,167.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,22 Nov 2014,2014,Nov,22,2014-11-22
+168,168.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,23 Jan 2015,2015,Jan,23,2015-01-23
+169,169.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,31 Jan 2015,2015,Jan,31,2015-01-31
+170,170.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2500,2500,2500,14 Jan 2015,2015,Jan,14,2015-01-14
+171,171.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,1992,2975,2825,14 Oct 2015,2015,Oct,14,2015-10-14
+172,172.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2000,2000,2000,18 Feb 2016,2016,Feb,18,2016-02-18
+173,173.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2000,2750,2000,04 Feb 2016,2016,Feb,4,2016-02-04
+174,174.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2070,2070,2070,06 Jan 2016,2016,Jan,6,2016-01-06
+175,175.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2100,3200,2821,17 Nov 2015,2015,Nov,17,2015-11-17
+176,176.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2175,2175,2175,30 Nov 2015,2015,Nov,30,2015-11-30
+177,177.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2175,2585,2450,01 Dec 2015,2015,Dec,1,2015-12-01
+178,178.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2187,2475,2475,27 Nov 2015,2015,Nov,27,2015-11-27
+179,179.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2200,2250,2200,04 Dec 2015,2015,Dec,4,2015-12-04
+180,180.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2200,2915,2650,15 Feb 2016,2016,Feb,15,2016-02-15
+181,181.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2200,3550,2615,11 Dec 2015,2015,Dec,11,2015-12-11
+182,182.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2250,2690,2690,17 Dec 2015,2015,Dec,17,2015-12-17
+183,183.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2261,3200,2560,16 Nov 2015,2015,Nov,16,2015-11-16
+184,184.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2265,2265,2265,20 Nov 2015,2015,Nov,20,2015-11-20
+185,185.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2270,2270,2270,23 Nov 2015,2015,Nov,23,2015-11-23
+186,186.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2270,2270,2270,24 Nov 2015,2015,Nov,24,2015-11-24
+187,187.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2312,2800,2795,22 Dec 2015,2015,Dec,22,2015-12-22
+188,188.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2355,2690,2650,18 Dec 2015,2015,Dec,18,2015-12-18
+189,189.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2356,2590,2370,26 Nov 2015,2015,Nov,26,2015-11-26
+190,190.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2375,2890,2375,03 Mar 2016,2016,Mar,3,2016-03-03
+191,191.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2380,2380,2380,16 Jan 2016,2016,Jan,16,2016-01-16
+192,192.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2380,2830,2720,23 Feb 2016,2016,Feb,23,2016-02-23
+193,193.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2390,3550,2800,21 Dec 2015,2015,Dec,21,2015-12-21
+194,194.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2390,3641,2390,23 Jan 2016,2016,Jan,23,2016-01-23
+195,195.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2400,2900,2590,26 Oct 2015,2015,Oct,26,2015-10-26
+196,196.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2400,3200,2400,16 Jun 2016,2016,Jun,16,2016-06-16
+197,197.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2400,3550,2400,24 Dec 2015,2015,Dec,24,2015-12-24
+198,198.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2410,2410,2410,17 Feb 2016,2016,Feb,17,2016-02-17
+199,199.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2412,3550,2800,07 Nov 2015,2015,Nov,7,2015-11-07
+200,200.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2417,2965,2790,09 Nov 2015,2015,Nov,9,2015-11-09
+201,201.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2440,2440,2440,09 Feb 2016,2016,Feb,9,2016-02-09
+202,202.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,2500,2500,20 Jun 2016,2016,Jun,20,2016-06-20
+203,203.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2500,3350,3290,28 Oct 2015,2015,Oct,28,2015-10-28
+204,204.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2518,2815,2518,06 Oct 2015,2015,Oct,6,2015-10-06
+205,205.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2545,2600,2545,25 Jan 2016,2016,Jan,25,2016-01-25
+206,206.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2550,2550,2550,16 Mar 2016,2016,Mar,16,2016-03-16
+207,207.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2550,3010,2980,12 Oct 2015,2015,Oct,12,2015-10-12
+208,208.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2575,3100,2800,13 Oct 2015,2015,Oct,13,2015-10-13
+209,209.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2750,2740,14 Dec 2015,2015,Dec,14,2015-12-14
+210,210.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,2765,2649,05 Nov 2015,2015,Nov,5,2015-11-05
+211,211.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,3000,3000,24 Jun 2016,2016,Jun,24,2016-06-24
+212,212.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2600,3350,2800,04 Nov 2015,2015,Nov,4,2015-11-04
+213,213.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2625,2625,2625,09 Dec 2015,2015,Dec,9,2015-12-09
+214,214.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2625,2725,2625,10 Dec 2015,2015,Dec,10,2015-12-10
+215,215.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2630,2630,2630,28 Jan 2016,2016,Jan,28,2016-01-28
+216,216.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2665,2665,2665,08 Apr 2016,2016,Apr,8,2016-04-08
+217,217.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3200,3125,11 Nov 2015,2015,Nov,11,2015-11-11
+218,218.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2700,3225,2939,28 Mar 2016,2016,Mar,28,2016-03-28
+219,219.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2725,2725,2725,06 Apr 2016,2016,Apr,6,2016-04-06
+220,220.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2730,2730,2730,24 Oct 2015,2015,Oct,24,2015-10-24
+221,221.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2750,2825,2750,04 Apr 2016,2016,Apr,4,2016-04-04
+222,222.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2750,3146,3010,19 Oct 2015,2015,Oct,19,2015-10-19
+223,223.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2775,2860,2825,22 Feb 2016,2016,Feb,22,2016-02-22
+224,224.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,2800,2800,17 Oct 2015,2015,Oct,17,2015-10-17
+225,225.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,2900,2850,01 Jun 2016,2016,Jun,1,2016-06-01
+226,226.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,3365,2800,13 Jun 2016,2016,Jun,13,2016-06-13
+227,227.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,3650,3600,11 Jul 2016,2016,Jul,11,2016-07-11
+228,228.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2800,3980,3860,25 Jul 2016,2016,Jul,25,2016-07-25
+229,229.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2815,2880,2815,02 Oct 2015,2015,Oct,2,2015-10-02
+230,230.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2825,2825,2825,13 Apr 2016,2016,Apr,13,2016-04-13
+231,231.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2825,2940,2825,20 Oct 2015,2015,Oct,20,2015-10-20
+232,232.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2850,2850,2850,05 Oct 2015,2015,Oct,5,2015-10-05
+233,233.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2875,3025,2950,29 Mar 2016,2016,Mar,29,2016-03-29
+234,234.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2900,2900,10 Feb 2016,2016,Feb,10,2016-02-10
+235,235.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,2900,2900,30 Aug 2016,2016,Aug,30,2016-08-30
+236,236.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2900,3000,2900,07 Jun 2016,2016,Jun,7,2016-06-07
+237,237.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,2930,2930,2930,05 May 2016,2016,May,5,2016-05-05
+238,238.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3000,3000,3000,06 Jun 2016,2016,Jun,6,2016-06-06
+239,239.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3000,3000,3000,22 Oct 2015,2015,Oct,22,2015-10-22
+240,240.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3000,3310,3000,02 Jun 2016,2016,Jun,2,2016-06-02
+241,241.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3020,3020,3020,18 Apr 2016,2016,Apr,18,2016-04-18
+242,242.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3060,3180,3060,08 Feb 2016,2016,Feb,8,2016-02-08
+243,243.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3200,3750,3200,23 Aug 2016,2016,Aug,23,2016-08-23
+244,244.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3300,3300,3300,08 Jun 2016,2016,Jun,8,2016-06-08
+245,245.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3300,3300,3300,27 Jun 2016,2016,Jun,27,2016-06-27
+246,246.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3420,3420,3420,18 Jun 2016,2016,Jun,18,2016-06-18
+247,247.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3510,3510,3510,20 Jan 2016,2016,Jan,20,2016-01-20
+248,248.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3650,3650,3650,21 Apr 2016,2016,Apr,21,2016-04-21
+249,249.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3810,3810,3810,22 Jul 2016,2016,Jul,22,2016-07-22
+250,250.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3825,3825,3825,05 Aug 2016,2016,Aug,5,2016-08-05
+251,251.0,Sirsa,Sirsa,Gur(Jaggery),Other,FAQ,3840,3840,3840,04 Aug 2016,2016,Aug,4,2016-08-04
+252,252.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2350,0,17 Sep 2015,2015,Sep,17,2015-09-17
+253,253.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2400,0,09 Sep 2015,2015,Sep,9,2015-09-09
+254,254.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2100,2100,2100,27 Nov 2015,2015,Nov,27,2015-11-27
+255,255.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2200,2200,2200,15 Oct 2015,2015,Oct,15,2015-10-15
+256,256.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2200,2200,2200,27 Dec 2015,2015,Dec,27,2015-12-27
+257,257.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2250,2500,2325,04 Sep 2015,2015,Sep,4,2015-09-04
+258,258.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2425,2435,2425,02 Sep 2015,2015,Sep,2,2015-09-02
+259,259.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2500,2500,2500,21 Oct 2015,2015,Oct,21,2015-10-21
+260,260.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2500,2500,2500,29 Oct 2015,2015,Oct,29,2015-10-29
+261,261.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2500,2500,2500,30 Dec 2015,2015,Dec,30,2015-12-30
+262,262.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2500,2500,2500,31 Dec 2015,2015,Dec,31,2015-12-31
+263,263.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,3740,3740,3740,02 Oct 2015,2015,Oct,2,2015-10-02
+264,264.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2500,2500,2500,25 Sep 2015,2015,Sep,25,2015-09-25
+265,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,04 Mar 2015,2015,Mar,04,2015-03-04 00:00:00
+266,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,24 Feb 2015,2015,Feb,24,2015-02-24 00:00:00
+267,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,08 Mar 2015,2015,Mar,08,2015-03-08 00:00:00
+268,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,22 Feb 2015,2015,Feb,22,2015-02-22 00:00:00
+269,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2600,0,17 Feb 2015,2015,Feb,17,2015-02-17 00:00:00
+270,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,3000,0,06 Mar 2015,2015,Mar,06,2015-03-06 00:00:00
+271,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2100,2100,2100,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
+272,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
+273,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,17 Dec 2014,2014,Dec,17,2014-12-17 00:00:00
+274,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
+275,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
+276,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,30 Dec 2014,2014,Dec,30,2014-12-30 00:00:00
+277,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2300,2250,01 Jan 2015,2015,Jan,01,2015-01-01 00:00:00
+278,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
+279,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2211,2225,2218,07 Dec 2014,2014,Dec,07,2014-12-07 00:00:00
+280,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2240,2240,2240,30 Nov 2014,2014,Nov,30,2014-11-30 00:00:00
+281,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,06 Dec 2014,2014,Dec,06,2014-12-06 00:00:00
+282,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
+283,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,23 Nov 2014,2014,Nov,23,2014-11-23 00:00:00
+284,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,24 Dec 2014,2014,Dec,24,2014-12-24 00:00:00
+285,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
+286,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,31 Jan 2015,2015,Jan,31,2015-01-31 00:00:00
+287,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,05 Jan 2015,2015,Jan,05,2015-01-05 00:00:00
+288,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,30 Jan 2015,2015,Jan,30,2015-01-30 00:00:00
+289,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2380,2380,2380,07 Feb 2015,2015,Feb,07,2015-02-07 00:00:00
+290,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Feb 2015,2015,Feb,03,2015-02-03 00:00:00
+291,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Nov 2014,2014,Nov,03,2014-11-03 00:00:00
+292,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,13 Jan 2015,2015,Jan,13,2015-01-13 00:00:00
+293,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
+294,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,26 Oct 2014,2014,Oct,26,2014-10-26 00:00:00
+295,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,28 Jan 2015,2015,Jan,28,2015-01-28 00:00:00
+296,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
+297,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,09 Nov 2014,2014,Nov,09,2014-11-09 00:00:00
+298,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2500,2500,2500,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
+299,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2600,2600,2600,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
+300,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2800,2800,2800,09 Sep 2014,2014,Sep,09,2014-09-09 00:00:00
+301,,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,20 Feb 2015,2015,Feb,20,2015-02-20 00:00:00
+302,,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,27 Apr 2015,2015,Apr,27,2015-04-27 00:00:00
+303,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2100,2300,2195,24 Feb 2015,2015,Feb,24,2015-02-24 00:00:00
+304,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2160,2300,2160,23 Feb 2015,2015,Feb,23,2015-02-23 00:00:00
+305,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2161,2271,2161,05 Mar 2015,2015,Mar,05,2015-03-05 00:00:00
+306,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2200,2200,2200,08 Apr 2015,2015,Apr,08,2015-04-08 00:00:00
+307,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2211,2211,26 Feb 2015,2015,Feb,26,2015-02-26 00:00:00
+308,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2300,2300,27 Feb 2015,2015,Feb,27,2015-02-27 00:00:00
+309,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2215,2215,2215,25 Feb 2015,2015,Feb,25,2015-02-25 00:00:00
+310,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2281,2291,2281,07 Mar 2015,2015,Mar,07,2015-03-07 00:00:00
+311,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2150,2150,24 Feb 2015,2015,Feb,24,2015-02-24 00:00:00
+312,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2500,2500,10 Jun 2015,2015,Jun,10,2015-06-10 00:00:00
+313,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2100,2100,06 Mar 2015,2015,Mar,06,2015-03-06 00:00:00
+314,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2150,2150,02 Mar 2015,2015,Mar,02,2015-03-02 00:00:00
+315,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2200,2100,18 Mar 2015,2015,Mar,18,2015-03-18 00:00:00
+316,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2100,2200,2200,12 Mar 2015,2015,Mar,12,2015-03-12 00:00:00
+317,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,11 Mar 2015,2015,Mar,11,2015-03-11 00:00:00
+318,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
+319,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
+320,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2500,2500,15 Jun 2015,2015,Jun,15,2015-06-15 00:00:00
+321,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2500,2700,2700,15 May 2015,2015,May,15,2015-05-15 00:00:00
+322,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2600,2700,2700,22 Apr 2015,2015,Apr,22,2015-04-22 00:00:00
+323,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,02 Apr 2015,2015,Apr,02,2015-04-02 00:00:00
+324,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,27 Apr 2015,2015,Apr,27,2015-04-27 00:00:00
+325,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,28 Apr 2015,2015,Apr,28,2015-04-28 00:00:00
+326,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2700,30 Apr 2015,2015,Apr,30,2015-04-30 00:00:00
+327,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,12 Apr 2015,2015,Apr,12,2015-04-12 00:00:00
+328,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,16 May 2015,2015,May,16,2015-05-16 00:00:00
+329,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,27 Mar 2015,2015,Mar,27,2015-03-27 00:00:00
+330,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2800,2800,05 Apr 2015,2015,Apr,05,2015-04-05 00:00:00
+331,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,14 Apr 2015,2015,Apr,14,2015-04-14 00:00:00
+332,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,31 Mar 2015,2015,Mar,31,2015-03-31 00:00:00
+333,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,3100,3100,06 Jun 2015,2015,Jun,06,2015-06-06 00:00:00
+334,,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2000,2200,2100,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
+335,,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2200,2200,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
+336,,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2500,2300,14 Dec 2014,2014,Dec,14,2014-12-14 00:00:00
+337,,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2500,0,14 Aug 2015,2015,Aug,14,2015-08-14 00:00:00
+338,,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2615,2600,09 Aug 2015,2015,Aug,09,2015-08-09 00:00:00
+339,,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2400,2400,2400,11 Jul 2015,2015,Jul,11,2015-07-11 00:00:00
+340,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,02 Apr 2015,2015,Apr,02,2015-04-02 00:00:00
+341,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,10 Dec 2014,2014,Dec,10,2014-12-10 00:00:00
+342,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Feb 2015,2015,Feb,28,2015-02-28 00:00:00
+343,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Mar 2015,2015,Mar,28,2015-03-28 00:00:00
+344,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,29 May 2015,2015,May,29,2015-05-29 00:00:00
+345,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2350,2450,2400,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
+346,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
+347,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,18 Feb 2015,2015,Feb,18,2015-02-18 00:00:00
+348,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,20 Feb 2015,2015,Feb,20,2015-02-20 00:00:00
+349,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,22 Nov 2014,2014,Nov,22,2014-11-22 00:00:00
+350,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,23 Jan 2015,2015,Jan,23,2015-01-23 00:00:00
+351,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,31 Jan 2015,2015,Jan,31,2015-01-31 00:00:00
+352,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2500,2500,2500,14 Jan 2015,2015,Jan,14,2015-01-14 00:00:00

@@ -1,21 +1,41 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4050,4450,4250,01 Sep 2014,2014,Sep,01,2014-09-01
-1,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4150,4350,4250,20 Sep 2014,2014,Sep,20,2014-09-20
-2,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4150,4450,4320,23 Sep 2014,2014,Sep,23,2014-09-23
-3,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4150,4450,4430,24 Sep 2014,2014,Sep,24,2014-09-24
-4,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4450,4320,19 Sep 2014,2014,Sep,19,2014-09-19
-5,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4450,4370,18 Sep 2014,2014,Sep,18,2014-09-18
-6,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4500,4320,16 Sep 2014,2014,Sep,16,2014-09-16
-7,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4550,4480,04 Sep 2014,2014,Sep,04,2014-09-04
-8,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4280,4550,4420,03 Sep 2014,2014,Sep,03,2014-09-03
-9,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,03 Sep 2014,2014,Sep,03,2014-09-03
-10,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,04 Sep 2014,2014,Sep,04,2014-09-04
-11,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,07 Sep 2014,2014,Sep,07,2014-09-07
-12,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,11 Sep 2014,2014,Sep,11,2014-09-11
-13,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6200,5800,27 Sep 2014,2014,Sep,27,2014-09-27
-14,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6200,5800,28 Sep 2014,2014,Sep,28,2014-09-28
-15,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6500,6200,20 Sep 2014,2014,Sep,20,2014-09-20
-16,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6500,6200,21 Sep 2014,2014,Sep,21,2014-09-21
-17,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6500,6200,25 Sep 2014,2014,Sep,25,2014-09-25
-18,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6500,6500,14 Sep 2014,2014,Sep,14,2014-09-14
-19,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6500,6500,18 Sep 2014,2014,Sep,18,2014-09-18
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4050,4450,4250,01 Sep 2014,2014,Sep,1,2014-09-01
+1,1.0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4150,4350,4250,20 Sep 2014,2014,Sep,20,2014-09-20
+2,2.0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4150,4450,4320,23 Sep 2014,2014,Sep,23,2014-09-23
+3,3.0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4150,4450,4430,24 Sep 2014,2014,Sep,24,2014-09-24
+4,4.0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4450,4320,19 Sep 2014,2014,Sep,19,2014-09-19
+5,5.0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4450,4370,18 Sep 2014,2014,Sep,18,2014-09-18
+6,6.0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4500,4320,16 Sep 2014,2014,Sep,16,2014-09-16
+7,7.0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4550,4480,04 Sep 2014,2014,Sep,4,2014-09-04
+8,8.0,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4280,4550,4420,03 Sep 2014,2014,Sep,3,2014-09-03
+9,9.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,03 Sep 2014,2014,Sep,3,2014-09-03
+10,10.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,04 Sep 2014,2014,Sep,4,2014-09-04
+11,11.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,07 Sep 2014,2014,Sep,7,2014-09-07
+12,12.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,11 Sep 2014,2014,Sep,11,2014-09-11
+13,13.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6200,5800,27 Sep 2014,2014,Sep,27,2014-09-27
+14,14.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6200,5800,28 Sep 2014,2014,Sep,28,2014-09-28
+15,15.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6500,6200,20 Sep 2014,2014,Sep,20,2014-09-20
+16,16.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6500,6200,21 Sep 2014,2014,Sep,21,2014-09-21
+17,17.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6500,6200,25 Sep 2014,2014,Sep,25,2014-09-25
+18,18.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6500,6500,14 Sep 2014,2014,Sep,14,2014-09-14
+19,19.0,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6500,6500,18 Sep 2014,2014,Sep,18,2014-09-18
+20,,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4050,4450,4250,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
+21,,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4150,4350,4250,20 Sep 2014,2014,Sep,20,2014-09-20 00:00:00
+22,,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4150,4450,4320,23 Sep 2014,2014,Sep,23,2014-09-23 00:00:00
+23,,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4150,4450,4430,24 Sep 2014,2014,Sep,24,2014-09-24 00:00:00
+24,,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4450,4320,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
+25,,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4450,4370,18 Sep 2014,2014,Sep,18,2014-09-18 00:00:00
+26,,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4500,4320,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
+27,,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4250,4550,4480,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
+28,,Deogarh,Madhupur,Black Gram Dal (Urd Dal),Other,FAQ,4280,4550,4420,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
+29,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
+30,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
+31,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,07 Sep 2014,2014,Sep,07,2014-09-07 00:00:00
+32,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6000,6000,11 Sep 2014,2014,Sep,11,2014-09-11 00:00:00
+33,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6200,5800,27 Sep 2014,2014,Sep,27,2014-09-27 00:00:00
+34,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5500,6200,5800,28 Sep 2014,2014,Sep,28,2014-09-28 00:00:00
+35,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6500,6200,20 Sep 2014,2014,Sep,20,2014-09-20 00:00:00
+36,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6500,6200,21 Sep 2014,2014,Sep,21,2014-09-21 00:00:00
+37,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5800,6500,6200,25 Sep 2014,2014,Sep,25,2014-09-25 00:00:00
+38,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6500,6500,14 Sep 2014,2014,Sep,14,2014-09-14 00:00:00
+39,,Sahebgang,Sahebganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6500,6500,18 Sep 2014,2014,Sep,18,2014-09-18 00:00:00

@@ -1,16 +1,30 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Nagaur,Degana,Mustard Oil,Other,FAQ,2725,2725,2725,23 Sep 2014,2014,Sep,23,2014-09-23
-1,Nagaur,Degana,Mustard Oil,Other,FAQ,2911,2911,2911,10 Feb 2015,2015,Feb,10,2015-02-10
-2,Nagaur,Degana,Mustard Oil,Other,FAQ,3000,3150,3100,26 Sep 2014,2014,Sep,26,2014-09-26
-3,Nagaur,Degana,Mustard Oil,Other,FAQ,3000,3170,3150,23 Mar 2015,2015,Mar,23,2015-03-23
-4,Nagaur,Degana,Mustard Oil,Other,FAQ,3071,3071,3071,12 Sep 2014,2014,Sep,12,2014-09-12
-5,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3100,3100,16 Mar 2015,2015,Mar,16,2015-03-16
-6,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3100,3100,17 Sep 2014,2014,Sep,17,2014-09-17
-7,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3100,3100,26 Mar 2015,2015,Mar,26,2015-03-26
-8,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3135,3120,19 Sep 2014,2014,Sep,19,2014-09-19
-9,Nagaur,Degana,Mustard Oil,Other,FAQ,3131,3160,3150,25 Mar 2015,2015,Mar,25,2015-03-25
-10,Nagaur,Degana,Mustard Oil,Other,FAQ,3150,3150,3150,12 Mar 2015,2015,Mar,12,2015-03-12
-11,Nagaur,Degana,Mustard Oil,Other,FAQ,3160,3160,3160,24 Mar 2015,2015,Mar,24,2015-03-24
-12,Nagaur,Degana,Mustard Oil,Other,FAQ,3400,3400,3400,15 Jan 2015,2015,Jan,15,2015-01-15
-13,Jhunjhunu,Jhunjhunu,Mustard Oil,Other,FAQ,4030,4030,4030,28 Aug 2015,2015,Aug,28,2015-08-28
-14,Dholpur,Dholpur,Mustard Oil,Mustard Oil,FAQ,5300,5380,5340,18 Oct 2023,2023,Oct,18,2023-10-18
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Nagaur,Degana,Mustard Oil,Other,FAQ,2725,2725,2725,23 Sep 2014,2014,Sep,23,2014-09-23
+1,1.0,Nagaur,Degana,Mustard Oil,Other,FAQ,2911,2911,2911,10 Feb 2015,2015,Feb,10,2015-02-10
+2,2.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3000,3150,3100,26 Sep 2014,2014,Sep,26,2014-09-26
+3,3.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3000,3170,3150,23 Mar 2015,2015,Mar,23,2015-03-23
+4,4.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3071,3071,3071,12 Sep 2014,2014,Sep,12,2014-09-12
+5,5.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3100,3100,16 Mar 2015,2015,Mar,16,2015-03-16
+6,6.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3100,3100,17 Sep 2014,2014,Sep,17,2014-09-17
+7,7.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3100,3100,26 Mar 2015,2015,Mar,26,2015-03-26
+8,8.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3135,3120,19 Sep 2014,2014,Sep,19,2014-09-19
+9,9.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3131,3160,3150,25 Mar 2015,2015,Mar,25,2015-03-25
+10,10.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3150,3150,3150,12 Mar 2015,2015,Mar,12,2015-03-12
+11,11.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3160,3160,3160,24 Mar 2015,2015,Mar,24,2015-03-24
+12,12.0,Nagaur,Degana,Mustard Oil,Other,FAQ,3400,3400,3400,15 Jan 2015,2015,Jan,15,2015-01-15
+13,13.0,Jhunjhunu,Jhunjhunu,Mustard Oil,Other,FAQ,4030,4030,4030,28 Aug 2015,2015,Aug,28,2015-08-28
+14,14.0,Dholpur,Dholpur,Mustard Oil,Mustard Oil,FAQ,5300,5380,5340,18 Oct 2023,2023,Oct,18,2023-10-18
+15,,Nagaur,Degana,Mustard Oil,Other,FAQ,2725,2725,2725,23 Sep 2014,2014,Sep,23,2014-09-23 00:00:00
+16,,Nagaur,Degana,Mustard Oil,Other,FAQ,2911,2911,2911,10 Feb 2015,2015,Feb,10,2015-02-10 00:00:00
+17,,Nagaur,Degana,Mustard Oil,Other,FAQ,3000,3150,3100,26 Sep 2014,2014,Sep,26,2014-09-26 00:00:00
+18,,Nagaur,Degana,Mustard Oil,Other,FAQ,3000,3170,3150,23 Mar 2015,2015,Mar,23,2015-03-23 00:00:00
+19,,Nagaur,Degana,Mustard Oil,Other,FAQ,3071,3071,3071,12 Sep 2014,2014,Sep,12,2014-09-12 00:00:00
+20,,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3100,3100,16 Mar 2015,2015,Mar,16,2015-03-16 00:00:00
+21,,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3100,3100,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
+22,,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3100,3100,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
+23,,Nagaur,Degana,Mustard Oil,Other,FAQ,3100,3135,3120,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
+24,,Nagaur,Degana,Mustard Oil,Other,FAQ,3131,3160,3150,25 Mar 2015,2015,Mar,25,2015-03-25 00:00:00
+25,,Nagaur,Degana,Mustard Oil,Other,FAQ,3150,3150,3150,12 Mar 2015,2015,Mar,12,2015-03-12 00:00:00
+26,,Nagaur,Degana,Mustard Oil,Other,FAQ,3160,3160,3160,24 Mar 2015,2015,Mar,24,2015-03-24 00:00:00
+27,,Nagaur,Degana,Mustard Oil,Other,FAQ,3400,3400,3400,15 Jan 2015,2015,Jan,15,2015-01-15 00:00:00
+28,,Jhunjhunu,Jhunjhunu,Mustard Oil,Other,FAQ,4030,4030,4030,28 Aug 2015,2015,Aug,28,2015-08-28 00:00:00

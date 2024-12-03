@@ -1,9 +1,26 @@
-,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,Surguja,Ambikapur,Masur Dal,Masoor Gola,FAQ,4600,4600,4600,30 Jun 2017,2017,Jun,30,2017-06-30
-1,Koria,Manendragarh,Masur Dal,Masur Dal,FAQ,3000,3000,3000,30 Apr 2017,2017,Apr,30,2017-04-30
-2,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,5000,5448,5400,31 May 2024,2024,May,31,2024-05-31
-3,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,5460,5490,5480,30 Jun 2024,2024,Jun,30,2024-06-30
-4,Koria,Baikunthpur,Masur Dal,Kala Masoor New,FAQ,4000,4000,4000,31 Aug 2020,2020,Aug,31,2020-08-31
-5,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3000,3000,31 Jul 2018,2018,Jul,31,2018-07-31
-6,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3020,3010,20 Jun 2018,2018,Jun,20,2018-06-20
-7,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3100,3050,30 Jun 2018,2018,Jun,30,2018-06-30
+,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,Surguja,Ambikapur,Masur Dal,Masoor Gola,FAQ,4600,4600,4600,30 Jun 2017,2017,Jun,30,2017-06-30
+1,1.0,Koria,Manendragarh,Masur Dal,Masur Dal,FAQ,3000,3000,3000,30 Apr 2017,2017,Apr,30,2017-04-30
+2,2.0,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,5000,5448,5400,31 May 2024,2024,May,31,2024-05-31
+3,3.0,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,5460,5490,5480,30 Jun 2024,2024,Jun,30,2024-06-30
+4,4.0,Koria,Baikunthpur,Masur Dal,Kala Masoor New,FAQ,4000,4000,4000,31 Aug 2020,2020,Aug,31,2020-08-31
+5,5.0,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3000,3000,31 Jul 2018,2018,Jul,31,2018-07-31
+6,6.0,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3020,3010,20 Jun 2018,2018,Jun,20,2018-06-20
+7,7.0,Rajnandgaon,Gandai,Masur Dal,Masur Dal,FAQ,3000,3100,3050,30 Jun 2018,2018,Jun,30,2018-06-30
+8,,Balodabazar,Bhatapara,Masur Dal,Masoor Gola,Local,4000,4000,4000,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
+9,,Balodabazar,Bhatapara,Masur Dal,Masoor Gola,Local,4350,4701,4701,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
+10,,Balodabazar,Bhatapara,Masur Dal,Masoor Gola,Local,4501,4901,4901,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
+11,,Balodabazar,Bhatapara,Masur Dal,Masoor Gola,Local,4501,5301,5001,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
+12,,Balodabazar,Bhatapara,Masur Dal,Masoor Gola,Local,4800,5200,5000,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
+13,,Balodabazar,Bhatapara,Masur Dal,Masoor Gola,Local,4801,5202,5202,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
+14,,Balodabazar,Bhatapara,Masur Dal,Masoor Gola,Local,4851,4951,4951,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
+15,,Balodabazar,Bhatapara,Masur Dal,Masoor Gola,Local,5151,5151,5151,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
+16,,Rajnandgaon,Rajnandgaon,Masur Dal,Masoor Gola,Local,4500,4500,4500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
+17,,Rajnandgaon,Rajnandgaon,Masur Dal,Masoor Gola,Local,5250,5400,5325,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
+18,,Rajnandgaon,Rajnandgaon,Masur Dal,Masoor Gola,Local,5400,5500,5450,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
+19,,Rajnandgaon,Rajnandgaon,Masur Dal,Masoor Gola,Local,5501,5501,5501,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
+20,,Rajnandgaon,Rajnandgaon,Masur Dal,Masoor Gola,Local,5560,5650,5605,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
+21,,Rajnandgaon,Rajnandgaon,Masur Dal,Masoor Gola,Local,5600,5600,5600,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
+22,,Rajnandgaon,Rajnandgaon,Masur Dal,Masoor Gola,Local,5600,5600,5600,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
+23,,Rajnandgaon,Rajnandgaon,Masur Dal,Masoor Gola,Local,5600,5650,5625,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
+24,,Rajnandgaon,Rajnandgaon,Masur Dal,Masoor Gola,Local,5601,5601,5601,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
