@@ -1,3 +1,3 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Haridwar,Roorkee,Ground Nut Oil,Other,FAQ,7000,7000,7000,01 Feb 2015,2015,Feb,1,2015-02-01
-1,,Haridwar,Roorkee,Ground Nut Oil,Other,FAQ,7000,7000,7000,01 Feb 2015,2015,Feb,01,2015-02-01 00:00:00
+1,,Haridwar,Roorkee,Ground Nut Oil,Other,FAQ,7000,7000,7000,01 Feb 2015,2015,Feb,1,2015-02-01

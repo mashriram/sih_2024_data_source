@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3585,3585,3585,01 Sep 2017,2017,Sep,1,2017-09-01
 1,1.0,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4957,5017,5001,08 Apr 2017,2017,Apr,8,2017-04-08
 2,2.0,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5091,5117,5091,10 Apr 2017,2017,Apr,10,2017-04-10
@@ -63,9 +63,9 @@
 61,61.0,Jind,Pillukhera,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5800,5800,5800,23 Jul 2018,2018,Jul,23,2018-07-23
 62,62.0,Jind,Pillukhera,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,6000,6000,12 Sep 2017,2017,Sep,12,2017-09-12
 63,63.0,Jind,Pillukhera,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,6500,6500,25 Jul 2018,2018,Jul,25,2018-07-25
-64,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6951,7150,7100,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-65,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7000,7000,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-66,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7050,7145,7050,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-67,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7099,7099,7099,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-68,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7100,7100,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-69,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7145,7145,7145,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
+64,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6951,7150,7100,22 Jul 2024,2024,Jul,22,2024-07-22
+65,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7000,7000,30 Jul 2024,2024,Jul,30,2024-07-30
+66,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7050,7145,7050,24 Jul 2024,2024,Jul,24,2024-07-24
+67,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7099,7099,7099,08 Aug 2024,2024,Aug,8,2024-08-08
+68,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7100,7100,23 Jul 2024,2024,Jul,23,2024-07-23
+69,,Sirsa,Ellanabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7145,7145,7145,26 Jul 2024,2024,Jul,26,2024-07-26

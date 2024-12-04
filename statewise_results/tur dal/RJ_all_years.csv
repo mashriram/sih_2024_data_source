@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7905,9630,9300,21 Jan 2022,2022,Jan,21,2022-01-21
 1,1.0,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2500,2500,2500,04 Jul 2017,2017,Jul,4,2017-07-04
 2,2.0,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2550,2836,2800,18 May 2017,2017,May,18,2017-05-18
@@ -213,143 +213,143 @@
 211,211.0,Kota,Ramganjmandi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2701,2701,2701,26 Jun 2018,2018,Jun,26,2018-06-26
 212,212.0,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2725,2725,2725,25 Oct 2017,2017,Oct,25,2017-10-25
 213,213.0,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3300,3300,02 Aug 2018,2018,Aug,2,2018-08-02
-214,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2500,2500,2500,04 Jul 2017,2017,Jul,04,2017-07-04 00:00:00
-215,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2550,2836,2800,18 May 2017,2017,May,18,2017-05-18 00:00:00
-216,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2571,2571,2571,21 Jun 2017,2017,Jun,21,2017-06-21 00:00:00
-217,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2601,3400,3300,04 Mar 2017,2017,Mar,04,2017-03-04 00:00:00
-218,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,3500,3400,20 Jan 2017,2017,Jan,20,2017-01-20 00:00:00
-219,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2750,2800,2775,16 May 2017,2017,May,16,2017-05-16 00:00:00
-220,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2800,2800,2800,19 May 2017,2017,May,19,2017-05-19 00:00:00
-221,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2800,3234,3000,19 Apr 2017,2017,Apr,19,2017-04-19 00:00:00
-222,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2801,2801,2801,14 Apr 2017,2017,Apr,14,2017-04-14 00:00:00
-223,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2850,3340,3140,22 Feb 2017,2017,Feb,22,2017-02-22 00:00:00
-224,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2870,2870,2870,16 Aug 2017,2017,Aug,16,2017-08-16 00:00:00
-225,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,2900,2900,03 May 2017,2017,May,03,2017-05-03 00:00:00
-226,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,3260,3200,17 Feb 2017,2017,Feb,17,2017-02-17 00:00:00
-227,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2941,2941,2941,01 Jun 2017,2017,Jun,01,2017-06-01 00:00:00
-228,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2950,2950,2950,15 May 2017,2017,May,15,2017-05-15 00:00:00
-229,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3000,3000,21 Aug 2017,2017,Aug,21,2017-08-21 00:00:00
-230,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3070,3220,3170,09 Jan 2017,2017,Jan,09,2017-01-09 00:00:00
-231,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3099,3099,3099,17 Aug 2017,2017,Aug,17,2017-08-17 00:00:00
-232,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3100,3300,3200,07 Mar 2017,2017,Mar,07,2017-03-07 00:00:00
-233,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3191,3191,3191,21 Feb 2017,2017,Feb,21,2017-02-21 00:00:00
-234,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,3200,3200,29 Apr 2017,2017,Apr,29,2017-04-29 00:00:00
-235,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3201,3201,3201,31 Jan 2017,2017,Jan,31,2017-01-31 00:00:00
-236,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3222,3222,3222,10 Dec 2016,2016,Dec,10,2016-12-10 00:00:00
-237,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3241,3300,3275,16 Mar 2017,2017,Mar,16,2017-03-16 00:00:00
-238,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3241,3300,3275,17 Mar 2017,2017,Mar,17,2017-03-17 00:00:00
-239,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3250,3250,3250,15 Apr 2017,2017,Apr,15,2017-04-15 00:00:00
-240,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3390,3350,25 Jan 2017,2017,Jan,25,2017-01-25 00:00:00
-241,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3310,3340,3330,06 Mar 2017,2017,Mar,06,2017-03-06 00:00:00
-242,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3321,3321,3321,19 Feb 2017,2017,Feb,19,2017-02-19 00:00:00
-243,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3375,3499,3450,24 Jan 2017,2017,Jan,24,2017-01-24 00:00:00
-244,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3400,3704,3690,06 Apr 2017,2017,Apr,06,2017-04-06 00:00:00
-245,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3400,3780,3600,13 Jan 2017,2017,Jan,13,2017-01-13 00:00:00
-246,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3401,3401,3401,03 Mar 2017,2017,Mar,03,2017-03-03 00:00:00
-247,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3412,3412,3412,27 Feb 2017,2017,Feb,27,2017-02-27 00:00:00
-248,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3495,3495,3495,21 Mar 2017,2017,Mar,21,2017-03-21 00:00:00
-249,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3500,3500,05 Jul 2017,2017,Jul,05,2017-07-05 00:00:00
-250,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3651,3600,25 Mar 2017,2017,Mar,25,2017-03-25 00:00:00
-251,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3971,3900,26 Dec 2016,2016,Dec,26,2016-12-26 00:00:00
-252,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3570,3570,3570,19 Jan 2017,2017,Jan,19,2017-01-19 00:00:00
-253,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3650,3650,3650,24 Mar 2017,2017,Mar,24,2017-03-24 00:00:00
-254,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3651,3651,3651,05 Apr 2017,2017,Apr,05,2017-04-05 00:00:00
-255,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3660,3900,3875,29 Dec 2016,2016,Dec,29,2016-12-29 00:00:00
-256,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3700,3700,3700,17 Jan 2017,2017,Jan,17,2017-01-17 00:00:00
-257,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3700,3700,3700,18 Jan 2017,2017,Jan,18,2017-01-18 00:00:00
-258,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3760,3760,3760,04 Apr 2017,2017,Apr,04,2017-04-04 00:00:00
-259,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3800,3961,3900,10 Jan 2017,2017,Jan,10,2017-01-10 00:00:00
-260,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3811,4031,3950,03 Jan 2017,2017,Jan,03,2017-01-03 00:00:00
-261,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3890,3900,3895,11 Jan 2017,2017,Jan,11,2017-01-11 00:00:00
-262,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3931,3940,3935,30 Dec 2016,2016,Dec,30,2016-12-30 00:00:00
-263,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3960,3960,3960,04 Jan 2017,2017,Jan,04,2017-01-04 00:00:00
-264,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5900,5900,5900,15 Nov 2016,2016,Nov,15,2016-11-15 00:00:00
-265,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2550,2550,2550,21 Aug 2017,2017,Aug,21,2017-08-21 00:00:00
-266,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2945,2945,2945,18 Aug 2017,2017,Aug,18,2017-08-18 00:00:00
-267,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3051,3051,3051,29 Aug 2017,2017,Aug,29,2017-08-29 00:00:00
-268,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3100,3100,3100,26 Aug 2017,2017,Aug,26,2017-08-26 00:00:00
-269,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3391,3391,3391,30 Aug 2017,2017,Aug,30,2017-08-30 00:00:00
-270,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3466,3466,3466,31 Aug 2017,2017,Aug,31,2017-08-31 00:00:00
-271,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,3225,2962,06 Mar 2017,2017,Mar,06,2017-03-06 00:00:00
-272,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2701,2701,2701,11 Aug 2017,2017,Aug,11,2017-08-11 00:00:00
-273,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3000,3000,14 Feb 2017,2017,Feb,14,2017-02-14 00:00:00
-274,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,3459,3443,17 Mar 2017,2017,Mar,17,2017-03-17 00:00:00
-275,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3300,3300,04 Feb 2017,2017,Feb,04,2017-02-04 00:00:00
-276,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3300,3300,13 Feb 2017,2017,Feb,13,2017-02-13 00:00:00
-277,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3400,3350,07 Feb 2017,2017,Feb,07,2017-02-07 00:00:00
-278,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3301,3301,3301,21 Jan 2017,2017,Jan,21,2017-01-21 00:00:00
-279,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3600,3600,3600,30 Jan 2017,2017,Jan,30,2017-01-30 00:00:00
-280,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3601,3601,3601,18 Jan 2017,2017,Jan,18,2017-01-18 00:00:00
-281,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1305,1305,1305,24 Feb 2017,2017,Feb,24,2017-02-24 00:00:00
-282,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1445,1715,1714,10 Jun 2017,2017,Jun,10,2017-06-10 00:00:00
-283,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1550,1688,1660,27 Apr 2017,2017,Apr,27,2017-04-27 00:00:00
-284,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1649,1729,1665,31 Jul 2017,2017,Jul,31,2017-07-31 00:00:00
-285,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1676,3176,3000,13 Feb 2017,2017,Feb,13,2017-02-13 00:00:00
-286,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2350,2350,2350,18 Mar 2017,2017,Mar,18,2017-03-18 00:00:00
-287,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2350,3651,3521,18 Jan 2017,2017,Jan,18,2017-01-18 00:00:00
-288,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2400,2400,2400,09 Mar 2017,2017,Mar,09,2017-03-09 00:00:00
-289,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2400,3227,3201,01 Mar 2017,2017,Mar,01,2017-03-01 00:00:00
-290,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2500,2500,2500,15 Feb 2017,2017,Feb,15,2017-02-15 00:00:00
-291,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2591,3226,3226,25 Feb 2017,2017,Feb,25,2017-02-25 00:00:00
-292,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2601,3280,3280,21 Feb 2017,2017,Feb,21,2017-02-21 00:00:00
-293,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2616,2616,2616,11 Feb 2017,2017,Feb,11,2017-02-11 00:00:00
-294,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2695,3080,2930,14 Feb 2017,2017,Feb,14,2017-02-14 00:00:00
-295,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,2700,2700,23 Jan 2017,2017,Jan,23,2017-01-23 00:00:00
-296,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,2700,2700,28 Feb 2017,2017,Feb,28,2017-02-28 00:00:00
-297,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2751,3367,3367,14 Mar 2017,2017,Mar,14,2017-03-14 00:00:00
-298,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2801,3349,3340,18 Feb 2017,2017,Feb,18,2017-02-18 00:00:00
-299,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,2900,2900,27 Dec 2016,2016,Dec,27,2016-12-27 00:00:00
-300,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,3686,3626,20 Jan 2017,2017,Jan,20,2017-01-20 00:00:00
-301,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2901,2901,2901,16 Mar 2017,2017,Mar,16,2017-03-16 00:00:00
-302,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2951,2951,2951,07 Mar 2017,2017,Mar,07,2017-03-07 00:00:00
-303,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3660,3660,25 Mar 2017,2017,Mar,25,2017-03-25 00:00:00
-304,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3001,3178,3178,16 Feb 2017,2017,Feb,16,2017-02-16 00:00:00
-305,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3140,3140,3140,02 Mar 2017,2017,Mar,02,2017-03-02 00:00:00
-306,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3151,3151,3151,22 Feb 2017,2017,Feb,22,2017-02-22 00:00:00
-307,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3151,3151,3151,28 Jan 2017,2017,Jan,28,2017-01-28 00:00:00
-308,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3160,3160,3160,10 Jan 2017,2017,Jan,10,2017-01-10 00:00:00
-309,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3195,3195,3195,17 Mar 2017,2017,Mar,17,2017-03-17 00:00:00
-310,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,3200,3200,17 Feb 2017,2017,Feb,17,2017-02-17 00:00:00
-311,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3259,3259,3259,22 Mar 2017,2017,Mar,22,2017-03-22 00:00:00
-312,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3290,3290,3290,03 Feb 2017,2017,Feb,03,2017-02-03 00:00:00
-313,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3336,3336,3336,09 Feb 2017,2017,Feb,09,2017-02-09 00:00:00
-314,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3401,3401,3401,21 Mar 2017,2017,Mar,21,2017-03-21 00:00:00
-315,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3581,3581,17 Jan 2017,2017,Jan,17,2017-01-17 00:00:00
-316,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3660,3660,28 Mar 2017,2017,Mar,28,2017-03-28 00:00:00
-317,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3591,3591,3591,27 Mar 2017,2017,Mar,27,2017-03-27 00:00:00
-318,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3611,3611,3611,30 Dec 2016,2016,Dec,30,2016-12-30 00:00:00
-319,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3641,3641,3641,19 Jan 2017,2017,Jan,19,2017-01-19 00:00:00
-320,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3711,3711,3711,12 Jan 2017,2017,Jan,12,2017-01-12 00:00:00
-321,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3711,3711,3711,16 Jan 2017,2017,Jan,16,2017-01-16 00:00:00
-322,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3751,3751,3751,02 Jan 2017,2017,Jan,02,2017-01-02 00:00:00
-323,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2500,2500,2500,08 May 2017,2017,May,08,2017-05-08 00:00:00
-324,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2600,2600,2600,19 Apr 2017,2017,Apr,19,2017-04-19 00:00:00
-325,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2750,2750,2750,09 Feb 2017,2017,Feb,09,2017-02-09 00:00:00
-326,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2771,2851,2811,18 Feb 2017,2017,Feb,18,2017-02-18 00:00:00
-327,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2800,2800,2800,20 Mar 2017,2017,Mar,20,2017-03-20 00:00:00
-328,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2851,2851,2851,06 Feb 2017,2017,Feb,06,2017-02-06 00:00:00
-329,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,2900,2900,25 Jan 2017,2017,Jan,25,2017-01-25 00:00:00
-330,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3000,3000,04 Feb 2017,2017,Feb,04,2017-02-04 00:00:00
-331,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3051,3051,3051,30 Jan 2017,2017,Jan,30,2017-01-30 00:00:00
-332,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3090,3090,3090,18 Jan 2017,2017,Jan,18,2017-01-18 00:00:00
-333,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3141,3141,3141,03 Jan 2017,2017,Jan,03,2017-01-03 00:00:00
-334,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3150,3150,3150,06 Apr 2017,2017,Apr,06,2017-04-06 00:00:00
-335,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3215,3651,3600,26 Dec 2016,2016,Dec,26,2016-12-26 00:00:00
-336,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3400,3400,3400,20 Dec 2016,2016,Dec,20,2016-12-20 00:00:00
-337,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3421,3421,3421,23 Dec 2016,2016,Dec,23,2016-12-23 00:00:00
-338,,Kota,Ramganjmandi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2600,2990,2890,22 Aug 2017,2017,Aug,22,2017-08-22 00:00:00
-339,,Kota,Ramganjmandi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2650,4000,2650,23 Feb 2017,2017,Feb,23,2017-02-23 00:00:00
-340,,Kota,Ramganjmandi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4001,4001,4001,25 Apr 2017,2017,Apr,25,2017-04-25 00:00:00
-341,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2550,2650,2650,02 Mar 2017,2017,Mar,02,2017-03-02 00:00:00
-342,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2595,3025,2905,01 Mar 2017,2017,Mar,01,2017-03-01 00:00:00
-343,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2600,2650,2650,05 Jul 2017,2017,Jul,05,2017-07-05 00:00:00
-344,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,2700,2700,29 May 2017,2017,May,29,2017-05-29 00:00:00
-345,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2800,2800,2800,24 Apr 2017,2017,Apr,24,2017-04-24 00:00:00
-346,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2805,3678,3381,14 Feb 2017,2017,Feb,14,2017-02-14 00:00:00
-347,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3150,3500,3500,19 Jan 2017,2017,Jan,19,2017-01-19 00:00:00
-348,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3210,3210,3210,15 Apr 2017,2017,Apr,15,2017-04-15 00:00:00
-349,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3251,3335,3335,10 Apr 2017,2017,Apr,10,2017-04-10 00:00:00
-350,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3300,3300,12 Apr 2017,2017,Apr,12,2017-04-12 00:00:00
-351,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4100,4200,4200,21 Dec 2016,2016,Dec,21,2016-12-21 00:00:00
-352,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4531,4531,4531,23 Nov 2016,2016,Nov,23,2016-11-23 00:00:00
-353,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4700,4700,4700,21 Nov 2016,2016,Nov,21,2016-11-21 00:00:00
+214,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2500,2500,2500,04 Jul 2017,2017,Jul,4,2017-07-04
+215,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2550,2836,2800,18 May 2017,2017,May,18,2017-05-18
+216,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2571,2571,2571,21 Jun 2017,2017,Jun,21,2017-06-21
+217,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2601,3400,3300,04 Mar 2017,2017,Mar,4,2017-03-04
+218,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,3500,3400,20 Jan 2017,2017,Jan,20,2017-01-20
+219,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2750,2800,2775,16 May 2017,2017,May,16,2017-05-16
+220,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2800,2800,2800,19 May 2017,2017,May,19,2017-05-19
+221,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2800,3234,3000,19 Apr 2017,2017,Apr,19,2017-04-19
+222,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2801,2801,2801,14 Apr 2017,2017,Apr,14,2017-04-14
+223,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2850,3340,3140,22 Feb 2017,2017,Feb,22,2017-02-22
+224,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2870,2870,2870,16 Aug 2017,2017,Aug,16,2017-08-16
+225,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,2900,2900,03 May 2017,2017,May,3,2017-05-03
+226,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,3260,3200,17 Feb 2017,2017,Feb,17,2017-02-17
+227,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2941,2941,2941,01 Jun 2017,2017,Jun,1,2017-06-01
+228,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2950,2950,2950,15 May 2017,2017,May,15,2017-05-15
+229,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3000,3000,21 Aug 2017,2017,Aug,21,2017-08-21
+230,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3070,3220,3170,09 Jan 2017,2017,Jan,9,2017-01-09
+231,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3099,3099,3099,17 Aug 2017,2017,Aug,17,2017-08-17
+232,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3100,3300,3200,07 Mar 2017,2017,Mar,7,2017-03-07
+233,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3191,3191,3191,21 Feb 2017,2017,Feb,21,2017-02-21
+234,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,3200,3200,29 Apr 2017,2017,Apr,29,2017-04-29
+235,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3201,3201,3201,31 Jan 2017,2017,Jan,31,2017-01-31
+236,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3222,3222,3222,10 Dec 2016,2016,Dec,10,2016-12-10
+237,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3241,3300,3275,16 Mar 2017,2017,Mar,16,2017-03-16
+238,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3241,3300,3275,17 Mar 2017,2017,Mar,17,2017-03-17
+239,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3250,3250,3250,15 Apr 2017,2017,Apr,15,2017-04-15
+240,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3390,3350,25 Jan 2017,2017,Jan,25,2017-01-25
+241,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3310,3340,3330,06 Mar 2017,2017,Mar,6,2017-03-06
+242,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3321,3321,3321,19 Feb 2017,2017,Feb,19,2017-02-19
+243,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3375,3499,3450,24 Jan 2017,2017,Jan,24,2017-01-24
+244,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3400,3704,3690,06 Apr 2017,2017,Apr,6,2017-04-06
+245,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3400,3780,3600,13 Jan 2017,2017,Jan,13,2017-01-13
+246,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3401,3401,3401,03 Mar 2017,2017,Mar,3,2017-03-03
+247,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3412,3412,3412,27 Feb 2017,2017,Feb,27,2017-02-27
+248,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3495,3495,3495,21 Mar 2017,2017,Mar,21,2017-03-21
+249,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3500,3500,05 Jul 2017,2017,Jul,5,2017-07-05
+250,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3651,3600,25 Mar 2017,2017,Mar,25,2017-03-25
+251,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3971,3900,26 Dec 2016,2016,Dec,26,2016-12-26
+252,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3570,3570,3570,19 Jan 2017,2017,Jan,19,2017-01-19
+253,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3650,3650,3650,24 Mar 2017,2017,Mar,24,2017-03-24
+254,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3651,3651,3651,05 Apr 2017,2017,Apr,5,2017-04-05
+255,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3660,3900,3875,29 Dec 2016,2016,Dec,29,2016-12-29
+256,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3700,3700,3700,17 Jan 2017,2017,Jan,17,2017-01-17
+257,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3700,3700,3700,18 Jan 2017,2017,Jan,18,2017-01-18
+258,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3760,3760,3760,04 Apr 2017,2017,Apr,4,2017-04-04
+259,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3800,3961,3900,10 Jan 2017,2017,Jan,10,2017-01-10
+260,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3811,4031,3950,03 Jan 2017,2017,Jan,3,2017-01-03
+261,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3890,3900,3895,11 Jan 2017,2017,Jan,11,2017-01-11
+262,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3931,3940,3935,30 Dec 2016,2016,Dec,30,2016-12-30
+263,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3960,3960,3960,04 Jan 2017,2017,Jan,4,2017-01-04
+264,,Anupgarh,Gharsana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5900,5900,5900,15 Nov 2016,2016,Nov,15,2016-11-15
+265,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2550,2550,2550,21 Aug 2017,2017,Aug,21,2017-08-21
+266,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2945,2945,2945,18 Aug 2017,2017,Aug,18,2017-08-18
+267,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3051,3051,3051,29 Aug 2017,2017,Aug,29,2017-08-29
+268,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3100,3100,3100,26 Aug 2017,2017,Aug,26,2017-08-26
+269,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3391,3391,3391,30 Aug 2017,2017,Aug,30,2017-08-30
+270,,Hanumangarh,Hanumangarh Town,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3466,3466,3466,31 Aug 2017,2017,Aug,31,2017-08-31
+271,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,3225,2962,06 Mar 2017,2017,Mar,6,2017-03-06
+272,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2701,2701,2701,11 Aug 2017,2017,Aug,11,2017-08-11
+273,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3000,3000,14 Feb 2017,2017,Feb,14,2017-02-14
+274,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,3459,3443,17 Mar 2017,2017,Mar,17,2017-03-17
+275,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3300,3300,04 Feb 2017,2017,Feb,4,2017-02-04
+276,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3300,3300,13 Feb 2017,2017,Feb,13,2017-02-13
+277,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3400,3350,07 Feb 2017,2017,Feb,7,2017-02-07
+278,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3301,3301,3301,21 Jan 2017,2017,Jan,21,2017-01-21
+279,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3600,3600,3600,30 Jan 2017,2017,Jan,30,2017-01-30
+280,,Anupgarh,Jaitsar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3601,3601,3601,18 Jan 2017,2017,Jan,18,2017-01-18
+281,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1305,1305,1305,24 Feb 2017,2017,Feb,24,2017-02-24
+282,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1445,1715,1714,10 Jun 2017,2017,Jun,10,2017-06-10
+283,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1550,1688,1660,27 Apr 2017,2017,Apr,27,2017-04-27
+284,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1649,1729,1665,31 Jul 2017,2017,Jul,31,2017-07-31
+285,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1676,3176,3000,13 Feb 2017,2017,Feb,13,2017-02-13
+286,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2350,2350,2350,18 Mar 2017,2017,Mar,18,2017-03-18
+287,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2350,3651,3521,18 Jan 2017,2017,Jan,18,2017-01-18
+288,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2400,2400,2400,09 Mar 2017,2017,Mar,9,2017-03-09
+289,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2400,3227,3201,01 Mar 2017,2017,Mar,1,2017-03-01
+290,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2500,2500,2500,15 Feb 2017,2017,Feb,15,2017-02-15
+291,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2591,3226,3226,25 Feb 2017,2017,Feb,25,2017-02-25
+292,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2601,3280,3280,21 Feb 2017,2017,Feb,21,2017-02-21
+293,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2616,2616,2616,11 Feb 2017,2017,Feb,11,2017-02-11
+294,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2695,3080,2930,14 Feb 2017,2017,Feb,14,2017-02-14
+295,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,2700,2700,23 Jan 2017,2017,Jan,23,2017-01-23
+296,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,2700,2700,28 Feb 2017,2017,Feb,28,2017-02-28
+297,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2751,3367,3367,14 Mar 2017,2017,Mar,14,2017-03-14
+298,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2801,3349,3340,18 Feb 2017,2017,Feb,18,2017-02-18
+299,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,2900,2900,27 Dec 2016,2016,Dec,27,2016-12-27
+300,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,3686,3626,20 Jan 2017,2017,Jan,20,2017-01-20
+301,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2901,2901,2901,16 Mar 2017,2017,Mar,16,2017-03-16
+302,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2951,2951,2951,07 Mar 2017,2017,Mar,7,2017-03-07
+303,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3660,3660,25 Mar 2017,2017,Mar,25,2017-03-25
+304,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3001,3178,3178,16 Feb 2017,2017,Feb,16,2017-02-16
+305,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3140,3140,3140,02 Mar 2017,2017,Mar,2,2017-03-02
+306,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3151,3151,3151,22 Feb 2017,2017,Feb,22,2017-02-22
+307,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3151,3151,3151,28 Jan 2017,2017,Jan,28,2017-01-28
+308,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3160,3160,3160,10 Jan 2017,2017,Jan,10,2017-01-10
+309,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3195,3195,3195,17 Mar 2017,2017,Mar,17,2017-03-17
+310,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,3200,3200,17 Feb 2017,2017,Feb,17,2017-02-17
+311,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3259,3259,3259,22 Mar 2017,2017,Mar,22,2017-03-22
+312,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3290,3290,3290,03 Feb 2017,2017,Feb,3,2017-02-03
+313,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3336,3336,3336,09 Feb 2017,2017,Feb,9,2017-02-09
+314,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3401,3401,3401,21 Mar 2017,2017,Mar,21,2017-03-21
+315,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3581,3581,17 Jan 2017,2017,Jan,17,2017-01-17
+316,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3660,3660,28 Mar 2017,2017,Mar,28,2017-03-28
+317,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3591,3591,3591,27 Mar 2017,2017,Mar,27,2017-03-27
+318,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3611,3611,3611,30 Dec 2016,2016,Dec,30,2016-12-30
+319,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3641,3641,3641,19 Jan 2017,2017,Jan,19,2017-01-19
+320,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3711,3711,3711,12 Jan 2017,2017,Jan,12,2017-01-12
+321,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3711,3711,3711,16 Jan 2017,2017,Jan,16,2017-01-16
+322,,Ganganagar,Padampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3751,3751,3751,02 Jan 2017,2017,Jan,2,2017-01-02
+323,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2500,2500,2500,08 May 2017,2017,May,8,2017-05-08
+324,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2600,2600,2600,19 Apr 2017,2017,Apr,19,2017-04-19
+325,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2750,2750,2750,09 Feb 2017,2017,Feb,9,2017-02-09
+326,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2771,2851,2811,18 Feb 2017,2017,Feb,18,2017-02-18
+327,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2800,2800,2800,20 Mar 2017,2017,Mar,20,2017-03-20
+328,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2851,2851,2851,06 Feb 2017,2017,Feb,6,2017-02-06
+329,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2900,2900,2900,25 Jan 2017,2017,Jan,25,2017-01-25
+330,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3000,3000,04 Feb 2017,2017,Feb,4,2017-02-04
+331,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3051,3051,3051,30 Jan 2017,2017,Jan,30,2017-01-30
+332,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3090,3090,3090,18 Jan 2017,2017,Jan,18,2017-01-18
+333,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3141,3141,3141,03 Jan 2017,2017,Jan,3,2017-01-03
+334,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3150,3150,3150,06 Apr 2017,2017,Apr,6,2017-04-06
+335,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3215,3651,3600,26 Dec 2016,2016,Dec,26,2016-12-26
+336,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3400,3400,3400,20 Dec 2016,2016,Dec,20,2016-12-20
+337,,Hanumangarh,Pilibanga,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3421,3421,3421,23 Dec 2016,2016,Dec,23,2016-12-23
+338,,Kota,Ramganjmandi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2600,2990,2890,22 Aug 2017,2017,Aug,22,2017-08-22
+339,,Kota,Ramganjmandi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2650,4000,2650,23 Feb 2017,2017,Feb,23,2017-02-23
+340,,Kota,Ramganjmandi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4001,4001,4001,25 Apr 2017,2017,Apr,25,2017-04-25
+341,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2550,2650,2650,02 Mar 2017,2017,Mar,2,2017-03-02
+342,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2595,3025,2905,01 Mar 2017,2017,Mar,1,2017-03-01
+343,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2600,2650,2650,05 Jul 2017,2017,Jul,5,2017-07-05
+344,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2700,2700,2700,29 May 2017,2017,May,29,2017-05-29
+345,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2800,2800,2800,24 Apr 2017,2017,Apr,24,2017-04-24
+346,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2805,3678,3381,14 Feb 2017,2017,Feb,14,2017-02-14
+347,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3150,3500,3500,19 Jan 2017,2017,Jan,19,2017-01-19
+348,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3210,3210,3210,15 Apr 2017,2017,Apr,15,2017-04-15
+349,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3251,3335,3335,10 Apr 2017,2017,Apr,10,2017-04-10
+350,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3300,3300,12 Apr 2017,2017,Apr,12,2017-04-12
+351,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4100,4200,4200,21 Dec 2016,2016,Dec,21,2016-12-21
+352,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4531,4531,4531,23 Nov 2016,2016,Nov,23,2016-11-23
+353,,Ganganagar,Sriganganagar (Grain),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4700,4700,4700,21 Nov 2016,2016,Nov,21,2016-11-21

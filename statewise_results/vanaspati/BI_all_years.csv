@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Patna,Patna City,Dalda,Dalda,FAQ,13100,16800,14700,01 Aug 2022,2022,Aug,1,2022-08-01
 1,1.0,Patna,Patna City,Dalda,Dalda,FAQ,13100,16800,14700,18 Aug 2022,2022,Aug,18,2022-08-18
 2,2.0,Patna,Patna City,Dalda,Dalda,FAQ,13100,16800,14700,26 Aug 2022,2022,Aug,26,2022-08-26
@@ -153,16 +153,16 @@
 151,151.0,Patna,Patna City,Dalda,Dalda,FAQ,9959,10000,9975,30 Dec 2022,2022,Dec,30,2022-12-30
 152,152.0,Patna,Patna City,Dalda,Dalda,FAQ,13200,15500,14700,02 Sep 2022,2022,Sep,2,2022-09-02
 153,153.0,Patna,Patna City,Dalda,Dalda,FAQ,13200,16500,14700,06 Sep 2022,2022,Sep,6,2022-09-06
-154,,Patna,Patna City,Dalda,Dalda,FAQ,13100,16800,14700,01 Aug 2022,2022,Aug,01,2022-08-01 00:00:00
-155,,Patna,Patna City,Dalda,Dalda,FAQ,13100,16800,14700,18 Aug 2022,2022,Aug,18,2022-08-18 00:00:00
-156,,Patna,Patna City,Dalda,Dalda,FAQ,13100,16800,14700,26 Aug 2022,2022,Aug,26,2022-08-26 00:00:00
-157,,Patna,Patna City,Dalda,Dalda,FAQ,14500,16500,15500,04 Apr 2022,2022,Apr,04,2022-04-04 00:00:00
-158,,Patna,Patna City,Dalda,Dalda,FAQ,15000,16800,15500,05 Aug 2022,2022,Aug,05,2022-08-05 00:00:00
-159,,Patna,Patna City,Dalda,Dalda,FAQ,16000,17000,16500,05 Apr 2022,2022,Apr,05,2022-04-05 00:00:00
-160,,Patna,Patna City,Dalda,Dalda,FAQ,16000,17500,16500,23 May 2022,2022,May,23,2022-05-23 00:00:00
-161,,Patna,Patna City,Dalda,Dalda,FAQ,16000,18000,16700,27 Apr 2022,2022,Apr,27,2022-04-27 00:00:00
-162,,Patna,Patna City,Dalda,Dalda,FAQ,16000,18500,17500,25 Apr 2022,2022,Apr,25,2022-04-25 00:00:00
-163,,Patna,Patna City,Dalda,Dalda,FAQ,16500,17500,17000,11 Apr 2022,2022,Apr,11,2022-04-11 00:00:00
-164,,Patna,Patna City,Dalda,Dalda,FAQ,16500,17500,17000,22 Apr 2022,2022,Apr,22,2022-04-22 00:00:00
-165,,Patna,Patna City,Dalda,Dalda,FAQ,16500,18200,17500,13 May 2022,2022,May,13,2022-05-13 00:00:00
-166,,Patna,Patna City,Dalda,Dalda,FAQ,16500,18500,17500,05 May 2022,2022,May,05,2022-05-05 00:00:00
+154,,Patna,Patna City,Dalda,Dalda,FAQ,13100,16800,14700,01 Aug 2022,2022,Aug,1,2022-08-01
+155,,Patna,Patna City,Dalda,Dalda,FAQ,13100,16800,14700,18 Aug 2022,2022,Aug,18,2022-08-18
+156,,Patna,Patna City,Dalda,Dalda,FAQ,13100,16800,14700,26 Aug 2022,2022,Aug,26,2022-08-26
+157,,Patna,Patna City,Dalda,Dalda,FAQ,14500,16500,15500,04 Apr 2022,2022,Apr,4,2022-04-04
+158,,Patna,Patna City,Dalda,Dalda,FAQ,15000,16800,15500,05 Aug 2022,2022,Aug,5,2022-08-05
+159,,Patna,Patna City,Dalda,Dalda,FAQ,16000,17000,16500,05 Apr 2022,2022,Apr,5,2022-04-05
+160,,Patna,Patna City,Dalda,Dalda,FAQ,16000,17500,16500,23 May 2022,2022,May,23,2022-05-23
+161,,Patna,Patna City,Dalda,Dalda,FAQ,16000,18000,16700,27 Apr 2022,2022,Apr,27,2022-04-27
+162,,Patna,Patna City,Dalda,Dalda,FAQ,16000,18500,17500,25 Apr 2022,2022,Apr,25,2022-04-25
+163,,Patna,Patna City,Dalda,Dalda,FAQ,16500,17500,17000,11 Apr 2022,2022,Apr,11,2022-04-11
+164,,Patna,Patna City,Dalda,Dalda,FAQ,16500,17500,17000,22 Apr 2022,2022,Apr,22,2022-04-22
+165,,Patna,Patna City,Dalda,Dalda,FAQ,16500,18200,17500,13 May 2022,2022,May,13,2022-05-13
+166,,Patna,Patna City,Dalda,Dalda,FAQ,16500,18500,17500,05 May 2022,2022,May,5,2022-05-05

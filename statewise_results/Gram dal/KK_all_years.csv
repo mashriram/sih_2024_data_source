@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Hassan,Arasikere,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4000,4000,4000,23 Apr 2021,2021,Apr,23,2021-04-23
 1,1.0,Hassan,Arasikere,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,5800,5800,5800,07 Sep 2020,2020,Sep,7,2020-09-07
 2,2.0,Hassan,Arasikere,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,6000,6000,6000,08 Sep 2020,2020,Sep,8,2020-09-08
@@ -5985,275 +5985,275 @@
 5983,5983.0,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,6800,7500,7150,04 Dec 2017,2017,Dec,4,2017-12-04
 5984,5984.0,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,6800,7500,7150,05 Dec 2017,2017,Dec,5,2017-12-05
 5985,5985.0,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11500,18000,14750,09 May 2018,2018,May,9,2018-05-09
-5986,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-5987,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-5988,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-5989,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-5990,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-5991,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-5992,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-5993,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-5994,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-5995,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-5996,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-5997,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-5998,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-5999,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-6000,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-6001,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6002,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6003,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6004,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6005,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6006,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6007,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6008,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6009,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-6010,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6011,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6012,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6013,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6014,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8400,9600,9000,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6015,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8400,9600,9000,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6016,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6017,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6018,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-6019,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6020,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6021,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6022,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6023,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6024,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6025,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6026,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6027,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8800,10000,9400,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6028,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6029,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-6030,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6031,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6032,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6033,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6034,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6035,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-6036,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6037,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6038,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6039,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6040,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6041,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6042,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6043,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6044,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6045,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6046,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-6047,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6048,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6049,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-6050,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6051,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-6052,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6053,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6054,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6055,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10200,9750,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6056,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10200,9750,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6057,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10200,9750,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-6058,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6059,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6060,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6061,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6062,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6063,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6064,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6065,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6066,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,6000,8000,7000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6067,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,6500,8000,7000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6068,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,7500,7300,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6069,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,7500,7300,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6070,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,7500,7400,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-6071,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6072,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7600,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-6073,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8100,7800,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6074,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-6075,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8700,8100,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6076,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7600,8000,7800,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-6077,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-6078,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9100,8800,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-6079,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9200,8800,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6080,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9200,8800,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6081,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8800,9000,8900,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-6082,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9300,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6083,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,10200,9800,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6084,,Shimoga,Bhadravathi,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8400,8400,8400,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-6085,,Shimoga,Bhadravathi,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,8500,8500,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-6086,,Chamrajnagar,Chamaraj Nagar,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7900,8000,8000,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6087,,Davangere,Davangere,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7346,7346,7346,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6088,,Davangere,Davangere,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8050,8025,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6089,,Davangere,Davangere,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,9700,9450,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6090,,Bangalore,Doddaballa Pur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9410,9500,9480,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6091,,Hassan,Hassan,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8500,7500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6092,,Chitradurga,Hiriyur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8308,8308,8308,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-6093,,Chitradurga,Hiriyur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,8500,8500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6094,,Kolar,Kolar,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7800,8100,8000,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6095,,Kolar,Kolar,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7800,8200,8040,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6096,,Kolar,Kolar,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8600,9000,8970,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6097,,Kolar,Malur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,880,9200,9044,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6098,,Kolar,Malur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8219,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6099,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,800,8600,8300,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6100,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7000,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6101,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6102,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-6103,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7500,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-6104,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8200,7600,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6105,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8200,7600,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6106,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8200,7600,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-6107,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7701,8100,8100,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6108,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7725,7725,7725,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6109,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7850,9403,9000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6110,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8200,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6111,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8300,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6112,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8300,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6113,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8400,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6114,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8400,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6115,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8650,8450,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-6116,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-6117,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-6118,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6119,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-6120,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6121,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6122,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-6123,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8600,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6124,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,13000,12500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6125,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8600,9625,8950,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6126,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8600,9625,8950,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6127,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8800,9100,9100,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6128,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8900,9600,8900,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6129,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9200,9200,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6130,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9250,9150,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-6131,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9800,9500,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-6132,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6133,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,10000,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6134,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,10000,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6135,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,13500,10100,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-6136,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,9350,9150,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6137,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9130,9250,9210,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6138,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9180,9450,9180,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6139,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,9400,9300,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6140,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,13000,10800,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-6141,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,13500,10200,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-6142,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9240,9850,9700,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6143,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9400,9300,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6144,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9400,9300,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-6145,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,12000,10500,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-6146,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,13400,10150,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6147,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,9850,9850,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6148,,Tumkur,Pavagada,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8200,8000,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6149,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6150,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6151,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6152,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-6153,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-6154,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6155,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-6156,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6157,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-6158,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6159,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6160,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-6161,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6162,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6163,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6164,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6165,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6166,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6167,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-6168,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6169,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6170,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6171,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-6172,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6173,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6174,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6175,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6176,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6177,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-6178,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6179,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6180,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6181,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6182,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6183,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6184,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6185,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6186,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10000,9750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6187,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6188,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6189,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6190,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6191,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-6192,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6193,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6194,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6195,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-6196,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-6197,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6198,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6199,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6200,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6201,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6202,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6203,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6204,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6205,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-6206,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6207,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-6208,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-6209,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-6210,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-6211,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-6212,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6213,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6214,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6215,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6216,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-6217,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6218,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6219,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-6220,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-6221,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6222,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6223,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6224,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6225,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-6226,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6227,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6228,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-6229,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6230,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-6231,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6232,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6233,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6234,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-6235,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6236,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6237,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6238,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6239,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6240,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6241,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6242,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-6243,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6244,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6245,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6246,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6247,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6248,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6249,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-6250,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11800,16000,13900,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6251,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7800,7800,7800,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6252,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,8100,8100,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-6253,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8350,8350,8350,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6254,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8600,8600,8600,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6255,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8700,8700,8700,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6256,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,9200,9200,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6257,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11400,11400,11400,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
+5986,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,20 Jul 2024,2024,Jul,20,2024-07-20
+5987,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,22 Jul 2024,2024,Jul,22,2024-07-22
+5988,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,23 Jul 2024,2024,Jul,23,2024-07-23
+5989,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,24 Jul 2024,2024,Jul,24,2024-07-24
+5990,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,25 Jul 2024,2024,Jul,25,2024-07-25
+5991,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,26 Jul 2024,2024,Jul,26,2024-07-26
+5992,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,29 Jul 2024,2024,Jul,29,2024-07-29
+5993,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9400,8700,31 Jul 2024,2024,Jul,31,2024-07-31
+5994,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,01 Jul 2024,2024,Jul,1,2024-07-01
+5995,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,02 Jul 2024,2024,Jul,2,2024-07-02
+5996,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,03 Jul 2024,2024,Jul,3,2024-07-03
+5997,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,04 Jul 2024,2024,Jul,4,2024-07-04
+5998,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,05 Jul 2024,2024,Jul,5,2024-07-05
+5999,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,06 Jul 2024,2024,Jul,6,2024-07-06
+6000,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,08 Jul 2024,2024,Jul,8,2024-07-08
+6001,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,09 Jul 2024,2024,Jul,9,2024-07-09
+6002,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,10 Jul 2024,2024,Jul,10,2024-07-10
+6003,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,11 Jul 2024,2024,Jul,11,2024-07-11
+6004,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,12 Jul 2024,2024,Jul,12,2024-07-12
+6005,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,15 Jul 2024,2024,Jul,15,2024-07-15
+6006,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,9200,8650,19 Jul 2024,2024,Jul,19,2024-07-19
+6007,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,01 Aug 2024,2024,Aug,1,2024-08-01
+6008,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,02 Aug 2024,2024,Aug,2,2024-08-02
+6009,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,03 Aug 2024,2024,Aug,3,2024-08-03
+6010,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,05 Aug 2024,2024,Aug,5,2024-08-05
+6011,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,06 Aug 2024,2024,Aug,6,2024-08-06
+6012,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,07 Aug 2024,2024,Aug,7,2024-08-07
+6013,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,9200,8750,08 Aug 2024,2024,Aug,8,2024-08-08
+6014,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8400,9600,9000,02 Dec 2024,2024,Dec,2,2024-12-02
+6015,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8400,9600,9000,03 Dec 2024,2024,Dec,3,2024-12-03
+6016,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,09 Aug 2024,2024,Aug,9,2024-08-09
+6017,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,12 Aug 2024,2024,Aug,12,2024-08-12
+6018,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,13 Aug 2024,2024,Aug,13,2024-08-13
+6019,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,14 Aug 2024,2024,Aug,14,2024-08-14
+6020,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,16 Aug 2024,2024,Aug,16,2024-08-16
+6021,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,17 Aug 2024,2024,Aug,17,2024-08-17
+6022,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,19 Aug 2024,2024,Aug,19,2024-08-19
+6023,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,20 Aug 2024,2024,Aug,20,2024-08-20
+6024,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,21 Aug 2024,2024,Aug,21,2024-08-21
+6025,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,22 Aug 2024,2024,Aug,22,2024-08-22
+6026,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9900,9200,23 Aug 2024,2024,Aug,23,2024-08-23
+6027,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8800,10000,9400,08 Nov 2024,2024,Nov,8,2024-11-08
+6028,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,01 Oct 2024,2024,Oct,1,2024-10-01
+6029,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,03 Oct 2024,2024,Oct,3,2024-10-03
+6030,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,07 Oct 2024,2024,Oct,7,2024-10-07
+6031,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,17 Sep 2024,2024,Sep,17,2024-09-17
+6032,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,18 Sep 2024,2024,Sep,18,2024-09-18
+6033,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,19 Sep 2024,2024,Sep,19,2024-09-19
+6034,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,20 Sep 2024,2024,Sep,20,2024-09-20
+6035,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,21 Sep 2024,2024,Sep,21,2024-09-21
+6036,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,23 Sep 2024,2024,Sep,23,2024-09-23
+6037,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,24 Sep 2024,2024,Sep,24,2024-09-24
+6038,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,25 Sep 2024,2024,Sep,25,2024-09-25
+6039,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,26 Sep 2024,2024,Sep,26,2024-09-26
+6040,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,27 Sep 2024,2024,Sep,27,2024-09-27
+6041,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,10400,9750,30 Sep 2024,2024,Sep,30,2024-09-30
+6042,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,08 Oct 2024,2024,Oct,8,2024-10-08
+6043,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,09 Oct 2024,2024,Oct,9,2024-10-09
+6044,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,10 Oct 2024,2024,Oct,10,2024-10-10
+6045,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,14 Oct 2024,2024,Oct,14,2024-10-14
+6046,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,15 Oct 2024,2024,Oct,15,2024-10-15
+6047,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,16 Oct 2024,2024,Oct,16,2024-10-16
+6048,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,18 Oct 2024,2024,Oct,18,2024-10-18
+6049,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9600,19 Oct 2024,2024,Oct,19,2024-10-19
+6050,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,09 Sep 2024,2024,Sep,9,2024-09-09
+6051,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,10 Sep 2024,2024,Sep,10,2024-09-10
+6052,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,27 Aug 2024,2024,Aug,27,2024-08-27
+6053,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,28 Aug 2024,2024,Aug,28,2024-08-28
+6054,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10000,9650,29 Aug 2024,2024,Aug,29,2024-08-29
+6055,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10200,9750,11 Sep 2024,2024,Sep,11,2024-09-11
+6056,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10200,9750,12 Sep 2024,2024,Sep,12,2024-09-12
+6057,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,10200,9750,13 Sep 2024,2024,Sep,13,2024-09-13
+6058,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,04 Nov 2024,2024,Nov,4,2024-11-04
+6059,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,21 Oct 2024,2024,Oct,21,2024-10-21
+6060,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,22 Oct 2024,2024,Oct,22,2024-10-22
+6061,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,24 Oct 2024,2024,Oct,24,2024-10-24
+6062,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,25 Oct 2024,2024,Oct,25,2024-10-25
+6063,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,28 Oct 2024,2024,Oct,28,2024-10-28
+6064,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,29 Oct 2024,2024,Oct,29,2024-10-29
+6065,,Bangalore,Bangalore,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10100,9750,30 Oct 2024,2024,Oct,30,2024-10-30
+6066,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,6000,8000,7000,01 Aug 2024,2024,Aug,1,2024-08-01
+6067,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,6500,8000,7000,08 Aug 2024,2024,Aug,8,2024-08-08
+6068,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,7500,7300,18 Sep 2024,2024,Sep,18,2024-09-18
+6069,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,7500,7300,26 Sep 2024,2024,Sep,26,2024-09-26
+6070,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,7500,7400,20 Nov 2024,2024,Nov,20,2024-11-20
+6071,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7500,26 Jul 2024,2024,Jul,26,2024-07-26
+6072,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7600,27 Nov 2024,2024,Nov,27,2024-11-27
+6073,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8100,7800,18 Jul 2024,2024,Jul,18,2024-07-18
+6074,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,25 Nov 2024,2024,Nov,25,2024-11-25
+6075,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8700,8100,01 Oct 2024,2024,Oct,1,2024-10-01
+6076,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7600,8000,7800,13 Nov 2024,2024,Nov,13,2024-11-13
+6077,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,19 Nov 2024,2024,Nov,19,2024-11-19
+6078,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9100,8800,05 Oct 2024,2024,Oct,5,2024-10-05
+6079,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9200,8800,20 Sep 2024,2024,Sep,20,2024-09-20
+6080,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9200,8800,25 Sep 2024,2024,Sep,25,2024-09-25
+6081,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8800,9000,8900,26 Oct 2024,2024,Oct,26,2024-10-26
+6082,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9300,28 Oct 2024,2024,Oct,28,2024-10-28
+6083,,Kolar,Bangarpet,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,10200,9800,25 Oct 2024,2024,Oct,25,2024-10-25
+6084,,Shimoga,Bhadravathi,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8400,8400,8400,26 Nov 2024,2024,Nov,26,2024-11-26
+6085,,Shimoga,Bhadravathi,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,8500,8500,27 Nov 2024,2024,Nov,27,2024-11-27
+6086,,Chamrajnagar,Chamaraj Nagar,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7900,8000,8000,31 Jul 2024,2024,Jul,31,2024-07-31
+6087,,Davangere,Davangere,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7346,7346,7346,17 Aug 2024,2024,Aug,17,2024-08-17
+6088,,Davangere,Davangere,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8050,8025,23 Sep 2024,2024,Sep,23,2024-09-23
+6089,,Davangere,Davangere,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,9700,9450,01 Oct 2024,2024,Oct,1,2024-10-01
+6090,,Bangalore,Doddaballa Pur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9410,9500,9480,10 Jul 2024,2024,Jul,10,2024-07-10
+6091,,Hassan,Hassan,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8500,7500,26 Jul 2024,2024,Jul,26,2024-07-26
+6092,,Chitradurga,Hiriyur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8308,8308,8308,03 Jul 2024,2024,Jul,3,2024-07-03
+6093,,Chitradurga,Hiriyur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,8500,8500,14 Nov 2024,2024,Nov,14,2024-11-14
+6094,,Kolar,Kolar,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7800,8100,8000,12 Jul 2024,2024,Jul,12,2024-07-12
+6095,,Kolar,Kolar,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7800,8200,8040,19 Jul 2024,2024,Jul,19,2024-07-19
+6096,,Kolar,Kolar,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8600,9000,8970,23 Oct 2024,2024,Oct,23,2024-10-23
+6097,,Kolar,Malur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,880,9200,9044,29 Oct 2024,2024,Oct,29,2024-10-29
+6098,,Kolar,Malur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8219,28 Aug 2024,2024,Aug,28,2024-08-28
+6099,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,800,8600,8300,29 Jul 2024,2024,Jul,29,2024-07-29
+6100,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7000,11 Jul 2024,2024,Jul,11,2024-07-11
+6101,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7000,15 Jul 2024,2024,Jul,15,2024-07-15
+6102,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7000,20 Jul 2024,2024,Jul,20,2024-07-20
+6103,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7500,17 Jul 2024,2024,Jul,17,2024-07-17
+6104,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8200,7600,01 Jul 2024,2024,Jul,1,2024-07-01
+6105,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8200,7600,02 Jul 2024,2024,Jul,2,2024-07-02
+6106,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8200,7600,04 Jul 2024,2024,Jul,4,2024-07-04
+6107,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7701,8100,8100,02 Dec 2024,2024,Dec,2,2024-12-02
+6108,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7725,7725,7725,08 Aug 2024,2024,Aug,8,2024-08-08
+6109,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7850,9403,9000,16 Aug 2024,2024,Aug,16,2024-08-16
+6110,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8200,24 Jul 2024,2024,Jul,24,2024-07-24
+6111,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8300,02 Aug 2024,2024,Aug,2,2024-08-02
+6112,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8300,23 Jul 2024,2024,Jul,23,2024-07-23
+6113,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8400,01 Aug 2024,2024,Aug,1,2024-08-01
+6114,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8600,8400,31 Jul 2024,2024,Jul,31,2024-07-31
+6115,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8650,8450,30 Nov 2024,2024,Nov,30,2024-11-30
+6116,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,09 Nov 2024,2024,Nov,9,2024-11-09
+6117,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,15 Oct 2024,2024,Oct,15,2024-10-15
+6118,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,18 Oct 2024,2024,Oct,18,2024-10-18
+6119,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,19 Oct 2024,2024,Oct,19,2024-10-19
+6120,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,21 Oct 2024,2024,Oct,21,2024-10-21
+6121,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,25 Oct 2024,2024,Oct,25,2024-10-25
+6122,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,26 Oct 2024,2024,Oct,26,2024-10-26
+6123,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8600,05 Nov 2024,2024,Nov,5,2024-11-05
+6124,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,13000,12500,11 Nov 2024,2024,Nov,11,2024-11-11
+6125,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8600,9625,8950,09 Oct 2024,2024,Oct,9,2024-10-09
+6126,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8600,9625,8950,23 Sep 2024,2024,Sep,23,2024-09-23
+6127,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8800,9100,9100,17 Aug 2024,2024,Aug,17,2024-08-17
+6128,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8900,9600,8900,24 Sep 2024,2024,Sep,24,2024-09-24
+6129,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9200,9200,29 Aug 2024,2024,Aug,29,2024-08-29
+6130,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9250,9150,26 Aug 2024,2024,Aug,26,2024-08-26
+6131,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9800,9500,11 Oct 2024,2024,Oct,11,2024-10-11
+6132,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,19 Sep 2024,2024,Sep,19,2024-09-19
+6133,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,10000,08 Oct 2024,2024,Oct,8,2024-10-08
+6134,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,10000,30 Sep 2024,2024,Sep,30,2024-09-30
+6135,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,13500,10100,19 Nov 2024,2024,Nov,19,2024-11-19
+6136,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9100,9350,9150,22 Aug 2024,2024,Aug,22,2024-08-22
+6137,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9130,9250,9210,19 Aug 2024,2024,Aug,19,2024-08-19
+6138,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9180,9450,9180,03 Sep 2024,2024,Sep,3,2024-09-03
+6139,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,9400,9300,27 Aug 2024,2024,Aug,27,2024-08-27
+6140,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,13000,10800,15 Nov 2024,2024,Nov,15,2024-11-15
+6141,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,13500,10200,13 Nov 2024,2024,Nov,13,2024-11-13
+6142,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9240,9850,9700,12 Sep 2024,2024,Sep,12,2024-09-12
+6143,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9400,9300,11 Sep 2024,2024,Sep,11,2024-09-11
+6144,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9400,9300,21 Sep 2024,2024,Sep,21,2024-09-21
+6145,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,12000,10500,16 Sep 2024,2024,Sep,16,2024-09-16
+6146,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,13400,10150,18 Sep 2024,2024,Sep,18,2024-09-18
+6147,,Mysore,Mysore (Bandipalya),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,9850,9850,06 Sep 2024,2024,Sep,6,2024-09-06
+6148,,Tumkur,Pavagada,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8200,8000,19 Aug 2024,2024,Aug,19,2024-08-19
+6149,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,01 Aug 2024,2024,Aug,1,2024-08-01
+6150,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,02 Aug 2024,2024,Aug,2,2024-08-02
+6151,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,02 Jul 2024,2024,Jul,2,2024-07-02
+6152,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,03 Aug 2024,2024,Aug,3,2024-08-03
+6153,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,04 Jul 2024,2024,Jul,4,2024-07-04
+6154,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,05 Aug 2024,2024,Aug,5,2024-08-05
+6155,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,05 Jul 2024,2024,Jul,5,2024-07-05
+6156,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,06 Aug 2024,2024,Aug,6,2024-08-06
+6157,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,06 Jul 2024,2024,Jul,6,2024-07-06
+6158,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,07 Aug 2024,2024,Aug,7,2024-08-07
+6159,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,08 Aug 2024,2024,Aug,8,2024-08-08
+6160,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,08 Jul 2024,2024,Jul,8,2024-07-08
+6161,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,09 Aug 2024,2024,Aug,9,2024-08-09
+6162,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,09 Jul 2024,2024,Jul,9,2024-07-09
+6163,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,10 Jul 2024,2024,Jul,10,2024-07-10
+6164,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,11 Jul 2024,2024,Jul,11,2024-07-11
+6165,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,12 Aug 2024,2024,Aug,12,2024-08-12
+6166,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,12 Jul 2024,2024,Jul,12,2024-07-12
+6167,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,13 Aug 2024,2024,Aug,13,2024-08-13
+6168,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,14 Aug 2024,2024,Aug,14,2024-08-14
+6169,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,15 Jul 2024,2024,Jul,15,2024-07-15
+6170,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,16 Aug 2024,2024,Aug,16,2024-08-16
+6171,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,16 Jul 2024,2024,Jul,16,2024-07-16
+6172,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,17 Aug 2024,2024,Aug,17,2024-08-17
+6173,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,18 Jul 2024,2024,Jul,18,2024-07-18
+6174,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,19 Aug 2024,2024,Aug,19,2024-08-19
+6175,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,19 Jul 2024,2024,Jul,19,2024-07-19
+6176,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,20 Aug 2024,2024,Aug,20,2024-08-20
+6177,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,20 Jul 2024,2024,Jul,20,2024-07-20
+6178,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,21 Aug 2024,2024,Aug,21,2024-08-21
+6179,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,23 Jul 2024,2024,Jul,23,2024-07-23
+6180,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,24 Jul 2024,2024,Jul,24,2024-07-24
+6181,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,25 Jul 2024,2024,Jul,25,2024-07-25
+6182,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,26 Jul 2024,2024,Jul,26,2024-07-26
+6183,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,29 Jul 2024,2024,Jul,29,2024-07-29
+6184,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,30 Jul 2024,2024,Jul,30,2024-07-30
+6185,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8300,8500,8400,31 Jul 2024,2024,Jul,31,2024-07-31
+6186,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9400,10000,9750,26 Sep 2024,2024,Sep,26,2024-09-26
+6187,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,02 Dec 2024,2024,Dec,2,2024-12-02
+6188,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,03 Dec 2024,2024,Dec,3,2024-12-03
+6189,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,10 Oct 2024,2024,Oct,10,2024-10-10
+6190,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,14 Oct 2024,2024,Oct,14,2024-10-14
+6191,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,15 Oct 2024,2024,Oct,15,2024-10-15
+6192,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,16 Oct 2024,2024,Oct,16,2024-10-16
+6193,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,18 Oct 2024,2024,Oct,18,2024-10-18
+6194,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,25 Oct 2024,2024,Oct,25,2024-10-25
+6195,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,27 Nov 2024,2024,Nov,27,2024-11-27
+6196,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,28 Nov 2024,2024,Nov,28,2024-11-28
+6197,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9650,28 Oct 2024,2024,Oct,28,2024-10-28
+6198,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,04 Nov 2024,2024,Nov,4,2024-11-04
+6199,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,05 Nov 2024,2024,Nov,5,2024-11-05
+6200,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,06 Nov 2024,2024,Nov,6,2024-11-06
+6201,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,07 Nov 2024,2024,Nov,7,2024-11-07
+6202,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,08 Nov 2024,2024,Nov,8,2024-11-08
+6203,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,11 Nov 2024,2024,Nov,11,2024-11-11
+6204,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,12 Nov 2024,2024,Nov,12,2024-11-12
+6205,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,13 Nov 2024,2024,Nov,13,2024-11-13
+6206,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,14 Nov 2024,2024,Nov,14,2024-11-14
+6207,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,15 Nov 2024,2024,Nov,15,2024-11-15
+6208,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,16 Nov 2024,2024,Nov,16,2024-11-16
+6209,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,19 Nov 2024,2024,Nov,19,2024-11-19
+6210,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,20 Nov 2024,2024,Nov,20,2024-11-20
+6211,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,26 Nov 2024,2024,Nov,26,2024-11-26
+6212,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,29 Oct 2024,2024,Oct,29,2024-10-29
+6213,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,9800,9700,30 Oct 2024,2024,Oct,30,2024-10-30
+6214,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,01 Oct 2024,2024,Oct,1,2024-10-01
+6215,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,02 Sep 2024,2024,Sep,2,2024-09-02
+6216,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,03 Oct 2024,2024,Oct,3,2024-10-03
+6217,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,03 Sep 2024,2024,Sep,3,2024-09-03
+6218,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,04 Oct 2024,2024,Oct,4,2024-10-04
+6219,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,04 Sep 2024,2024,Sep,4,2024-09-04
+6220,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,05 Oct 2024,2024,Oct,5,2024-10-05
+6221,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,05 Sep 2024,2024,Sep,5,2024-09-05
+6222,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,06 Sep 2024,2024,Sep,6,2024-09-06
+6223,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,07 Oct 2024,2024,Oct,7,2024-10-07
+6224,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,08 Oct 2024,2024,Oct,8,2024-10-08
+6225,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,10 Sep 2024,2024,Sep,10,2024-09-10
+6226,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,11 Sep 2024,2024,Sep,11,2024-09-11
+6227,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,12 Sep 2024,2024,Sep,12,2024-09-12
+6228,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,13 Sep 2024,2024,Sep,13,2024-09-13
+6229,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,17 Sep 2024,2024,Sep,17,2024-09-17
+6230,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,19 Oct 2024,2024,Oct,19,2024-10-19
+6231,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,19 Sep 2024,2024,Sep,19,2024-09-19
+6232,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,20 Sep 2024,2024,Sep,20,2024-09-20
+6233,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,21 Oct 2024,2024,Oct,21,2024-10-21
+6234,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,21 Sep 2024,2024,Sep,21,2024-09-21
+6235,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,22 Aug 2024,2024,Aug,22,2024-08-22
+6236,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,22 Oct 2024,2024,Oct,22,2024-10-22
+6237,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,23 Oct 2024,2024,Oct,23,2024-10-23
+6238,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,23 Sep 2024,2024,Sep,23,2024-09-23
+6239,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,24 Oct 2024,2024,Oct,24,2024-10-24
+6240,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,24 Sep 2024,2024,Sep,24,2024-09-24
+6241,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,25 Sep 2024,2024,Sep,25,2024-09-25
+6242,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,26 Aug 2024,2024,Aug,26,2024-08-26
+6243,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,27 Aug 2024,2024,Aug,27,2024-08-27
+6244,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,27 Sep 2024,2024,Sep,27,2024-09-27
+6245,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,28 Aug 2024,2024,Aug,28,2024-08-28
+6246,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,29 Aug 2024,2024,Aug,29,2024-08-29
+6247,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,30 Aug 2024,2024,Aug,30,2024-08-30
+6248,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,30 Sep 2024,2024,Sep,30,2024-09-30
+6249,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9700,10000,9850,31 Aug 2024,2024,Aug,31,2024-08-31
+6250,,Shimoga,Shimoga,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11800,16000,13900,09 Oct 2024,2024,Oct,9,2024-10-09
+6251,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7800,7800,7800,11 Jul 2024,2024,Jul,11,2024-07-11
+6252,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8100,8100,8100,27 Nov 2024,2024,Nov,27,2024-11-27
+6253,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8350,8350,8350,06 Aug 2024,2024,Aug,6,2024-08-06
+6254,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8600,8600,8600,22 Oct 2024,2024,Oct,22,2024-10-22
+6255,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8700,8700,8700,06 Nov 2024,2024,Nov,6,2024-11-06
+6256,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,9200,9200,17 Sep 2024,2024,Sep,17,2024-09-17
+6257,,Tumkur,Sira,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11400,11400,11400,08 Oct 2024,2024,Oct,8,2024-10-08

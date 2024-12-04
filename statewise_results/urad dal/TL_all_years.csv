@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Nizamabad,Nizamabad,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2875,3015,3015,29 Jul 2021,2021,Jul,29,2021-07-29
 1,1.0,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3289,3289,3289,01 Oct 2020,2020,Oct,1,2020-10-01
 2,2.0,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3859,6309,6309,07 Apr 2021,2021,Apr,7,2021-04-07
@@ -1206,111 +1206,111 @@
 1204,1204.0,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5451,5550,5454,12 Sep 2019,2019,Sep,12,2019-09-12
 1205,1205.0,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5559,5559,5559,07 Sep 2019,2019,Sep,7,2019-09-07
 1206,1206.0,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6030,7739,7659,07 Nov 2019,2019,Nov,7,2019-11-07
-1207,,Ranga Reddy,Marapally,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3800,7400,5600,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-1208,,Ranga Reddy,Marapally,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,7500,5750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-1209,,Ranga Reddy,Marapally,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,8400,6300,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-1210,,Ranga Reddy,Marapally,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,8000,6250,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-1211,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3535,4545,3535,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-1212,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7273,8293,8293,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-1213,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8160,8460,8460,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-1214,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8190,8200,8190,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-1215,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8218,8233,8233,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-1216,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8281,8564,8564,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-1217,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2009,2009,2009,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-1218,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2256,4156,2256,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-1219,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2312,4446,4446,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-1220,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2325,2325,2325,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-1221,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2329,5193,5193,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-1222,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2466,2466,2466,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-1223,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3006,3006,3006,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-1224,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3015,3015,3015,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-1225,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3096,3096,3096,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-1226,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3526,5426,5426,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-1227,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3559,3559,3559,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-1228,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3996,3996,3996,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-1229,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4059,4059,4059,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-1230,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4089,7592,4089,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-1231,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4293,4293,4293,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-1232,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4559,4559,4559,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-1233,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4618,4618,4618,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-1234,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4669,4669,4669,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-1235,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5059,5059,5059,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-1236,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5059,5059,5059,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-1237,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5193,6302,5193,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-1238,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5259,5259,5259,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-1239,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5796,5796,5796,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-1240,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6039,7841,6039,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-1241,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6059,6059,6059,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-1242,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6059,6059,6059,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-1243,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6192,6192,6192,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-1244,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6192,8299,6192,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-1245,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6513,6513,6513,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-1246,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6732,6732,6732,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-1247,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7059,7059,7059,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-1248,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7649,7649,7649,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-1249,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7794,7794,7794,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-1250,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7862,7862,7862,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-1251,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8073,8073,8073,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-1252,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8096,8096,8096,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-1253,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8249,8249,8249,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-1254,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8359,8359,8359,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-1255,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,9113,9113,9113,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-1256,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3511,6005,4275,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-1257,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,5211,4000,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-1258,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8157,4603,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-1259,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8225,4453,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-1260,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8227,5203,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-1261,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8257,4623,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-1262,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8361,4453,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-1263,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4003,8318,4403,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-1264,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,5166,4725,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-1265,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,5219,5219,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-1266,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,6849,4419,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-1267,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,7560,5265,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-1268,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8066,4823,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-1269,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8225,4653,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-1270,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8235,4005,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-1271,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8279,8100,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-1272,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8307,5453,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-1273,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8329,4453,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-1274,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8357,4509,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-1275,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8370,4879,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-1276,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8388,5085,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-1277,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8429,6326,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-1278,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4019,8407,4823,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-1279,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4050,5535,4050,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-1280,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4059,8155,8059,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-1281,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4059,8352,4969,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-1282,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4059,8372,5004,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-1283,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4103,8177,4853,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-1284,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4104,8119,5803,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-1285,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4129,8352,5059,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-1286,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4158,8259,8057,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-1287,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4211,8378,5409,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-1288,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4221,6309,4221,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-1289,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4257,8239,8227,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-1290,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4257,8379,4257,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-1291,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4311,8379,4635,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-1292,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4365,8187,4783,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-1293,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4509,8208,8157,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-1294,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4509,8253,4509,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-1295,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4635,7650,4860,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-1296,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4683,7357,4683,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-1297,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4950,8460,7260,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-1298,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,8340,7770,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-1299,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5004,8457,5155,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-1300,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6001,8066,7759,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-1301,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6003,7866,7457,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-1302,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7209,8650,8235,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-1303,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7235,8721,8685,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-1304,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7307,8055,7377,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-1305,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7355,7615,7615,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-1306,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7427,8181,7627,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-1307,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7639,8505,8256,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-1308,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7686,8739,8739,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-1309,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7750,8469,8415,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-1310,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7877,7877,7877,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-1311,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8177,8177,8177,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-1312,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8181,8361,8280,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-1313,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8559,8569,8569,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-1314,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8703,8725,8725,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
+1207,,Ranga Reddy,Marapally,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3800,7400,5600,08 Oct 2024,2024,Oct,8,2024-10-08
+1208,,Ranga Reddy,Marapally,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,7500,5750,01 Oct 2024,2024,Oct,1,2024-10-01
+1209,,Ranga Reddy,Marapally,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,8400,6300,24 Sep 2024,2024,Sep,24,2024-09-24
+1210,,Ranga Reddy,Marapally,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,8000,6250,17 Sep 2024,2024,Sep,17,2024-09-17
+1211,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3535,4545,3535,24 Oct 2024,2024,Oct,24,2024-10-24
+1212,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7273,8293,8293,22 Nov 2024,2024,Nov,22,2024-11-22
+1213,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8160,8460,8460,27 Nov 2024,2024,Nov,27,2024-11-27
+1214,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8190,8200,8190,21 Nov 2024,2024,Nov,21,2024-11-21
+1215,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8218,8233,8233,23 Nov 2024,2024,Nov,23,2024-11-23
+1216,,Mahbubnagar,Nagarkurnool,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8281,8564,8564,28 Nov 2024,2024,Nov,28,2024-11-28
+1217,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2009,2009,2009,05 Sep 2024,2024,Sep,5,2024-09-05
+1218,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2256,4156,2256,30 Aug 2024,2024,Aug,30,2024-08-30
+1219,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2312,4446,4446,24 Oct 2024,2024,Oct,24,2024-10-24
+1220,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2325,2325,2325,29 Nov 2024,2024,Nov,29,2024-11-29
+1221,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2329,5193,5193,21 Oct 2024,2024,Oct,21,2024-10-21
+1222,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2466,2466,2466,30 Oct 2024,2024,Oct,30,2024-10-30
+1223,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3006,3006,3006,07 Oct 2024,2024,Oct,7,2024-10-07
+1224,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3015,3015,3015,26 Sep 2024,2024,Sep,26,2024-09-26
+1225,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3096,3096,3096,19 Sep 2024,2024,Sep,19,2024-09-19
+1226,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3526,5426,5426,22 Oct 2024,2024,Oct,22,2024-10-22
+1227,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3559,3559,3559,24 Aug 2024,2024,Aug,24,2024-08-24
+1228,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3996,3996,3996,04 Nov 2024,2024,Nov,4,2024-11-04
+1229,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4059,4059,4059,09 Sep 2024,2024,Sep,9,2024-09-09
+1230,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4089,7592,4089,19 Jul 2024,2024,Jul,19,2024-07-19
+1231,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4293,4293,4293,06 Sep 2024,2024,Sep,6,2024-09-06
+1232,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4559,4559,4559,04 Sep 2024,2024,Sep,4,2024-09-04
+1233,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4618,4618,4618,25 Oct 2024,2024,Oct,25,2024-10-25
+1234,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4669,4669,4669,22 Jul 2024,2024,Jul,22,2024-07-22
+1235,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5059,5059,5059,16 Jul 2024,2024,Jul,16,2024-07-16
+1236,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5059,5059,5059,22 Aug 2024,2024,Aug,22,2024-08-22
+1237,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5193,6302,5193,30 Sep 2024,2024,Sep,30,2024-09-30
+1238,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5259,5259,5259,20 Sep 2024,2024,Sep,20,2024-09-20
+1239,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5796,5796,5796,24 Sep 2024,2024,Sep,24,2024-09-24
+1240,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6039,7841,6039,21 Aug 2024,2024,Aug,21,2024-08-21
+1241,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6059,6059,6059,14 Sep 2024,2024,Sep,14,2024-09-14
+1242,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6059,6059,6059,23 Oct 2024,2024,Oct,23,2024-10-23
+1243,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6192,6192,6192,18 Sep 2024,2024,Sep,18,2024-09-18
+1244,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6192,8299,6192,09 Jul 2024,2024,Jul,9,2024-07-09
+1245,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6513,6513,6513,16 Oct 2024,2024,Oct,16,2024-10-16
+1246,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6732,6732,6732,18 Oct 2024,2024,Oct,18,2024-10-18
+1247,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7059,7059,7059,12 Sep 2024,2024,Sep,12,2024-09-12
+1248,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7649,7649,7649,13 Jul 2024,2024,Jul,13,2024-07-13
+1249,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7794,7794,7794,09 Aug 2024,2024,Aug,9,2024-08-09
+1250,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7862,7862,7862,16 Aug 2024,2024,Aug,16,2024-08-16
+1251,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8073,8073,8073,18 Jul 2024,2024,Jul,18,2024-07-18
+1252,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8096,8096,8096,06 Jul 2024,2024,Jul,6,2024-07-06
+1253,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8249,8249,8249,08 Jul 2024,2024,Jul,8,2024-07-08
+1254,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8359,8359,8359,12 Jul 2024,2024,Jul,12,2024-07-12
+1255,,Nalgonda,Suryapeta,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,9113,9113,9113,11 Jul 2024,2024,Jul,11,2024-07-11
+1256,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3511,6005,4275,02 Dec 2024,2024,Dec,2,2024-12-02
+1257,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,5211,4000,22 Nov 2024,2024,Nov,22,2024-11-22
+1258,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8157,4603,19 Sep 2024,2024,Sep,19,2024-09-19
+1259,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8225,4453,20 Sep 2024,2024,Sep,20,2024-09-20
+1260,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8227,5203,30 Sep 2024,2024,Sep,30,2024-09-30
+1261,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8257,4623,25 Sep 2024,2024,Sep,25,2024-09-25
+1262,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4000,8361,4453,24 Sep 2024,2024,Sep,24,2024-09-24
+1263,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4003,8318,4403,21 Sep 2024,2024,Sep,21,2024-09-21
+1264,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,5166,4725,28 Nov 2024,2024,Nov,28,2024-11-28
+1265,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,5219,5219,23 Nov 2024,2024,Nov,23,2024-11-23
+1266,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,6849,4419,14 Nov 2024,2024,Nov,14,2024-11-14
+1267,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,7560,5265,18 Nov 2024,2024,Nov,18,2024-11-18
+1268,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8066,4823,04 Oct 2024,2024,Oct,4,2024-10-04
+1269,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8225,4653,01 Oct 2024,2024,Oct,1,2024-10-01
+1270,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8235,4005,27 Sep 2024,2024,Sep,27,2024-09-27
+1271,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8279,8100,03 Oct 2024,2024,Oct,3,2024-10-03
+1272,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8307,5453,18 Oct 2024,2024,Oct,18,2024-10-18
+1273,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8329,4453,23 Sep 2024,2024,Sep,23,2024-09-23
+1274,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8357,4509,26 Sep 2024,2024,Sep,26,2024-09-26
+1275,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8370,4879,05 Oct 2024,2024,Oct,5,2024-10-05
+1276,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8388,5085,09 Nov 2024,2024,Nov,9,2024-11-09
+1277,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4005,8429,6326,07 Nov 2024,2024,Nov,7,2024-11-07
+1278,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4019,8407,4823,28 Sep 2024,2024,Sep,28,2024-09-28
+1279,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4050,5535,4050,19 Nov 2024,2024,Nov,19,2024-11-19
+1280,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4059,8155,8059,16 Nov 2024,2024,Nov,16,2024-11-16
+1281,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4059,8352,4969,05 Nov 2024,2024,Nov,5,2024-11-05
+1282,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4059,8372,5004,06 Nov 2024,2024,Nov,6,2024-11-06
+1283,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4103,8177,4853,08 Oct 2024,2024,Oct,8,2024-10-08
+1284,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4104,8119,5803,14 Oct 2024,2024,Oct,14,2024-10-14
+1285,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4129,8352,5059,09 Oct 2024,2024,Oct,9,2024-10-09
+1286,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4158,8259,8057,07 Oct 2024,2024,Oct,7,2024-10-07
+1287,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4211,8378,5409,08 Nov 2024,2024,Nov,8,2024-11-08
+1288,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4221,6309,4221,20 Nov 2024,2024,Nov,20,2024-11-20
+1289,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4257,8239,8227,16 Oct 2024,2024,Oct,16,2024-10-16
+1290,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4257,8379,4257,11 Nov 2024,2024,Nov,11,2024-11-11
+1291,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4311,8379,4635,12 Nov 2024,2024,Nov,12,2024-11-12
+1292,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4365,8187,4783,19 Oct 2024,2024,Oct,19,2024-10-19
+1293,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4509,8208,8157,15 Oct 2024,2024,Oct,15,2024-10-15
+1294,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4509,8253,4509,13 Nov 2024,2024,Nov,13,2024-11-13
+1295,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4635,7650,4860,26 Nov 2024,2024,Nov,26,2024-11-26
+1296,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4683,7357,4683,10 Oct 2024,2024,Oct,10,2024-10-10
+1297,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4950,8460,7260,24 Oct 2024,2024,Oct,24,2024-10-24
+1298,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,8340,7770,25 Oct 2024,2024,Oct,25,2024-10-25
+1299,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5004,8457,5155,04 Nov 2024,2024,Nov,4,2024-11-04
+1300,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6001,8066,7759,13 Sep 2024,2024,Sep,13,2024-09-13
+1301,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6003,7866,7457,14 Sep 2024,2024,Sep,14,2024-09-14
+1302,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7209,8650,8235,29 Aug 2024,2024,Aug,29,2024-08-29
+1303,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7235,8721,8685,30 Aug 2024,2024,Aug,30,2024-08-30
+1304,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7307,8055,7377,17 Sep 2024,2024,Sep,17,2024-09-17
+1305,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7355,7615,7615,10 Sep 2024,2024,Sep,10,2024-09-10
+1306,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7427,8181,7627,09 Sep 2024,2024,Sep,9,2024-09-09
+1307,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7639,8505,8256,04 Sep 2024,2024,Sep,4,2024-09-04
+1308,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7686,8739,8739,03 Sep 2024,2024,Sep,3,2024-09-03
+1309,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7750,8469,8415,05 Sep 2024,2024,Sep,5,2024-09-05
+1310,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7877,7877,7877,24 Aug 2024,2024,Aug,24,2024-08-24
+1311,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8177,8177,8177,23 Aug 2024,2024,Aug,23,2024-08-23
+1312,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8181,8361,8280,06 Sep 2024,2024,Sep,6,2024-09-06
+1313,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8559,8569,8569,28 Aug 2024,2024,Aug,28,2024-08-28
+1314,,Ranga Reddy,Tanduru,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8703,8725,8725,31 Aug 2024,2024,Aug,31,2024-08-31

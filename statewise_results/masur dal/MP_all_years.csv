@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Bhind,Alampur,Masur Dal,Kala Masoor New,FAQ,4500,4650,4600,12 Oct 2020,2020,Oct,12,2020-10-12
 1,1.0,Mandsaur,Daloda,Masur Dal,Masoor Gola,FAQ,3500,4700,4500,18 Jan 2021,2021,Jan,18,2021-01-18
 2,2.0,Mandsaur,Daloda,Masur Dal,Masoor Gola,FAQ,3900,4800,4500,05 Feb 2021,2021,Feb,5,2021-02-05
@@ -3176,231 +3176,231 @@
 3174,3174.0,Ujjain,Ujjain,Masur Dal,Masoor Gola,FAQ,3551,3561,3561,04 Aug 2018,2018,Aug,4,2018-08-04
 3175,3175.0,Ujjain,Ujjain,Masur Dal,Masoor Gola,FAQ,3666,3800,3710,18 Jul 2018,2018,Jul,18,2018-07-18
 3176,3176.0,Ujjain,Ujjain,Masur Dal,Masoor Gola,FAQ,3690,3690,3690,20 Jul 2018,2018,Jul,20,2018-07-20
-3177,,Bhind,Alampur,Masur Dal,Other,FAQ,2390,2390,2390,15 Sep 2014,2014,Sep,15,2014-09-15 00:00:00
-3178,,Bhind,Alampur,Masur Dal,Other,FAQ,4474,4474,4474,09 Oct 2014,2014,Oct,09,2014-10-09 00:00:00
-3179,,Bhind,Alampur,Masur Dal,Other,FAQ,4600,4600,4600,17 Oct 2014,2014,Oct,17,2014-10-17 00:00:00
-3180,,Bhind,Alampur,Masur Dal,Other,FAQ,4600,4600,4600,27 Oct 2014,2014,Oct,27,2014-10-27 00:00:00
-3181,,Bhind,Alampur,Masur Dal,Other,FAQ,4600,4700,4650,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
-3182,,Bhind,Alampur,Masur Dal,Other,FAQ,4675,4675,4675,10 Oct 2014,2014,Oct,10,2014-10-10 00:00:00
-3183,,Bhind,Alampur,Masur Dal,Other,FAQ,4953,4953,4953,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-3184,,Bhind,Alampur,Masur Dal,Other,FAQ,5000,5000,5000,11 Jan 2015,2015,Jan,11,2015-01-11 00:00:00
-3185,,Sehore,Ashta,Masur Dal,Other,FAQ,2000,4015,3750,11 Mar 2015,2015,Mar,11,2015-03-11 00:00:00
-3186,,Sehore,Ashta,Masur Dal,Other,FAQ,2000,5166,5166,18 Oct 2014,2014,Oct,18,2014-10-18 00:00:00
-3187,,Sehore,Ashta,Masur Dal,Other,FAQ,2275,4411,4336,05 Mar 2015,2015,Mar,05,2015-03-05 00:00:00
-3188,,Sehore,Ashta,Masur Dal,Other,FAQ,2380,4699,4553,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
-3189,,Sehore,Ashta,Masur Dal,Other,FAQ,2500,4301,4171,14 Mar 2015,2015,Mar,14,2015-03-14 00:00:00
-3190,,Sehore,Ashta,Masur Dal,Other,FAQ,2500,4573,4452,24 Mar 2015,2015,Mar,24,2015-03-24 00:00:00
-3191,,Sehore,Ashta,Masur Dal,Other,FAQ,2570,4552,4480,28 Feb 2015,2015,Feb,28,2015-02-28 00:00:00
-3192,,Sehore,Ashta,Masur Dal,Other,FAQ,2788,4253,4191,17 Mar 2015,2015,Mar,17,2015-03-17 00:00:00
-3193,,Sehore,Ashta,Masur Dal,Other,FAQ,2801,4250,4000,13 Mar 2015,2015,Mar,13,2015-03-13 00:00:00
-3194,,Sehore,Ashta,Masur Dal,Other,FAQ,2803,4587,4500,18 Mar 2015,2015,Mar,18,2015-03-18 00:00:00
-3195,,Sehore,Ashta,Masur Dal,Other,FAQ,2830,4116,3900,12 Mar 2015,2015,Mar,12,2015-03-12 00:00:00
-3196,,Sehore,Ashta,Masur Dal,Other,FAQ,2960,4714,4500,02 Mar 2015,2015,Mar,02,2015-03-02 00:00:00
-3197,,Sehore,Ashta,Masur Dal,Other,FAQ,3000,4422,4301,04 Mar 2015,2015,Mar,04,2015-03-04 00:00:00
-3198,,Sehore,Ashta,Masur Dal,Other,FAQ,3000,4565,4500,23 Mar 2015,2015,Mar,23,2015-03-23 00:00:00
-3199,,Sehore,Ashta,Masur Dal,Other,FAQ,3000,4750,4502,27 Mar 2015,2015,Mar,27,2015-03-27 00:00:00
-3200,,Sehore,Ashta,Masur Dal,Other,FAQ,3000,5412,5000,09 Apr 2015,2015,Apr,09,2015-04-09 00:00:00
-3201,,Sehore,Ashta,Masur Dal,Other,FAQ,3130,4695,4500,25 Mar 2015,2015,Mar,25,2015-03-25 00:00:00
-3202,,Sehore,Ashta,Masur Dal,Other,FAQ,3270,4386,4200,16 Mar 2015,2015,Mar,16,2015-03-16 00:00:00
-3203,,Sehore,Ashta,Masur Dal,Other,FAQ,3300,5311,5000,07 Apr 2015,2015,Apr,07,2015-04-07 00:00:00
-3204,,Sehore,Ashta,Masur Dal,Other,FAQ,3301,4641,4400,27 Feb 2015,2015,Feb,27,2015-02-27 00:00:00
-3205,,Sehore,Ashta,Masur Dal,Other,FAQ,3500,4540,4400,03 Mar 2015,2015,Mar,03,2015-03-03 00:00:00
-3206,,Sehore,Ashta,Masur Dal,Other,FAQ,3810,4810,4810,13 Oct 2014,2014,Oct,13,2014-10-13 00:00:00
-3207,,Sehore,Ashta,Masur Dal,Other,FAQ,4000,5251,4901,06 Apr 2015,2015,Apr,06,2015-04-06 00:00:00
-3208,,Sehore,Ashta,Masur Dal,Other,FAQ,4000,5401,5305,08 Apr 2015,2015,Apr,08,2015-04-08 00:00:00
-3209,,Sehore,Ashta,Masur Dal,Other,FAQ,4001,4714,4660,26 Feb 2015,2015,Feb,26,2015-02-26 00:00:00
-3210,,Sehore,Ashta,Masur Dal,Other,FAQ,4205,4665,4665,03 Apr 2015,2015,Apr,03,2015-04-03 00:00:00
-3211,,Sehore,Ashta,Masur Dal,Other,FAQ,5040,5040,5040,18 Sep 2014,2014,Sep,18,2014-09-18 00:00:00
-3212,,Ujjain,Badnagar,Masur Dal,Other,FAQ,5000,5000,5000,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
-3213,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,3401,5100,4853,20 Dec 2014,2014,Dec,20,2014-12-20 00:00:00
-3214,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,3550,3550,3550,12 Mar 2015,2015,Mar,12,2015-03-12 00:00:00
-3215,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4000,4000,4000,14 Feb 2015,2015,Feb,14,2015-02-14 00:00:00
-3216,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4000,4000,4000,24 Feb 2015,2015,Feb,24,2015-02-24 00:00:00
-3217,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4000,4600,4540,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
-3218,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4000,5051,5051,12 Jan 2015,2015,Jan,12,2015-01-12 00:00:00
-3219,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4005,4680,4500,30 Mar 2015,2015,Mar,30,2015-03-30 00:00:00
-3220,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4100,4100,4100,28 Feb 2015,2015,Feb,28,2015-02-28 00:00:00
-3221,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4100,4600,4451,25 Mar 2015,2015,Mar,25,2015-03-25 00:00:00
-3222,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4100,5051,4700,01 Apr 2015,2015,Apr,01,2015-04-01 00:00:00
-3223,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4190,5086,4860,03 Apr 2015,2015,Apr,03,2015-04-03 00:00:00
-3224,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4200,4610,4525,27 Mar 2015,2015,Mar,27,2015-03-27 00:00:00
-3225,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4215,4220,4220,20 Feb 2015,2015,Feb,20,2015-02-20 00:00:00
-3226,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4220,4280,4280,18 Feb 2015,2015,Feb,18,2015-02-18 00:00:00
-3227,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4225,4325,4325,28 Mar 2015,2015,Mar,28,2015-03-28 00:00:00
-3228,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4290,5014,4650,31 Mar 2015,2015,Mar,31,2015-03-31 00:00:00
-3229,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4300,4300,4300,19 Mar 2015,2015,Mar,19,2015-03-19 00:00:00
-3230,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4300,4300,4300,20 Mar 2015,2015,Mar,20,2015-03-20 00:00:00
-3231,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4300,4501,4482,24 Mar 2015,2015,Mar,24,2015-03-24 00:00:00
-3232,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4360,4942,4766,02 Apr 2015,2015,Apr,02,2015-04-02 00:00:00
-3233,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4400,4400,4400,23 Feb 2015,2015,Feb,23,2015-02-23 00:00:00
-3234,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4400,4500,4500,31 Jan 2015,2015,Jan,31,2015-01-31 00:00:00
-3235,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4400,4860,4750,10 Oct 2014,2014,Oct,10,2014-10-10 00:00:00
-3236,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4400,4860,4860,19 Dec 2014,2014,Dec,19,2014-12-19 00:00:00
-3237,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4401,4450,4420,05 Dec 2014,2014,Dec,05,2014-12-05 00:00:00
-3238,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4450,4450,4450,08 Dec 2014,2014,Dec,08,2014-12-08 00:00:00
-3239,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4480,4540,4540,03 Dec 2014,2014,Dec,03,2014-12-03 00:00:00
-3240,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4481,4481,4481,23 Mar 2015,2015,Mar,23,2015-03-23 00:00:00
-3241,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4488,4821,4560,10 Dec 2014,2014,Dec,10,2014-12-10 00:00:00
-3242,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4490,4500,4500,07 Oct 2014,2014,Oct,07,2014-10-07 00:00:00
-3243,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4500,4780,4700,11 Oct 2014,2014,Oct,11,2014-10-11 00:00:00
-3244,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4500,4800,4800,04 Dec 2014,2014,Dec,04,2014-12-04 00:00:00
-3245,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4500,4896,4710,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
-3246,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4514,4800,4700,14 Oct 2014,2014,Oct,14,2014-10-14 00:00:00
-3247,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4524,4700,4670,13 Dec 2014,2014,Dec,13,2014-12-13 00:00:00
-3248,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4526,4875,4750,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
-3249,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4541,4800,4581,12 Nov 2014,2014,Nov,12,2014-11-12 00:00:00
-3250,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4545,4856,4729,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-3251,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4549,4549,4549,20 Oct 2014,2014,Oct,20,2014-10-20 00:00:00
-3252,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4550,4602,4600,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
-3253,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4551,4810,4600,15 Oct 2014,2014,Oct,15,2014-10-15 00:00:00
-3254,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4552,4958,4800,19 Nov 2014,2014,Nov,19,2014-11-19 00:00:00
-3255,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4575,4800,4760,25 Oct 2014,2014,Oct,25,2014-10-25 00:00:00
-3256,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4577,4577,4577,25 Feb 2015,2015,Feb,25,2015-02-25 00:00:00
-3257,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4599,4710,4690,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
-3258,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4600,4600,4600,08 Oct 2014,2014,Oct,08,2014-10-08 00:00:00
-3259,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4600,4900,4700,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
-3260,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4600,4980,4901,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
-3261,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4600,5100,4875,04 Apr 2015,2015,Apr,04,2015-04-04 00:00:00
-3262,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4610,4880,4700,05 Sep 2014,2014,Sep,05,2014-09-05 00:00:00
-3263,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4628,5586,5025,08 Apr 2015,2015,Apr,08,2015-04-08 00:00:00
-3264,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4650,4790,4700,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
-3265,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4651,5000,4850,03 Nov 2014,2014,Nov,03,2014-11-03 00:00:00
-3266,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4652,4875,4800,27 Sep 2014,2014,Sep,27,2014-09-27 00:00:00
-3267,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4669,5000,4841,13 Nov 2014,2014,Nov,13,2014-11-13 00:00:00
-3268,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4670,4997,4850,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
-3269,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4690,4845,4711,20 Sep 2014,2014,Sep,20,2014-09-20 00:00:00
-3270,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4699,4699,4699,10 Jan 2015,2015,Jan,10,2015-01-10 00:00:00
-3271,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4699,4800,4774,09 Oct 2014,2014,Oct,09,2014-10-09 00:00:00
-3272,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4699,4820,4800,29 Nov 2014,2014,Nov,29,2014-11-29 00:00:00
-3273,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4700,4700,27 Oct 2014,2014,Oct,27,2014-10-27 00:00:00
-3274,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4710,4710,22 Oct 2014,2014,Oct,22,2014-10-22 00:00:00
-3275,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4775,4775,26 Oct 2014,2014,Oct,26,2014-10-26 00:00:00
-3276,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4785,4751,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
-3277,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4800,4800,13 Oct 2014,2014,Oct,13,2014-10-13 00:00:00
-3278,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4825,4775,28 Oct 2014,2014,Oct,28,2014-10-28 00:00:00
-3279,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4850,4849,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
-3280,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4855,4825,24 Nov 2014,2014,Nov,24,2014-11-24 00:00:00
-3281,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4861,4782,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-3282,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4890,4830,02 Sep 2014,2014,Sep,02,2014-09-02 00:00:00
-3283,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4926,4853,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
-3284,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4977,4800,16 Dec 2014,2014,Dec,16,2014-12-16 00:00:00
-3285,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,5200,4970,08 Nov 2014,2014,Nov,08,2014-11-08 00:00:00
-3286,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4731,4800,4750,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00
-3287,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4733,4733,4733,18 Oct 2014,2014,Oct,18,2014-10-18 00:00:00
-3288,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,4750,4750,24 Dec 2014,2014,Dec,24,2014-12-24 00:00:00
-3289,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,4800,4800,15 Sep 2014,2014,Sep,15,2014-09-15 00:00:00
-3290,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,4840,4840,09 Sep 2014,2014,Sep,09,2014-09-09 00:00:00
-3291,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,4853,4853,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-3292,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,5050,4900,13 Sep 2014,2014,Sep,13,2014-09-13 00:00:00
-3293,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,5202,4900,23 Dec 2014,2014,Dec,23,2014-12-23 00:00:00
-3294,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4751,4751,4751,17 Oct 2014,2014,Oct,17,2014-10-17 00:00:00
-3295,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4753,5150,5000,11 Apr 2015,2015,Apr,11,2015-04-11 00:00:00
-3296,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4760,4760,4760,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
-3297,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4760,4825,4825,29 Oct 2014,2014,Oct,29,2014-10-29 00:00:00
-3298,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4781,4781,4781,30 Sep 2014,2014,Sep,30,2014-09-30 00:00:00
-3299,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4790,4890,4800,29 Sep 2014,2014,Sep,29,2014-09-29 00:00:00
-3300,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4800,4800,01 Nov 2014,2014,Nov,01,2014-11-01 00:00:00
-3301,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4800,4800,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
-3302,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4800,4800,21 Jan 2015,2015,Jan,21,2015-01-21 00:00:00
-3303,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4800,4800,23 Nov 2014,2014,Nov,23,2014-11-23 00:00:00
-3304,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4830,4830,08 Sep 2014,2014,Sep,08,2014-09-08 00:00:00
-3305,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4833,4805,27 Nov 2014,2014,Nov,27,2014-11-27 00:00:00
-3306,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4899,4899,15 Dec 2014,2014,Dec,15,2014-12-15 00:00:00
-3307,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4900,4850,15 Nov 2014,2014,Nov,15,2014-11-15 00:00:00
-3308,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,5200,5200,27 Dec 2014,2014,Dec,27,2014-12-27 00:00:00
-3309,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,5250,5150,31 Dec 2014,2014,Dec,31,2014-12-31 00:00:00
-3310,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,5251,5000,07 Apr 2015,2015,Apr,07,2015-04-07 00:00:00
-3311,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,5268,5212,06 Apr 2015,2015,Apr,06,2015-04-06 00:00:00
-3312,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4810,4879,4879,31 Oct 2014,2014,Oct,31,2014-10-31 00:00:00
-3313,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4811,4811,4811,28 Nov 2014,2014,Nov,28,2014-11-28 00:00:00
-3314,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4840,4840,4840,20 Jan 2015,2015,Jan,20,2015-01-20 00:00:00
-3315,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4840,5000,5000,21 Sep 2014,2014,Sep,21,2014-09-21 00:00:00
-3316,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4845,4931,4931,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
-3317,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4850,4870,4870,22 Sep 2014,2014,Sep,22,2014-09-22 00:00:00
-3318,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4850,4900,4900,25 Sep 2014,2014,Sep,25,2014-09-25 00:00:00
-3319,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4850,4989,4989,17 Dec 2014,2014,Dec,17,2014-12-17 00:00:00
-3320,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4858,4950,4901,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
-3321,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4897,4930,4930,26 Sep 2014,2014,Sep,26,2014-09-26 00:00:00
-3322,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4899,4899,4899,22 Nov 2014,2014,Nov,22,2014-11-22 00:00:00
-3323,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4899,4899,4899,24 Jan 2015,2015,Jan,24,2015-01-24 00:00:00
-3324,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4900,4950,4950,29 Dec 2014,2014,Dec,29,2014-12-29 00:00:00
-3325,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4900,5099,5000,07 Nov 2014,2014,Nov,07,2014-11-07 00:00:00
-3326,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4900,5175,5175,19 Jan 2015,2015,Jan,19,2015-01-19 00:00:00
-3327,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4900,5455,5331,10 Apr 2015,2015,Apr,10,2015-04-10 00:00:00
-3328,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4910,5000,5000,05 Nov 2014,2014,Nov,05,2014-11-05 00:00:00
-3329,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4910,5100,5081,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
-3330,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4950,5150,5150,26 Dec 2014,2014,Dec,26,2014-12-26 00:00:00
-3331,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4950,5250,5200,30 Dec 2014,2014,Dec,30,2014-12-30 00:00:00
-3332,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5000,5000,5000,03 Jan 2015,2015,Jan,03,2015-01-03 00:00:00
-3333,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5000,5000,5000,21 Dec 2014,2014,Dec,21,2014-12-21 00:00:00
-3334,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5000,5070,5070,22 Dec 2014,2014,Dec,22,2014-12-22 00:00:00
-3335,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5111,5225,5225,05 Jan 2015,2015,Jan,05,2015-01-05 00:00:00
-3336,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5231,5231,5231,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
-3337,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5269,5776,5537,09 Apr 2015,2015,Apr,09,2015-04-09 00:00:00
-3338,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5551,5551,5551,09 Jan 2015,2015,Jan,09,2015-01-09 00:00:00
-3339,,Bhind,Gohad,Masur Dal,Other,FAQ,3975,4970,4595,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-3340,,Bhind,Gohad,Masur Dal,Other,FAQ,4000,4500,4000,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
-3341,,Bhind,Gohad,Masur Dal,Other,FAQ,4300,4300,4300,08 Sep 2014,2014,Sep,08,2014-09-08 00:00:00
-3342,,Bhind,Gohad,Masur Dal,Other,FAQ,4300,4890,4300,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-3343,,Bhind,Gohad,Masur Dal,Other,FAQ,4400,4800,4400,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
-3344,,Bhind,Gohad,Masur Dal,Other,FAQ,4500,4500,4500,14 Oct 2014,2014,Oct,14,2014-10-14 00:00:00
-3345,,Bhind,Gohad,Masur Dal,Other,FAQ,4550,4550,4550,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-3346,,Bhind,Gohad,Masur Dal,Other,FAQ,4585,4800,4750,13 Oct 2014,2014,Oct,13,2014-10-13 00:00:00
-3347,,Bhind,Gohad,Masur Dal,Other,FAQ,4600,4895,4600,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
-3348,,Bhind,Gohad,Masur Dal,Other,FAQ,4650,4705,4650,11 Oct 2014,2014,Oct,11,2014-10-11 00:00:00
-3349,,Bhind,Gohad,Masur Dal,Other,FAQ,4900,4950,4900,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
-3350,,Ashoknagar,Isagarh,Masur Dal,Other,FAQ,5460,5460,5460,10 Jan 2015,2015,Jan,10,2015-01-10 00:00:00
-3351,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,3900,3400,18 Oct 2014,2014,Oct,18,2014-10-18 00:00:00
-3352,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,4200,3500,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-3353,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,5000,4000,24 Sep 2014,2014,Sep,24,2014-09-24 00:00:00
-3354,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,5000,4200,09 Sep 2014,2014,Sep,09,2014-09-09 00:00:00
-3355,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,5000,4200,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-3356,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,5000,4300,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-3357,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3200,4400,3500,08 Sep 2014,2014,Sep,08,2014-09-08 00:00:00
-3358,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3200,5000,4200,11 Sep 2014,2014,Sep,11,2014-09-11 00:00:00
-3359,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3400,4400,3500,27 Sep 2014,2014,Sep,27,2014-09-27 00:00:00
-3360,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3500,5000,4500,20 Sep 2014,2014,Sep,20,2014-09-20 00:00:00
-3361,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3500,5000,4500,26 Sep 2014,2014,Sep,26,2014-09-26 00:00:00
-3362,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3800,4400,4000,07 Oct 2014,2014,Oct,07,2014-10-07 00:00:00
-3363,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,4000,4500,4200,30 Sep 2014,2014,Sep,30,2014-09-30 00:00:00
-3364,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,4000,5500,4900,08 Nov 2014,2014,Nov,08,2014-11-08 00:00:00
-3365,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,4800,5400,5000,01 Nov 2014,2014,Nov,01,2014-11-01 00:00:00
-3366,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,3700,5200,5031,15 Sep 2014,2014,Sep,15,2014-09-15 00:00:00
-3367,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4600,5000,4800,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-3368,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4600,5170,5051,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-3369,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4725,5175,4950,02 Sep 2014,2014,Sep,02,2014-09-02 00:00:00
-3370,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4761,5122,4942,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
-3371,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4800,5145,4995,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
-3372,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4830,5369,5200,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
-3373,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4975,5172,5171,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-3374,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,5000,5271,5070,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
-3375,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,3000,0,05 Nov 2014,2014,Nov,05,2014-11-05 00:00:00
-3376,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,3301,0,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-3377,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,4001,0,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
-3378,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,4701,0,11 Oct 2014,2014,Oct,11,2014-10-11 00:00:00
-3379,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,4754,0,16 Oct 2014,2014,Oct,16,2014-10-16 00:00:00
-3380,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,4799,0,08 Dec 2014,2014,Dec,08,2014-12-08 00:00:00
-3381,,Bhind,Mehgaon,Masur Dal,Other,FAQ,3950,4050,4000,15 Sep 2014,2014,Sep,15,2014-09-15 00:00:00
-3382,,Bhind,Mehgaon,Masur Dal,Other,FAQ,3980,4030,4000,11 Sep 2014,2014,Sep,11,2014-09-11 00:00:00
-3383,,Bhind,Mow,Masur Dal,Other,FAQ,3500,3500,3500,08 Jan 2015,2015,Jan,08,2015-01-08 00:00:00
-3384,,Bhind,Mow,Masur Dal,Other,FAQ,3500,3500,3500,12 Jan 2015,2015,Jan,12,2015-01-12 00:00:00
-3385,,Bhind,Mow,Masur Dal,Other,FAQ,3550,3550,3550,22 Oct 2014,2014,Oct,22,2014-10-22 00:00:00
-3386,,Bhind,Mow,Masur Dal,Other,FAQ,3900,3900,3900,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
-3387,,Bhind,Mow,Masur Dal,Other,FAQ,4000,4000,4000,14 Oct 2014,2014,Oct,14,2014-10-14 00:00:00
-3388,,Ashoknagar,Piprai,Masur Dal,Other,FAQ,5029,5029,5029,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-3389,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,4951,4900,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-3390,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5048,4941,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-3391,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5095,5000,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
-3392,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5100,4996,05 Sep 2014,2014,Sep,05,2014-09-05 00:00:00
-3393,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5119,5015,02 Sep 2014,2014,Sep,02,2014-09-02 00:00:00
-3394,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5207,5148,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-3395,,Rewa,Rewa,Masur Dal,Other,FAQ,4550,5090,5000,09 Sep 2014,2014,Sep,09,2014-09-09 00:00:00
-3396,,Rewa,Rewa,Masur Dal,Other,FAQ,4600,5031,4952,08 Sep 2014,2014,Sep,08,2014-09-08 00:00:00
-3397,,Rewa,Rewa,Masur Dal,Other,FAQ,4600,5081,4995,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
-3398,,Morena,Sabalgarh,Masur Dal,Other,FAQ,1548,1555,1549,13 Jan 2015,2015,Jan,13,2015-01-13 00:00:00
-3399,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,3200,5180,4800,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
-3400,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,4001,5210,4950,20 Sep 2014,2014,Sep,20,2014-09-20 00:00:00
-3401,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,4500,5105,5005,18 Sep 2014,2014,Sep,18,2014-09-18 00:00:00
-3402,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,4800,4900,4815,22 Sep 2014,2014,Sep,22,2014-09-22 00:00:00
-3403,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,4976,4976,4976,23 Sep 2014,2014,Sep,23,2014-09-23 00:00:00
-3404,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,5000,5101,5101,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
+3177,,Bhind,Alampur,Masur Dal,Other,FAQ,2390,2390,2390,15 Sep 2014,2014,Sep,15,2014-09-15
+3178,,Bhind,Alampur,Masur Dal,Other,FAQ,4474,4474,4474,09 Oct 2014,2014,Oct,9,2014-10-09
+3179,,Bhind,Alampur,Masur Dal,Other,FAQ,4600,4600,4600,17 Oct 2014,2014,Oct,17,2014-10-17
+3180,,Bhind,Alampur,Masur Dal,Other,FAQ,4600,4600,4600,27 Oct 2014,2014,Oct,27,2014-10-27
+3181,,Bhind,Alampur,Masur Dal,Other,FAQ,4600,4700,4650,03 Sep 2014,2014,Sep,3,2014-09-03
+3182,,Bhind,Alampur,Masur Dal,Other,FAQ,4675,4675,4675,10 Oct 2014,2014,Oct,10,2014-10-10
+3183,,Bhind,Alampur,Masur Dal,Other,FAQ,4953,4953,4953,01 Sep 2014,2014,Sep,1,2014-09-01
+3184,,Bhind,Alampur,Masur Dal,Other,FAQ,5000,5000,5000,11 Jan 2015,2015,Jan,11,2015-01-11
+3185,,Sehore,Ashta,Masur Dal,Other,FAQ,2000,4015,3750,11 Mar 2015,2015,Mar,11,2015-03-11
+3186,,Sehore,Ashta,Masur Dal,Other,FAQ,2000,5166,5166,18 Oct 2014,2014,Oct,18,2014-10-18
+3187,,Sehore,Ashta,Masur Dal,Other,FAQ,2275,4411,4336,05 Mar 2015,2015,Mar,5,2015-03-05
+3188,,Sehore,Ashta,Masur Dal,Other,FAQ,2380,4699,4553,26 Mar 2015,2015,Mar,26,2015-03-26
+3189,,Sehore,Ashta,Masur Dal,Other,FAQ,2500,4301,4171,14 Mar 2015,2015,Mar,14,2015-03-14
+3190,,Sehore,Ashta,Masur Dal,Other,FAQ,2500,4573,4452,24 Mar 2015,2015,Mar,24,2015-03-24
+3191,,Sehore,Ashta,Masur Dal,Other,FAQ,2570,4552,4480,28 Feb 2015,2015,Feb,28,2015-02-28
+3192,,Sehore,Ashta,Masur Dal,Other,FAQ,2788,4253,4191,17 Mar 2015,2015,Mar,17,2015-03-17
+3193,,Sehore,Ashta,Masur Dal,Other,FAQ,2801,4250,4000,13 Mar 2015,2015,Mar,13,2015-03-13
+3194,,Sehore,Ashta,Masur Dal,Other,FAQ,2803,4587,4500,18 Mar 2015,2015,Mar,18,2015-03-18
+3195,,Sehore,Ashta,Masur Dal,Other,FAQ,2830,4116,3900,12 Mar 2015,2015,Mar,12,2015-03-12
+3196,,Sehore,Ashta,Masur Dal,Other,FAQ,2960,4714,4500,02 Mar 2015,2015,Mar,2,2015-03-02
+3197,,Sehore,Ashta,Masur Dal,Other,FAQ,3000,4422,4301,04 Mar 2015,2015,Mar,4,2015-03-04
+3198,,Sehore,Ashta,Masur Dal,Other,FAQ,3000,4565,4500,23 Mar 2015,2015,Mar,23,2015-03-23
+3199,,Sehore,Ashta,Masur Dal,Other,FAQ,3000,4750,4502,27 Mar 2015,2015,Mar,27,2015-03-27
+3200,,Sehore,Ashta,Masur Dal,Other,FAQ,3000,5412,5000,09 Apr 2015,2015,Apr,9,2015-04-09
+3201,,Sehore,Ashta,Masur Dal,Other,FAQ,3130,4695,4500,25 Mar 2015,2015,Mar,25,2015-03-25
+3202,,Sehore,Ashta,Masur Dal,Other,FAQ,3270,4386,4200,16 Mar 2015,2015,Mar,16,2015-03-16
+3203,,Sehore,Ashta,Masur Dal,Other,FAQ,3300,5311,5000,07 Apr 2015,2015,Apr,7,2015-04-07
+3204,,Sehore,Ashta,Masur Dal,Other,FAQ,3301,4641,4400,27 Feb 2015,2015,Feb,27,2015-02-27
+3205,,Sehore,Ashta,Masur Dal,Other,FAQ,3500,4540,4400,03 Mar 2015,2015,Mar,3,2015-03-03
+3206,,Sehore,Ashta,Masur Dal,Other,FAQ,3810,4810,4810,13 Oct 2014,2014,Oct,13,2014-10-13
+3207,,Sehore,Ashta,Masur Dal,Other,FAQ,4000,5251,4901,06 Apr 2015,2015,Apr,6,2015-04-06
+3208,,Sehore,Ashta,Masur Dal,Other,FAQ,4000,5401,5305,08 Apr 2015,2015,Apr,8,2015-04-08
+3209,,Sehore,Ashta,Masur Dal,Other,FAQ,4001,4714,4660,26 Feb 2015,2015,Feb,26,2015-02-26
+3210,,Sehore,Ashta,Masur Dal,Other,FAQ,4205,4665,4665,03 Apr 2015,2015,Apr,3,2015-04-03
+3211,,Sehore,Ashta,Masur Dal,Other,FAQ,5040,5040,5040,18 Sep 2014,2014,Sep,18,2014-09-18
+3212,,Ujjain,Badnagar,Masur Dal,Other,FAQ,5000,5000,5000,17 Sep 2014,2014,Sep,17,2014-09-17
+3213,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,3401,5100,4853,20 Dec 2014,2014,Dec,20,2014-12-20
+3214,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,3550,3550,3550,12 Mar 2015,2015,Mar,12,2015-03-12
+3215,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4000,4000,4000,14 Feb 2015,2015,Feb,14,2015-02-14
+3216,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4000,4000,4000,24 Feb 2015,2015,Feb,24,2015-02-24
+3217,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4000,4600,4540,26 Mar 2015,2015,Mar,26,2015-03-26
+3218,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4000,5051,5051,12 Jan 2015,2015,Jan,12,2015-01-12
+3219,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4005,4680,4500,30 Mar 2015,2015,Mar,30,2015-03-30
+3220,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4100,4100,4100,28 Feb 2015,2015,Feb,28,2015-02-28
+3221,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4100,4600,4451,25 Mar 2015,2015,Mar,25,2015-03-25
+3222,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4100,5051,4700,01 Apr 2015,2015,Apr,1,2015-04-01
+3223,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4190,5086,4860,03 Apr 2015,2015,Apr,3,2015-04-03
+3224,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4200,4610,4525,27 Mar 2015,2015,Mar,27,2015-03-27
+3225,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4215,4220,4220,20 Feb 2015,2015,Feb,20,2015-02-20
+3226,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4220,4280,4280,18 Feb 2015,2015,Feb,18,2015-02-18
+3227,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4225,4325,4325,28 Mar 2015,2015,Mar,28,2015-03-28
+3228,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4290,5014,4650,31 Mar 2015,2015,Mar,31,2015-03-31
+3229,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4300,4300,4300,19 Mar 2015,2015,Mar,19,2015-03-19
+3230,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4300,4300,4300,20 Mar 2015,2015,Mar,20,2015-03-20
+3231,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4300,4501,4482,24 Mar 2015,2015,Mar,24,2015-03-24
+3232,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4360,4942,4766,02 Apr 2015,2015,Apr,2,2015-04-02
+3233,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4400,4400,4400,23 Feb 2015,2015,Feb,23,2015-02-23
+3234,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4400,4500,4500,31 Jan 2015,2015,Jan,31,2015-01-31
+3235,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4400,4860,4750,10 Oct 2014,2014,Oct,10,2014-10-10
+3236,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4400,4860,4860,19 Dec 2014,2014,Dec,19,2014-12-19
+3237,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4401,4450,4420,05 Dec 2014,2014,Dec,5,2014-12-05
+3238,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4450,4450,4450,08 Dec 2014,2014,Dec,8,2014-12-08
+3239,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4480,4540,4540,03 Dec 2014,2014,Dec,3,2014-12-03
+3240,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4481,4481,4481,23 Mar 2015,2015,Mar,23,2015-03-23
+3241,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4488,4821,4560,10 Dec 2014,2014,Dec,10,2014-12-10
+3242,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4490,4500,4500,07 Oct 2014,2014,Oct,7,2014-10-07
+3243,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4500,4780,4700,11 Oct 2014,2014,Oct,11,2014-10-11
+3244,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4500,4800,4800,04 Dec 2014,2014,Dec,4,2014-12-04
+3245,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4500,4896,4710,18 Nov 2014,2014,Nov,18,2014-11-18
+3246,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4514,4800,4700,14 Oct 2014,2014,Oct,14,2014-10-14
+3247,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4524,4700,4670,13 Dec 2014,2014,Dec,13,2014-12-13
+3248,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4526,4875,4750,03 Sep 2014,2014,Sep,3,2014-09-03
+3249,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4541,4800,4581,12 Nov 2014,2014,Nov,12,2014-11-12
+3250,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4545,4856,4729,01 Sep 2014,2014,Sep,1,2014-09-01
+3251,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4549,4549,4549,20 Oct 2014,2014,Oct,20,2014-10-20
+3252,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4550,4602,4600,09 Dec 2014,2014,Dec,9,2014-12-09
+3253,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4551,4810,4600,15 Oct 2014,2014,Oct,15,2014-10-15
+3254,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4552,4958,4800,19 Nov 2014,2014,Nov,19,2014-11-19
+3255,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4575,4800,4760,25 Oct 2014,2014,Oct,25,2014-10-25
+3256,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4577,4577,4577,25 Feb 2015,2015,Feb,25,2015-02-25
+3257,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4599,4710,4690,26 Nov 2014,2014,Nov,26,2014-11-26
+3258,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4600,4600,4600,08 Oct 2014,2014,Oct,8,2014-10-08
+3259,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4600,4900,4700,20 Nov 2014,2014,Nov,20,2014-11-20
+3260,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4600,4980,4901,11 Nov 2014,2014,Nov,11,2014-11-11
+3261,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4600,5100,4875,04 Apr 2015,2015,Apr,4,2015-04-04
+3262,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4610,4880,4700,05 Sep 2014,2014,Sep,5,2014-09-05
+3263,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4628,5586,5025,08 Apr 2015,2015,Apr,8,2015-04-08
+3264,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4650,4790,4700,04 Sep 2014,2014,Sep,4,2014-09-04
+3265,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4651,5000,4850,03 Nov 2014,2014,Nov,3,2014-11-03
+3266,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4652,4875,4800,27 Sep 2014,2014,Sep,27,2014-09-27
+3267,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4669,5000,4841,13 Nov 2014,2014,Nov,13,2014-11-13
+3268,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4670,4997,4850,12 Dec 2014,2014,Dec,12,2014-12-12
+3269,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4690,4845,4711,20 Sep 2014,2014,Sep,20,2014-09-20
+3270,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4699,4699,4699,10 Jan 2015,2015,Jan,10,2015-01-10
+3271,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4699,4800,4774,09 Oct 2014,2014,Oct,9,2014-10-09
+3272,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4699,4820,4800,29 Nov 2014,2014,Nov,29,2014-11-29
+3273,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4700,4700,27 Oct 2014,2014,Oct,27,2014-10-27
+3274,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4710,4710,22 Oct 2014,2014,Oct,22,2014-10-22
+3275,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4775,4775,26 Oct 2014,2014,Oct,26,2014-10-26
+3276,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4785,4751,14 Nov 2014,2014,Nov,14,2014-11-14
+3277,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4800,4800,13 Oct 2014,2014,Oct,13,2014-10-13
+3278,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4825,4775,28 Oct 2014,2014,Oct,28,2014-10-28
+3279,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4850,4849,11 Dec 2014,2014,Dec,11,2014-12-11
+3280,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4855,4825,24 Nov 2014,2014,Nov,24,2014-11-24
+3281,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4861,4782,10 Sep 2014,2014,Sep,10,2014-09-10
+3282,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4890,4830,02 Sep 2014,2014,Sep,2,2014-09-02
+3283,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4926,4853,21 Nov 2014,2014,Nov,21,2014-11-21
+3284,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,4977,4800,16 Dec 2014,2014,Dec,16,2014-12-16
+3285,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4700,5200,4970,08 Nov 2014,2014,Nov,8,2014-11-08
+3286,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4731,4800,4750,25 Nov 2014,2014,Nov,25,2014-11-25
+3287,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4733,4733,4733,18 Oct 2014,2014,Oct,18,2014-10-18
+3288,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,4750,4750,24 Dec 2014,2014,Dec,24,2014-12-24
+3289,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,4800,4800,15 Sep 2014,2014,Sep,15,2014-09-15
+3290,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,4840,4840,09 Sep 2014,2014,Sep,9,2014-09-09
+3291,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,4853,4853,06 Sep 2014,2014,Sep,6,2014-09-06
+3292,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,5050,4900,13 Sep 2014,2014,Sep,13,2014-09-13
+3293,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4750,5202,4900,23 Dec 2014,2014,Dec,23,2014-12-23
+3294,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4751,4751,4751,17 Oct 2014,2014,Oct,17,2014-10-17
+3295,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4753,5150,5000,11 Apr 2015,2015,Apr,11,2015-04-11
+3296,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4760,4760,4760,17 Nov 2014,2014,Nov,17,2014-11-17
+3297,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4760,4825,4825,29 Oct 2014,2014,Oct,29,2014-10-29
+3298,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4781,4781,4781,30 Sep 2014,2014,Sep,30,2014-09-30
+3299,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4790,4890,4800,29 Sep 2014,2014,Sep,29,2014-09-29
+3300,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4800,4800,01 Nov 2014,2014,Nov,1,2014-11-01
+3301,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4800,4800,18 Dec 2014,2014,Dec,18,2014-12-18
+3302,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4800,4800,21 Jan 2015,2015,Jan,21,2015-01-21
+3303,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4800,4800,23 Nov 2014,2014,Nov,23,2014-11-23
+3304,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4830,4830,08 Sep 2014,2014,Sep,8,2014-09-08
+3305,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4833,4805,27 Nov 2014,2014,Nov,27,2014-11-27
+3306,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4899,4899,15 Dec 2014,2014,Dec,15,2014-12-15
+3307,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,4900,4850,15 Nov 2014,2014,Nov,15,2014-11-15
+3308,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,5200,5200,27 Dec 2014,2014,Dec,27,2014-12-27
+3309,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,5250,5150,31 Dec 2014,2014,Dec,31,2014-12-31
+3310,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,5251,5000,07 Apr 2015,2015,Apr,7,2015-04-07
+3311,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4800,5268,5212,06 Apr 2015,2015,Apr,6,2015-04-06
+3312,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4810,4879,4879,31 Oct 2014,2014,Oct,31,2014-10-31
+3313,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4811,4811,4811,28 Nov 2014,2014,Nov,28,2014-11-28
+3314,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4840,4840,4840,20 Jan 2015,2015,Jan,20,2015-01-20
+3315,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4840,5000,5000,21 Sep 2014,2014,Sep,21,2014-09-21
+3316,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4845,4931,4931,19 Sep 2014,2014,Sep,19,2014-09-19
+3317,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4850,4870,4870,22 Sep 2014,2014,Sep,22,2014-09-22
+3318,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4850,4900,4900,25 Sep 2014,2014,Sep,25,2014-09-25
+3319,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4850,4989,4989,17 Dec 2014,2014,Dec,17,2014-12-17
+3320,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4858,4950,4901,17 Sep 2014,2014,Sep,17,2014-09-17
+3321,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4897,4930,4930,26 Sep 2014,2014,Sep,26,2014-09-26
+3322,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4899,4899,4899,22 Nov 2014,2014,Nov,22,2014-11-22
+3323,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4899,4899,4899,24 Jan 2015,2015,Jan,24,2015-01-24
+3324,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4900,4950,4950,29 Dec 2014,2014,Dec,29,2014-12-29
+3325,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4900,5099,5000,07 Nov 2014,2014,Nov,7,2014-11-07
+3326,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4900,5175,5175,19 Jan 2015,2015,Jan,19,2015-01-19
+3327,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4900,5455,5331,10 Apr 2015,2015,Apr,10,2015-04-10
+3328,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4910,5000,5000,05 Nov 2014,2014,Nov,5,2014-11-05
+3329,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4910,5100,5081,10 Nov 2014,2014,Nov,10,2014-11-10
+3330,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4950,5150,5150,26 Dec 2014,2014,Dec,26,2014-12-26
+3331,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,4950,5250,5200,30 Dec 2014,2014,Dec,30,2014-12-30
+3332,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5000,5000,5000,03 Jan 2015,2015,Jan,3,2015-01-03
+3333,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5000,5000,5000,21 Dec 2014,2014,Dec,21,2014-12-21
+3334,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5000,5070,5070,22 Dec 2014,2014,Dec,22,2014-12-22
+3335,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5111,5225,5225,05 Jan 2015,2015,Jan,5,2015-01-05
+3336,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5231,5231,5231,06 Nov 2014,2014,Nov,6,2014-11-06
+3337,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5269,5776,5537,09 Apr 2015,2015,Apr,9,2015-04-09
+3338,,Rewa,Baikunthpur,Masur Dal,Other,FAQ,5551,5551,5551,09 Jan 2015,2015,Jan,9,2015-01-09
+3339,,Bhind,Gohad,Masur Dal,Other,FAQ,3975,4970,4595,10 Sep 2014,2014,Sep,10,2014-09-10
+3340,,Bhind,Gohad,Masur Dal,Other,FAQ,4000,4500,4000,17 Sep 2014,2014,Sep,17,2014-09-17
+3341,,Bhind,Gohad,Masur Dal,Other,FAQ,4300,4300,4300,08 Sep 2014,2014,Sep,8,2014-09-08
+3342,,Bhind,Gohad,Masur Dal,Other,FAQ,4300,4890,4300,01 Sep 2014,2014,Sep,1,2014-09-01
+3343,,Bhind,Gohad,Masur Dal,Other,FAQ,4400,4800,4400,16 Sep 2014,2014,Sep,16,2014-09-16
+3344,,Bhind,Gohad,Masur Dal,Other,FAQ,4500,4500,4500,14 Oct 2014,2014,Oct,14,2014-10-14
+3345,,Bhind,Gohad,Masur Dal,Other,FAQ,4550,4550,4550,06 Sep 2014,2014,Sep,6,2014-09-06
+3346,,Bhind,Gohad,Masur Dal,Other,FAQ,4585,4800,4750,13 Oct 2014,2014,Oct,13,2014-10-13
+3347,,Bhind,Gohad,Masur Dal,Other,FAQ,4600,4895,4600,10 Nov 2014,2014,Nov,10,2014-11-10
+3348,,Bhind,Gohad,Masur Dal,Other,FAQ,4650,4705,4650,11 Oct 2014,2014,Oct,11,2014-10-11
+3349,,Bhind,Gohad,Masur Dal,Other,FAQ,4900,4950,4900,11 Nov 2014,2014,Nov,11,2014-11-11
+3350,,Ashoknagar,Isagarh,Masur Dal,Other,FAQ,5460,5460,5460,10 Jan 2015,2015,Jan,10,2015-01-10
+3351,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,3900,3400,18 Oct 2014,2014,Oct,18,2014-10-18
+3352,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,4200,3500,01 Sep 2014,2014,Sep,1,2014-09-01
+3353,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,5000,4000,24 Sep 2014,2014,Sep,24,2014-09-24
+3354,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,5000,4200,09 Sep 2014,2014,Sep,9,2014-09-09
+3355,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,5000,4200,10 Sep 2014,2014,Sep,10,2014-09-10
+3356,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3000,5000,4300,06 Sep 2014,2014,Sep,6,2014-09-06
+3357,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3200,4400,3500,08 Sep 2014,2014,Sep,8,2014-09-08
+3358,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3200,5000,4200,11 Sep 2014,2014,Sep,11,2014-09-11
+3359,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3400,4400,3500,27 Sep 2014,2014,Sep,27,2014-09-27
+3360,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3500,5000,4500,20 Sep 2014,2014,Sep,20,2014-09-20
+3361,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3500,5000,4500,26 Sep 2014,2014,Sep,26,2014-09-26
+3362,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,3800,4400,4000,07 Oct 2014,2014,Oct,7,2014-10-07
+3363,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,4000,4500,4200,30 Sep 2014,2014,Sep,30,2014-09-30
+3364,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,4000,5500,4900,08 Nov 2014,2014,Nov,8,2014-11-08
+3365,,Shajapur,Kalapipal,Masur Dal,Other,FAQ,4800,5400,5000,01 Nov 2014,2014,Nov,1,2014-11-01
+3366,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,3700,5200,5031,15 Sep 2014,2014,Sep,15,2014-09-15
+3367,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4600,5000,4800,06 Sep 2014,2014,Sep,6,2014-09-06
+3368,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4600,5170,5051,01 Sep 2014,2014,Sep,1,2014-09-01
+3369,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4725,5175,4950,02 Sep 2014,2014,Sep,2,2014-09-02
+3370,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4761,5122,4942,03 Sep 2014,2014,Sep,3,2014-09-03
+3371,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4800,5145,4995,16 Sep 2014,2014,Sep,16,2014-09-16
+3372,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4830,5369,5200,17 Sep 2014,2014,Sep,17,2014-09-17
+3373,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,4975,5172,5171,10 Sep 2014,2014,Sep,10,2014-09-10
+3374,,Sagar,Khurai,Masur Dal,Kala Masoor New,FAQ,5000,5271,5070,19 Sep 2014,2014,Sep,19,2014-09-19
+3375,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,3000,0,05 Nov 2014,2014,Nov,5,2014-11-05
+3376,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,3301,0,01 Sep 2014,2014,Sep,1,2014-09-01
+3377,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,4001,0,10 Nov 2014,2014,Nov,10,2014-11-10
+3378,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,4701,0,11 Oct 2014,2014,Oct,11,2014-10-11
+3379,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,4754,0,16 Oct 2014,2014,Oct,16,2014-10-16
+3380,,Shivpuri,Kolaras,Masur Dal,Other,FAQ,0,4799,0,08 Dec 2014,2014,Dec,8,2014-12-08
+3381,,Bhind,Mehgaon,Masur Dal,Other,FAQ,3950,4050,4000,15 Sep 2014,2014,Sep,15,2014-09-15
+3382,,Bhind,Mehgaon,Masur Dal,Other,FAQ,3980,4030,4000,11 Sep 2014,2014,Sep,11,2014-09-11
+3383,,Bhind,Mow,Masur Dal,Other,FAQ,3500,3500,3500,08 Jan 2015,2015,Jan,8,2015-01-08
+3384,,Bhind,Mow,Masur Dal,Other,FAQ,3500,3500,3500,12 Jan 2015,2015,Jan,12,2015-01-12
+3385,,Bhind,Mow,Masur Dal,Other,FAQ,3550,3550,3550,22 Oct 2014,2014,Oct,22,2014-10-22
+3386,,Bhind,Mow,Masur Dal,Other,FAQ,3900,3900,3900,06 Nov 2014,2014,Nov,6,2014-11-06
+3387,,Bhind,Mow,Masur Dal,Other,FAQ,4000,4000,4000,14 Oct 2014,2014,Oct,14,2014-10-14
+3388,,Ashoknagar,Piprai,Masur Dal,Other,FAQ,5029,5029,5029,10 Sep 2014,2014,Sep,10,2014-09-10
+3389,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,4951,4900,01 Sep 2014,2014,Sep,1,2014-09-01
+3390,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5048,4941,06 Sep 2014,2014,Sep,6,2014-09-06
+3391,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5095,5000,03 Sep 2014,2014,Sep,3,2014-09-03
+3392,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5100,4996,05 Sep 2014,2014,Sep,5,2014-09-05
+3393,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5119,5015,02 Sep 2014,2014,Sep,2,2014-09-02
+3394,,Rewa,Rewa,Masur Dal,Other,FAQ,4500,5207,5148,10 Sep 2014,2014,Sep,10,2014-09-10
+3395,,Rewa,Rewa,Masur Dal,Other,FAQ,4550,5090,5000,09 Sep 2014,2014,Sep,9,2014-09-09
+3396,,Rewa,Rewa,Masur Dal,Other,FAQ,4600,5031,4952,08 Sep 2014,2014,Sep,8,2014-09-08
+3397,,Rewa,Rewa,Masur Dal,Other,FAQ,4600,5081,4995,04 Sep 2014,2014,Sep,4,2014-09-04
+3398,,Morena,Sabalgarh,Masur Dal,Other,FAQ,1548,1555,1549,13 Jan 2015,2015,Jan,13,2015-01-13
+3399,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,3200,5180,4800,16 Sep 2014,2014,Sep,16,2014-09-16
+3400,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,4001,5210,4950,20 Sep 2014,2014,Sep,20,2014-09-20
+3401,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,4500,5105,5005,18 Sep 2014,2014,Sep,18,2014-09-18
+3402,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,4800,4900,4815,22 Sep 2014,2014,Sep,22,2014-09-22
+3403,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,4976,4976,4976,23 Sep 2014,2014,Sep,23,2014-09-23
+3404,,Jabalpur,Shahpura(Jabalpur),Masur Dal,Masoor Gola,FAQ,5000,5101,5101,17 Sep 2014,2014,Sep,17,2014-09-17

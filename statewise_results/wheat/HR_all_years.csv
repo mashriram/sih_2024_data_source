@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Ambala,Barara,Wheat,Other,FAQ,1975,1975,1975.0,14 Apr 2021,2021,Apr,14,2021-04-14
 1,1.0,Yamuna Nagar,Bilaspur,Wheat,Other,FAQ,1975,1975,1975.0,26 Apr 2021,2021,Apr,26,2021-04-26
 2,2.0,Sirsa,Ding,Wheat,Other,FAQ,1975,1975,1975.0,29 Apr 2021,2021,Apr,29,2021-04-29
@@ -10138,73 +10138,73 @@
 10136,10136.0,Jind,Uchana,Wheat,Other,FAQ,1735,1735,1735.0,18 Apr 2018,2018,Apr,18,2018-04-18
 10137,10137.0,Jind,Uchana,Wheat,Other,FAQ,1735,1735,1735.0,30 Apr 2018,2018,Apr,30,2018-04-30
 10138,10138.0,Hissar,Uklana,Wheat,Other,FAQ,1735,1735,1735.0,21 Apr 2018,2018,Apr,21,2018-04-21
-10139,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2610,2610.0,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-10140,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2610,2610.0,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-10141,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2610,2610.0,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-10142,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2625,2625.0,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-10143,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-10144,,Mahendragarh-Narnaul,Ateli,Wheat,Other,FAQ,2350,2350,2350.0,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-10145,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2610,2610.0,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-10146,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-10147,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2600,2600,2600.0,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-10148,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-10149,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-10150,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-10151,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-10152,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2615,2615,2615.0,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-10153,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-10154,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-10155,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-10156,,Rewari,Rewari,Wheat,Other,FAQ,2780,2864,2820.0,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-10157,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2530,2530,2530.0,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-10158,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-10159,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-10160,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-10161,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-10162,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-10163,,Rewari,Rewari,Wheat,Other,FAQ,2640,2760,2700.0,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-10164,,Rewari,Rewari,Wheat,Other,FAQ,2670,2750,2700.0,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-10165,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2525,2525,2525.0,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-10166,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-10167,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-10168,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-10169,,Rewari,Rewari,Wheat,Other,FAQ,2600,2751,2700.0,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-10170,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-10171,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2500,2510,2510.0,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-10172,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-10173,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-10174,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-10175,,Mewat,Hathin,Wheat,Other,FAQ,2400,2400,2400.0,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-10176,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-10177,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-10178,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-10179,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-10180,,Rewari,Rewari,Wheat,Other,FAQ,2730,2730,2730.0,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-10181,,Rewari,Rewari,Wheat,WL711,FAQ,2600,2690,2650.0,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-10182,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2620,2620,2620.0,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-10183,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-10184,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-10185,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-10186,,Rewari,Rewari,Wheat,Other,FAQ,2420,2420,2420.0,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-10187,,Rewari,Rewari,Wheat,Other,FAQ,2600,2740,2700.0,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-10188,,Hissar,Hissar,Wheat,Medium Fine,FAQ,2300,2300,2300.0,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-10189,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2820,2820,2820.0,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-10190,,Sirsa,"New Grain Market , Sirsa",Wheat,Other,FAQ,2400,2450,2420.0,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-10191,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-10192,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-10193,,Rewari,Rewari,Wheat,Other,FAQ,2650,2720,2700.0,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-10194,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-10195,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-10196,,Rewari,Rewari,Wheat,Other,FAQ,2600,2761,2650.0,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-10197,,Sirsa,"New Grain Market , Sirsa",Wheat,Other,FAQ,2350,2440,2400.0,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-10198,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-10199,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-10200,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-10201,,Rewari,Rewari,Wheat,Other,FAQ,2700,2800,2750.0,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-10202,,Mewat,FerozpurZirkha(Nagina),Wheat,147 Average,FAQ,2350,2370,2360.0,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-10203,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-10204,,Mahendragarh-Narnaul,Ateli,Wheat,Other,FAQ,2300,2300,2300.0,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-10205,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-10206,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-10207,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-10208,,Rewari,Rewari,Wheat,Other,FAQ,2420,2420,2420.0,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
+10139,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2610,2610.0,02 Sep 2024,2024,Sep,2,2024-09-02
+10140,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2610,2610.0,07 Sep 2024,2024,Sep,7,2024-09-07
+10141,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2610,2610.0,28 Aug 2024,2024,Aug,28,2024-08-28
+10142,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2625,2625.0,30 Aug 2024,2024,Aug,30,2024-08-30
+10143,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,05 Aug 2024,2024,Aug,5,2024-08-05
+10144,,Mahendragarh-Narnaul,Ateli,Wheat,Other,FAQ,2350,2350,2350.0,27 Aug 2024,2024,Aug,27,2024-08-27
+10145,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2610,2610,2610.0,23 Aug 2024,2024,Aug,23,2024-08-23
+10146,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,18 Aug 2024,2024,Aug,18,2024-08-18
+10147,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2600,2600,2600.0,31 Aug 2024,2024,Aug,31,2024-08-31
+10148,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,09 Aug 2024,2024,Aug,9,2024-08-09
+10149,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,24 Jul 2024,2024,Jul,24,2024-07-24
+10150,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,31 Aug 2024,2024,Aug,31,2024-08-31
+10151,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,13 Aug 2024,2024,Aug,13,2024-08-13
+10152,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2615,2615,2615.0,05 Sep 2024,2024,Sep,5,2024-09-05
+10153,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,07 Jul 2024,2024,Jul,7,2024-07-07
+10154,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,10 Jul 2024,2024,Jul,10,2024-07-10
+10155,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,27 Jul 2024,2024,Jul,27,2024-07-27
+10156,,Rewari,Rewari,Wheat,Other,FAQ,2780,2864,2820.0,06 Nov 2024,2024,Nov,6,2024-11-06
+10157,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2530,2530,2530.0,11 Sep 2024,2024,Sep,11,2024-09-11
+10158,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,04 Jul 2024,2024,Jul,4,2024-07-04
+10159,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,20 Aug 2024,2024,Aug,20,2024-08-20
+10160,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,23 Aug 2024,2024,Aug,23,2024-08-23
+10161,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,26 Aug 2024,2024,Aug,26,2024-08-26
+10162,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,26 Jul 2024,2024,Jul,26,2024-07-26
+10163,,Rewari,Rewari,Wheat,Other,FAQ,2640,2760,2700.0,24 Oct 2024,2024,Oct,24,2024-10-24
+10164,,Rewari,Rewari,Wheat,Other,FAQ,2670,2750,2700.0,19 Oct 2024,2024,Oct,19,2024-10-19
+10165,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2525,2525,2525.0,20 Sep 2024,2024,Sep,20,2024-09-20
+10166,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,01 Jul 2024,2024,Jul,1,2024-07-01
+10167,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,16 Jul 2024,2024,Jul,16,2024-07-16
+10168,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,31 Jul 2024,2024,Jul,31,2024-07-31
+10169,,Rewari,Rewari,Wheat,Other,FAQ,2600,2751,2700.0,18 Oct 2024,2024,Oct,18,2024-10-18
+10170,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,18 Jul 2024,2024,Jul,18,2024-07-18
+10171,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2500,2510,2510.0,24 Sep 2024,2024,Sep,24,2024-09-24
+10172,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,02 Aug 2024,2024,Aug,2,2024-08-02
+10173,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,06 Jul 2024,2024,Jul,6,2024-07-06
+10174,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,15 Jul 2024,2024,Jul,15,2024-07-15
+10175,,Mewat,Hathin,Wheat,Other,FAQ,2400,2400,2400.0,22 Aug 2024,2024,Aug,22,2024-08-22
+10176,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,18 Sep 2024,2024,Sep,18,2024-09-18
+10177,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,09 Jul 2024,2024,Jul,9,2024-07-09
+10178,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,12 Jul 2024,2024,Jul,12,2024-07-12
+10179,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,13 Jul 2024,2024,Jul,13,2024-07-13
+10180,,Rewari,Rewari,Wheat,Other,FAQ,2730,2730,2730.0,25 Sep 2024,2024,Sep,25,2024-09-25
+10181,,Rewari,Rewari,Wheat,WL711,FAQ,2600,2690,2650.0,16 Oct 2024,2024,Oct,16,2024-10-16
+10182,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2620,2620,2620.0,03 Sep 2024,2024,Sep,3,2024-09-03
+10183,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,07 Aug 2024,2024,Aug,7,2024-08-07
+10184,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,10 Aug 2024,2024,Aug,10,2024-08-10
+10185,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,29 Jul 2024,2024,Jul,29,2024-07-29
+10186,,Rewari,Rewari,Wheat,Other,FAQ,2420,2420,2420.0,01 Jul 2024,2024,Jul,1,2024-07-01
+10187,,Rewari,Rewari,Wheat,Other,FAQ,2600,2740,2700.0,28 Oct 2024,2024,Oct,28,2024-10-28
+10188,,Hissar,Hissar,Wheat,Medium Fine,FAQ,2300,2300,2300.0,27 Sep 2024,2024,Sep,27,2024-09-27
+10189,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2820,2820,2820.0,28 Oct 2024,2024,Oct,28,2024-10-28
+10190,,Sirsa,"New Grain Market , Sirsa",Wheat,Other,FAQ,2400,2450,2420.0,22 Jul 2024,2024,Jul,22,2024-07-22
+10191,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,12 Aug 2024,2024,Aug,12,2024-08-12
+10192,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,22 Jul 2024,2024,Jul,22,2024-07-22
+10193,,Rewari,Rewari,Wheat,Other,FAQ,2650,2720,2700.0,15 Oct 2024,2024,Oct,15,2024-10-15
+10194,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,01 Aug 2024,2024,Aug,1,2024-08-01
+10195,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,21 Aug 2024,2024,Aug,21,2024-08-21
+10196,,Rewari,Rewari,Wheat,Other,FAQ,2600,2761,2650.0,17 Oct 2024,2024,Oct,17,2024-10-17
+10197,,Sirsa,"New Grain Market , Sirsa",Wheat,Other,FAQ,2350,2440,2400.0,05 Jul 2024,2024,Jul,5,2024-07-05
+10198,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,19 Jul 2024,2024,Jul,19,2024-07-19
+10199,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,07 Aug 2024,2024,Aug,7,2024-08-07
+10200,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,08 Aug 2024,2024,Aug,8,2024-08-08
+10201,,Rewari,Rewari,Wheat,Other,FAQ,2700,2800,2750.0,14 Nov 2024,2024,Nov,14,2024-11-14
+10202,,Mewat,FerozpurZirkha(Nagina),Wheat,147 Average,FAQ,2350,2370,2360.0,15 Jul 2024,2024,Jul,15,2024-07-15
+10203,,Sonipat,"New Grain Market , Sonipat",Wheat,Other,FAQ,2275,2275,2275.0,04 Aug 2024,2024,Aug,4,2024-08-04
+10204,,Mahendragarh-Narnaul,Ateli,Wheat,Other,FAQ,2300,2300,2300.0,06 Jul 2024,2024,Jul,6,2024-07-06
+10205,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,03 Oct 2024,2024,Oct,3,2024-10-03
+10206,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,17 Aug 2024,2024,Aug,17,2024-08-17
+10207,,Mahendragarh-Narnaul,Khanina,Wheat,Other,FAQ,2550,2550,2550.0,22 Aug 2024,2024,Aug,22,2024-08-22
+10208,,Rewari,Rewari,Wheat,Other,FAQ,2420,2420,2420.0,02 Jul 2024,2024,Jul,2,2024-07-02

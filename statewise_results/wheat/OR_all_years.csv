@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Sundergarh,Bonai,Wheat,Other,FAQ,4000.0,4000.0,4000.0,11 Jul 2022,2022,Jul,11,2022-07-11
 1,1.0,Sundergarh,Bonai,Wheat,Other,FAQ,2015.0,4000.0,4000.0,16 Apr 2022,2022,Apr,16,2022-04-16
 2,2.0,Sundergarh,Bonai,Wheat,Other,FAQ,3000.0,3000.0,3000.0,05 Aug 2022,2022,Aug,5,2022-08-05
@@ -1546,5 +1546,5 @@
 1544,1544.0,Sundergarh,Bonai,Wheat,Other,FAQ,1735.0,3000.0,1735.0,26 Jun 2018,2018,Jun,26,2018-06-26
 1545,1545.0,Sundergarh,Bonai,Wheat,Other,FAQ,1735.0,3000.0,3000.0,05 May 2018,2018,May,5,2018-05-05
 1546,1546.0,Sundergarh,Bonai,Wheat,Other,FAQ,1735.0,3000.0,3000.0,15 Aug 2018,2018,Aug,15,2018-08-15
-1547,,Nowarangpur,Nawarangpur,Wheat,Local,FAQ,2000.0,2000.0,2000.0,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-1548,,Nowarangpur,Nawarangpur,Wheat,Local,FAQ,2000.0,2000.0,2000.0,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
+1547,,Nowarangpur,Nawarangpur,Wheat,Local,FAQ,2000.0,2000.0,2000.0,15 Nov 2024,2024,Nov,15,2024-11-15
+1548,,Nowarangpur,Nawarangpur,Wheat,Local,FAQ,2000.0,2000.0,2000.0,12 Nov 2024,2024,Nov,12,2024-11-12

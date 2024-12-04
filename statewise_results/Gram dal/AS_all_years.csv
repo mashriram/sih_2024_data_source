@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Goalpara,Goalpara,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,9700,9800,9750,01 Nov 2016,2016,Nov,1,2016-11-01
 1,1.0,Goalpara,Goalpara,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,9700,9800,9750,02 Nov 2016,2016,Nov,2,2016-11-02
 2,2.0,Goalpara,Goalpara,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,9700,9800,9750,19 Oct 2016,2016,Oct,19,2016-10-19
@@ -1580,4 +1580,4 @@
 1578,1578.0,Kamrup,P.O. Uparhali Guwahati,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7900,8000,7950,23 Oct 2017,2017,Oct,23,2017-10-23
 1579,1579.0,Kamrup,P.O. Uparhali Guwahati,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7900,8000,7950,25 Sep 2017,2017,Sep,25,2017-09-25
 1580,1580.0,Kamrup,P.O. Uparhali Guwahati,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7900,8000,7950,26 Sep 2017,2017,Sep,26,2017-09-26
-1581,,Cachar,Cachar,Bengal Gram Dal (Chana Dal),Other,FAQ,4200,4800,4500,27 Feb 2015,2015,Feb,27,2015-02-27 00:00:00
+1581,,Cachar,Cachar,Bengal Gram Dal (Chana Dal),Other,FAQ,4200,4800,4500,27 Feb 2015,2015,Feb,27,2015-02-27

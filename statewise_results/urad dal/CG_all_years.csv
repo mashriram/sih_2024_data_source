@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Kanker,Pakhanjur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2300,2500,2400,24 Feb 2021,2021,Feb,24,2021-02-24
 1,1.0,Kanker,Pakhanjur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2500,2500,2500,14 Feb 2021,2021,Feb,14,2021-02-14
 2,2.0,Kanker,Pakhanjur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2500,2500,2500,19 Jan 2021,2021,Jan,19,2021-01-19
@@ -24,18 +24,18 @@
 22,22.0,Surajpur,Surajpur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5750,5750,5750,04 Oct 2017,2017,Oct,4,2017-10-04
 23,23.0,Kondagaon,Vishrampur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,4000,3750,03 Jan 2018,2018,Jan,3,2018-01-03
 24,24.0,Kondagaon,Vishrampur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,4000,3750,27 Dec 2017,2017,Dec,27,2017-12-27
-25,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2451,2780,2615,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-26,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4200,4200,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-27,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5961,5961,5961,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-28,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6200,6700,6450,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-29,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6350,6600,6475,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-30,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6351,6800,6575,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-31,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6700,6700,6700,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-32,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6700,8100,7400,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-33,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6902,7050,6976,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-34,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7000,7000,7000,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-35,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7100,7300,7200,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-36,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7100,7450,7320,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-37,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7176,7350,7263,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-38,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7200,7200,7200,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-39,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7401,7401,7401,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
+25,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2451,2780,2615,18 Oct 2024,2024,Oct,18,2024-10-18
+26,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4200,4200,19 Oct 2024,2024,Oct,19,2024-10-19
+27,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5961,5961,5961,23 Oct 2024,2024,Oct,23,2024-10-23
+28,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6200,6700,6450,08 Oct 2024,2024,Oct,8,2024-10-08
+29,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6350,6600,6475,16 Oct 2024,2024,Oct,16,2024-10-16
+30,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6351,6800,6575,14 Oct 2024,2024,Oct,14,2024-10-14
+31,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6700,6700,6700,04 Oct 2024,2024,Oct,4,2024-10-04
+32,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6700,8100,7400,20 Sep 2024,2024,Sep,20,2024-09-20
+33,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6902,7050,6976,27 Sep 2024,2024,Sep,27,2024-09-27
+34,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7000,7000,7000,15 Oct 2024,2024,Oct,15,2024-10-15
+35,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7100,7300,7200,21 Sep 2024,2024,Sep,21,2024-09-21
+36,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7100,7450,7320,24 Sep 2024,2024,Sep,24,2024-09-24
+37,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7176,7350,7263,23 Sep 2024,2024,Sep,23,2024-09-23
+38,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7200,7200,7200,30 Sep 2024,2024,Sep,30,2024-09-30
+39,,Rajnandgaon,Rajnandgaon,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7401,7401,7401,25 Sep 2024,2024,Sep,25,2024-09-25

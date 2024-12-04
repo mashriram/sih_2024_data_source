@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Cuddalore,Cuddalore,Ground Nut Oil,Ground Nut Oil,FAQ,5939,7249,6724,07 Mar 2019,2019,Mar,7,2019-03-07
 1,1.0,Cuddalore,Cuddalore,Ground Nut Oil,Ground Nut Oil,FAQ,5949,7211,7211,05 Mar 2019,2019,Mar,5,2019-03-05
 2,2.0,Cuddalore,Cuddalore,Ground Nut Oil,Ground Nut Oil,FAQ,6399,7201,6899,06 Mar 2019,2019,Mar,6,2019-03-06
@@ -16,13 +16,13 @@
 14,14.0,Thiruvannamalai,Kilpennathur,Ground Nut Oil,Ground Nut Oil,FAQ,5850,6680,6150,28 Sep 2015,2015,Sep,28,2015-09-28
 15,15.0,Cuddalore,Cuddalore,Ground Nut Oil,Ground Nut Oil,FAQ,5565,5565,5565,13 Jul 2018,2018,Jul,13,2018-07-13
 16,16.0,Villupuram,Sangarapuram,Ground Nut Oil,Other,FAQ,5549,5549,5549,11 Oct 2017,2017,Oct,11,2017-10-11
-17,,Cuddalore,Cuddalore,Ground Nut Oil,Ground Nut Oil,FAQ,6010,6011,6011,30 Oct 2014,2014,Oct,30,2014-10-30 00:00:00
-18,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5048,5536,5292,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
-19,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5161,5161,5161,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
-20,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5212,5212,5212,29 Oct 2014,2014,Oct,29,2014-10-29 00:00:00
-21,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5461,5758,5610,07 Nov 2014,2014,Nov,07,2014-11-07 00:00:00
-22,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5711,5711,5711,30 Oct 2014,2014,Oct,30,2014-10-30 00:00:00
-23,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5858,5858,5858,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
-24,,Villupuram,Manalurpet,Ground Nut Oil,Other,FAQ,3814,3814,3814,08 Jan 2015,2015,Jan,08,2015-01-08 00:00:00
-25,,Villupuram,Manalurpet,Ground Nut Oil,Other,FAQ,3897,3897,3897,05 Jan 2015,2015,Jan,05,2015-01-05 00:00:00
-26,,Cuddalore,Panruti,Ground Nut Oil,Ground Nut Oil,FAQ,4875,5111,4993,31 Oct 2014,2014,Oct,31,2014-10-31 00:00:00
+17,,Cuddalore,Cuddalore,Ground Nut Oil,Ground Nut Oil,FAQ,6010,6011,6011,30 Oct 2014,2014,Oct,30,2014-10-30
+18,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5048,5536,5292,20 Nov 2014,2014,Nov,20,2014-11-20
+19,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5161,5161,5161,21 Nov 2014,2014,Nov,21,2014-11-21
+20,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5212,5212,5212,29 Oct 2014,2014,Oct,29,2014-10-29
+21,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5461,5758,5610,07 Nov 2014,2014,Nov,7,2014-11-07
+22,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5711,5711,5711,30 Oct 2014,2014,Oct,30,2014-10-30
+23,,Cuddalore,Kurinchipadi,Ground Nut Oil,Ground Nut Oil,FAQ,5858,5858,5858,06 Nov 2014,2014,Nov,6,2014-11-06
+24,,Villupuram,Manalurpet,Ground Nut Oil,Other,FAQ,3814,3814,3814,08 Jan 2015,2015,Jan,8,2015-01-08
+25,,Villupuram,Manalurpet,Ground Nut Oil,Other,FAQ,3897,3897,3897,05 Jan 2015,2015,Jan,5,2015-01-05
+26,,Cuddalore,Panruti,Ground Nut Oil,Ground Nut Oil,FAQ,4875,5111,4993,31 Oct 2014,2014,Oct,31,2014-10-31

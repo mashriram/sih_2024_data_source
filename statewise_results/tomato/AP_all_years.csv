@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Chittor,Kalikiri,Tomato,Local,FAQ,460,730,600,15 Jun 2021,2021,Jun,15,2021-06-15
 1,1.0,Chittor,Kalikiri,Tomato,Local,FAQ,500,800,660,10 Mar 2021,2021,Mar,10,2021-03-10
 2,2.0,Chittor,Kalikiri,Tomato,Local,FAQ,500,860,660,17 Jun 2021,2021,Jun,17,2021-06-17
@@ -22001,797 +22001,797 @@
 21999,21999.0,Krishna,Vijayawada,Tomato,Deshi,FAQ,1100,1300,1200,24 Sep 2017,2017,Sep,24,2017-09-24
 22000,22000.0,Krishna,Vijayawada,Tomato,Deshi,FAQ,1700,1900,1800,10 Sep 2017,2017,Sep,10,2017-09-10
 22001,22001.0,Krishna,Vijayawada,Tomato,Deshi,FAQ,2900,3100,3000,25 Oct 2017,2017,Oct,25,2017-10-25
-22002,,Chittor,Kalikiri,Tomato,Local,FAQ,1200,1860,1530,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-22003,,Chittor,Kalikiri,Tomato,Local,FAQ,1330,2000,1660,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-22004,,Chittor,Kalikiri,Tomato,Local,FAQ,1400,1860,1600,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-22005,,Chittor,Kalikiri,Tomato,Local,FAQ,1430,2060,1700,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-22006,,Chittor,Kalikiri,Tomato,Local,FAQ,1460,2130,1800,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-22007,,Chittor,Kalikiri,Tomato,Local,FAQ,1500,2000,1800,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-22008,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2000,1750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-22009,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2000,1800,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-22010,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2000,1800,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-22011,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2000,1800,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-22012,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2060,1860,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-22013,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2130,1860,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-22014,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2130,1860,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-22015,,Chittor,Kalikiri,Tomato,Local,FAQ,1560,2100,1930,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-22016,,Chittor,Kalikiri,Tomato,Local,FAQ,1560,2130,1850,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-22017,,Chittor,Kalikiri,Tomato,Local,FAQ,1560,2330,1900,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-22018,,Chittor,Kalikiri,Tomato,Local,FAQ,1560,2330,1900,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-22019,,Chittor,Kalikiri,Tomato,Local,FAQ,1600,2200,1900,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-22020,,Chittor,Kalikiri,Tomato,Local,FAQ,1660,2430,2100,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-22021,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2200,2030,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-22022,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2230,2000,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-22023,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2330,2000,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-22024,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2330,2100,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-22025,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2430,2100,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-22026,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2430,2100,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-22027,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2330,2060,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-22028,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2330,2060,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-22029,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2400,2130,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-22030,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2460,2230,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-22031,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2500,2180,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-22032,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2500,2200,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-22033,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2530,2260,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-22034,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2660,2200,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-22035,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2660,2230,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-22036,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2700,2230,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-22037,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2800,2460,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-22038,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2400,2260,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-22039,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2500,2260,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-22040,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2530,2260,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-22041,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2530,2260,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-22042,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2660,2200,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-22043,,Chittor,Kalikiri,Tomato,Local,FAQ,1860,2530,2280,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-22044,,Chittor,Kalikiri,Tomato,Local,FAQ,1860,2530,2280,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-22045,,Chittor,Kalikiri,Tomato,Local,FAQ,1860,2660,2230,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-22046,,Chittor,Kalikiri,Tomato,Local,FAQ,1860,2700,2230,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-22047,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2660,2330,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-22048,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2660,2330,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-22049,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2660,2400,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-22050,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2660,2400,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-22051,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2700,2300,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-22052,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2800,2400,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-22053,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2800,2460,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-22054,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2800,2530,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-22055,,Chittor,Kalikiri,Tomato,Local,FAQ,2060,2660,2330,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-22056,,Chittor,Kalikiri,Tomato,Local,FAQ,2130,3000,2660,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-22057,,Chittor,Kalikiri,Tomato,Local,FAQ,2200,2800,2500,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-22058,,Chittor,Kalikiri,Tomato,Local,FAQ,2200,2800,2500,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-22059,,Chittor,Kalikiri,Tomato,Local,FAQ,2200,3300,2800,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-22060,,Chittor,Kalikiri,Tomato,Local,FAQ,2200,3500,2800,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-22061,,Chittor,Kalikiri,Tomato,Local,FAQ,2230,3000,2660,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-22062,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3000,2700,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-22063,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3000,2700,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-22064,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3000,2800,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-22065,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3200,2700,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-22066,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3200,2860,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-22067,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3200,2900,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-22068,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3300,2800,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-22069,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3300,2800,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-22070,,Chittor,Kalikiri,Tomato,Local,FAQ,2460,3300,2800,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-22071,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3000,2730,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-22072,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3300,2900,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-22073,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3660,3000,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-22074,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3660,3000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-22075,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3700,3200,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-22076,,Chittor,Kalikiri,Tomato,Local,FAQ,2600,3300,3000,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-22077,,Chittor,Kalikiri,Tomato,Local,FAQ,2600,3300,3000,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-22078,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3300,3000,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-22079,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3300,3000,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-22080,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3300,3000,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-22081,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3500,3200,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-22082,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3530,3000,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-22083,,Chittor,Kalikiri,Tomato,Local,FAQ,2730,3530,3060,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-22084,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3600,3130,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-22085,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3600,3130,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-22086,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3660,3200,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-22087,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3660,3200,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-22088,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3660,3200,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-22089,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3700,3100,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-22090,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,4500,3600,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-22091,,Chittor,Kalikiri,Tomato,Local,FAQ,2900,3660,3200,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-22092,,Chittor,Kalikiri,Tomato,Local,FAQ,2930,3660,3200,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-22093,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,3800,3500,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-22094,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4000,3660,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-22095,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4100,3600,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-22096,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4100,3600,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-22097,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4200,3730,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-22098,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4330,3730,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-22099,,Chittor,Kalikiri,Tomato,Local,FAQ,3300,4000,3700,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-22100,,Chittor,Kalikiri,Tomato,Local,FAQ,3400,4100,3800,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-22101,,Chittor,Kalikiri,Tomato,Local,FAQ,3400,4100,3860,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-22102,,Chittor,Kalikiri,Tomato,Local,FAQ,3400,4100,3860,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-22103,,Chittor,Kalikiri,Tomato,Local,FAQ,3400,4100,3860,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-22104,,Chittor,Kalikiri,Tomato,Local,FAQ,3460,4130,3800,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-22105,,Chittor,Kalikiri,Tomato,Local,FAQ,3500,4330,3900,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-22106,,Chittor,Kalikiri,Tomato,Local,FAQ,3530,4200,3860,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-22107,,Chittor,Kalikiri,Tomato,Local,FAQ,3700,4330,4000,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-22108,,Chittor,Kalikiri,Tomato,Local,FAQ,3700,4600,4200,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-22109,,Chittor,Kalikiri,Tomato,Local,FAQ,3800,4300,4060,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-22110,,Chittor,Kalikiri,Tomato,Local,FAQ,3800,4400,4060,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-22111,,Chittor,Kalikiri,Tomato,Local,FAQ,3800,4530,4160,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-22112,,Chittor,Kalikiri,Tomato,Local,FAQ,3800,4700,4330,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-22113,,Chittor,Kalikiri,Tomato,Local,FAQ,3900,4730,4360,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-22114,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,4660,4300,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-22115,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,4660,4300,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-22116,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,4800,4400,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-22117,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,4800,4460,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-22118,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,5000,4500,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-22119,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,5200,4600,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-22120,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,5200,4600,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-22121,,Chittor,Kalikiri,Tomato,Local,FAQ,4060,5000,4530,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-22122,,Chittor,Kalikiri,Tomato,Local,FAQ,4130,5000,4500,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-22123,,Chittor,Kalikiri,Tomato,Local,FAQ,4200,5000,4660,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-22124,,Chittor,Kalikiri,Tomato,Local,FAQ,4200,5330,4700,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-22125,,Chittor,Kalikiri,Tomato,Local,FAQ,4260,5330,4800,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-22126,,Chittor,Kalikiri,Tomato,Local,FAQ,4300,5200,4800,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-22127,,Chittor,Kalikiri,Tomato,Local,FAQ,4600,5400,5050,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-22128,,Chittor,Kalikiri,Tomato,Local,FAQ,4730,6000,5660,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-22129,,Chittor,Kalikiri,Tomato,Local,FAQ,4800,5900,5400,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-22130,,Chittor,Kalikiri,Tomato,Local,FAQ,4830,6000,5460,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-22131,,Chittor,Kalikiri,Tomato,Local,FAQ,5000,5700,5400,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-22132,,Chittor,Kalikiri,Tomato,Local,FAQ,5000,5830,5460,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-22133,,Chittor,Kalikiri,Tomato,Local,FAQ,5130,6000,5500,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-22134,,Chittor,Kalikiri,Tomato,Local,FAQ,5130,6000,5560,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-22135,,Chittor,Kalikiri,Tomato,Local,FAQ,5200,6000,5600,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-22136,,Chittor,Kalikiri,Tomato,Local,FAQ,5260,6280,5730,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-22137,,Chittor,Kalikiri,Tomato,Local,FAQ,5500,6700,6200,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-22138,,Chittor,Kalikiri,Tomato,Local,FAQ,5530,6600,6000,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-22139,,Chittor,Kalikiri,Tomato,Local,FAQ,5800,6700,6200,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-22140,,Chittor,Kalikiri,Tomato,Local,FAQ,5800,7000,6530,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-22141,,Chittor,Kalikiri,Tomato,Local,FAQ,5840,7000,6330,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-22142,,Chittor,Kalikiri,Tomato,Local,FAQ,5900,6700,6300,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-22143,,Chittor,Kalikiri,Tomato,Local,FAQ,5900,6800,6400,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-22144,,Chittor,Kalikiri,Tomato,Local,FAQ,6000,6860,6400,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-22145,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-22146,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-22147,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-22148,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-22149,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-22150,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-22151,,Chittor,Madanapalli,Tomato,Local,FAQ,1100,2200,1800,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-22152,,Chittor,Madanapalli,Tomato,Local,FAQ,1100,2200,1800,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-22153,,Chittor,Madanapalli,Tomato,Local,FAQ,1100,2400,1900,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-22154,,Chittor,Madanapalli,Tomato,Local,FAQ,1100,2400,1900,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-22155,,Chittor,Madanapalli,Tomato,Local,FAQ,1200,2600,1900,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-22156,,Chittor,Madanapalli,Tomato,Local,FAQ,1200,2600,1900,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-22157,,Chittor,Madanapalli,Tomato,Local,FAQ,1200,2600,1900,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-22158,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2000,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-22159,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2200,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-22160,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2300,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-22161,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2300,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-22162,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2300,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-22163,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2900,2300,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-22164,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2200,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-22165,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2200,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-22166,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2200,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-22167,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2200,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-22168,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2300,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-22169,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2300,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-22170,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,2600,2300,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-22171,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,2800,2200,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-22172,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,2800,2300,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-22173,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,3000,2300,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-22174,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,3000,2300,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-22175,,Chittor,Madanapalli,Tomato,Local,FAQ,1600,3000,2500,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-22176,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-22177,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-22178,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-22179,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-22180,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-22181,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-22182,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-22183,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-22184,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,17 Nov 2024,2024,Nov,17,2024-11-17 00:00:00
-22185,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-22186,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3600,2900,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-22187,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3600,2900,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-22188,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3600,3000,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-22189,,Chittor,Madanapalli,Tomato,Local,FAQ,2100,3200,2700,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-22190,,Chittor,Madanapalli,Tomato,Local,FAQ,2300,4000,3400,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-22191,,Chittor,Madanapalli,Tomato,Local,FAQ,2300,4000,3400,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-22192,,Chittor,Madanapalli,Tomato,Local,FAQ,2300,4000,3400,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-22193,,Chittor,Madanapalli,Tomato,Local,FAQ,2300,4000,3400,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-22194,,Chittor,Madanapalli,Tomato,Local,FAQ,2400,4000,3600,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-22195,,Chittor,Madanapalli,Tomato,Local,FAQ,2400,4000,3600,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-22196,,Chittor,Madanapalli,Tomato,Local,FAQ,2400,4000,3600,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-22197,,Chittor,Madanapalli,Tomato,Local,FAQ,2400,4000,3600,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-22198,,Chittor,Madanapalli,Tomato,Local,FAQ,2480,3200,2700,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-22199,,Chittor,Madanapalli,Tomato,Local,FAQ,2500,3600,2700,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-22200,,Chittor,Madanapalli,Tomato,Local,FAQ,2500,4200,3600,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-22201,,Chittor,Madanapalli,Tomato,Local,FAQ,2600,3800,3200,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-22202,,Chittor,Madanapalli,Tomato,Local,FAQ,2600,3800,3200,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-22203,,Chittor,Madanapalli,Tomato,Local,FAQ,2700,3200,3000,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-22204,,Chittor,Madanapalli,Tomato,Local,FAQ,2700,3200,3000,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-22205,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4200,3600,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-22206,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4200,3600,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-22207,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-22208,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-22209,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-22210,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-22211,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-22212,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4200,3800,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-22213,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4200,3800,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-22214,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4600,3800,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-22215,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4800,3900,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-22216,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4800,3900,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-22217,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,5000,3000,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-22218,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,5000,3900,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-22219,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,5200,4400,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-22220,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,5400,4600,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-22221,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,3800,3600,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-22222,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-22223,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-22224,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-22225,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-22226,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-22227,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-22228,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-22229,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-22230,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-22231,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-22232,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5300,4400,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-22233,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5600,4800,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-22234,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5600,4800,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-22235,,Chittor,Madanapalli,Tomato,Local,FAQ,3210,4400,3600,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-22236,,Chittor,Madanapalli,Tomato,Local,FAQ,3300,5400,4600,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-22237,,Chittor,Madanapalli,Tomato,Local,FAQ,3300,5400,4600,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-22238,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-22239,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-22240,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-22241,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-22242,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-22243,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,5160,4400,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-22244,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,5160,4400,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-22245,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-22246,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-22247,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-22248,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-22249,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-22250,,Chittor,Madanapalli,Tomato,Local,FAQ,4000,5600,4800,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-22251,,Chittor,Madanapalli,Tomato,Local,FAQ,4000,6400,5400,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-22252,,Chittor,Madanapalli,Tomato,Local,FAQ,4000,6400,5400,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-22253,,Chittor,Madanapalli,Tomato,Local,FAQ,4100,6400,5500,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-22254,,Chittor,Madanapalli,Tomato,Local,FAQ,4100,6400,5500,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-22255,,Chittor,Madanapalli,Tomato,Local,FAQ,4100,6400,5500,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-22256,,Chittor,Madanapalli,Tomato,Local,FAQ,4100,6400,5500,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-22257,,Chittor,Madanapalli,Tomato,Local,FAQ,4200,6600,5600,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-22258,,Chittor,Madanapalli,Tomato,Local,FAQ,4200,6600,5800,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-22259,,Chittor,Madanapalli,Tomato,Local,FAQ,4200,7200,6000,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-22260,,Chittor,Madanapalli,Tomato,Local,FAQ,4200,8000,6000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-22261,,Chittor,Madanapalli,Tomato,Local,FAQ,4400,6800,5600,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-22262,,Chittor,Madanapalli,Tomato,Local,FAQ,4400,7200,5000,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-22263,,Chittor,Madanapalli,Tomato,Local,FAQ,4700,6000,5200,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-22264,,Chittor,Madanapalli,Tomato,Local,FAQ,4800,6600,5800,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-22265,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,6000,5800,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-22266,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,6600,6000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-22267,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,7000,5800,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-22268,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,7000,6000,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-22269,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,7000,6000,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-22270,,Chittor,Madanapalli,Tomato,Local,FAQ,5400,7400,6600,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-22271,,Chittor,Madanapalli,Tomato,Local,FAQ,5800,8800,7400,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-22272,,Chittor,Madanapalli,Tomato,Local,FAQ,6000,8400,7800,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-22273,,Chittor,Madanapalli,Tomato,Local,FAQ,6000,8600,8000,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-22274,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,8800,8200,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-22275,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,8800,8200,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-22276,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,8800,8200,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-22277,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,9000,8200,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-22278,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,9000,8200,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-22279,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1600,2600,2300,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-22280,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1700,2200,2000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-22281,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1700,2300,2000,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-22282,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1800,2200,2000,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-22283,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1900,2300,2100,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-22284,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1900,2700,2400,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-22285,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1900,2700,2500,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-22286,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1900,2700,2500,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-22287,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2300,2100,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-22288,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2500,2300,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-22289,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2500,2300,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-22290,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2600,2300,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-22291,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2600,2400,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-22292,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2400,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-22293,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2500,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-22294,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-22295,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2600,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-22296,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2600,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-22297,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2600,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-22298,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,3000,2500,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-22299,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,3000,2800,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-22300,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,3200,2600,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-22301,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,2600,2400,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-22302,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,2900,2500,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-22303,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,2900,2500,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-22304,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,2900,2700,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-22305,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,3100,2900,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-22306,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2200,2800,2400,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-22307,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2200,2800,2500,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-22308,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2200,3000,2600,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-22309,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2200,3300,2800,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-22310,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2400,3000,2600,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-22311,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2400,3100,2800,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-22312,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2400,3100,2900,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-22313,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2500,3000,2700,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-22314,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2500,3200,2900,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-22315,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2600,3200,2900,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-22316,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2600,3200,3000,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-22317,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2700,3100,2900,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-22318,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2700,3300,3000,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-22319,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2700,3300,3000,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-22320,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3200,3000,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-22321,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3300,3000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-22322,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3400,3000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-22323,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3400,3000,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-22324,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3400,3000,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-22325,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3400,3100,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-22326,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3500,3000,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-22327,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3600,3000,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-22328,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,4000,3200,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-22329,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2900,3900,3500,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-22330,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3500,3200,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-22331,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3600,3200,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-22332,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3600,3200,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-22333,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3600,3200,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-22334,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3800,3400,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-22335,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,4500,4000,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-22336,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3200,3700,3600,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-22337,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3200,4200,3700,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-22338,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3200,4300,3700,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-22339,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,4400,3900,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-22340,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,4500,4000,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-22341,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,4500,4000,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-22342,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,4800,4000,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-22343,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,5000,4500,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-22344,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3600,4500,4000,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-22345,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3600,4600,4100,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-22346,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3700,4900,4300,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-22347,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3800,4400,4000,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-22348,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3800,4500,4100,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-22349,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3800,4600,4300,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-22350,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3900,4900,4500,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-22351,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,4800,4400,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-22352,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,4800,4400,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-22353,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,4800,4500,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-22354,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,4800,4500,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-22355,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5000,4500,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-22356,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5000,4600,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-22357,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5200,4800,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-22358,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5500,4700,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-22359,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5500,5000,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-22360,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5600,4800,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-22361,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5700,5100,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-22362,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4200,5200,4500,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-22363,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4200,5700,5200,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-22364,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4200,5700,5200,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-22365,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4200,5900,5300,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-22366,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4500,5500,5000,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-22367,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4500,5500,5000,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-22368,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4500,5600,5000,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-22369,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4500,6500,5800,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-22370,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4700,5800,5200,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-22371,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,5000,6000,5500,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-22372,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,5500,7400,6800,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-22373,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,5800,7800,7300,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-22374,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6000,8000,7500,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-22375,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6000,8000,7500,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-22376,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6300,8200,7300,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-22377,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6400,8000,7500,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-22378,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6400,8000,7500,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-22379,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6500,8200,7600,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-22380,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6500,8400,7500,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-22381,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1500,1900,1700,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-22382,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1500,2000,1700,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-22383,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1500,2000,1700,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-22384,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1600,2000,1800,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-22385,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1600,2000,1800,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-22386,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1600,2100,1800,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-22387,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1700,2133,1920,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-22388,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1700,2200,2000,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-22389,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2200,2000,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-22390,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2200,2000,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-22391,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2200,2000,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-22392,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2300,2000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-22393,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2300,2000,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-22394,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2400,2100,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-22395,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1900,2300,2100,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-22396,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1900,2370,2180,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-22397,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1900,2400,2100,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-22398,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2400,2200,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-22399,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2400,2200,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-22400,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2400,2200,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-22401,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2400,2300,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-22402,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2500,2300,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-22403,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2500,2300,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-22404,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2500,2300,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-22405,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2500,2300,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-22406,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2100,2500,2300,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-22407,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2100,2500,2300,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-22408,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2100,2500,2300,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-22409,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2100,2500,2300,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-22410,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2200,2700,2500,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-22411,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2200,2700,2500,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-22412,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2200,2980,2700,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-22413,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2300,2800,2500,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-22414,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2300,2800,2500,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-22415,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2300,2800,2500,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-22416,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2400,2800,2600,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-22417,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2400,2800,2600,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-22418,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2500,2900,2700,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-22419,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2500,3000,2700,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-22420,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2500,3000,2700,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-22421,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2500,3300,2900,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-22422,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3100,2900,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-22423,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3100,2900,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-22424,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3200,2900,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-22425,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3200,2900,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-22426,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3300,3000,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-22427,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3300,3000,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-22428,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3300,3000,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-22429,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3300,3000,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-22430,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2800,3150,2900,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-22431,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2800,3300,3000,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-22432,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2800,3500,3200,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-22433,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2900,3300,3100,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-22434,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3000,3400,3200,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-22435,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3000,3400,3200,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-22436,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3000,3500,3300,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-22437,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3000,3500,3300,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-22438,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3100,3500,3300,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-22439,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3200,3700,3500,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-22440,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3400,3800,3600,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-22441,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3400,4100,3700,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-22442,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3500,3900,3700,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-22443,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3500,4000,3700,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-22444,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3500,4000,3700,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-22445,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3500,4000,3700,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-22446,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4100,3900,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-22447,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4100,3900,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-22448,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4300,4000,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-22449,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4300,4000,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-22450,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4500,4200,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-22451,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3800,4200,4000,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-22452,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3800,4300,4000,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-22453,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3800,4400,4100,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-22454,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3900,4500,4200,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-22455,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3900,4500,4300,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-22456,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,4500,4300,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-22457,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,4500,4300,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-22458,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,4600,4300,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-22459,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,4700,4400,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-22460,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,5000,4500,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-22461,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4100,4700,4400,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-22462,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4300,5000,4600,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-22463,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4400,5000,4700,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-22464,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4400,5100,4700,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-22465,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4600,5000,4800,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-22466,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4700,5300,5000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-22467,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4700,5400,5000,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-22468,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4700,5500,5000,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-22469,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4800,5400,5000,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-22470,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4800,5400,5100,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-22471,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5000,5600,5300,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-22472,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5180,5800,5540,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-22473,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5215,5714,5530,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-22474,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5400,6000,5700,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-22475,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5400,7400,6300,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-22476,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5420,6070,5750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-22477,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5700,6400,6000,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-22478,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5800,6500,6200,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-22479,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6000,6700,6400,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-22480,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6000,6700,6400,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-22481,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6400,7000,6600,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-22482,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6400,7000,6700,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-22483,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6500,7335,6870,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-22484,,Kurnool,Pattikonda,Tomato,Local,FAQ,1000,1500,1200,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-22485,,Kurnool,Pattikonda,Tomato,Local,FAQ,1200,1500,1400,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-22486,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-22487,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-22488,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-22489,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-22490,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-22491,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-22492,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-22493,,Kurnool,Pattikonda,Tomato,Local,FAQ,1800,2300,2000,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-22494,,Kurnool,Pattikonda,Tomato,Local,FAQ,1800,2500,2000,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-22495,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-22496,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-22497,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-22498,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-22499,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-22500,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-22501,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-22502,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-22503,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-22504,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-22505,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-22506,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-22507,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-22508,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-22509,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-22510,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-22511,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-22512,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,2800,2600,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-22513,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-22514,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-22515,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-22516,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-22517,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-22518,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-22519,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-22520,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-22521,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-22522,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-22523,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-22524,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-22525,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-22526,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-22527,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-22528,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-22529,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-22530,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-22531,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-22532,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-22533,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-22534,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-22535,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-22536,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-22537,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-22538,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3200,2800,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-22539,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3500,3000,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-22540,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3500,3000,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-22541,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-22542,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-22543,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-22544,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-22545,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-22546,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-22547,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-22548,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-22549,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3400,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-22550,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,4000,3500,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-22551,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,4000,3500,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-22552,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,4000,3500,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-22553,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,4000,3500,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-22554,,Kurnool,Pattikonda,Tomato,Local,FAQ,3200,3500,3300,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-22555,,Kurnool,Pattikonda,Tomato,Local,FAQ,3200,3500,3400,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-22556,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-22557,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-22558,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-22559,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-22560,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-22561,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-22562,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-22563,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-22564,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-22565,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-22566,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-22567,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-22568,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-22569,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-22570,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-22571,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-22572,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-22573,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-22574,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-22575,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-22576,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-22577,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-22578,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-22579,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-22580,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5500,5000,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-22581,,Kurnool,Pattikonda,Tomato,Local,FAQ,5000,5500,5200,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-22582,,Kurnool,Pattikonda,Tomato,Local,FAQ,5000,6000,5500,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-22583,,Kurnool,Pattikonda,Tomato,Local,FAQ,5500,6000,5800,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-22584,,Kurnool,Pattikonda,Tomato,Local,FAQ,5500,6500,6000,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-22585,,Kurnool,Pattikonda,Tomato,Local,FAQ,6000,7000,6500,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-22586,,Kurnool,Pattikonda,Tomato,Local,FAQ,6000,7000,6500,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-22587,,Kurnool,Pattikonda,Tomato,Local,FAQ,6000,7000,6500,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-22588,,Kurnool,Pattikonda,Tomato,Local,FAQ,7000,8000,7500,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-22589,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-22590,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-22591,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-22592,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-22593,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-22594,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-22595,,Chittor,Punganur,Tomato,Hybrid,FAQ,1270,1800,1540,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-22596,,Chittor,Punganur,Tomato,Hybrid,FAQ,1340,1800,1540,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-22597,,Chittor,Punganur,Tomato,Hybrid,FAQ,1340,1940,1670,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-22598,,Chittor,Punganur,Tomato,Hybrid,FAQ,1340,1940,1670,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-22599,,Chittor,Punganur,Tomato,Hybrid,FAQ,1340,2000,1740,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-22600,,Chittor,Punganur,Tomato,Hybrid,FAQ,1400,2000,1700,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-22601,,Chittor,Punganur,Tomato,Hybrid,FAQ,1470,2000,1740,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-22602,,Chittor,Punganur,Tomato,Hybrid,FAQ,1470,2070,1740,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-22603,,Chittor,Punganur,Tomato,Hybrid,FAQ,1470,2140,1800,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-22604,,Chittor,Punganur,Tomato,Hybrid,FAQ,1500,2270,1900,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-22605,,Chittor,Punganur,Tomato,Hybrid,FAQ,1540,2140,1870,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-22606,,Chittor,Punganur,Tomato,Hybrid,FAQ,1540,2140,1870,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-22607,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2000,1870,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-22608,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2070,1900,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-22609,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2140,1800,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-22610,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2140,1940,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-22611,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2200,1940,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-22612,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2270,1940,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-22613,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2400,2000,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-22614,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2400,2000,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-22615,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2000,2000,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-22616,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2270,2000,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-22617,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2300,2000,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-22618,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2400,2070,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-22619,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2540,2100,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-22620,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2400,2000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-22621,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2400,2100,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-22622,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2470,2140,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-22623,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2540,2140,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-22624,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2600,2140,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-22625,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2140,2000,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-22626,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2300,2070,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-22627,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2400,2140,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-22628,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2470,2140,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-22629,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2500,2140,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-22630,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2500,2200,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-22631,,Chittor,Punganur,Tomato,Hybrid,FAQ,1900,2500,2300,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-22632,,Chittor,Punganur,Tomato,Hybrid,FAQ,1940,2400,2200,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-22633,,Chittor,Punganur,Tomato,Hybrid,FAQ,1940,2540,2200,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-22634,,Chittor,Punganur,Tomato,Hybrid,FAQ,1940,2570,2270,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-22635,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2470,2270,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-22636,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2500,2270,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-22637,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2540,2270,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-22638,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2670,2340,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-22639,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2740,2440,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-22640,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2940,2570,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-22641,,Chittor,Punganur,Tomato,Hybrid,FAQ,2100,2670,2300,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-22642,,Chittor,Punganur,Tomato,Hybrid,FAQ,2140,2600,2340,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-22643,,Chittor,Punganur,Tomato,Hybrid,FAQ,2140,2700,2340,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-22644,,Chittor,Punganur,Tomato,Hybrid,FAQ,2140,2740,2470,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-22645,,Chittor,Punganur,Tomato,Hybrid,FAQ,2170,2540,2340,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-22646,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2500,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-22647,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2500,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-22648,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2500,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-22649,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2540,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-22650,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2540,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-22651,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2540,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-22652,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,3000,2600,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-22653,,Chittor,Punganur,Tomato,Hybrid,FAQ,2270,2800,2540,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-22654,,Chittor,Punganur,Tomato,Hybrid,FAQ,2270,2870,2540,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-22655,,Chittor,Punganur,Tomato,Hybrid,FAQ,2270,3000,2670,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-22656,,Chittor,Punganur,Tomato,Hybrid,FAQ,2300,3000,2700,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-22657,,Chittor,Punganur,Tomato,Hybrid,FAQ,2340,3000,2670,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-22658,,Chittor,Punganur,Tomato,Hybrid,FAQ,2340,3070,2740,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-22659,,Chittor,Punganur,Tomato,Hybrid,FAQ,2470,3000,2740,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-22660,,Chittor,Punganur,Tomato,Hybrid,FAQ,2470,3000,2740,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-22661,,Chittor,Punganur,Tomato,Hybrid,FAQ,2470,3100,2800,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-22662,,Chittor,Punganur,Tomato,Hybrid,FAQ,2500,3300,2900,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-22663,,Chittor,Punganur,Tomato,Hybrid,FAQ,2540,3200,2870,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-22664,,Chittor,Punganur,Tomato,Hybrid,FAQ,2540,3200,2870,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-22665,,Chittor,Punganur,Tomato,Hybrid,FAQ,2540,3200,2870,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-22666,,Chittor,Punganur,Tomato,Hybrid,FAQ,2570,3200,2900,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-22667,,Chittor,Punganur,Tomato,Hybrid,FAQ,2600,3270,2940,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-22668,,Chittor,Punganur,Tomato,Hybrid,FAQ,2600,3340,3000,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-22669,,Chittor,Punganur,Tomato,Hybrid,FAQ,2640,3340,2640,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-22670,,Chittor,Punganur,Tomato,Hybrid,FAQ,2670,3340,3000,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-22671,,Chittor,Punganur,Tomato,Hybrid,FAQ,2670,3340,3000,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-22672,,Chittor,Punganur,Tomato,Hybrid,FAQ,2670,3470,3000,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-22673,,Chittor,Punganur,Tomato,Hybrid,FAQ,2670,6670,6140,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-22674,,Chittor,Punganur,Tomato,Hybrid,FAQ,2700,3340,3000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-22675,,Chittor,Punganur,Tomato,Hybrid,FAQ,2700,3400,3000,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-22676,,Chittor,Punganur,Tomato,Hybrid,FAQ,2800,3470,3100,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-22677,,Chittor,Punganur,Tomato,Hybrid,FAQ,2800,3470,3140,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-22678,,Chittor,Punganur,Tomato,Hybrid,FAQ,2900,3600,3340,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-22679,,Chittor,Punganur,Tomato,Hybrid,FAQ,2940,3540,3200,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-22680,,Chittor,Punganur,Tomato,Hybrid,FAQ,2940,3540,3270,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-22681,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3600,3300,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-22682,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3670,3340,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-22683,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3670,3340,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-22684,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3670,3340,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-22685,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3670,3340,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-22686,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3700,3400,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-22687,,Chittor,Punganur,Tomato,Hybrid,FAQ,3200,3870,3540,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-22688,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,3940,3670,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-22689,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,3940,3670,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-22690,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,4000,3670,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-22691,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,4000,3670,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-22692,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,4140,3800,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-22693,,Chittor,Punganur,Tomato,Hybrid,FAQ,3540,4200,3870,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-22694,,Chittor,Punganur,Tomato,Hybrid,FAQ,3670,4200,3900,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-22695,,Chittor,Punganur,Tomato,Hybrid,FAQ,3670,4340,4000,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-22696,,Chittor,Punganur,Tomato,Hybrid,FAQ,3700,4500,4000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-22697,,Chittor,Punganur,Tomato,Hybrid,FAQ,3740,4670,4270,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-22698,,Chittor,Punganur,Tomato,Hybrid,FAQ,3800,4670,4200,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-22699,,Chittor,Punganur,Tomato,Hybrid,FAQ,3870,4400,4140,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-22700,,Chittor,Punganur,Tomato,Hybrid,FAQ,3870,4540,4170,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-22701,,Chittor,Punganur,Tomato,Hybrid,FAQ,4000,4600,4300,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-22702,,Chittor,Punganur,Tomato,Hybrid,FAQ,4000,5000,4500,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-22703,,Chittor,Punganur,Tomato,Hybrid,FAQ,4140,4800,4470,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-22704,,Chittor,Punganur,Tomato,Hybrid,FAQ,4200,5000,4600,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-22705,,Chittor,Punganur,Tomato,Hybrid,FAQ,4200,5000,4670,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-22706,,Chittor,Punganur,Tomato,Hybrid,FAQ,4240,5000,4570,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-22707,,Chittor,Punganur,Tomato,Hybrid,FAQ,4340,5000,4670,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-22708,,Chittor,Punganur,Tomato,Hybrid,FAQ,4340,5000,4670,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-22709,,Chittor,Punganur,Tomato,Hybrid,FAQ,4400,5140,4740,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-22710,,Chittor,Punganur,Tomato,Hybrid,FAQ,4600,5340,5000,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-22711,,Chittor,Punganur,Tomato,Hybrid,FAQ,4600,5400,5000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-22712,,Chittor,Punganur,Tomato,Hybrid,FAQ,4740,5470,5140,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-22713,,Chittor,Punganur,Tomato,Hybrid,FAQ,5070,5670,5370,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-22714,,Chittor,Punganur,Tomato,Hybrid,FAQ,5100,5800,5500,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-22715,,Chittor,Punganur,Tomato,Hybrid,FAQ,5200,6000,5670,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-22716,,Chittor,Punganur,Tomato,Hybrid,FAQ,5200,6200,5700,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-22717,,Chittor,Punganur,Tomato,Hybrid,FAQ,5270,6000,5640,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-22718,,Chittor,Punganur,Tomato,Hybrid,FAQ,5340,6000,5670,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-22719,,Chittor,Punganur,Tomato,Hybrid,FAQ,5670,6400,6000,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-22720,,Chittor,Punganur,Tomato,Hybrid,FAQ,5740,6340,6000,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-22721,,Chittor,Punganur,Tomato,Hybrid,FAQ,5800,6500,6100,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-22722,,Chittor,Punganur,Tomato,Hybrid,FAQ,6000,6670,6200,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-22723,,Chittor,Punganur,Tomato,Hybrid,FAQ,6000,6770,6400,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-22724,,Chittor,Punganur,Tomato,Hybrid,FAQ,6000,6800,6400,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-22725,,Chittor,Punganur,Tomato,Hybrid,FAQ,6000,6870,6500,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-22726,,Chittor,Punganur,Tomato,Hybrid,FAQ,6600,7500,7000,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-22727,,Chittor,Vayalapadu,Tomato,Local,FAQ,1600,2000,1800,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-22728,,Chittor,Vayalapadu,Tomato,Local,FAQ,1800,2200,2000,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-22729,,Chittor,Vayalapadu,Tomato,Local,FAQ,1800,2200,2000,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-22730,,Chittor,Vayalapadu,Tomato,Local,FAQ,1800,2200,2000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-22731,,Chittor,Vayalapadu,Tomato,Local,FAQ,1800,2320,2120,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-22732,,Chittor,Vayalapadu,Tomato,Local,FAQ,1840,2240,2000,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-22733,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-22734,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-22735,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-22736,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-22737,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-22738,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-22739,,Chittor,Vayalapadu,Tomato,Local,FAQ,2240,2640,2400,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-22740,,Chittor,Vayalapadu,Tomato,Local,FAQ,2240,2640,2400,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-22741,,Chittor,Vayalapadu,Tomato,Local,FAQ,2280,2680,2400,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-22742,,Chittor,Vayalapadu,Tomato,Local,FAQ,2400,2800,2600,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-22743,,Chittor,Vayalapadu,Tomato,Local,FAQ,2400,3000,2800,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-22744,,Chittor,Vayalapadu,Tomato,Local,FAQ,2400,3000,2800,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-22745,,Chittor,Vayalapadu,Tomato,Local,FAQ,2400,3000,2800,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-22746,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-22747,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-22748,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-22749,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-22750,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-22751,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-22752,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-22753,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-22754,,Chittor,Vayalapadu,Tomato,Local,FAQ,2720,3120,2800,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-22755,,Chittor,Vayalapadu,Tomato,Local,FAQ,2800,3200,3000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-22756,,Chittor,Vayalapadu,Tomato,Local,FAQ,3200,3800,3500,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-22757,,Chittor,Vayalapadu,Tomato,Local,FAQ,3400,3800,3600,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-22758,,Chittor,Vayalapadu,Tomato,Local,FAQ,3600,4200,3800,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-22759,,Chittor,Vayalapadu,Tomato,Local,FAQ,3600,4400,4000,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-22760,,Chittor,Vayalapadu,Tomato,Local,FAQ,3600,4400,4000,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-22761,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4400,4000,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-22762,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4200,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-22763,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4200,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-22764,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4320,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-22765,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4320,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-22766,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4500,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-22767,,Chittor,Vayalapadu,Tomato,Local,FAQ,4000,4600,4400,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-22768,,Chittor,Vayalapadu,Tomato,Local,FAQ,4200,4600,4400,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-22769,,Chittor,Vayalapadu,Tomato,Local,FAQ,4400,4800,4600,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-22770,,Chittor,Vayalapadu,Tomato,Local,FAQ,4400,4800,4600,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-22771,,Chittor,Vayalapadu,Tomato,Local,FAQ,4400,4800,4600,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-22772,,Chittor,Vayalapadu,Tomato,Local,FAQ,4400,5200,4800,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-22773,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-22774,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-22775,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-22776,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-22777,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-22778,,Chittor,Vayalapadu,Tomato,Local,FAQ,4800,5200,5000,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-22779,,Chittor,Vayalapadu,Tomato,Local,FAQ,4800,5200,5000,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-22780,,Chittor,Vayalapadu,Tomato,Local,FAQ,4800,5600,5200,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-22781,,Chittor,Vayalapadu,Tomato,Local,FAQ,5000,5400,5200,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-22782,,Chittor,Vayalapadu,Tomato,Local,FAQ,5200,6000,5600,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-22783,,Chittor,Vayalapadu,Tomato,Local,FAQ,5200,6000,5600,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-22784,,Chittor,Vayalapadu,Tomato,Local,FAQ,5400,6200,5800,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-22785,,Chittor,Vayalapadu,Tomato,Local,FAQ,5600,6000,5800,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-22786,,Chittor,Vayalapadu,Tomato,Local,FAQ,5600,6400,6000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-22787,,Chittor,Vayalapadu,Tomato,Local,FAQ,6000,6400,6200,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-22788,,Chittor,Vayalapadu,Tomato,Local,FAQ,6000,6400,6200,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-22789,,Chittor,Vayalapadu,Tomato,Local,FAQ,6000,6800,6400,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-22790,,Chittor,Vayalapadu,Tomato,Local,FAQ,6000,6800,6400,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-22791,,Chittor,Vayalapadu,Tomato,Local,FAQ,6200,6800,6600,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-22792,,Chittor,Vayalapadu,Tomato,Local,FAQ,6400,7200,6800,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-22793,,Chittor,Vayalapadu,Tomato,Local,FAQ,7200,8000,7600,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-22794,,Chittor,Vayalapadu,Tomato,Local,FAQ,7600,8000,7800,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-22795,,Chittor,Vayalapadu,Tomato,Local,FAQ,8000,8400,8200,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
+22002,,Chittor,Kalikiri,Tomato,Local,FAQ,1200,1860,1530,10 Nov 2024,2024,Nov,10,2024-11-10
+22003,,Chittor,Kalikiri,Tomato,Local,FAQ,1330,2000,1660,14 Nov 2024,2024,Nov,14,2024-11-14
+22004,,Chittor,Kalikiri,Tomato,Local,FAQ,1400,1860,1600,29 Aug 2024,2024,Aug,29,2024-08-29
+22005,,Chittor,Kalikiri,Tomato,Local,FAQ,1430,2060,1700,14 Aug 2024,2024,Aug,14,2024-08-14
+22006,,Chittor,Kalikiri,Tomato,Local,FAQ,1460,2130,1800,11 Nov 2024,2024,Nov,11,2024-11-11
+22007,,Chittor,Kalikiri,Tomato,Local,FAQ,1500,2000,1800,09 Nov 2024,2024,Nov,9,2024-11-09
+22008,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2000,1750,30 Aug 2024,2024,Aug,30,2024-08-30
+22009,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2000,1800,19 Aug 2024,2024,Aug,19,2024-08-19
+22010,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2000,1800,20 Aug 2024,2024,Aug,20,2024-08-20
+22011,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2000,1800,21 Aug 2024,2024,Aug,21,2024-08-21
+22012,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2060,1860,27 Aug 2024,2024,Aug,27,2024-08-27
+22013,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2130,1860,12 Aug 2024,2024,Aug,12,2024-08-12
+22014,,Chittor,Kalikiri,Tomato,Local,FAQ,1530,2130,1860,13 Aug 2024,2024,Aug,13,2024-08-13
+22015,,Chittor,Kalikiri,Tomato,Local,FAQ,1560,2100,1930,28 Aug 2024,2024,Aug,28,2024-08-28
+22016,,Chittor,Kalikiri,Tomato,Local,FAQ,1560,2130,1850,01 Sep 2024,2024,Sep,1,2024-09-01
+22017,,Chittor,Kalikiri,Tomato,Local,FAQ,1560,2330,1900,12 Nov 2024,2024,Nov,12,2024-11-12
+22018,,Chittor,Kalikiri,Tomato,Local,FAQ,1560,2330,1900,13 Nov 2024,2024,Nov,13,2024-11-13
+22019,,Chittor,Kalikiri,Tomato,Local,FAQ,1600,2200,1900,07 Sep 2024,2024,Sep,7,2024-09-07
+22020,,Chittor,Kalikiri,Tomato,Local,FAQ,1660,2430,2100,05 Sep 2024,2024,Sep,5,2024-09-05
+22021,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2200,2030,24 Aug 2024,2024,Aug,24,2024-08-24
+22022,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2230,2000,26 Aug 2024,2024,Aug,26,2024-08-26
+22023,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2330,2000,15 Nov 2024,2024,Nov,15,2024-11-15
+22024,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2330,2100,22 Aug 2024,2024,Aug,22,2024-08-22
+22025,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2430,2100,06 Aug 2024,2024,Aug,6,2024-08-06
+22026,,Chittor,Kalikiri,Tomato,Local,FAQ,1760,2430,2100,08 Aug 2024,2024,Aug,8,2024-08-08
+22027,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2330,2060,18 Nov 2024,2024,Nov,18,2024-11-18
+22028,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2330,2060,27 Jul 2024,2024,Jul,27,2024-07-27
+22029,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2400,2130,04 Aug 2024,2024,Aug,4,2024-08-04
+22030,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2460,2230,02 Aug 2024,2024,Aug,2,2024-08-02
+22031,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2500,2180,05 Aug 2024,2024,Aug,5,2024-08-05
+22032,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2500,2200,11 Sep 2024,2024,Sep,11,2024-09-11
+22033,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2530,2260,23 Aug 2024,2024,Aug,23,2024-08-23
+22034,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2660,2200,30 Jul 2024,2024,Jul,30,2024-07-30
+22035,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2660,2230,09 Aug 2024,2024,Aug,9,2024-08-09
+22036,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2700,2230,31 Jul 2024,2024,Jul,31,2024-07-31
+22037,,Chittor,Kalikiri,Tomato,Local,FAQ,1800,2800,2460,26 Jul 2024,2024,Jul,26,2024-07-26
+22038,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2400,2260,03 Aug 2024,2024,Aug,3,2024-08-03
+22039,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2500,2260,01 Aug 2024,2024,Aug,1,2024-08-01
+22040,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2530,2260,04 Sep 2024,2024,Sep,4,2024-09-04
+22041,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2530,2260,06 Sep 2024,2024,Sep,6,2024-09-06
+22042,,Chittor,Kalikiri,Tomato,Local,FAQ,1830,2660,2200,15 Aug 2024,2024,Aug,15,2024-08-15
+22043,,Chittor,Kalikiri,Tomato,Local,FAQ,1860,2530,2280,02 Sep 2024,2024,Sep,2,2024-09-02
+22044,,Chittor,Kalikiri,Tomato,Local,FAQ,1860,2530,2280,03 Sep 2024,2024,Sep,3,2024-09-03
+22045,,Chittor,Kalikiri,Tomato,Local,FAQ,1860,2660,2230,17 Aug 2024,2024,Aug,17,2024-08-17
+22046,,Chittor,Kalikiri,Tomato,Local,FAQ,1860,2700,2230,16 Aug 2024,2024,Aug,16,2024-08-16
+22047,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2660,2330,06 Nov 2024,2024,Nov,6,2024-11-06
+22048,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2660,2330,08 Nov 2024,2024,Nov,8,2024-11-08
+22049,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2660,2400,10 Aug 2024,2024,Aug,10,2024-08-10
+22050,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2660,2400,11 Aug 2024,2024,Aug,11,2024-08-11
+22051,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2700,2300,10 Sep 2024,2024,Sep,10,2024-09-10
+22052,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2800,2400,31 Oct 2024,2024,Oct,31,2024-10-31
+22053,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2800,2460,07 Nov 2024,2024,Nov,7,2024-11-07
+22054,,Chittor,Kalikiri,Tomato,Local,FAQ,2000,2800,2530,19 Nov 2024,2024,Nov,19,2024-11-19
+22055,,Chittor,Kalikiri,Tomato,Local,FAQ,2060,2660,2330,09 Sep 2024,2024,Sep,9,2024-09-09
+22056,,Chittor,Kalikiri,Tomato,Local,FAQ,2130,3000,2660,18 Aug 2024,2024,Aug,18,2024-08-18
+22057,,Chittor,Kalikiri,Tomato,Local,FAQ,2200,2800,2500,05 Nov 2024,2024,Nov,5,2024-11-05
+22058,,Chittor,Kalikiri,Tomato,Local,FAQ,2200,2800,2500,24 Oct 2024,2024,Oct,24,2024-10-24
+22059,,Chittor,Kalikiri,Tomato,Local,FAQ,2200,3300,2800,06 Jul 2024,2024,Jul,6,2024-07-06
+22060,,Chittor,Kalikiri,Tomato,Local,FAQ,2200,3500,2800,01 Jul 2024,2024,Jul,1,2024-07-01
+22061,,Chittor,Kalikiri,Tomato,Local,FAQ,2230,3000,2660,07 Aug 2024,2024,Aug,7,2024-08-07
+22062,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3000,2700,21 Nov 2024,2024,Nov,21,2024-11-21
+22063,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3000,2700,23 Nov 2024,2024,Nov,23,2024-11-23
+22064,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3000,2800,01 Nov 2024,2024,Nov,1,2024-11-01
+22065,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3200,2700,08 Sep 2024,2024,Sep,8,2024-09-08
+22066,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3200,2860,22 Nov 2024,2024,Nov,22,2024-11-22
+22067,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3200,2900,05 Jul 2024,2024,Jul,5,2024-07-05
+22068,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3300,2800,08 Jul 2024,2024,Jul,8,2024-07-08
+22069,,Chittor,Kalikiri,Tomato,Local,FAQ,2400,3300,2800,20 Nov 2024,2024,Nov,20,2024-11-20
+22070,,Chittor,Kalikiri,Tomato,Local,FAQ,2460,3300,2800,25 Jul 2024,2024,Jul,25,2024-07-25
+22071,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3000,2730,04 Nov 2024,2024,Nov,4,2024-11-04
+22072,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3300,2900,03 Jul 2024,2024,Jul,3,2024-07-03
+22073,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3660,3000,07 Jul 2024,2024,Jul,7,2024-07-07
+22074,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3660,3000,09 Jul 2024,2024,Jul,9,2024-07-09
+22075,,Chittor,Kalikiri,Tomato,Local,FAQ,2500,3700,3200,02 Jul 2024,2024,Jul,2,2024-07-02
+22076,,Chittor,Kalikiri,Tomato,Local,FAQ,2600,3300,3000,04 Jul 2024,2024,Jul,4,2024-07-04
+22077,,Chittor,Kalikiri,Tomato,Local,FAQ,2600,3300,3000,30 Oct 2024,2024,Oct,30,2024-10-30
+22078,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3300,3000,02 Nov 2024,2024,Nov,2,2024-11-02
+22079,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3300,3000,03 Nov 2024,2024,Nov,3,2024-11-03
+22080,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3300,3000,29 Oct 2024,2024,Oct,29,2024-10-29
+22081,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3500,3200,18 Sep 2024,2024,Sep,18,2024-09-18
+22082,,Chittor,Kalikiri,Tomato,Local,FAQ,2700,3530,3000,16 Sep 2024,2024,Sep,16,2024-09-16
+22083,,Chittor,Kalikiri,Tomato,Local,FAQ,2730,3530,3060,17 Sep 2024,2024,Sep,17,2024-09-17
+22084,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3600,3130,20 Sep 2024,2024,Sep,20,2024-09-20
+22085,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3600,3130,21 Sep 2024,2024,Sep,21,2024-09-21
+22086,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3660,3200,24 Nov 2024,2024,Nov,24,2024-11-24
+22087,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3660,3200,25 Nov 2024,2024,Nov,25,2024-11-25
+22088,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3660,3200,28 Oct 2024,2024,Oct,28,2024-10-28
+22089,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,3700,3100,19 Sep 2024,2024,Sep,19,2024-09-19
+22090,,Chittor,Kalikiri,Tomato,Local,FAQ,2800,4500,3600,10 Jul 2024,2024,Jul,10,2024-07-10
+22091,,Chittor,Kalikiri,Tomato,Local,FAQ,2900,3660,3200,26 Oct 2024,2024,Oct,26,2024-10-26
+22092,,Chittor,Kalikiri,Tomato,Local,FAQ,2930,3660,3200,25 Oct 2024,2024,Oct,25,2024-10-25
+22093,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,3800,3500,27 Oct 2024,2024,Oct,27,2024-10-27
+22094,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4000,3660,10 Oct 2024,2024,Oct,10,2024-10-10
+22095,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4100,3600,11 Oct 2024,2024,Oct,11,2024-10-11
+22096,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4100,3600,12 Oct 2024,2024,Oct,12,2024-10-12
+22097,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4200,3730,26 Nov 2024,2024,Nov,26,2024-11-26
+22098,,Chittor,Kalikiri,Tomato,Local,FAQ,3200,4330,3730,27 Nov 2024,2024,Nov,27,2024-11-27
+22099,,Chittor,Kalikiri,Tomato,Local,FAQ,3300,4000,3700,22 Sep 2024,2024,Sep,22,2024-09-22
+22100,,Chittor,Kalikiri,Tomato,Local,FAQ,3400,4100,3800,24 Sep 2024,2024,Sep,24,2024-09-24
+22101,,Chittor,Kalikiri,Tomato,Local,FAQ,3400,4100,3860,25 Sep 2024,2024,Sep,25,2024-09-25
+22102,,Chittor,Kalikiri,Tomato,Local,FAQ,3400,4100,3860,27 Sep 2024,2024,Sep,27,2024-09-27
+22103,,Chittor,Kalikiri,Tomato,Local,FAQ,3400,4100,3860,29 Sep 2024,2024,Sep,29,2024-09-29
+22104,,Chittor,Kalikiri,Tomato,Local,FAQ,3460,4130,3800,26 Sep 2024,2024,Sep,26,2024-09-26
+22105,,Chittor,Kalikiri,Tomato,Local,FAQ,3500,4330,3900,30 Nov 2024,2024,Nov,30,2024-11-30
+22106,,Chittor,Kalikiri,Tomato,Local,FAQ,3530,4200,3860,23 Sep 2024,2024,Sep,23,2024-09-23
+22107,,Chittor,Kalikiri,Tomato,Local,FAQ,3700,4330,4000,03 Dec 2024,2024,Dec,3,2024-12-03
+22108,,Chittor,Kalikiri,Tomato,Local,FAQ,3700,4600,4200,19 Oct 2024,2024,Oct,19,2024-10-19
+22109,,Chittor,Kalikiri,Tomato,Local,FAQ,3800,4300,4060,23 Oct 2024,2024,Oct,23,2024-10-23
+22110,,Chittor,Kalikiri,Tomato,Local,FAQ,3800,4400,4060,21 Oct 2024,2024,Oct,21,2024-10-21
+22111,,Chittor,Kalikiri,Tomato,Local,FAQ,3800,4530,4160,24 Jul 2024,2024,Jul,24,2024-07-24
+22112,,Chittor,Kalikiri,Tomato,Local,FAQ,3800,4700,4330,17 Oct 2024,2024,Oct,17,2024-10-17
+22113,,Chittor,Kalikiri,Tomato,Local,FAQ,3900,4730,4360,18 Oct 2024,2024,Oct,18,2024-10-18
+22114,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,4660,4300,01 Dec 2024,2024,Dec,1,2024-12-01
+22115,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,4660,4300,02 Dec 2024,2024,Dec,2,2024-12-02
+22116,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,4800,4400,22 Oct 2024,2024,Oct,22,2024-10-22
+22117,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,4800,4460,28 Nov 2024,2024,Nov,28,2024-11-28
+22118,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,5000,4500,13 Jul 2024,2024,Jul,13,2024-07-13
+22119,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,5200,4600,11 Jul 2024,2024,Jul,11,2024-07-11
+22120,,Chittor,Kalikiri,Tomato,Local,FAQ,4000,5200,4600,12 Jul 2024,2024,Jul,12,2024-07-12
+22121,,Chittor,Kalikiri,Tomato,Local,FAQ,4060,5000,4530,30 Sep 2024,2024,Sep,30,2024-09-30
+22122,,Chittor,Kalikiri,Tomato,Local,FAQ,4130,5000,4500,23 Jul 2024,2024,Jul,23,2024-07-23
+22123,,Chittor,Kalikiri,Tomato,Local,FAQ,4200,5000,4660,16 Oct 2024,2024,Oct,16,2024-10-16
+22124,,Chittor,Kalikiri,Tomato,Local,FAQ,4200,5330,4700,29 Nov 2024,2024,Nov,29,2024-11-29
+22125,,Chittor,Kalikiri,Tomato,Local,FAQ,4260,5330,4800,01 Oct 2024,2024,Oct,1,2024-10-01
+22126,,Chittor,Kalikiri,Tomato,Local,FAQ,4300,5200,4800,14 Oct 2024,2024,Oct,14,2024-10-14
+22127,,Chittor,Kalikiri,Tomato,Local,FAQ,4600,5400,5050,09 Oct 2024,2024,Oct,9,2024-10-09
+22128,,Chittor,Kalikiri,Tomato,Local,FAQ,4730,6000,5660,14 Jul 2024,2024,Jul,14,2024-07-14
+22129,,Chittor,Kalikiri,Tomato,Local,FAQ,4800,5900,5400,15 Jul 2024,2024,Jul,15,2024-07-15
+22130,,Chittor,Kalikiri,Tomato,Local,FAQ,4830,6000,5460,19 Jul 2024,2024,Jul,19,2024-07-19
+22131,,Chittor,Kalikiri,Tomato,Local,FAQ,5000,5700,5400,21 Jul 2024,2024,Jul,21,2024-07-21
+22132,,Chittor,Kalikiri,Tomato,Local,FAQ,5000,5830,5460,15 Oct 2024,2024,Oct,15,2024-10-15
+22133,,Chittor,Kalikiri,Tomato,Local,FAQ,5130,6000,5500,18 Jul 2024,2024,Jul,18,2024-07-18
+22134,,Chittor,Kalikiri,Tomato,Local,FAQ,5130,6000,5560,02 Oct 2024,2024,Oct,2,2024-10-02
+22135,,Chittor,Kalikiri,Tomato,Local,FAQ,5200,6000,5600,22 Jul 2024,2024,Jul,22,2024-07-22
+22136,,Chittor,Kalikiri,Tomato,Local,FAQ,5260,6280,5730,20 Jul 2024,2024,Jul,20,2024-07-20
+22137,,Chittor,Kalikiri,Tomato,Local,FAQ,5500,6700,6200,03 Oct 2024,2024,Oct,3,2024-10-03
+22138,,Chittor,Kalikiri,Tomato,Local,FAQ,5530,6600,6000,17 Jul 2024,2024,Jul,17,2024-07-17
+22139,,Chittor,Kalikiri,Tomato,Local,FAQ,5800,6700,6200,06 Oct 2024,2024,Oct,6,2024-10-06
+22140,,Chittor,Kalikiri,Tomato,Local,FAQ,5800,7000,6530,04 Oct 2024,2024,Oct,4,2024-10-04
+22141,,Chittor,Kalikiri,Tomato,Local,FAQ,5840,7000,6330,16 Jul 2024,2024,Jul,16,2024-07-16
+22142,,Chittor,Kalikiri,Tomato,Local,FAQ,5900,6700,6300,07 Oct 2024,2024,Oct,7,2024-10-07
+22143,,Chittor,Kalikiri,Tomato,Local,FAQ,5900,6800,6400,13 Oct 2024,2024,Oct,13,2024-10-13
+22144,,Chittor,Kalikiri,Tomato,Local,FAQ,6000,6860,6400,08 Oct 2024,2024,Oct,8,2024-10-08
+22145,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,08 Nov 2024,2024,Nov,8,2024-11-08
+22146,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,09 Nov 2024,2024,Nov,9,2024-11-09
+22147,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,10 Nov 2024,2024,Nov,10,2024-11-10
+22148,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,28 Aug 2024,2024,Aug,28,2024-08-28
+22149,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,29 Aug 2024,2024,Aug,29,2024-08-29
+22150,,Chittor,Madanapalli,Tomato,Local,FAQ,1000,2400,1800,30 Aug 2024,2024,Aug,30,2024-08-30
+22151,,Chittor,Madanapalli,Tomato,Local,FAQ,1100,2200,1800,27 Aug 2024,2024,Aug,27,2024-08-27
+22152,,Chittor,Madanapalli,Tomato,Local,FAQ,1100,2200,1800,31 Aug 2024,2024,Aug,31,2024-08-31
+22153,,Chittor,Madanapalli,Tomato,Local,FAQ,1100,2400,1900,11 Nov 2024,2024,Nov,11,2024-11-11
+22154,,Chittor,Madanapalli,Tomato,Local,FAQ,1100,2400,1900,14 Nov 2024,2024,Nov,14,2024-11-14
+22155,,Chittor,Madanapalli,Tomato,Local,FAQ,1200,2600,1900,01 Sep 2024,2024,Sep,1,2024-09-01
+22156,,Chittor,Madanapalli,Tomato,Local,FAQ,1200,2600,1900,13 Nov 2024,2024,Nov,13,2024-11-13
+22157,,Chittor,Madanapalli,Tomato,Local,FAQ,1200,2600,1900,14 Aug 2024,2024,Aug,14,2024-08-14
+22158,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2000,10 Sep 2024,2024,Sep,10,2024-09-10
+22159,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2200,08 Sep 2024,2024,Sep,8,2024-09-08
+22160,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2300,07 Nov 2024,2024,Nov,7,2024-11-07
+22161,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2300,09 Sep 2024,2024,Sep,9,2024-09-09
+22162,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2800,2300,11 Sep 2024,2024,Sep,11,2024-09-11
+22163,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,2900,2300,12 Nov 2024,2024,Nov,12,2024-11-12
+22164,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2200,02 Sep 2024,2024,Sep,2,2024-09-02
+22165,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2200,03 Sep 2024,2024,Sep,3,2024-09-03
+22166,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2200,15 Nov 2024,2024,Nov,15,2024-11-15
+22167,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2200,26 Aug 2024,2024,Aug,26,2024-08-26
+22168,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2300,16 Nov 2024,2024,Nov,16,2024-11-16
+22169,,Chittor,Madanapalli,Tomato,Local,FAQ,1400,3000,2300,25 Aug 2024,2024,Aug,25,2024-08-25
+22170,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,2600,2300,22 Aug 2024,2024,Aug,22,2024-08-22
+22171,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,2800,2200,03 Aug 2024,2024,Aug,3,2024-08-03
+22172,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,2800,2300,06 Sep 2024,2024,Sep,6,2024-09-06
+22173,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,3000,2300,23 Aug 2024,2024,Aug,23,2024-08-23
+22174,,Chittor,Madanapalli,Tomato,Local,FAQ,1500,3000,2300,24 Aug 2024,2024,Aug,24,2024-08-24
+22175,,Chittor,Madanapalli,Tomato,Local,FAQ,1600,3000,2500,07 Sep 2024,2024,Sep,7,2024-09-07
+22176,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,02 Aug 2024,2024,Aug,2,2024-08-02
+22177,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,04 Aug 2024,2024,Aug,4,2024-08-04
+22178,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,05 Sep 2024,2024,Sep,5,2024-09-05
+22179,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,10 Aug 2024,2024,Aug,10,2024-08-10
+22180,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3200,2700,13 Aug 2024,2024,Aug,13,2024-08-13
+22181,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,05 Aug 2024,2024,Aug,5,2024-08-05
+22182,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,06 Aug 2024,2024,Aug,6,2024-08-06
+22183,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,09 Aug 2024,2024,Aug,9,2024-08-09
+22184,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,17 Nov 2024,2024,Nov,17,2024-11-17
+22185,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3400,2900,31 Jul 2024,2024,Jul,31,2024-07-31
+22186,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3600,2900,18 Nov 2024,2024,Nov,18,2024-11-18
+22187,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3600,2900,21 Nov 2024,2024,Nov,21,2024-11-21
+22188,,Chittor,Madanapalli,Tomato,Local,FAQ,2000,3600,3000,30 Oct 2024,2024,Oct,30,2024-10-30
+22189,,Chittor,Madanapalli,Tomato,Local,FAQ,2100,3200,2700,12 Aug 2024,2024,Aug,12,2024-08-12
+22190,,Chittor,Madanapalli,Tomato,Local,FAQ,2300,4000,3400,19 Nov 2024,2024,Nov,19,2024-11-19
+22191,,Chittor,Madanapalli,Tomato,Local,FAQ,2300,4000,3400,22 Nov 2024,2024,Nov,22,2024-11-22
+22192,,Chittor,Madanapalli,Tomato,Local,FAQ,2300,4000,3400,23 Nov 2024,2024,Nov,23,2024-11-23
+22193,,Chittor,Madanapalli,Tomato,Local,FAQ,2300,4000,3400,30 Nov 2024,2024,Nov,30,2024-11-30
+22194,,Chittor,Madanapalli,Tomato,Local,FAQ,2400,4000,3600,12 Sep 2024,2024,Sep,12,2024-09-12
+22195,,Chittor,Madanapalli,Tomato,Local,FAQ,2400,4000,3600,13 Sep 2024,2024,Sep,13,2024-09-13
+22196,,Chittor,Madanapalli,Tomato,Local,FAQ,2400,4000,3600,24 Oct 2024,2024,Oct,24,2024-10-24
+22197,,Chittor,Madanapalli,Tomato,Local,FAQ,2400,4000,3600,29 Jul 2024,2024,Jul,29,2024-07-29
+22198,,Chittor,Madanapalli,Tomato,Local,FAQ,2480,3200,2700,01 Aug 2024,2024,Aug,1,2024-08-01
+22199,,Chittor,Madanapalli,Tomato,Local,FAQ,2500,3600,2700,07 Aug 2024,2024,Aug,7,2024-08-07
+22200,,Chittor,Madanapalli,Tomato,Local,FAQ,2500,4200,3600,24 Nov 2024,2024,Nov,24,2024-11-24
+22201,,Chittor,Madanapalli,Tomato,Local,FAQ,2600,3800,3200,25 Jul 2024,2024,Jul,25,2024-07-25
+22202,,Chittor,Madanapalli,Tomato,Local,FAQ,2600,3800,3200,26 Jul 2024,2024,Jul,26,2024-07-26
+22203,,Chittor,Madanapalli,Tomato,Local,FAQ,2700,3200,3000,04 Sep 2024,2024,Sep,4,2024-09-04
+22204,,Chittor,Madanapalli,Tomato,Local,FAQ,2700,3200,3000,11 Aug 2024,2024,Aug,11,2024-08-11
+22205,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4200,3600,15 Sep 2024,2024,Sep,15,2024-09-15
+22206,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4200,3600,29 Oct 2024,2024,Oct,29,2024-10-29
+22207,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,04 Jul 2024,2024,Jul,4,2024-07-04
+22208,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,14 Sep 2024,2024,Sep,14,2024-09-14
+22209,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,17 Sep 2024,2024,Sep,17,2024-09-17
+22210,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,25 Oct 2024,2024,Oct,25,2024-10-25
+22211,,Chittor,Madanapalli,Tomato,Local,FAQ,2900,4400,3600,28 Oct 2024,2024,Oct,28,2024-10-28
+22212,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4200,3800,27 Jul 2024,2024,Jul,27,2024-07-27
+22213,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4200,3800,28 Jul 2024,2024,Jul,28,2024-07-28
+22214,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4600,3800,03 Dec 2024,2024,Dec,3,2024-12-03
+22215,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4800,3900,01 Jul 2024,2024,Jul,1,2024-07-01
+22216,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,4800,3900,02 Jul 2024,2024,Jul,2,2024-07-02
+22217,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,5000,3000,05 Jul 2024,2024,Jul,5,2024-07-05
+22218,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,5000,3900,03 Jul 2024,2024,Jul,3,2024-07-03
+22219,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,5200,4400,29 Nov 2024,2024,Nov,29,2024-11-29
+22220,,Chittor,Madanapalli,Tomato,Local,FAQ,3000,5400,4600,27 Nov 2024,2024,Nov,27,2024-11-27
+22221,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,3800,3600,30 Jul 2024,2024,Jul,30,2024-07-30
+22222,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,06 Jul 2024,2024,Jul,6,2024-07-06
+22223,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,07 Jul 2024,2024,Jul,7,2024-07-07
+22224,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,16 Oct 2024,2024,Oct,16,2024-10-16
+22225,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,19 Oct 2024,2024,Oct,19,2024-10-19
+22226,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,20 Oct 2024,2024,Oct,20,2024-10-20
+22227,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,20 Sep 2024,2024,Sep,20,2024-09-20
+22228,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,21 Oct 2024,2024,Oct,21,2024-10-21
+22229,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,21 Sep 2024,2024,Sep,21,2024-09-21
+22230,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,24 Sep 2024,2024,Sep,24,2024-09-24
+22231,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5200,4300,27 Sep 2024,2024,Sep,27,2024-09-27
+22232,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5300,4400,08 Jul 2024,2024,Jul,8,2024-07-08
+22233,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5600,4800,25 Nov 2024,2024,Nov,25,2024-11-25
+22234,,Chittor,Madanapalli,Tomato,Local,FAQ,3200,5600,4800,26 Nov 2024,2024,Nov,26,2024-11-26
+22235,,Chittor,Madanapalli,Tomato,Local,FAQ,3210,4400,3600,16 Sep 2024,2024,Sep,16,2024-09-16
+22236,,Chittor,Madanapalli,Tomato,Local,FAQ,3300,5400,4600,22 Oct 2024,2024,Oct,22,2024-10-22
+22237,,Chittor,Madanapalli,Tomato,Local,FAQ,3300,5400,4600,28 Sep 2024,2024,Sep,28,2024-09-28
+22238,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,01 Dec 2024,2024,Dec,1,2024-12-01
+22239,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,24 Jul 2024,2024,Jul,24,2024-07-24
+22240,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,25 Sep 2024,2024,Sep,25,2024-09-25
+22241,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,26 Oct 2024,2024,Oct,26,2024-10-26
+22242,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,4800,4200,26 Sep 2024,2024,Sep,26,2024-09-26
+22243,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,5160,4400,22 Sep 2024,2024,Sep,22,2024-09-22
+22244,,Chittor,Madanapalli,Tomato,Local,FAQ,3400,5160,4400,23 Sep 2024,2024,Sep,23,2024-09-23
+22245,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,02 Dec 2024,2024,Dec,2,2024-12-02
+22246,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,10 Jul 2024,2024,Jul,10,2024-07-10
+22247,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,10 Oct 2024,2024,Oct,10,2024-10-10
+22248,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,18 Oct 2024,2024,Oct,18,2024-10-18
+22249,,Chittor,Madanapalli,Tomato,Local,FAQ,3800,6000,5200,29 Sep 2024,2024,Sep,29,2024-09-29
+22250,,Chittor,Madanapalli,Tomato,Local,FAQ,4000,5600,4800,23 Jul 2024,2024,Jul,23,2024-07-23
+22251,,Chittor,Madanapalli,Tomato,Local,FAQ,4000,6400,5400,01 Oct 2024,2024,Oct,1,2024-10-01
+22252,,Chittor,Madanapalli,Tomato,Local,FAQ,4000,6400,5400,30 Sep 2024,2024,Sep,30,2024-09-30
+22253,,Chittor,Madanapalli,Tomato,Local,FAQ,4100,6400,5500,11 Jul 2024,2024,Jul,11,2024-07-11
+22254,,Chittor,Madanapalli,Tomato,Local,FAQ,4100,6400,5500,12 Jul 2024,2024,Jul,12,2024-07-12
+22255,,Chittor,Madanapalli,Tomato,Local,FAQ,4100,6400,5500,15 Oct 2024,2024,Oct,15,2024-10-15
+22256,,Chittor,Madanapalli,Tomato,Local,FAQ,4100,6400,5500,17 Oct 2024,2024,Oct,17,2024-10-17
+22257,,Chittor,Madanapalli,Tomato,Local,FAQ,4200,6600,5600,22 Jul 2024,2024,Jul,22,2024-07-22
+22258,,Chittor,Madanapalli,Tomato,Local,FAQ,4200,6600,5800,13 Jul 2024,2024,Jul,13,2024-07-13
+22259,,Chittor,Madanapalli,Tomato,Local,FAQ,4200,7200,6000,14 Jul 2024,2024,Jul,14,2024-07-14
+22260,,Chittor,Madanapalli,Tomato,Local,FAQ,4200,8000,6000,15 Jul 2024,2024,Jul,15,2024-07-15
+22261,,Chittor,Madanapalli,Tomato,Local,FAQ,4400,6800,5600,12 Oct 2024,2024,Oct,12,2024-10-12
+22262,,Chittor,Madanapalli,Tomato,Local,FAQ,4400,7200,5000,13 Oct 2024,2024,Oct,13,2024-10-13
+22263,,Chittor,Madanapalli,Tomato,Local,FAQ,4700,6000,5200,11 Oct 2024,2024,Oct,11,2024-10-11
+22264,,Chittor,Madanapalli,Tomato,Local,FAQ,4800,6600,5800,09 Oct 2024,2024,Oct,9,2024-10-09
+22265,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,6000,5800,09 Jul 2024,2024,Jul,9,2024-07-09
+22266,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,6600,6000,20 Jul 2024,2024,Jul,20,2024-07-20
+22267,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,7000,5800,18 Jul 2024,2024,Jul,18,2024-07-18
+22268,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,7000,6000,19 Jul 2024,2024,Jul,19,2024-07-19
+22269,,Chittor,Madanapalli,Tomato,Local,FAQ,5000,7000,6000,21 Jul 2024,2024,Jul,21,2024-07-21
+22270,,Chittor,Madanapalli,Tomato,Local,FAQ,5400,7400,6600,17 Jul 2024,2024,Jul,17,2024-07-17
+22271,,Chittor,Madanapalli,Tomato,Local,FAQ,5800,8800,7400,16 Jul 2024,2024,Jul,16,2024-07-16
+22272,,Chittor,Madanapalli,Tomato,Local,FAQ,6000,8400,7800,08 Oct 2024,2024,Oct,8,2024-10-08
+22273,,Chittor,Madanapalli,Tomato,Local,FAQ,6000,8600,8000,07 Oct 2024,2024,Oct,7,2024-10-07
+22274,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,8800,8200,04 Oct 2024,2024,Oct,4,2024-10-04
+22275,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,8800,8200,05 Oct 2024,2024,Oct,5,2024-10-05
+22276,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,8800,8200,06 Oct 2024,2024,Oct,6,2024-10-06
+22277,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,9000,8200,02 Oct 2024,2024,Oct,2,2024-10-02
+22278,,Chittor,Madanapalli,Tomato,Local,FAQ,7000,9000,8200,03 Oct 2024,2024,Oct,3,2024-10-03
+22279,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1600,2600,2300,10 Nov 2024,2024,Nov,10,2024-11-10
+22280,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1700,2200,2000,30 Aug 2024,2024,Aug,30,2024-08-30
+22281,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1700,2300,2000,15 Nov 2024,2024,Nov,15,2024-11-15
+22282,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1800,2200,2000,12 Nov 2024,2024,Nov,12,2024-11-12
+22283,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1900,2300,2100,29 Aug 2024,2024,Aug,29,2024-08-29
+22284,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1900,2700,2400,10 Sep 2024,2024,Sep,10,2024-09-10
+22285,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1900,2700,2500,17 Aug 2024,2024,Aug,17,2024-08-17
+22286,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,1900,2700,2500,18 Aug 2024,2024,Aug,18,2024-08-18
+22287,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2300,2100,28 Aug 2024,2024,Aug,28,2024-08-28
+22288,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2500,2300,22 Aug 2024,2024,Aug,22,2024-08-22
+22289,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2500,2300,24 Aug 2024,2024,Aug,24,2024-08-24
+22290,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2600,2300,27 Aug 2024,2024,Aug,27,2024-08-27
+22291,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2600,2400,11 Nov 2024,2024,Nov,11,2024-11-11
+22292,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2400,03 Sep 2024,2024,Sep,3,2024-09-03
+22293,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2500,09 Sep 2024,2024,Sep,9,2024-09-09
+22294,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2500,14 Nov 2024,2024,Nov,14,2024-11-14
+22295,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2600,16 Aug 2024,2024,Aug,16,2024-08-16
+22296,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2600,19 Aug 2024,2024,Aug,19,2024-08-19
+22297,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,2800,2600,21 Aug 2024,2024,Aug,21,2024-08-21
+22298,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,3000,2500,01 Nov 2024,2024,Nov,1,2024-11-01
+22299,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,3000,2800,13 Aug 2024,2024,Aug,13,2024-08-13
+22300,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2000,3200,2600,02 Nov 2024,2024,Nov,2,2024-11-02
+22301,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,2600,2400,23 Aug 2024,2024,Aug,23,2024-08-23
+22302,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,2900,2500,04 Sep 2024,2024,Sep,4,2024-09-04
+22303,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,2900,2500,05 Sep 2024,2024,Sep,5,2024-09-05
+22304,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,2900,2700,20 Aug 2024,2024,Aug,20,2024-08-20
+22305,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2100,3100,2900,14 Aug 2024,2024,Aug,14,2024-08-14
+22306,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2200,2800,2400,09 Nov 2024,2024,Nov,9,2024-11-09
+22307,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2200,2800,2500,13 Nov 2024,2024,Nov,13,2024-11-13
+22308,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2200,3000,2600,06 Sep 2024,2024,Sep,6,2024-09-06
+22309,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2200,3300,2800,12 Aug 2024,2024,Aug,12,2024-08-12
+22310,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2400,3000,2600,08 Nov 2024,2024,Nov,8,2024-11-08
+22311,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2400,3100,2800,03 Aug 2024,2024,Aug,3,2024-08-03
+22312,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2400,3100,2900,02 Aug 2024,2024,Aug,2,2024-08-02
+22313,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2500,3000,2700,18 Nov 2024,2024,Nov,18,2024-11-18
+22314,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2500,3200,2900,19 Nov 2024,2024,Nov,19,2024-11-19
+22315,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2600,3200,2900,26 Oct 2024,2024,Oct,26,2024-10-26
+22316,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2600,3200,3000,22 Nov 2024,2024,Nov,22,2024-11-22
+22317,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2700,3100,2900,05 Jul 2024,2024,Jul,5,2024-07-05
+22318,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2700,3300,3000,06 Nov 2024,2024,Nov,6,2024-11-06
+22319,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2700,3300,3000,07 Nov 2024,2024,Nov,7,2024-11-07
+22320,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3200,3000,06 Jul 2024,2024,Jul,6,2024-07-06
+22321,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3300,3000,08 Jul 2024,2024,Jul,8,2024-07-08
+22322,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3400,3000,02 Jul 2024,2024,Jul,2,2024-07-02
+22323,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3400,3000,04 Nov 2024,2024,Nov,4,2024-11-04
+22324,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3400,3000,31 Oct 2024,2024,Oct,31,2024-10-31
+22325,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3400,3100,05 Nov 2024,2024,Nov,5,2024-11-05
+22326,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3500,3000,23 Nov 2024,2024,Nov,23,2024-11-23
+22327,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,3600,3000,21 Nov 2024,2024,Nov,21,2024-11-21
+22328,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2800,4000,3200,03 Nov 2024,2024,Nov,3,2024-11-03
+22329,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,2900,3900,3500,25 Oct 2024,2024,Oct,25,2024-10-25
+22330,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3500,3200,09 Jul 2024,2024,Jul,9,2024-07-09
+22331,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3600,3200,03 Jul 2024,2024,Jul,3,2024-07-03
+22332,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3600,3200,24 Nov 2024,2024,Nov,24,2024-11-24
+22333,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3600,3200,25 Nov 2024,2024,Nov,25,2024-11-25
+22334,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,3800,3400,20 Nov 2024,2024,Nov,20,2024-11-20
+22335,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3000,4500,4000,20 Sep 2024,2024,Sep,20,2024-09-20
+22336,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3200,3700,3600,02 Dec 2024,2024,Dec,2,2024-12-02
+22337,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3200,4200,3700,19 Sep 2024,2024,Sep,19,2024-09-19
+22338,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3200,4300,3700,24 Oct 2024,2024,Oct,24,2024-10-24
+22339,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,4400,3900,28 Oct 2024,2024,Oct,28,2024-10-28
+22340,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,4500,4000,20 Oct 2024,2024,Oct,20,2024-10-20
+22341,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,4500,4000,21 Oct 2024,2024,Oct,21,2024-10-21
+22342,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,4800,4000,21 Sep 2024,2024,Sep,21,2024-09-21
+22343,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3500,5000,4500,15 Jul 2024,2024,Jul,15,2024-07-15
+22344,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3600,4500,4000,27 Oct 2024,2024,Oct,27,2024-10-27
+22345,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3600,4600,4100,22 Oct 2024,2024,Oct,22,2024-10-22
+22346,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3700,4900,4300,22 Sep 2024,2024,Sep,22,2024-09-22
+22347,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3800,4400,4000,26 Sep 2024,2024,Sep,26,2024-09-26
+22348,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3800,4500,4100,27 Sep 2024,2024,Sep,27,2024-09-27
+22349,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3800,4600,4300,25 Sep 2024,2024,Sep,25,2024-09-25
+22350,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,3900,4900,4500,30 Nov 2024,2024,Nov,30,2024-11-30
+22351,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,4800,4400,28 Sep 2024,2024,Sep,28,2024-09-28
+22352,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,4800,4400,29 Sep 2024,2024,Sep,29,2024-09-29
+22353,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,4800,4500,23 Sep 2024,2024,Sep,23,2024-09-23
+22354,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,4800,4500,24 Sep 2024,2024,Sep,24,2024-09-24
+22355,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5000,4500,26 Nov 2024,2024,Nov,26,2024-11-26
+22356,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5000,4600,28 Nov 2024,2024,Nov,28,2024-11-28
+22357,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5200,4800,29 Nov 2024,2024,Nov,29,2024-11-29
+22358,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5500,4700,17 Oct 2024,2024,Oct,17,2024-10-17
+22359,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5500,5000,12 Oct 2024,2024,Oct,12,2024-10-12
+22360,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5600,4800,16 Oct 2024,2024,Oct,16,2024-10-16
+22361,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4000,5700,5100,19 Oct 2024,2024,Oct,19,2024-10-19
+22362,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4200,5200,4500,23 Oct 2024,2024,Oct,23,2024-10-23
+22363,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4200,5700,5200,13 Oct 2024,2024,Oct,13,2024-10-13
+22364,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4200,5700,5200,14 Oct 2024,2024,Oct,14,2024-10-14
+22365,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4200,5900,5300,18 Oct 2024,2024,Oct,18,2024-10-18
+22366,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4500,5500,5000,03 Dec 2024,2024,Dec,3,2024-12-03
+22367,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4500,5500,5000,11 Oct 2024,2024,Oct,11,2024-10-11
+22368,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4500,5600,5000,30 Sep 2024,2024,Sep,30,2024-09-30
+22369,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4500,6500,5800,15 Oct 2024,2024,Oct,15,2024-10-15
+22370,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,4700,5800,5200,01 Oct 2024,2024,Oct,1,2024-10-01
+22371,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,5000,6000,5500,02 Oct 2024,2024,Oct,2,2024-10-02
+22372,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,5500,7400,6800,16 Jul 2024,2024,Jul,16,2024-07-16
+22373,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,5800,7800,7300,10 Oct 2024,2024,Oct,10,2024-10-10
+22374,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6000,8000,7500,08 Oct 2024,2024,Oct,8,2024-10-08
+22375,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6000,8000,7500,09 Oct 2024,2024,Oct,9,2024-10-09
+22376,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6300,8200,7300,04 Oct 2024,2024,Oct,4,2024-10-04
+22377,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6400,8000,7500,05 Oct 2024,2024,Oct,5,2024-10-05
+22378,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6400,8000,7500,06 Oct 2024,2024,Oct,6,2024-10-06
+22379,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6500,8200,7600,07 Oct 2024,2024,Oct,7,2024-10-07
+22380,,Chittor,Mulakalacheruvu,Tomato,Local,FAQ,6500,8400,7500,03 Oct 2024,2024,Oct,3,2024-10-03
+22381,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1500,1900,1700,29 Aug 2024,2024,Aug,29,2024-08-29
+22382,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1500,2000,1700,08 Nov 2024,2024,Nov,8,2024-11-08
+22383,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1500,2000,1700,27 Aug 2024,2024,Aug,27,2024-08-27
+22384,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1600,2000,1800,19 Aug 2024,2024,Aug,19,2024-08-19
+22385,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1600,2000,1800,20 Aug 2024,2024,Aug,20,2024-08-20
+22386,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1600,2100,1800,10 Nov 2024,2024,Nov,10,2024-11-10
+22387,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1700,2133,1920,05 Aug 2024,2024,Aug,5,2024-08-05
+22388,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1700,2200,2000,02 Aug 2024,2024,Aug,2,2024-08-02
+22389,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2200,2000,05 Jul 2024,2024,Jul,5,2024-07-05
+22390,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2200,2000,11 Nov 2024,2024,Nov,11,2024-11-11
+22391,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2200,2000,24 Aug 2024,2024,Aug,24,2024-08-24
+22392,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2300,2000,13 Aug 2024,2024,Aug,13,2024-08-13
+22393,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2300,2000,26 Aug 2024,2024,Aug,26,2024-08-26
+22394,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1800,2400,2100,03 Aug 2024,2024,Aug,3,2024-08-03
+22395,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1900,2300,2100,11 Sep 2024,2024,Sep,11,2024-09-11
+22396,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1900,2370,2180,01 Aug 2024,2024,Aug,1,2024-08-01
+22397,,Chittor,Palamaner,Tomato,Hybrid,FAQ,1900,2400,2100,06 Aug 2024,2024,Aug,6,2024-08-06
+22398,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2400,2200,14 Nov 2024,2024,Nov,14,2024-11-14
+22399,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2400,2200,21 Aug 2024,2024,Aug,21,2024-08-21
+22400,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2400,2200,22 Aug 2024,2024,Aug,22,2024-08-22
+22401,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2400,2300,14 Aug 2024,2024,Aug,14,2024-08-14
+22402,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2500,2300,12 Nov 2024,2024,Nov,12,2024-11-12
+22403,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2500,2300,13 Nov 2024,2024,Nov,13,2024-11-13
+22404,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2500,2300,15 Nov 2024,2024,Nov,15,2024-11-15
+22405,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2000,2500,2300,18 Aug 2024,2024,Aug,18,2024-08-18
+22406,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2100,2500,2300,02 Sep 2024,2024,Sep,2,2024-09-02
+22407,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2100,2500,2300,04 Jul 2024,2024,Jul,4,2024-07-04
+22408,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2100,2500,2300,08 Aug 2024,2024,Aug,8,2024-08-08
+22409,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2100,2500,2300,23 Aug 2024,2024,Aug,23,2024-08-23
+22410,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2200,2700,2500,06 Jul 2024,2024,Jul,6,2024-07-06
+22411,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2200,2700,2500,16 Aug 2024,2024,Aug,16,2024-08-16
+22412,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2200,2980,2700,07 Aug 2024,2024,Aug,7,2024-08-07
+22413,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2300,2800,2500,04 Nov 2024,2024,Nov,4,2024-11-04
+22414,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2300,2800,2500,06 Nov 2024,2024,Nov,6,2024-11-06
+22415,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2300,2800,2500,07 Nov 2024,2024,Nov,7,2024-11-07
+22416,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2400,2800,2600,03 Sep 2024,2024,Sep,3,2024-09-03
+22417,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2400,2800,2600,13 Sep 2024,2024,Sep,13,2024-09-13
+22418,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2500,2900,2700,03 Jul 2024,2024,Jul,3,2024-07-03
+22419,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2500,3000,2700,17 Aug 2024,2024,Aug,17,2024-08-17
+22420,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2500,3000,2700,22 Nov 2024,2024,Nov,22,2024-11-22
+22421,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2500,3300,2900,24 Jul 2024,2024,Jul,24,2024-07-24
+22422,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3100,2900,08 Jul 2024,2024,Jul,8,2024-07-08
+22423,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3100,2900,21 Nov 2024,2024,Nov,21,2024-11-21
+22424,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3200,2900,01 Jul 2024,2024,Jul,1,2024-07-01
+22425,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3200,2900,28 Oct 2024,2024,Oct,28,2024-10-28
+22426,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3300,3000,03 Nov 2024,2024,Nov,3,2024-11-03
+22427,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3300,3000,07 Jul 2024,2024,Jul,7,2024-07-07
+22428,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3300,3000,19 Nov 2024,2024,Nov,19,2024-11-19
+22429,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2700,3300,3000,20 Nov 2024,2024,Nov,20,2024-11-20
+22430,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2800,3150,2900,02 Jul 2024,2024,Jul,2,2024-07-02
+22431,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2800,3300,3000,02 Nov 2024,2024,Nov,2,2024-11-02
+22432,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2800,3500,3200,27 Oct 2024,2024,Oct,27,2024-10-27
+22433,,Chittor,Palamaner,Tomato,Hybrid,FAQ,2900,3300,3100,17 Sep 2024,2024,Sep,17,2024-09-17
+22434,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3000,3400,3200,16 Sep 2024,2024,Sep,16,2024-09-16
+22435,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3000,3400,3200,18 Sep 2024,2024,Sep,18,2024-09-18
+22436,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3000,3500,3300,01 Nov 2024,2024,Nov,1,2024-11-01
+22437,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3000,3500,3300,29 Oct 2024,2024,Oct,29,2024-10-29
+22438,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3100,3500,3300,09 Jul 2024,2024,Jul,9,2024-07-09
+22439,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3200,3700,3500,19 Sep 2024,2024,Sep,19,2024-09-19
+22440,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3400,3800,3600,25 Nov 2024,2024,Nov,25,2024-11-25
+22441,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3400,4100,3700,10 Oct 2024,2024,Oct,10,2024-10-10
+22442,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3500,3900,3700,25 Sep 2024,2024,Sep,25,2024-09-25
+22443,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3500,4000,3700,23 Jul 2024,2024,Jul,23,2024-07-23
+22444,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3500,4000,3700,24 Sep 2024,2024,Sep,24,2024-09-24
+22445,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3500,4000,3700,28 Sep 2024,2024,Sep,28,2024-09-28
+22446,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4100,3900,21 Sep 2024,2024,Sep,21,2024-09-21
+22447,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4100,3900,26 Sep 2024,2024,Sep,26,2024-09-26
+22448,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4300,4000,16 Oct 2024,2024,Oct,16,2024-10-16
+22449,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4300,4000,30 Nov 2024,2024,Nov,30,2024-11-30
+22450,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3700,4500,4200,28 Nov 2024,2024,Nov,28,2024-11-28
+22451,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3800,4200,4000,10 Jul 2024,2024,Jul,10,2024-07-10
+22452,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3800,4300,4000,23 Oct 2024,2024,Oct,23,2024-10-23
+22453,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3800,4400,4100,29 Sep 2024,2024,Sep,29,2024-09-29
+22454,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3900,4500,4200,27 Nov 2024,2024,Nov,27,2024-11-27
+22455,,Chittor,Palamaner,Tomato,Hybrid,FAQ,3900,4500,4300,09 Oct 2024,2024,Oct,9,2024-10-09
+22456,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,4500,4300,19 Oct 2024,2024,Oct,19,2024-10-19
+22457,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,4500,4300,20 Oct 2024,2024,Oct,20,2024-10-20
+22458,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,4600,4300,22 Oct 2024,2024,Oct,22,2024-10-22
+22459,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,4700,4400,29 Nov 2024,2024,Nov,29,2024-11-29
+22460,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4000,5000,4500,26 Nov 2024,2024,Nov,26,2024-11-26
+22461,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4100,4700,4400,11 Jul 2024,2024,Jul,11,2024-07-11
+22462,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4300,5000,4600,30 Sep 2024,2024,Sep,30,2024-09-30
+22463,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4400,5000,4700,12 Oct 2024,2024,Oct,12,2024-10-12
+22464,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4400,5100,4700,21 Oct 2024,2024,Oct,21,2024-10-21
+22465,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4600,5000,4800,12 Jul 2024,2024,Jul,12,2024-07-12
+22466,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4700,5300,5000,18 Oct 2024,2024,Oct,18,2024-10-18
+22467,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4700,5400,5000,17 Oct 2024,2024,Oct,17,2024-10-17
+22468,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4700,5500,5000,03 Dec 2024,2024,Dec,3,2024-12-03
+22469,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4800,5400,5000,01 Oct 2024,2024,Oct,1,2024-10-01
+22470,,Chittor,Palamaner,Tomato,Hybrid,FAQ,4800,5400,5100,13 Jul 2024,2024,Jul,13,2024-07-13
+22471,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5000,5600,5300,14 Oct 2024,2024,Oct,14,2024-10-14
+22472,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5180,5800,5540,19 Jul 2024,2024,Jul,19,2024-07-19
+22473,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5215,5714,5530,14 Jul 2024,2024,Jul,14,2024-07-14
+22474,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5400,6000,5700,15 Oct 2024,2024,Oct,15,2024-10-15
+22475,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5400,7400,6300,16 Jul 2024,2024,Jul,16,2024-07-16
+22476,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5420,6070,5750,08 Oct 2024,2024,Oct,8,2024-10-08
+22477,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5700,6400,6000,13 Oct 2024,2024,Oct,13,2024-10-13
+22478,,Chittor,Palamaner,Tomato,Hybrid,FAQ,5800,6500,6200,07 Oct 2024,2024,Oct,7,2024-10-07
+22479,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6000,6700,6400,02 Oct 2024,2024,Oct,2,2024-10-02
+22480,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6000,6700,6400,06 Oct 2024,2024,Oct,6,2024-10-06
+22481,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6400,7000,6600,02 Dec 2024,2024,Dec,2,2024-12-02
+22482,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6400,7000,6700,03 Oct 2024,2024,Oct,3,2024-10-03
+22483,,Chittor,Palamaner,Tomato,Hybrid,FAQ,6500,7335,6870,15 Jul 2024,2024,Jul,15,2024-07-15
+22484,,Kurnool,Pattikonda,Tomato,Local,FAQ,1000,1500,1200,31 Aug 2024,2024,Aug,31,2024-08-31
+22485,,Kurnool,Pattikonda,Tomato,Local,FAQ,1200,1500,1400,29 Aug 2024,2024,Aug,29,2024-08-29
+22486,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,03 Sep 2024,2024,Sep,3,2024-09-03
+22487,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,04 Sep 2024,2024,Sep,4,2024-09-04
+22488,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,05 Sep 2024,2024,Sep,5,2024-09-05
+22489,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,12 Nov 2024,2024,Nov,12,2024-11-12
+22490,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,27 Aug 2024,2024,Aug,27,2024-08-27
+22491,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,28 Aug 2024,2024,Aug,28,2024-08-28
+22492,,Kurnool,Pattikonda,Tomato,Local,FAQ,1500,2000,1800,30 Aug 2024,2024,Aug,30,2024-08-30
+22493,,Kurnool,Pattikonda,Tomato,Local,FAQ,1800,2300,2000,15 Nov 2024,2024,Nov,15,2024-11-15
+22494,,Kurnool,Pattikonda,Tomato,Local,FAQ,1800,2500,2000,14 Nov 2024,2024,Nov,14,2024-11-14
+22495,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,06 Sep 2024,2024,Sep,6,2024-09-06
+22496,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,07 Sep 2024,2024,Sep,7,2024-09-07
+22497,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,08 Nov 2024,2024,Nov,8,2024-11-08
+22498,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,08 Sep 2024,2024,Sep,8,2024-09-08
+22499,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,09 Nov 2024,2024,Nov,9,2024-11-09
+22500,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,09 Sep 2024,2024,Sep,9,2024-09-09
+22501,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,10 Nov 2024,2024,Nov,10,2024-11-10
+22502,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,10 Sep 2024,2024,Sep,10,2024-09-10
+22503,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,11 Nov 2024,2024,Nov,11,2024-11-11
+22504,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,11 Sep 2024,2024,Sep,11,2024-09-11
+22505,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,12 Sep 2024,2024,Sep,12,2024-09-12
+22506,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,2500,2300,13 Nov 2024,2024,Nov,13,2024-11-13
+22507,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,04 Nov 2024,2024,Nov,4,2024-11-04
+22508,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,22 Nov 2024,2024,Nov,22,2024-11-22
+22509,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,23 Nov 2024,2024,Nov,23,2024-11-23
+22510,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,25 Nov 2024,2024,Nov,25,2024-11-25
+22511,,Kurnool,Pattikonda,Tomato,Local,FAQ,2000,3000,2500,30 Oct 2024,2024,Oct,30,2024-10-30
+22512,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,2800,2600,16 Sep 2024,2024,Sep,16,2024-09-16
+22513,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,01 Nov 2024,2024,Nov,1,2024-11-01
+22514,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,02 Nov 2024,2024,Nov,2,2024-11-02
+22515,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,03 Nov 2024,2024,Nov,3,2024-11-03
+22516,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,05 Nov 2024,2024,Nov,5,2024-11-05
+22517,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,06 Aug 2024,2024,Aug,6,2024-08-06
+22518,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,06 Nov 2024,2024,Nov,6,2024-11-06
+22519,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,07 Aug 2024,2024,Aug,7,2024-08-07
+22520,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,08 Aug 2024,2024,Aug,8,2024-08-08
+22521,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,09 Aug 2024,2024,Aug,9,2024-08-09
+22522,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,11 Aug 2024,2024,Aug,11,2024-08-11
+22523,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,12 Aug 2024,2024,Aug,12,2024-08-12
+22524,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,13 Sep 2024,2024,Sep,13,2024-09-13
+22525,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,14 Aug 2024,2024,Aug,14,2024-08-14
+22526,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,15 Oct 2024,2024,Oct,15,2024-10-15
+22527,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,16 Oct 2024,2024,Oct,16,2024-10-16
+22528,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,17 Sep 2024,2024,Sep,17,2024-09-17
+22529,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,18 Sep 2024,2024,Sep,18,2024-09-18
+22530,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,19 Sep 2024,2024,Sep,19,2024-09-19
+22531,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,20 Sep 2024,2024,Sep,20,2024-09-20
+22532,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,22 Sep 2024,2024,Sep,22,2024-09-22
+22533,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,23 Sep 2024,2024,Sep,23,2024-09-23
+22534,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,24 Nov 2024,2024,Nov,24,2024-11-24
+22535,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,25 Sep 2024,2024,Sep,25,2024-09-25
+22536,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,27 Nov 2024,2024,Nov,27,2024-11-27
+22537,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3000,2800,29 Oct 2024,2024,Oct,29,2024-10-29
+22538,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3200,2800,26 Oct 2024,2024,Oct,26,2024-10-26
+22539,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3500,3000,27 Oct 2024,2024,Oct,27,2024-10-27
+22540,,Kurnool,Pattikonda,Tomato,Local,FAQ,2500,3500,3000,28 Oct 2024,2024,Oct,28,2024-10-28
+22541,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,01 Oct 2024,2024,Oct,1,2024-10-01
+22542,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,20 Oct 2024,2024,Oct,20,2024-10-20
+22543,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,23 Oct 2024,2024,Oct,23,2024-10-23
+22544,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,24 Oct 2024,2024,Oct,24,2024-10-24
+22545,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,26 Sep 2024,2024,Sep,26,2024-09-26
+22546,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,28 Nov 2024,2024,Nov,28,2024-11-28
+22547,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,28 Sep 2024,2024,Sep,28,2024-09-28
+22548,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3200,30 Sep 2024,2024,Sep,30,2024-09-30
+22549,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,3500,3400,19 Oct 2024,2024,Oct,19,2024-10-19
+22550,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,4000,3500,14 Jul 2024,2024,Jul,14,2024-07-14
+22551,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,4000,3500,15 Jul 2024,2024,Jul,15,2024-07-15
+22552,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,4000,3500,18 Oct 2024,2024,Oct,18,2024-10-18
+22553,,Kurnool,Pattikonda,Tomato,Local,FAQ,3000,4000,3500,30 Nov 2024,2024,Nov,30,2024-11-30
+22554,,Kurnool,Pattikonda,Tomato,Local,FAQ,3200,3500,3300,29 Sep 2024,2024,Sep,29,2024-09-29
+22555,,Kurnool,Pattikonda,Tomato,Local,FAQ,3200,3500,3400,25 Oct 2024,2024,Oct,25,2024-10-25
+22556,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,02 Dec 2024,2024,Dec,2,2024-12-02
+22557,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,03 Aug 2024,2024,Aug,3,2024-08-03
+22558,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,03 Dec 2024,2024,Dec,3,2024-12-03
+22559,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,04 Aug 2024,2024,Aug,4,2024-08-04
+22560,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,05 Aug 2024,2024,Aug,5,2024-08-05
+22561,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,07 Jul 2024,2024,Jul,7,2024-07-07
+22562,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,08 Jul 2024,2024,Jul,8,2024-07-08
+22563,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,09 Jul 2024,2024,Jul,9,2024-07-09
+22564,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,10 Jul 2024,2024,Jul,10,2024-07-10
+22565,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,11 Jul 2024,2024,Jul,11,2024-07-11
+22566,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,12 Jul 2024,2024,Jul,12,2024-07-12
+22567,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,13 Jul 2024,2024,Jul,13,2024-07-13
+22568,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,16 Jul 2024,2024,Jul,16,2024-07-16
+22569,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,17 Oct 2024,2024,Oct,17,2024-10-17
+22570,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,21 Oct 2024,2024,Oct,21,2024-10-21
+22571,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,22 Oct 2024,2024,Oct,22,2024-10-22
+22572,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,27 Sep 2024,2024,Sep,27,2024-09-27
+22573,,Kurnool,Pattikonda,Tomato,Local,FAQ,3500,4000,3800,29 Nov 2024,2024,Nov,29,2024-11-29
+22574,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,01 Jul 2024,2024,Jul,1,2024-07-01
+22575,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,02 Jul 2024,2024,Jul,2,2024-07-02
+22576,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,03 Jul 2024,2024,Jul,3,2024-07-03
+22577,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,04 Jul 2024,2024,Jul,4,2024-07-04
+22578,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,05 Jul 2024,2024,Jul,5,2024-07-05
+22579,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5000,4800,06 Jul 2024,2024,Jul,6,2024-07-06
+22580,,Kurnool,Pattikonda,Tomato,Local,FAQ,4500,5500,5000,02 Oct 2024,2024,Oct,2,2024-10-02
+22581,,Kurnool,Pattikonda,Tomato,Local,FAQ,5000,5500,5200,03 Oct 2024,2024,Oct,3,2024-10-03
+22582,,Kurnool,Pattikonda,Tomato,Local,FAQ,5000,6000,5500,07 Oct 2024,2024,Oct,7,2024-10-07
+22583,,Kurnool,Pattikonda,Tomato,Local,FAQ,5500,6000,5800,06 Oct 2024,2024,Oct,6,2024-10-06
+22584,,Kurnool,Pattikonda,Tomato,Local,FAQ,5500,6500,6000,04 Oct 2024,2024,Oct,4,2024-10-04
+22585,,Kurnool,Pattikonda,Tomato,Local,FAQ,6000,7000,6500,05 Oct 2024,2024,Oct,5,2024-10-05
+22586,,Kurnool,Pattikonda,Tomato,Local,FAQ,6000,7000,6500,19 Jul 2024,2024,Jul,19,2024-07-19
+22587,,Kurnool,Pattikonda,Tomato,Local,FAQ,6000,7000,6500,20 Jul 2024,2024,Jul,20,2024-07-20
+22588,,Kurnool,Pattikonda,Tomato,Local,FAQ,7000,8000,7500,22 Jul 2024,2024,Jul,22,2024-07-22
+22589,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,21 Jul 2024,2024,Jul,21,2024-07-21
+22590,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,23 Jul 2024,2024,Jul,23,2024-07-23
+22591,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,24 Jul 2024,2024,Jul,24,2024-07-24
+22592,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,29 Jul 2024,2024,Jul,29,2024-07-29
+22593,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,30 Jul 2024,2024,Jul,30,2024-07-30
+22594,,Kurnool,Pattikonda,Tomato,Local,FAQ,7500,8000,7800,31 Jul 2024,2024,Jul,31,2024-07-31
+22595,,Chittor,Punganur,Tomato,Hybrid,FAQ,1270,1800,1540,27 Aug 2024,2024,Aug,27,2024-08-27
+22596,,Chittor,Punganur,Tomato,Hybrid,FAQ,1340,1800,1540,09 Nov 2024,2024,Nov,9,2024-11-09
+22597,,Chittor,Punganur,Tomato,Hybrid,FAQ,1340,1940,1670,28 Aug 2024,2024,Aug,28,2024-08-28
+22598,,Chittor,Punganur,Tomato,Hybrid,FAQ,1340,1940,1670,31 Aug 2024,2024,Aug,31,2024-08-31
+22599,,Chittor,Punganur,Tomato,Hybrid,FAQ,1340,2000,1740,26 Aug 2024,2024,Aug,26,2024-08-26
+22600,,Chittor,Punganur,Tomato,Hybrid,FAQ,1400,2000,1700,21 Aug 2024,2024,Aug,21,2024-08-21
+22601,,Chittor,Punganur,Tomato,Hybrid,FAQ,1470,2000,1740,30 Aug 2024,2024,Aug,30,2024-08-30
+22602,,Chittor,Punganur,Tomato,Hybrid,FAQ,1470,2070,1740,01 Sep 2024,2024,Sep,1,2024-09-01
+22603,,Chittor,Punganur,Tomato,Hybrid,FAQ,1470,2140,1800,12 Aug 2024,2024,Aug,12,2024-08-12
+22604,,Chittor,Punganur,Tomato,Hybrid,FAQ,1500,2270,1900,02 Aug 2024,2024,Aug,2,2024-08-02
+22605,,Chittor,Punganur,Tomato,Hybrid,FAQ,1540,2140,1870,13 Aug 2024,2024,Aug,13,2024-08-13
+22606,,Chittor,Punganur,Tomato,Hybrid,FAQ,1540,2140,1870,19 Aug 2024,2024,Aug,19,2024-08-19
+22607,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2000,1870,10 Nov 2024,2024,Nov,10,2024-11-10
+22608,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2070,1900,11 Nov 2024,2024,Nov,11,2024-11-11
+22609,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2140,1800,25 Aug 2024,2024,Aug,25,2024-08-25
+22610,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2140,1940,10 Sep 2024,2024,Sep,10,2024-09-10
+22611,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2200,1940,07 Sep 2024,2024,Sep,7,2024-09-07
+22612,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2270,1940,23 Aug 2024,2024,Aug,23,2024-08-23
+22613,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2400,2000,03 Aug 2024,2024,Aug,3,2024-08-03
+22614,,Chittor,Punganur,Tomato,Hybrid,FAQ,1670,2400,2000,04 Aug 2024,2024,Aug,4,2024-08-04
+22615,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2000,2000,22 Aug 2024,2024,Aug,22,2024-08-22
+22616,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2270,2000,11 Sep 2024,2024,Sep,11,2024-09-11
+22617,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2300,2000,14 Aug 2024,2024,Aug,14,2024-08-14
+22618,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2400,2070,24 Aug 2024,2024,Aug,24,2024-08-24
+22619,,Chittor,Punganur,Tomato,Hybrid,FAQ,1740,2540,2100,05 Aug 2024,2024,Aug,5,2024-08-05
+22620,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2400,2000,01 Aug 2024,2024,Aug,1,2024-08-01
+22621,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2400,2100,13 Sep 2024,2024,Sep,13,2024-09-13
+22622,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2470,2140,06 Sep 2024,2024,Sep,6,2024-09-06
+22623,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2540,2140,31 Jul 2024,2024,Jul,31,2024-07-31
+22624,,Chittor,Punganur,Tomato,Hybrid,FAQ,1800,2600,2140,06 Aug 2024,2024,Aug,6,2024-08-06
+22625,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2140,2000,08 Nov 2024,2024,Nov,8,2024-11-08
+22626,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2300,2070,13 Nov 2024,2024,Nov,13,2024-11-13
+22627,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2400,2140,09 Sep 2024,2024,Sep,9,2024-09-09
+22628,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2470,2140,12 Sep 2024,2024,Sep,12,2024-09-12
+22629,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2500,2140,03 Sep 2024,2024,Sep,3,2024-09-03
+22630,,Chittor,Punganur,Tomato,Hybrid,FAQ,1870,2500,2200,05 Sep 2024,2024,Sep,5,2024-09-05
+22631,,Chittor,Punganur,Tomato,Hybrid,FAQ,1900,2500,2300,25 Jul 2024,2024,Jul,25,2024-07-25
+22632,,Chittor,Punganur,Tomato,Hybrid,FAQ,1940,2400,2200,05 Nov 2024,2024,Nov,5,2024-11-05
+22633,,Chittor,Punganur,Tomato,Hybrid,FAQ,1940,2540,2200,02 Sep 2024,2024,Sep,2,2024-09-02
+22634,,Chittor,Punganur,Tomato,Hybrid,FAQ,1940,2570,2270,04 Sep 2024,2024,Sep,4,2024-09-04
+22635,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2470,2270,04 Nov 2024,2024,Nov,4,2024-11-04
+22636,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2500,2270,14 Nov 2024,2024,Nov,14,2024-11-14
+22637,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2540,2270,07 Nov 2024,2024,Nov,7,2024-11-07
+22638,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2670,2340,05 Jul 2024,2024,Jul,5,2024-07-05
+22639,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2740,2440,08 Aug 2024,2024,Aug,8,2024-08-08
+22640,,Chittor,Punganur,Tomato,Hybrid,FAQ,2000,2940,2570,29 Jul 2024,2024,Jul,29,2024-07-29
+22641,,Chittor,Punganur,Tomato,Hybrid,FAQ,2100,2670,2300,11 Aug 2024,2024,Aug,11,2024-08-11
+22642,,Chittor,Punganur,Tomato,Hybrid,FAQ,2140,2600,2340,16 Aug 2024,2024,Aug,16,2024-08-16
+22643,,Chittor,Punganur,Tomato,Hybrid,FAQ,2140,2700,2340,10 Aug 2024,2024,Aug,10,2024-08-10
+22644,,Chittor,Punganur,Tomato,Hybrid,FAQ,2140,2740,2470,15 Sep 2024,2024,Sep,15,2024-09-15
+22645,,Chittor,Punganur,Tomato,Hybrid,FAQ,2170,2540,2340,08 Sep 2024,2024,Sep,8,2024-09-08
+22646,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2500,04 Jul 2024,2024,Jul,4,2024-07-04
+22647,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2500,14 Sep 2024,2024,Sep,14,2024-09-14
+22648,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2500,31 Oct 2024,2024,Oct,31,2024-10-31
+22649,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2540,17 Aug 2024,2024,Aug,17,2024-08-17
+22650,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2540,18 Nov 2024,2024,Nov,18,2024-11-18
+22651,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,2800,2540,28 Jul 2024,2024,Jul,28,2024-07-28
+22652,,Chittor,Punganur,Tomato,Hybrid,FAQ,2200,3000,2600,26 Jul 2024,2024,Jul,26,2024-07-26
+22653,,Chittor,Punganur,Tomato,Hybrid,FAQ,2270,2800,2540,21 Nov 2024,2024,Nov,21,2024-11-21
+22654,,Chittor,Punganur,Tomato,Hybrid,FAQ,2270,2870,2540,30 Oct 2024,2024,Oct,30,2024-10-30
+22655,,Chittor,Punganur,Tomato,Hybrid,FAQ,2270,3000,2670,27 Jul 2024,2024,Jul,27,2024-07-27
+22656,,Chittor,Punganur,Tomato,Hybrid,FAQ,2300,3000,2700,17 Sep 2024,2024,Sep,17,2024-09-17
+22657,,Chittor,Punganur,Tomato,Hybrid,FAQ,2340,3000,2670,06 Nov 2024,2024,Nov,6,2024-11-06
+22658,,Chittor,Punganur,Tomato,Hybrid,FAQ,2340,3070,2740,16 Sep 2024,2024,Sep,16,2024-09-16
+22659,,Chittor,Punganur,Tomato,Hybrid,FAQ,2470,3000,2740,03 Nov 2024,2024,Nov,3,2024-11-03
+22660,,Chittor,Punganur,Tomato,Hybrid,FAQ,2470,3000,2740,22 Nov 2024,2024,Nov,22,2024-11-22
+22661,,Chittor,Punganur,Tomato,Hybrid,FAQ,2470,3100,2800,29 Oct 2024,2024,Oct,29,2024-10-29
+22662,,Chittor,Punganur,Tomato,Hybrid,FAQ,2500,3300,2900,24 Jul 2024,2024,Jul,24,2024-07-24
+22663,,Chittor,Punganur,Tomato,Hybrid,FAQ,2540,3200,2870,01 Nov 2024,2024,Nov,1,2024-11-01
+22664,,Chittor,Punganur,Tomato,Hybrid,FAQ,2540,3200,2870,19 Sep 2024,2024,Sep,19,2024-09-19
+22665,,Chittor,Punganur,Tomato,Hybrid,FAQ,2540,3200,2870,28 Oct 2024,2024,Oct,28,2024-10-28
+22666,,Chittor,Punganur,Tomato,Hybrid,FAQ,2570,3200,2900,03 Jul 2024,2024,Jul,3,2024-07-03
+22667,,Chittor,Punganur,Tomato,Hybrid,FAQ,2600,3270,2940,02 Nov 2024,2024,Nov,2,2024-11-02
+22668,,Chittor,Punganur,Tomato,Hybrid,FAQ,2600,3340,3000,20 Nov 2024,2024,Nov,20,2024-11-20
+22669,,Chittor,Punganur,Tomato,Hybrid,FAQ,2640,3340,2640,02 Jul 2024,2024,Jul,2,2024-07-02
+22670,,Chittor,Punganur,Tomato,Hybrid,FAQ,2670,3340,3000,18 Sep 2024,2024,Sep,18,2024-09-18
+22671,,Chittor,Punganur,Tomato,Hybrid,FAQ,2670,3340,3000,24 Nov 2024,2024,Nov,24,2024-11-24
+22672,,Chittor,Punganur,Tomato,Hybrid,FAQ,2670,3470,3000,19 Nov 2024,2024,Nov,19,2024-11-19
+22673,,Chittor,Punganur,Tomato,Hybrid,FAQ,2670,6670,6140,02 Dec 2024,2024,Dec,2,2024-12-02
+22674,,Chittor,Punganur,Tomato,Hybrid,FAQ,2700,3340,3000,08 Jul 2024,2024,Jul,8,2024-07-08
+22675,,Chittor,Punganur,Tomato,Hybrid,FAQ,2700,3400,3000,21 Sep 2024,2024,Sep,21,2024-09-21
+22676,,Chittor,Punganur,Tomato,Hybrid,FAQ,2800,3470,3100,20 Sep 2024,2024,Sep,20,2024-09-20
+22677,,Chittor,Punganur,Tomato,Hybrid,FAQ,2800,3470,3140,01 Jul 2024,2024,Jul,1,2024-07-01
+22678,,Chittor,Punganur,Tomato,Hybrid,FAQ,2900,3600,3340,06 Jul 2024,2024,Jul,6,2024-07-06
+22679,,Chittor,Punganur,Tomato,Hybrid,FAQ,2940,3540,3200,25 Sep 2024,2024,Sep,25,2024-09-25
+22680,,Chittor,Punganur,Tomato,Hybrid,FAQ,2940,3540,3270,28 Sep 2024,2024,Sep,28,2024-09-28
+22681,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3600,3300,27 Sep 2024,2024,Sep,27,2024-09-27
+22682,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3670,3340,09 Jul 2024,2024,Jul,9,2024-07-09
+22683,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3670,3340,23 Sep 2024,2024,Sep,23,2024-09-23
+22684,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3670,3340,25 Nov 2024,2024,Nov,25,2024-11-25
+22685,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3670,3340,26 Sep 2024,2024,Sep,26,2024-09-26
+22686,,Chittor,Punganur,Tomato,Hybrid,FAQ,3000,3700,3400,24 Sep 2024,2024,Sep,24,2024-09-24
+22687,,Chittor,Punganur,Tomato,Hybrid,FAQ,3200,3870,3540,27 Oct 2024,2024,Oct,27,2024-10-27
+22688,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,3940,3670,19 Oct 2024,2024,Oct,19,2024-10-19
+22689,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,3940,3670,26 Oct 2024,2024,Oct,26,2024-10-26
+22690,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,4000,3670,29 Sep 2024,2024,Sep,29,2024-09-29
+22691,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,4000,3670,30 Nov 2024,2024,Nov,30,2024-11-30
+22692,,Chittor,Punganur,Tomato,Hybrid,FAQ,3340,4140,3800,10 Jul 2024,2024,Jul,10,2024-07-10
+22693,,Chittor,Punganur,Tomato,Hybrid,FAQ,3540,4200,3870,28 Nov 2024,2024,Nov,28,2024-11-28
+22694,,Chittor,Punganur,Tomato,Hybrid,FAQ,3670,4200,3900,24 Oct 2024,2024,Oct,24,2024-10-24
+22695,,Chittor,Punganur,Tomato,Hybrid,FAQ,3670,4340,4000,26 Nov 2024,2024,Nov,26,2024-11-26
+22696,,Chittor,Punganur,Tomato,Hybrid,FAQ,3700,4500,4000,23 Jul 2024,2024,Jul,23,2024-07-23
+22697,,Chittor,Punganur,Tomato,Hybrid,FAQ,3740,4670,4270,11 Jul 2024,2024,Jul,11,2024-07-11
+22698,,Chittor,Punganur,Tomato,Hybrid,FAQ,3800,4670,4200,27 Nov 2024,2024,Nov,27,2024-11-27
+22699,,Chittor,Punganur,Tomato,Hybrid,FAQ,3870,4400,4140,10 Oct 2024,2024,Oct,10,2024-10-10
+22700,,Chittor,Punganur,Tomato,Hybrid,FAQ,3870,4540,4170,01 Dec 2024,2024,Dec,1,2024-12-01
+22701,,Chittor,Punganur,Tomato,Hybrid,FAQ,4000,4600,4300,01 Oct 2024,2024,Oct,1,2024-10-01
+22702,,Chittor,Punganur,Tomato,Hybrid,FAQ,4000,5000,4500,22 Jul 2024,2024,Jul,22,2024-07-22
+22703,,Chittor,Punganur,Tomato,Hybrid,FAQ,4140,4800,4470,16 Oct 2024,2024,Oct,16,2024-10-16
+22704,,Chittor,Punganur,Tomato,Hybrid,FAQ,4200,5000,4600,18 Jul 2024,2024,Jul,18,2024-07-18
+22705,,Chittor,Punganur,Tomato,Hybrid,FAQ,4200,5000,4670,03 Dec 2024,2024,Dec,3,2024-12-03
+22706,,Chittor,Punganur,Tomato,Hybrid,FAQ,4240,5000,4570,19 Jul 2024,2024,Jul,19,2024-07-19
+22707,,Chittor,Punganur,Tomato,Hybrid,FAQ,4340,5000,4670,11 Oct 2024,2024,Oct,11,2024-10-11
+22708,,Chittor,Punganur,Tomato,Hybrid,FAQ,4340,5000,4670,17 Oct 2024,2024,Oct,17,2024-10-17
+22709,,Chittor,Punganur,Tomato,Hybrid,FAQ,4400,5140,4740,12 Oct 2024,2024,Oct,12,2024-10-12
+22710,,Chittor,Punganur,Tomato,Hybrid,FAQ,4600,5340,5000,13 Jul 2024,2024,Jul,13,2024-07-13
+22711,,Chittor,Punganur,Tomato,Hybrid,FAQ,4600,5400,5000,20 Jul 2024,2024,Jul,20,2024-07-20
+22712,,Chittor,Punganur,Tomato,Hybrid,FAQ,4740,5470,5140,18 Oct 2024,2024,Oct,18,2024-10-18
+22713,,Chittor,Punganur,Tomato,Hybrid,FAQ,5070,5670,5370,14 Oct 2024,2024,Oct,14,2024-10-14
+22714,,Chittor,Punganur,Tomato,Hybrid,FAQ,5100,5800,5500,14 Jul 2024,2024,Jul,14,2024-07-14
+22715,,Chittor,Punganur,Tomato,Hybrid,FAQ,5200,6000,5670,17 Jul 2024,2024,Jul,17,2024-07-17
+22716,,Chittor,Punganur,Tomato,Hybrid,FAQ,5200,6200,5700,21 Jul 2024,2024,Jul,21,2024-07-21
+22717,,Chittor,Punganur,Tomato,Hybrid,FAQ,5270,6000,5640,13 Oct 2024,2024,Oct,13,2024-10-13
+22718,,Chittor,Punganur,Tomato,Hybrid,FAQ,5340,6000,5670,04 Oct 2024,2024,Oct,4,2024-10-04
+22719,,Chittor,Punganur,Tomato,Hybrid,FAQ,5670,6400,6000,08 Oct 2024,2024,Oct,8,2024-10-08
+22720,,Chittor,Punganur,Tomato,Hybrid,FAQ,5740,6340,6000,15 Oct 2024,2024,Oct,15,2024-10-15
+22721,,Chittor,Punganur,Tomato,Hybrid,FAQ,5800,6500,6100,15 Jul 2024,2024,Jul,15,2024-07-15
+22722,,Chittor,Punganur,Tomato,Hybrid,FAQ,6000,6670,6200,05 Oct 2024,2024,Oct,5,2024-10-05
+22723,,Chittor,Punganur,Tomato,Hybrid,FAQ,6000,6770,6400,16 Jul 2024,2024,Jul,16,2024-07-16
+22724,,Chittor,Punganur,Tomato,Hybrid,FAQ,6000,6800,6400,07 Oct 2024,2024,Oct,7,2024-10-07
+22725,,Chittor,Punganur,Tomato,Hybrid,FAQ,6000,6870,6500,03 Oct 2024,2024,Oct,3,2024-10-03
+22726,,Chittor,Punganur,Tomato,Hybrid,FAQ,6600,7500,7000,06 Oct 2024,2024,Oct,6,2024-10-06
+22727,,Chittor,Vayalapadu,Tomato,Local,FAQ,1600,2000,1800,31 Aug 2024,2024,Aug,31,2024-08-31
+22728,,Chittor,Vayalapadu,Tomato,Local,FAQ,1800,2200,2000,01 Sep 2024,2024,Sep,1,2024-09-01
+22729,,Chittor,Vayalapadu,Tomato,Local,FAQ,1800,2200,2000,27 Aug 2024,2024,Aug,27,2024-08-27
+22730,,Chittor,Vayalapadu,Tomato,Local,FAQ,1800,2200,2000,30 Aug 2024,2024,Aug,30,2024-08-30
+22731,,Chittor,Vayalapadu,Tomato,Local,FAQ,1800,2320,2120,29 Aug 2024,2024,Aug,29,2024-08-29
+22732,,Chittor,Vayalapadu,Tomato,Local,FAQ,1840,2240,2000,28 Aug 2024,2024,Aug,28,2024-08-28
+22733,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,02 Sep 2024,2024,Sep,2,2024-09-02
+22734,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,04 Aug 2024,2024,Aug,4,2024-08-04
+22735,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,10 Sep 2024,2024,Sep,10,2024-09-10
+22736,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,13 Aug 2024,2024,Aug,13,2024-08-13
+22737,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,19 Aug 2024,2024,Aug,19,2024-08-19
+22738,,Chittor,Vayalapadu,Tomato,Local,FAQ,2200,2600,2400,21 Aug 2024,2024,Aug,21,2024-08-21
+22739,,Chittor,Vayalapadu,Tomato,Local,FAQ,2240,2640,2400,20 Aug 2024,2024,Aug,20,2024-08-20
+22740,,Chittor,Vayalapadu,Tomato,Local,FAQ,2240,2640,2400,22 Aug 2024,2024,Aug,22,2024-08-22
+22741,,Chittor,Vayalapadu,Tomato,Local,FAQ,2280,2680,2400,14 Aug 2024,2024,Aug,14,2024-08-14
+22742,,Chittor,Vayalapadu,Tomato,Local,FAQ,2400,2800,2600,11 Sep 2024,2024,Sep,11,2024-09-11
+22743,,Chittor,Vayalapadu,Tomato,Local,FAQ,2400,3000,2800,02 Aug 2024,2024,Aug,2,2024-08-02
+22744,,Chittor,Vayalapadu,Tomato,Local,FAQ,2400,3000,2800,06 Aug 2024,2024,Aug,6,2024-08-06
+22745,,Chittor,Vayalapadu,Tomato,Local,FAQ,2400,3000,2800,12 Aug 2024,2024,Aug,12,2024-08-12
+22746,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,03 Aug 2024,2024,Aug,3,2024-08-03
+22747,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,03 Sep 2024,2024,Sep,3,2024-09-03
+22748,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,05 Aug 2024,2024,Aug,5,2024-08-05
+22749,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,09 Sep 2024,2024,Sep,9,2024-09-09
+22750,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,12 Sep 2024,2024,Sep,12,2024-09-12
+22751,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,17 Aug 2024,2024,Aug,17,2024-08-17
+22752,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,18 Aug 2024,2024,Aug,18,2024-08-18
+22753,,Chittor,Vayalapadu,Tomato,Local,FAQ,2600,3000,2800,23 Aug 2024,2024,Aug,23,2024-08-23
+22754,,Chittor,Vayalapadu,Tomato,Local,FAQ,2720,3120,2800,04 Sep 2024,2024,Sep,4,2024-09-04
+22755,,Chittor,Vayalapadu,Tomato,Local,FAQ,2800,3200,3000,16 Aug 2024,2024,Aug,16,2024-08-16
+22756,,Chittor,Vayalapadu,Tomato,Local,FAQ,3200,3800,3500,17 Sep 2024,2024,Sep,17,2024-09-17
+22757,,Chittor,Vayalapadu,Tomato,Local,FAQ,3400,3800,3600,16 Sep 2024,2024,Sep,16,2024-09-16
+22758,,Chittor,Vayalapadu,Tomato,Local,FAQ,3600,4200,3800,18 Sep 2024,2024,Sep,18,2024-09-18
+22759,,Chittor,Vayalapadu,Tomato,Local,FAQ,3600,4400,4000,03 Jul 2024,2024,Jul,3,2024-07-03
+22760,,Chittor,Vayalapadu,Tomato,Local,FAQ,3600,4400,4000,06 Jul 2024,2024,Jul,6,2024-07-06
+22761,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4400,4000,19 Sep 2024,2024,Sep,19,2024-09-19
+22762,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4200,02 Jul 2024,2024,Jul,2,2024-07-02
+22763,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4200,07 Jul 2024,2024,Jul,7,2024-07-07
+22764,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4320,05 Jul 2024,2024,Jul,5,2024-07-05
+22765,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4320,08 Jul 2024,2024,Jul,8,2024-07-08
+22766,,Chittor,Vayalapadu,Tomato,Local,FAQ,3800,4600,4500,04 Jul 2024,2024,Jul,4,2024-07-04
+22767,,Chittor,Vayalapadu,Tomato,Local,FAQ,4000,4600,4400,21 Sep 2024,2024,Sep,21,2024-09-21
+22768,,Chittor,Vayalapadu,Tomato,Local,FAQ,4200,4600,4400,26 Sep 2024,2024,Sep,26,2024-09-26
+22769,,Chittor,Vayalapadu,Tomato,Local,FAQ,4400,4800,4600,23 Sep 2024,2024,Sep,23,2024-09-23
+22770,,Chittor,Vayalapadu,Tomato,Local,FAQ,4400,4800,4600,27 Sep 2024,2024,Sep,27,2024-09-27
+22771,,Chittor,Vayalapadu,Tomato,Local,FAQ,4400,4800,4600,29 Nov 2024,2024,Nov,29,2024-11-29
+22772,,Chittor,Vayalapadu,Tomato,Local,FAQ,4400,5200,4800,24 Jul 2024,2024,Jul,24,2024-07-24
+22773,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,20 Sep 2024,2024,Sep,20,2024-09-20
+22774,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,22 Sep 2024,2024,Sep,22,2024-09-22
+22775,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,24 Sep 2024,2024,Sep,24,2024-09-24
+22776,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,28 Nov 2024,2024,Nov,28,2024-11-28
+22777,,Chittor,Vayalapadu,Tomato,Local,FAQ,4600,5000,4800,28 Sep 2024,2024,Sep,28,2024-09-28
+22778,,Chittor,Vayalapadu,Tomato,Local,FAQ,4800,5200,5000,26 Nov 2024,2024,Nov,26,2024-11-26
+22779,,Chittor,Vayalapadu,Tomato,Local,FAQ,4800,5200,5000,27 Nov 2024,2024,Nov,27,2024-11-27
+22780,,Chittor,Vayalapadu,Tomato,Local,FAQ,4800,5600,5200,10 Jul 2024,2024,Jul,10,2024-07-10
+22781,,Chittor,Vayalapadu,Tomato,Local,FAQ,5000,5400,5200,29 Sep 2024,2024,Sep,29,2024-09-29
+22782,,Chittor,Vayalapadu,Tomato,Local,FAQ,5200,6000,5600,11 Jul 2024,2024,Jul,11,2024-07-11
+22783,,Chittor,Vayalapadu,Tomato,Local,FAQ,5200,6000,5600,23 Jul 2024,2024,Jul,23,2024-07-23
+22784,,Chittor,Vayalapadu,Tomato,Local,FAQ,5400,6200,5800,12 Jul 2024,2024,Jul,12,2024-07-12
+22785,,Chittor,Vayalapadu,Tomato,Local,FAQ,5600,6000,5800,30 Sep 2024,2024,Sep,30,2024-09-30
+22786,,Chittor,Vayalapadu,Tomato,Local,FAQ,5600,6400,6000,22 Jul 2024,2024,Jul,22,2024-07-22
+22787,,Chittor,Vayalapadu,Tomato,Local,FAQ,6000,6400,6200,02 Oct 2024,2024,Oct,2,2024-10-02
+22788,,Chittor,Vayalapadu,Tomato,Local,FAQ,6000,6400,6200,21 Jul 2024,2024,Jul,21,2024-07-21
+22789,,Chittor,Vayalapadu,Tomato,Local,FAQ,6000,6800,6400,15 Jul 2024,2024,Jul,15,2024-07-15
+22790,,Chittor,Vayalapadu,Tomato,Local,FAQ,6000,6800,6400,19 Jul 2024,2024,Jul,19,2024-07-19
+22791,,Chittor,Vayalapadu,Tomato,Local,FAQ,6200,6800,6600,20 Jul 2024,2024,Jul,20,2024-07-20
+22792,,Chittor,Vayalapadu,Tomato,Local,FAQ,6400,7200,6800,16 Jul 2024,2024,Jul,16,2024-07-16
+22793,,Chittor,Vayalapadu,Tomato,Local,FAQ,7200,8000,7600,18 Jul 2024,2024,Jul,18,2024-07-18
+22794,,Chittor,Vayalapadu,Tomato,Local,FAQ,7600,8000,7800,03 Oct 2024,2024,Oct,3,2024-10-03
+22795,,Chittor,Vayalapadu,Tomato,Local,FAQ,8000,8400,8200,04 Oct 2024,2024,Oct,4,2024-10-04

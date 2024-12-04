@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,2200,2700,2500,24 Mar 2021,2021,Mar,24,2021-03-24
 1,1.0,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,2250,2650,2500,31 Mar 2021,2021,Mar,31,2021-03-31
 2,2.0,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,2400,2650,2500,21 Mar 2021,2021,Mar,21,2021-03-21
@@ -2569,63 +2569,63 @@
 2567,2567.0,Dehradoon,Vikasnagar,Gur(Jaggery),Other,FAQ,2500,2500,2500,24 Oct 2017,2017,Oct,24,2017-10-24
 2568,2568.0,Dehradoon,Vikasnagar,Gur(Jaggery),Other,FAQ,2600,2600,2600,10 Sep 2017,2017,Sep,10,2017-09-10
 2569,2569.0,Dehradoon,Vikasnagar,Gur(Jaggery),Other,FAQ,3259,3259,3259,02 Oct 2017,2017,Oct,2,2017-10-02
-2570,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,2850,2850,2850,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-2571,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3000,3000,3000,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-2572,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3000,3300,3200,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-2573,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3200,3200,3200,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-2574,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3200,3200,3200,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-2575,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3200,3200,3200,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-2576,,Haridwar,Lakshar,Gur(Jaggery),Other,FAQ,2600,2700,2650,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-2577,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-2578,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-2579,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-2580,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-2581,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-2582,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-2583,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-2584,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-2585,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-2586,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-2587,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-2588,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-2589,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-2590,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-2591,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-2592,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3400,3200,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-2593,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3400,3300,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-2594,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-2595,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-2596,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-2597,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-2598,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-2599,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-2600,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-2601,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-2602,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-2603,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-2604,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3200,3400,3300,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-2605,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3700,4000,3800,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-2606,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4100,4000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-2607,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-2608,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-2609,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-2610,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-2611,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-2612,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-2613,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-2614,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-2615,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-2616,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-2617,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-2618,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-2619,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2400,2500,2450,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-2620,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2500,2520,2510,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-2621,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2500,2600,2550,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-2622,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2700,2800,2750,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-2623,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2800,2900,2850,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-2624,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,3200,3300,3250,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-2625,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,3200,3300,3250,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-2626,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,3200,3300,3250,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-2627,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,4200,4230,4220,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-2628,,Dehradoon,Vikasnagar,Gur(Jaggery),Other,FAQ,2100,2100,2100,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-2629,,Dehradoon,Vikasnagar,Gur(Jaggery),Other,FAQ,2100,2100,2100,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
+2570,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,2850,2850,2850,27 Sep 2024,2024,Sep,27,2024-09-27
+2571,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3000,3000,3000,23 Sep 2024,2024,Sep,23,2024-09-23
+2572,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3000,3300,3200,25 Nov 2024,2024,Nov,25,2024-11-25
+2573,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3200,3200,3200,15 Oct 2024,2024,Oct,15,2024-10-15
+2574,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3200,3200,3200,21 Oct 2024,2024,Oct,21,2024-10-21
+2575,,Nanital,Haldwani,Gur(Jaggery),Other,FAQ,3200,3200,3200,29 Oct 2024,2024,Oct,29,2024-10-29
+2576,,Haridwar,Lakshar,Gur(Jaggery),Other,FAQ,2600,2700,2650,05 Nov 2024,2024,Nov,5,2024-11-05
+2577,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,12 Nov 2024,2024,Nov,12,2024-11-12
+2578,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,13 Nov 2024,2024,Nov,13,2024-11-13
+2579,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,14 Nov 2024,2024,Nov,14,2024-11-14
+2580,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,18 Nov 2024,2024,Nov,18,2024-11-18
+2581,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3200,3100,19 Nov 2024,2024,Nov,19,2024-11-19
+2582,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,04 Nov 2024,2024,Nov,4,2024-11-04
+2583,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,05 Nov 2024,2024,Nov,5,2024-11-05
+2584,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,06 Nov 2024,2024,Nov,6,2024-11-06
+2585,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,07 Nov 2024,2024,Nov,7,2024-11-07
+2586,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,08 Nov 2024,2024,Nov,8,2024-11-08
+2587,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,09 Nov 2024,2024,Nov,9,2024-11-09
+2588,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,25 Oct 2024,2024,Oct,25,2024-10-25
+2589,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,26 Oct 2024,2024,Oct,26,2024-10-26
+2590,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,28 Oct 2024,2024,Oct,28,2024-10-28
+2591,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3300,3200,29 Oct 2024,2024,Oct,29,2024-10-29
+2592,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3400,3200,22 Oct 2024,2024,Oct,22,2024-10-22
+2593,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3000,3400,3300,23 Oct 2024,2024,Oct,23,2024-10-23
+2594,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,02 Dec 2024,2024,Dec,2,2024-12-02
+2595,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,20 Nov 2024,2024,Nov,20,2024-11-20
+2596,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,21 Nov 2024,2024,Nov,21,2024-11-21
+2597,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,22 Nov 2024,2024,Nov,22,2024-11-22
+2598,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,23 Nov 2024,2024,Nov,23,2024-11-23
+2599,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,25 Nov 2024,2024,Nov,25,2024-11-25
+2600,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,26 Nov 2024,2024,Nov,26,2024-11-26
+2601,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,27 Nov 2024,2024,Nov,27,2024-11-27
+2602,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,28 Nov 2024,2024,Nov,28,2024-11-28
+2603,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3100,3300,3200,29 Nov 2024,2024,Nov,29,2024-11-29
+2604,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3200,3400,3300,24 Oct 2024,2024,Oct,24,2024-10-24
+2605,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3700,4000,3800,09 Sep 2024,2024,Sep,9,2024-09-09
+2606,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4100,4000,02 Jul 2024,2024,Jul,2,2024-07-02
+2607,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,04 Oct 2024,2024,Oct,4,2024-10-04
+2608,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,05 Oct 2024,2024,Oct,5,2024-10-05
+2609,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,07 Oct 2024,2024,Oct,7,2024-10-07
+2610,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,09 Oct 2024,2024,Oct,9,2024-10-09
+2611,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,10 Oct 2024,2024,Oct,10,2024-10-10
+2612,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,14 Oct 2024,2024,Oct,14,2024-10-14
+2613,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,15 Oct 2024,2024,Oct,15,2024-10-15
+2614,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,17 Oct 2024,2024,Oct,17,2024-10-17
+2615,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,18 Oct 2024,2024,Oct,18,2024-10-18
+2616,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,19 Oct 2024,2024,Oct,19,2024-10-19
+2617,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,20 Oct 2024,2024,Oct,20,2024-10-20
+2618,,Haridwar,Manglaur,Gur(Jaggery),Other,FAQ,3800,4200,4000,21 Oct 2024,2024,Oct,21,2024-10-21
+2619,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2400,2500,2450,25 Oct 2024,2024,Oct,25,2024-10-25
+2620,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2500,2520,2510,26 Oct 2024,2024,Oct,26,2024-10-26
+2621,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2500,2600,2550,11 Nov 2024,2024,Nov,11,2024-11-11
+2622,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2700,2800,2750,03 Jul 2024,2024,Jul,3,2024-07-03
+2623,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,2800,2900,2850,04 Jul 2024,2024,Jul,4,2024-07-04
+2624,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,3200,3300,3250,15 Oct 2024,2024,Oct,15,2024-10-15
+2625,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,3200,3300,3250,17 Oct 2024,2024,Oct,17,2024-10-17
+2626,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,3200,3300,3250,18 Oct 2024,2024,Oct,18,2024-10-18
+2627,,Champawat,Tanakpur,Gur(Jaggery),Other,FAQ,4200,4230,4220,29 Nov 2024,2024,Nov,29,2024-11-29
+2628,,Dehradoon,Vikasnagar,Gur(Jaggery),Other,FAQ,2100,2100,2100,06 Nov 2024,2024,Nov,6,2024-11-06
+2629,,Dehradoon,Vikasnagar,Gur(Jaggery),Other,FAQ,2100,2100,2100,28 Nov 2024,2024,Nov,28,2024-11-28

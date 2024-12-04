@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Kekri,Kekri,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5100,5400,5300,23 Apr 2021,2021,Apr,23,2021-04-23
 1,1.0,Ganganagar,Ridmalsar,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5600,5600,5600,12 Apr 2021,2021,Apr,12,2021-04-12
 2,2.0,Ganganagar,Ridmalsar,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5606,5606,5606,13 Apr 2021,2021,Apr,13,2021-04-13
@@ -172,13 +172,13 @@
 170,170.0,Jodhpur Rural,Pipar City,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4400,4400,4400,26 Apr 2018,2018,Apr,26,2018-04-26
 171,171.0,Jodhpur Rural,Pipar City,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4400,4400,4400,30 May 2018,2018,May,30,2018-05-30
 172,172.0,Ganganagar,Ridmalsar,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3771,3771,3771,30 Aug 2018,2018,Aug,30,2018-08-30
-173,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5251,6240,5745,31 Aug 2016,2016,Aug,31,2016-08-31 00:00:00
-174,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5611,5692,5651,30 Aug 2016,2016,Aug,30,2016-08-30 00:00:00
-175,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5811,5895,5853,29 Aug 2016,2016,Aug,29,2016-08-29 00:00:00
-176,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6851,7251,7051,10 Aug 2016,2016,Aug,10,2016-08-10 00:00:00
-177,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7011,7011,7011,24 Aug 2016,2016,Aug,24,2016-08-24 00:00:00
-178,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7031,7081,7056,16 Aug 2016,2016,Aug,16,2016-08-16 00:00:00
-179,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7141,7141,7141,23 Aug 2016,2016,Aug,23,2016-08-23 00:00:00
-180,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7201,7381,7291,19 Aug 2016,2016,Aug,19,2016-08-19 00:00:00
-181,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7228,7301,7264,20 Aug 2016,2016,Aug,20,2016-08-20 00:00:00
-182,,Ganganagar,Sriganganagar (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7250,7300,7251,22 Aug 2016,2016,Aug,22,2016-08-22 00:00:00
+173,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5251,6240,5745,31 Aug 2016,2016,Aug,31,2016-08-31
+174,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5611,5692,5651,30 Aug 2016,2016,Aug,30,2016-08-30
+175,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5811,5895,5853,29 Aug 2016,2016,Aug,29,2016-08-29
+176,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6851,7251,7051,10 Aug 2016,2016,Aug,10,2016-08-10
+177,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7011,7011,7011,24 Aug 2016,2016,Aug,24,2016-08-24
+178,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7031,7081,7056,16 Aug 2016,2016,Aug,16,2016-08-16
+179,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7141,7141,7141,23 Aug 2016,2016,Aug,23,2016-08-23
+180,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7201,7381,7291,19 Aug 2016,2016,Aug,19,2016-08-19
+181,,Bikaner,Bikaner (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7228,7301,7264,20 Aug 2016,2016,Aug,20,2016-08-20
+182,,Ganganagar,Sriganganagar (Grain),Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7250,7300,7251,22 Aug 2016,2016,Aug,22,2016-08-22

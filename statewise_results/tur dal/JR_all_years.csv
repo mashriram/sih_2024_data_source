@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Giridih,Giridih,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6000,6230,6200,30 Jul 2017,2017,Jul,30,2017-07-30
 1,1.0,Giridih,Giridih,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6200,6350,6300,22 Aug 2017,2017,Aug,22,2017-08-22
 2,2.0,Giridih,Giridih,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6300,6450,6400,19 Aug 2017,2017,Aug,19,2017-08-19
@@ -614,29 +614,29 @@
 612,612.0,Giridih,Giridih,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,6690,6600,24 Apr 2018,2018,Apr,24,2018-04-24
 613,613.0,Giridih,Giridih,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,6690,6600,31 Aug 2018,2018,Aug,31,2018-08-31
 614,614.0,Giridih,Giridih,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6600,6650,6620,16 Sep 2017,2017,Sep,16,2017-09-16
-615,,Dhanbad,Dhanbad,Arhar Dal(Tur Dal),Other,FAQ,6720,7600,6820,02 Sep 2014,2014,Sep,02,2014-09-02 00:00:00
-616,,Dhanbad,Dhanbad,Arhar Dal(Tur Dal),Other,FAQ,6720,7600,6820,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
-617,,Hazaribagh,Hazaribagh,Arhar Dal(Tur Dal),Other,FAQ,7000,7500,7200,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-618,,Hazaribagh,Hazaribagh,Arhar Dal(Tur Dal),Other,FAQ,7200,7500,7350,07 Sep 2014,2014,Sep,07,2014-09-07 00:00:00
-619,,Hazaribagh,Ramgarh,Arhar Dal(Tur Dal),Other,FAQ,6000,6500,6300,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-620,,Hazaribagh,Ramgarh,Arhar Dal(Tur Dal),Other,FAQ,6300,6600,6500,18 Sep 2014,2014,Sep,18,2014-09-18 00:00:00
-621,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
-622,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
-623,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
-624,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,20 Sep 2014,2014,Sep,20,2014-09-20 00:00:00
-625,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,22 Sep 2014,2014,Sep,22,2014-09-22 00:00:00
-626,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,23 Sep 2014,2014,Sep,23,2014-09-23 00:00:00
-627,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,24 Sep 2014,2014,Sep,24,2014-09-24 00:00:00
-628,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,26 Sep 2014,2014,Sep,26,2014-09-26 00:00:00
-629,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,29 Sep 2014,2014,Sep,29,2014-09-29 00:00:00
-630,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,30 Sep 2014,2014,Sep,30,2014-09-30 00:00:00
-631,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
-632,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
-633,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-634,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,08 Sep 2014,2014,Sep,08,2014-09-08 00:00:00
-635,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,09 Sep 2014,2014,Sep,09,2014-09-09 00:00:00
-636,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-637,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,11 Sep 2014,2014,Sep,11,2014-09-11 00:00:00
-638,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,12 Sep 2014,2014,Sep,12,2014-09-12 00:00:00
-639,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,13 Sep 2014,2014,Sep,13,2014-09-13 00:00:00
-640,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,15 Sep 2014,2014,Sep,15,2014-09-15 00:00:00
+615,,Dhanbad,Dhanbad,Arhar Dal(Tur Dal),Other,FAQ,6720,7600,6820,02 Sep 2014,2014,Sep,2,2014-09-02
+616,,Dhanbad,Dhanbad,Arhar Dal(Tur Dal),Other,FAQ,6720,7600,6820,04 Sep 2014,2014,Sep,4,2014-09-04
+617,,Hazaribagh,Hazaribagh,Arhar Dal(Tur Dal),Other,FAQ,7000,7500,7200,06 Sep 2014,2014,Sep,6,2014-09-06
+618,,Hazaribagh,Hazaribagh,Arhar Dal(Tur Dal),Other,FAQ,7200,7500,7350,07 Sep 2014,2014,Sep,7,2014-09-07
+619,,Hazaribagh,Ramgarh,Arhar Dal(Tur Dal),Other,FAQ,6000,6500,6300,06 Sep 2014,2014,Sep,6,2014-09-06
+620,,Hazaribagh,Ramgarh,Arhar Dal(Tur Dal),Other,FAQ,6300,6600,6500,18 Sep 2014,2014,Sep,18,2014-09-18
+621,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,16 Sep 2014,2014,Sep,16,2014-09-16
+622,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,17 Sep 2014,2014,Sep,17,2014-09-17
+623,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,19 Sep 2014,2014,Sep,19,2014-09-19
+624,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,20 Sep 2014,2014,Sep,20,2014-09-20
+625,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,22 Sep 2014,2014,Sep,22,2014-09-22
+626,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,23 Sep 2014,2014,Sep,23,2014-09-23
+627,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,24 Sep 2014,2014,Sep,24,2014-09-24
+628,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,26 Sep 2014,2014,Sep,26,2014-09-26
+629,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,29 Sep 2014,2014,Sep,29,2014-09-29
+630,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5500,7000,6400,30 Sep 2014,2014,Sep,30,2014-09-30
+631,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,03 Sep 2014,2014,Sep,3,2014-09-03
+632,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,04 Sep 2014,2014,Sep,4,2014-09-04
+633,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,06 Sep 2014,2014,Sep,6,2014-09-06
+634,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,08 Sep 2014,2014,Sep,8,2014-09-08
+635,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,09 Sep 2014,2014,Sep,9,2014-09-09
+636,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,10 Sep 2014,2014,Sep,10,2014-09-10
+637,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,11 Sep 2014,2014,Sep,11,2014-09-11
+638,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,12 Sep 2014,2014,Sep,12,2014-09-12
+639,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,13 Sep 2014,2014,Sep,13,2014-09-13
+640,,Ranchi,Ranchi,Arhar Dal(Tur Dal),Medium,FAQ,5525,6650,6400,15 Sep 2014,2014,Sep,15,2014-09-15

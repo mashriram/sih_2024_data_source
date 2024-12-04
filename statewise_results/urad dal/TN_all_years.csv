@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Kancheepuram,Maduranthagam,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5300,5125,18 May 2021,2021,May,18,2021-05-18
 1,1.0,Coimbatore,Chengeri,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5500,5400,10 Mar 2022,2022,Mar,10,2022-03-10
 2,2.0,Namakkal,Tiruchengode,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5000,4900,02 Mar 2022,2022,Mar,2,2022-03-02
@@ -447,68 +447,68 @@
 445,445.0,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4989,5506,5506,05 Feb 2018,2018,Feb,5,2018-02-05
 446,446.0,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5191,5281,5236,02 Feb 2018,2018,Feb,2,2018-02-02
 447,447.0,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5233,5952,5452,01 Feb 2018,2018,Feb,1,2018-02-01
-448,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2200,3397,2223,21 May 2018,2018,May,21,2018-05-21 00:00:00
-449,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3009,4659,4552,10 Jan 2018,2018,Jan,10,2018-01-10 00:00:00
-450,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3091,4573,3852,19 Jan 2018,2018,Jan,19,2018-01-19 00:00:00
-451,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3489,4612,4050,23 Jan 2018,2018,Jan,23,2018-01-23 00:00:00
-452,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3712,4662,4187,19 Mar 2018,2018,Mar,19,2018-03-19 00:00:00
-453,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3715,4910,4315,09 Feb 2018,2018,Feb,09,2018-02-09 00:00:00
-454,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3809,4612,4009,02 Mar 2018,2018,Mar,02,2018-03-02 00:00:00
-455,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3819,4496,4158,25 Apr 2018,2018,Apr,25,2018-04-25 00:00:00
-456,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3829,4431,4130,20 Apr 2018,2018,Apr,20,2018-04-20 00:00:00
-457,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3829,4615,4253,14 May 2018,2018,May,14,2018-05-14 00:00:00
-458,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3869,4536,4203,14 Mar 2018,2018,Mar,14,2018-03-14 00:00:00
-459,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3869,4622,4246,12 Mar 2018,2018,Mar,12,2018-03-12 00:00:00
-460,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3872,4739,4306,21 Mar 2018,2018,Mar,21,2018-03-21 00:00:00
-461,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3892,4581,4282,16 Mar 2018,2018,Mar,16,2018-03-16 00:00:00
-462,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3909,4571,4240,15 Mar 2018,2018,Mar,15,2018-03-15 00:00:00
-463,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3989,4463,4226,08 Mar 2018,2018,Mar,08,2018-03-08 00:00:00
-464,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4069,4521,4295,23 Apr 2018,2018,Apr,23,2018-04-23 00:00:00
-465,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4069,4529,4299,07 Mar 2018,2018,Mar,07,2018-03-07 00:00:00
-466,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4069,4759,4414,13 Apr 2018,2018,Apr,13,2018-04-13 00:00:00
-467,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4069,4771,4420,23 Mar 2018,2018,Mar,23,2018-03-23 00:00:00
-468,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4089,4609,4609,09 Jan 2018,2018,Jan,09,2018-01-09 00:00:00
-469,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4089,4619,4354,19 Apr 2018,2018,Apr,19,2018-04-19 00:00:00
-470,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4089,4719,4404,27 Mar 2018,2018,Mar,27,2018-03-27 00:00:00
-471,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4209,4734,4474,16 Apr 2018,2018,Apr,16,2018-04-16 00:00:00
-472,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4239,4839,4539,06 Apr 2018,2018,Apr,06,2018-04-06 00:00:00
-473,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4242,4632,4432,26 Mar 2018,2018,Mar,26,2018-03-26 00:00:00
-474,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4292,4572,4432,13 Mar 2018,2018,Mar,13,2018-03-13 00:00:00
-475,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4292,4716,4516,20 Feb 2018,2018,Feb,20,2018-02-20 00:00:00
-476,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4319,4592,4592,08 Jan 2018,2018,Jan,08,2018-01-08 00:00:00
-477,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4392,4587,4487,09 Mar 2018,2018,Mar,09,2018-03-09 00:00:00
-478,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4419,4419,4419,18 May 2018,2018,May,18,2018-05-18 00:00:00
-479,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4429,4632,4523,29 May 2018,2018,May,29,2018-05-29 00:00:00
-480,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4431,4629,4530,28 Feb 2018,2018,Feb,28,2018-02-28 00:00:00
-481,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4439,4630,4535,17 May 2018,2018,May,17,2018-05-17 00:00:00
-482,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4469,4712,4591,12 Feb 2018,2018,Feb,12,2018-02-12 00:00:00
-483,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4472,4526,4512,22 Jan 2018,2018,Jan,22,2018-01-22 00:00:00
-484,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4472,4629,4551,18 Apr 2018,2018,Apr,18,2018-04-18 00:00:00
-485,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4479,4521,4500,06 Mar 2018,2018,Mar,06,2018-03-06 00:00:00
-486,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4489,4589,4543,17 Jan 2018,2018,Jan,17,2018-01-17 00:00:00
-487,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4509,4679,4594,17 Apr 2018,2018,Apr,17,2018-04-17 00:00:00
-488,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4519,4667,4619,27 Feb 2018,2018,Feb,27,2018-02-27 00:00:00
-489,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4539,4721,4630,22 Feb 2018,2018,Feb,22,2018-02-22 00:00:00
-490,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4539,4919,4729,28 Mar 2018,2018,Mar,28,2018-03-28 00:00:00
-491,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4589,4673,4651,25 Jan 2018,2018,Jan,25,2018-01-25 00:00:00
-492,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4592,4789,4691,12 Apr 2018,2018,Apr,12,2018-04-12 00:00:00
-493,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4619,4909,4764,04 Apr 2018,2018,Apr,04,2018-04-04 00:00:00
-494,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4651,4689,4670,20 Mar 2018,2018,Mar,20,2018-03-20 00:00:00
-495,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4651,4769,4710,22 Mar 2018,2018,Mar,22,2018-03-22 00:00:00
-496,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4659,4731,4697,14 Feb 2018,2018,Feb,14,2018-02-14 00:00:00
-497,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4672,4831,4752,09 Apr 2018,2018,Apr,09,2018-04-09 00:00:00
-498,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4689,4722,4706,23 Feb 2018,2018,Feb,23,2018-02-23 00:00:00
-499,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4689,4896,4841,29 Jan 2018,2018,Jan,29,2018-01-29 00:00:00
-500,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4709,4819,4761,21 Feb 2018,2018,Feb,21,2018-02-21 00:00:00
-501,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4712,4892,4800,19 Feb 2018,2018,Feb,19,2018-02-19 00:00:00
-502,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4720,4925,4822,16 Feb 2018,2018,Feb,16,2018-02-16 00:00:00
-503,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4727,4819,4773,15 Feb 2018,2018,Feb,15,2018-02-15 00:00:00
-504,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4739,4819,4779,11 Apr 2018,2018,Apr,11,2018-04-11 00:00:00
-505,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4819,4939,4879,30 Jan 2018,2018,Jan,30,2018-01-30 00:00:00
-506,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4822,5125,5022,08 Feb 2018,2018,Feb,08,2018-02-08 00:00:00
-507,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4852,5852,5425,06 Feb 2018,2018,Feb,06,2018-02-06 00:00:00
-508,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4855,5025,4952,24 Jan 2018,2018,Jan,24,2018-01-24 00:00:00
-509,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4919,5061,4989,07 Feb 2018,2018,Feb,07,2018-02-07 00:00:00
-510,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4989,5506,5506,05 Feb 2018,2018,Feb,05,2018-02-05 00:00:00
-511,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5191,5281,5236,02 Feb 2018,2018,Feb,02,2018-02-02 00:00:00
-512,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5233,5952,5452,01 Feb 2018,2018,Feb,01,2018-02-01 00:00:00
+448,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2200,3397,2223,21 May 2018,2018,May,21,2018-05-21
+449,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3009,4659,4552,10 Jan 2018,2018,Jan,10,2018-01-10
+450,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3091,4573,3852,19 Jan 2018,2018,Jan,19,2018-01-19
+451,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3489,4612,4050,23 Jan 2018,2018,Jan,23,2018-01-23
+452,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3712,4662,4187,19 Mar 2018,2018,Mar,19,2018-03-19
+453,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3715,4910,4315,09 Feb 2018,2018,Feb,9,2018-02-09
+454,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3809,4612,4009,02 Mar 2018,2018,Mar,2,2018-03-02
+455,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3819,4496,4158,25 Apr 2018,2018,Apr,25,2018-04-25
+456,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3829,4431,4130,20 Apr 2018,2018,Apr,20,2018-04-20
+457,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3829,4615,4253,14 May 2018,2018,May,14,2018-05-14
+458,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3869,4536,4203,14 Mar 2018,2018,Mar,14,2018-03-14
+459,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3869,4622,4246,12 Mar 2018,2018,Mar,12,2018-03-12
+460,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3872,4739,4306,21 Mar 2018,2018,Mar,21,2018-03-21
+461,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3892,4581,4282,16 Mar 2018,2018,Mar,16,2018-03-16
+462,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3909,4571,4240,15 Mar 2018,2018,Mar,15,2018-03-15
+463,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3989,4463,4226,08 Mar 2018,2018,Mar,8,2018-03-08
+464,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4069,4521,4295,23 Apr 2018,2018,Apr,23,2018-04-23
+465,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4069,4529,4299,07 Mar 2018,2018,Mar,7,2018-03-07
+466,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4069,4759,4414,13 Apr 2018,2018,Apr,13,2018-04-13
+467,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4069,4771,4420,23 Mar 2018,2018,Mar,23,2018-03-23
+468,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4089,4609,4609,09 Jan 2018,2018,Jan,9,2018-01-09
+469,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4089,4619,4354,19 Apr 2018,2018,Apr,19,2018-04-19
+470,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4089,4719,4404,27 Mar 2018,2018,Mar,27,2018-03-27
+471,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4209,4734,4474,16 Apr 2018,2018,Apr,16,2018-04-16
+472,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4239,4839,4539,06 Apr 2018,2018,Apr,6,2018-04-06
+473,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4242,4632,4432,26 Mar 2018,2018,Mar,26,2018-03-26
+474,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4292,4572,4432,13 Mar 2018,2018,Mar,13,2018-03-13
+475,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4292,4716,4516,20 Feb 2018,2018,Feb,20,2018-02-20
+476,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4319,4592,4592,08 Jan 2018,2018,Jan,8,2018-01-08
+477,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4392,4587,4487,09 Mar 2018,2018,Mar,9,2018-03-09
+478,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4419,4419,4419,18 May 2018,2018,May,18,2018-05-18
+479,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4429,4632,4523,29 May 2018,2018,May,29,2018-05-29
+480,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4431,4629,4530,28 Feb 2018,2018,Feb,28,2018-02-28
+481,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4439,4630,4535,17 May 2018,2018,May,17,2018-05-17
+482,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4469,4712,4591,12 Feb 2018,2018,Feb,12,2018-02-12
+483,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4472,4526,4512,22 Jan 2018,2018,Jan,22,2018-01-22
+484,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4472,4629,4551,18 Apr 2018,2018,Apr,18,2018-04-18
+485,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4479,4521,4500,06 Mar 2018,2018,Mar,6,2018-03-06
+486,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4489,4589,4543,17 Jan 2018,2018,Jan,17,2018-01-17
+487,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4509,4679,4594,17 Apr 2018,2018,Apr,17,2018-04-17
+488,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4519,4667,4619,27 Feb 2018,2018,Feb,27,2018-02-27
+489,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4539,4721,4630,22 Feb 2018,2018,Feb,22,2018-02-22
+490,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4539,4919,4729,28 Mar 2018,2018,Mar,28,2018-03-28
+491,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4589,4673,4651,25 Jan 2018,2018,Jan,25,2018-01-25
+492,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4592,4789,4691,12 Apr 2018,2018,Apr,12,2018-04-12
+493,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4619,4909,4764,04 Apr 2018,2018,Apr,4,2018-04-04
+494,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4651,4689,4670,20 Mar 2018,2018,Mar,20,2018-03-20
+495,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4651,4769,4710,22 Mar 2018,2018,Mar,22,2018-03-22
+496,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4659,4731,4697,14 Feb 2018,2018,Feb,14,2018-02-14
+497,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4672,4831,4752,09 Apr 2018,2018,Apr,9,2018-04-09
+498,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4689,4722,4706,23 Feb 2018,2018,Feb,23,2018-02-23
+499,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4689,4896,4841,29 Jan 2018,2018,Jan,29,2018-01-29
+500,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4709,4819,4761,21 Feb 2018,2018,Feb,21,2018-02-21
+501,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4712,4892,4800,19 Feb 2018,2018,Feb,19,2018-02-19
+502,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4720,4925,4822,16 Feb 2018,2018,Feb,16,2018-02-16
+503,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4727,4819,4773,15 Feb 2018,2018,Feb,15,2018-02-15
+504,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4739,4819,4779,11 Apr 2018,2018,Apr,11,2018-04-11
+505,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4819,4939,4879,30 Jan 2018,2018,Jan,30,2018-01-30
+506,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4822,5125,5022,08 Feb 2018,2018,Feb,8,2018-02-08
+507,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4852,5852,5425,06 Feb 2018,2018,Feb,6,2018-02-06
+508,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4855,5025,4952,24 Jan 2018,2018,Jan,24,2018-01-24
+509,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4919,5061,4989,07 Feb 2018,2018,Feb,7,2018-02-07
+510,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4989,5506,5506,05 Feb 2018,2018,Feb,5,2018-02-05
+511,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5191,5281,5236,02 Feb 2018,2018,Feb,2,2018-02-02
+512,,Thiruvannamalai,Kilpennathur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5233,5952,5452,01 Feb 2018,2018,Feb,1,2018-02-01

@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Nagaon,Dhing,Masur Dal,Masur Dal,FAQ,5100,7850,7700,16 Aug 2017,2017,Aug,16,2017-08-16
 1,1.0,Nagaon,Dhing,Masur Dal,Masur Dal,FAQ,5200,7750,7500,01 Sep 2017,2017,Sep,1,2017-09-01
 2,2.0,Nagaon,Dhing,Masur Dal,Masur Dal,FAQ,5400,7800,7500,21 Aug 2017,2017,Aug,21,2017-08-21
@@ -2951,51 +2951,51 @@
 2949,2949.0,Kamrup,P.O. Uparhali Guwahati,Masur Dal,Masur Dal,FAQ,5800,6500,6150,28 Aug 2018,2018,Aug,28,2018-08-28
 2950,2950.0,Kamrup,P.O. Uparhali Guwahati,Masur Dal,Masur Dal,FAQ,5800,6500,6150,29 Aug 2018,2018,Aug,29,2018-08-29
 2951,2951.0,Kamrup,P.O. Uparhali Guwahati,Masur Dal,Masur Dal,FAQ,5800,6500,6150,30 Aug 2018,2018,Aug,30,2018-08-30
-2952,,Cachar,Cachar,Masur Dal,Masur Dal,FAQ,7000,7500,7200,26 Feb 2015,2015,Feb,26,2015-02-26 00:00:00
-2953,,Cachar,Cachar,Masur Dal,Masur Dal,FAQ,7000,7500,7200,27 Feb 2015,2015,Feb,27,2015-02-27 00:00:00
-2954,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7500,7300,11 Sep 2014,2014,Sep,11,2014-09-11 00:00:00
-2955,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7500,7300,14 Oct 2014,2014,Oct,14,2014-10-14 00:00:00
-2956,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7500,7300,15 Oct 2014,2014,Oct,15,2014-10-15 00:00:00
-2957,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7500,7400,24 Oct 2014,2014,Oct,24,2014-10-24 00:00:00
-2958,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7300,10 Oct 2014,2014,Oct,10,2014-10-10 00:00:00
-2959,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7300,30 Jan 2015,2015,Jan,30,2015-01-30 00:00:00
-2960,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,01 Apr 2015,2015,Apr,01,2015-04-01 00:00:00
-2961,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,01 Jan 2015,2015,Jan,01,2015-01-01 00:00:00
-2962,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,01 Nov 2014,2014,Nov,01,2014-11-01 00:00:00
-2963,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,02 Apr 2015,2015,Apr,02,2015-04-02 00:00:00
-2964,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,02 Feb 2015,2015,Feb,02,2015-02-02 00:00:00
-2965,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,02 Mar 2015,2015,Mar,02,2015-03-02 00:00:00
-2966,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,03 Mar 2015,2015,Mar,03,2015-03-03 00:00:00
-2967,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,03 Nov 2014,2014,Nov,03,2014-11-03 00:00:00
-2968,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,04 Apr 2015,2015,Apr,04,2015-04-04 00:00:00
-2969,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,04 Dec 2014,2014,Dec,04,2014-12-04 00:00:00
-2970,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,04 Feb 2015,2015,Feb,04,2015-02-04 00:00:00
-2971,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,05 Feb 2015,2015,Feb,05,2015-02-05 00:00:00
-2972,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,06 Mar 2015,2015,Mar,06,2015-03-06 00:00:00
-2973,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,07 Apr 2015,2015,Apr,07,2015-04-07 00:00:00
-2974,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,07 Jan 2015,2015,Jan,07,2015-01-07 00:00:00
-2975,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,08 Jan 2015,2015,Jan,08,2015-01-08 00:00:00
-2976,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
-2977,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,10 Feb 2015,2015,Feb,10,2015-02-10 00:00:00
-2978,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,11 Apr 2015,2015,Apr,11,2015-04-11 00:00:00
-2979,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,11 Feb 2015,2015,Feb,11,2015-02-11 00:00:00
-2980,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,12 Jan 2015,2015,Jan,12,2015-01-12 00:00:00
-2981,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,13 Jan 2015,2015,Jan,13,2015-01-13 00:00:00
-2982,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,14 Dec 2014,2014,Dec,14,2014-12-14 00:00:00
-2983,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,16 Feb 2015,2015,Feb,16,2015-02-16 00:00:00
-2984,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,16 Jan 2015,2015,Jan,16,2015-01-16 00:00:00
-2985,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,17 Feb 2015,2015,Feb,17,2015-02-17 00:00:00
-2986,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,17 Mar 2015,2015,Mar,17,2015-03-17 00:00:00
-2987,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
-2988,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,18 Feb 2015,2015,Feb,18,2015-02-18 00:00:00
-2989,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,18 Mar 2015,2015,Mar,18,2015-03-18 00:00:00
-2990,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,19 Feb 2015,2015,Feb,19,2015-02-19 00:00:00
-2991,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,20 Jan 2015,2015,Jan,20,2015-01-20 00:00:00
-2992,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,21 Feb 2015,2015,Feb,21,2015-02-21 00:00:00
-2993,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
-2994,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,23 Mar 2015,2015,Mar,23,2015-03-23 00:00:00
-2995,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,29 Mar 2015,2015,Mar,29,2015-03-29 00:00:00
-2996,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,29 Nov 2014,2014,Nov,29,2014-11-29 00:00:00
-2997,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,31 Mar 2015,2015,Mar,31,2015-03-31 00:00:00
-2998,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,31 Oct 2014,2014,Oct,31,2014-10-31 00:00:00
-2999,,Jorhat,Jorhat,Masur Dal,Other,FAQ,8000,9800,9600,18 Mar 2015,2015,Mar,18,2015-03-18 00:00:00
+2952,,Cachar,Cachar,Masur Dal,Masur Dal,FAQ,7000,7500,7200,26 Feb 2015,2015,Feb,26,2015-02-26
+2953,,Cachar,Cachar,Masur Dal,Masur Dal,FAQ,7000,7500,7200,27 Feb 2015,2015,Feb,27,2015-02-27
+2954,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7500,7300,11 Sep 2014,2014,Sep,11,2014-09-11
+2955,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7500,7300,14 Oct 2014,2014,Oct,14,2014-10-14
+2956,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7500,7300,15 Oct 2014,2014,Oct,15,2014-10-15
+2957,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7500,7400,24 Oct 2014,2014,Oct,24,2014-10-24
+2958,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7300,10 Oct 2014,2014,Oct,10,2014-10-10
+2959,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7300,30 Jan 2015,2015,Jan,30,2015-01-30
+2960,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,01 Apr 2015,2015,Apr,1,2015-04-01
+2961,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,01 Jan 2015,2015,Jan,1,2015-01-01
+2962,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,01 Nov 2014,2014,Nov,1,2014-11-01
+2963,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,02 Apr 2015,2015,Apr,2,2015-04-02
+2964,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,02 Feb 2015,2015,Feb,2,2015-02-02
+2965,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,02 Mar 2015,2015,Mar,2,2015-03-02
+2966,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,03 Mar 2015,2015,Mar,3,2015-03-03
+2967,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,03 Nov 2014,2014,Nov,3,2014-11-03
+2968,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,04 Apr 2015,2015,Apr,4,2015-04-04
+2969,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,04 Dec 2014,2014,Dec,4,2014-12-04
+2970,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,04 Feb 2015,2015,Feb,4,2015-02-04
+2971,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,05 Feb 2015,2015,Feb,5,2015-02-05
+2972,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,06 Mar 2015,2015,Mar,6,2015-03-06
+2973,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,07 Apr 2015,2015,Apr,7,2015-04-07
+2974,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,07 Jan 2015,2015,Jan,7,2015-01-07
+2975,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,08 Jan 2015,2015,Jan,8,2015-01-08
+2976,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,09 Dec 2014,2014,Dec,9,2014-12-09
+2977,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,10 Feb 2015,2015,Feb,10,2015-02-10
+2978,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,11 Apr 2015,2015,Apr,11,2015-04-11
+2979,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,11 Feb 2015,2015,Feb,11,2015-02-11
+2980,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,12 Jan 2015,2015,Jan,12,2015-01-12
+2981,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,13 Jan 2015,2015,Jan,13,2015-01-13
+2982,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,14 Dec 2014,2014,Dec,14,2014-12-14
+2983,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,16 Feb 2015,2015,Feb,16,2015-02-16
+2984,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,16 Jan 2015,2015,Jan,16,2015-01-16
+2985,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,17 Feb 2015,2015,Feb,17,2015-02-17
+2986,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,17 Mar 2015,2015,Mar,17,2015-03-17
+2987,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,17 Nov 2014,2014,Nov,17,2014-11-17
+2988,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,18 Feb 2015,2015,Feb,18,2015-02-18
+2989,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,18 Mar 2015,2015,Mar,18,2015-03-18
+2990,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,19 Feb 2015,2015,Feb,19,2015-02-19
+2991,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,20 Jan 2015,2015,Jan,20,2015-01-20
+2992,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,21 Feb 2015,2015,Feb,21,2015-02-21
+2993,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,21 Nov 2014,2014,Nov,21,2014-11-21
+2994,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,23 Mar 2015,2015,Mar,23,2015-03-23
+2995,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,29 Mar 2015,2015,Mar,29,2015-03-29
+2996,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,29 Nov 2014,2014,Nov,29,2014-11-29
+2997,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,31 Mar 2015,2015,Mar,31,2015-03-31
+2998,,Hailakandi,Hailakandi,Masur Dal,Masur Dal,FAQ,7000,7600,7400,31 Oct 2014,2014,Oct,31,2014-10-31
+2999,,Jorhat,Jorhat,Masur Dal,Other,FAQ,8000,9800,9600,18 Mar 2015,2015,Mar,18,2015-03-18

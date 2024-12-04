@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Cachar,Cachar,Potato,Potato,FAQ,1500,1700,1600,17 Mar 2022,2022,Mar,17,2022-03-17
 1,1.0,Cachar,Cachar,Potato,Potato,FAQ,1700,2500,2100,30 Apr 2022,2022,Apr,30,2022-04-30
 2,2.0,Cachar,Cachar,Potato,Potato,FAQ,1800,1900,1850,08 Apr 2022,2022,Apr,8,2022-04-08
@@ -10361,31 +10361,31 @@
 10359,10359.0,Tinsukia,Tinsukia,Potato,Potato,FAQ,750,850,800,18 Sep 2017,2017,Sep,18,2017-09-18
 10360,10360.0,Tinsukia,Tinsukia,Potato,Potato,FAQ,800,860,850,11 Oct 2017,2017,Oct,11,2017-10-11
 10361,10361.0,Tinsukia,Tinsukia,Potato,Potato,FAQ,800,950,900,14 Nov 2017,2017,Nov,14,2017-11-14
-10362,,Nalbari,Dhamdhama,Potato,Potato,Local,3100,3200,3200,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-10363,,Nalbari,Dhamdhama,Potato,Potato,Local,3100,3200,3200,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-10364,,Nalbari,Dhamdhama,Potato,Potato,Local,3150,3200,3200,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-10365,,Nalbari,Dhamdhama,Potato,Potato,Local,3150,3200,3200,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-10366,,Nalbari,Dhamdhama,Potato,Potato,Local,3200,3250,3250,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-10367,,Nalbari,Dhamdhama,Potato,Potato,Local,3600,3700,3700,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-10368,,Nalbari,Dhamdhama,Potato,Potato,Local,3700,3800,3800,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-10369,,Nalbari,Dhamdhama,Potato,Potato,Local,3800,3900,3900,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-10370,,Nalbari,Dhamdhama,Potato,Potato,Local,3900,4000,4000,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-10371,,Nalbari,Kumrikata,Potato,Potato,Local,3100,3200,3100,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-10372,,Nalbari,Kumrikata,Potato,Potato,Local,3200,3300,3300,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-10373,,Nalbari,Kumrikata,Potato,Potato,Local,3250,3300,3300,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-10374,,Nalbari,Kumrikata,Potato,Potato,Local,3800,3900,3800,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-10375,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-10376,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-10377,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-10378,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-10379,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-10380,,Nalbari,Nalbari,Potato,Potato,Local,3150,3200,3200,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-10381,,Nalbari,Nalbari,Potato,Potato,Local,3150,3200,3200,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-10382,,Nalbari,Nalbari,Potato,Potato,Local,3200,3300,3300,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-10383,,Nalbari,Nalbari,Potato,Potato,Local,3600,3650,3600,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-10384,,Nalbari,Nalbari,Potato,Potato,Local,3600,3700,3700,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-10385,,Nalbari,Nalbari,Potato,Potato,Local,3600,3700,3700,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-10386,,Nalbari,Nalbari,Potato,Potato,Local,3700,3800,3800,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-10387,,Nalbari,Nalbari,Potato,Potato,Local,3800,3850,3800,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-10388,,Nalbari,Nalbari,Potato,Potato,Local,3800,3900,3900,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-10389,,Nalbari,Nalbari,Potato,Potato,Local,3800,3900,3900,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
+10362,,Nalbari,Dhamdhama,Potato,Potato,Local,3100,3200,3200,11 Sep 2024,2024,Sep,11,2024-09-11
+10363,,Nalbari,Dhamdhama,Potato,Potato,Local,3100,3200,3200,14 Sep 2024,2024,Sep,14,2024-09-14
+10364,,Nalbari,Dhamdhama,Potato,Potato,Local,3150,3200,3200,04 Sep 2024,2024,Sep,4,2024-09-04
+10365,,Nalbari,Dhamdhama,Potato,Potato,Local,3150,3200,3200,18 Sep 2024,2024,Sep,18,2024-09-18
+10366,,Nalbari,Dhamdhama,Potato,Potato,Local,3200,3250,3250,07 Sep 2024,2024,Sep,7,2024-09-07
+10367,,Nalbari,Dhamdhama,Potato,Potato,Local,3600,3700,3700,25 Sep 2024,2024,Sep,25,2024-09-25
+10368,,Nalbari,Dhamdhama,Potato,Potato,Local,3700,3800,3800,28 Sep 2024,2024,Sep,28,2024-09-28
+10369,,Nalbari,Dhamdhama,Potato,Potato,Local,3800,3900,3900,21 Sep 2024,2024,Sep,21,2024-09-21
+10370,,Nalbari,Dhamdhama,Potato,Potato,Local,3900,4000,4000,03 Oct 2024,2024,Oct,3,2024-10-03
+10371,,Nalbari,Kumrikata,Potato,Potato,Local,3100,3200,3100,15 Sep 2024,2024,Sep,15,2024-09-15
+10372,,Nalbari,Kumrikata,Potato,Potato,Local,3200,3300,3300,08 Sep 2024,2024,Sep,8,2024-09-08
+10373,,Nalbari,Kumrikata,Potato,Potato,Local,3250,3300,3300,22 Sep 2024,2024,Sep,22,2024-09-22
+10374,,Nalbari,Kumrikata,Potato,Potato,Local,3800,3900,3800,29 Sep 2024,2024,Sep,29,2024-09-29
+10375,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,06 Sep 2024,2024,Sep,6,2024-09-06
+10376,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,10 Sep 2024,2024,Sep,10,2024-09-10
+10377,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,11 Sep 2024,2024,Sep,11,2024-09-11
+10378,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,12 Sep 2024,2024,Sep,12,2024-09-12
+10379,,Nalbari,Nalbari,Potato,Potato,Local,3100,3200,3200,13 Sep 2024,2024,Sep,13,2024-09-13
+10380,,Nalbari,Nalbari,Potato,Potato,Local,3150,3200,3200,05 Sep 2024,2024,Sep,5,2024-09-05
+10381,,Nalbari,Nalbari,Potato,Potato,Local,3150,3200,3200,17 Sep 2024,2024,Sep,17,2024-09-17
+10382,,Nalbari,Nalbari,Potato,Potato,Local,3200,3300,3300,09 Sep 2024,2024,Sep,9,2024-09-09
+10383,,Nalbari,Nalbari,Potato,Potato,Local,3600,3650,3600,19 Sep 2024,2024,Sep,19,2024-09-19
+10384,,Nalbari,Nalbari,Potato,Potato,Local,3600,3700,3700,24 Sep 2024,2024,Sep,24,2024-09-24
+10385,,Nalbari,Nalbari,Potato,Potato,Local,3600,3700,3700,26 Sep 2024,2024,Sep,26,2024-09-26
+10386,,Nalbari,Nalbari,Potato,Potato,Local,3700,3800,3800,01 Oct 2024,2024,Oct,1,2024-10-01
+10387,,Nalbari,Nalbari,Potato,Potato,Local,3800,3850,3800,20 Sep 2024,2024,Sep,20,2024-09-20
+10388,,Nalbari,Nalbari,Potato,Potato,Local,3800,3900,3900,23 Sep 2024,2024,Sep,23,2024-09-23
+10389,,Nalbari,Nalbari,Potato,Potato,Local,3800,3900,3900,30 Sep 2024,2024,Sep,30,2024-09-30

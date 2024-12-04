@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7300,7700,7500,01 Aug 2021,2021,Aug,1,2021-08-01
 1,1.0,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7300,7700,7500,02 Aug 2021,2021,Aug,2,2021-08-02
 2,2.0,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7300,7700,7500,02 Jul 2021,2021,Jul,2,2021-07-02
@@ -2450,298 +2450,298 @@
 2448,2448.0,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7800,8200,8000,23 Sep 2017,2017,Sep,23,2017-09-23
 2449,2449.0,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7800,8200,8000,24 Sep 2017,2017,Sep,24,2017-09-24
 2450,2450.0,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7800,8200,8000,25 Sep 2017,2017,Sep,25,2017-09-25
-2451,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-2452,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-2453,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-2454,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-2455,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-2456,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-2457,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-2458,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-2459,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-2460,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-2461,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-2462,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-2463,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-2464,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-2465,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-2466,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-2467,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-2468,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-2469,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-2470,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-2471,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-2472,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-2473,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-2474,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-2475,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-2476,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-2477,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-2478,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-2479,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-2480,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-2481,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-2482,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-2483,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-2484,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-2485,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-2486,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-2487,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-2488,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-2489,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-2490,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-2491,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-2492,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-2493,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-2494,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-2495,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-2496,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-2497,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-2498,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-2499,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-2500,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-2501,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-2502,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-2503,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-2504,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-2505,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-2506,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-2507,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-2508,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-2509,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-2510,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-2511,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-2512,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-2513,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-2514,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-2515,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-2516,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-2517,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-2518,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-2519,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-2520,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-2521,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-2522,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-2523,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-2524,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-2525,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-2526,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-2527,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-2528,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-2529,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-2530,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-2531,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-2532,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-2533,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-2534,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-2535,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-2536,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-2537,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-2538,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-2539,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-2540,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-2541,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-2542,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-2543,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-2544,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-2545,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-2546,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-2547,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-2548,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-2549,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-2550,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-2551,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-2552,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-2553,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-2554,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-2555,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-2556,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-2557,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-2558,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-2559,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-2560,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-2561,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-2562,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-2563,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-2564,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-2565,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-2566,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-2567,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-2568,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-2569,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-2570,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-2571,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-2572,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-2573,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-2574,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-2575,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-2576,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-2577,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-2578,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,17 Nov 2024,2024,Nov,17,2024-11-17 00:00:00
-2579,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-2580,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-2581,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-2582,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-2583,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-2584,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-2585,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-2586,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-2587,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-2588,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-2589,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-2590,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-2591,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-2592,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-2593,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-2594,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-2595,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-2596,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-2597,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-2598,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-2599,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-2600,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-2601,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-2602,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-2603,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-2604,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-2605,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-2606,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-2607,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-2608,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-2609,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-2610,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-2611,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-2612,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-2613,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-2614,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-2615,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-2616,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-2617,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-2618,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-2619,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-2620,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-2621,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-2622,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-2623,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-2624,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-2625,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-2626,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-2627,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-2628,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-2629,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-2630,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-2631,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-2632,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-2633,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-2634,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-2635,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-2636,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-2637,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-2638,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-2639,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-2640,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-2641,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-2642,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-2643,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-2644,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-2645,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-2646,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-2647,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-2648,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-2649,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-2650,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-2651,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-2652,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-2653,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-2654,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-2655,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-2656,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-2657,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-2658,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-2659,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-2660,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-2661,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-2662,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-2663,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-2664,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-2665,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-2666,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-2667,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-2668,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-2669,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-2670,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-2671,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-2672,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-2673,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-2674,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-2675,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-2676,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-2677,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-2678,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-2679,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-2680,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-2681,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-2682,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-2683,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-2684,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-2685,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-2686,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-2687,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-2688,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-2689,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-2690,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-2691,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-2692,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-2693,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-2694,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-2695,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-2696,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-2697,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-2698,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-2699,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-2700,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-2701,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-2702,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-2703,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-2704,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-2705,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-2706,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-2707,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-2708,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-2709,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-2710,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-2711,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-2712,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-2713,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-2714,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-2715,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-2716,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-2717,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-2718,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-2719,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-2720,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-2721,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-2722,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-2723,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-2724,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-2725,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-2726,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-2727,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-2728,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-2729,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-2730,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-2731,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,17 Nov 2024,2024,Nov,17,2024-11-17 00:00:00
-2732,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-2733,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-2734,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-2735,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-2736,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-2737,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-2738,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-2739,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-2740,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-2741,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-2742,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-2743,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-2744,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-2745,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,16800,17200,17000,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
+2451,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,01 Aug 2024,2024,Aug,1,2024-08-01
+2452,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,01 Jul 2024,2024,Jul,1,2024-07-01
+2453,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,02 Aug 2024,2024,Aug,2,2024-08-02
+2454,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,02 Jul 2024,2024,Jul,2,2024-07-02
+2455,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,03 Aug 2024,2024,Aug,3,2024-08-03
+2456,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,03 Jul 2024,2024,Jul,3,2024-07-03
+2457,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,04 Aug 2024,2024,Aug,4,2024-08-04
+2458,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,04 Jul 2024,2024,Jul,4,2024-07-04
+2459,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,05 Aug 2024,2024,Aug,5,2024-08-05
+2460,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,05 Jul 2024,2024,Jul,5,2024-07-05
+2461,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,06 Jul 2024,2024,Jul,6,2024-07-06
+2462,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,07 Jul 2024,2024,Jul,7,2024-07-07
+2463,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,08 Jul 2024,2024,Jul,8,2024-07-08
+2464,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,09 Jul 2024,2024,Jul,9,2024-07-09
+2465,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,10 Jul 2024,2024,Jul,10,2024-07-10
+2466,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,11 Jul 2024,2024,Jul,11,2024-07-11
+2467,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,12 Jul 2024,2024,Jul,12,2024-07-12
+2468,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,13 Jul 2024,2024,Jul,13,2024-07-13
+2469,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,14 Jul 2024,2024,Jul,14,2024-07-14
+2470,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,15 Jul 2024,2024,Jul,15,2024-07-15
+2471,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,16 Jul 2024,2024,Jul,16,2024-07-16
+2472,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,17 Jul 2024,2024,Jul,17,2024-07-17
+2473,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,18 Jul 2024,2024,Jul,18,2024-07-18
+2474,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,19 Jul 2024,2024,Jul,19,2024-07-19
+2475,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,20 Jul 2024,2024,Jul,20,2024-07-20
+2476,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,21 Jul 2024,2024,Jul,21,2024-07-21
+2477,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,22 Jul 2024,2024,Jul,22,2024-07-22
+2478,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,23 Jul 2024,2024,Jul,23,2024-07-23
+2479,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,24 Jul 2024,2024,Jul,24,2024-07-24
+2480,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,25 Jul 2024,2024,Jul,25,2024-07-25
+2481,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,26 Jul 2024,2024,Jul,26,2024-07-26
+2482,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,27 Jul 2024,2024,Jul,27,2024-07-27
+2483,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,28 Jul 2024,2024,Jul,28,2024-07-28
+2484,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,29 Jul 2024,2024,Jul,29,2024-07-29
+2485,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,30 Jul 2024,2024,Jul,30,2024-07-30
+2486,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8500,8000,31 Jul 2024,2024,Jul,31,2024-07-31
+2487,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,06 Aug 2024,2024,Aug,6,2024-08-06
+2488,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,07 Aug 2024,2024,Aug,7,2024-08-07
+2489,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,08 Aug 2024,2024,Aug,8,2024-08-08
+2490,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,09 Aug 2024,2024,Aug,9,2024-08-09
+2491,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,10 Aug 2024,2024,Aug,10,2024-08-10
+2492,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,11 Aug 2024,2024,Aug,11,2024-08-11
+2493,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,12 Aug 2024,2024,Aug,12,2024-08-12
+2494,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,13 Aug 2024,2024,Aug,13,2024-08-13
+2495,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,14 Aug 2024,2024,Aug,14,2024-08-14
+2496,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,15 Aug 2024,2024,Aug,15,2024-08-15
+2497,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,16 Aug 2024,2024,Aug,16,2024-08-16
+2498,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,17 Aug 2024,2024,Aug,17,2024-08-17
+2499,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,18 Aug 2024,2024,Aug,18,2024-08-18
+2500,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,19 Aug 2024,2024,Aug,19,2024-08-19
+2501,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,20 Aug 2024,2024,Aug,20,2024-08-20
+2502,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,21 Aug 2024,2024,Aug,21,2024-08-21
+2503,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,22 Aug 2024,2024,Aug,22,2024-08-22
+2504,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,23 Aug 2024,2024,Aug,23,2024-08-23
+2505,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,24 Aug 2024,2024,Aug,24,2024-08-24
+2506,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,25 Aug 2024,2024,Aug,25,2024-08-25
+2507,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,26 Aug 2024,2024,Aug,26,2024-08-26
+2508,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,27 Aug 2024,2024,Aug,27,2024-08-27
+2509,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,28 Aug 2024,2024,Aug,28,2024-08-28
+2510,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,01 Oct 2024,2024,Oct,1,2024-10-01
+2511,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,01 Sep 2024,2024,Sep,1,2024-09-01
+2512,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,02 Oct 2024,2024,Oct,2,2024-10-02
+2513,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,02 Sep 2024,2024,Sep,2,2024-09-02
+2514,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,03 Oct 2024,2024,Oct,3,2024-10-03
+2515,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,03 Sep 2024,2024,Sep,3,2024-09-03
+2516,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,04 Oct 2024,2024,Oct,4,2024-10-04
+2517,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,04 Sep 2024,2024,Sep,4,2024-09-04
+2518,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,05 Oct 2024,2024,Oct,5,2024-10-05
+2519,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,05 Sep 2024,2024,Sep,5,2024-09-05
+2520,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,06 Oct 2024,2024,Oct,6,2024-10-06
+2521,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,06 Sep 2024,2024,Sep,6,2024-09-06
+2522,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,07 Oct 2024,2024,Oct,7,2024-10-07
+2523,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,07 Sep 2024,2024,Sep,7,2024-09-07
+2524,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,08 Oct 2024,2024,Oct,8,2024-10-08
+2525,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,08 Sep 2024,2024,Sep,8,2024-09-08
+2526,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,09 Oct 2024,2024,Oct,9,2024-10-09
+2527,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,09 Sep 2024,2024,Sep,9,2024-09-09
+2528,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,10 Oct 2024,2024,Oct,10,2024-10-10
+2529,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,10 Sep 2024,2024,Sep,10,2024-09-10
+2530,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,11 Oct 2024,2024,Oct,11,2024-10-11
+2531,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,11 Sep 2024,2024,Sep,11,2024-09-11
+2532,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,12 Oct 2024,2024,Oct,12,2024-10-12
+2533,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,12 Sep 2024,2024,Sep,12,2024-09-12
+2534,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,13 Oct 2024,2024,Oct,13,2024-10-13
+2535,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,13 Sep 2024,2024,Sep,13,2024-09-13
+2536,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,14 Oct 2024,2024,Oct,14,2024-10-14
+2537,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,14 Sep 2024,2024,Sep,14,2024-09-14
+2538,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,15 Oct 2024,2024,Oct,15,2024-10-15
+2539,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,15 Sep 2024,2024,Sep,15,2024-09-15
+2540,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,16 Oct 2024,2024,Oct,16,2024-10-16
+2541,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,16 Sep 2024,2024,Sep,16,2024-09-16
+2542,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,17 Oct 2024,2024,Oct,17,2024-10-17
+2543,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,17 Sep 2024,2024,Sep,17,2024-09-17
+2544,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,18 Oct 2024,2024,Oct,18,2024-10-18
+2545,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,18 Sep 2024,2024,Sep,18,2024-09-18
+2546,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,19 Oct 2024,2024,Oct,19,2024-10-19
+2547,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,19 Sep 2024,2024,Sep,19,2024-09-19
+2548,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,20 Oct 2024,2024,Oct,20,2024-10-20
+2549,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,20 Sep 2024,2024,Sep,20,2024-09-20
+2550,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,21 Oct 2024,2024,Oct,21,2024-10-21
+2551,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,21 Sep 2024,2024,Sep,21,2024-09-21
+2552,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,22 Sep 2024,2024,Sep,22,2024-09-22
+2553,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,23 Sep 2024,2024,Sep,23,2024-09-23
+2554,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,24 Sep 2024,2024,Sep,24,2024-09-24
+2555,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,25 Sep 2024,2024,Sep,25,2024-09-25
+2556,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,26 Sep 2024,2024,Sep,26,2024-09-26
+2557,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,27 Sep 2024,2024,Sep,27,2024-09-27
+2558,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,28 Sep 2024,2024,Sep,28,2024-09-28
+2559,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,29 Aug 2024,2024,Aug,29,2024-08-29
+2560,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,29 Sep 2024,2024,Sep,29,2024-09-29
+2561,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,30 Aug 2024,2024,Aug,30,2024-08-30
+2562,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,30 Sep 2024,2024,Sep,30,2024-09-30
+2563,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,31 Aug 2024,2024,Aug,31,2024-08-31
+2564,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,01 Dec 2024,2024,Dec,1,2024-12-01
+2565,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,02 Dec 2024,2024,Dec,2,2024-12-02
+2566,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,03 Dec 2024,2024,Dec,3,2024-12-03
+2567,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,04 Nov 2024,2024,Nov,4,2024-11-04
+2568,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,05 Nov 2024,2024,Nov,5,2024-11-05
+2569,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,06 Nov 2024,2024,Nov,6,2024-11-06
+2570,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,09 Nov 2024,2024,Nov,9,2024-11-09
+2571,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,10 Nov 2024,2024,Nov,10,2024-11-10
+2572,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11
+2573,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12
+2574,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,13 Nov 2024,2024,Nov,13,2024-11-13
+2575,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,14 Nov 2024,2024,Nov,14,2024-11-14
+2576,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,15 Nov 2024,2024,Nov,15,2024-11-15
+2577,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,16 Nov 2024,2024,Nov,16,2024-11-16
+2578,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,17 Nov 2024,2024,Nov,17,2024-11-17
+2579,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,18 Nov 2024,2024,Nov,18,2024-11-18
+2580,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,19 Nov 2024,2024,Nov,19,2024-11-19
+2581,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,20 Nov 2024,2024,Nov,20,2024-11-20
+2582,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,21 Nov 2024,2024,Nov,21,2024-11-21
+2583,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,22 Nov 2024,2024,Nov,22,2024-11-22
+2584,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,22 Oct 2024,2024,Oct,22,2024-10-22
+2585,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,23 Nov 2024,2024,Nov,23,2024-11-23
+2586,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,23 Oct 2024,2024,Oct,23,2024-10-23
+2587,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,24 Nov 2024,2024,Nov,24,2024-11-24
+2588,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,24 Oct 2024,2024,Oct,24,2024-10-24
+2589,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,25 Nov 2024,2024,Nov,25,2024-11-25
+2590,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,25 Oct 2024,2024,Oct,25,2024-10-25
+2591,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,26 Nov 2024,2024,Nov,26,2024-11-26
+2592,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,26 Oct 2024,2024,Oct,26,2024-10-26
+2593,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,27 Nov 2024,2024,Nov,27,2024-11-27
+2594,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,27 Oct 2024,2024,Oct,27,2024-10-27
+2595,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,28 Nov 2024,2024,Nov,28,2024-11-28
+2596,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,28 Oct 2024,2024,Oct,28,2024-10-28
+2597,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,29 Oct 2024,2024,Oct,29,2024-10-29
+2598,,Medinipur(W),Garbeta(Medinipur),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,30 Nov 2024,2024,Nov,30,2024-11-30
+2599,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,01 Jul 2024,2024,Jul,1,2024-07-01
+2600,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,02 Jul 2024,2024,Jul,2,2024-07-02
+2601,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,03 Jul 2024,2024,Jul,3,2024-07-03
+2602,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,04 Jul 2024,2024,Jul,4,2024-07-04
+2603,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,05 Jul 2024,2024,Jul,5,2024-07-05
+2604,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,06 Jul 2024,2024,Jul,6,2024-07-06
+2605,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,07 Jul 2024,2024,Jul,7,2024-07-07
+2606,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,08 Jul 2024,2024,Jul,8,2024-07-08
+2607,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,09 Jul 2024,2024,Jul,9,2024-07-09
+2608,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,10 Jul 2024,2024,Jul,10,2024-07-10
+2609,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,11 Jul 2024,2024,Jul,11,2024-07-11
+2610,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,12 Jul 2024,2024,Jul,12,2024-07-12
+2611,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,13 Jul 2024,2024,Jul,13,2024-07-13
+2612,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,14 Jul 2024,2024,Jul,14,2024-07-14
+2613,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,15 Jul 2024,2024,Jul,15,2024-07-15
+2614,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,16 Jul 2024,2024,Jul,16,2024-07-16
+2615,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,17 Jul 2024,2024,Jul,17,2024-07-17
+2616,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,18 Jul 2024,2024,Jul,18,2024-07-18
+2617,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,19 Jul 2024,2024,Jul,19,2024-07-19
+2618,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9300,9700,9500,20 Jul 2024,2024,Jul,20,2024-07-20
+2619,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,01 Aug 2024,2024,Aug,1,2024-08-01
+2620,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,01 Nov 2024,2024,Nov,1,2024-11-01
+2621,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,01 Oct 2024,2024,Oct,1,2024-10-01
+2622,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,01 Sep 2024,2024,Sep,1,2024-09-01
+2623,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,02 Aug 2024,2024,Aug,2,2024-08-02
+2624,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,02 Nov 2024,2024,Nov,2,2024-11-02
+2625,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,02 Oct 2024,2024,Oct,2,2024-10-02
+2626,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,02 Sep 2024,2024,Sep,2,2024-09-02
+2627,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,03 Nov 2024,2024,Nov,3,2024-11-03
+2628,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,03 Oct 2024,2024,Oct,3,2024-10-03
+2629,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,03 Sep 2024,2024,Sep,3,2024-09-03
+2630,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,04 Oct 2024,2024,Oct,4,2024-10-04
+2631,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,04 Sep 2024,2024,Sep,4,2024-09-04
+2632,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,05 Nov 2024,2024,Nov,5,2024-11-05
+2633,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,05 Oct 2024,2024,Oct,5,2024-10-05
+2634,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,05 Sep 2024,2024,Sep,5,2024-09-05
+2635,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,06 Aug 2024,2024,Aug,6,2024-08-06
+2636,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,06 Oct 2024,2024,Oct,6,2024-10-06
+2637,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,06 Sep 2024,2024,Sep,6,2024-09-06
+2638,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,07 Aug 2024,2024,Aug,7,2024-08-07
+2639,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,07 Nov 2024,2024,Nov,7,2024-11-07
+2640,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,07 Oct 2024,2024,Oct,7,2024-10-07
+2641,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,07 Sep 2024,2024,Sep,7,2024-09-07
+2642,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,08 Aug 2024,2024,Aug,8,2024-08-08
+2643,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,08 Nov 2024,2024,Nov,8,2024-11-08
+2644,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,08 Oct 2024,2024,Oct,8,2024-10-08
+2645,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,08 Sep 2024,2024,Sep,8,2024-09-08
+2646,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,09 Aug 2024,2024,Aug,9,2024-08-09
+2647,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,09 Nov 2024,2024,Nov,9,2024-11-09
+2648,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,09 Oct 2024,2024,Oct,9,2024-10-09
+2649,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,09 Sep 2024,2024,Sep,9,2024-09-09
+2650,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,10 Aug 2024,2024,Aug,10,2024-08-10
+2651,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,10 Nov 2024,2024,Nov,10,2024-11-10
+2652,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,10 Oct 2024,2024,Oct,10,2024-10-10
+2653,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,10 Sep 2024,2024,Sep,10,2024-09-10
+2654,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,11 Aug 2024,2024,Aug,11,2024-08-11
+2655,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,11 Oct 2024,2024,Oct,11,2024-10-11
+2656,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,11 Sep 2024,2024,Sep,11,2024-09-11
+2657,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,12 Aug 2024,2024,Aug,12,2024-08-12
+2658,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,12 Oct 2024,2024,Oct,12,2024-10-12
+2659,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,12 Sep 2024,2024,Sep,12,2024-09-12
+2660,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,13 Aug 2024,2024,Aug,13,2024-08-13
+2661,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,13 Oct 2024,2024,Oct,13,2024-10-13
+2662,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,13 Sep 2024,2024,Sep,13,2024-09-13
+2663,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,14 Sep 2024,2024,Sep,14,2024-09-14
+2664,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,15 Aug 2024,2024,Aug,15,2024-08-15
+2665,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,15 Sep 2024,2024,Sep,15,2024-09-15
+2666,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,16 Aug 2024,2024,Aug,16,2024-08-16
+2667,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,16 Oct 2024,2024,Oct,16,2024-10-16
+2668,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,16 Sep 2024,2024,Sep,16,2024-09-16
+2669,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,17 Aug 2024,2024,Aug,17,2024-08-17
+2670,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,17 Oct 2024,2024,Oct,17,2024-10-17
+2671,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,17 Sep 2024,2024,Sep,17,2024-09-17
+2672,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,18 Aug 2024,2024,Aug,18,2024-08-18
+2673,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,18 Oct 2024,2024,Oct,18,2024-10-18
+2674,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,18 Sep 2024,2024,Sep,18,2024-09-18
+2675,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,19 Aug 2024,2024,Aug,19,2024-08-19
+2676,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,19 Oct 2024,2024,Oct,19,2024-10-19
+2677,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,19 Sep 2024,2024,Sep,19,2024-09-19
+2678,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,20 Aug 2024,2024,Aug,20,2024-08-20
+2679,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,20 Oct 2024,2024,Oct,20,2024-10-20
+2680,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,20 Sep 2024,2024,Sep,20,2024-09-20
+2681,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,21 Aug 2024,2024,Aug,21,2024-08-21
+2682,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,21 Jul 2024,2024,Jul,21,2024-07-21
+2683,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,21 Oct 2024,2024,Oct,21,2024-10-21
+2684,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,21 Sep 2024,2024,Sep,21,2024-09-21
+2685,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,22 Aug 2024,2024,Aug,22,2024-08-22
+2686,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,22 Jul 2024,2024,Jul,22,2024-07-22
+2687,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,22 Oct 2024,2024,Oct,22,2024-10-22
+2688,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,22 Sep 2024,2024,Sep,22,2024-09-22
+2689,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,23 Aug 2024,2024,Aug,23,2024-08-23
+2690,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,23 Jul 2024,2024,Jul,23,2024-07-23
+2691,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,23 Oct 2024,2024,Oct,23,2024-10-23
+2692,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,23 Sep 2024,2024,Sep,23,2024-09-23
+2693,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,24 Aug 2024,2024,Aug,24,2024-08-24
+2694,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,24 Jul 2024,2024,Jul,24,2024-07-24
+2695,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,24 Oct 2024,2024,Oct,24,2024-10-24
+2696,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,24 Sep 2024,2024,Sep,24,2024-09-24
+2697,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,25 Jul 2024,2024,Jul,25,2024-07-25
+2698,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,25 Oct 2024,2024,Oct,25,2024-10-25
+2699,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,25 Sep 2024,2024,Sep,25,2024-09-25
+2700,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,26 Aug 2024,2024,Aug,26,2024-08-26
+2701,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,26 Jul 2024,2024,Jul,26,2024-07-26
+2702,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,26 Oct 2024,2024,Oct,26,2024-10-26
+2703,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,26 Sep 2024,2024,Sep,26,2024-09-26
+2704,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,27 Aug 2024,2024,Aug,27,2024-08-27
+2705,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,27 Jul 2024,2024,Jul,27,2024-07-27
+2706,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,27 Oct 2024,2024,Oct,27,2024-10-27
+2707,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,27 Sep 2024,2024,Sep,27,2024-09-27
+2708,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,28 Aug 2024,2024,Aug,28,2024-08-28
+2709,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,28 Jul 2024,2024,Jul,28,2024-07-28
+2710,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,28 Oct 2024,2024,Oct,28,2024-10-28
+2711,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,28 Sep 2024,2024,Sep,28,2024-09-28
+2712,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,29 Aug 2024,2024,Aug,29,2024-08-29
+2713,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,29 Jul 2024,2024,Jul,29,2024-07-29
+2714,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,29 Oct 2024,2024,Oct,29,2024-10-29
+2715,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,29 Sep 2024,2024,Sep,29,2024-09-29
+2716,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,30 Aug 2024,2024,Aug,30,2024-08-30
+2717,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,30 Jul 2024,2024,Jul,30,2024-07-30
+2718,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,30 Oct 2024,2024,Oct,30,2024-10-30
+2719,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,30 Sep 2024,2024,Sep,30,2024-09-30
+2720,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,31 Aug 2024,2024,Aug,31,2024-08-31
+2721,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9800,10200,10000,31 Jul 2024,2024,Jul,31,2024-07-31
+2722,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,01 Dec 2024,2024,Dec,1,2024-12-01
+2723,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,02 Dec 2024,2024,Dec,2,2024-12-02
+2724,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,03 Dec 2024,2024,Dec,3,2024-12-03
+2725,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,11 Nov 2024,2024,Nov,11,2024-11-11
+2726,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,12 Nov 2024,2024,Nov,12,2024-11-12
+2727,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,13 Nov 2024,2024,Nov,13,2024-11-13
+2728,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,14 Nov 2024,2024,Nov,14,2024-11-14
+2729,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,15 Nov 2024,2024,Nov,15,2024-11-15
+2730,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,16 Nov 2024,2024,Nov,16,2024-11-16
+2731,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,17 Nov 2024,2024,Nov,17,2024-11-17
+2732,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,18 Nov 2024,2024,Nov,18,2024-11-18
+2733,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,19 Nov 2024,2024,Nov,19,2024-11-19
+2734,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,20 Nov 2024,2024,Nov,20,2024-11-20
+2735,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,21 Nov 2024,2024,Nov,21,2024-11-21
+2736,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,22 Nov 2024,2024,Nov,22,2024-11-22
+2737,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,23 Nov 2024,2024,Nov,23,2024-11-23
+2738,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,24 Nov 2024,2024,Nov,24,2024-11-24
+2739,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,25 Nov 2024,2024,Nov,25,2024-11-25
+2740,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,26 Nov 2024,2024,Nov,26,2024-11-26
+2741,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,27 Nov 2024,2024,Nov,27,2024-11-27
+2742,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,28 Nov 2024,2024,Nov,28,2024-11-28
+2743,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,29 Nov 2024,2024,Nov,29,2024-11-29
+2744,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10300,10700,10500,30 Nov 2024,2024,Nov,30,2024-11-30
+2745,,Howrah,Ramkrishanpur(Howrah),Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,16800,17200,17000,04 Nov 2024,2024,Nov,4,2024-11-04

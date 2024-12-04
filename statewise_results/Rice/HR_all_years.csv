@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,08 Oct 2019,2019,Oct,8,2019-10-08
 1,1.0,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,16 Oct 2019,2019,Oct,16,2019-10-16
 2,2.0,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,14 Oct 2019,2019,Oct,14,2019-10-14
@@ -7,11 +7,11 @@
 5,5.0,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,12 Oct 2019,2019,Oct,12,2019-10-12
 6,6.0,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,15 Oct 2019,2019,Oct,15,2019-10-15
 7,7.0,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,04 Oct 2019,2019,Oct,4,2019-10-04
-8,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,08 Oct 2019,2019,Oct,08,2019-10-08 00:00:00
-9,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,16 Oct 2019,2019,Oct,16,2019-10-16 00:00:00
-10,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,14 Oct 2019,2019,Oct,14,2019-10-14 00:00:00
-11,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,07 Oct 2019,2019,Oct,07,2019-10-07 00:00:00
-12,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,09 Oct 2019,2019,Oct,09,2019-10-09 00:00:00
-13,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,12 Oct 2019,2019,Oct,12,2019-10-12 00:00:00
-14,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,15 Oct 2019,2019,Oct,15,2019-10-15 00:00:00
-15,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,04 Oct 2019,2019,Oct,04,2019-10-04 00:00:00
+8,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,08 Oct 2019,2019,Oct,8,2019-10-08
+9,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,16 Oct 2019,2019,Oct,16,2019-10-16
+10,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,14 Oct 2019,2019,Oct,14,2019-10-14
+11,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,07 Oct 2019,2019,Oct,7,2019-10-07
+12,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,09 Oct 2019,2019,Oct,9,2019-10-09
+13,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,12 Oct 2019,2019,Oct,12,2019-10-12
+14,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,15 Oct 2019,2019,Oct,15,2019-10-15
+15,,Fatehabad,Fatehabad,Rice,Parmal (Paddy),FAQ,1835,1835,1835,04 Oct 2019,2019,Oct,4,2019-10-04

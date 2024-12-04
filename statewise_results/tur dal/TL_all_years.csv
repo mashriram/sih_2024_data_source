@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4270,5100,4900,07 Mar 2022,2022,Mar,7,2022-03-07
 1,1.0,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4350,4880,4880,24 Mar 2022,2022,Mar,24,2022-03-24
 2,2.0,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4350,5725,5000,04 Mar 2022,2022,Mar,4,2022-03-04
@@ -104,9 +104,9 @@
 102,102.0,Karimnagar,Karimnagar,Arhar Dal(Tur Dal),Medium,Medium,3060,3060,3060,29 Nov 2017,2017,Nov,29,2017-11-29
 103,103.0,Karimnagar,Karimnagar,Arhar Dal(Tur Dal),Other,Medium,3511,3511,3511,09 Jan 2018,2018,Jan,9,2018-01-09
 104,104.0,Karimnagar,Karimnagar,Arhar Dal(Tur Dal),Other,Medium,3761,3761,3761,10 Jan 2018,2018,Jan,10,2018-01-10
-105,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2300,2300,2300,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-106,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5400,5400,5400,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-107,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8503,10000,8503,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-108,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8687,8687,8687,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-109,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8803,8803,8803,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-110,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8888,8888,8888,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
+105,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2300,2300,2300,25 Aug 2024,2024,Aug,25,2024-08-25
+106,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5400,5400,5400,30 Jul 2024,2024,Jul,30,2024-07-30
+107,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8503,10000,8503,18 Jul 2024,2024,Jul,18,2024-07-18
+108,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8687,8687,8687,08 Jul 2024,2024,Jul,8,2024-07-08
+109,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8803,8803,8803,22 Jul 2024,2024,Jul,22,2024-07-22
+110,,Nizamabad,Nizamabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8888,8888,8888,03 Jul 2024,2024,Jul,3,2024-07-03

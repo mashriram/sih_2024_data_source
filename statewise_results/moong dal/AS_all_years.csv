@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Barpeta,Bohorihat,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,7000,6700,30 Aug 2017,2017,Aug,30,2017-08-30
 1,1.0,Barpeta,Bohorihat,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,7000,6800,10 Aug 2017,2017,Aug,10,2017-08-10
 2,2.0,Goalpara,Goalpara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,8500,7900,01 Oct 2016,2016,Oct,1,2016-10-01
@@ -2058,11 +2058,11 @@
 2056,2056.0,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7800,7500,21 Sep 2017,2017,Sep,21,2017-09-21
 2057,2057.0,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7800,7500,22 Sep 2017,2017,Sep,22,2017-09-22
 2058,2058.0,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7800,7500,23 Sep 2017,2017,Sep,23,2017-09-23
-2059,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,01 Sep 2016,2016,Sep,01,2016-09-01 00:00:00
-2060,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,28 Aug 2016,2016,Aug,28,2016-08-28 00:00:00
-2061,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,29 Aug 2016,2016,Aug,29,2016-08-29 00:00:00
-2062,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,30 Aug 2016,2016,Aug,30,2016-08-30 00:00:00
-2063,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,31 Aug 2016,2016,Aug,31,2016-08-31 00:00:00
-2064,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8600,8300,25 Aug 2016,2016,Aug,25,2016-08-25 00:00:00
-2065,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8600,8300,26 Aug 2016,2016,Aug,26,2016-08-26 00:00:00
-2066,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8600,8300,27 Aug 2016,2016,Aug,27,2016-08-27 00:00:00
+2059,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,01 Sep 2016,2016,Sep,1,2016-09-01
+2060,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,28 Aug 2016,2016,Aug,28,2016-08-28
+2061,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,29 Aug 2016,2016,Aug,29,2016-08-29
+2062,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,30 Aug 2016,2016,Aug,30,2016-08-30
+2063,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7800,7300,31 Aug 2016,2016,Aug,31,2016-08-31
+2064,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8600,8300,25 Aug 2016,2016,Aug,25,2016-08-25
+2065,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8600,8300,26 Aug 2016,2016,Aug,26,2016-08-26
+2066,,Kamrup,P.O. Uparhali Guwahati,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8600,8300,27 Aug 2016,2016,Aug,27,2016-08-27

@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Hanumangarh,Hanumangarh Town,Rice,Other,FAQ,3102.0,3215.0,3175,09 Jan 2019,2019,Jan,9,2019-01-09
 1,1.0,Hanumangarh,Hanumangarh,Rice,Basmati Paddy,FAQ,3100.0,4861.0,4821,06 Dec 2023,2023,Dec,6,2023-12-06
 2,2.0,Hanumangarh,Hanumangarh,Rice,Basmati Paddy,FAQ,4110.0,4801.0,4725,09 Dec 2023,2023,Dec,9,2023-12-09
@@ -11,4 +11,4 @@
 9,9.0,Hanumangarh,Hanumangarh,Rice,Basmati Paddy,FAQ,4521.0,4863.0,4825,08 Dec 2023,2023,Dec,8,2023-12-08
 10,10.0,Hanumangarh,Hanumangarh,Rice,Basmati Paddy,FAQ,3900.0,4920.0,4865,05 Dec 2023,2023,Dec,5,2023-12-05
 11,11.0,Hanumangarh,Hanumangarh,Rice,Basmati Paddy,FAQ,3150.0,4411.0,4411,19 Jan 2024,2024,Jan,19,2024-01-19
-12,,Hanumangarh,Hanumangarh Town,Rice,Other,FAQ,3102.0,3215.0,3175,09 Jan 2019,2019,Jan,09,2019-01-09 00:00:00
+12,,Hanumangarh,Hanumangarh Town,Rice,Other,FAQ,3102.0,3215.0,3175,09 Jan 2019,2019,Jan,9,2019-01-09

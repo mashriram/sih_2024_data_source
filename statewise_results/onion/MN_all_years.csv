@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Imphal West,Imphal,Onion,Other,FAQ,3000,4000,3500,25 Feb 2021,2021,Feb,25,2021-02-25
 1,1.0,Imphal West,Imphal,Onion,Other,FAQ,3000,4000,3500,26 Feb 2021,2021,Feb,26,2021-02-26
 2,2.0,Imphal West,Imphal,Onion,Other,FAQ,3000,4000,3500,27 Feb 2021,2021,Feb,27,2021-02-27
@@ -6213,349 +6213,349 @@
 6211,6211.0,Thoubal,Thoubal,Onion,Other,FAQ,7300,7500,7500,05 Dec 2017,2017,Dec,5,2017-12-05
 6212,6212.0,Thoubal,Thoubal,Onion,Other,FAQ,7300,7500,7500,06 Dec 2017,2017,Dec,6,2017-12-06
 6213,6213.0,Thoubal,Thoubal,Onion,Other,FAQ,7300,7500,7500,07 Dec 2017,2017,Dec,7,2017-12-07
-6214,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6215,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6216,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6217,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6218,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6219,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6220,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6221,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6222,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6223,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6224,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6225,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6226,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6227,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6228,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6229,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6230,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-6231,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6232,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6233,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6234,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6235,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6236,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6237,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6238,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6239,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6240,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6241,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6242,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6243,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6244,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6245,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6246,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6247,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6248,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6249,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6250,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6251,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6252,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6253,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6254,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6255,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6256,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6257,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6258,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6259,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6260,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6261,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6262,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6263,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6264,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6265,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6266,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6267,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6268,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6269,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6270,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6271,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6272,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6273,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6274,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6275,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6276,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6277,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6278,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6279,,Bishnupur,Bishenpur,Onion,Onion,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6280,,Bishnupur,Bishenpur,Onion,Onion,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6281,,Bishnupur,Bishenpur,Onion,Onion,FAQ,9000,10000,9500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6282,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6283,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6284,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6285,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6286,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6287,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6288,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6289,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6290,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6291,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6292,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6293,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6294,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6295,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6296,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-6297,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-6298,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6299,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6300,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6301,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6302,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6303,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6304,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6305,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6306,,Imphal West,Imphal,Onion,Other,FAQ,4800,5500,5150,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6307,,Imphal West,Imphal,Onion,Other,FAQ,4800,5500,5150,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6308,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6309,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6310,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6311,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6312,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6313,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6314,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6315,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6316,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6317,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6318,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6319,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6320,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6321,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6322,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6323,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6324,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6325,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6326,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6327,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6328,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6329,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6330,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6331,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6332,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6333,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6334,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6335,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6336,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6337,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6338,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6339,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6340,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6341,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6342,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6343,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6344,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6345,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6346,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6347,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6348,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6349,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6350,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6351,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6352,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6353,,Imphal West,Imphal,Onion,Other,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6354,,Imphal West,Imphal,Onion,Other,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6355,,Imphal West,Imphal,Onion,Other,FAQ,9000,10000,9500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6356,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6357,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6358,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6359,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6360,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6361,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6362,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-6363,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6364,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6365,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6366,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6367,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6368,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6369,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6370,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6371,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6372,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6373,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6374,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6375,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6376,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6377,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6378,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6379,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6380,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6381,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6382,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6383,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6384,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6385,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6386,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6387,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6388,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6389,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6390,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6391,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6392,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6393,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6394,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6395,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6396,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6397,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6398,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6399,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6400,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6401,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6402,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6403,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6404,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6405,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6406,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6407,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6408,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6409,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6410,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6411,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6412,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6413,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6414,,Kakching,Kakching Market,Onion,Red,FAQ,7500,8000,7750,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6415,,Kakching,Kakching Market,Onion,Red,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6416,,Kakching,Kakching Market,Onion,Red,FAQ,11500,12000,11750,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6417,,Kakching,Kakching Market,Onion,Red,FAQ,11500,12000,11750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6418,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6419,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6420,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6421,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6422,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6423,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6424,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6425,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6426,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6427,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6428,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6429,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6430,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6431,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-6432,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-6433,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6434,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6435,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6436,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6437,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6438,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6439,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6440,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6441,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4800,5500,5150,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6442,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4800,5500,5150,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6443,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4800,5500,5150,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6444,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6445,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6446,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6447,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6448,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6449,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6450,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6451,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6452,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6453,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6454,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6455,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6456,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6457,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6458,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6459,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6460,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6461,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6462,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6463,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6464,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6465,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6466,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6467,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6468,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6469,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6470,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6471,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6472,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6473,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6474,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6475,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6476,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6477,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6478,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6479,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6480,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6481,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6482,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6483,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6484,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6485,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6486,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6487,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6488,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6489,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6490,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,8000,7500,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6491,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6492,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6493,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,9000,10000,9500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6494,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6495,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6496,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6497,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6498,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6499,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6500,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6501,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6502,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6503,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-6504,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6505,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6506,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6507,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6508,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6509,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6510,,Thoubal,Thoubal,Onion,Other,FAQ,5000,5500,5250,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6511,,Thoubal,Thoubal,Onion,Other,FAQ,5000,5500,5250,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6512,,Thoubal,Thoubal,Onion,Other,FAQ,5000,5500,5250,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6513,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6514,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6515,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6516,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6517,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6518,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6519,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6520,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6521,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6522,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6523,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6524,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6525,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6526,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6527,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6528,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6529,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6530,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6531,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6532,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6533,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6534,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6535,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6536,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6537,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6538,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6539,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6540,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6541,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6542,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6543,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6544,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6545,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6546,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6547,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6548,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6549,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6550,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6551,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6552,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6553,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6554,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6555,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6556,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6557,,Thoubal,Thoubal,Onion,Other,FAQ,7500,8000,7750,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6558,,Thoubal,Thoubal,Onion,Other,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6559,,Thoubal,Thoubal,Onion,Other,FAQ,9500,10000,9750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
+6214,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,01 Aug 2024,2024,Aug,1,2024-08-01
+6215,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,01 Jul 2024,2024,Jul,1,2024-07-01
+6216,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,02 Aug 2024,2024,Aug,2,2024-08-02
+6217,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,06 Aug 2024,2024,Aug,6,2024-08-06
+6218,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,07 Aug 2024,2024,Aug,7,2024-08-07
+6219,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,08 Aug 2024,2024,Aug,8,2024-08-08
+6220,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,09 Aug 2024,2024,Aug,9,2024-08-09
+6221,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,09 Jul 2024,2024,Jul,9,2024-07-09
+6222,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,10 Jul 2024,2024,Jul,10,2024-07-10
+6223,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,11 Jul 2024,2024,Jul,11,2024-07-11
+6224,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,12 Aug 2024,2024,Aug,12,2024-08-12
+6225,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,12 Jul 2024,2024,Jul,12,2024-07-12
+6226,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,14 Aug 2024,2024,Aug,14,2024-08-14
+6227,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,15 Jul 2024,2024,Jul,15,2024-07-15
+6228,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,18 Jul 2024,2024,Jul,18,2024-07-18
+6229,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,19 Jul 2024,2024,Jul,19,2024-07-19
+6230,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,22 Jul 2024,2024,Jul,22,2024-07-22
+6231,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,23 Jul 2024,2024,Jul,23,2024-07-23
+6232,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,25 Jul 2024,2024,Jul,25,2024-07-25
+6233,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,26 Jul 2024,2024,Jul,26,2024-07-26
+6234,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,29 Jul 2024,2024,Jul,29,2024-07-29
+6235,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,30 Jul 2024,2024,Jul,30,2024-07-30
+6236,,Bishnupur,Bishenpur,Onion,Onion,FAQ,4500,5000,4750,31 Jul 2024,2024,Jul,31,2024-07-31
+6237,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,19 Aug 2024,2024,Aug,19,2024-08-19
+6238,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,20 Aug 2024,2024,Aug,20,2024-08-20
+6239,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,21 Aug 2024,2024,Aug,21,2024-08-21
+6240,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,22 Aug 2024,2024,Aug,22,2024-08-22
+6241,,Bishnupur,Bishenpur,Onion,Onion,FAQ,5500,6000,5750,23 Aug 2024,2024,Aug,23,2024-08-23
+6242,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,01 Oct 2024,2024,Oct,1,2024-10-01
+6243,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,02 Sep 2024,2024,Sep,2,2024-09-02
+6244,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,03 Sep 2024,2024,Sep,3,2024-09-03
+6245,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,04 Nov 2024,2024,Nov,4,2024-11-04
+6246,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,04 Oct 2024,2024,Oct,4,2024-10-04
+6247,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,05 Nov 2024,2024,Nov,5,2024-11-05
+6248,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,05 Sep 2024,2024,Sep,5,2024-09-05
+6249,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,06 Nov 2024,2024,Nov,6,2024-11-06
+6250,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,06 Sep 2024,2024,Sep,6,2024-09-06
+6251,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,07 Nov 2024,2024,Nov,7,2024-11-07
+6252,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,08 Nov 2024,2024,Nov,8,2024-11-08
+6253,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,08 Oct 2024,2024,Oct,8,2024-10-08
+6254,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,09 Oct 2024,2024,Oct,9,2024-10-09
+6255,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,10 Oct 2024,2024,Oct,10,2024-10-10
+6256,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,14 Oct 2024,2024,Oct,14,2024-10-14
+6257,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,16 Oct 2024,2024,Oct,16,2024-10-16
+6258,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,17 Sep 2024,2024,Sep,17,2024-09-17
+6259,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,18 Sep 2024,2024,Sep,18,2024-09-18
+6260,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,19 Sep 2024,2024,Sep,19,2024-09-19
+6261,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,21 Oct 2024,2024,Oct,21,2024-10-21
+6262,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,22 Oct 2024,2024,Oct,22,2024-10-22
+6263,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,23 Sep 2024,2024,Sep,23,2024-09-23
+6264,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,24 Sep 2024,2024,Sep,24,2024-09-24
+6265,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,25 Sep 2024,2024,Sep,25,2024-09-25
+6266,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,26 Sep 2024,2024,Sep,26,2024-09-26
+6267,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,27 Aug 2024,2024,Aug,27,2024-08-27
+6268,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,27 Sep 2024,2024,Sep,27,2024-09-27
+6269,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,28 Aug 2024,2024,Aug,28,2024-08-28
+6270,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,29 Aug 2024,2024,Aug,29,2024-08-29
+6271,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6500,7000,6750,30 Aug 2024,2024,Aug,30,2024-08-30
+6272,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,23 Oct 2024,2024,Oct,23,2024-10-23
+6273,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,24 Oct 2024,2024,Oct,24,2024-10-24
+6274,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,25 Oct 2024,2024,Oct,25,2024-10-25
+6275,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,28 Oct 2024,2024,Oct,28,2024-10-28
+6276,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,29 Oct 2024,2024,Oct,29,2024-10-29
+6277,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,30 Oct 2024,2024,Oct,30,2024-10-30
+6278,,Bishnupur,Bishenpur,Onion,Onion,FAQ,6800,7500,7150,31 Oct 2024,2024,Oct,31,2024-10-31
+6279,,Bishnupur,Bishenpur,Onion,Onion,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11
+6280,,Bishnupur,Bishenpur,Onion,Onion,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12
+6281,,Bishnupur,Bishenpur,Onion,Onion,FAQ,9000,10000,9500,14 Nov 2024,2024,Nov,14,2024-11-14
+6282,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,01 Aug 2024,2024,Aug,1,2024-08-01
+6283,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,01 Jul 2024,2024,Jul,1,2024-07-01
+6284,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,02 Aug 2024,2024,Aug,2,2024-08-02
+6285,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,02 Jul 2024,2024,Jul,2,2024-07-02
+6286,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,06 Aug 2024,2024,Aug,6,2024-08-06
+6287,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,07 Aug 2024,2024,Aug,7,2024-08-07
+6288,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,08 Aug 2024,2024,Aug,8,2024-08-08
+6289,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,09 Aug 2024,2024,Aug,9,2024-08-09
+6290,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,09 Jul 2024,2024,Jul,9,2024-07-09
+6291,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,10 Jul 2024,2024,Jul,10,2024-07-10
+6292,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,11 Jul 2024,2024,Jul,11,2024-07-11
+6293,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,12 Aug 2024,2024,Aug,12,2024-08-12
+6294,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,12 Jul 2024,2024,Jul,12,2024-07-12
+6295,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,15 Jul 2024,2024,Jul,15,2024-07-15
+6296,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,16 Jul 2024,2024,Jul,16,2024-07-16
+6297,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,17 Jul 2024,2024,Jul,17,2024-07-17
+6298,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,18 Jul 2024,2024,Jul,18,2024-07-18
+6299,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,19 Jul 2024,2024,Jul,19,2024-07-19
+6300,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,24 Jul 2024,2024,Jul,24,2024-07-24
+6301,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,25 Jul 2024,2024,Jul,25,2024-07-25
+6302,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,26 Jul 2024,2024,Jul,26,2024-07-26
+6303,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,29 Jul 2024,2024,Jul,29,2024-07-29
+6304,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,30 Jul 2024,2024,Jul,30,2024-07-30
+6305,,Imphal West,Imphal,Onion,Other,FAQ,4300,5000,4650,31 Jul 2024,2024,Jul,31,2024-07-31
+6306,,Imphal West,Imphal,Onion,Other,FAQ,4800,5500,5150,14 Aug 2024,2024,Aug,14,2024-08-14
+6307,,Imphal West,Imphal,Onion,Other,FAQ,4800,5500,5150,16 Aug 2024,2024,Aug,16,2024-08-16
+6308,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,19 Aug 2024,2024,Aug,19,2024-08-19
+6309,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,20 Aug 2024,2024,Aug,20,2024-08-20
+6310,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,21 Aug 2024,2024,Aug,21,2024-08-21
+6311,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,22 Aug 2024,2024,Aug,22,2024-08-22
+6312,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,23 Aug 2024,2024,Aug,23,2024-08-23
+6313,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,27 Aug 2024,2024,Aug,27,2024-08-27
+6314,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,28 Aug 2024,2024,Aug,28,2024-08-28
+6315,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,29 Aug 2024,2024,Aug,29,2024-08-29
+6316,,Imphal West,Imphal,Onion,Other,FAQ,5200,6000,5600,30 Aug 2024,2024,Aug,30,2024-08-30
+6317,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,01 Oct 2024,2024,Oct,1,2024-10-01
+6318,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,02 Sep 2024,2024,Sep,2,2024-09-02
+6319,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,03 Sep 2024,2024,Sep,3,2024-09-03
+6320,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,04 Oct 2024,2024,Oct,4,2024-10-04
+6321,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,05 Sep 2024,2024,Sep,5,2024-09-05
+6322,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,06 Sep 2024,2024,Sep,6,2024-09-06
+6323,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,07 Oct 2024,2024,Oct,7,2024-10-07
+6324,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,08 Oct 2024,2024,Oct,8,2024-10-08
+6325,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,09 Oct 2024,2024,Oct,9,2024-10-09
+6326,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,09 Sep 2024,2024,Sep,9,2024-09-09
+6327,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,10 Oct 2024,2024,Oct,10,2024-10-10
+6328,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,17 Sep 2024,2024,Sep,17,2024-09-17
+6329,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,18 Sep 2024,2024,Sep,18,2024-09-18
+6330,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,19 Sep 2024,2024,Sep,19,2024-09-19
+6331,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,20 Sep 2024,2024,Sep,20,2024-09-20
+6332,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,23 Sep 2024,2024,Sep,23,2024-09-23
+6333,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,24 Sep 2024,2024,Sep,24,2024-09-24
+6334,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,25 Sep 2024,2024,Sep,25,2024-09-25
+6335,,Imphal West,Imphal,Onion,Other,FAQ,6200,7000,6600,26 Sep 2024,2024,Sep,26,2024-09-26
+6336,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,04 Nov 2024,2024,Nov,4,2024-11-04
+6337,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,05 Nov 2024,2024,Nov,5,2024-11-05
+6338,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,06 Nov 2024,2024,Nov,6,2024-11-06
+6339,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,07 Nov 2024,2024,Nov,7,2024-11-07
+6340,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,08 Nov 2024,2024,Nov,8,2024-11-08
+6341,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,28 Oct 2024,2024,Oct,28,2024-10-28
+6342,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,30 Oct 2024,2024,Oct,30,2024-10-30
+6343,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6700,31 Oct 2024,2024,Oct,31,2024-10-31
+6344,,Imphal West,Imphal,Onion,Other,FAQ,6400,7000,6750,29 Oct 2024,2024,Oct,29,2024-10-29
+6345,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,14 Oct 2024,2024,Oct,14,2024-10-14
+6346,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,16 Oct 2024,2024,Oct,16,2024-10-16
+6347,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,18 Oct 2024,2024,Oct,18,2024-10-18
+6348,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,21 Oct 2024,2024,Oct,21,2024-10-21
+6349,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,22 Oct 2024,2024,Oct,22,2024-10-22
+6350,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,23 Oct 2024,2024,Oct,23,2024-10-23
+6351,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,24 Oct 2024,2024,Oct,24,2024-10-24
+6352,,Imphal West,Imphal,Onion,Other,FAQ,6800,7500,7150,25 Oct 2024,2024,Oct,25,2024-10-25
+6353,,Imphal West,Imphal,Onion,Other,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11
+6354,,Imphal West,Imphal,Onion,Other,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12
+6355,,Imphal West,Imphal,Onion,Other,FAQ,9000,10000,9500,14 Nov 2024,2024,Nov,14,2024-11-14
+6356,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,01 Aug 2024,2024,Aug,1,2024-08-01
+6357,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,02 Aug 2024,2024,Aug,2,2024-08-02
+6358,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,06 Aug 2024,2024,Aug,6,2024-08-06
+6359,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,07 Aug 2024,2024,Aug,7,2024-08-07
+6360,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,08 Aug 2024,2024,Aug,8,2024-08-08
+6361,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,09 Aug 2024,2024,Aug,9,2024-08-09
+6362,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,17 Jul 2024,2024,Jul,17,2024-07-17
+6363,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,23 Jul 2024,2024,Jul,23,2024-07-23
+6364,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,25 Jul 2024,2024,Jul,25,2024-07-25
+6365,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,30 Jul 2024,2024,Jul,30,2024-07-30
+6366,,Kakching,Kakching Market,Onion,Red,FAQ,4500,5000,4750,31 Jul 2024,2024,Jul,31,2024-07-31
+6367,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,12 Aug 2024,2024,Aug,12,2024-08-12
+6368,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,14 Aug 2024,2024,Aug,14,2024-08-14
+6369,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,16 Aug 2024,2024,Aug,16,2024-08-16
+6370,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,19 Aug 2024,2024,Aug,19,2024-08-19
+6371,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,20 Aug 2024,2024,Aug,20,2024-08-20
+6372,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,21 Aug 2024,2024,Aug,21,2024-08-21
+6373,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,22 Aug 2024,2024,Aug,22,2024-08-22
+6374,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,23 Aug 2024,2024,Aug,23,2024-08-23
+6375,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,28 Aug 2024,2024,Aug,28,2024-08-28
+6376,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,29 Aug 2024,2024,Aug,29,2024-08-29
+6377,,Kakching,Kakching Market,Onion,Red,FAQ,5500,6000,5750,30 Aug 2024,2024,Aug,30,2024-08-30
+6378,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,01 Oct 2024,2024,Oct,1,2024-10-01
+6379,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,02 Sep 2024,2024,Sep,2,2024-09-02
+6380,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,03 Sep 2024,2024,Sep,3,2024-09-03
+6381,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,04 Oct 2024,2024,Oct,4,2024-10-04
+6382,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,05 Sep 2024,2024,Sep,5,2024-09-05
+6383,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,06 Sep 2024,2024,Sep,6,2024-09-06
+6384,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,07 Oct 2024,2024,Oct,7,2024-10-07
+6385,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,08 Oct 2024,2024,Oct,8,2024-10-08
+6386,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,09 Oct 2024,2024,Oct,9,2024-10-09
+6387,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,09 Sep 2024,2024,Sep,9,2024-09-09
+6388,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,10 Oct 2024,2024,Oct,10,2024-10-10
+6389,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,16 Oct 2024,2024,Oct,16,2024-10-16
+6390,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,17 Sep 2024,2024,Sep,17,2024-09-17
+6391,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,18 Oct 2024,2024,Oct,18,2024-10-18
+6392,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,18 Sep 2024,2024,Sep,18,2024-09-18
+6393,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,19 Sep 2024,2024,Sep,19,2024-09-19
+6394,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,20 Sep 2024,2024,Sep,20,2024-09-20
+6395,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,23 Sep 2024,2024,Sep,23,2024-09-23
+6396,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,24 Sep 2024,2024,Sep,24,2024-09-24
+6397,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,25 Sep 2024,2024,Sep,25,2024-09-25
+6398,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,26 Sep 2024,2024,Sep,26,2024-09-26
+6399,,Kakching,Kakching Market,Onion,Red,FAQ,6500,7000,6750,27 Sep 2024,2024,Sep,27,2024-09-27
+6400,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,04 Nov 2024,2024,Nov,4,2024-11-04
+6401,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,05 Nov 2024,2024,Nov,5,2024-11-05
+6402,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,06 Nov 2024,2024,Nov,6,2024-11-06
+6403,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,07 Nov 2024,2024,Nov,7,2024-11-07
+6404,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,08 Nov 2024,2024,Nov,8,2024-11-08
+6405,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,21 Oct 2024,2024,Oct,21,2024-10-21
+6406,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,22 Oct 2024,2024,Oct,22,2024-10-22
+6407,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,23 Oct 2024,2024,Oct,23,2024-10-23
+6408,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,24 Oct 2024,2024,Oct,24,2024-10-24
+6409,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,25 Oct 2024,2024,Oct,25,2024-10-25
+6410,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,28 Oct 2024,2024,Oct,28,2024-10-28
+6411,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,29 Oct 2024,2024,Oct,29,2024-10-29
+6412,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,30 Oct 2024,2024,Oct,30,2024-10-30
+6413,,Kakching,Kakching Market,Onion,Red,FAQ,7000,7500,7250,31 Oct 2024,2024,Oct,31,2024-10-31
+6414,,Kakching,Kakching Market,Onion,Red,FAQ,7500,8000,7750,03 Dec 2024,2024,Dec,3,2024-12-03
+6415,,Kakching,Kakching Market,Onion,Red,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11
+6416,,Kakching,Kakching Market,Onion,Red,FAQ,11500,12000,11750,12 Nov 2024,2024,Nov,12,2024-11-12
+6417,,Kakching,Kakching Market,Onion,Red,FAQ,11500,12000,11750,14 Nov 2024,2024,Nov,14,2024-11-14
+6418,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,01 Aug 2024,2024,Aug,1,2024-08-01
+6419,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,01 Jul 2024,2024,Jul,1,2024-07-01
+6420,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,02 Aug 2024,2024,Aug,2,2024-08-02
+6421,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,02 Jul 2024,2024,Jul,2,2024-07-02
+6422,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,06 Aug 2024,2024,Aug,6,2024-08-06
+6423,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,07 Aug 2024,2024,Aug,7,2024-08-07
+6424,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,08 Aug 2024,2024,Aug,8,2024-08-08
+6425,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,09 Aug 2024,2024,Aug,9,2024-08-09
+6426,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,09 Jul 2024,2024,Jul,9,2024-07-09
+6427,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,10 Jul 2024,2024,Jul,10,2024-07-10
+6428,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,11 Jul 2024,2024,Jul,11,2024-07-11
+6429,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,12 Jul 2024,2024,Jul,12,2024-07-12
+6430,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,15 Jul 2024,2024,Jul,15,2024-07-15
+6431,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,16 Jul 2024,2024,Jul,16,2024-07-16
+6432,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,17 Jul 2024,2024,Jul,17,2024-07-17
+6433,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,18 Jul 2024,2024,Jul,18,2024-07-18
+6434,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,19 Jul 2024,2024,Jul,19,2024-07-19
+6435,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,23 Jul 2024,2024,Jul,23,2024-07-23
+6436,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,24 Jul 2024,2024,Jul,24,2024-07-24
+6437,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,25 Jul 2024,2024,Jul,25,2024-07-25
+6438,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,26 Jul 2024,2024,Jul,26,2024-07-26
+6439,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,29 Jul 2024,2024,Jul,29,2024-07-29
+6440,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4300,5000,4650,31 Jul 2024,2024,Jul,31,2024-07-31
+6441,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4800,5500,5150,12 Aug 2024,2024,Aug,12,2024-08-12
+6442,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4800,5500,5150,14 Aug 2024,2024,Aug,14,2024-08-14
+6443,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,4800,5500,5150,16 Aug 2024,2024,Aug,16,2024-08-16
+6444,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,19 Aug 2024,2024,Aug,19,2024-08-19
+6445,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,20 Aug 2024,2024,Aug,20,2024-08-20
+6446,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,21 Aug 2024,2024,Aug,21,2024-08-21
+6447,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,22 Aug 2024,2024,Aug,22,2024-08-22
+6448,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,5000,6000,5500,23 Aug 2024,2024,Aug,23,2024-08-23
+6449,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,01 Oct 2024,2024,Oct,1,2024-10-01
+6450,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,02 Sep 2024,2024,Sep,2,2024-09-02
+6451,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,03 Sep 2024,2024,Sep,3,2024-09-03
+6452,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,04 Oct 2024,2024,Oct,4,2024-10-04
+6453,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,05 Nov 2024,2024,Nov,5,2024-11-05
+6454,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,05 Sep 2024,2024,Sep,5,2024-09-05
+6455,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,06 Nov 2024,2024,Nov,6,2024-11-06
+6456,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,06 Sep 2024,2024,Sep,6,2024-09-06
+6457,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,07 Nov 2024,2024,Nov,7,2024-11-07
+6458,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,07 Oct 2024,2024,Oct,7,2024-10-07
+6459,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,08 Nov 2024,2024,Nov,8,2024-11-08
+6460,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,08 Oct 2024,2024,Oct,8,2024-10-08
+6461,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,09 Oct 2024,2024,Oct,9,2024-10-09
+6462,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,09 Sep 2024,2024,Sep,9,2024-09-09
+6463,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,10 Oct 2024,2024,Oct,10,2024-10-10
+6464,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,17 Sep 2024,2024,Sep,17,2024-09-17
+6465,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,18 Sep 2024,2024,Sep,18,2024-09-18
+6466,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,19 Sep 2024,2024,Sep,19,2024-09-19
+6467,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,20 Sep 2024,2024,Sep,20,2024-09-20
+6468,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,23 Sep 2024,2024,Sep,23,2024-09-23
+6469,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,24 Sep 2024,2024,Sep,24,2024-09-24
+6470,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,25 Sep 2024,2024,Sep,25,2024-09-25
+6471,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,26 Sep 2024,2024,Sep,26,2024-09-26
+6472,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,27 Aug 2024,2024,Aug,27,2024-08-27
+6473,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,27 Sep 2024,2024,Sep,27,2024-09-27
+6474,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,28 Aug 2024,2024,Aug,28,2024-08-28
+6475,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,29 Aug 2024,2024,Aug,29,2024-08-29
+6476,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,6500,7000,6750,30 Aug 2024,2024,Aug,30,2024-08-30
+6477,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,04 Nov 2024,2024,Nov,4,2024-11-04
+6478,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,14 Oct 2024,2024,Oct,14,2024-10-14
+6479,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,16 Oct 2024,2024,Oct,16,2024-10-16
+6480,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,18 Oct 2024,2024,Oct,18,2024-10-18
+6481,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,21 Oct 2024,2024,Oct,21,2024-10-21
+6482,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,22 Oct 2024,2024,Oct,22,2024-10-22
+6483,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,23 Oct 2024,2024,Oct,23,2024-10-23
+6484,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,24 Oct 2024,2024,Oct,24,2024-10-24
+6485,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,25 Oct 2024,2024,Oct,25,2024-10-25
+6486,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,28 Oct 2024,2024,Oct,28,2024-10-28
+6487,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,29 Oct 2024,2024,Oct,29,2024-10-29
+6488,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,30 Oct 2024,2024,Oct,30,2024-10-30
+6489,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,7500,7250,31 Oct 2024,2024,Oct,31,2024-10-31
+6490,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,7000,8000,7500,03 Dec 2024,2024,Dec,3,2024-12-03
+6491,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11
+6492,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12
+6493,,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,9000,10000,9500,14 Nov 2024,2024,Nov,14,2024-11-14
+6494,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,01 Aug 2024,2024,Aug,1,2024-08-01
+6495,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,01 Jul 2024,2024,Jul,1,2024-07-01
+6496,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,02 Aug 2024,2024,Aug,2,2024-08-02
+6497,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,06 Aug 2024,2024,Aug,6,2024-08-06
+6498,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,07 Aug 2024,2024,Aug,7,2024-08-07
+6499,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,08 Aug 2024,2024,Aug,8,2024-08-08
+6500,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,09 Aug 2024,2024,Aug,9,2024-08-09
+6501,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,09 Jul 2024,2024,Jul,9,2024-07-09
+6502,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,12 Jul 2024,2024,Jul,12,2024-07-12
+6503,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,17 Jul 2024,2024,Jul,17,2024-07-17
+6504,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,18 Jul 2024,2024,Jul,18,2024-07-18
+6505,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,19 Jul 2024,2024,Jul,19,2024-07-19
+6506,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,25 Jul 2024,2024,Jul,25,2024-07-25
+6507,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,26 Jul 2024,2024,Jul,26,2024-07-26
+6508,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,30 Jul 2024,2024,Jul,30,2024-07-30
+6509,,Thoubal,Thoubal,Onion,Other,FAQ,4500,5000,4750,31 Jul 2024,2024,Jul,31,2024-07-31
+6510,,Thoubal,Thoubal,Onion,Other,FAQ,5000,5500,5250,12 Aug 2024,2024,Aug,12,2024-08-12
+6511,,Thoubal,Thoubal,Onion,Other,FAQ,5000,5500,5250,14 Aug 2024,2024,Aug,14,2024-08-14
+6512,,Thoubal,Thoubal,Onion,Other,FAQ,5000,5500,5250,16 Aug 2024,2024,Aug,16,2024-08-16
+6513,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,19 Aug 2024,2024,Aug,19,2024-08-19
+6514,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,20 Aug 2024,2024,Aug,20,2024-08-20
+6515,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,21 Aug 2024,2024,Aug,21,2024-08-21
+6516,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,22 Aug 2024,2024,Aug,22,2024-08-22
+6517,,Thoubal,Thoubal,Onion,Other,FAQ,5500,6000,5750,23 Aug 2024,2024,Aug,23,2024-08-23
+6518,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,02 Sep 2024,2024,Sep,2,2024-09-02
+6519,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,03 Sep 2024,2024,Sep,3,2024-09-03
+6520,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,04 Oct 2024,2024,Oct,4,2024-10-04
+6521,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,05 Nov 2024,2024,Nov,5,2024-11-05
+6522,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,05 Sep 2024,2024,Sep,5,2024-09-05
+6523,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,06 Nov 2024,2024,Nov,6,2024-11-06
+6524,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,06 Sep 2024,2024,Sep,6,2024-09-06
+6525,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,07 Nov 2024,2024,Nov,7,2024-11-07
+6526,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,07 Oct 2024,2024,Oct,7,2024-10-07
+6527,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,08 Oct 2024,2024,Oct,8,2024-10-08
+6528,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,09 Oct 2024,2024,Oct,9,2024-10-09
+6529,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,09 Sep 2024,2024,Sep,9,2024-09-09
+6530,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,17 Sep 2024,2024,Sep,17,2024-09-17
+6531,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,18 Sep 2024,2024,Sep,18,2024-09-18
+6532,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,19 Sep 2024,2024,Sep,19,2024-09-19
+6533,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,20 Sep 2024,2024,Sep,20,2024-09-20
+6534,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,23 Sep 2024,2024,Sep,23,2024-09-23
+6535,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,24 Sep 2024,2024,Sep,24,2024-09-24
+6536,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,25 Sep 2024,2024,Sep,25,2024-09-25
+6537,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,26 Sep 2024,2024,Sep,26,2024-09-26
+6538,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,27 Aug 2024,2024,Aug,27,2024-08-27
+6539,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,27 Sep 2024,2024,Sep,27,2024-09-27
+6540,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,28 Aug 2024,2024,Aug,28,2024-08-28
+6541,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,29 Aug 2024,2024,Aug,29,2024-08-29
+6542,,Thoubal,Thoubal,Onion,Other,FAQ,6500,7000,6750,30 Aug 2024,2024,Aug,30,2024-08-30
+6543,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,04 Nov 2024,2024,Nov,4,2024-11-04
+6544,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,10 Oct 2024,2024,Oct,10,2024-10-10
+6545,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,14 Oct 2024,2024,Oct,14,2024-10-14
+6546,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,16 Oct 2024,2024,Oct,16,2024-10-16
+6547,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,18 Oct 2024,2024,Oct,18,2024-10-18
+6548,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,21 Oct 2024,2024,Oct,21,2024-10-21
+6549,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,22 Oct 2024,2024,Oct,22,2024-10-22
+6550,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,23 Oct 2024,2024,Oct,23,2024-10-23
+6551,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,24 Oct 2024,2024,Oct,24,2024-10-24
+6552,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,25 Oct 2024,2024,Oct,25,2024-10-25
+6553,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,28 Oct 2024,2024,Oct,28,2024-10-28
+6554,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,29 Oct 2024,2024,Oct,29,2024-10-29
+6555,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,30 Oct 2024,2024,Oct,30,2024-10-30
+6556,,Thoubal,Thoubal,Onion,Other,FAQ,7000,7500,7250,31 Oct 2024,2024,Oct,31,2024-10-31
+6557,,Thoubal,Thoubal,Onion,Other,FAQ,7500,8000,7750,03 Dec 2024,2024,Dec,3,2024-12-03
+6558,,Thoubal,Thoubal,Onion,Other,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11
+6559,,Thoubal,Thoubal,Onion,Other,FAQ,9500,10000,9750,14 Nov 2024,2024,Nov,14,2024-11-14

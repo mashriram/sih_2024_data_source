@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Panna,Ajaygarh,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5600.0,5700.0,5650.0,09 Feb 2021,2021,Feb,9,2021-02-09
 1,1.0,Raisen,Bareli,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900.0,4231.0,4066.0,19 Jan 2021,2021,Jan,19,2021-01-19
 2,2.0,Raisen,Bareli,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4701.0,4701.0,4701.0,19 Jul 2021,2021,Jul,19,2021-07-19
@@ -1729,4 +1729,4 @@
 1727,1727.0,Ujjain,Unhel,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2525.0,2952.0,2700.0,19 Dec 2017,2017,Dec,19,2017-12-19
 1728,1728.0,Ujjain,Unhel,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2551.0,3000.0,2820.0,20 Dec 2017,2017,Dec,20,2017-12-20
 1729,1729.0,Ujjain,Unhel,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2580.0,3171.0,2859.0,21 Dec 2017,2017,Dec,21,2017-12-21
-1730,,Chhatarpur,Chhatarpur,Black Gram Dal (Urd Dal),Other,FAQ,4100.0,4200.0,4150.0,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
+1730,,Chhatarpur,Chhatarpur,Black Gram Dal (Urd Dal),Other,FAQ,4100.0,4200.0,4150.0,10 Sep 2014,2014,Sep,10,2014-09-10

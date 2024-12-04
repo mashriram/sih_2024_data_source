@@ -81,6 +81,11 @@ def merge_csvs_in_directory(directory_path, output_file):
         merged_df['datetime'] = merged_df['date'].apply(parse_date)
     merged_df.to_csv(output_file, index=True)
 
+def statewise_datetime_formatter(output_folder):
+    for file in os.listdir(output_folder):
+        df = pd.read_csv(output_folder+"/"+file)
+        df['datetime'] = pd.to_datetime(df['datetime'].str.split().str[0])
+        df.to_csv(output_folder+"/"+file,index=False)
 
 # Replace 'your_directory_path' with the actual path to your directory
 directory_paths = ["./responses/onion","./responses/Gram dal","./responses/Groundnut oil","./responses/gur","./responses/masur dal","./responses/moong dal","./responses/mustard oil","./responses/Potato","./responses/Rice","./responses/Sugar","./responses/tea","./responses/tomato","./responses/tur dal","./responses/urad dal","./responses/vanaspati","./responses/wheat"]
@@ -107,3 +112,5 @@ def statewise_all_years(directory_paths:list[str],output_folders:list[str]):
                     merge_csvs_in_directory(folder_path, output_file)
 
 statewise_all_years(directory_paths=directory_paths,output_folders=output_folders)
+for output_folder in output_folders:
+    statewise_datetime_formatter(output_folder)

@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Junagarh,Junagadh,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7250,8190,7750,03 Nov 2020,2020,Nov,3,2020-11-03
 1,1.0,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5505,7000,6252,01 Jun 2022,2022,Jun,1,2022-06-01
 2,2.0,Rajkot,Dhoraji,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5005,6005,5805,24 Jun 2022,2022,Jun,24,2022-06-24
@@ -138,4 +138,4 @@
 136,136.0,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3250,3500,3375,03 Oct 2019,2019,Oct,3,2019-10-03
 137,137.0,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4750,5030,4890,04 Oct 2019,2019,Oct,4,2019-10-04
 138,138.0,Junagarh,Junagadh,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4025,4025,4025,13 Sep 2017,2017,Sep,13,2017-09-13
-139,,Rajkot,Rajkot,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4650,5200,4875,10 Aug 2016,2016,Aug,10,2016-08-10 00:00:00
+139,,Rajkot,Rajkot,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4650,5200,4875,10 Aug 2016,2016,Aug,10,2016-08-10

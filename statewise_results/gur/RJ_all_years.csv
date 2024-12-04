@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,2900,3200,3050,18 Mar 2021,2021,Mar,18,2021-03-18
 1,1.0,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,3250,3100,26 Mar 2021,2021,Mar,26,2021-03-26
 2,2.0,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3100,3300,3200,14 May 2021,2021,May,14,2021-05-14
@@ -3557,120 +3557,120 @@
 3555,3555.0,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3100,3500,3300,01 Sep 2018,2018,Sep,1,2018-09-01
 3556,3556.0,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3100,3500,3300,10 Jul 2018,2018,Jul,10,2018-07-10
 3557,3557.0,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3100,3500,3325,20 Sep 2017,2017,Sep,20,2017-09-20
-3558,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,4200,3600,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-3559,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,4200,3600,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-3560,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3700,4000,3850,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-3561,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3700,4000,3850,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-3562,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4000,4400,4200,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-3563,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4000,4500,4250,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-3564,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4000,4500,4250,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-3565,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4100,4500,4300,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-3566,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4100,4500,4300,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-3567,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4500,4350,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-3568,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4500,4350,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-3569,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4500,4350,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-3570,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-3571,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-3572,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-3573,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-3574,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-3575,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4300,4600,4450,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-3576,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-3577,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-3578,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-3579,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-3580,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-3581,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-3582,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-3583,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-3584,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-3585,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-3586,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-3587,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-3588,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-3589,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-3590,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-3591,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-3592,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-3593,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-3594,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-3595,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-3596,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-3597,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-3598,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-3599,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-3600,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-3601,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-3602,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-3603,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-3604,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-3605,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-3606,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-3607,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-3608,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-3609,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-3610,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-3611,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-3612,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-3613,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-3614,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-3615,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-3616,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-3617,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-3618,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-3619,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-3620,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-3621,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-3622,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-3623,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-3624,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-3625,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-3626,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-3627,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-3628,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-3629,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-3630,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-3631,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-3632,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-3633,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-3634,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-3635,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-3636,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-3637,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-3638,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-3639,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-3640,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-3641,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-3642,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-3643,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-3644,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-3645,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-3646,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-3647,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-3648,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-3649,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-3650,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-3651,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-3652,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-3653,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-3654,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-3655,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-3656,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-3657,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-3658,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-3659,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-3660,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-3661,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-3662,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-3663,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-3664,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-3665,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-3666,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-3667,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-3668,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3550,3950,3750,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-3669,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3550,3950,3750,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-3670,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,3900,3700,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-3671,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,4000,3800,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-3672,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,4000,3800,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-3673,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,4000,3800,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-3674,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,4000,3800,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
+3558,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,4200,3600,12 Nov 2024,2024,Nov,12,2024-11-12
+3559,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3000,4200,3600,21 Nov 2024,2024,Nov,21,2024-11-21
+3560,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3700,4000,3850,02 Dec 2024,2024,Dec,2,2024-12-02
+3561,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,3700,4000,3850,29 Nov 2024,2024,Nov,29,2024-11-29
+3562,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4000,4400,4200,17 Sep 2024,2024,Sep,17,2024-09-17
+3563,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4000,4500,4250,20 Sep 2024,2024,Sep,20,2024-09-20
+3564,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4000,4500,4250,24 Sep 2024,2024,Sep,24,2024-09-24
+3565,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4100,4500,4300,08 Oct 2024,2024,Oct,8,2024-10-08
+3566,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4100,4500,4300,26 Sep 2024,2024,Sep,26,2024-09-26
+3567,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4500,4350,19 Sep 2024,2024,Sep,19,2024-09-19
+3568,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4500,4350,23 Sep 2024,2024,Sep,23,2024-09-23
+3569,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4500,4350,25 Sep 2024,2024,Sep,25,2024-09-25
+3570,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,05 Nov 2024,2024,Nov,5,2024-11-05
+3571,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,08 Nov 2024,2024,Nov,8,2024-11-08
+3572,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,16 Oct 2024,2024,Oct,16,2024-10-16
+3573,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,17 Oct 2024,2024,Oct,17,2024-10-17
+3574,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4200,4550,4375,18 Oct 2024,2024,Oct,18,2024-10-18
+3575,,Jaipur,Jaipur (Grain),Gur(Jaggery),Other,FAQ,4300,4600,4450,06 Nov 2024,2024,Nov,6,2024-11-06
+3576,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,01 Aug 2024,2024,Aug,1,2024-08-01
+3577,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,01 Jul 2024,2024,Jul,1,2024-07-01
+3578,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Aug 2024,2024,Aug,2,2024-08-02
+3579,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Dec 2024,2024,Dec,2,2024-12-02
+3580,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Nov 2024,2024,Nov,2,2024-11-02
+3581,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Oct 2024,2024,Oct,2,2024-10-02
+3582,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,02 Sep 2024,2024,Sep,2,2024-09-02
+3583,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,03 Aug 2024,2024,Aug,3,2024-08-03
+3584,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,03 Jul 2024,2024,Jul,3,2024-07-03
+3585,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,03 Sep 2024,2024,Sep,3,2024-09-03
+3586,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,04 Jul 2024,2024,Jul,4,2024-07-04
+3587,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,04 Nov 2024,2024,Nov,4,2024-11-04
+3588,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,04 Oct 2024,2024,Oct,4,2024-10-04
+3589,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,04 Sep 2024,2024,Sep,4,2024-09-04
+3590,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,05 Aug 2024,2024,Aug,5,2024-08-05
+3591,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,05 Nov 2024,2024,Nov,5,2024-11-05
+3592,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,05 Oct 2024,2024,Oct,5,2024-10-05
+3593,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,05 Sep 2024,2024,Sep,5,2024-09-05
+3594,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,06 Sep 2024,2024,Sep,6,2024-09-06
+3595,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,07 Nov 2024,2024,Nov,7,2024-11-07
+3596,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,07 Oct 2024,2024,Oct,7,2024-10-07
+3597,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,07 Sep 2024,2024,Sep,7,2024-09-07
+3598,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,08 Aug 2024,2024,Aug,8,2024-08-08
+3599,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,08 Nov 2024,2024,Nov,8,2024-11-08
+3600,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,09 Nov 2024,2024,Nov,9,2024-11-09
+3601,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,09 Oct 2024,2024,Oct,9,2024-10-09
+3602,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,10 Aug 2024,2024,Aug,10,2024-08-10
+3603,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,10 Jul 2024,2024,Jul,10,2024-07-10
+3604,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,10 Oct 2024,2024,Oct,10,2024-10-10
+3605,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,10 Sep 2024,2024,Sep,10,2024-09-10
+3606,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,11 Jul 2024,2024,Jul,11,2024-07-11
+3607,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,11 Nov 2024,2024,Nov,11,2024-11-11
+3608,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,12 Aug 2024,2024,Aug,12,2024-08-12
+3609,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,12 Jul 2024,2024,Jul,12,2024-07-12
+3610,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,12 Oct 2024,2024,Oct,12,2024-10-12
+3611,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,12 Sep 2024,2024,Sep,12,2024-09-12
+3612,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,13 Aug 2024,2024,Aug,13,2024-08-13
+3613,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,13 Jul 2024,2024,Jul,13,2024-07-13
+3614,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,14 Oct 2024,2024,Oct,14,2024-10-14
+3615,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,14 Sep 2024,2024,Sep,14,2024-09-14
+3616,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,15 Jul 2024,2024,Jul,15,2024-07-15
+3617,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,15 Oct 2024,2024,Oct,15,2024-10-15
+3618,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,16 Jul 2024,2024,Jul,16,2024-07-16
+3619,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,16 Nov 2024,2024,Nov,16,2024-11-16
+3620,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,16 Oct 2024,2024,Oct,16,2024-10-16
+3621,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,17 Jul 2024,2024,Jul,17,2024-07-17
+3622,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,17 Oct 2024,2024,Oct,17,2024-10-17
+3623,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,17 Sep 2024,2024,Sep,17,2024-09-17
+3624,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,18 Jul 2024,2024,Jul,18,2024-07-18
+3625,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,18 Nov 2024,2024,Nov,18,2024-11-18
+3626,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,18 Oct 2024,2024,Oct,18,2024-10-18
+3627,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,18 Sep 2024,2024,Sep,18,2024-09-18
+3628,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,19 Jul 2024,2024,Jul,19,2024-07-19
+3629,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,19 Nov 2024,2024,Nov,19,2024-11-19
+3630,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,19 Oct 2024,2024,Oct,19,2024-10-19
+3631,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,19 Sep 2024,2024,Sep,19,2024-09-19
+3632,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,20 Aug 2024,2024,Aug,20,2024-08-20
+3633,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,20 Jul 2024,2024,Jul,20,2024-07-20
+3634,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,20 Nov 2024,2024,Nov,20,2024-11-20
+3635,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,21 Aug 2024,2024,Aug,21,2024-08-21
+3636,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,21 Nov 2024,2024,Nov,21,2024-11-21
+3637,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,21 Oct 2024,2024,Oct,21,2024-10-21
+3638,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,21 Sep 2024,2024,Sep,21,2024-09-21
+3639,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,22 Aug 2024,2024,Aug,22,2024-08-22
+3640,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,22 Jul 2024,2024,Jul,22,2024-07-22
+3641,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,23 Jul 2024,2024,Jul,23,2024-07-23
+3642,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,23 Nov 2024,2024,Nov,23,2024-11-23
+3643,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,23 Oct 2024,2024,Oct,23,2024-10-23
+3644,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,24 Jul 2024,2024,Jul,24,2024-07-24
+3645,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,24 Oct 2024,2024,Oct,24,2024-10-24
+3646,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,24 Sep 2024,2024,Sep,24,2024-09-24
+3647,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,25 Jul 2024,2024,Jul,25,2024-07-25
+3648,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,25 Nov 2024,2024,Nov,25,2024-11-25
+3649,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,25 Oct 2024,2024,Oct,25,2024-10-25
+3650,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,25 Sep 2024,2024,Sep,25,2024-09-25
+3651,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,26 Aug 2024,2024,Aug,26,2024-08-26
+3652,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,26 Jul 2024,2024,Jul,26,2024-07-26
+3653,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,26 Nov 2024,2024,Nov,26,2024-11-26
+3654,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,26 Oct 2024,2024,Oct,26,2024-10-26
+3655,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,27 Jul 2024,2024,Jul,27,2024-07-27
+3656,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,27 Sep 2024,2024,Sep,27,2024-09-27
+3657,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,28 Aug 2024,2024,Aug,28,2024-08-28
+3658,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,28 Nov 2024,2024,Nov,28,2024-11-28
+3659,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,28 Oct 2024,2024,Oct,28,2024-10-28
+3660,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,29 Aug 2024,2024,Aug,29,2024-08-29
+3661,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,29 Jul 2024,2024,Jul,29,2024-07-29
+3662,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,29 Nov 2024,2024,Nov,29,2024-11-29
+3663,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,30 Aug 2024,2024,Aug,30,2024-08-30
+3664,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,30 Jul 2024,2024,Jul,30,2024-07-30
+3665,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,30 Nov 2024,2024,Nov,30,2024-11-30
+3666,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,30 Sep 2024,2024,Sep,30,2024-09-30
+3667,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3500,3900,3700,31 Jul 2024,2024,Jul,31,2024-07-31
+3668,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3550,3950,3750,01 Nov 2024,2024,Nov,1,2024-11-01
+3669,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3550,3950,3750,22 Nov 2024,2024,Nov,22,2024-11-22
+3670,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,3900,3700,05 Jul 2024,2024,Jul,5,2024-07-05
+3671,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,4000,3800,02 Jul 2024,2024,Jul,2,2024-07-02
+3672,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,4000,3800,06 Jul 2024,2024,Jul,6,2024-07-06
+3673,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,4000,3800,08 Jul 2024,2024,Jul,8,2024-07-08
+3674,,Udaipur,Udaipur (Grain),Gur(Jaggery),Other,FAQ,3600,4000,3800,09 Jul 2024,2024,Jul,9,2024-07-09

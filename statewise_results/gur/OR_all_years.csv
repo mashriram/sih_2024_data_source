@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Mayurbhanja,Betnoti,Gur(Jaggery),Other,FAQ,4000,6000,5000,10 Jan 2021,2021,Jan,10,2021-01-10
 1,1.0,Mayurbhanja,Betnoti,Gur(Jaggery),Other,FAQ,4500,6000,5000,11 Jan 2021,2021,Jan,11,2021-01-11
 2,2.0,Mayurbhanja,Betnoti,Gur(Jaggery),Other,FAQ,4500,6000,5000,13 Jan 2021,2021,Jan,13,2021-01-13
@@ -5124,54 +5124,54 @@
 5122,5122.0,Nayagarh,Sarankul,Gur(Jaggery),Other,FAQ,3600,3800,3700,26 Mar 2018,2018,Mar,26,2018-03-26
 5123,5123.0,Nayagarh,Sarankul,Gur(Jaggery),Other,FAQ,3600,3800,3700,27 Mar 2018,2018,Mar,27,2018-03-27
 5124,5124.0,Nayagarh,Sarankul,Gur(Jaggery),Other,FAQ,3600,3900,3800,16 Dec 2017,2017,Dec,16,2017-12-16
-5125,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,6000,7000,6500,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-5126,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,6500,7500,7000,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-5127,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,7000,7000,7000,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-5128,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,7000,7500,7200,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-5129,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,7000,7500,7200,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-5130,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-5131,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-5132,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-5133,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-5134,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-5135,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-5136,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-5137,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-5138,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-5139,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-5140,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-5141,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-5142,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-5143,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-5144,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-5145,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-5146,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-5147,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-5148,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-5149,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-5150,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-5151,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,17 Nov 2024,2024,Nov,17,2024-11-17 00:00:00
-5152,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-5153,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-5154,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-5155,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-5156,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-5157,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-5158,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-5159,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-5160,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-5161,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-5162,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-5163,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-5164,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-5165,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-5166,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-5167,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-5168,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-5169,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-5170,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-5171,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-5172,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-5173,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-5174,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-5175,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
+5125,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,6000,7000,6500,22 Sep 2024,2024,Sep,22,2024-09-22
+5126,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,6500,7500,7000,06 Nov 2024,2024,Nov,6,2024-11-06
+5127,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,7000,7000,7000,28 Aug 2024,2024,Aug,28,2024-08-28
+5128,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,7000,7500,7200,09 Oct 2024,2024,Oct,9,2024-10-09
+5129,,Kalahandi,Kesinga,Gur(Jaggery),Other,FAQ,7000,7500,7200,25 Oct 2024,2024,Oct,25,2024-10-25
+5130,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,01 Aug 2024,2024,Aug,1,2024-08-01
+5131,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,02 Aug 2024,2024,Aug,2,2024-08-02
+5132,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,02 Jul 2024,2024,Jul,2,2024-07-02
+5133,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,03 Jul 2024,2024,Jul,3,2024-07-03
+5134,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,03 Sep 2024,2024,Sep,3,2024-09-03
+5135,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,04 Aug 2024,2024,Aug,4,2024-08-04
+5136,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,04 Oct 2024,2024,Oct,4,2024-10-04
+5137,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,05 Aug 2024,2024,Aug,5,2024-08-05
+5138,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,06 Sep 2024,2024,Sep,6,2024-09-06
+5139,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,08 Aug 2024,2024,Aug,8,2024-08-08
+5140,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,08 Jul 2024,2024,Jul,8,2024-07-08
+5141,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,08 Oct 2024,2024,Oct,8,2024-10-08
+5142,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,09 Aug 2024,2024,Aug,9,2024-08-09
+5143,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,09 Jul 2024,2024,Jul,9,2024-07-09
+5144,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,10 Jul 2024,2024,Jul,10,2024-07-10
+5145,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,11 Jul 2024,2024,Jul,11,2024-07-11
+5146,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,13 Aug 2024,2024,Aug,13,2024-08-13
+5147,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,14 Aug 2024,2024,Aug,14,2024-08-14
+5148,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,16 Aug 2024,2024,Aug,16,2024-08-16
+5149,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,16 Nov 2024,2024,Nov,16,2024-11-16
+5150,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,17 Aug 2024,2024,Aug,17,2024-08-17
+5151,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,17 Nov 2024,2024,Nov,17,2024-11-17
+5152,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,17 Oct 2024,2024,Oct,17,2024-10-17
+5153,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,18 Jul 2024,2024,Jul,18,2024-07-18
+5154,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,18 Oct 2024,2024,Oct,18,2024-10-18
+5155,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,20 Nov 2024,2024,Nov,20,2024-11-20
+5156,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,20 Sep 2024,2024,Sep,20,2024-09-20
+5157,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,21 Sep 2024,2024,Sep,21,2024-09-21
+5158,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,22 Aug 2024,2024,Aug,22,2024-08-22
+5159,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,22 Jul 2024,2024,Jul,22,2024-07-22
+5160,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,23 Aug 2024,2024,Aug,23,2024-08-23
+5161,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,23 Jul 2024,2024,Jul,23,2024-07-23
+5162,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,23 Nov 2024,2024,Nov,23,2024-11-23
+5163,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,23 Oct 2024,2024,Oct,23,2024-10-23
+5164,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,24 Aug 2024,2024,Aug,24,2024-08-24
+5165,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,24 Jul 2024,2024,Jul,24,2024-07-24
+5166,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,24 Nov 2024,2024,Nov,24,2024-11-24
+5167,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,24 Oct 2024,2024,Oct,24,2024-10-24
+5168,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,26 Sep 2024,2024,Sep,26,2024-09-26
+5169,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,27 Aug 2024,2024,Aug,27,2024-08-27
+5170,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,28 Aug 2024,2024,Aug,28,2024-08-28
+5171,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,29 Sep 2024,2024,Sep,29,2024-09-29
+5172,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,30 Aug 2024,2024,Aug,30,2024-08-30
+5173,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,30 Jul 2024,2024,Jul,30,2024-07-30
+5174,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,30 Sep 2024,2024,Sep,30,2024-09-30
+5175,,Nowarangpur,Nawarangpur,Gur(Jaggery),NO 2,FAQ,2000,2000,2000,31 Jul 2024,2024,Jul,31,2024-07-31

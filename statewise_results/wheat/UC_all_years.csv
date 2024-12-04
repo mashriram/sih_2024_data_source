@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,UdhamSinghNagar,Bazpur,Wheat,Other,FAQ,1860.0,1860.0,1860.0,18 Feb 2022,2022,Feb,18,2022-02-18
 1,1.0,UdhamSinghNagar,Bazpur,Wheat,Other,FAQ,2015.0,2015.0,2015.0,05 May 2022,2022,May,5,2022-05-05
 2,2.0,UdhamSinghNagar,Bazpur,Wheat,Other,FAQ,2015.0,2015.0,2015.0,20 Jun 2022,2022,Jun,20,2022-06-20
@@ -5346,103 +5346,103 @@
 5344,5344.0,Dehradoon,Vikasnagar,Wheat,Other,FAQ,1750.0,1750.0,1750.0,17 May 2018,2018,May,17,2018-05-17
 5345,5345.0,Dehradoon,Vikasnagar,Wheat,Other,FAQ,1750.0,1750.0,1750.0,27 May 2018,2018,May,27,2018-05-27
 5346,5346.0,Dehradoon,Vikasnagar,Wheat,Other,FAQ,1750.0,1760.0,1760.0,03 May 2018,2018,May,3,2018-05-03
-5347,,UdhamSinghNagar,Bazpur,Wheat,Other,FAQ,2300.0,2300.0,2300.0,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-5348,,UdhamSinghNagar,Gadarpur,Wheat,Other,FAQ,1800.0,2210.0,2000.0,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-5349,,UdhamSinghNagar,Gadarpur,Wheat,Other,FAQ,2175.0,2175.0,2175.0,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-5350,,UdhamSinghNagar,Gadarpur,Wheat,Other,FAQ,2175.0,2175.0,2175.0,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-5351,,UdhamSinghNagar,Gadarpur,Wheat,Other,FAQ,2275.0,2275.0,2275.0,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-5352,,Haridwar,Lakshar,Wheat,Other,FAQ,2275.0,2300.0,2290.0,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-5353,,Haridwar,Lakshar,Wheat,Other,FAQ,2275.0,2300.0,2290.0,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-5354,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-5355,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-5356,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-5357,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-5358,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-5359,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-5360,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-5361,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-5362,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-5363,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-5364,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-5365,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-5366,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-5367,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-5368,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-5369,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-5370,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-5371,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2320.0,2300.0,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-5372,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2320.0,2300.0,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-5373,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2330.0,2300.0,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-5374,,Haridwar,Lakshar,Wheat,Other,FAQ,2285.0,2300.0,2290.0,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-5375,,Haridwar,Lakshar,Wheat,Other,FAQ,2285.0,2300.0,2290.0,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-5376,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-5377,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-5378,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-5379,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-5380,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-5381,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-5382,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-5383,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-5384,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-5385,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-5386,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-5387,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-5388,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-5389,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-5390,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-5391,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-5392,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-5393,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-5394,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-5395,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-5396,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-5397,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-5398,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-5399,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-5400,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-5401,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-5402,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-5403,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-5404,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2310.0,2300.0,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-5405,,Haridwar,Lakshar,Wheat,Other,FAQ,2295.0,2305.0,2300.0,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-5406,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2310.0,2305.0,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-5407,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2310.0,2305.0,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-5408,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2310.0,2305.0,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-5409,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-5410,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-5411,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-5412,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-5413,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-5414,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2330.0,2315.0,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-5415,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2330.0,2315.0,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-5416,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2330.0,2320.0,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-5417,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2330.0,2320.0,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-5418,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2340.0,2320.0,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-5419,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2340.0,2320.0,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-5420,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2350.0,2325.0,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-5421,,Haridwar,Lakshar,Wheat,Other,FAQ,2310.0,2330.0,2320.0,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-5422,,Haridwar,Lakshar,Wheat,Other,FAQ,2310.0,2340.0,2325.0,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-5423,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-5424,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-5425,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-5426,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-5427,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-5428,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-5429,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-5430,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-5431,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2340.0,2330.0,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-5432,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2340.0,2330.0,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-5433,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2340.0,2330.0,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-5434,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2340.0,2330.0,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-5435,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2350.0,2335.0,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-5436,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2350.0,2335.0,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-5437,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2350.0,2335.0,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-5438,,Haridwar,Lakshar,Wheat,Other,FAQ,2330.0,2340.0,2335.0,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-5439,,Haridwar,Lakshar,Wheat,Other,FAQ,2330.0,2340.0,2335.0,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-5440,,Haridwar,Lakshar,Wheat,Other,FAQ,2330.0,2340.0,2335.0,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-5441,,Haridwar,Lakshar,Wheat,Other,FAQ,2330.0,2340.0,2335.0,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-5442,,Haridwar,Lakshar,Wheat,Other,FAQ,2550.0,2700.0,2625.0,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-5443,,UdhamSinghNagar,Nanakmatta,Wheat,Other,FAQ,2325.0,2325.0,2325.0,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-5444,,UdhamSinghNagar,Nanakmatta,Wheat,Other,FAQ,2390.0,2400.0,2395.0,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-5445,,UdhamSinghNagar,Sitarganj,Wheat,Other,FAQ,2300.0,2410.0,2400.0,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-5446,,UdhamSinghNagar,Sitarganj,Wheat,Other,FAQ,2400.0,2600.0,2500.0,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
+5347,,UdhamSinghNagar,Bazpur,Wheat,Other,FAQ,2300.0,2300.0,2300.0,01 Jul 2024,2024,Jul,1,2024-07-01
+5348,,UdhamSinghNagar,Gadarpur,Wheat,Other,FAQ,1800.0,2210.0,2000.0,27 Jul 2024,2024,Jul,27,2024-07-27
+5349,,UdhamSinghNagar,Gadarpur,Wheat,Other,FAQ,2175.0,2175.0,2175.0,21 Sep 2024,2024,Sep,21,2024-09-21
+5350,,UdhamSinghNagar,Gadarpur,Wheat,Other,FAQ,2175.0,2175.0,2175.0,23 Aug 2024,2024,Aug,23,2024-08-23
+5351,,UdhamSinghNagar,Gadarpur,Wheat,Other,FAQ,2275.0,2275.0,2275.0,25 Jul 2024,2024,Jul,25,2024-07-25
+5352,,Haridwar,Lakshar,Wheat,Other,FAQ,2275.0,2300.0,2290.0,05 Aug 2024,2024,Aug,5,2024-08-05
+5353,,Haridwar,Lakshar,Wheat,Other,FAQ,2275.0,2300.0,2290.0,08 Jul 2024,2024,Jul,8,2024-07-08
+5354,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,01 Jul 2024,2024,Jul,1,2024-07-01
+5355,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,03 Aug 2024,2024,Aug,3,2024-08-03
+5356,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,06 Aug 2024,2024,Aug,6,2024-08-06
+5357,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,08 Aug 2024,2024,Aug,8,2024-08-08
+5358,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,09 Jul 2024,2024,Jul,9,2024-07-09
+5359,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,13 Aug 2024,2024,Aug,13,2024-08-13
+5360,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,16 Aug 2024,2024,Aug,16,2024-08-16
+5361,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,17 Aug 2024,2024,Aug,17,2024-08-17
+5362,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,20 Aug 2024,2024,Aug,20,2024-08-20
+5363,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,20 Jul 2024,2024,Jul,20,2024-07-20
+5364,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,22 Aug 2024,2024,Aug,22,2024-08-22
+5365,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,23 Aug 2024,2024,Aug,23,2024-08-23
+5366,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,24 Jul 2024,2024,Jul,24,2024-07-24
+5367,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,27 Aug 2024,2024,Aug,27,2024-08-27
+5368,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,30 Aug 2024,2024,Aug,30,2024-08-30
+5369,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,30 Jul 2024,2024,Jul,30,2024-07-30
+5370,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2300.0,2290.0,31 Jul 2024,2024,Jul,31,2024-07-31
+5371,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2320.0,2300.0,12 Sep 2024,2024,Sep,12,2024-09-12
+5372,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2320.0,2300.0,18 Sep 2024,2024,Sep,18,2024-09-18
+5373,,Haridwar,Lakshar,Wheat,Other,FAQ,2280.0,2330.0,2300.0,13 Sep 2024,2024,Sep,13,2024-09-13
+5374,,Haridwar,Lakshar,Wheat,Other,FAQ,2285.0,2300.0,2290.0,09 Aug 2024,2024,Aug,9,2024-08-09
+5375,,Haridwar,Lakshar,Wheat,Other,FAQ,2285.0,2300.0,2290.0,14 Aug 2024,2024,Aug,14,2024-08-14
+5376,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,02 Jul 2024,2024,Jul,2,2024-07-02
+5377,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,02 Sep 2024,2024,Sep,2,2024-09-02
+5378,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,03 Jul 2024,2024,Jul,3,2024-07-03
+5379,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,04 Jul 2024,2024,Jul,4,2024-07-04
+5380,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,05 Jul 2024,2024,Jul,5,2024-07-05
+5381,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,05 Sep 2024,2024,Sep,5,2024-09-05
+5382,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,06 Jul 2024,2024,Jul,6,2024-07-06
+5383,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,07 Aug 2024,2024,Aug,7,2024-08-07
+5384,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,07 Sep 2024,2024,Sep,7,2024-09-07
+5385,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,09 Sep 2024,2024,Sep,9,2024-09-09
+5386,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,10 Jul 2024,2024,Jul,10,2024-07-10
+5387,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,11 Jul 2024,2024,Jul,11,2024-07-11
+5388,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,12 Aug 2024,2024,Aug,12,2024-08-12
+5389,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,12 Jul 2024,2024,Jul,12,2024-07-12
+5390,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,15 Jul 2024,2024,Jul,15,2024-07-15
+5391,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,16 Jul 2024,2024,Jul,16,2024-07-16
+5392,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,19 Jul 2024,2024,Jul,19,2024-07-19
+5393,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,21 Aug 2024,2024,Aug,21,2024-08-21
+5394,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,22 Jul 2024,2024,Jul,22,2024-07-22
+5395,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,23 Jul 2024,2024,Jul,23,2024-07-23
+5396,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,24 Aug 2024,2024,Aug,24,2024-08-24
+5397,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,25 Jul 2024,2024,Jul,25,2024-07-25
+5398,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,26 Jul 2024,2024,Jul,26,2024-07-26
+5399,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,27 Jul 2024,2024,Jul,27,2024-07-27
+5400,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,28 Aug 2024,2024,Aug,28,2024-08-28
+5401,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,29 Aug 2024,2024,Aug,29,2024-08-29
+5402,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,29 Jul 2024,2024,Jul,29,2024-07-29
+5403,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2300.0,2295.0,31 Aug 2024,2024,Aug,31,2024-08-31
+5404,,Haridwar,Lakshar,Wheat,Other,FAQ,2290.0,2310.0,2300.0,03 Sep 2024,2024,Sep,3,2024-09-03
+5405,,Haridwar,Lakshar,Wheat,Other,FAQ,2295.0,2305.0,2300.0,04 Sep 2024,2024,Sep,4,2024-09-04
+5406,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2310.0,2305.0,10 Sep 2024,2024,Sep,10,2024-09-10
+5407,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2310.0,2305.0,11 Sep 2024,2024,Sep,11,2024-09-11
+5408,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2310.0,2305.0,24 Sep 2024,2024,Sep,24,2024-09-24
+5409,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,04 Oct 2024,2024,Oct,4,2024-10-04
+5410,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,06 Sep 2024,2024,Sep,6,2024-09-06
+5411,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,08 Nov 2024,2024,Nov,8,2024-11-08
+5412,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,23 Sep 2024,2024,Sep,23,2024-09-23
+5413,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2320.0,2310.0,26 Sep 2024,2024,Sep,26,2024-09-26
+5414,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2330.0,2315.0,20 Sep 2024,2024,Sep,20,2024-09-20
+5415,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2330.0,2315.0,21 Sep 2024,2024,Sep,21,2024-09-21
+5416,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2330.0,2320.0,05 Nov 2024,2024,Nov,5,2024-11-05
+5417,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2330.0,2320.0,25 Sep 2024,2024,Sep,25,2024-09-25
+5418,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2340.0,2320.0,01 Oct 2024,2024,Oct,1,2024-10-01
+5419,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2340.0,2320.0,06 Nov 2024,2024,Nov,6,2024-11-06
+5420,,Haridwar,Lakshar,Wheat,Other,FAQ,2300.0,2350.0,2325.0,19 Sep 2024,2024,Sep,19,2024-09-19
+5421,,Haridwar,Lakshar,Wheat,Other,FAQ,2310.0,2330.0,2320.0,05 Oct 2024,2024,Oct,5,2024-10-05
+5422,,Haridwar,Lakshar,Wheat,Other,FAQ,2310.0,2340.0,2325.0,28 Sep 2024,2024,Sep,28,2024-09-28
+5423,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,07 Nov 2024,2024,Nov,7,2024-11-07
+5424,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,11 Nov 2024,2024,Nov,11,2024-11-11
+5425,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,15 Oct 2024,2024,Oct,15,2024-10-15
+5426,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,22 Nov 2024,2024,Nov,22,2024-11-22
+5427,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,23 Nov 2024,2024,Nov,23,2024-11-23
+5428,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,26 Nov 2024,2024,Nov,26,2024-11-26
+5429,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,27 Nov 2024,2024,Nov,27,2024-11-27
+5430,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2330.0,2325.0,28 Nov 2024,2024,Nov,28,2024-11-28
+5431,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2340.0,2330.0,02 Dec 2024,2024,Dec,2,2024-12-02
+5432,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2340.0,2330.0,10 Oct 2024,2024,Oct,10,2024-10-10
+5433,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2340.0,2330.0,11 Oct 2024,2024,Oct,11,2024-10-11
+5434,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2340.0,2330.0,30 Nov 2024,2024,Nov,30,2024-11-30
+5435,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2350.0,2335.0,14 Oct 2024,2024,Oct,14,2024-10-14
+5436,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2350.0,2335.0,21 Oct 2024,2024,Oct,21,2024-10-21
+5437,,Haridwar,Lakshar,Wheat,Other,FAQ,2320.0,2350.0,2335.0,30 Sep 2024,2024,Sep,30,2024-09-30
+5438,,Haridwar,Lakshar,Wheat,Other,FAQ,2330.0,2340.0,2335.0,16 Oct 2024,2024,Oct,16,2024-10-16
+5439,,Haridwar,Lakshar,Wheat,Other,FAQ,2330.0,2340.0,2335.0,19 Oct 2024,2024,Oct,19,2024-10-19
+5440,,Haridwar,Lakshar,Wheat,Other,FAQ,2330.0,2340.0,2335.0,22 Oct 2024,2024,Oct,22,2024-10-22
+5441,,Haridwar,Lakshar,Wheat,Other,FAQ,2330.0,2340.0,2335.0,29 Oct 2024,2024,Oct,29,2024-10-29
+5442,,Haridwar,Lakshar,Wheat,Other,FAQ,2550.0,2700.0,2625.0,03 Oct 2024,2024,Oct,3,2024-10-03
+5443,,UdhamSinghNagar,Nanakmatta,Wheat,Other,FAQ,2325.0,2325.0,2325.0,01 Oct 2024,2024,Oct,1,2024-10-01
+5444,,UdhamSinghNagar,Nanakmatta,Wheat,Other,FAQ,2390.0,2400.0,2395.0,29 Sep 2024,2024,Sep,29,2024-09-29
+5445,,UdhamSinghNagar,Sitarganj,Wheat,Other,FAQ,2300.0,2410.0,2400.0,19 Jul 2024,2024,Jul,19,2024-07-19
+5446,,UdhamSinghNagar,Sitarganj,Wheat,Other,FAQ,2400.0,2600.0,2500.0,26 Sep 2024,2024,Sep,26,2024-09-26

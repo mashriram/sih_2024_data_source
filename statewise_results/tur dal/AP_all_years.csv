@@ -1,7 +1,7 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Guntur,Vinukonda,Arhar Dal(Tur Dal),Other,FAQ,4500,6000,5000,28 Mar 2016,2016,Mar,28,2016-03-28
 1,1.0,Guntur,Vinukonda,Arhar Dal(Tur Dal),Other,FAQ,4500,6000,5000,29 Mar 2016,2016,Mar,29,2016-03-29
 2,2.0,Guntur,Vinukonda,Arhar Dal(Tur Dal),Other,FAQ,4800,6000,5000,30 Mar 2016,2016,Mar,30,2016-03-30
-3,,Guntur,Vinukonda,Arhar Dal(Tur Dal),Other,FAQ,4500,6000,5000,28 Mar 2016,2016,Mar,28,2016-03-28 00:00:00
-4,,Guntur,Vinukonda,Arhar Dal(Tur Dal),Other,FAQ,4500,6000,5000,29 Mar 2016,2016,Mar,29,2016-03-29 00:00:00
-5,,Guntur,Vinukonda,Arhar Dal(Tur Dal),Other,FAQ,4800,6000,5000,30 Mar 2016,2016,Mar,30,2016-03-30 00:00:00
+3,,Guntur,Vinukonda,Arhar Dal(Tur Dal),Other,FAQ,4500,6000,5000,28 Mar 2016,2016,Mar,28,2016-03-28
+4,,Guntur,Vinukonda,Arhar Dal(Tur Dal),Other,FAQ,4500,6000,5000,29 Mar 2016,2016,Mar,29,2016-03-29
+5,,Guntur,Vinukonda,Arhar Dal(Tur Dal),Other,FAQ,4800,6000,5000,30 Mar 2016,2016,Mar,30,2016-03-30

@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Hassan,Arasikere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5320,5320,5320,02 Sep 2020,2020,Sep,2,2020-09-02
 1,1.0,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,800,9000,8500,06 Aug 2021,2021,Aug,6,2021-08-06
 2,2.0,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,960,10200,9900,30 Apr 2021,2021,Apr,30,2021-04-30
@@ -6161,256 +6161,256 @@
 6159,6159.0,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7400,7500,7452,19 Jul 2018,2018,Jul,19,2018-07-19
 6160,6160.0,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7500,8000,7750,21 Oct 2017,2017,Oct,21,2017-10-21
 6161,6161.0,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7700,8000,7850,04 Jun 2018,2018,Jun,4,2018-06-04
-6162,,Hassan,Arasikere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10045,10045,10045,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6163,,Hassan,Arasikere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10250,10690,10690,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6164,,Hassan,Arasikere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10334,10334,10334,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6165,,Hassan,Arasikere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10427,10427,10427,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6166,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,10600,10400,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6167,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,10600,10400,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6168,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,11500,10850,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6169,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,11500,10850,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6170,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6171,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6172,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-6173,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6174,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6175,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6176,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6177,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6178,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6179,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6180,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6181,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-6182,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6183,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6184,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6185,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-6186,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6187,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6188,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6189,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6190,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6191,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6192,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6193,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6194,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6195,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-6196,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6197,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6198,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6199,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6200,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6201,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6202,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6203,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6204,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,11200,10900,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6205,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,11200,10900,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6206,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,11200,10900,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-6207,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-6208,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-6209,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6210,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6211,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6212,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6213,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6214,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6215,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6216,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-6217,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6218,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6219,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6220,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6221,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-6222,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6223,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6224,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6225,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6226,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6227,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-6228,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6229,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6230,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6231,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6232,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6233,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6234,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6235,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6236,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-6237,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-6238,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-6239,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6240,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6241,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6242,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6243,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6244,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6245,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,8000,7500,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6246,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9000,10500,9700,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6247,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9000,10500,9700,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6248,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9500,10200,9800,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-6249,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9500,10200,9800,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-6250,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9500,10500,10000,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6251,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,12000,11000,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-6252,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,15000,13000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6253,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,13000,16000,14000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6254,,Davangere,Davangere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6255,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7400,7400,7400,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-6256,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7600,7600,7600,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6257,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8600,8100,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6258,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,9500,8500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6259,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9305,9305,9305,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-6260,,Kolar,Kolar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,10500,10350,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6261,,Kolar,Kolar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10900,11200,11030,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6262,,Kolar,Kolar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,12700,12900,12800,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6263,,Kolar,Malur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10640,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6264,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1850,6256,4373,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6265,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7400,7200,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-6266,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7425,7300,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6267,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7475,7100,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6268,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7475,7200,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6269,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7500,7300,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6270,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7325,7325,7325,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6271,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7325,7325,7325,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-6272,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7368,7700,7700,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6273,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7375,9800,8500,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6274,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7450,8000,8000,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-6275,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8055,9500,9000,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6276,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8900,9800,8900,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6277,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8900,9800,9500,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6278,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9125,11250,10500,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6279,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9380,9380,9380,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-6280,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9550,11500,10000,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6281,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9800,9800,9800,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-6282,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9800,10500,10000,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6283,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9800,10600,10300,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6284,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,10800,10500,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6285,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10400,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6286,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10500,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6287,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10600,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-6288,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10600,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6289,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10800,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6290,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11300,10900,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6291,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,11000,10600,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6292,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,11000,10600,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-6293,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10250,10700,10700,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6294,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10300,10300,10300,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6295,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10350,10350,10350,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6296,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,10700,10700,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6297,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,10400,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6298,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,10500,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6299,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,11000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-6300,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,11000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6301,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,11000,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6302,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10445,10445,10445,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-6303,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6304,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10600,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6305,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10700,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6306,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10700,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-6307,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10700,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6308,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10900,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6309,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10900,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-6310,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10550,10550,10550,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6311,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,10600,10600,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-6312,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,10000,9000,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6313,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6314,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6315,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6316,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6317,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6318,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6319,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6320,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6321,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6322,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6323,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6324,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6325,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-6326,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-6327,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-6328,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6329,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-6330,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-6331,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6332,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-6333,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-6334,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-6335,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6336,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6337,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6338,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10700,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-6339,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10700,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6340,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6341,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6342,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-6343,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6344,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-6345,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-6346,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6347,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6348,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6349,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6350,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-6351,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6352,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6353,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-6354,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6355,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-6356,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6357,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6358,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6359,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-6360,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6361,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6362,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6363,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6364,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6365,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6366,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6367,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-6368,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6369,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6370,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6371,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6372,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6373,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6374,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10850,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6375,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10850,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-6376,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,15800,13150,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6377,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-6378,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6379,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6380,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6381,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6382,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6383,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6384,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6385,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6386,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6387,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-6388,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-6389,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-6390,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6391,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6392,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6393,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6394,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-6395,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6396,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6397,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6398,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6399,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6400,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6401,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6402,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6403,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6404,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-6405,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6406,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6407,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-6408,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6409,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6410,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6411,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,11500,15800,13150,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6412,,Tumkur,Sira,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9700,9700,9700,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6413,,Tumkur,Sira,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9700,9700,9700,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6414,,Tumkur,Sira,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10101,10101,10101,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
+6162,,Hassan,Arasikere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10045,10045,10045,03 Sep 2024,2024,Sep,3,2024-09-03
+6163,,Hassan,Arasikere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10250,10690,10690,27 Aug 2024,2024,Aug,27,2024-08-27
+6164,,Hassan,Arasikere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10334,10334,10334,11 Sep 2024,2024,Sep,11,2024-09-11
+6165,,Hassan,Arasikere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10427,10427,10427,14 Aug 2024,2024,Aug,14,2024-08-14
+6166,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,10600,10400,07 Nov 2024,2024,Nov,7,2024-11-07
+6167,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,10600,10400,08 Nov 2024,2024,Nov,8,2024-11-08
+6168,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,11500,10850,02 Dec 2024,2024,Dec,2,2024-12-02
+6169,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,11500,10850,03 Dec 2024,2024,Dec,3,2024-12-03
+6170,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,01 Aug 2024,2024,Aug,1,2024-08-01
+6171,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,02 Aug 2024,2024,Aug,2,2024-08-02
+6172,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,03 Aug 2024,2024,Aug,3,2024-08-03
+6173,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,05 Aug 2024,2024,Aug,5,2024-08-05
+6174,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,06 Aug 2024,2024,Aug,6,2024-08-06
+6175,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,07 Aug 2024,2024,Aug,7,2024-08-07
+6176,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,08 Aug 2024,2024,Aug,8,2024-08-08
+6177,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,08 Oct 2024,2024,Oct,8,2024-10-08
+6178,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,09 Oct 2024,2024,Oct,9,2024-10-09
+6179,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,10 Oct 2024,2024,Oct,10,2024-10-10
+6180,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,14 Oct 2024,2024,Oct,14,2024-10-14
+6181,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,15 Oct 2024,2024,Oct,15,2024-10-15
+6182,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,16 Oct 2024,2024,Oct,16,2024-10-16
+6183,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,18 Oct 2024,2024,Oct,18,2024-10-18
+6184,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,04 Nov 2024,2024,Nov,4,2024-11-04
+6185,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,19 Oct 2024,2024,Oct,19,2024-10-19
+6186,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,21 Oct 2024,2024,Oct,21,2024-10-21
+6187,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,22 Oct 2024,2024,Oct,22,2024-10-22
+6188,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,24 Oct 2024,2024,Oct,24,2024-10-24
+6189,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,25 Oct 2024,2024,Oct,25,2024-10-25
+6190,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,28 Oct 2024,2024,Oct,28,2024-10-28
+6191,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,29 Oct 2024,2024,Oct,29,2024-10-29
+6192,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11600,11050,30 Oct 2024,2024,Oct,30,2024-10-30
+6193,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,09 Aug 2024,2024,Aug,9,2024-08-09
+6194,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,12 Aug 2024,2024,Aug,12,2024-08-12
+6195,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,13 Aug 2024,2024,Aug,13,2024-08-13
+6196,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,14 Aug 2024,2024,Aug,14,2024-08-14
+6197,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,16 Aug 2024,2024,Aug,16,2024-08-16
+6198,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,17 Aug 2024,2024,Aug,17,2024-08-17
+6199,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,19 Aug 2024,2024,Aug,19,2024-08-19
+6200,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,20 Aug 2024,2024,Aug,20,2024-08-20
+6201,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,21 Aug 2024,2024,Aug,21,2024-08-21
+6202,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,22 Aug 2024,2024,Aug,22,2024-08-22
+6203,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,12000,11250,23 Aug 2024,2024,Aug,23,2024-08-23
+6204,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,11200,10900,11 Sep 2024,2024,Sep,11,2024-09-11
+6205,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,11200,10900,12 Sep 2024,2024,Sep,12,2024-09-12
+6206,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,11200,10900,13 Sep 2024,2024,Sep,13,2024-09-13
+6207,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,20 Jul 2024,2024,Jul,20,2024-07-20
+6208,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,22 Jul 2024,2024,Jul,22,2024-07-22
+6209,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,23 Jul 2024,2024,Jul,23,2024-07-23
+6210,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,24 Jul 2024,2024,Jul,24,2024-07-24
+6211,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,25 Jul 2024,2024,Jul,25,2024-07-25
+6212,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,26 Jul 2024,2024,Jul,26,2024-07-26
+6213,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,29 Jul 2024,2024,Jul,29,2024-07-29
+6214,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,12000,11300,31 Jul 2024,2024,Jul,31,2024-07-31
+6215,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,09 Sep 2024,2024,Sep,9,2024-09-09
+6216,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,10 Sep 2024,2024,Sep,10,2024-09-10
+6217,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,27 Aug 2024,2024,Aug,27,2024-08-27
+6218,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,28 Aug 2024,2024,Aug,28,2024-08-28
+6219,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,29 Aug 2024,2024,Aug,29,2024-08-29
+6220,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,01 Oct 2024,2024,Oct,1,2024-10-01
+6221,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,03 Oct 2024,2024,Oct,3,2024-10-03
+6222,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,07 Oct 2024,2024,Oct,7,2024-10-07
+6223,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,17 Sep 2024,2024,Sep,17,2024-09-17
+6224,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,18 Sep 2024,2024,Sep,18,2024-09-18
+6225,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,19 Sep 2024,2024,Sep,19,2024-09-19
+6226,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,20 Sep 2024,2024,Sep,20,2024-09-20
+6227,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,21 Sep 2024,2024,Sep,21,2024-09-21
+6228,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,23 Sep 2024,2024,Sep,23,2024-09-23
+6229,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,24 Sep 2024,2024,Sep,24,2024-09-24
+6230,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,25 Sep 2024,2024,Sep,25,2024-09-25
+6231,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,26 Sep 2024,2024,Sep,26,2024-09-26
+6232,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,27 Sep 2024,2024,Sep,27,2024-09-27
+6233,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,12000,11350,30 Sep 2024,2024,Sep,30,2024-09-30
+6234,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,01 Jul 2024,2024,Jul,1,2024-07-01
+6235,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,02 Jul 2024,2024,Jul,2,2024-07-02
+6236,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,03 Jul 2024,2024,Jul,3,2024-07-03
+6237,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,04 Jul 2024,2024,Jul,4,2024-07-04
+6238,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,05 Jul 2024,2024,Jul,5,2024-07-05
+6239,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,09 Jul 2024,2024,Jul,9,2024-07-09
+6240,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,10 Jul 2024,2024,Jul,10,2024-07-10
+6241,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,11 Jul 2024,2024,Jul,11,2024-07-11
+6242,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,12 Jul 2024,2024,Jul,12,2024-07-12
+6243,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,15 Jul 2024,2024,Jul,15,2024-07-15
+6244,,Bangalore,Bangalore,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10800,11600,11200,19 Jul 2024,2024,Jul,19,2024-07-19
+6245,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,8000,7500,18 Jul 2024,2024,Jul,18,2024-07-18
+6246,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9000,10500,9700,05 Sep 2024,2024,Sep,5,2024-09-05
+6247,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9000,10500,9700,12 Sep 2024,2024,Sep,12,2024-09-12
+6248,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9500,10200,9800,05 Oct 2024,2024,Oct,5,2024-10-05
+6249,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9500,10200,9800,26 Oct 2024,2024,Oct,26,2024-10-26
+6250,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9500,10500,10000,25 Sep 2024,2024,Sep,25,2024-09-25
+6251,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,12000,11000,04 Jul 2024,2024,Jul,4,2024-07-04
+6252,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,15000,13000,08 Aug 2024,2024,Aug,8,2024-08-08
+6253,,Kolar,Bangarpet,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,13000,16000,14000,26 Jul 2024,2024,Jul,26,2024-07-26
+6254,,Davangere,Davangere,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,01 Oct 2024,2024,Oct,1,2024-10-01
+6255,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7400,7400,7400,02 Oct 2024,2024,Oct,2,2024-10-02
+6256,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7600,7600,7600,29 Oct 2024,2024,Oct,29,2024-10-29
+6257,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8600,8100,26 Jul 2024,2024,Jul,26,2024-07-26
+6258,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,9500,8500,28 Oct 2024,2024,Oct,28,2024-10-28
+6259,,Hassan,Hassan,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9305,9305,9305,29 Sep 2024,2024,Sep,29,2024-09-29
+6260,,Kolar,Kolar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,10500,10350,12 Jul 2024,2024,Jul,12,2024-07-12
+6261,,Kolar,Kolar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10900,11200,11030,19 Jul 2024,2024,Jul,19,2024-07-19
+6262,,Kolar,Kolar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,12700,12900,12800,26 Sep 2024,2024,Sep,26,2024-09-26
+6263,,Kolar,Malur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10640,29 Oct 2024,2024,Oct,29,2024-10-29
+6264,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1850,6256,4373,23 Aug 2024,2024,Aug,23,2024-08-23
+6265,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7400,7200,26 Aug 2024,2024,Aug,26,2024-08-26
+6266,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7425,7300,29 Aug 2024,2024,Aug,29,2024-08-29
+6267,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7475,7100,22 Aug 2024,2024,Aug,22,2024-08-22
+6268,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7475,7200,27 Aug 2024,2024,Aug,27,2024-08-27
+6269,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7500,7300,30 Aug 2024,2024,Aug,30,2024-08-30
+6270,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7325,7325,7325,11 Sep 2024,2024,Sep,11,2024-09-11
+6271,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7325,7325,7325,21 Sep 2024,2024,Sep,21,2024-09-21
+6272,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7368,7700,7700,08 Aug 2024,2024,Aug,8,2024-08-08
+6273,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7375,9800,8500,09 Aug 2024,2024,Aug,9,2024-08-09
+6274,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7450,8000,8000,29 Nov 2024,2024,Nov,29,2024-11-29
+6275,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8055,9500,9000,07 Aug 2024,2024,Aug,7,2024-08-07
+6276,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8900,9800,8900,18 Sep 2024,2024,Sep,18,2024-09-18
+6277,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8900,9800,9500,17 Sep 2024,2024,Sep,17,2024-09-17
+6278,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9125,11250,10500,12 Aug 2024,2024,Aug,12,2024-08-12
+6279,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9380,9380,9380,30 Nov 2024,2024,Nov,30,2024-11-30
+6280,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9550,11500,10000,02 Dec 2024,2024,Dec,2,2024-12-02
+6281,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9800,9800,9800,13 Aug 2024,2024,Aug,13,2024-08-13
+6282,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9800,10500,10000,11 Nov 2024,2024,Nov,11,2024-11-11
+6283,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9800,10600,10300,04 Oct 2024,2024,Oct,4,2024-10-04
+6284,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,10800,10500,17 Aug 2024,2024,Aug,17,2024-08-17
+6285,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10400,24 Jul 2024,2024,Jul,24,2024-07-24
+6286,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10500,23 Jul 2024,2024,Jul,23,2024-07-23
+6287,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10600,27 Jul 2024,2024,Jul,27,2024-07-27
+6288,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10600,29 Jul 2024,2024,Jul,29,2024-07-29
+6289,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11000,10800,31 Jul 2024,2024,Jul,31,2024-07-31
+6290,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10000,11300,10900,05 Nov 2024,2024,Nov,5,2024-11-05
+6291,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,11000,10600,01 Jul 2024,2024,Jul,1,2024-07-01
+6292,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10200,11000,10600,05 Jul 2024,2024,Jul,5,2024-07-05
+6293,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10250,10700,10700,23 Sep 2024,2024,Sep,23,2024-09-23
+6294,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10300,10300,10300,07 Nov 2024,2024,Nov,7,2024-11-07
+6295,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10350,10350,10350,05 Aug 2024,2024,Aug,5,2024-08-05
+6296,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,10700,10700,06 Sep 2024,2024,Sep,6,2024-09-06
+6297,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,10400,15 Jul 2024,2024,Jul,15,2024-07-15
+6298,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,10500,18 Jul 2024,2024,Jul,18,2024-07-18
+6299,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,11000,08 Jul 2024,2024,Jul,8,2024-07-08
+6300,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,11000,09 Jul 2024,2024,Jul,9,2024-07-09
+6301,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10400,11000,11000,11 Jul 2024,2024,Jul,11,2024-07-11
+6302,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10445,10445,10445,10 Aug 2024,2024,Aug,10,2024-08-10
+6303,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,26 Sep 2024,2024,Sep,26,2024-09-26
+6304,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10600,14 Oct 2024,2024,Oct,14,2024-10-14
+6305,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10700,25 Oct 2024,2024,Oct,25,2024-10-25
+6306,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10700,26 Oct 2024,2024,Oct,26,2024-10-26
+6307,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10700,28 Oct 2024,2024,Oct,28,2024-10-28
+6308,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10900,06 Nov 2024,2024,Nov,6,2024-11-06
+6309,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10900,09 Nov 2024,2024,Nov,9,2024-11-09
+6310,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10550,10550,10550,03 Sep 2024,2024,Sep,3,2024-09-03
+6311,,Mysore,Mysore (Bandipalya),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10600,10600,10600,10 Sep 2024,2024,Sep,10,2024-09-10
+6312,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,10000,9000,04 Oct 2024,2024,Oct,4,2024-10-04
+6313,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,02 Dec 2024,2024,Dec,2,2024-12-02
+6314,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,03 Dec 2024,2024,Dec,3,2024-12-03
+6315,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,04 Nov 2024,2024,Nov,4,2024-11-04
+6316,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,05 Nov 2024,2024,Nov,5,2024-11-05
+6317,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,06 Nov 2024,2024,Nov,6,2024-11-06
+6318,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,07 Nov 2024,2024,Nov,7,2024-11-07
+6319,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,08 Nov 2024,2024,Nov,8,2024-11-08
+6320,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,10 Oct 2024,2024,Oct,10,2024-10-10
+6321,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,11 Nov 2024,2024,Nov,11,2024-11-11
+6322,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,12 Nov 2024,2024,Nov,12,2024-11-12
+6323,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,14 Nov 2024,2024,Nov,14,2024-11-14
+6324,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,14 Oct 2024,2024,Oct,14,2024-10-14
+6325,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,15 Nov 2024,2024,Nov,15,2024-11-15
+6326,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,15 Oct 2024,2024,Oct,15,2024-10-15
+6327,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,16 Nov 2024,2024,Nov,16,2024-11-16
+6328,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,16 Oct 2024,2024,Oct,16,2024-10-16
+6329,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,19 Nov 2024,2024,Nov,19,2024-11-19
+6330,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,20 Nov 2024,2024,Nov,20,2024-11-20
+6331,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,25 Oct 2024,2024,Oct,25,2024-10-25
+6332,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,26 Nov 2024,2024,Nov,26,2024-11-26
+6333,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,27 Nov 2024,2024,Nov,27,2024-11-27
+6334,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,28 Nov 2024,2024,Nov,28,2024-11-28
+6335,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,28 Oct 2024,2024,Oct,28,2024-10-28
+6336,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,29 Oct 2024,2024,Oct,29,2024-10-29
+6337,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10650,30 Oct 2024,2024,Oct,30,2024-10-30
+6338,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,10800,10700,13 Nov 2024,2024,Nov,13,2024-11-13
+6339,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10700,09 Aug 2024,2024,Aug,9,2024-08-09
+6340,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,01 Oct 2024,2024,Oct,1,2024-10-01
+6341,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,02 Sep 2024,2024,Sep,2,2024-09-02
+6342,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,03 Oct 2024,2024,Oct,3,2024-10-03
+6343,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,03 Sep 2024,2024,Sep,3,2024-09-03
+6344,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,04 Sep 2024,2024,Sep,4,2024-09-04
+6345,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,05 Oct 2024,2024,Oct,5,2024-10-05
+6346,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,05 Sep 2024,2024,Sep,5,2024-09-05
+6347,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,06 Sep 2024,2024,Sep,6,2024-09-06
+6348,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,07 Oct 2024,2024,Oct,7,2024-10-07
+6349,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,08 Oct 2024,2024,Oct,8,2024-10-08
+6350,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,10 Sep 2024,2024,Sep,10,2024-09-10
+6351,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,11 Sep 2024,2024,Sep,11,2024-09-11
+6352,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,12 Sep 2024,2024,Sep,12,2024-09-12
+6353,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,13 Sep 2024,2024,Sep,13,2024-09-13
+6354,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,17 Sep 2024,2024,Sep,17,2024-09-17
+6355,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,19 Oct 2024,2024,Oct,19,2024-10-19
+6356,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,19 Sep 2024,2024,Sep,19,2024-09-19
+6357,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,20 Sep 2024,2024,Sep,20,2024-09-20
+6358,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,21 Oct 2024,2024,Oct,21,2024-10-21
+6359,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,21 Sep 2024,2024,Sep,21,2024-09-21
+6360,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,22 Aug 2024,2024,Aug,22,2024-08-22
+6361,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,22 Oct 2024,2024,Oct,22,2024-10-22
+6362,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,23 Oct 2024,2024,Oct,23,2024-10-23
+6363,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,23 Sep 2024,2024,Sep,23,2024-09-23
+6364,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,24 Oct 2024,2024,Oct,24,2024-10-24
+6365,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,24 Sep 2024,2024,Sep,24,2024-09-24
+6366,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,25 Sep 2024,2024,Sep,25,2024-09-25
+6367,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,26 Aug 2024,2024,Aug,26,2024-08-26
+6368,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,26 Sep 2024,2024,Sep,26,2024-09-26
+6369,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,27 Aug 2024,2024,Aug,27,2024-08-27
+6370,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,27 Sep 2024,2024,Sep,27,2024-09-27
+6371,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,28 Aug 2024,2024,Aug,28,2024-08-28
+6372,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,29 Aug 2024,2024,Aug,29,2024-08-29
+6373,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10750,30 Sep 2024,2024,Sep,30,2024-09-30
+6374,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10850,30 Aug 2024,2024,Aug,30,2024-08-30
+6375,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,11000,10850,31 Aug 2024,2024,Aug,31,2024-08-31
+6376,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10500,15800,13150,18 Oct 2024,2024,Oct,18,2024-10-18
+6377,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,04 Jul 2024,2024,Jul,4,2024-07-04
+6378,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,06 Aug 2024,2024,Aug,6,2024-08-06
+6379,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,07 Aug 2024,2024,Aug,7,2024-08-07
+6380,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,08 Aug 2024,2024,Aug,8,2024-08-08
+6381,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,24 Jul 2024,2024,Jul,24,2024-07-24
+6382,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,25 Jul 2024,2024,Jul,25,2024-07-25
+6383,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10800,31 Jul 2024,2024,Jul,31,2024-07-31
+6384,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,01 Jul 2024,2024,Jul,1,2024-07-01
+6385,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,02 Aug 2024,2024,Aug,2,2024-08-02
+6386,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,02 Jul 2024,2024,Jul,2,2024-07-02
+6387,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,05 Jul 2024,2024,Jul,5,2024-07-05
+6388,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,06 Jul 2024,2024,Jul,6,2024-07-06
+6389,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,08 Jul 2024,2024,Jul,8,2024-07-08
+6390,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,10 Jul 2024,2024,Jul,10,2024-07-10
+6391,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,11 Jul 2024,2024,Jul,11,2024-07-11
+6392,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,12 Aug 2024,2024,Aug,12,2024-08-12
+6393,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,12 Jul 2024,2024,Jul,12,2024-07-12
+6394,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,13 Aug 2024,2024,Aug,13,2024-08-13
+6395,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,14 Aug 2024,2024,Aug,14,2024-08-14
+6396,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,15 Jul 2024,2024,Jul,15,2024-07-15
+6397,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,16 Aug 2024,2024,Aug,16,2024-08-16
+6398,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,17 Aug 2024,2024,Aug,17,2024-08-17
+6399,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,18 Jul 2024,2024,Jul,18,2024-07-18
+6400,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,19 Aug 2024,2024,Aug,19,2024-08-19
+6401,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,20 Aug 2024,2024,Aug,20,2024-08-20
+6402,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,21 Aug 2024,2024,Aug,21,2024-08-21
+6403,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10850,23 Jul 2024,2024,Jul,23,2024-07-23
+6404,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,03 Aug 2024,2024,Aug,3,2024-08-03
+6405,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,05 Aug 2024,2024,Aug,5,2024-08-05
+6406,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,19 Jul 2024,2024,Jul,19,2024-07-19
+6407,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,20 Jul 2024,2024,Jul,20,2024-07-20
+6408,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,26 Jul 2024,2024,Jul,26,2024-07-26
+6409,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,29 Jul 2024,2024,Jul,29,2024-07-29
+6410,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10700,11000,10900,30 Jul 2024,2024,Jul,30,2024-07-30
+6411,,Shimoga,Shimoga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,11500,15800,13150,09 Oct 2024,2024,Oct,9,2024-10-09
+6412,,Tumkur,Sira,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9700,9700,9700,12 Aug 2024,2024,Aug,12,2024-08-12
+6413,,Tumkur,Sira,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9700,9700,9700,12 Sep 2024,2024,Sep,12,2024-09-12
+6414,,Tumkur,Sira,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,10101,10101,10101,31 Aug 2024,2024,Aug,31,2024-08-31

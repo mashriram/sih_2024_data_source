@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Hingoli,Hingoli,Black Gram Dal (Urd Dal),Other,FAQ,4090,7200,5645,26 Sep 2020,2020,Sep,26,2020-09-26
 1,1.0,Hingoli,Hingoli,Black Gram Dal (Urd Dal),Other,FAQ,5000,6000,5500,14 Sep 2020,2020,Sep,14,2020-09-14
 2,2.0,Hingoli,Hingoli,Black Gram Dal (Urd Dal),Other,FAQ,6600,7200,6900,07 Oct 2020,2020,Oct,7,2020-10-07
@@ -2194,98 +2194,98 @@
 2192,2192.0,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,6200,7000,6600,02 Oct 2017,2017,Oct,2,2017-10-02
 2193,2193.0,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,6200,7000,6600,28 Sep 2017,2017,Sep,28,2017-09-28
 2194,2194.0,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,6200,7000,6600,29 Sep 2017,2017,Sep,29,2017-09-29
-2195,,Jalgaon,Chalisgaon,Black Gram Dal (Urd Dal),Other,FAQ,4200,7700,6000,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-2196,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-2197,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-2198,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-2199,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-2200,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-2201,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-2202,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-2203,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-2204,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-2205,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-2206,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-2207,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-2208,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-2209,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-2210,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-2211,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-2212,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-2213,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-2214,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-2215,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-2216,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-2217,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-2218,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-2219,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-2220,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-2221,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-2222,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-2223,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-2224,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-2225,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-2226,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-2227,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-2228,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-2229,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-2230,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-2231,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-2232,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-2233,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-2234,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-2235,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-2236,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-2237,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-2238,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-2239,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-2240,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-2241,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-2242,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-2243,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-2244,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-2245,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-2246,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-2247,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-2248,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-2249,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-2250,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-2251,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-2252,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-2253,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-2254,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-2255,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-2256,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-2257,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-2258,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-2259,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-2260,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-2261,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-2262,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-2263,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-2264,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-2265,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-2266,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-2267,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-2268,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-2269,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-2270,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-2271,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-2272,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-2273,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-2274,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-2275,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-2276,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-2277,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-2278,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-2279,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-2280,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-2281,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-2282,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-2283,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-2284,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-2285,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-2286,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-2287,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-2288,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-2289,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
+2195,,Jalgaon,Chalisgaon,Black Gram Dal (Urd Dal),Other,FAQ,4200,7700,6000,24 Sep 2024,2024,Sep,24,2024-09-24
+2196,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,02 Dec 2024,2024,Dec,2,2024-12-02
+2197,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,03 Dec 2024,2024,Dec,3,2024-12-03
+2198,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,27 Nov 2024,2024,Nov,27,2024-11-27
+2199,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,28 Nov 2024,2024,Nov,28,2024-11-28
+2200,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,9000,11000,10500,30 Nov 2024,2024,Nov,30,2024-11-30
+2201,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,01 Aug 2024,2024,Aug,1,2024-08-01
+2202,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,01 Jul 2024,2024,Jul,1,2024-07-01
+2203,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,02 Aug 2024,2024,Aug,2,2024-08-02
+2204,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,04 Jul 2024,2024,Jul,4,2024-07-04
+2205,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,05 Aug 2024,2024,Aug,5,2024-08-05
+2206,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,05 Jul 2024,2024,Jul,5,2024-07-05
+2207,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,06 Aug 2024,2024,Aug,6,2024-08-06
+2208,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,06 Jul 2024,2024,Jul,6,2024-07-06
+2209,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,07 Aug 2024,2024,Aug,7,2024-08-07
+2210,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,08 Aug 2024,2024,Aug,8,2024-08-08
+2211,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,08 Jul 2024,2024,Jul,8,2024-07-08
+2212,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,09 Aug 2024,2024,Aug,9,2024-08-09
+2213,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,09 Jul 2024,2024,Jul,9,2024-07-09
+2214,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,10 Jul 2024,2024,Jul,10,2024-07-10
+2215,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,11 Jul 2024,2024,Jul,11,2024-07-11
+2216,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,12 Aug 2024,2024,Aug,12,2024-08-12
+2217,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,12 Jul 2024,2024,Jul,12,2024-07-12
+2218,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,15 Jul 2024,2024,Jul,15,2024-07-15
+2219,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,16 Jul 2024,2024,Jul,16,2024-07-16
+2220,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,19 Jul 2024,2024,Jul,19,2024-07-19
+2221,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,22 Jul 2024,2024,Jul,22,2024-07-22
+2222,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,23 Jul 2024,2024,Jul,23,2024-07-23
+2223,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,24 Jul 2024,2024,Jul,24,2024-07-24
+2224,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,25 Jul 2024,2024,Jul,25,2024-07-25
+2225,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,26 Jul 2024,2024,Jul,26,2024-07-26
+2226,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,30 Jul 2024,2024,Jul,30,2024-07-30
+2227,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10500,12500,11800,31 Jul 2024,2024,Jul,31,2024-07-31
+2228,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,01 Oct 2024,2024,Oct,1,2024-10-01
+2229,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,03 Oct 2024,2024,Oct,3,2024-10-03
+2230,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,04 Oct 2024,2024,Oct,4,2024-10-04
+2231,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,04 Sep 2024,2024,Sep,4,2024-09-04
+2232,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,05 Sep 2024,2024,Sep,5,2024-09-05
+2233,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,06 Sep 2024,2024,Sep,6,2024-09-06
+2234,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,09 Oct 2024,2024,Oct,9,2024-10-09
+2235,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,09 Sep 2024,2024,Sep,9,2024-09-09
+2236,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,10 Oct 2024,2024,Oct,10,2024-10-10
+2237,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,10 Sep 2024,2024,Sep,10,2024-09-10
+2238,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,11 Oct 2024,2024,Oct,11,2024-10-11
+2239,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,11 Sep 2024,2024,Sep,11,2024-09-11
+2240,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,12 Sep 2024,2024,Sep,12,2024-09-12
+2241,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,13 Sep 2024,2024,Sep,13,2024-09-13
+2242,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,14 Oct 2024,2024,Oct,14,2024-10-14
+2243,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,14 Sep 2024,2024,Sep,14,2024-09-14
+2244,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,15 Oct 2024,2024,Oct,15,2024-10-15
+2245,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,16 Oct 2024,2024,Oct,16,2024-10-16
+2246,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,16 Sep 2024,2024,Sep,16,2024-09-16
+2247,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,17 Oct 2024,2024,Oct,17,2024-10-17
+2248,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,18 Oct 2024,2024,Oct,18,2024-10-18
+2249,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,18 Sep 2024,2024,Sep,18,2024-09-18
+2250,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,19 Sep 2024,2024,Sep,19,2024-09-19
+2251,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,20 Sep 2024,2024,Sep,20,2024-09-20
+2252,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,21 Sep 2024,2024,Sep,21,2024-09-21
+2253,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,23 Sep 2024,2024,Sep,23,2024-09-23
+2254,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,24 Sep 2024,2024,Sep,24,2024-09-24
+2255,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,26 Sep 2024,2024,Sep,26,2024-09-26
+2256,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,27 Sep 2024,2024,Sep,27,2024-09-27
+2257,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,10600,13500,12850,30 Sep 2024,2024,Sep,30,2024-09-30
+2258,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,02 Nov 2024,2024,Nov,2,2024-11-02
+2259,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,04 Nov 2024,2024,Nov,4,2024-11-04
+2260,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,06 Nov 2024,2024,Nov,6,2024-11-06
+2261,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,07 Nov 2024,2024,Nov,7,2024-11-07
+2262,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,08 Nov 2024,2024,Nov,8,2024-11-08
+2263,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,09 Nov 2024,2024,Nov,9,2024-11-09
+2264,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,11 Nov 2024,2024,Nov,11,2024-11-11
+2265,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,12 Nov 2024,2024,Nov,12,2024-11-12
+2266,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,13 Nov 2024,2024,Nov,13,2024-11-13
+2267,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,14 Nov 2024,2024,Nov,14,2024-11-14
+2268,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,15 Nov 2024,2024,Nov,15,2024-11-15
+2269,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,16 Nov 2024,2024,Nov,16,2024-11-16
+2270,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,19 Nov 2024,2024,Nov,19,2024-11-19
+2271,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,22 Nov 2024,2024,Nov,22,2024-11-22
+2272,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,23 Nov 2024,2024,Nov,23,2024-11-23
+2273,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,25 Nov 2024,2024,Nov,25,2024-11-25
+2274,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,26 Nov 2024,2024,Nov,26,2024-11-26
+2275,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,29 Oct 2024,2024,Oct,29,2024-10-29
+2276,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,13000,12200,30 Oct 2024,2024,Oct,30,2024-10-30
+2277,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,02 Sep 2024,2024,Sep,2,2024-09-02
+2278,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,03 Sep 2024,2024,Sep,3,2024-09-03
+2279,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,13 Aug 2024,2024,Aug,13,2024-08-13
+2280,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,14 Aug 2024,2024,Aug,14,2024-08-14
+2281,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,16 Aug 2024,2024,Aug,16,2024-08-16
+2282,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,20 Aug 2024,2024,Aug,20,2024-08-20
+2283,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,21 Aug 2024,2024,Aug,21,2024-08-21
+2284,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,22 Aug 2024,2024,Aug,22,2024-08-22
+2285,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,23 Aug 2024,2024,Aug,23,2024-08-23
+2286,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,24 Aug 2024,2024,Aug,24,2024-08-24
+2287,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,26 Aug 2024,2024,Aug,26,2024-08-26
+2288,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,28 Aug 2024,2024,Aug,28,2024-08-28
+2289,,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,11000,14000,12850,29 Aug 2024,2024,Aug,29,2024-08-29

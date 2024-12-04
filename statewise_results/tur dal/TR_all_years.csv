@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8000,9000,8500,23 Jun 2017,2017,Jun,23,2017-06-23
 1,1.0,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8000,9000,8500,29 May 2017,2017,May,29,2017-05-29
 2,2.0,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8000,10000,8500,19 Jun 2017,2017,Jun,19,2017-06-19
@@ -253,90 +253,90 @@
 251,251.0,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,27 Oct 2017,2017,Oct,27,2017-10-27
 252,252.0,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,29 Sep 2017,2017,Sep,29,2017-09-29
 253,253.0,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,30 Oct 2017,2017,Oct,30,2017-10-30
-254,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8000,9000,8500,23 Jun 2017,2017,Jun,23,2017-06-23 00:00:00
-255,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8000,9000,8500,29 May 2017,2017,May,29,2017-05-29 00:00:00
-256,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8000,10000,8500,19 Jun 2017,2017,Jun,19,2017-06-19 00:00:00
-257,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8500,9200,9000,26 May 2017,2017,May,26,2017-05-26 00:00:00
-258,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,07 Apr 2017,2017,Apr,07,2017-04-07 00:00:00
-259,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,10 Apr 2017,2017,Apr,10,2017-04-10 00:00:00
-260,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,14 Apr 2017,2017,Apr,14,2017-04-14 00:00:00
-261,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,14 Jul 2017,2017,Jul,14,2017-07-14 00:00:00
-262,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,17 Apr 2017,2017,Apr,17,2017-04-17 00:00:00
-263,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,17 Jul 2017,2017,Jul,17,2017-07-17 00:00:00
-264,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,21 Apr 2017,2017,Apr,21,2017-04-21 00:00:00
-265,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,21 Jul 2017,2017,Jul,21,2017-07-21 00:00:00
-266,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,24 Jul 2017,2017,Jul,24,2017-07-24 00:00:00
-267,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,27 Mar 2017,2017,Mar,27,2017-03-27 00:00:00
-268,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,30 Jun 2017,2017,Jun,30,2017-06-30 00:00:00
-269,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,10000,9500,02 Jun 2017,2017,Jun,02,2017-06-02 00:00:00
-270,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,10000,9500,12 Jun 2017,2017,Jun,12,2017-06-12 00:00:00
-271,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,10300,9500,31 Mar 2017,2017,Mar,31,2017-03-31 00:00:00
-272,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9050,9500,9200,03 Apr 2017,2017,Apr,03,2017-04-03 00:00:00
-273,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,05 Jun 2017,2017,Jun,05,2017-06-05 00:00:00
-274,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,09 Jun 2017,2017,Jun,09,2017-06-09 00:00:00
-275,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,16 Jun 2017,2017,Jun,16,2017-06-16 00:00:00
-276,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,24 Apr 2017,2017,Apr,24,2017-04-24 00:00:00
-277,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,26 Jun 2017,2017,Jun,26,2017-06-26 00:00:00
-278,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,10000,9500,01 May 2017,2017,May,01,2017-05-01 00:00:00
-279,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,05 May 2017,2017,May,05,2017-05-05 00:00:00
-280,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,08 May 2017,2017,May,08,2017-05-08 00:00:00
-281,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,15 May 2017,2017,May,15,2017-05-15 00:00:00
-282,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,19 May 2017,2017,May,19,2017-05-19 00:00:00
-283,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,22 May 2017,2017,May,22,2017-05-22 00:00:00
-284,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,01 Sep 2017,2017,Sep,01,2017-09-01 00:00:00
-285,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,04 Aug 2017,2017,Aug,04,2017-08-04 00:00:00
-286,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,07 Aug 2017,2017,Aug,07,2017-08-07 00:00:00
-287,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,11 Aug 2017,2017,Aug,11,2017-08-11 00:00:00
-288,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,14 Aug 2017,2017,Aug,14,2017-08-14 00:00:00
-289,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,18 Aug 2017,2017,Aug,18,2017-08-18 00:00:00
-290,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,21 Aug 2017,2017,Aug,21,2017-08-21 00:00:00
-291,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,25 Aug 2017,2017,Aug,25,2017-08-25 00:00:00
-292,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,28 Aug 2017,2017,Aug,28,2017-08-28 00:00:00
-293,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,28 Jul 2017,2017,Jul,28,2017-07-28 00:00:00
-294,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,31 Jul 2017,2017,Jul,31,2017-07-31 00:00:00
-295,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10200,11000,10500,17 Feb 2017,2017,Feb,17,2017-02-17 00:00:00
-296,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10500,10800,10700,03 Feb 2017,2017,Feb,03,2017-02-03 00:00:00
-297,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10500,12000,11000,12 May 2017,2017,May,12,2017-05-12 00:00:00
-298,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,06 Mar 2017,2017,Mar,06,2017-03-06 00:00:00
-299,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,10 Mar 2017,2017,Mar,10,2017-03-10 00:00:00
-300,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,13 Mar 2017,2017,Mar,13,2017-03-13 00:00:00
-301,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,17 Mar 2017,2017,Mar,17,2017-03-17 00:00:00
-302,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,20 Mar 2017,2017,Mar,20,2017-03-20 00:00:00
-303,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,24 Mar 2017,2017,Mar,24,2017-03-24 00:00:00
-304,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11000,10900,10 Feb 2017,2017,Feb,10,2017-02-10 00:00:00
-305,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11000,10900,13 Feb 2017,2017,Feb,13,2017-02-13 00:00:00
-306,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,03 Mar 2017,2017,Mar,03,2017-03-03 00:00:00
-307,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,04 Mar 2017,2017,Mar,04,2017-03-04 00:00:00
-308,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,20 Feb 2017,2017,Feb,20,2017-02-20 00:00:00
-309,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,21 Feb 2017,2017,Feb,21,2017-02-21 00:00:00
-310,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,24 Feb 2017,2017,Feb,24,2017-02-24 00:00:00
-311,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,27 Feb 2017,2017,Feb,27,2017-02-27 00:00:00
-312,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11000,12000,11500,28 Apr 2017,2017,Apr,28,2017-04-28 00:00:00
-313,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12300,13000,12500,20 Jan 2017,2017,Jan,20,2017-01-20 00:00:00
-314,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,02 Dec 2016,2016,Dec,02,2016-12-02 00:00:00
-315,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,05 Dec 2016,2016,Dec,05,2016-12-05 00:00:00
-316,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,06 Feb 2017,2017,Feb,06,2017-02-06 00:00:00
-317,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,16 Dec 2016,2016,Dec,16,2016-12-16 00:00:00
-318,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,25 Nov 2016,2016,Nov,25,2016-11-25 00:00:00
-319,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,27 Jan 2017,2017,Jan,27,2017-01-27 00:00:00
-320,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12800,09 Dec 2016,2016,Dec,09,2016-12-09 00:00:00
-321,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12600,13000,12800,12 Dec 2016,2016,Dec,12,2016-12-12 00:00:00
-322,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12700,13000,12800,19 Dec 2016,2016,Dec,19,2016-12-19 00:00:00
-323,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12700,13000,12800,23 Dec 2016,2016,Dec,23,2016-12-23 00:00:00
-324,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12700,13000,12800,30 Jan 2017,2017,Jan,30,2017-01-30 00:00:00
-325,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12700,13000,12900,23 Jan 2017,2017,Jan,23,2017-01-23 00:00:00
-326,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13000,13500,13200,21 Nov 2016,2016,Nov,21,2016-11-21 00:00:00
-327,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13200,13500,13300,02 Jan 2017,2017,Jan,02,2017-01-02 00:00:00
-328,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13200,13500,13400,09 Jan 2017,2017,Jan,09,2017-01-09 00:00:00
-329,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,04 Nov 2016,2016,Nov,04,2016-11-04 00:00:00
-330,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,06 Jan 2017,2017,Jan,06,2017-01-06 00:00:00
-331,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,11 Nov 2016,2016,Nov,11,2016-11-11 00:00:00
-332,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,26 Dec 2016,2016,Dec,26,2016-12-26 00:00:00
-333,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,28 Oct 2016,2016,Oct,28,2016-10-28 00:00:00
-334,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,30 Dec 2016,2016,Dec,30,2016-12-30 00:00:00
-335,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,31 Oct 2016,2016,Oct,31,2016-10-31 00:00:00
-336,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13600,13400,07 Nov 2016,2016,Nov,07,2016-11-07 00:00:00
-337,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13600,13400,14 Nov 2016,2016,Nov,14,2016-11-14 00:00:00
-338,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13600,13400,18 Nov 2016,2016,Nov,18,2016-11-18 00:00:00
-339,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13500,13900,13700,16 Jan 2017,2017,Jan,16,2017-01-16 00:00:00
-340,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13500,14000,13700,13 Jan 2017,2017,Jan,13,2017-01-13 00:00:00
+254,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8000,9000,8500,23 Jun 2017,2017,Jun,23,2017-06-23
+255,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8000,9000,8500,29 May 2017,2017,May,29,2017-05-29
+256,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8000,10000,8500,19 Jun 2017,2017,Jun,19,2017-06-19
+257,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8500,9200,9000,26 May 2017,2017,May,26,2017-05-26
+258,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,07 Apr 2017,2017,Apr,7,2017-04-07
+259,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,10 Apr 2017,2017,Apr,10,2017-04-10
+260,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,14 Apr 2017,2017,Apr,14,2017-04-14
+261,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,14 Jul 2017,2017,Jul,14,2017-07-14
+262,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,17 Apr 2017,2017,Apr,17,2017-04-17
+263,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,17 Jul 2017,2017,Jul,17,2017-07-17
+264,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,21 Apr 2017,2017,Apr,21,2017-04-21
+265,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,21 Jul 2017,2017,Jul,21,2017-07-21
+266,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,24 Jul 2017,2017,Jul,24,2017-07-24
+267,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,27 Mar 2017,2017,Mar,27,2017-03-27
+268,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,30 Jun 2017,2017,Jun,30,2017-06-30
+269,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,10000,9500,02 Jun 2017,2017,Jun,2,2017-06-02
+270,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,10000,9500,12 Jun 2017,2017,Jun,12,2017-06-12
+271,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,10300,9500,31 Mar 2017,2017,Mar,31,2017-03-31
+272,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9050,9500,9200,03 Apr 2017,2017,Apr,3,2017-04-03
+273,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,05 Jun 2017,2017,Jun,5,2017-06-05
+274,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,09 Jun 2017,2017,Jun,9,2017-06-09
+275,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,16 Jun 2017,2017,Jun,16,2017-06-16
+276,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,24 Apr 2017,2017,Apr,24,2017-04-24
+277,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9700,9500,26 Jun 2017,2017,Jun,26,2017-06-26
+278,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,10000,9500,01 May 2017,2017,May,1,2017-05-01
+279,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,05 May 2017,2017,May,5,2017-05-05
+280,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,08 May 2017,2017,May,8,2017-05-08
+281,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,15 May 2017,2017,May,15,2017-05-15
+282,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,19 May 2017,2017,May,19,2017-05-19
+283,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,10000,9700,22 May 2017,2017,May,22,2017-05-22
+284,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,01 Sep 2017,2017,Sep,1,2017-09-01
+285,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,04 Aug 2017,2017,Aug,4,2017-08-04
+286,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,07 Aug 2017,2017,Aug,7,2017-08-07
+287,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,11 Aug 2017,2017,Aug,11,2017-08-11
+288,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,14 Aug 2017,2017,Aug,14,2017-08-14
+289,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,18 Aug 2017,2017,Aug,18,2017-08-18
+290,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,21 Aug 2017,2017,Aug,21,2017-08-21
+291,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,25 Aug 2017,2017,Aug,25,2017-08-25
+292,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,28 Aug 2017,2017,Aug,28,2017-08-28
+293,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,28 Jul 2017,2017,Jul,28,2017-07-28
+294,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10000,11000,10500,31 Jul 2017,2017,Jul,31,2017-07-31
+295,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10200,11000,10500,17 Feb 2017,2017,Feb,17,2017-02-17
+296,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10500,10800,10700,03 Feb 2017,2017,Feb,3,2017-02-03
+297,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10500,12000,11000,12 May 2017,2017,May,12,2017-05-12
+298,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,06 Mar 2017,2017,Mar,6,2017-03-06
+299,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,10 Mar 2017,2017,Mar,10,2017-03-10
+300,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,13 Mar 2017,2017,Mar,13,2017-03-13
+301,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,17 Mar 2017,2017,Mar,17,2017-03-17
+302,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,20 Mar 2017,2017,Mar,20,2017-03-20
+303,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10600,11000,10800,24 Mar 2017,2017,Mar,24,2017-03-24
+304,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11000,10900,10 Feb 2017,2017,Feb,10,2017-02-10
+305,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11000,10900,13 Feb 2017,2017,Feb,13,2017-02-13
+306,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,03 Mar 2017,2017,Mar,3,2017-03-03
+307,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,04 Mar 2017,2017,Mar,4,2017-03-04
+308,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,20 Feb 2017,2017,Feb,20,2017-02-20
+309,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,21 Feb 2017,2017,Feb,21,2017-02-21
+310,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,24 Feb 2017,2017,Feb,24,2017-02-24
+311,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10800,11500,11000,27 Feb 2017,2017,Feb,27,2017-02-27
+312,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11000,12000,11500,28 Apr 2017,2017,Apr,28,2017-04-28
+313,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12300,13000,12500,20 Jan 2017,2017,Jan,20,2017-01-20
+314,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,02 Dec 2016,2016,Dec,2,2016-12-02
+315,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,05 Dec 2016,2016,Dec,5,2016-12-05
+316,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,06 Feb 2017,2017,Feb,6,2017-02-06
+317,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,16 Dec 2016,2016,Dec,16,2016-12-16
+318,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,25 Nov 2016,2016,Nov,25,2016-11-25
+319,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12700,27 Jan 2017,2017,Jan,27,2017-01-27
+320,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12500,13000,12800,09 Dec 2016,2016,Dec,9,2016-12-09
+321,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12600,13000,12800,12 Dec 2016,2016,Dec,12,2016-12-12
+322,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12700,13000,12800,19 Dec 2016,2016,Dec,19,2016-12-19
+323,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12700,13000,12800,23 Dec 2016,2016,Dec,23,2016-12-23
+324,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12700,13000,12800,30 Jan 2017,2017,Jan,30,2017-01-30
+325,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,12700,13000,12900,23 Jan 2017,2017,Jan,23,2017-01-23
+326,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13000,13500,13200,21 Nov 2016,2016,Nov,21,2016-11-21
+327,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13200,13500,13300,02 Jan 2017,2017,Jan,2,2017-01-02
+328,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13200,13500,13400,09 Jan 2017,2017,Jan,9,2017-01-09
+329,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,04 Nov 2016,2016,Nov,4,2016-11-04
+330,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,06 Jan 2017,2017,Jan,6,2017-01-06
+331,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,11 Nov 2016,2016,Nov,11,2016-11-11
+332,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,26 Dec 2016,2016,Dec,26,2016-12-26
+333,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,28 Oct 2016,2016,Oct,28,2016-10-28
+334,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,30 Dec 2016,2016,Dec,30,2016-12-30
+335,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13500,13400,31 Oct 2016,2016,Oct,31,2016-10-31
+336,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13600,13400,07 Nov 2016,2016,Nov,7,2016-11-07
+337,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13600,13400,14 Nov 2016,2016,Nov,14,2016-11-14
+338,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13300,13600,13400,18 Nov 2016,2016,Nov,18,2016-11-18
+339,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13500,13900,13700,16 Jan 2017,2017,Jan,16,2017-01-16
+340,,Khowai,Teliamura,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,13500,14000,13700,13 Jan 2017,2017,Jan,13,2017-01-13

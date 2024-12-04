@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Kishanganj,Bahadurganj,Masur Dal,Kala Masoor New,FAQ,7500,7800,7700,07 Aug 2022,2022,Aug,7,2022-08-07
 1,1.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,9000,9800,9500,06 Aug 2022,2022,Aug,6,2022-08-06
 2,2.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7000,6800,04 Nov 2022,2022,Nov,4,2022-11-04
@@ -184,5 +184,5 @@
 182,182.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7309,22 Apr 2023,2023,Apr,22,2023-04-22
 183,183.0,Buxar,Brahmpur,Masur Dal,Masoor Gola,FAQ,8000,10000,9000,28 Sep 2023,2023,Sep,28,2023-09-28
 184,184.0,Buxar,Brahmpur,Masur Dal,Masoor Gola,FAQ,8000,10000,9000,29 Sep 2023,2023,Sep,29,2023-09-29
-185,,Kishanganj,Bahadurganj,Masur Dal,Kala Masoor New,FAQ,7500,7800,7700,07 Aug 2022,2022,Aug,07,2022-08-07 00:00:00
-186,,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,9000,9800,9500,06 Aug 2022,2022,Aug,06,2022-08-06 00:00:00
+185,,Kishanganj,Bahadurganj,Masur Dal,Kala Masoor New,FAQ,7500,7800,7700,07 Aug 2022,2022,Aug,7,2022-08-07
+186,,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,9000,9800,9500,06 Aug 2022,2022,Aug,6,2022-08-06

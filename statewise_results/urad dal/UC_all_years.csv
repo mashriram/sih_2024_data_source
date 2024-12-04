@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Haridwar,Roorkee,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6500,7000,6500,15 Jul 2017,2017,Jul,15,2017-07-15
 1,1.0,Haridwar,Roorkee,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4350,4800,4500,11 Nov 2018,2018,Nov,11,2018-11-11
 2,2.0,Haridwar,Roorkee,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4350,4850,4550,05 Nov 2018,2018,Nov,5,2018-11-05
@@ -28,4 +28,4 @@
 26,26.0,Haridwar,Roorkee,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5550,6000,5550,16 Aug 2018,2018,Aug,16,2018-08-16
 27,27.0,Haridwar,Roorkee,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6300,6200,17 Aug 2018,2018,Aug,17,2018-08-17
 28,28.0,Haridwar,Roorkee,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6400,6500,6500,29 Aug 2018,2018,Aug,29,2018-08-29
-29,,Haridwar,Roorkee,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6500,7000,6500,15 Jul 2017,2017,Jul,15,2017-07-15 00:00:00
+29,,Haridwar,Roorkee,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6500,7000,6500,15 Jul 2017,2017,Jul,15,2017-07-15

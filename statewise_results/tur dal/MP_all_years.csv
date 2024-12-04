@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Chhindwara,Amarwda,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5600,5700,5650.0,26 Jul 2021,2021,Jul,26,2021-07-26
 1,1.0,Chhindwara,Amarwda,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6200,6300,6250.0,28 Feb 2021,2021,Feb,28,2021-02-28
 2,2.0,Chhindwara,Amarwda,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6200,6350,6275.0,15 Mar 2021,2021,Mar,15,2021-03-15
@@ -2418,28 +2418,28 @@
 2416,2416.0,Vidisha,Vidisha,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,3200,3200.0,24 Apr 2018,2018,Apr,24,2018-04-24
 2417,2417.0,Vidisha,Vidisha,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,4075,3700.0,20 Feb 2018,2018,Feb,20,2018-02-20
 2418,2418.0,Vidisha,Vidisha,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3350,3741,3670.0,05 Apr 2018,2018,Apr,5,2018-04-05
-2419,,Bhind,Bhind,Arhar Dal(Tur Dal),Other,FAQ,4095,4095,4095.0,07 Oct 2014,2014,Oct,07,2014-10-07 00:00:00
-2420,,Bhind,Bhind,Arhar Dal(Tur Dal),Other,FAQ,4125,4125,4125.0,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
-2421,,Bhind,Bhind,Arhar Dal(Tur Dal),Other,FAQ,4195,4195,4195.0,14 Sep 2014,2014,Sep,14,2014-09-14 00:00:00
-2422,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,1800,1910,1900.0,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
-2423,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,1910,2085,1950.0,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
-2424,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,1976,2011,2009.0,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-2425,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,1991,2266,2016.0,12 Sep 2014,2014,Sep,12,2014-09-12 00:00:00
-2426,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2020,2085,2075.0,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
-2427,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2025,2036,2025.0,15 Sep 2014,2014,Sep,15,2014-09-15 00:00:00
-2428,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2031,2105,2101.0,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-2429,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2035,2100,2081.0,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-2430,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2051,2109,2080.0,02 Sep 2014,2014,Sep,02,2014-09-02 00:00:00
-2431,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3300,3300,3300.0,07 Oct 2014,2014,Oct,07,2014-10-07 00:00:00
-2432,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3500,3500,3500.0,15 Oct 2014,2014,Oct,15,2014-10-15 00:00:00
-2433,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3600,4020,3825.0,18 Oct 2014,2014,Oct,18,2014-10-18 00:00:00
-2434,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3640,3640,3640.0,16 Oct 2014,2014,Oct,16,2014-10-16 00:00:00
-2435,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3800,3800,3800.0,26 Oct 2014,2014,Oct,26,2014-10-26 00:00:00
-2436,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3850,3850,3850.0,04 Oct 2014,2014,Oct,04,2014-10-04 00:00:00
-2437,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3860,3860,3860.0,24 Oct 2014,2014,Oct,24,2014-10-24 00:00:00
-2438,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3875,3949,3890.0,01 Oct 2014,2014,Oct,01,2014-10-01 00:00:00
-2439,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3900,3900,3900.0,29 Oct 2014,2014,Oct,29,2014-10-29 00:00:00
-2440,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,4000,4000,4000.0,19 Oct 2014,2014,Oct,19,2014-10-19 00:00:00
-2441,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,4000,4000,4000.0,31 Oct 2014,2014,Oct,31,2014-10-31 00:00:00
-2442,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,4340,4340,4340.0,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
-2443,,Dewas,Loharda,Arhar Dal(Tur Dal),Other,FAQ,5100,5131,5110.0,15 Feb 2015,2015,Feb,15,2015-02-15 00:00:00
+2419,,Bhind,Bhind,Arhar Dal(Tur Dal),Other,FAQ,4095,4095,4095.0,07 Oct 2014,2014,Oct,7,2014-10-07
+2420,,Bhind,Bhind,Arhar Dal(Tur Dal),Other,FAQ,4125,4125,4125.0,16 Sep 2014,2014,Sep,16,2014-09-16
+2421,,Bhind,Bhind,Arhar Dal(Tur Dal),Other,FAQ,4195,4195,4195.0,14 Sep 2014,2014,Sep,14,2014-09-14
+2422,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,1800,1910,1900.0,19 Sep 2014,2014,Sep,19,2014-09-19
+2423,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,1910,2085,1950.0,17 Sep 2014,2014,Sep,17,2014-09-17
+2424,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,1976,2011,2009.0,06 Sep 2014,2014,Sep,6,2014-09-06
+2425,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,1991,2266,2016.0,12 Sep 2014,2014,Sep,12,2014-09-12
+2426,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2020,2085,2075.0,16 Sep 2014,2014,Sep,16,2014-09-16
+2427,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2025,2036,2025.0,15 Sep 2014,2014,Sep,15,2014-09-15
+2428,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2031,2105,2101.0,10 Sep 2014,2014,Sep,10,2014-09-10
+2429,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2035,2100,2081.0,01 Sep 2014,2014,Sep,1,2014-09-01
+2430,,Sagar,Khurai,Arhar Dal(Tur Dal),Other,FAQ,2051,2109,2080.0,02 Sep 2014,2014,Sep,2,2014-09-02
+2431,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3300,3300,3300.0,07 Oct 2014,2014,Oct,7,2014-10-07
+2432,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3500,3500,3500.0,15 Oct 2014,2014,Oct,15,2014-10-15
+2433,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3600,4020,3825.0,18 Oct 2014,2014,Oct,18,2014-10-18
+2434,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3640,3640,3640.0,16 Oct 2014,2014,Oct,16,2014-10-16
+2435,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3800,3800,3800.0,26 Oct 2014,2014,Oct,26,2014-10-26
+2436,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3850,3850,3850.0,04 Oct 2014,2014,Oct,4,2014-10-04
+2437,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3860,3860,3860.0,24 Oct 2014,2014,Oct,24,2014-10-24
+2438,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3875,3949,3890.0,01 Oct 2014,2014,Oct,1,2014-10-01
+2439,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,3900,3900,3900.0,29 Oct 2014,2014,Oct,29,2014-10-29
+2440,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,4000,4000,4000.0,19 Oct 2014,2014,Oct,19,2014-10-19
+2441,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,4000,4000,4000.0,31 Oct 2014,2014,Oct,31,2014-10-31
+2442,,Bhind,Lahar,Arhar Dal(Tur Dal),Other,FAQ,4340,4340,4340.0,06 Nov 2014,2014,Nov,6,2014-11-06
+2443,,Dewas,Loharda,Arhar Dal(Tur Dal),Other,FAQ,5100,5131,5110.0,15 Feb 2015,2015,Feb,15,2015-02-15

@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Nanital,Haldwani,Masur Dal,Kala Masoor New,FAQ,5296,7058,6500,22 May 2022,2022,May,22,2022-05-22
 1,1.0,Nanital,Haldwani,Masur Dal,Kala Masoor New,FAQ,5525,7290,6507,24 May 2022,2022,May,24,2022-05-24
 2,2.0,Nanital,Haldwani,Masur Dal,Kala Masoor New,FAQ,6000,8800,8000,01 May 2022,2022,May,1,2022-05-01
@@ -117,5 +117,5 @@
 115,115.0,UdhamSinghNagar,Rudrapur,Masur Dal,Kala Masoor New,FAQ,4000,4500,4200,27 Aug 2018,2018,Aug,27,2018-08-27
 116,116.0,UdhamSinghNagar,Rudrapur,Masur Dal,Kala Masoor New,FAQ,4800,6000,5100,21 Aug 2018,2018,Aug,21,2018-08-21
 117,117.0,UdhamSinghNagar,Rudrapur,Masur Dal,Kala Masoor New,FAQ,5500,5900,5700,30 Aug 2018,2018,Aug,30,2018-08-30
-118,,UdhamSinghNagar,Sitarganj,Masur Dal,Kala Masoor New,FAQ,5000,5200,5200,22 Aug 2016,2016,Aug,22,2016-08-22 00:00:00
-119,,UdhamSinghNagar,Sitarganj,Masur Dal,Kala Masoor New,FAQ,5000,5500,5300,05 Aug 2016,2016,Aug,05,2016-08-05 00:00:00
+118,,UdhamSinghNagar,Sitarganj,Masur Dal,Kala Masoor New,FAQ,5000,5200,5200,22 Aug 2016,2016,Aug,22,2016-08-22
+119,,UdhamSinghNagar,Sitarganj,Masur Dal,Kala Masoor New,FAQ,5000,5500,5300,05 Aug 2016,2016,Aug,5,2016-08-05

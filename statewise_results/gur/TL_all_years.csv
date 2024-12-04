@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,1900,2940,2300,05 Aug 2022,2022,Aug,5,2022-08-05
 1,1.0,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,1900,2940,2000,05 Aug 2022,2022,Aug,5,2022-08-05
 2,2.0,Nizamabad,Bodhan,Gur(Jaggery),Other,Medium,3011,3011,3011,05 Jan 2017,2017,Jan,5,2017-01-05
@@ -257,31 +257,31 @@
 255,255.0,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,01 Jul 2024,2024,Jul,1,2024-07-01
 256,256.0,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,05 Aug 2024,2024,Aug,5,2024-08-05
 257,257.0,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,10 Jun 2024,2024,Jun,10,2024-06-10
-258,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4200,4000,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-259,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-260,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-261,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-262,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-263,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-264,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-265,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-266,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-267,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-268,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-269,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-270,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-271,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4400,4000,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-272,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4500,4000,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-273,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4200,4000,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-274,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-275,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-276,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-277,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-278,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-279,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-280,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-281,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-282,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-283,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-284,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-285,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4500,4000,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
+258,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4200,4000,12 Aug 2024,2024,Aug,12,2024-08-12
+259,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,01 Aug 2024,2024,Aug,1,2024-08-01
+260,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,01 Jul 2024,2024,Jul,1,2024-07-01
+261,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,02 Jul 2024,2024,Jul,2,2024-07-02
+262,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,05 Aug 2024,2024,Aug,5,2024-08-05
+263,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,06 Aug 2024,2024,Aug,6,2024-08-06
+264,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,08 Jul 2024,2024,Jul,8,2024-07-08
+265,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,09 Jul 2024,2024,Jul,9,2024-07-09
+266,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,09 Sep 2024,2024,Sep,9,2024-09-09
+267,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,11 Jul 2024,2024,Jul,11,2024-07-11
+268,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,12 Jul 2024,2024,Jul,12,2024-07-12
+269,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,20 Jul 2024,2024,Jul,20,2024-07-20
+270,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4300,4000,31 Jul 2024,2024,Jul,31,2024-07-31
+271,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4400,4000,27 Jul 2024,2024,Jul,27,2024-07-27
+272,,Mahbubnagar,Alampur,Gur(Jaggery),Achhu,FAQ,3000,4500,4000,21 Aug 2024,2024,Aug,21,2024-08-21
+273,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4200,4000,12 Aug 2024,2024,Aug,12,2024-08-12
+274,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,01 Aug 2024,2024,Aug,1,2024-08-01
+275,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,01 Jul 2024,2024,Jul,1,2024-07-01
+276,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,02 Jul 2024,2024,Jul,2,2024-07-02
+277,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,05 Aug 2024,2024,Aug,5,2024-08-05
+278,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,06 Aug 2024,2024,Aug,6,2024-08-06
+279,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,08 Jul 2024,2024,Jul,8,2024-07-08
+280,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,09 Jul 2024,2024,Jul,9,2024-07-09
+281,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,11 Jul 2024,2024,Jul,11,2024-07-11
+282,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,12 Jul 2024,2024,Jul,12,2024-07-12
+283,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,20 Jul 2024,2024,Jul,20,2024-07-20
+284,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4300,4000,31 Jul 2024,2024,Jul,31,2024-07-31
+285,,Mahbubnagar,Gadwal(Lezza),Gur(Jaggery),Achhu,FAQ,3000,4500,4000,21 Aug 2024,2024,Aug,21,2024-08-21

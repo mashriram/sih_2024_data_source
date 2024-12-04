@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Wokha,Wokha Town,Rice,Other,FAQ,5600,6000,5800,16 Jan 2019,2019,Jan,16,2019-01-16
 1,1.0,Wokha,Wokha Town,Rice,Other,FAQ,5800,6200,6000,02 Jan 2019,2019,Jan,2,2019-01-02
 2,2.0,Wokha,Wokha Town,Rice,Other,FAQ,6000,6300,6100,31 Jan 2019,2019,Jan,31,2019-01-31
@@ -55,24 +55,24 @@
 53,53.0,Wokha,Wokha Town,Rice,Other,FAQ,6900,7200,7000,22 Aug 2018,2018,Aug,22,2018-08-22
 54,54.0,Wokha,Wokha Town,Rice,Other,FAQ,7000,7400,7200,01 Aug 2018,2018,Aug,1,2018-08-01
 55,55.0,Wokha,Wokha Town,Rice,Other,FAQ,7200,7500,7300,15 Aug 2018,2018,Aug,15,2018-08-15
-56,,Kohima,Jalukie,Rice,1009 Kar,FAQ,3000,3200,3100,04 May 2018,2018,May,04,2018-05-04 00:00:00
-57,,Kohima,Jalukie,Rice,1009 Kar,FAQ,3100,3500,3200,11 May 2018,2018,May,11,2018-05-11 00:00:00
-58,,Kohima,Jalukie,Rice,1009 Kar,FAQ,12400,12700,12600,08 Jun 2018,2018,Jun,08,2018-06-08 00:00:00
-59,,Kohima,Jalukie,Rice,1009 Kar,FAQ,16000,16200,16100,01 Jun 2018,2018,Jun,01,2018-06-01 00:00:00
-60,,Kohima,Jalukie,Rice,1009 Kar,FAQ,17500,17700,17600,22 Jun 2018,2018,Jun,22,2018-06-22 00:00:00
-61,,Kohima,Jalukie,Rice,1009 Kar,FAQ,17500,17800,17600,15 Jun 2018,2018,Jun,15,2018-06-15 00:00:00
-62,,Mokokchung,Mokokchung Town,Rice,1009 Kar,FAQ,7500,7800,7600,26 May 2018,2018,May,26,2018-05-26 00:00:00
-63,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,02 Jun 2018,2018,Jun,02,2018-06-02 00:00:00
-64,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,07 Jul 2018,2018,Jul,07,2018-07-07 00:00:00
-65,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,09 Jun 2018,2018,Jun,09,2018-06-09 00:00:00
-66,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,16 Jun 2018,2018,Jun,16,2018-06-16 00:00:00
-67,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,21 Jul 2018,2018,Jul,21,2018-07-21 00:00:00
-68,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,23 Jun 2018,2018,Jun,23,2018-06-23 00:00:00
-69,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,26 May 2018,2018,May,26,2018-05-26 00:00:00
-70,,Wokha,Wokha Town,Rice,Other,FAQ,6500,6900,6700,11 Jul 2018,2018,Jul,11,2018-07-11 00:00:00
-71,,Wokha,Wokha Town,Rice,Other,FAQ,6600,6900,6800,18 Jul 2018,2018,Jul,18,2018-07-18 00:00:00
-72,,Wokha,Wokha Town,Rice,Other,FAQ,6800,7000,6800,04 Jul 2018,2018,Jul,04,2018-07-04 00:00:00
-73,,Wokha,Wokha Town,Rice,Other,FAQ,6800,7000,7000,25 Jul 2018,2018,Jul,25,2018-07-25 00:00:00
-74,,Wokha,Wokha Town,Rice,Other,FAQ,6900,7200,7000,22 Aug 2018,2018,Aug,22,2018-08-22 00:00:00
-75,,Wokha,Wokha Town,Rice,Other,FAQ,7000,7400,7200,01 Aug 2018,2018,Aug,01,2018-08-01 00:00:00
-76,,Wokha,Wokha Town,Rice,Other,FAQ,7200,7500,7300,15 Aug 2018,2018,Aug,15,2018-08-15 00:00:00
+56,,Kohima,Jalukie,Rice,1009 Kar,FAQ,3000,3200,3100,04 May 2018,2018,May,4,2018-05-04
+57,,Kohima,Jalukie,Rice,1009 Kar,FAQ,3100,3500,3200,11 May 2018,2018,May,11,2018-05-11
+58,,Kohima,Jalukie,Rice,1009 Kar,FAQ,12400,12700,12600,08 Jun 2018,2018,Jun,8,2018-06-08
+59,,Kohima,Jalukie,Rice,1009 Kar,FAQ,16000,16200,16100,01 Jun 2018,2018,Jun,1,2018-06-01
+60,,Kohima,Jalukie,Rice,1009 Kar,FAQ,17500,17700,17600,22 Jun 2018,2018,Jun,22,2018-06-22
+61,,Kohima,Jalukie,Rice,1009 Kar,FAQ,17500,17800,17600,15 Jun 2018,2018,Jun,15,2018-06-15
+62,,Mokokchung,Mokokchung Town,Rice,1009 Kar,FAQ,7500,7800,7600,26 May 2018,2018,May,26,2018-05-26
+63,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,02 Jun 2018,2018,Jun,2,2018-06-02
+64,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,07 Jul 2018,2018,Jul,7,2018-07-07
+65,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,09 Jun 2018,2018,Jun,9,2018-06-09
+66,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,16 Jun 2018,2018,Jun,16,2018-06-16
+67,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,21 Jul 2018,2018,Jul,21,2018-07-21
+68,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,23 Jun 2018,2018,Jun,23,2018-06-23
+69,,Mokokchung,Mokokchung Town,Rice,Other,FAQ,7500,7800,7600,26 May 2018,2018,May,26,2018-05-26
+70,,Wokha,Wokha Town,Rice,Other,FAQ,6500,6900,6700,11 Jul 2018,2018,Jul,11,2018-07-11
+71,,Wokha,Wokha Town,Rice,Other,FAQ,6600,6900,6800,18 Jul 2018,2018,Jul,18,2018-07-18
+72,,Wokha,Wokha Town,Rice,Other,FAQ,6800,7000,6800,04 Jul 2018,2018,Jul,4,2018-07-04
+73,,Wokha,Wokha Town,Rice,Other,FAQ,6800,7000,7000,25 Jul 2018,2018,Jul,25,2018-07-25
+74,,Wokha,Wokha Town,Rice,Other,FAQ,6900,7200,7000,22 Aug 2018,2018,Aug,22,2018-08-22
+75,,Wokha,Wokha Town,Rice,Other,FAQ,7000,7400,7200,01 Aug 2018,2018,Aug,1,2018-08-01
+76,,Wokha,Wokha Town,Rice,Other,FAQ,7200,7500,7300,15 Aug 2018,2018,Aug,15,2018-08-15

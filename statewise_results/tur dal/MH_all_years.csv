@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,6500,7200,6800,27 Aug 2021,2021,Aug,27,2021-08-27
 1,1.0,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,7500,9500,8500,01 Feb 2021,2021,Feb,1,2021-02-01
 2,2.0,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,7500,9500,8500,02 Feb 2021,2021,Feb,2,2021-02-02
@@ -2338,95 +2338,95 @@
 2336,2336.0,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,5500,7000,6000,08 May 2018,2018,May,8,2018-05-08
 2337,2337.0,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,5500,7000,6000,09 May 2018,2018,May,9,2018-05-09
 2338,2338.0,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,6500,7000,6700,24 Apr 2018,2018,Apr,24,2018-04-24
-2339,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,1100,18000,15000,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-2340,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-2341,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-2342,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-2343,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-2344,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-2345,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-2346,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-2347,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-2348,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-2349,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-2350,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-2351,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-2352,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-2353,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-2354,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-2355,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-2356,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-2357,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-2358,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-2359,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-2360,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-2361,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-2362,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-2363,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-2364,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-2365,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-2366,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-2367,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-2368,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-2369,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-2370,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-2371,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-2372,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-2373,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-2374,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-2375,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-2376,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-2377,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-2378,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-2379,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-2380,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-2381,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-2382,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-2383,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-2384,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-2385,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-2386,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-2387,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-2388,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-2389,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-2390,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-2391,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-2392,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-2393,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-2394,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-2395,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-2396,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-2397,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-2398,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-2399,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-2400,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-2401,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-2402,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-2403,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-2404,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-2405,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-2406,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-2407,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-2408,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-2409,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-2410,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-2411,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-2412,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-2413,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-2414,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-2415,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-2416,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-2417,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-2418,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-2419,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-2420,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-2421,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-2422,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-2423,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-2424,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-2425,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-2426,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-2427,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-2428,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-2429,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-2430,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
+2339,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,1100,18000,15000,04 Sep 2024,2024,Sep,4,2024-09-04
+2340,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,02 Dec 2024,2024,Dec,2,2024-12-02
+2341,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,03 Dec 2024,2024,Dec,3,2024-12-03
+2342,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,27 Nov 2024,2024,Nov,27,2024-11-27
+2343,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,28 Nov 2024,2024,Nov,28,2024-11-28
+2344,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,8000,15000,12000,30 Nov 2024,2024,Nov,30,2024-11-30
+2345,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,02 Nov 2024,2024,Nov,2,2024-11-02
+2346,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,04 Nov 2024,2024,Nov,4,2024-11-04
+2347,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,06 Nov 2024,2024,Nov,6,2024-11-06
+2348,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,07 Nov 2024,2024,Nov,7,2024-11-07
+2349,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,08 Nov 2024,2024,Nov,8,2024-11-08
+2350,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,09 Nov 2024,2024,Nov,9,2024-11-09
+2351,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,11 Nov 2024,2024,Nov,11,2024-11-11
+2352,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,12 Nov 2024,2024,Nov,12,2024-11-12
+2353,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,13 Nov 2024,2024,Nov,13,2024-11-13
+2354,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,14 Nov 2024,2024,Nov,14,2024-11-14
+2355,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,15 Nov 2024,2024,Nov,15,2024-11-15
+2356,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,16 Nov 2024,2024,Nov,16,2024-11-16
+2357,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,19 Nov 2024,2024,Nov,19,2024-11-19
+2358,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,22 Nov 2024,2024,Nov,22,2024-11-22
+2359,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,23 Nov 2024,2024,Nov,23,2024-11-23
+2360,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,25 Nov 2024,2024,Nov,25,2024-11-25
+2361,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,26 Nov 2024,2024,Nov,26,2024-11-26
+2362,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,29 Oct 2024,2024,Oct,29,2024-10-29
+2363,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9000,16000,13000,30 Oct 2024,2024,Oct,30,2024-10-30
+2364,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,02 Sep 2024,2024,Sep,2,2024-09-02
+2365,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,03 Sep 2024,2024,Sep,3,2024-09-03
+2366,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,13 Aug 2024,2024,Aug,13,2024-08-13
+2367,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,14 Aug 2024,2024,Aug,14,2024-08-14
+2368,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,16 Aug 2024,2024,Aug,16,2024-08-16
+2369,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,20 Aug 2024,2024,Aug,20,2024-08-20
+2370,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,21 Aug 2024,2024,Aug,21,2024-08-21
+2371,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,22 Aug 2024,2024,Aug,22,2024-08-22
+2372,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,23 Aug 2024,2024,Aug,23,2024-08-23
+2373,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,24 Aug 2024,2024,Aug,24,2024-08-24
+2374,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,26 Aug 2024,2024,Aug,26,2024-08-26
+2375,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,28 Aug 2024,2024,Aug,28,2024-08-28
+2376,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,9500,17500,14000,29 Aug 2024,2024,Aug,29,2024-08-29
+2377,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,01 Aug 2024,2024,Aug,1,2024-08-01
+2378,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,01 Jul 2024,2024,Jul,1,2024-07-01
+2379,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,02 Aug 2024,2024,Aug,2,2024-08-02
+2380,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,04 Jul 2024,2024,Jul,4,2024-07-04
+2381,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,05 Aug 2024,2024,Aug,5,2024-08-05
+2382,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,05 Jul 2024,2024,Jul,5,2024-07-05
+2383,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,06 Aug 2024,2024,Aug,6,2024-08-06
+2384,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,06 Jul 2024,2024,Jul,6,2024-07-06
+2385,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,07 Aug 2024,2024,Aug,7,2024-08-07
+2386,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,08 Aug 2024,2024,Aug,8,2024-08-08
+2387,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,08 Jul 2024,2024,Jul,8,2024-07-08
+2388,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,09 Aug 2024,2024,Aug,9,2024-08-09
+2389,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,09 Jul 2024,2024,Jul,9,2024-07-09
+2390,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,10 Jul 2024,2024,Jul,10,2024-07-10
+2391,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,11 Jul 2024,2024,Jul,11,2024-07-11
+2392,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,12 Aug 2024,2024,Aug,12,2024-08-12
+2393,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,12 Jul 2024,2024,Jul,12,2024-07-12
+2394,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,15 Jul 2024,2024,Jul,15,2024-07-15
+2395,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,16 Jul 2024,2024,Jul,16,2024-07-16
+2396,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,19 Jul 2024,2024,Jul,19,2024-07-19
+2397,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,22 Jul 2024,2024,Jul,22,2024-07-22
+2398,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,23 Jul 2024,2024,Jul,23,2024-07-23
+2399,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,24 Jul 2024,2024,Jul,24,2024-07-24
+2400,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,25 Jul 2024,2024,Jul,25,2024-07-25
+2401,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,26 Jul 2024,2024,Jul,26,2024-07-26
+2402,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,17500,14500,30 Jul 2024,2024,Jul,30,2024-07-30
+2403,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,01 Oct 2024,2024,Oct,1,2024-10-01
+2404,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,03 Oct 2024,2024,Oct,3,2024-10-03
+2405,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,04 Oct 2024,2024,Oct,4,2024-10-04
+2406,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,05 Sep 2024,2024,Sep,5,2024-09-05
+2407,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,06 Sep 2024,2024,Sep,6,2024-09-06
+2408,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,09 Oct 2024,2024,Oct,9,2024-10-09
+2409,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,09 Sep 2024,2024,Sep,9,2024-09-09
+2410,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,10 Oct 2024,2024,Oct,10,2024-10-10
+2411,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,10 Sep 2024,2024,Sep,10,2024-09-10
+2412,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,11 Oct 2024,2024,Oct,11,2024-10-11
+2413,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,11 Sep 2024,2024,Sep,11,2024-09-11
+2414,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,12 Sep 2024,2024,Sep,12,2024-09-12
+2415,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,13 Sep 2024,2024,Sep,13,2024-09-13
+2416,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,14 Oct 2024,2024,Oct,14,2024-10-14
+2417,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,14 Sep 2024,2024,Sep,14,2024-09-14
+2418,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,16 Oct 2024,2024,Oct,16,2024-10-16
+2419,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,16 Sep 2024,2024,Sep,16,2024-09-16
+2420,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,17 Oct 2024,2024,Oct,17,2024-10-17
+2421,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,18 Oct 2024,2024,Oct,18,2024-10-18
+2422,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,18 Sep 2024,2024,Sep,18,2024-09-18
+2423,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,19 Sep 2024,2024,Sep,19,2024-09-19
+2424,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,20 Sep 2024,2024,Sep,20,2024-09-20
+2425,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,21 Sep 2024,2024,Sep,21,2024-09-21
+2426,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,23 Sep 2024,2024,Sep,23,2024-09-23
+2427,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,24 Sep 2024,2024,Sep,24,2024-09-24
+2428,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,26 Sep 2024,2024,Sep,26,2024-09-26
+2429,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,27 Sep 2024,2024,Sep,27,2024-09-27
+2430,,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,FAQ,11000,18000,15000,30 Sep 2024,2024,Sep,30,2024-09-30

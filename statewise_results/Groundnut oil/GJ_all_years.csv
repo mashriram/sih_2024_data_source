@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3050,3900,3475,13 Sep 2014,2014,Sep,13,2014-09-13
 1,1.0,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3250,3700,3475,05 Sep 2014,2014,Sep,5,2014-09-05
 2,2.0,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3250,3800,3525,03 Sep 2014,2014,Sep,3,2014-09-03
@@ -6,10 +6,10 @@
 4,4.0,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3500,4000,3750,19 Sep 2014,2014,Sep,19,2014-09-19
 5,5.0,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3500,4025,3760,09 Sep 2014,2014,Sep,9,2014-09-09
 6,6.0,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,4200,4800,4500,08 Sep 2014,2014,Sep,8,2014-09-08
-7,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3050,3900,3475,13 Sep 2014,2014,Sep,13,2014-09-13 00:00:00
-8,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3250,3700,3475,05 Sep 2014,2014,Sep,05,2014-09-05 00:00:00
-9,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3250,3800,3525,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
-10,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3250,4010,3630,23 Sep 2014,2014,Sep,23,2014-09-23 00:00:00
-11,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3500,4000,3750,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
-12,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3500,4025,3760,09 Sep 2014,2014,Sep,09,2014-09-09 00:00:00
-13,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,4200,4800,4500,08 Sep 2014,2014,Sep,08,2014-09-08 00:00:00
+7,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3050,3900,3475,13 Sep 2014,2014,Sep,13,2014-09-13
+8,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3250,3700,3475,05 Sep 2014,2014,Sep,5,2014-09-05
+9,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3250,3800,3525,03 Sep 2014,2014,Sep,3,2014-09-03
+10,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3250,4010,3630,23 Sep 2014,2014,Sep,23,2014-09-23
+11,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3500,4000,3750,19 Sep 2014,2014,Sep,19,2014-09-19
+12,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,3500,4025,3760,09 Sep 2014,2014,Sep,9,2014-09-09
+13,,Junagarh,Bhesan,Ground Nut Oil,Other,FAQ,4200,4800,4500,08 Sep 2014,2014,Sep,8,2014-09-08

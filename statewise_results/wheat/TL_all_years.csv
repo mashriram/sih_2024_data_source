@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Medak,Zaheerabad,Wheat,147 Average,FAQ,1650,1700,1700,06 Aug 2021,2021,Aug,6,2021-08-06
 1,1.0,Medak,Sadasivpet,Wheat,147 Average,FAQ,2150,2150,2150,25 Aug 2021,2021,Aug,25,2021-08-25
 2,2.0,Medak,Zaheerabad,Wheat,147 Average,FAQ,1675,1700,1700,19 Jul 2021,2021,Jul,19,2021-07-19
@@ -514,40 +514,40 @@
 512,512.0,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1737,1751,1751,11 May 2018,2018,May,11,2018-05-11
 513,513.0,Adilabad,Bhainsa,Wheat,Local,FAQ,1709,1732,1719,19 Apr 2018,2018,Apr,19,2018-04-19
 514,514.0,Nizamabad,Nizamabad,Wheat,Deshi,Medium,1300,1300,1300,09 Dec 2017,2017,Dec,9,2017-12-09
-515,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2121,2121,2121,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-516,,Adilabad,Bhainsa,Wheat,Local,FAQ,2211,2211,2211,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-517,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2042,2042,2042,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-518,,Adilabad,Bhainsa,Wheat,Local,FAQ,1823,2453,1823,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-519,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2400,2400,2400,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-520,,Adilabad,Bhainsa,Wheat,Local,FAQ,2011,2504,2011,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-521,,Adilabad,Bhainsa,Wheat,Local,FAQ,2022,2022,2022,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-522,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2251,2251,2251,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-523,,Adilabad,Bhainsa,Wheat,Local,FAQ,2118,2118,2118,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-524,,Adilabad,Boath,Wheat,147 Average,FAQ,2275,2380,2300,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-525,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2330,2330,2330,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-526,,Adilabad,Bhainsa,Wheat,Local,FAQ,1169,2369,2011,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-527,,Medak,Zaheerabad,Wheat,147 Average,FAQ,1818,1818,1818,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-528,,Medak,Zaheerabad,Wheat,147 Average,FAQ,1820,1820,1820,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-529,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2323,2323,2323,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-530,,Adilabad,Bhainsa,Wheat,Local,FAQ,1689,2453,2453,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-531,,Adilabad,Bhainsa,Wheat,Local,FAQ,2052,2423,2423,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-532,,Adilabad,Bhainsa,Wheat,Local,FAQ,2468,2468,2468,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-533,,Adilabad,Bhainsa,Wheat,Local,FAQ,2311,2711,2311,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-534,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2013,2013,2013,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-535,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2021,2021,2021,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-536,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2342,2342,2342,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-537,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2202,2202,2202,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-538,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2280,2280,2280,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-539,,Adilabad,Bhainsa,Wheat,Local,FAQ,2418,2418,2418,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-540,,Adilabad,Bhainsa,Wheat,Local,FAQ,2525,2525,2525,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-541,,Adilabad,Boath,Wheat,147 Average,FAQ,2275,2600,2600,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-542,,Medak,Zaheerabad,Wheat,147 Average,FAQ,1209,1209,1209,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-543,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2202,2202,2202,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-544,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2350,2350,2350,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-545,,Adilabad,Bhainsa,Wheat,Local,FAQ,2423,2423,2423,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-546,,Medak,Sadasivpet,Wheat,147 Average,FAQ,1212,1212,1212,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-547,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2366,2366,2366,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-548,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2736,2736,2736,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-549,,Adilabad,Bhainsa,Wheat,Local,FAQ,2263,2263,2263,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-550,,Medak,Zaheerabad,Wheat,147 Average,FAQ,1212,2363,2363,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-551,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2155,2155,2155,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
+515,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2121,2121,2121,24 Sep 2024,2024,Sep,24,2024-09-24
+516,,Adilabad,Bhainsa,Wheat,Local,FAQ,2211,2211,2211,04 Sep 2024,2024,Sep,4,2024-09-04
+517,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2042,2042,2042,11 Nov 2024,2024,Nov,11,2024-11-11
+518,,Adilabad,Bhainsa,Wheat,Local,FAQ,1823,2453,1823,06 Sep 2024,2024,Sep,6,2024-09-06
+519,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2400,2400,2400,27 Sep 2024,2024,Sep,27,2024-09-27
+520,,Adilabad,Bhainsa,Wheat,Local,FAQ,2011,2504,2011,30 Sep 2024,2024,Sep,30,2024-09-30
+521,,Adilabad,Bhainsa,Wheat,Local,FAQ,2022,2022,2022,11 Sep 2024,2024,Sep,11,2024-09-11
+522,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2251,2251,2251,26 Jul 2024,2024,Jul,26,2024-07-26
+523,,Adilabad,Bhainsa,Wheat,Local,FAQ,2118,2118,2118,08 Jul 2024,2024,Jul,8,2024-07-08
+524,,Adilabad,Boath,Wheat,147 Average,FAQ,2275,2380,2300,27 Sep 2024,2024,Sep,27,2024-09-27
+525,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2330,2330,2330,22 Aug 2024,2024,Aug,22,2024-08-22
+526,,Adilabad,Bhainsa,Wheat,Local,FAQ,1169,2369,2011,09 Jul 2024,2024,Jul,9,2024-07-09
+527,,Medak,Zaheerabad,Wheat,147 Average,FAQ,1818,1818,1818,10 Jul 2024,2024,Jul,10,2024-07-10
+528,,Medak,Zaheerabad,Wheat,147 Average,FAQ,1820,1820,1820,22 Jul 2024,2024,Jul,22,2024-07-22
+529,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2323,2323,2323,26 Nov 2024,2024,Nov,26,2024-11-26
+530,,Adilabad,Bhainsa,Wheat,Local,FAQ,1689,2453,2453,27 Aug 2024,2024,Aug,27,2024-08-27
+531,,Adilabad,Bhainsa,Wheat,Local,FAQ,2052,2423,2423,09 Sep 2024,2024,Sep,9,2024-09-09
+532,,Adilabad,Bhainsa,Wheat,Local,FAQ,2468,2468,2468,29 Aug 2024,2024,Aug,29,2024-08-29
+533,,Adilabad,Bhainsa,Wheat,Local,FAQ,2311,2711,2311,20 Sep 2024,2024,Sep,20,2024-09-20
+534,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2013,2013,2013,08 Aug 2024,2024,Aug,8,2024-08-08
+535,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2021,2021,2021,03 Oct 2024,2024,Oct,3,2024-10-03
+536,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2342,2342,2342,01 Jul 2024,2024,Jul,1,2024-07-01
+537,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2202,2202,2202,17 Aug 2024,2024,Aug,17,2024-08-17
+538,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2280,2280,2280,13 Aug 2024,2024,Aug,13,2024-08-13
+539,,Adilabad,Bhainsa,Wheat,Local,FAQ,2418,2418,2418,10 Jul 2024,2024,Jul,10,2024-07-10
+540,,Adilabad,Bhainsa,Wheat,Local,FAQ,2525,2525,2525,30 Jul 2024,2024,Jul,30,2024-07-30
+541,,Adilabad,Boath,Wheat,147 Average,FAQ,2275,2600,2600,29 Sep 2024,2024,Sep,29,2024-09-29
+542,,Medak,Zaheerabad,Wheat,147 Average,FAQ,1209,1209,1209,19 Jul 2024,2024,Jul,19,2024-07-19
+543,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2202,2202,2202,12 Jul 2024,2024,Jul,12,2024-07-12
+544,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2350,2350,2350,30 Aug 2024,2024,Aug,30,2024-08-30
+545,,Adilabad,Bhainsa,Wheat,Local,FAQ,2423,2423,2423,06 Jul 2024,2024,Jul,6,2024-07-06
+546,,Medak,Sadasivpet,Wheat,147 Average,FAQ,1212,1212,1212,03 Jul 2024,2024,Jul,3,2024-07-03
+547,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2366,2366,2366,02 Aug 2024,2024,Aug,2,2024-08-02
+548,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2736,2736,2736,04 Jul 2024,2024,Jul,4,2024-07-04
+549,,Adilabad,Bhainsa,Wheat,Local,FAQ,2263,2263,2263,18 Sep 2024,2024,Sep,18,2024-09-18
+550,,Medak,Zaheerabad,Wheat,147 Average,FAQ,1212,2363,2363,11 Jul 2024,2024,Jul,11,2024-07-11
+551,,Medak,Zaheerabad,Wheat,147 Average,FAQ,2155,2155,2155,09 Jul 2024,2024,Jul,9,2024-07-09

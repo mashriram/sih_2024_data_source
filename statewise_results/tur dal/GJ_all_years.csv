@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Ahmedabad,Sanad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3500,3500,3500.0,16 Oct 2020,2020,Oct,16,2020-10-16
 1,1.0,Ahmedabad,Sanad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5245,5245,5245.0,22 Jun 2021,2021,Jun,22,2021-06-22
 2,2.0,Ahmedabad,Sanad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5655,5655,5655.0,05 Nov 2020,2020,Nov,5,2020-11-05
@@ -533,9 +533,9 @@
 531,531.0,Ahmedabad,Sanad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4030,4030,4030.0,07 Feb 2018,2018,Feb,7,2018-02-07
 532,532.0,Ahmedabad,Sanad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4110,4110,4110.0,08 Feb 2018,2018,Feb,8,2018-02-08
 533,533.0,Ahmedabad,Sanad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4125,4125,4125.0,14 Mar 2018,2018,Mar,14,2018-03-14
-534,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4000,8000,6000.0,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-535,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5850,8560,7205.0,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-536,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7000,7000,7000.0,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-537,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7100,7100,7100.0,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-538,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9000,9000.0,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-539,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10350,10670,10510.0,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
+534,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4000,8000,6000.0,13 Jul 2024,2024,Jul,13,2024-07-13
+535,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5850,8560,7205.0,08 Jul 2024,2024,Jul,8,2024-07-08
+536,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7000,7000,7000.0,12 Nov 2024,2024,Nov,12,2024-11-12
+537,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7100,7100,7100.0,31 Jul 2024,2024,Jul,31,2024-07-31
+538,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9000,9000.0,11 Sep 2024,2024,Sep,11,2024-09-11
+539,,Morbi,Morbi,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,10350,10670,10510.0,03 Jul 2024,2024,Jul,3,2024-07-03

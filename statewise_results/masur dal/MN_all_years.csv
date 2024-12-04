@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,8500,9000,8750,26 Feb 2021,2021,Feb,26,2021-02-26
 1,1.0,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,8500,9000,8750,27 Feb 2021,2021,Feb,27,2021-02-27
 2,2.0,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Feb 2021,2021,Feb,25,2021-02-25
@@ -4065,347 +4065,347 @@
 4063,4063.0,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9450,9550,9500,26 Sep 2017,2017,Sep,26,2017-09-26
 4064,4064.0,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9450,9550,9500,27 Sep 2017,2017,Sep,27,2017-09-27
 4065,4065.0,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9450,9550,9500,29 Sep 2017,2017,Sep,29,2017-09-29
-4066,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-4067,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-4068,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-4069,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-4070,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-4071,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-4072,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-4073,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-4074,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-4075,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-4076,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-4077,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-4078,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-4079,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-4080,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-4081,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-4082,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-4083,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-4084,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-4085,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-4086,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-4087,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-4088,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-4089,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-4090,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-4091,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-4092,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-4093,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-4094,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-4095,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-4096,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-4097,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-4098,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-4099,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-4100,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-4101,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-4102,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-4103,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-4104,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-4105,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-4106,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-4107,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-4108,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-4109,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-4110,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-4111,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-4112,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-4113,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-4114,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-4115,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-4116,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-4117,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-4118,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-4119,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-4120,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-4121,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-4122,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-4123,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-4124,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-4125,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-4126,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-4127,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-4128,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-4129,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-4130,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-4131,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-4132,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-4133,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-4134,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-4135,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-4136,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-4137,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-4138,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-4139,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-4140,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-4141,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-4142,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-4143,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-4144,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-4145,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-4146,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-4147,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-4148,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-4149,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-4150,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-4151,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-4152,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-4153,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-4154,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-4155,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-4156,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-4157,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-4158,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-4159,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-4160,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-4161,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-4162,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-4163,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-4164,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-4165,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-4166,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-4167,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-4168,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-4169,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-4170,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-4171,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-4172,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-4173,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-4174,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-4175,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-4176,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-4177,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-4178,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-4179,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-4180,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-4181,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-4182,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-4183,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-4184,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-4185,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-4186,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-4187,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-4188,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-4189,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-4190,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-4191,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-4192,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-4193,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-4194,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-4195,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-4196,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-4197,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-4198,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-4199,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-4200,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-4201,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-4202,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-4203,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-4204,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-4205,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-4206,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-4207,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-4208,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-4209,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-4210,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-4211,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-4212,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-4213,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-4214,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-4215,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-4216,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-4217,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-4218,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-4219,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-4220,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-4221,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-4222,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-4223,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-4224,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-4225,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-4226,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-4227,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-4228,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-4229,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-4230,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-4231,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-4232,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-4233,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-4234,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-4235,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-4236,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-4237,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-4238,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-4239,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-4240,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-4241,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-4242,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-4243,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-4244,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-4245,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-4246,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-4247,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-4248,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-4249,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-4250,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-4251,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-4252,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-4253,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-4254,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-4255,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-4256,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-4257,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-4258,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-4259,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-4260,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-4261,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-4262,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-4263,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-4264,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-4265,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-4266,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-4267,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-4268,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-4269,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-4270,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-4271,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-4272,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-4273,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-4274,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-4275,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-4276,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-4277,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-4278,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-4279,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-4280,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-4281,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-4282,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-4283,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-4284,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-4285,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-4286,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-4287,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-4288,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-4289,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-4290,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-4291,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-4292,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-4293,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-4294,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-4295,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-4296,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-4297,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-4298,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-4299,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-4300,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-4301,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-4302,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-4303,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-4304,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-4305,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-4306,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-4307,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-4308,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-4309,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-4310,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-4311,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-4312,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-4313,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-4314,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-4315,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-4316,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-4317,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-4318,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-4319,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-4320,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-4321,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-4322,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-4323,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-4324,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-4325,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-4326,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-4327,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-4328,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-4329,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-4330,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-4331,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-4332,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-4333,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-4334,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-4335,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-4336,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-4337,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,10000,11000,10500,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-4338,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,10000,11000,10500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-4339,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-4340,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-4341,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-4342,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-4343,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-4344,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-4345,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-4346,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-4347,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-4348,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-4349,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-4350,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-4351,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-4352,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-4353,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-4354,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-4355,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-4356,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-4357,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-4358,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-4359,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-4360,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-4361,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-4362,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-4363,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-4364,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-4365,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-4366,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-4367,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-4368,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-4369,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-4370,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-4371,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-4372,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-4373,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-4374,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-4375,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-4376,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-4377,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-4378,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-4379,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-4380,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-4381,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-4382,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-4383,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-4384,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-4385,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-4386,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-4387,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-4388,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-4389,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-4390,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-4391,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-4392,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-4393,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-4394,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-4395,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-4396,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-4397,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-4398,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-4399,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-4400,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-4401,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-4402,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-4403,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-4404,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-4405,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-4406,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-4407,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-4408,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-4409,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
+4066,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,01 Aug 2024,2024,Aug,1,2024-08-01
+4067,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,01 Jul 2024,2024,Jul,1,2024-07-01
+4068,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,01 Oct 2024,2024,Oct,1,2024-10-01
+4069,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,02 Aug 2024,2024,Aug,2,2024-08-02
+4070,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,02 Sep 2024,2024,Sep,2,2024-09-02
+4071,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,03 Sep 2024,2024,Sep,3,2024-09-03
+4072,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,04 Nov 2024,2024,Nov,4,2024-11-04
+4073,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,04 Oct 2024,2024,Oct,4,2024-10-04
+4074,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,05 Nov 2024,2024,Nov,5,2024-11-05
+4075,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,05 Sep 2024,2024,Sep,5,2024-09-05
+4076,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Aug 2024,2024,Aug,6,2024-08-06
+4077,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Nov 2024,2024,Nov,6,2024-11-06
+4078,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Sep 2024,2024,Sep,6,2024-09-06
+4079,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Aug 2024,2024,Aug,7,2024-08-07
+4080,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Nov 2024,2024,Nov,7,2024-11-07
+4081,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Aug 2024,2024,Aug,8,2024-08-08
+4082,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Nov 2024,2024,Nov,8,2024-11-08
+4083,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Oct 2024,2024,Oct,8,2024-10-08
+4084,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Aug 2024,2024,Aug,9,2024-08-09
+4085,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Jul 2024,2024,Jul,9,2024-07-09
+4086,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Oct 2024,2024,Oct,9,2024-10-09
+4087,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,10 Jul 2024,2024,Jul,10,2024-07-10
+4088,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,10 Oct 2024,2024,Oct,10,2024-10-10
+4089,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,11 Jul 2024,2024,Jul,11,2024-07-11
+4090,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11
+4091,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,12 Aug 2024,2024,Aug,12,2024-08-12
+4092,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,12 Jul 2024,2024,Jul,12,2024-07-12
+4093,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,12 Nov 2024,2024,Nov,12,2024-11-12
+4094,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Aug 2024,2024,Aug,14,2024-08-14
+4095,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Nov 2024,2024,Nov,14,2024-11-14
+4096,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Oct 2024,2024,Oct,14,2024-10-14
+4097,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,16 Jul 2024,2024,Jul,16,2024-07-16
+4098,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,16 Oct 2024,2024,Oct,16,2024-10-16
+4099,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,17 Sep 2024,2024,Sep,17,2024-09-17
+4100,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,18 Jul 2024,2024,Jul,18,2024-07-18
+4101,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,18 Sep 2024,2024,Sep,18,2024-09-18
+4102,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Aug 2024,2024,Aug,19,2024-08-19
+4103,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Jul 2024,2024,Jul,19,2024-07-19
+4104,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Sep 2024,2024,Sep,19,2024-09-19
+4105,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,20 Aug 2024,2024,Aug,20,2024-08-20
+4106,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,21 Aug 2024,2024,Aug,21,2024-08-21
+4107,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,21 Oct 2024,2024,Oct,21,2024-10-21
+4108,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Aug 2024,2024,Aug,22,2024-08-22
+4109,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Jul 2024,2024,Jul,22,2024-07-22
+4110,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Oct 2024,2024,Oct,22,2024-10-22
+4111,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Aug 2024,2024,Aug,23,2024-08-23
+4112,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Jul 2024,2024,Jul,23,2024-07-23
+4113,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Oct 2024,2024,Oct,23,2024-10-23
+4114,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Sep 2024,2024,Sep,23,2024-09-23
+4115,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,24 Oct 2024,2024,Oct,24,2024-10-24
+4116,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,24 Sep 2024,2024,Sep,24,2024-09-24
+4117,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Jul 2024,2024,Jul,25,2024-07-25
+4118,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Oct 2024,2024,Oct,25,2024-10-25
+4119,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Sep 2024,2024,Sep,25,2024-09-25
+4120,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,26 Jul 2024,2024,Jul,26,2024-07-26
+4121,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,26 Sep 2024,2024,Sep,26,2024-09-26
+4122,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,27 Aug 2024,2024,Aug,27,2024-08-27
+4123,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,27 Sep 2024,2024,Sep,27,2024-09-27
+4124,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,28 Aug 2024,2024,Aug,28,2024-08-28
+4125,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,28 Oct 2024,2024,Oct,28,2024-10-28
+4126,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Aug 2024,2024,Aug,29,2024-08-29
+4127,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Jul 2024,2024,Jul,29,2024-07-29
+4128,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Oct 2024,2024,Oct,29,2024-10-29
+4129,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,30 Aug 2024,2024,Aug,30,2024-08-30
+4130,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,30 Oct 2024,2024,Oct,30,2024-10-30
+4131,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,31 Jul 2024,2024,Jul,31,2024-07-31
+4132,,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,9500,10000,9750,31 Oct 2024,2024,Oct,31,2024-10-31
+4133,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,01 Aug 2024,2024,Aug,1,2024-08-01
+4134,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,01 Jul 2024,2024,Jul,1,2024-07-01
+4135,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,01 Oct 2024,2024,Oct,1,2024-10-01
+4136,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,02 Aug 2024,2024,Aug,2,2024-08-02
+4137,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,02 Jul 2024,2024,Jul,2,2024-07-02
+4138,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,02 Sep 2024,2024,Sep,2,2024-09-02
+4139,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,03 Sep 2024,2024,Sep,3,2024-09-03
+4140,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,04 Nov 2024,2024,Nov,4,2024-11-04
+4141,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,04 Oct 2024,2024,Oct,4,2024-10-04
+4142,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,05 Nov 2024,2024,Nov,5,2024-11-05
+4143,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,05 Sep 2024,2024,Sep,5,2024-09-05
+4144,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,06 Aug 2024,2024,Aug,6,2024-08-06
+4145,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,06 Nov 2024,2024,Nov,6,2024-11-06
+4146,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,06 Sep 2024,2024,Sep,6,2024-09-06
+4147,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,07 Aug 2024,2024,Aug,7,2024-08-07
+4148,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,07 Nov 2024,2024,Nov,7,2024-11-07
+4149,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,07 Oct 2024,2024,Oct,7,2024-10-07
+4150,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,08 Aug 2024,2024,Aug,8,2024-08-08
+4151,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,08 Nov 2024,2024,Nov,8,2024-11-08
+4152,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,08 Oct 2024,2024,Oct,8,2024-10-08
+4153,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,09 Aug 2024,2024,Aug,9,2024-08-09
+4154,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,09 Jul 2024,2024,Jul,9,2024-07-09
+4155,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,09 Oct 2024,2024,Oct,9,2024-10-09
+4156,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,09 Sep 2024,2024,Sep,9,2024-09-09
+4157,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,10 Jul 2024,2024,Jul,10,2024-07-10
+4158,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,10 Oct 2024,2024,Oct,10,2024-10-10
+4159,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,11 Jul 2024,2024,Jul,11,2024-07-11
+4160,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,11 Nov 2024,2024,Nov,11,2024-11-11
+4161,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,12 Aug 2024,2024,Aug,12,2024-08-12
+4162,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,12 Jul 2024,2024,Jul,12,2024-07-12
+4163,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,12 Nov 2024,2024,Nov,12,2024-11-12
+4164,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,14 Aug 2024,2024,Aug,14,2024-08-14
+4165,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,14 Nov 2024,2024,Nov,14,2024-11-14
+4166,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,14 Oct 2024,2024,Oct,14,2024-10-14
+4167,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,15 Jul 2024,2024,Jul,15,2024-07-15
+4168,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,16 Aug 2024,2024,Aug,16,2024-08-16
+4169,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,16 Jul 2024,2024,Jul,16,2024-07-16
+4170,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,16 Oct 2024,2024,Oct,16,2024-10-16
+4171,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,17 Jul 2024,2024,Jul,17,2024-07-17
+4172,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,17 Sep 2024,2024,Sep,17,2024-09-17
+4173,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,18 Jul 2024,2024,Jul,18,2024-07-18
+4174,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,18 Oct 2024,2024,Oct,18,2024-10-18
+4175,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,18 Sep 2024,2024,Sep,18,2024-09-18
+4176,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,19 Aug 2024,2024,Aug,19,2024-08-19
+4177,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,19 Jul 2024,2024,Jul,19,2024-07-19
+4178,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,19 Sep 2024,2024,Sep,19,2024-09-19
+4179,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,20 Aug 2024,2024,Aug,20,2024-08-20
+4180,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,20 Sep 2024,2024,Sep,20,2024-09-20
+4181,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,21 Aug 2024,2024,Aug,21,2024-08-21
+4182,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,21 Oct 2024,2024,Oct,21,2024-10-21
+4183,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,22 Aug 2024,2024,Aug,22,2024-08-22
+4184,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,22 Oct 2024,2024,Oct,22,2024-10-22
+4185,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,23 Aug 2024,2024,Aug,23,2024-08-23
+4186,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,23 Oct 2024,2024,Oct,23,2024-10-23
+4187,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,23 Sep 2024,2024,Sep,23,2024-09-23
+4188,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,24 Oct 2024,2024,Oct,24,2024-10-24
+4189,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,24 Sep 2024,2024,Sep,24,2024-09-24
+4190,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,25 Jul 2024,2024,Jul,25,2024-07-25
+4191,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,25 Oct 2024,2024,Oct,25,2024-10-25
+4192,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,25 Sep 2024,2024,Sep,25,2024-09-25
+4193,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,26 Jul 2024,2024,Jul,26,2024-07-26
+4194,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,26 Sep 2024,2024,Sep,26,2024-09-26
+4195,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,27 Aug 2024,2024,Aug,27,2024-08-27
+4196,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,28 Aug 2024,2024,Aug,28,2024-08-28
+4197,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,28 Oct 2024,2024,Oct,28,2024-10-28
+4198,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,29 Aug 2024,2024,Aug,29,2024-08-29
+4199,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,29 Jul 2024,2024,Jul,29,2024-07-29
+4200,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,29 Oct 2024,2024,Oct,29,2024-10-29
+4201,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,30 Aug 2024,2024,Aug,30,2024-08-30
+4202,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,30 Jul 2024,2024,Jul,30,2024-07-30
+4203,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,30 Oct 2024,2024,Oct,30,2024-10-30
+4204,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,31 Jul 2024,2024,Jul,31,2024-07-31
+4205,,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,10000,11000,10500,31 Oct 2024,2024,Oct,31,2024-10-31
+4206,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11
+4207,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,01 Aug 2024,2024,Aug,1,2024-08-01
+4208,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,01 Oct 2024,2024,Oct,1,2024-10-01
+4209,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,02 Aug 2024,2024,Aug,2,2024-08-02
+4210,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,02 Sep 2024,2024,Sep,2,2024-09-02
+4211,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,03 Dec 2024,2024,Dec,3,2024-12-03
+4212,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,03 Sep 2024,2024,Sep,3,2024-09-03
+4213,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,04 Nov 2024,2024,Nov,4,2024-11-04
+4214,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,04 Oct 2024,2024,Oct,4,2024-10-04
+4215,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,05 Nov 2024,2024,Nov,5,2024-11-05
+4216,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,05 Sep 2024,2024,Sep,5,2024-09-05
+4217,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,06 Aug 2024,2024,Aug,6,2024-08-06
+4218,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,06 Nov 2024,2024,Nov,6,2024-11-06
+4219,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,06 Sep 2024,2024,Sep,6,2024-09-06
+4220,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,07 Aug 2024,2024,Aug,7,2024-08-07
+4221,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,07 Nov 2024,2024,Nov,7,2024-11-07
+4222,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,07 Oct 2024,2024,Oct,7,2024-10-07
+4223,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,08 Aug 2024,2024,Aug,8,2024-08-08
+4224,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,08 Nov 2024,2024,Nov,8,2024-11-08
+4225,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,08 Oct 2024,2024,Oct,8,2024-10-08
+4226,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,09 Aug 2024,2024,Aug,9,2024-08-09
+4227,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,09 Oct 2024,2024,Oct,9,2024-10-09
+4228,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,09 Sep 2024,2024,Sep,9,2024-09-09
+4229,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,10 Oct 2024,2024,Oct,10,2024-10-10
+4230,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,12 Aug 2024,2024,Aug,12,2024-08-12
+4231,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,12 Nov 2024,2024,Nov,12,2024-11-12
+4232,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,14 Aug 2024,2024,Aug,14,2024-08-14
+4233,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,14 Nov 2024,2024,Nov,14,2024-11-14
+4234,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,16 Aug 2024,2024,Aug,16,2024-08-16
+4235,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,16 Oct 2024,2024,Oct,16,2024-10-16
+4236,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,17 Jul 2024,2024,Jul,17,2024-07-17
+4237,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,17 Sep 2024,2024,Sep,17,2024-09-17
+4238,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,18 Jul 2024,2024,Jul,18,2024-07-18
+4239,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,18 Oct 2024,2024,Oct,18,2024-10-18
+4240,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,18 Sep 2024,2024,Sep,18,2024-09-18
+4241,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,19 Aug 2024,2024,Aug,19,2024-08-19
+4242,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,19 Sep 2024,2024,Sep,19,2024-09-19
+4243,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,20 Aug 2024,2024,Aug,20,2024-08-20
+4244,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,20 Sep 2024,2024,Sep,20,2024-09-20
+4245,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,21 Oct 2024,2024,Oct,21,2024-10-21
+4246,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,22 Aug 2024,2024,Aug,22,2024-08-22
+4247,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,22 Oct 2024,2024,Oct,22,2024-10-22
+4248,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Aug 2024,2024,Aug,23,2024-08-23
+4249,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Jul 2024,2024,Jul,23,2024-07-23
+4250,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Oct 2024,2024,Oct,23,2024-10-23
+4251,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Sep 2024,2024,Sep,23,2024-09-23
+4252,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,24 Oct 2024,2024,Oct,24,2024-10-24
+4253,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,24 Sep 2024,2024,Sep,24,2024-09-24
+4254,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,25 Jul 2024,2024,Jul,25,2024-07-25
+4255,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,25 Oct 2024,2024,Oct,25,2024-10-25
+4256,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,25 Sep 2024,2024,Sep,25,2024-09-25
+4257,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,26 Sep 2024,2024,Sep,26,2024-09-26
+4258,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,27 Sep 2024,2024,Sep,27,2024-09-27
+4259,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,28 Aug 2024,2024,Aug,28,2024-08-28
+4260,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,28 Oct 2024,2024,Oct,28,2024-10-28
+4261,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,29 Aug 2024,2024,Aug,29,2024-08-29
+4262,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,29 Oct 2024,2024,Oct,29,2024-10-29
+4263,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,30 Aug 2024,2024,Aug,30,2024-08-30
+4264,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,30 Jul 2024,2024,Jul,30,2024-07-30
+4265,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,30 Oct 2024,2024,Oct,30,2024-10-30
+4266,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,31 Jul 2024,2024,Jul,31,2024-07-31
+4267,,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,10500,11000,10750,31 Oct 2024,2024,Oct,31,2024-10-31
+4268,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Aug 2024,2024,Aug,1,2024-08-01
+4269,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Jul 2024,2024,Jul,1,2024-07-01
+4270,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Oct 2024,2024,Oct,1,2024-10-01
+4271,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,02 Aug 2024,2024,Aug,2,2024-08-02
+4272,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,02 Sep 2024,2024,Sep,2,2024-09-02
+4273,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,03 Sep 2024,2024,Sep,3,2024-09-03
+4274,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,04 Nov 2024,2024,Nov,4,2024-11-04
+4275,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,04 Oct 2024,2024,Oct,4,2024-10-04
+4276,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,05 Nov 2024,2024,Nov,5,2024-11-05
+4277,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,05 Sep 2024,2024,Sep,5,2024-09-05
+4278,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,06 Aug 2024,2024,Aug,6,2024-08-06
+4279,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,06 Nov 2024,2024,Nov,6,2024-11-06
+4280,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,06 Sep 2024,2024,Sep,6,2024-09-06
+4281,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,07 Aug 2024,2024,Aug,7,2024-08-07
+4282,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,07 Nov 2024,2024,Nov,7,2024-11-07
+4283,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,07 Oct 2024,2024,Oct,7,2024-10-07
+4284,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Aug 2024,2024,Aug,8,2024-08-08
+4285,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Nov 2024,2024,Nov,8,2024-11-08
+4286,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Oct 2024,2024,Oct,8,2024-10-08
+4287,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Aug 2024,2024,Aug,9,2024-08-09
+4288,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Jul 2024,2024,Jul,9,2024-07-09
+4289,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Oct 2024,2024,Oct,9,2024-10-09
+4290,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Sep 2024,2024,Sep,9,2024-09-09
+4291,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,10 Oct 2024,2024,Oct,10,2024-10-10
+4292,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,11 Jul 2024,2024,Jul,11,2024-07-11
+4293,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,11 Nov 2024,2024,Nov,11,2024-11-11
+4294,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Aug 2024,2024,Aug,12,2024-08-12
+4295,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Jul 2024,2024,Jul,12,2024-07-12
+4296,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Nov 2024,2024,Nov,12,2024-11-12
+4297,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Aug 2024,2024,Aug,14,2024-08-14
+4298,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Oct 2024,2024,Oct,14,2024-10-14
+4299,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,16 Aug 2024,2024,Aug,16,2024-08-16
+4300,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,16 Oct 2024,2024,Oct,16,2024-10-16
+4301,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,17 Jul 2024,2024,Jul,17,2024-07-17
+4302,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,17 Sep 2024,2024,Sep,17,2024-09-17
+4303,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,18 Oct 2024,2024,Oct,18,2024-10-18
+4304,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,18 Sep 2024,2024,Sep,18,2024-09-18
+4305,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Aug 2024,2024,Aug,19,2024-08-19
+4306,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Jul 2024,2024,Jul,19,2024-07-19
+4307,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Sep 2024,2024,Sep,19,2024-09-19
+4308,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,20 Aug 2024,2024,Aug,20,2024-08-20
+4309,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,20 Sep 2024,2024,Sep,20,2024-09-20
+4310,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,21 Aug 2024,2024,Aug,21,2024-08-21
+4311,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,21 Oct 2024,2024,Oct,21,2024-10-21
+4312,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,22 Aug 2024,2024,Aug,22,2024-08-22
+4313,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,22 Jul 2024,2024,Jul,22,2024-07-22
+4314,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,22 Oct 2024,2024,Oct,22,2024-10-22
+4315,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Aug 2024,2024,Aug,23,2024-08-23
+4316,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Jul 2024,2024,Jul,23,2024-07-23
+4317,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Oct 2024,2024,Oct,23,2024-10-23
+4318,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Sep 2024,2024,Sep,23,2024-09-23
+4319,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,24 Oct 2024,2024,Oct,24,2024-10-24
+4320,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,24 Sep 2024,2024,Sep,24,2024-09-24
+4321,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Jul 2024,2024,Jul,25,2024-07-25
+4322,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Oct 2024,2024,Oct,25,2024-10-25
+4323,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Sep 2024,2024,Sep,25,2024-09-25
+4324,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Jul 2024,2024,Jul,26,2024-07-26
+4325,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Sep 2024,2024,Sep,26,2024-09-26
+4326,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,27 Aug 2024,2024,Aug,27,2024-08-27
+4327,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,27 Sep 2024,2024,Sep,27,2024-09-27
+4328,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,28 Aug 2024,2024,Aug,28,2024-08-28
+4329,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,28 Oct 2024,2024,Oct,28,2024-10-28
+4330,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Aug 2024,2024,Aug,29,2024-08-29
+4331,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Jul 2024,2024,Jul,29,2024-07-29
+4332,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Oct 2024,2024,Oct,29,2024-10-29
+4333,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,30 Aug 2024,2024,Aug,30,2024-08-30
+4334,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,30 Oct 2024,2024,Oct,30,2024-10-30
+4335,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,31 Jul 2024,2024,Jul,31,2024-07-31
+4336,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,9000,10000,9500,31 Oct 2024,2024,Oct,31,2024-10-31
+4337,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,10000,11000,10500,03 Dec 2024,2024,Dec,3,2024-12-03
+4338,,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,10000,11000,10500,14 Nov 2024,2024,Nov,14,2024-11-14
+4339,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,02 Sep 2024,2024,Sep,2,2024-09-02
+4340,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,03 Dec 2024,2024,Dec,3,2024-12-03
+4341,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,03 Sep 2024,2024,Sep,3,2024-09-03
+4342,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,04 Nov 2024,2024,Nov,4,2024-11-04
+4343,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,04 Oct 2024,2024,Oct,4,2024-10-04
+4344,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,05 Nov 2024,2024,Nov,5,2024-11-05
+4345,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,05 Sep 2024,2024,Sep,5,2024-09-05
+4346,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Nov 2024,2024,Nov,6,2024-11-06
+4347,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,06 Sep 2024,2024,Sep,6,2024-09-06
+4348,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Aug 2024,2024,Aug,7,2024-08-07
+4349,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Nov 2024,2024,Nov,7,2024-11-07
+4350,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,07 Oct 2024,2024,Oct,7,2024-10-07
+4351,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Aug 2024,2024,Aug,8,2024-08-08
+4352,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,08 Oct 2024,2024,Oct,8,2024-10-08
+4353,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Aug 2024,2024,Aug,9,2024-08-09
+4354,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Oct 2024,2024,Oct,9,2024-10-09
+4355,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,09 Sep 2024,2024,Sep,9,2024-09-09
+4356,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,10 Oct 2024,2024,Oct,10,2024-10-10
+4357,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,11 Nov 2024,2024,Nov,11,2024-11-11
+4358,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,12 Aug 2024,2024,Aug,12,2024-08-12
+4359,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Aug 2024,2024,Aug,14,2024-08-14
+4360,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Nov 2024,2024,Nov,14,2024-11-14
+4361,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,14 Oct 2024,2024,Oct,14,2024-10-14
+4362,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,16 Aug 2024,2024,Aug,16,2024-08-16
+4363,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,16 Oct 2024,2024,Oct,16,2024-10-16
+4364,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,17 Sep 2024,2024,Sep,17,2024-09-17
+4365,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,18 Oct 2024,2024,Oct,18,2024-10-18
+4366,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,18 Sep 2024,2024,Sep,18,2024-09-18
+4367,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Aug 2024,2024,Aug,19,2024-08-19
+4368,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,19 Sep 2024,2024,Sep,19,2024-09-19
+4369,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,20 Aug 2024,2024,Aug,20,2024-08-20
+4370,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,20 Sep 2024,2024,Sep,20,2024-09-20
+4371,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,21 Aug 2024,2024,Aug,21,2024-08-21
+4372,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,21 Oct 2024,2024,Oct,21,2024-10-21
+4373,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Aug 2024,2024,Aug,22,2024-08-22
+4374,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,22 Oct 2024,2024,Oct,22,2024-10-22
+4375,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Aug 2024,2024,Aug,23,2024-08-23
+4376,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Oct 2024,2024,Oct,23,2024-10-23
+4377,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,23 Sep 2024,2024,Sep,23,2024-09-23
+4378,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,24 Oct 2024,2024,Oct,24,2024-10-24
+4379,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,24 Sep 2024,2024,Sep,24,2024-09-24
+4380,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Oct 2024,2024,Oct,25,2024-10-25
+4381,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,25 Sep 2024,2024,Sep,25,2024-09-25
+4382,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,26 Sep 2024,2024,Sep,26,2024-09-26
+4383,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,27 Aug 2024,2024,Aug,27,2024-08-27
+4384,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,27 Sep 2024,2024,Sep,27,2024-09-27
+4385,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,28 Aug 2024,2024,Aug,28,2024-08-28
+4386,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,28 Oct 2024,2024,Oct,28,2024-10-28
+4387,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Aug 2024,2024,Aug,29,2024-08-29
+4388,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,29 Oct 2024,2024,Oct,29,2024-10-29
+4389,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,30 Aug 2024,2024,Aug,30,2024-08-30
+4390,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,30 Oct 2024,2024,Oct,30,2024-10-30
+4391,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,9500,10000,9750,31 Oct 2024,2024,Oct,31,2024-10-31
+4392,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,01 Aug 2024,2024,Aug,1,2024-08-01
+4393,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,01 Jul 2024,2024,Jul,1,2024-07-01
+4394,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,02 Aug 2024,2024,Aug,2,2024-08-02
+4395,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,02 Jul 2024,2024,Jul,2,2024-07-02
+4396,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,06 Aug 2024,2024,Aug,6,2024-08-06
+4397,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,09 Jul 2024,2024,Jul,9,2024-07-09
+4398,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,11 Jul 2024,2024,Jul,11,2024-07-11
+4399,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,12 Jul 2024,2024,Jul,12,2024-07-12
+4400,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,17 Jul 2024,2024,Jul,17,2024-07-17
+4401,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,18 Jul 2024,2024,Jul,18,2024-07-18
+4402,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,19 Jul 2024,2024,Jul,19,2024-07-19
+4403,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,22 Jul 2024,2024,Jul,22,2024-07-22
+4404,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,23 Jul 2024,2024,Jul,23,2024-07-23
+4405,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,25 Jul 2024,2024,Jul,25,2024-07-25
+4406,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,26 Jul 2024,2024,Jul,26,2024-07-26
+4407,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,29 Jul 2024,2024,Jul,29,2024-07-29
+4408,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,30 Jul 2024,2024,Jul,30,2024-07-30
+4409,,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,10500,11000,10750,31 Jul 2024,2024,Jul,31,2024-07-31

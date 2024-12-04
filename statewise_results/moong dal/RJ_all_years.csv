@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3201,3201.0,3201,16 Feb 2017,2017,Feb,16,2017-02-16
 1,1.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3301,3901.0,3601,03 Mar 2017,2017,Mar,3,2017-03-03
 2,2.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3552,3801.0,3676,27 Feb 2017,2017,Feb,27,2017-02-27
@@ -422,75 +422,75 @@
 420,420.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,5500.0,5200,08 Sep 2019,2019,Sep,8,2019-09-08
 421,421.0,Jodhpur Rural,Pipar City,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5200,5500.0,5300,12 Sep 2019,2019,Sep,12,2019-09-12
 422,422.0,Bikaner,Bikaner (Grain),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4483,4499.0,4491,17 Oct 2017,2017,Oct,17,2017-10-17
-423,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3451,4300.0,4200,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-424,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,7100.0,6300,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-425,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5350,7351.0,6701,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-426,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7150.0,6800,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-427,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7172.0,6901,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-428,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7200.0,6775,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-429,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7200.0,6775,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-430,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5700,6900.0,5700,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-431,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5700,7270.0,6750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-432,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5701,7251.0,6900,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-433,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5701,7281.0,6700,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-434,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5800,6800.0,6551,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-435,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5800,6970.0,6710,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-436,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7000.0,6751,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-437,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7400.0,7000,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-438,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7571.0,7500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-439,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5900,6850.0,6540,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-440,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5900,6971.0,6650,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-441,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5902,7220.0,6880,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-442,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,6551.0,6100,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-443,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,6951.0,6601,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-444,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7001.0,6800,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-445,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7050.0,7000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-446,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7102.0,6500,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-447,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7200.0,6800,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-448,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7501.0,7100,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-449,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6180,7425.0,6651,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-450,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6200,6800.0,6501,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-451,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6200,7090.0,7000,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-452,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6200,7400.0,6800,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-453,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6201,7100.0,7001,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-454,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6201,7275.0,6900,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-455,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6251,7350.0,6700,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-456,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6290,7200.0,6901,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-457,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6300,7300.0,6900,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-458,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6301,7250.0,6901,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-459,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6350,6880.0,6800,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-460,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6400,7200.0,7051,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-461,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6400,7400.0,7300,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-462,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7101.0,6900,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-463,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7151.0,7100,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-464,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7310.0,6900,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-465,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6421,7000.0,6700,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-466,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6480,7340.0,7201,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-467,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6531,7100.0,6990,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-468,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6600,6600.0,6600,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-469,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6600,7100.0,6870,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-470,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6600,7375.0,6900,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-471,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6601,7301.0,7000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-472,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6650,6650.0,6650,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-473,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6830,7400.0,7210,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-474,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6850,6850.0,6850,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-475,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6851,6851.0,6851,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-476,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6891,7251.0,7100,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-477,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6900,7451.0,7051,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-478,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6901,6901.0,6901,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-479,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7000.0,7000,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-480,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7100.0,7050,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-481,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7300.0,7250,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-482,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7470.0,7210,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-483,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7651.0,7400,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-484,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7126,7451.0,7226,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-485,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7151,7541.0,7451,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-486,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7200.0,7200,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-487,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7276,7276.0,7276,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-488,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7551.0,7450,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-489,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7351,7351.0,7351,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-490,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7351,7551.0,7500,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-491,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7471,7491.0,7480,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-492,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7471,7626.0,7500,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-493,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7481,7481.0,7481,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-494,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7490,7490.0,7490,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
+423,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3451,4300.0,4200,29 Nov 2024,2024,Nov,29,2024-11-29
+424,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5000,7100.0,6300,16 Nov 2024,2024,Nov,16,2024-11-16
+425,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5350,7351.0,6701,22 Oct 2024,2024,Oct,22,2024-10-22
+426,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7150.0,6800,25 Oct 2024,2024,Oct,25,2024-10-25
+427,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7172.0,6901,24 Oct 2024,2024,Oct,24,2024-10-24
+428,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7200.0,6775,03 Oct 2024,2024,Oct,3,2024-10-03
+429,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5500,7200.0,6775,05 Oct 2024,2024,Oct,5,2024-10-05
+430,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5700,6900.0,5700,28 Oct 2024,2024,Oct,28,2024-10-28
+431,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5700,7270.0,6750,14 Nov 2024,2024,Nov,14,2024-11-14
+432,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5701,7251.0,6900,08 Nov 2024,2024,Nov,8,2024-11-08
+433,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5701,7281.0,6700,26 Oct 2024,2024,Oct,26,2024-10-26
+434,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5800,6800.0,6551,08 Oct 2024,2024,Oct,8,2024-10-08
+435,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5800,6970.0,6710,23 Nov 2024,2024,Nov,23,2024-11-23
+436,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7000.0,6751,04 Nov 2024,2024,Nov,4,2024-11-04
+437,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7400.0,7000,21 Oct 2024,2024,Oct,21,2024-10-21
+438,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5801,7571.0,7500,21 Aug 2024,2024,Aug,21,2024-08-21
+439,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5900,6850.0,6540,05 Nov 2024,2024,Nov,5,2024-11-05
+440,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5900,6971.0,6650,29 Oct 2024,2024,Oct,29,2024-10-29
+441,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5902,7220.0,6880,11 Oct 2024,2024,Oct,11,2024-10-11
+442,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,6551.0,6100,28 Nov 2024,2024,Nov,28,2024-11-28
+443,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,6951.0,6601,14 Oct 2024,2024,Oct,14,2024-10-14
+444,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7001.0,6800,23 Oct 2024,2024,Oct,23,2024-10-23
+445,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7050.0,7000,20 Aug 2024,2024,Aug,20,2024-08-20
+446,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7102.0,6500,06 Nov 2024,2024,Nov,6,2024-11-06
+447,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7200.0,6800,28 Sep 2024,2024,Sep,28,2024-09-28
+448,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6000,7501.0,7100,26 Nov 2024,2024,Nov,26,2024-11-26
+449,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6180,7425.0,6651,16 Oct 2024,2024,Oct,16,2024-10-16
+450,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6200,6800.0,6501,25 Nov 2024,2024,Nov,25,2024-11-25
+451,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6200,7090.0,7000,22 Nov 2024,2024,Nov,22,2024-11-22
+452,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6200,7400.0,6800,20 Nov 2024,2024,Nov,20,2024-11-20
+453,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6201,7100.0,7001,27 Nov 2024,2024,Nov,27,2024-11-27
+454,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6201,7275.0,6900,09 Nov 2024,2024,Nov,9,2024-11-09
+455,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6251,7350.0,6700,30 Sep 2024,2024,Sep,30,2024-09-30
+456,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6290,7200.0,6901,10 Oct 2024,2024,Oct,10,2024-10-10
+457,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6300,7300.0,6900,19 Nov 2024,2024,Nov,19,2024-11-19
+458,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6301,7250.0,6901,18 Nov 2024,2024,Nov,18,2024-11-18
+459,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6350,6880.0,6800,21 Nov 2024,2024,Nov,21,2024-11-21
+460,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6400,7200.0,7051,27 Sep 2024,2024,Sep,27,2024-09-27
+461,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6400,7400.0,7300,04 Oct 2024,2024,Oct,4,2024-10-04
+462,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7101.0,6900,15 Oct 2024,2024,Oct,15,2024-10-15
+463,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7151.0,7100,16 Jul 2024,2024,Jul,16,2024-07-16
+464,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6401,7310.0,6900,11 Nov 2024,2024,Nov,11,2024-11-11
+465,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6421,7000.0,6700,12 Oct 2024,2024,Oct,12,2024-10-12
+466,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6480,7340.0,7201,07 Nov 2024,2024,Nov,7,2024-11-07
+467,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6531,7100.0,6990,09 Oct 2024,2024,Oct,9,2024-10-09
+468,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6600,6600.0,6600,06 Sep 2024,2024,Sep,6,2024-09-06
+469,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6600,7100.0,6870,15 Nov 2024,2024,Nov,15,2024-11-15
+470,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6600,7375.0,6900,07 Oct 2024,2024,Oct,7,2024-10-07
+471,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6601,7301.0,7000,18 Oct 2024,2024,Oct,18,2024-10-18
+472,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6650,6650.0,6650,04 Sep 2024,2024,Sep,4,2024-09-04
+473,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6830,7400.0,7210,20 Jul 2024,2024,Jul,20,2024-07-20
+474,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6850,6850.0,6850,26 Sep 2024,2024,Sep,26,2024-09-26
+475,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6851,6851.0,6851,27 Aug 2024,2024,Aug,27,2024-08-27
+476,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6891,7251.0,7100,15 Jul 2024,2024,Jul,15,2024-07-15
+477,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6900,7451.0,7051,30 Aug 2024,2024,Aug,30,2024-08-30
+478,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6901,6901.0,6901,18 Jul 2024,2024,Jul,18,2024-07-18
+479,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7000.0,7000,24 Aug 2024,2024,Aug,24,2024-08-24
+480,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,7100.0,7050,19 Jul 2024,2024,Jul,19,2024-07-19
+481,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7300.0,7250,13 Sep 2024,2024,Sep,13,2024-09-13
+482,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7470.0,7210,22 Jul 2024,2024,Jul,22,2024-07-22
+483,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7100,7651.0,7400,16 Sep 2024,2024,Sep,16,2024-09-16
+484,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7126,7451.0,7226,28 Aug 2024,2024,Aug,28,2024-08-28
+485,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7151,7541.0,7451,21 Sep 2024,2024,Sep,21,2024-09-21
+486,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7200,7200.0,7200,18 Sep 2024,2024,Sep,18,2024-09-18
+487,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7276,7276.0,7276,08 Jul 2024,2024,Jul,8,2024-07-08
+488,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7300,7551.0,7450,16 Aug 2024,2024,Aug,16,2024-08-16
+489,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7351,7351.0,7351,17 Sep 2024,2024,Sep,17,2024-09-17
+490,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7351,7551.0,7500,17 Aug 2024,2024,Aug,17,2024-08-17
+491,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7471,7491.0,7480,19 Sep 2024,2024,Sep,19,2024-09-19
+492,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7471,7626.0,7500,20 Sep 2024,2024,Sep,20,2024-09-20
+493,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7481,7481.0,7481,22 Aug 2024,2024,Aug,22,2024-08-22
+494,,Hanumangarh,Rawatsar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7490,7490.0,7490,05 Sep 2024,2024,Sep,5,2024-09-05

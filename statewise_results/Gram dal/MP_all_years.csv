@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Seoni,Chhpara,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4080,4310,4195,17 Aug 2021,2021,Aug,17,2021-08-17
 1,1.0,Seoni,Chhpara,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4300,4300,4300,12 Mar 2021,2021,Mar,12,2021-03-12
 2,2.0,Sagar,Jaisinagar,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,4200,4310,4300,17 Jul 2021,2021,Jul,17,2021-07-17
@@ -2599,16 +2599,16 @@
 2597,2597.0,Ujjain,Ujjain,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,5765,5800,5780,07 Sep 2017,2017,Sep,7,2017-09-07
 2598,2598.0,Ujjain,Ujjain,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6125,6249,6249,11 Sep 2017,2017,Sep,11,2017-09-11
 2599,2599.0,Ujjain,Ujjain,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6301,6301,6301,09 Sep 2017,2017,Sep,9,2017-09-09
-2600,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,5500,6500,6000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-2601,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,5650,6725,6725,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-2602,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,5725,6100,5910,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-2603,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,5876,6585,6585,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-2604,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6050,7025,7025,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-2605,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6100,6100,6100,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-2606,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6195,6300,6240,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-2607,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6330,6405,6370,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-2608,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6505,6505,6505,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-2609,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6789,6789,6789,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-2610,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6800,6800,6800,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-2611,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6905,6905,6905,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-2612,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,7250,7250,7250,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
+2600,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,5500,6500,6000,19 Oct 2024,2024,Oct,19,2024-10-19
+2601,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,5650,6725,6725,18 Oct 2024,2024,Oct,18,2024-10-18
+2602,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,5725,6100,5910,11 Nov 2024,2024,Nov,11,2024-11-11
+2603,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,5876,6585,6585,23 Oct 2024,2024,Oct,23,2024-10-23
+2604,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6050,7025,7025,20 Sep 2024,2024,Sep,20,2024-09-20
+2605,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6100,6100,6100,05 Nov 2024,2024,Nov,5,2024-11-05
+2606,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6195,6300,6240,06 Nov 2024,2024,Nov,6,2024-11-06
+2607,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6330,6405,6370,04 Nov 2024,2024,Nov,4,2024-11-04
+2608,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6505,6505,6505,14 Oct 2024,2024,Oct,14,2024-10-14
+2609,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6789,6789,6789,08 Oct 2024,2024,Oct,8,2024-10-08
+2610,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6800,6800,6800,09 Oct 2024,2024,Oct,9,2024-10-09
+2611,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,6905,6905,6905,21 Sep 2024,2024,Sep,21,2024-09-21
+2612,,Ujjain,Mahidpur(F&V),Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,7250,7250,7250,27 Sep 2024,2024,Sep,27,2024-09-27

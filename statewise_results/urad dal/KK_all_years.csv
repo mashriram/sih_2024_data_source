@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5470,5470,5470,18 Sep 2020,2020,Sep,18,2020-09-18
 1,1.0,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8200,10800,8800,06 Oct 2020,2020,Oct,6,2020-10-06
 2,2.0,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10800,10800,10800,26 Aug 2021,2021,Aug,26,2021-08-26
@@ -6432,288 +6432,288 @@
 6430,6430.0,Chikmagalur,Tarikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5000,5000,19 Feb 2018,2018,Feb,19,2018-02-19
 6431,6431.0,Chikmagalur,Tarikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,6250,5357,19 Mar 2018,2018,Mar,19,2018-03-19
 6432,6432.0,Chikmagalur,Tarikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5400,5974,5874,21 Nov 2017,2017,Nov,21,2017-11-21
-6433,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,11300,11300,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6434,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,11600,11300,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6435,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,12150,11300,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6436,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,12150,12150,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6437,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,11850,11850,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6438,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11700,11700,11700,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6439,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11893,11893,11893,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6440,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12100,12100,12100,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6441,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12200,12200,12200,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6442,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12220,12220,12220,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-6443,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12271,12271,12271,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6444,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12280,12280,12280,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-6445,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12674,12674,12674,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6446,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12906,13109,13109,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6447,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12925,12925,12925,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-6448,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13006,13006,13006,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6449,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13134,13134,13134,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6450,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13292,13292,13292,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6451,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13554,13554,13554,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-6452,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10800,15600,13200,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6453,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10800,15600,13200,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6454,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6455,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6456,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-6457,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6458,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6459,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6460,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6461,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6462,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6463,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6464,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-6465,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6466,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6467,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-6468,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-6469,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-6470,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6471,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6472,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6473,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6474,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6475,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6476,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6477,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6478,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6479,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6480,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6481,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6482,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6483,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-6484,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6485,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6486,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-6487,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6488,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6489,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-6490,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6491,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6492,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6493,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6494,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6495,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6496,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6497,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6498,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6499,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-6500,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6501,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6502,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6503,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6504,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6505,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-6506,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6507,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6508,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6509,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6510,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6511,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6512,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6513,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6514,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6515,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6516,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6517,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6518,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6519,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6520,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6521,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6522,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-6523,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-6524,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-6525,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-6526,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-6527,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6528,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6529,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6530,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6531,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6532,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6533,,Kolar,Bangarpet,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,7000,6500,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6534,,Kolar,Bangarpet,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10000,11000,10500,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-6535,,Shimoga,Bhadravathi,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8725,12400,10587,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-6536,,Shimoga,Bhadravathi,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12250,14200,12504,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-6537,,Davangere,Davangere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,11800,11400,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6538,,Davangere,Davangere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11100,11100,11100,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6539,,Davangere,Davangere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,11800,11800,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6540,,Bangalore,Doddaballa Pur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11700,11700,11700,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6541,,Hassan,Hassan,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,9300,9300,9300,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-6542,,Hassan,Hassan,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,19500,14000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6543,,Chitradurga,Hiriyur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12117,12117,12117,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6544,,Chitradurga,Hiriyur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12913,12913,12913,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6545,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10000,10400,10200,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6546,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10800,11200,11000,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6547,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10900,11200,11000,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6548,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12300,12500,12400,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6549,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,12900,12704,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6550,,Kolar,Malur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,13000,12471,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6551,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,1200,13000,12500,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-6552,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8900,9800,8900,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6553,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,9000,12500,11500,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6554,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,11700,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-6555,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,12000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6556,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,12000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6557,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,12000,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6558,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,12000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-6559,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,13000,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6560,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10500,12400,11850,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6561,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10700,12300,11500,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-6562,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10912,10975,10975,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6563,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,12000,11400,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6564,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,12800,12000,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6565,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,13000,12000,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6566,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,11200,11200,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6567,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,11800,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6568,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12000,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6569,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-6570,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12000,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6571,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12500,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-6572,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6573,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11250,12100,11300,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-6574,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11250,12200,11700,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6575,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11350,12400,11500,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6576,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11430,12300,11700,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-6577,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,12300,12000,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6578,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11520,11850,11850,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6579,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,11600,11600,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6580,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,12800,12000,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6581,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6582,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6583,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12400,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6584,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6585,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12500,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6586,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12500,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6587,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12500,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6588,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,12400,12100,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6589,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,13000,12500,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6590,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,13000,12500,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-6591,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12100,12400,12300,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6592,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12200,12450,12300,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-6593,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12200,15200,12250,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-6594,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12200,15200,13500,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6595,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12400,12400,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6596,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12400,12400,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6597,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12400,12400,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-6598,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12400,12400,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-6599,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12500,12450,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6600,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13200,13000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6601,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12850,13200,13200,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6602,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13000,15000,13500,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-6603,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13800,14700,14000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6604,,Tumkur,Pavagada,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,12000,10000,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6605,,Tumkur,Pavagada,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7000,7350,7305,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6606,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15000,13250,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-6607,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6608,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6609,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6610,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6611,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6612,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6613,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6614,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6615,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6616,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6617,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6618,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6619,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-6620,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-6621,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6622,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6623,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-6624,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-6625,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6626,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-6627,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-6628,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-6629,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6630,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6631,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6632,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6633,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6634,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-6635,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6636,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6637,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-6638,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-6639,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6640,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6641,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6642,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6643,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6644,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6645,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-6646,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6647,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6648,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-6649,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6650,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6651,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-6652,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6653,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6654,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6655,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-6656,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6657,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6658,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6659,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6660,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6661,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6662,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6663,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-6664,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6665,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6666,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6667,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6668,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6669,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6670,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6671,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-6672,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6673,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6674,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6675,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6676,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-6677,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-6678,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6679,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-6680,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6681,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6682,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-6683,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6684,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6685,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6686,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6687,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6688,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6689,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-6690,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6691,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6692,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6693,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-6694,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-6695,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6696,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6697,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6698,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6699,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-6700,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6701,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6702,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-6703,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6704,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6705,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6706,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6707,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6708,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13100,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6709,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13100,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6710,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13200,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6711,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12800,13500,13200,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-6712,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11400,11400,11400,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6713,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11400,11400,11400,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6714,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11400,11400,11400,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6715,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11848,11848,11848,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6716,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11900,11900,11900,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6717,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12600,12600,12600,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
+6433,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,11300,11300,04 Nov 2024,2024,Nov,4,2024-11-04
+6434,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,11600,11300,30 Sep 2024,2024,Sep,30,2024-09-30
+6435,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,12150,11300,21 Oct 2024,2024,Oct,21,2024-10-21
+6436,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,12150,12150,09 Sep 2024,2024,Sep,9,2024-09-09
+6437,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,11850,11850,02 Sep 2024,2024,Sep,2,2024-09-02
+6438,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11700,11700,11700,30 Jul 2024,2024,Jul,30,2024-07-30
+6439,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11893,11893,11893,12 Jul 2024,2024,Jul,12,2024-07-12
+6440,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12100,12100,12100,09 Oct 2024,2024,Oct,9,2024-10-09
+6441,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12200,12200,12200,07 Nov 2024,2024,Nov,7,2024-11-07
+6442,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12220,12220,12220,03 Aug 2024,2024,Aug,3,2024-08-03
+6443,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12271,12271,12271,18 Sep 2024,2024,Sep,18,2024-09-18
+6444,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12280,12280,12280,26 Nov 2024,2024,Nov,26,2024-11-26
+6445,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12674,12674,12674,03 Sep 2024,2024,Sep,3,2024-09-03
+6446,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12906,13109,13109,27 Aug 2024,2024,Aug,27,2024-08-27
+6447,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12925,12925,12925,20 Nov 2024,2024,Nov,20,2024-11-20
+6448,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13006,13006,13006,09 Jul 2024,2024,Jul,9,2024-07-09
+6449,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13134,13134,13134,11 Sep 2024,2024,Sep,11,2024-09-11
+6450,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13292,13292,13292,08 Oct 2024,2024,Oct,8,2024-10-08
+6451,,Hassan,Arasikere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13554,13554,13554,03 Jul 2024,2024,Jul,3,2024-07-03
+6452,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10800,15600,13200,02 Dec 2024,2024,Dec,2,2024-12-02
+6453,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10800,15600,13200,03 Dec 2024,2024,Dec,3,2024-12-03
+6454,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,01 Aug 2024,2024,Aug,1,2024-08-01
+6455,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,02 Aug 2024,2024,Aug,2,2024-08-02
+6456,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,03 Aug 2024,2024,Aug,3,2024-08-03
+6457,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,05 Aug 2024,2024,Aug,5,2024-08-05
+6458,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,06 Aug 2024,2024,Aug,6,2024-08-06
+6459,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,07 Aug 2024,2024,Aug,7,2024-08-07
+6460,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,07 Nov 2024,2024,Nov,7,2024-11-07
+6461,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,08 Aug 2024,2024,Aug,8,2024-08-08
+6462,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,08 Nov 2024,2024,Nov,8,2024-11-08
+6463,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,09 Sep 2024,2024,Sep,9,2024-09-09
+6464,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,10 Sep 2024,2024,Sep,10,2024-09-10
+6465,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,11 Sep 2024,2024,Sep,11,2024-09-11
+6466,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,12 Sep 2024,2024,Sep,12,2024-09-12
+6467,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,13 Sep 2024,2024,Sep,13,2024-09-13
+6468,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,20 Jul 2024,2024,Jul,20,2024-07-20
+6469,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,22 Jul 2024,2024,Jul,22,2024-07-22
+6470,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,23 Jul 2024,2024,Jul,23,2024-07-23
+6471,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,24 Jul 2024,2024,Jul,24,2024-07-24
+6472,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,25 Jul 2024,2024,Jul,25,2024-07-25
+6473,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,26 Jul 2024,2024,Jul,26,2024-07-26
+6474,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,27 Aug 2024,2024,Aug,27,2024-08-27
+6475,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,28 Aug 2024,2024,Aug,28,2024-08-28
+6476,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,29 Aug 2024,2024,Aug,29,2024-08-29
+6477,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,29 Jul 2024,2024,Jul,29,2024-07-29
+6478,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,16000,13500,31 Jul 2024,2024,Jul,31,2024-07-31
+6479,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,08 Oct 2024,2024,Oct,8,2024-10-08
+6480,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,09 Oct 2024,2024,Oct,9,2024-10-09
+6481,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,10 Oct 2024,2024,Oct,10,2024-10-10
+6482,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,14 Oct 2024,2024,Oct,14,2024-10-14
+6483,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,15 Oct 2024,2024,Oct,15,2024-10-15
+6484,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,16 Oct 2024,2024,Oct,16,2024-10-16
+6485,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,17800,14400,18 Oct 2024,2024,Oct,18,2024-10-18
+6486,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12000,19 Oct 2024,2024,Oct,19,2024-10-19
+6487,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,09 Aug 2024,2024,Aug,9,2024-08-09
+6488,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,12 Aug 2024,2024,Aug,12,2024-08-12
+6489,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,13 Aug 2024,2024,Aug,13,2024-08-13
+6490,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,14 Aug 2024,2024,Aug,14,2024-08-14
+6491,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,16 Aug 2024,2024,Aug,16,2024-08-16
+6492,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,17 Aug 2024,2024,Aug,17,2024-08-17
+6493,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,19 Aug 2024,2024,Aug,19,2024-08-19
+6494,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,20 Aug 2024,2024,Aug,20,2024-08-20
+6495,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,21 Aug 2024,2024,Aug,21,2024-08-21
+6496,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,22 Aug 2024,2024,Aug,22,2024-08-22
+6497,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,15600,13450,23 Aug 2024,2024,Aug,23,2024-08-23
+6498,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,01 Oct 2024,2024,Oct,1,2024-10-01
+6499,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,03 Oct 2024,2024,Oct,3,2024-10-03
+6500,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,07 Oct 2024,2024,Oct,7,2024-10-07
+6501,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,17 Sep 2024,2024,Sep,17,2024-09-17
+6502,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,18 Sep 2024,2024,Sep,18,2024-09-18
+6503,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,19 Sep 2024,2024,Sep,19,2024-09-19
+6504,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,20 Sep 2024,2024,Sep,20,2024-09-20
+6505,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,21 Sep 2024,2024,Sep,21,2024-09-21
+6506,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,23 Sep 2024,2024,Sep,23,2024-09-23
+6507,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,24 Sep 2024,2024,Sep,24,2024-09-24
+6508,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,25 Sep 2024,2024,Sep,25,2024-09-25
+6509,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,26 Sep 2024,2024,Sep,26,2024-09-26
+6510,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,27 Sep 2024,2024,Sep,27,2024-09-27
+6511,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11300,17900,14600,30 Sep 2024,2024,Sep,30,2024-09-30
+6512,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,04 Nov 2024,2024,Nov,4,2024-11-04
+6513,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,21 Oct 2024,2024,Oct,21,2024-10-21
+6514,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,22 Oct 2024,2024,Oct,22,2024-10-22
+6515,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,24 Oct 2024,2024,Oct,24,2024-10-24
+6516,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,25 Oct 2024,2024,Oct,25,2024-10-25
+6517,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,28 Oct 2024,2024,Oct,28,2024-10-28
+6518,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,29 Oct 2024,2024,Oct,29,2024-10-29
+6519,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,13000,12300,30 Oct 2024,2024,Oct,30,2024-10-30
+6520,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,01 Jul 2024,2024,Jul,1,2024-07-01
+6521,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,02 Jul 2024,2024,Jul,2,2024-07-02
+6522,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,03 Jul 2024,2024,Jul,3,2024-07-03
+6523,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,04 Jul 2024,2024,Jul,4,2024-07-04
+6524,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,05 Jul 2024,2024,Jul,5,2024-07-05
+6525,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,06 Jul 2024,2024,Jul,6,2024-07-06
+6526,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,08 Jul 2024,2024,Jul,8,2024-07-08
+6527,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,09 Jul 2024,2024,Jul,9,2024-07-09
+6528,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,10 Jul 2024,2024,Jul,10,2024-07-10
+6529,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,11 Jul 2024,2024,Jul,11,2024-07-11
+6530,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,12 Jul 2024,2024,Jul,12,2024-07-12
+6531,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,15 Jul 2024,2024,Jul,15,2024-07-15
+6532,,Bangalore,Bangalore,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,16200,14100,19 Jul 2024,2024,Jul,19,2024-07-19
+6533,,Kolar,Bangarpet,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,7000,6500,09 Jul 2024,2024,Jul,9,2024-07-09
+6534,,Kolar,Bangarpet,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10000,11000,10500,26 Oct 2024,2024,Oct,26,2024-10-26
+6535,,Shimoga,Bhadravathi,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8725,12400,10587,26 Nov 2024,2024,Nov,26,2024-11-26
+6536,,Shimoga,Bhadravathi,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12250,14200,12504,27 Nov 2024,2024,Nov,27,2024-11-27
+6537,,Davangere,Davangere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,11800,11400,01 Oct 2024,2024,Oct,1,2024-10-01
+6538,,Davangere,Davangere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11100,11100,11100,12 Nov 2024,2024,Nov,12,2024-11-12
+6539,,Davangere,Davangere,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,11800,11800,24 Jul 2024,2024,Jul,24,2024-07-24
+6540,,Bangalore,Doddaballa Pur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11700,11700,11700,08 Nov 2024,2024,Nov,8,2024-11-08
+6541,,Hassan,Hassan,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,9300,9300,9300,15 Oct 2024,2024,Oct,15,2024-10-15
+6542,,Hassan,Hassan,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,19500,14000,26 Jul 2024,2024,Jul,26,2024-07-26
+6543,,Chitradurga,Hiriyur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12117,12117,12117,21 Aug 2024,2024,Aug,21,2024-08-21
+6544,,Chitradurga,Hiriyur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12913,12913,12913,02 Jul 2024,2024,Jul,2,2024-07-02
+6545,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10000,10400,10200,16 Oct 2024,2024,Oct,16,2024-10-16
+6546,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10800,11200,11000,24 Sep 2024,2024,Sep,24,2024-09-24
+6547,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10900,11200,11000,09 Oct 2024,2024,Oct,9,2024-10-09
+6548,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12300,12500,12400,19 Jul 2024,2024,Jul,19,2024-07-19
+6549,,Kolar,Kolar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,12900,12704,12 Jul 2024,2024,Jul,12,2024-07-12
+6550,,Kolar,Malur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,13000,12471,28 Aug 2024,2024,Aug,28,2024-08-28
+6551,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,1200,13000,12500,05 Jul 2024,2024,Jul,5,2024-07-05
+6552,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,8900,9800,8900,19 Sep 2024,2024,Sep,19,2024-09-19
+6553,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,9000,12500,11500,06 Nov 2024,2024,Nov,6,2024-11-06
+6554,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,11700,08 Jul 2024,2024,Jul,8,2024-07-08
+6555,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,12000,09 Jul 2024,2024,Jul,9,2024-07-09
+6556,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,12000,15 Jul 2024,2024,Jul,15,2024-07-15
+6557,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,12000,19 Jul 2024,2024,Jul,19,2024-07-19
+6558,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,12000,20 Jul 2024,2024,Jul,20,2024-07-20
+6559,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10400,13000,13000,10 Jul 2024,2024,Jul,10,2024-07-10
+6560,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10500,12400,11850,06 Sep 2024,2024,Sep,6,2024-09-06
+6561,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10700,12300,11500,15 Nov 2024,2024,Nov,15,2024-11-15
+6562,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,10912,10975,10975,09 Aug 2024,2024,Aug,9,2024-08-09
+6563,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,12000,11400,05 Nov 2024,2024,Nov,5,2024-11-05
+6564,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,12800,12000,04 Oct 2024,2024,Oct,4,2024-10-04
+6565,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11000,13000,12000,20 Sep 2024,2024,Sep,20,2024-09-20
+6566,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,11200,11200,12 Aug 2024,2024,Aug,12,2024-08-12
+6567,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,11800,18 Oct 2024,2024,Oct,18,2024-10-18
+6568,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12000,14 Oct 2024,2024,Oct,14,2024-10-14
+6569,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12000,19 Oct 2024,2024,Oct,19,2024-10-19
+6570,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12000,23 Oct 2024,2024,Oct,23,2024-10-23
+6571,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12500,26 Oct 2024,2024,Oct,26,2024-10-26
+6572,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11200,12800,12500,28 Oct 2024,2024,Oct,28,2024-10-28
+6573,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11250,12100,11300,30 Nov 2024,2024,Nov,30,2024-11-30
+6574,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11250,12200,11700,03 Sep 2024,2024,Sep,3,2024-09-03
+6575,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11350,12400,11500,12 Sep 2024,2024,Sep,12,2024-09-12
+6576,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11430,12300,11700,10 Sep 2024,2024,Sep,10,2024-09-10
+6577,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,12300,12000,11 Nov 2024,2024,Nov,11,2024-11-11
+6578,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11520,11850,11850,02 Dec 2024,2024,Dec,2,2024-12-02
+6579,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11600,11600,11600,29 Oct 2024,2024,Oct,29,2024-10-29
+6580,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,12800,12000,30 Sep 2024,2024,Sep,30,2024-09-30
+6581,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12000,23 Jul 2024,2024,Jul,23,2024-07-23
+6582,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12000,26 Jul 2024,2024,Jul,26,2024-07-26
+6583,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12400,29 Jul 2024,2024,Jul,29,2024-07-29
+6584,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12500,01 Aug 2024,2024,Aug,1,2024-08-01
+6585,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12500,02 Aug 2024,2024,Aug,2,2024-08-02
+6586,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12500,25 Jul 2024,2024,Jul,25,2024-07-25
+6587,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,13000,12500,31 Jul 2024,2024,Jul,31,2024-07-31
+6588,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,12400,12100,23 Aug 2024,2024,Aug,23,2024-08-23
+6589,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,13000,12500,01 Jul 2024,2024,Jul,1,2024-07-01
+6590,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12000,13000,12500,04 Jul 2024,2024,Jul,4,2024-07-04
+6591,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12100,12400,12300,29 Aug 2024,2024,Aug,29,2024-08-29
+6592,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12200,12450,12300,24 Aug 2024,2024,Aug,24,2024-08-24
+6593,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12200,15200,12250,04 Sep 2024,2024,Sep,4,2024-09-04
+6594,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12200,15200,13500,23 Sep 2024,2024,Sep,23,2024-09-23
+6595,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12400,12400,11 Sep 2024,2024,Sep,11,2024-09-11
+6596,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12400,12400,19 Aug 2024,2024,Aug,19,2024-08-19
+6597,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12400,12400,21 Sep 2024,2024,Sep,21,2024-09-21
+6598,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12400,12400,26 Aug 2024,2024,Aug,26,2024-08-26
+6599,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12400,12500,12450,22 Aug 2024,2024,Aug,22,2024-08-22
+6600,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13200,13000,05 Aug 2024,2024,Aug,5,2024-08-05
+6601,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12850,13200,13200,17 Aug 2024,2024,Aug,17,2024-08-17
+6602,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13000,15000,13500,16 Sep 2024,2024,Sep,16,2024-09-16
+6603,,Mysore,Mysore (Bandipalya),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,13800,14700,14000,16 Aug 2024,2024,Aug,16,2024-08-16
+6604,,Tumkur,Pavagada,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,12000,10000,09 Oct 2024,2024,Oct,9,2024-10-09
+6605,,Tumkur,Pavagada,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,7000,7350,7305,23 Sep 2024,2024,Sep,23,2024-09-23
+6606,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15000,13250,13 Nov 2024,2024,Nov,13,2024-11-13
+6607,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,02 Dec 2024,2024,Dec,2,2024-12-02
+6608,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,03 Dec 2024,2024,Dec,3,2024-12-03
+6609,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,04 Nov 2024,2024,Nov,4,2024-11-04
+6610,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,05 Nov 2024,2024,Nov,5,2024-11-05
+6611,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,06 Nov 2024,2024,Nov,6,2024-11-06
+6612,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,07 Nov 2024,2024,Nov,7,2024-11-07
+6613,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,08 Nov 2024,2024,Nov,8,2024-11-08
+6614,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,10 Oct 2024,2024,Oct,10,2024-10-10
+6615,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,11 Nov 2024,2024,Nov,11,2024-11-11
+6616,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,12 Nov 2024,2024,Nov,12,2024-11-12
+6617,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,14 Nov 2024,2024,Nov,14,2024-11-14
+6618,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,14 Oct 2024,2024,Oct,14,2024-10-14
+6619,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,15 Oct 2024,2024,Oct,15,2024-10-15
+6620,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,16 Nov 2024,2024,Nov,16,2024-11-16
+6621,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,16 Oct 2024,2024,Oct,16,2024-10-16
+6622,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,18 Oct 2024,2024,Oct,18,2024-10-18
+6623,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,19 Nov 2024,2024,Nov,19,2024-11-19
+6624,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,20 Nov 2024,2024,Nov,20,2024-11-20
+6625,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,25 Oct 2024,2024,Oct,25,2024-10-25
+6626,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,26 Nov 2024,2024,Nov,26,2024-11-26
+6627,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,27 Nov 2024,2024,Nov,27,2024-11-27
+6628,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,28 Nov 2024,2024,Nov,28,2024-11-28
+6629,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,28 Oct 2024,2024,Oct,28,2024-10-28
+6630,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,29 Oct 2024,2024,Oct,29,2024-10-29
+6631,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11500,15800,13650,30 Oct 2024,2024,Oct,30,2024-10-30
+6632,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,01 Oct 2024,2024,Oct,1,2024-10-01
+6633,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,02 Sep 2024,2024,Sep,2,2024-09-02
+6634,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,03 Oct 2024,2024,Oct,3,2024-10-03
+6635,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,03 Sep 2024,2024,Sep,3,2024-09-03
+6636,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,04 Oct 2024,2024,Oct,4,2024-10-04
+6637,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,04 Sep 2024,2024,Sep,4,2024-09-04
+6638,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,05 Oct 2024,2024,Oct,5,2024-10-05
+6639,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,05 Sep 2024,2024,Sep,5,2024-09-05
+6640,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,06 Sep 2024,2024,Sep,6,2024-09-06
+6641,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,07 Oct 2024,2024,Oct,7,2024-10-07
+6642,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,08 Oct 2024,2024,Oct,8,2024-10-08
+6643,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,09 Oct 2024,2024,Oct,9,2024-10-09
+6644,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,09 Sep 2024,2024,Sep,9,2024-09-09
+6645,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,10 Sep 2024,2024,Sep,10,2024-09-10
+6646,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,11 Sep 2024,2024,Sep,11,2024-09-11
+6647,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,12 Sep 2024,2024,Sep,12,2024-09-12
+6648,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,13 Sep 2024,2024,Sep,13,2024-09-13
+6649,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,17 Sep 2024,2024,Sep,17,2024-09-17
+6650,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,18 Sep 2024,2024,Sep,18,2024-09-18
+6651,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,19 Oct 2024,2024,Oct,19,2024-10-19
+6652,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,19 Sep 2024,2024,Sep,19,2024-09-19
+6653,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,20 Sep 2024,2024,Sep,20,2024-09-20
+6654,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,21 Oct 2024,2024,Oct,21,2024-10-21
+6655,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,21 Sep 2024,2024,Sep,21,2024-09-21
+6656,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,22 Oct 2024,2024,Oct,22,2024-10-22
+6657,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,23 Aug 2024,2024,Aug,23,2024-08-23
+6658,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,23 Oct 2024,2024,Oct,23,2024-10-23
+6659,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,23 Sep 2024,2024,Sep,23,2024-09-23
+6660,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,24 Oct 2024,2024,Oct,24,2024-10-24
+6661,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,24 Sep 2024,2024,Sep,24,2024-09-24
+6662,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,25 Sep 2024,2024,Sep,25,2024-09-25
+6663,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,26 Aug 2024,2024,Aug,26,2024-08-26
+6664,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,26 Sep 2024,2024,Sep,26,2024-09-26
+6665,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,27 Aug 2024,2024,Aug,27,2024-08-27
+6666,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,27 Sep 2024,2024,Sep,27,2024-09-27
+6667,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,28 Aug 2024,2024,Aug,28,2024-08-28
+6668,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,29 Aug 2024,2024,Aug,29,2024-08-29
+6669,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,30 Aug 2024,2024,Aug,30,2024-08-30
+6670,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,30 Sep 2024,2024,Sep,30,2024-09-30
+6671,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11800,16000,13900,31 Aug 2024,2024,Aug,31,2024-08-31
+6672,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,01 Aug 2024,2024,Aug,1,2024-08-01
+6673,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,01 Jul 2024,2024,Jul,1,2024-07-01
+6674,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,02 Aug 2024,2024,Aug,2,2024-08-02
+6675,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,02 Jul 2024,2024,Jul,2,2024-07-02
+6676,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,04 Jul 2024,2024,Jul,4,2024-07-04
+6677,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,05 Jul 2024,2024,Jul,5,2024-07-05
+6678,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,06 Aug 2024,2024,Aug,6,2024-08-06
+6679,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,06 Jul 2024,2024,Jul,6,2024-07-06
+6680,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,07 Aug 2024,2024,Aug,7,2024-08-07
+6681,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,08 Aug 2024,2024,Aug,8,2024-08-08
+6682,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,08 Jul 2024,2024,Jul,8,2024-07-08
+6683,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,09 Aug 2024,2024,Aug,9,2024-08-09
+6684,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,09 Jul 2024,2024,Jul,9,2024-07-09
+6685,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,10 Jul 2024,2024,Jul,10,2024-07-10
+6686,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,11 Jul 2024,2024,Jul,11,2024-07-11
+6687,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,12 Aug 2024,2024,Aug,12,2024-08-12
+6688,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,12 Jul 2024,2024,Jul,12,2024-07-12
+6689,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,13 Aug 2024,2024,Aug,13,2024-08-13
+6690,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,14 Aug 2024,2024,Aug,14,2024-08-14
+6691,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,15 Jul 2024,2024,Jul,15,2024-07-15
+6692,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,16 Aug 2024,2024,Aug,16,2024-08-16
+6693,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,16 Jul 2024,2024,Jul,16,2024-07-16
+6694,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,17 Aug 2024,2024,Aug,17,2024-08-17
+6695,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,18 Jul 2024,2024,Jul,18,2024-07-18
+6696,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,19 Aug 2024,2024,Aug,19,2024-08-19
+6697,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,19 Jul 2024,2024,Jul,19,2024-07-19
+6698,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,20 Aug 2024,2024,Aug,20,2024-08-20
+6699,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,20 Jul 2024,2024,Jul,20,2024-07-20
+6700,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,21 Aug 2024,2024,Aug,21,2024-08-21
+6701,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,22 Aug 2024,2024,Aug,22,2024-08-22
+6702,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,22 Jul 2024,2024,Jul,22,2024-07-22
+6703,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,23 Jul 2024,2024,Jul,23,2024-07-23
+6704,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,26 Jul 2024,2024,Jul,26,2024-07-26
+6705,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,29 Jul 2024,2024,Jul,29,2024-07-29
+6706,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,30 Jul 2024,2024,Jul,30,2024-07-30
+6707,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13000,31 Jul 2024,2024,Jul,31,2024-07-31
+6708,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13100,24 Jul 2024,2024,Jul,24,2024-07-24
+6709,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13100,25 Jul 2024,2024,Jul,25,2024-07-25
+6710,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12500,13500,13200,05 Aug 2024,2024,Aug,5,2024-08-05
+6711,,Shimoga,Shimoga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12800,13500,13200,03 Aug 2024,2024,Aug,3,2024-08-03
+6712,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11400,11400,11400,02 Sep 2024,2024,Sep,2,2024-09-02
+6713,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11400,11400,11400,11 Nov 2024,2024,Nov,11,2024-11-11
+6714,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11400,11400,11400,25 Sep 2024,2024,Sep,25,2024-09-25
+6715,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11848,11848,11848,22 Oct 2024,2024,Oct,22,2024-10-22
+6716,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,11900,11900,11900,06 Nov 2024,2024,Nov,6,2024-11-06
+6717,,Tumkur,Sira,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,12600,12600,12600,09 Jul 2024,2024,Jul,9,2024-07-09

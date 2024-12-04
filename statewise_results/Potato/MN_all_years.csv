@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,11 Sep 2020,2020,Sep,11,2020-09-11
 1,1.0,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,14 Sep 2020,2020,Sep,14,2020-09-14
 2,2.0,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,15 Sep 2020,2020,Sep,15,2020-09-15
@@ -6313,342 +6313,342 @@
 6311,6311.0,Thoubal,Thoubal,Potato,Other,FAQ,2400,2600,2600,25 Jul 2018,2018,Jul,25,2018-07-25
 6312,6312.0,Thoubal,Thoubal,Potato,Other,FAQ,2400,2800,2600,02 Jul 2018,2018,Jul,2,2018-07-02
 6313,6313.0,Thoubal,Thoubal,Potato,Other,FAQ,2400,2800,2600,22 Jun 2018,2018,Jun,22,2018-06-22
-6314,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,3500,3500,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6315,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6316,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6317,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6318,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6319,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6320,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6321,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6322,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6323,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6324,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6325,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6326,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6327,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6328,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6329,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-6330,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6331,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6332,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6333,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6334,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6335,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6336,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6337,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6338,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6339,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6340,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6341,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6342,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6343,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6344,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6345,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6346,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6347,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6348,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6349,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6350,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6351,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6352,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6353,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6354,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6355,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6356,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6357,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6358,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6359,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6360,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6361,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6362,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6363,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6364,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6365,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6366,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6367,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6368,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6369,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6370,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6371,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6372,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6373,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6374,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6375,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6376,,Bishnupur,Bishenpur,Potato,Other,FAQ,7500,8000,7750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6377,,Bishnupur,Bishenpur,Potato,Other,FAQ,7500,8000,7750,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6378,,Bishnupur,Bishenpur,Potato,Other,FAQ,7500,8000,7750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6379,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6380,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6381,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6382,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6383,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6384,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6385,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6386,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6387,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6388,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6389,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6390,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6391,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6392,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6393,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-6394,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6395,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6396,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6397,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6398,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6399,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6400,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6401,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6402,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6403,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6404,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6405,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6406,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6407,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6408,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6409,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6410,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6411,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6412,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6413,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6414,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6415,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6416,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6417,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6418,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6419,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6420,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6421,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6422,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6423,,Imphal West,Imphal,Potato,Other,FAQ,4000,5000,4600,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6424,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6425,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6426,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6427,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6428,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6429,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6430,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6431,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6432,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6433,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6434,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6435,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6436,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6437,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6438,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6439,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6440,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6441,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6442,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6443,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6444,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6445,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6446,,Imphal West,Imphal,Potato,Other,FAQ,6000,7000,6500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6447,,Imphal West,Imphal,Potato,Other,FAQ,6000,7000,6500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6448,,Imphal West,Imphal,Potato,Other,FAQ,6000,7000,6500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6449,,Kakching,Kakching Market,Potato,Other,FAQ,3500,4000,3750,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6450,,Kakching,Kakching Market,Potato,Other,FAQ,3500,4000,3750,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6451,,Kakching,Kakching Market,Potato,Other,FAQ,3500,4000,3750,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6452,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6453,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6454,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6455,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6456,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6457,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6458,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6459,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6460,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6461,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6462,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6463,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6464,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6465,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6466,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-6467,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6468,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6469,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6470,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6471,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6472,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6473,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6474,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6475,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6476,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6477,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6478,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6479,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6480,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6481,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6482,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6483,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6484,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6485,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6486,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6487,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6488,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6489,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6490,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6491,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6492,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6493,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6494,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6495,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6496,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6497,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6498,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6499,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6500,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6501,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6502,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6503,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6504,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6505,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6506,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6507,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6508,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6509,,Kakching,Kakching Market,Potato,Other,FAQ,7500,8000,7750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6510,,Kakching,Kakching Market,Potato,Other,FAQ,7500,8000,7750,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6511,,Kakching,Kakching Market,Potato,Other,FAQ,7500,8000,7750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6512,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6513,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6514,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6515,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6516,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6517,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-6518,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6519,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6520,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6521,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6522,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6523,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6524,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6525,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6526,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6527,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6528,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6529,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6530,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6531,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6532,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6533,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6534,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6535,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6536,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6537,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6538,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6539,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6540,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6541,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6542,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6543,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6544,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6545,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6546,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6547,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6548,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6549,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6550,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6551,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6552,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6553,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6554,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6555,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6556,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6557,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6558,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6559,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6560,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6561,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6562,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6563,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6564,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6565,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6566,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6567,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6568,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6569,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6570,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6571,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6572,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6573,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6574,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6575,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6576,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6577,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6578,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6579,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6580,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,7500,8000,7750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6581,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,7500,8000,7750,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6582,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,7500,8000,7750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6583,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6584,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6585,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-6586,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-6587,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6588,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6589,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-6590,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6591,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6592,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6593,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6594,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-6595,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6596,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-6597,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6598,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6599,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-6600,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6601,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6602,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6603,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6604,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6605,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-6606,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-6607,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-6608,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-6609,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6610,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-6611,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-6612,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-6613,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-6614,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6615,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6616,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6617,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-6618,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6619,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6620,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6621,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6622,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6623,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6624,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6625,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-6626,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-6627,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6628,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6629,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6630,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6631,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6632,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6633,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-6634,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6635,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6636,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6637,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6638,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-6639,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6640,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6641,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6642,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6643,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6644,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6645,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6646,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6647,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6648,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6649,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6650,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-6651,,Thoubal,Thoubal,Potato,Other,FAQ,7500,8000,7750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6652,,Thoubal,Thoubal,Potato,Other,FAQ,7500,8000,7750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
+6314,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,3500,3500,18 Jul 2024,2024,Jul,18,2024-07-18
+6315,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,01 Aug 2024,2024,Aug,1,2024-08-01
+6316,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,01 Jul 2024,2024,Jul,1,2024-07-01
+6317,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,02 Aug 2024,2024,Aug,2,2024-08-02
+6318,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,06 Aug 2024,2024,Aug,6,2024-08-06
+6319,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,07 Aug 2024,2024,Aug,7,2024-08-07
+6320,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,08 Aug 2024,2024,Aug,8,2024-08-08
+6321,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,09 Aug 2024,2024,Aug,9,2024-08-09
+6322,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,09 Jul 2024,2024,Jul,9,2024-07-09
+6323,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,10 Jul 2024,2024,Jul,10,2024-07-10
+6324,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,11 Jul 2024,2024,Jul,11,2024-07-11
+6325,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,12 Aug 2024,2024,Aug,12,2024-08-12
+6326,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,12 Jul 2024,2024,Jul,12,2024-07-12
+6327,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,14 Aug 2024,2024,Aug,14,2024-08-14
+6328,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,19 Jul 2024,2024,Jul,19,2024-07-19
+6329,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,22 Jul 2024,2024,Jul,22,2024-07-22
+6330,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,25 Jul 2024,2024,Jul,25,2024-07-25
+6331,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,26 Jul 2024,2024,Jul,26,2024-07-26
+6332,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,30 Jul 2024,2024,Jul,30,2024-07-30
+6333,,Bishnupur,Bishenpur,Potato,Other,FAQ,3500,4000,3750,31 Jul 2024,2024,Jul,31,2024-07-31
+6334,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,04 Nov 2024,2024,Nov,4,2024-11-04
+6335,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,05 Nov 2024,2024,Nov,5,2024-11-05
+6336,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,06 Nov 2024,2024,Nov,6,2024-11-06
+6337,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,07 Nov 2024,2024,Nov,7,2024-11-07
+6338,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,08 Nov 2024,2024,Nov,8,2024-11-08
+6339,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,19 Aug 2024,2024,Aug,19,2024-08-19
+6340,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,20 Aug 2024,2024,Aug,20,2024-08-20
+6341,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,21 Aug 2024,2024,Aug,21,2024-08-21
+6342,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,22 Aug 2024,2024,Aug,22,2024-08-22
+6343,,Bishnupur,Bishenpur,Potato,Other,FAQ,4000,4500,4250,23 Aug 2024,2024,Aug,23,2024-08-23
+6344,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,01 Oct 2024,2024,Oct,1,2024-10-01
+6345,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,02 Sep 2024,2024,Sep,2,2024-09-02
+6346,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,03 Sep 2024,2024,Sep,3,2024-09-03
+6347,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,04 Oct 2024,2024,Oct,4,2024-10-04
+6348,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,05 Sep 2024,2024,Sep,5,2024-09-05
+6349,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,06 Sep 2024,2024,Sep,6,2024-09-06
+6350,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,08 Oct 2024,2024,Oct,8,2024-10-08
+6351,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,09 Oct 2024,2024,Oct,9,2024-10-09
+6352,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,10 Oct 2024,2024,Oct,10,2024-10-10
+6353,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,14 Oct 2024,2024,Oct,14,2024-10-14
+6354,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,16 Oct 2024,2024,Oct,16,2024-10-16
+6355,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,17 Sep 2024,2024,Sep,17,2024-09-17
+6356,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,18 Sep 2024,2024,Sep,18,2024-09-18
+6357,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,19 Sep 2024,2024,Sep,19,2024-09-19
+6358,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,21 Oct 2024,2024,Oct,21,2024-10-21
+6359,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,22 Oct 2024,2024,Oct,22,2024-10-22
+6360,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,23 Oct 2024,2024,Oct,23,2024-10-23
+6361,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,23 Sep 2024,2024,Sep,23,2024-09-23
+6362,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,24 Oct 2024,2024,Oct,24,2024-10-24
+6363,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,24 Sep 2024,2024,Sep,24,2024-09-24
+6364,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,25 Oct 2024,2024,Oct,25,2024-10-25
+6365,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,25 Sep 2024,2024,Sep,25,2024-09-25
+6366,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,26 Sep 2024,2024,Sep,26,2024-09-26
+6367,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,27 Aug 2024,2024,Aug,27,2024-08-27
+6368,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,27 Sep 2024,2024,Sep,27,2024-09-27
+6369,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,28 Aug 2024,2024,Aug,28,2024-08-28
+6370,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,28 Oct 2024,2024,Oct,28,2024-10-28
+6371,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,29 Aug 2024,2024,Aug,29,2024-08-29
+6372,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,29 Oct 2024,2024,Oct,29,2024-10-29
+6373,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,30 Aug 2024,2024,Aug,30,2024-08-30
+6374,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,30 Oct 2024,2024,Oct,30,2024-10-30
+6375,,Bishnupur,Bishenpur,Potato,Other,FAQ,4500,5000,4750,31 Oct 2024,2024,Oct,31,2024-10-31
+6376,,Bishnupur,Bishenpur,Potato,Other,FAQ,7500,8000,7750,11 Nov 2024,2024,Nov,11,2024-11-11
+6377,,Bishnupur,Bishenpur,Potato,Other,FAQ,7500,8000,7750,12 Nov 2024,2024,Nov,12,2024-11-12
+6378,,Bishnupur,Bishenpur,Potato,Other,FAQ,7500,8000,7750,14 Nov 2024,2024,Nov,14,2024-11-14
+6379,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,01 Aug 2024,2024,Aug,1,2024-08-01
+6380,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,01 Jul 2024,2024,Jul,1,2024-07-01
+6381,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,02 Aug 2024,2024,Aug,2,2024-08-02
+6382,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,02 Jul 2024,2024,Jul,2,2024-07-02
+6383,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,06 Aug 2024,2024,Aug,6,2024-08-06
+6384,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,07 Aug 2024,2024,Aug,7,2024-08-07
+6385,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,08 Aug 2024,2024,Aug,8,2024-08-08
+6386,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,09 Aug 2024,2024,Aug,9,2024-08-09
+6387,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,10 Jul 2024,2024,Jul,10,2024-07-10
+6388,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,11 Jul 2024,2024,Jul,11,2024-07-11
+6389,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,12 Aug 2024,2024,Aug,12,2024-08-12
+6390,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,12 Jul 2024,2024,Jul,12,2024-07-12
+6391,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,14 Aug 2024,2024,Aug,14,2024-08-14
+6392,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,16 Aug 2024,2024,Aug,16,2024-08-16
+6393,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,17 Jul 2024,2024,Jul,17,2024-07-17
+6394,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,18 Jul 2024,2024,Jul,18,2024-07-18
+6395,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,19 Aug 2024,2024,Aug,19,2024-08-19
+6396,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,19 Jul 2024,2024,Jul,19,2024-07-19
+6397,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,20 Aug 2024,2024,Aug,20,2024-08-20
+6398,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,21 Aug 2024,2024,Aug,21,2024-08-21
+6399,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,22 Aug 2024,2024,Aug,22,2024-08-22
+6400,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,25 Jul 2024,2024,Jul,25,2024-07-25
+6401,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,26 Jul 2024,2024,Jul,26,2024-07-26
+6402,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,29 Jul 2024,2024,Jul,29,2024-07-29
+6403,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,30 Jul 2024,2024,Jul,30,2024-07-30
+6404,,Imphal West,Imphal,Potato,Other,FAQ,3400,4000,3700,31 Jul 2024,2024,Jul,31,2024-07-31
+6405,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,02 Sep 2024,2024,Sep,2,2024-09-02
+6406,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,03 Sep 2024,2024,Sep,3,2024-09-03
+6407,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,04 Nov 2024,2024,Nov,4,2024-11-04
+6408,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,05 Nov 2024,2024,Nov,5,2024-11-05
+6409,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,05 Sep 2024,2024,Sep,5,2024-09-05
+6410,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,06 Nov 2024,2024,Nov,6,2024-11-06
+6411,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,06 Sep 2024,2024,Sep,6,2024-09-06
+6412,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,07 Nov 2024,2024,Nov,7,2024-11-07
+6413,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,08 Nov 2024,2024,Nov,8,2024-11-08
+6414,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,23 Aug 2024,2024,Aug,23,2024-08-23
+6415,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,27 Aug 2024,2024,Aug,27,2024-08-27
+6416,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,28 Aug 2024,2024,Aug,28,2024-08-28
+6417,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,28 Oct 2024,2024,Oct,28,2024-10-28
+6418,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,29 Aug 2024,2024,Aug,29,2024-08-29
+6419,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,29 Oct 2024,2024,Oct,29,2024-10-29
+6420,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,30 Aug 2024,2024,Aug,30,2024-08-30
+6421,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,30 Oct 2024,2024,Oct,30,2024-10-30
+6422,,Imphal West,Imphal,Potato,Other,FAQ,3900,4500,4200,31 Oct 2024,2024,Oct,31,2024-10-31
+6423,,Imphal West,Imphal,Potato,Other,FAQ,4000,5000,4600,04 Oct 2024,2024,Oct,4,2024-10-04
+6424,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,01 Oct 2024,2024,Oct,1,2024-10-01
+6425,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,07 Oct 2024,2024,Oct,7,2024-10-07
+6426,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,08 Oct 2024,2024,Oct,8,2024-10-08
+6427,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,09 Oct 2024,2024,Oct,9,2024-10-09
+6428,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,09 Sep 2024,2024,Sep,9,2024-09-09
+6429,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,10 Oct 2024,2024,Oct,10,2024-10-10
+6430,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,14 Oct 2024,2024,Oct,14,2024-10-14
+6431,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,16 Oct 2024,2024,Oct,16,2024-10-16
+6432,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,17 Sep 2024,2024,Sep,17,2024-09-17
+6433,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,18 Oct 2024,2024,Oct,18,2024-10-18
+6434,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,18 Sep 2024,2024,Sep,18,2024-09-18
+6435,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,19 Sep 2024,2024,Sep,19,2024-09-19
+6436,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,20 Sep 2024,2024,Sep,20,2024-09-20
+6437,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,21 Oct 2024,2024,Oct,21,2024-10-21
+6438,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,22 Oct 2024,2024,Oct,22,2024-10-22
+6439,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,23 Oct 2024,2024,Oct,23,2024-10-23
+6440,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,23 Sep 2024,2024,Sep,23,2024-09-23
+6441,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,24 Oct 2024,2024,Oct,24,2024-10-24
+6442,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,24 Sep 2024,2024,Sep,24,2024-09-24
+6443,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,25 Oct 2024,2024,Oct,25,2024-10-25
+6444,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,25 Sep 2024,2024,Sep,25,2024-09-25
+6445,,Imphal West,Imphal,Potato,Other,FAQ,4400,5000,4600,26 Sep 2024,2024,Sep,26,2024-09-26
+6446,,Imphal West,Imphal,Potato,Other,FAQ,6000,7000,6500,11 Nov 2024,2024,Nov,11,2024-11-11
+6447,,Imphal West,Imphal,Potato,Other,FAQ,6000,7000,6500,12 Nov 2024,2024,Nov,12,2024-11-12
+6448,,Imphal West,Imphal,Potato,Other,FAQ,6000,7000,6500,14 Nov 2024,2024,Nov,14,2024-11-14
+6449,,Kakching,Kakching Market,Potato,Other,FAQ,3500,4000,3750,03 Dec 2024,2024,Dec,3,2024-12-03
+6450,,Kakching,Kakching Market,Potato,Other,FAQ,3500,4000,3750,23 Jul 2024,2024,Jul,23,2024-07-23
+6451,,Kakching,Kakching Market,Potato,Other,FAQ,3500,4000,3750,24 Jul 2024,2024,Jul,24,2024-07-24
+6452,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,01 Aug 2024,2024,Aug,1,2024-08-01
+6453,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,02 Aug 2024,2024,Aug,2,2024-08-02
+6454,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,04 Nov 2024,2024,Nov,4,2024-11-04
+6455,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,05 Nov 2024,2024,Nov,5,2024-11-05
+6456,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,06 Aug 2024,2024,Aug,6,2024-08-06
+6457,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,06 Nov 2024,2024,Nov,6,2024-11-06
+6458,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,07 Aug 2024,2024,Aug,7,2024-08-07
+6459,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,07 Nov 2024,2024,Nov,7,2024-11-07
+6460,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,08 Aug 2024,2024,Aug,8,2024-08-08
+6461,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,08 Nov 2024,2024,Nov,8,2024-11-08
+6462,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,09 Aug 2024,2024,Aug,9,2024-08-09
+6463,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,12 Aug 2024,2024,Aug,12,2024-08-12
+6464,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,14 Aug 2024,2024,Aug,14,2024-08-14
+6465,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,16 Aug 2024,2024,Aug,16,2024-08-16
+6466,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,17 Jul 2024,2024,Jul,17,2024-07-17
+6467,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,18 Jul 2024,2024,Jul,18,2024-07-18
+6468,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,19 Aug 2024,2024,Aug,19,2024-08-19
+6469,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,20 Aug 2024,2024,Aug,20,2024-08-20
+6470,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,21 Aug 2024,2024,Aug,21,2024-08-21
+6471,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,22 Aug 2024,2024,Aug,22,2024-08-22
+6472,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,23 Aug 2024,2024,Aug,23,2024-08-23
+6473,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,28 Aug 2024,2024,Aug,28,2024-08-28
+6474,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,29 Aug 2024,2024,Aug,29,2024-08-29
+6475,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,30 Aug 2024,2024,Aug,30,2024-08-30
+6476,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,30 Jul 2024,2024,Jul,30,2024-07-30
+6477,,Kakching,Kakching Market,Potato,Other,FAQ,4000,4500,4250,31 Jul 2024,2024,Jul,31,2024-07-31
+6478,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,01 Oct 2024,2024,Oct,1,2024-10-01
+6479,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,02 Sep 2024,2024,Sep,2,2024-09-02
+6480,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,03 Sep 2024,2024,Sep,3,2024-09-03
+6481,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,04 Oct 2024,2024,Oct,4,2024-10-04
+6482,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,05 Sep 2024,2024,Sep,5,2024-09-05
+6483,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,06 Sep 2024,2024,Sep,6,2024-09-06
+6484,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,07 Oct 2024,2024,Oct,7,2024-10-07
+6485,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,08 Oct 2024,2024,Oct,8,2024-10-08
+6486,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,09 Oct 2024,2024,Oct,9,2024-10-09
+6487,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,09 Sep 2024,2024,Sep,9,2024-09-09
+6488,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,10 Oct 2024,2024,Oct,10,2024-10-10
+6489,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,16 Oct 2024,2024,Oct,16,2024-10-16
+6490,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,17 Sep 2024,2024,Sep,17,2024-09-17
+6491,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,18 Oct 2024,2024,Oct,18,2024-10-18
+6492,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,18 Sep 2024,2024,Sep,18,2024-09-18
+6493,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,19 Sep 2024,2024,Sep,19,2024-09-19
+6494,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,20 Sep 2024,2024,Sep,20,2024-09-20
+6495,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,21 Oct 2024,2024,Oct,21,2024-10-21
+6496,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,22 Oct 2024,2024,Oct,22,2024-10-22
+6497,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,23 Oct 2024,2024,Oct,23,2024-10-23
+6498,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,23 Sep 2024,2024,Sep,23,2024-09-23
+6499,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,24 Oct 2024,2024,Oct,24,2024-10-24
+6500,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,24 Sep 2024,2024,Sep,24,2024-09-24
+6501,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,25 Oct 2024,2024,Oct,25,2024-10-25
+6502,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,25 Sep 2024,2024,Sep,25,2024-09-25
+6503,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,26 Sep 2024,2024,Sep,26,2024-09-26
+6504,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,27 Sep 2024,2024,Sep,27,2024-09-27
+6505,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,28 Oct 2024,2024,Oct,28,2024-10-28
+6506,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,29 Oct 2024,2024,Oct,29,2024-10-29
+6507,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,30 Oct 2024,2024,Oct,30,2024-10-30
+6508,,Kakching,Kakching Market,Potato,Other,FAQ,4500,5000,4750,31 Oct 2024,2024,Oct,31,2024-10-31
+6509,,Kakching,Kakching Market,Potato,Other,FAQ,7500,8000,7750,11 Nov 2024,2024,Nov,11,2024-11-11
+6510,,Kakching,Kakching Market,Potato,Other,FAQ,7500,8000,7750,12 Nov 2024,2024,Nov,12,2024-11-12
+6511,,Kakching,Kakching Market,Potato,Other,FAQ,7500,8000,7750,14 Nov 2024,2024,Nov,14,2024-11-14
+6512,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,03 Dec 2024,2024,Dec,3,2024-12-03
+6513,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,05 Nov 2024,2024,Nov,5,2024-11-05
+6514,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,06 Nov 2024,2024,Nov,6,2024-11-06
+6515,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,07 Nov 2024,2024,Nov,7,2024-11-07
+6516,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,15 Jul 2024,2024,Jul,15,2024-07-15
+6517,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,16 Jul 2024,2024,Jul,16,2024-07-16
+6518,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,19 Jul 2024,2024,Jul,19,2024-07-19
+6519,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,25 Jul 2024,2024,Jul,25,2024-07-25
+6520,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,26 Jul 2024,2024,Jul,26,2024-07-26
+6521,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,3500,4000,3750,29 Jul 2024,2024,Jul,29,2024-07-29
+6522,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,01 Aug 2024,2024,Aug,1,2024-08-01
+6523,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,01 Jul 2024,2024,Jul,1,2024-07-01
+6524,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,02 Aug 2024,2024,Aug,2,2024-08-02
+6525,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,02 Jul 2024,2024,Jul,2,2024-07-02
+6526,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,04 Nov 2024,2024,Nov,4,2024-11-04
+6527,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,06 Aug 2024,2024,Aug,6,2024-08-06
+6528,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,07 Aug 2024,2024,Aug,7,2024-08-07
+6529,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,07 Oct 2024,2024,Oct,7,2024-10-07
+6530,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,08 Aug 2024,2024,Aug,8,2024-08-08
+6531,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,08 Nov 2024,2024,Nov,8,2024-11-08
+6532,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,08 Oct 2024,2024,Oct,8,2024-10-08
+6533,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,09 Aug 2024,2024,Aug,9,2024-08-09
+6534,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,09 Jul 2024,2024,Jul,9,2024-07-09
+6535,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,09 Oct 2024,2024,Oct,9,2024-10-09
+6536,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,10 Oct 2024,2024,Oct,10,2024-10-10
+6537,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,11 Jul 2024,2024,Jul,11,2024-07-11
+6538,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,12 Aug 2024,2024,Aug,12,2024-08-12
+6539,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,12 Jul 2024,2024,Jul,12,2024-07-12
+6540,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,14 Aug 2024,2024,Aug,14,2024-08-14
+6541,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,16 Aug 2024,2024,Aug,16,2024-08-16
+6542,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,19 Aug 2024,2024,Aug,19,2024-08-19
+6543,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,20 Aug 2024,2024,Aug,20,2024-08-20
+6544,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,21 Aug 2024,2024,Aug,21,2024-08-21
+6545,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,22 Aug 2024,2024,Aug,22,2024-08-22
+6546,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,23 Aug 2024,2024,Aug,23,2024-08-23
+6547,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,29 Oct 2024,2024,Oct,29,2024-10-29
+6548,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,30 Oct 2024,2024,Oct,30,2024-10-30
+6549,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,31 Jul 2024,2024,Jul,31,2024-07-31
+6550,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4000,4500,4250,31 Oct 2024,2024,Oct,31,2024-10-31
+6551,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,01 Oct 2024,2024,Oct,1,2024-10-01
+6552,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,02 Sep 2024,2024,Sep,2,2024-09-02
+6553,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,03 Sep 2024,2024,Sep,3,2024-09-03
+6554,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,04 Oct 2024,2024,Oct,4,2024-10-04
+6555,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,05 Sep 2024,2024,Sep,5,2024-09-05
+6556,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,06 Sep 2024,2024,Sep,6,2024-09-06
+6557,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,09 Sep 2024,2024,Sep,9,2024-09-09
+6558,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,14 Oct 2024,2024,Oct,14,2024-10-14
+6559,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,16 Oct 2024,2024,Oct,16,2024-10-16
+6560,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,17 Sep 2024,2024,Sep,17,2024-09-17
+6561,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,18 Oct 2024,2024,Oct,18,2024-10-18
+6562,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,18 Sep 2024,2024,Sep,18,2024-09-18
+6563,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,19 Sep 2024,2024,Sep,19,2024-09-19
+6564,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,20 Sep 2024,2024,Sep,20,2024-09-20
+6565,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,21 Oct 2024,2024,Oct,21,2024-10-21
+6566,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,22 Oct 2024,2024,Oct,22,2024-10-22
+6567,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,23 Oct 2024,2024,Oct,23,2024-10-23
+6568,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,23 Sep 2024,2024,Sep,23,2024-09-23
+6569,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,24 Oct 2024,2024,Oct,24,2024-10-24
+6570,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,24 Sep 2024,2024,Sep,24,2024-09-24
+6571,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,25 Oct 2024,2024,Oct,25,2024-10-25
+6572,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,25 Sep 2024,2024,Sep,25,2024-09-25
+6573,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,26 Sep 2024,2024,Sep,26,2024-09-26
+6574,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,27 Aug 2024,2024,Aug,27,2024-08-27
+6575,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,27 Sep 2024,2024,Sep,27,2024-09-27
+6576,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,28 Aug 2024,2024,Aug,28,2024-08-28
+6577,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,28 Oct 2024,2024,Oct,28,2024-10-28
+6578,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,29 Aug 2024,2024,Aug,29,2024-08-29
+6579,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,4500,5000,4750,30 Aug 2024,2024,Aug,30,2024-08-30
+6580,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,7500,8000,7750,11 Nov 2024,2024,Nov,11,2024-11-11
+6581,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,7500,8000,7750,12 Nov 2024,2024,Nov,12,2024-11-12
+6582,,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,7500,8000,7750,14 Nov 2024,2024,Nov,14,2024-11-14
+6583,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,01 Jul 2024,2024,Jul,1,2024-07-01
+6584,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,03 Dec 2024,2024,Dec,3,2024-12-03
+6585,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,25 Jul 2024,2024,Jul,25,2024-07-25
+6586,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,26 Jul 2024,2024,Jul,26,2024-07-26
+6587,,Thoubal,Thoubal,Potato,Other,FAQ,3500,4000,3750,29 Jul 2024,2024,Jul,29,2024-07-29
+6588,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,01 Aug 2024,2024,Aug,1,2024-08-01
+6589,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,02 Aug 2024,2024,Aug,2,2024-08-02
+6590,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,05 Nov 2024,2024,Nov,5,2024-11-05
+6591,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,06 Aug 2024,2024,Aug,6,2024-08-06
+6592,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,06 Nov 2024,2024,Nov,6,2024-11-06
+6593,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,07 Aug 2024,2024,Aug,7,2024-08-07
+6594,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,07 Nov 2024,2024,Nov,7,2024-11-07
+6595,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,08 Aug 2024,2024,Aug,8,2024-08-08
+6596,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,08 Oct 2024,2024,Oct,8,2024-10-08
+6597,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,09 Aug 2024,2024,Aug,9,2024-08-09
+6598,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,09 Jul 2024,2024,Jul,9,2024-07-09
+6599,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,09 Oct 2024,2024,Oct,9,2024-10-09
+6600,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,10 Jul 2024,2024,Jul,10,2024-07-10
+6601,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,11 Jul 2024,2024,Jul,11,2024-07-11
+6602,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,12 Aug 2024,2024,Aug,12,2024-08-12
+6603,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,12 Jul 2024,2024,Jul,12,2024-07-12
+6604,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,14 Aug 2024,2024,Aug,14,2024-08-14
+6605,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,16 Aug 2024,2024,Aug,16,2024-08-16
+6606,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,17 Jul 2024,2024,Jul,17,2024-07-17
+6607,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,18 Jul 2024,2024,Jul,18,2024-07-18
+6608,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,19 Aug 2024,2024,Aug,19,2024-08-19
+6609,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,19 Jul 2024,2024,Jul,19,2024-07-19
+6610,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,20 Aug 2024,2024,Aug,20,2024-08-20
+6611,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,21 Aug 2024,2024,Aug,21,2024-08-21
+6612,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,22 Aug 2024,2024,Aug,22,2024-08-22
+6613,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,23 Aug 2024,2024,Aug,23,2024-08-23
+6614,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,23 Jul 2024,2024,Jul,23,2024-07-23
+6615,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,30 Jul 2024,2024,Jul,30,2024-07-30
+6616,,Thoubal,Thoubal,Potato,Other,FAQ,4000,4500,4250,31 Jul 2024,2024,Jul,31,2024-07-31
+6617,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,02 Sep 2024,2024,Sep,2,2024-09-02
+6618,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,03 Sep 2024,2024,Sep,3,2024-09-03
+6619,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,04 Nov 2024,2024,Nov,4,2024-11-04
+6620,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,04 Oct 2024,2024,Oct,4,2024-10-04
+6621,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,05 Sep 2024,2024,Sep,5,2024-09-05
+6622,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,06 Sep 2024,2024,Sep,6,2024-09-06
+6623,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,07 Oct 2024,2024,Oct,7,2024-10-07
+6624,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,09 Sep 2024,2024,Sep,9,2024-09-09
+6625,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,10 Oct 2024,2024,Oct,10,2024-10-10
+6626,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,14 Oct 2024,2024,Oct,14,2024-10-14
+6627,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,16 Oct 2024,2024,Oct,16,2024-10-16
+6628,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,17 Sep 2024,2024,Sep,17,2024-09-17
+6629,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,18 Oct 2024,2024,Oct,18,2024-10-18
+6630,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,18 Sep 2024,2024,Sep,18,2024-09-18
+6631,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,19 Sep 2024,2024,Sep,19,2024-09-19
+6632,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,20 Sep 2024,2024,Sep,20,2024-09-20
+6633,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,21 Oct 2024,2024,Oct,21,2024-10-21
+6634,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,22 Oct 2024,2024,Oct,22,2024-10-22
+6635,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,23 Oct 2024,2024,Oct,23,2024-10-23
+6636,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,23 Sep 2024,2024,Sep,23,2024-09-23
+6637,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,24 Oct 2024,2024,Oct,24,2024-10-24
+6638,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,24 Sep 2024,2024,Sep,24,2024-09-24
+6639,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,25 Oct 2024,2024,Oct,25,2024-10-25
+6640,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,25 Sep 2024,2024,Sep,25,2024-09-25
+6641,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,26 Sep 2024,2024,Sep,26,2024-09-26
+6642,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,27 Aug 2024,2024,Aug,27,2024-08-27
+6643,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,27 Sep 2024,2024,Sep,27,2024-09-27
+6644,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,28 Aug 2024,2024,Aug,28,2024-08-28
+6645,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,28 Oct 2024,2024,Oct,28,2024-10-28
+6646,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,29 Aug 2024,2024,Aug,29,2024-08-29
+6647,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,29 Oct 2024,2024,Oct,29,2024-10-29
+6648,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,30 Aug 2024,2024,Aug,30,2024-08-30
+6649,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,30 Oct 2024,2024,Oct,30,2024-10-30
+6650,,Thoubal,Thoubal,Potato,Other,FAQ,4500,5000,4750,31 Oct 2024,2024,Oct,31,2024-10-31
+6651,,Thoubal,Thoubal,Potato,Other,FAQ,7500,8000,7750,11 Nov 2024,2024,Nov,11,2024-11-11
+6652,,Thoubal,Thoubal,Potato,Other,FAQ,7500,8000,7750,14 Nov 2024,2024,Nov,14,2024-11-14

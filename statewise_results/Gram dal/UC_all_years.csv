@@ -1,8 +1,8 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Haridwar,Roorkee,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6600,6600,6600,15 May 2017,2017,May,15,2017-05-15
 1,1.0,Haridwar,Roorkee,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4500,4500,4500,26 Apr 2019,2019,Apr,26,2019-04-26
 2,2.0,Haridwar,Roorkee,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4500,5300,5000,16 Oct 2018,2018,Oct,16,2018-10-16
 3,3.0,Haridwar,Roorkee,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4800,5400,5000,20 Jul 2019,2019,Jul,20,2019-07-20
 4,4.0,Haridwar,Roorkee,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5230,5890,5500,02 Jul 2019,2019,Jul,2,2019-07-02
 5,5.0,Haridwar,Roorkee,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5330,5380,5350,22 Apr 2019,2019,Apr,22,2019-04-22
-6,,Haridwar,Roorkee,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6600,6600,6600,15 May 2017,2017,May,15,2017-05-15 00:00:00
+6,,Haridwar,Roorkee,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,6600,6600,6600,15 May 2017,2017,May,15,2017-05-15

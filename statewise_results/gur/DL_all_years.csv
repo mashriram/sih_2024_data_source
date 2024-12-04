@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Delhi,Najafgarh,Gur(Jaggery),Achhu,FAQ,2000,2000,2000,12 Nov 2016,2016,Nov,12,2016-11-12
 1,1.0,Delhi,Najafgarh,Gur(Jaggery),Achhu,FAQ,2000,2000,2000,22 Dec 2016,2016,Dec,22,2016-12-22
 2,2.0,Delhi,Najafgarh,Gur(Jaggery),Achhu,FAQ,2200,2200,2200,24 Jan 2017,2017,Jan,24,2017-01-24
@@ -46,5 +46,5 @@
 44,44.0,Delhi,Najafgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,24 Jul 2018,2018,Jul,24,2018-07-24
 45,45.0,Delhi,Najafgarh,Gur(Jaggery),Other,FAQ,2500,2500,2500,21 May 2018,2018,May,21,2018-05-21
 46,46.0,Delhi,Najafgarh,Gur(Jaggery),Other,FAQ,2500,2500,2500,25 Jan 2018,2018,Jan,25,2018-01-25
-47,,Delhi,Najafgarh,Gur(Jaggery),Other,FAQ,2800,2800,2800,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-48,,Delhi,Najafgarh,Gur(Jaggery),Other,FAQ,2800,2800,2800,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
+47,,Delhi,Najafgarh,Gur(Jaggery),Other,FAQ,2800,2800,2800,07 Sep 2024,2024,Sep,7,2024-09-07
+48,,Delhi,Najafgarh,Gur(Jaggery),Other,FAQ,2800,2800,2800,23 Aug 2024,2024,Aug,23,2024-08-23

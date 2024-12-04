@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Sepahijala,Bishalgarh,Masur Dal,Masur Dal,FAQ,9500,10000,9800,08 May 2021,2021,May,8,2021-05-08
 1,1.0,Sepahijala,Bishalgarh,Masur Dal,Masur Dal,FAQ,9500,10000,9800,21 Apr 2021,2021,Apr,21,2021-04-21
 2,2.0,Sepahijala,Bishalgarh,Masur Dal,Masur Dal,FAQ,9500,10000,9800,22 Apr 2021,2021,Apr,22,2021-04-22
@@ -2987,203 +2987,203 @@
 2985,2985.0,Khowai,Teliamura,Masur Dal,Masur Dal,FAQ,8200,8800,8500,08 Sep 2017,2017,Sep,8,2017-09-08
 2986,2986.0,Khowai,Teliamura,Masur Dal,Masur Dal,FAQ,8500,8700,8500,18 Sep 2017,2017,Sep,18,2017-09-18
 2987,2987.0,Khowai,Teliamura,Masur Dal,Masur Dal,FAQ,8500,9000,8700,06 Oct 2017,2017,Oct,6,2017-10-06
-2988,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-2989,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-2990,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-2991,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-2992,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-2993,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,10000,9000,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-2994,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9000,8750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-2995,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9000,8750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-2996,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-2997,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-2998,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-2999,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-3000,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-3001,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-3002,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-3003,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-3004,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-3005,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-3006,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-3007,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-3008,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-3009,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-3010,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-3011,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-3012,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-3013,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-3014,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-3015,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-3016,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-3017,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-3018,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-3019,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-3020,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-3021,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-3022,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-3023,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-3024,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-3025,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-3026,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-3027,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-3028,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-3029,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-3030,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-3031,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-3032,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-3033,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-3034,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-3035,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-3036,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-3037,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-3038,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-3039,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-3040,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-3041,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10000,10200,10100,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-3042,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10000,10500,10100,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-3043,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-3044,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-3045,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-3046,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-3047,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-3048,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10500,10200,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-3049,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,11200,11400,11300,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-3050,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,20000,20200,20100,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-3051,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-3052,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-3053,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-3054,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-3055,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-3056,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-3057,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-3058,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-3059,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-3060,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-3061,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-3062,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-3063,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-3064,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-3065,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-3066,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9000,8750,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-3067,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9000,8750,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-3068,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-3069,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-3070,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-3071,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-3072,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-3073,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-3074,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-3075,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-3076,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-3077,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-3078,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-3079,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-3080,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-3081,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-3082,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-3083,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-3084,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-3085,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-3086,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-3087,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-3088,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-3089,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-3090,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-3091,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-3092,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-3093,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-3094,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-3095,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-3096,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-3097,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-3098,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-3099,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,17 Nov 2024,2024,Nov,17,2024-11-17 00:00:00
-3100,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-3101,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-3102,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-3103,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-3104,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-3105,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-3106,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-3107,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-3108,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-3109,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-3110,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-3111,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-3112,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-3113,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-3114,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-3115,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-3116,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-3117,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-3118,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-3119,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-3120,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-3121,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-3122,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-3123,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-3124,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-3125,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-3126,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-3127,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-3128,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-3129,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-3130,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-3131,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-3132,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-3133,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-3134,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-3135,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-3136,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-3137,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-3138,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-3139,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-3140,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-3141,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-3142,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-3143,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-3144,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-3145,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-3146,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-3147,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-3148,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-3149,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-3150,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-3151,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-3152,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-3153,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-3154,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-3155,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-3156,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-3157,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-3158,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-3159,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-3160,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-3161,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-3162,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-3163,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-3164,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-3165,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-3166,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-3167,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-3168,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-3169,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-3170,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-3171,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-3172,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-3173,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-3174,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-3175,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-3176,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-3177,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-3178,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-3179,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-3180,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-3181,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-3182,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-3183,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-3184,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-3185,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-3186,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-3187,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
+2988,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,08 Nov 2024,2024,Nov,8,2024-11-08
+2989,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,13 Sep 2024,2024,Sep,13,2024-09-13
+2990,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,15 Nov 2024,2024,Nov,15,2024-11-15
+2991,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,20 Sep 2024,2024,Sep,20,2024-09-20
+2992,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,9000,8500,29 Nov 2024,2024,Nov,29,2024-11-29
+2993,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8000,10000,9000,08 Sep 2024,2024,Sep,8,2024-09-08
+2994,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9000,8750,03 Sep 2024,2024,Sep,3,2024-09-03
+2995,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9000,8750,11 Nov 2024,2024,Nov,11,2024-11-11
+2996,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,05 Nov 2024,2024,Nov,5,2024-11-05
+2997,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,06 Sep 2024,2024,Sep,6,2024-09-06
+2998,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,09 Oct 2024,2024,Oct,9,2024-10-09
+2999,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,11 Oct 2024,2024,Oct,11,2024-10-11
+3000,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,11 Sep 2024,2024,Sep,11,2024-09-11
+3001,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,13 Oct 2024,2024,Oct,13,2024-10-13
+3002,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Aug 2024,2024,Aug,16,2024-08-16
+3003,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Sep 2024,2024,Sep,16,2024-09-16
+3004,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,19 Sep 2024,2024,Sep,19,2024-09-19
+3005,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Aug 2024,2024,Aug,22,2024-08-22
+3006,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Nov 2024,2024,Nov,22,2024-11-22
+3007,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Sep 2024,2024,Sep,22,2024-09-22
+3008,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,23 Aug 2024,2024,Aug,23,2024-08-23
+3009,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,24 Sep 2024,2024,Sep,24,2024-09-24
+3010,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,25 Aug 2024,2024,Aug,25,2024-08-25
+3011,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,26 Aug 2024,2024,Aug,26,2024-08-26
+3012,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,29 Aug 2024,2024,Aug,29,2024-08-29
+3013,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,8500,9500,9000,30 Aug 2024,2024,Aug,30,2024-08-30
+3014,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,01 Nov 2024,2024,Nov,1,2024-11-01
+3015,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,04 Oct 2024,2024,Oct,4,2024-10-04
+3016,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,07 Aug 2024,2024,Aug,7,2024-08-07
+3017,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,07 Oct 2024,2024,Oct,7,2024-10-07
+3018,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,09 Aug 2024,2024,Aug,9,2024-08-09
+3019,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,14 Nov 2024,2024,Nov,14,2024-11-14
+3020,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,15 Oct 2024,2024,Oct,15,2024-10-15
+3021,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,16 Jul 2024,2024,Jul,16,2024-07-16
+3022,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,19 Nov 2024,2024,Nov,19,2024-11-19
+3023,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,21 Jul 2024,2024,Jul,21,2024-07-21
+3024,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,23 Oct 2024,2024,Oct,23,2024-10-23
+3025,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,25 Oct 2024,2024,Oct,25,2024-10-25
+3026,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,27 Sep 2024,2024,Sep,27,2024-09-27
+3027,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,30 Oct 2024,2024,Oct,30,2024-10-30
+3028,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,30 Sep 2024,2024,Sep,30,2024-09-30
+3029,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,9500,9250,31 Oct 2024,2024,Oct,31,2024-10-31
+3030,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Aug 2024,2024,Aug,1,2024-08-01
+3031,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,03 Aug 2024,2024,Aug,3,2024-08-03
+3032,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,05 Jul 2024,2024,Jul,5,2024-07-05
+3033,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Jul 2024,2024,Jul,8,2024-07-08
+3034,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,11 Aug 2024,2024,Aug,11,2024-08-11
+3035,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Jul 2024,2024,Jul,12,2024-07-12
+3036,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Aug 2024,2024,Aug,14,2024-08-14
+3037,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Jul 2024,2024,Jul,19,2024-07-19
+3038,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,20 Oct 2024,2024,Oct,20,2024-10-20
+3039,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Jul 2024,2024,Jul,26,2024-07-26
+3040,,North Tripura,Dasda,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Jul 2024,2024,Jul,29,2024-07-29
+3041,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10000,10200,10100,18 Nov 2024,2024,Nov,18,2024-11-18
+3042,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10000,10500,10100,28 Nov 2024,2024,Nov,28,2024-11-28
+3043,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,03 Dec 2024,2024,Dec,3,2024-12-03
+3044,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,20 Nov 2024,2024,Nov,20,2024-11-20
+3045,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,21 Nov 2024,2024,Nov,21,2024-11-21
+3046,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,23 Nov 2024,2024,Nov,23,2024-11-23
+3047,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10300,10200,30 Nov 2024,2024,Nov,30,2024-11-30
+3048,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,10100,10500,10200,19 Nov 2024,2024,Nov,19,2024-11-19
+3049,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,11200,11400,11300,10 Nov 2024,2024,Nov,10,2024-11-10
+3050,,Dhalai,Gandacharra,Masur Dal,Masur Dal,FAQ,20000,20200,20100,15 Nov 2024,2024,Nov,15,2024-11-15
+3051,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,02 Oct 2024,2024,Oct,2,2024-10-02
+3052,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,06 Sep 2024,2024,Sep,6,2024-09-06
+3053,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,07 Sep 2024,2024,Sep,7,2024-09-07
+3054,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,09 Oct 2024,2024,Oct,9,2024-10-09
+3055,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,10 Oct 2024,2024,Oct,10,2024-10-10
+3056,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,13 Oct 2024,2024,Oct,13,2024-10-13
+3057,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,20 Oct 2024,2024,Oct,20,2024-10-20
+3058,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,22 Sep 2024,2024,Sep,22,2024-09-22
+3059,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,23 Oct 2024,2024,Oct,23,2024-10-23
+3060,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,23 Sep 2024,2024,Sep,23,2024-09-23
+3061,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,24 Sep 2024,2024,Sep,24,2024-09-24
+3062,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,25 Sep 2024,2024,Sep,25,2024-09-25
+3063,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,27 Oct 2024,2024,Oct,27,2024-10-27
+3064,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,27 Sep 2024,2024,Sep,27,2024-09-27
+3065,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8000,9000,8500,30 Oct 2024,2024,Oct,30,2024-10-30
+3066,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9000,8750,03 Nov 2024,2024,Nov,3,2024-11-03
+3067,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9000,8750,03 Oct 2024,2024,Oct,3,2024-10-03
+3068,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,01 Dec 2024,2024,Dec,1,2024-12-01
+3069,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,01 Nov 2024,2024,Nov,1,2024-11-01
+3070,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,01 Oct 2024,2024,Oct,1,2024-10-01
+3071,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,02 Dec 2024,2024,Dec,2,2024-12-02
+3072,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,02 Nov 2024,2024,Nov,2,2024-11-02
+3073,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,03 Dec 2024,2024,Dec,3,2024-12-03
+3074,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,04 Nov 2024,2024,Nov,4,2024-11-04
+3075,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,04 Oct 2024,2024,Oct,4,2024-10-04
+3076,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,05 Nov 2024,2024,Nov,5,2024-11-05
+3077,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,05 Oct 2024,2024,Oct,5,2024-10-05
+3078,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,06 Oct 2024,2024,Oct,6,2024-10-06
+3079,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,07 Nov 2024,2024,Nov,7,2024-11-07
+3080,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,07 Oct 2024,2024,Oct,7,2024-10-07
+3081,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,08 Nov 2024,2024,Nov,8,2024-11-08
+3082,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,08 Sep 2024,2024,Sep,8,2024-09-08
+3083,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,09 Nov 2024,2024,Nov,9,2024-11-09
+3084,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,10 Nov 2024,2024,Nov,10,2024-11-10
+3085,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,10 Sep 2024,2024,Sep,10,2024-09-10
+3086,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,11 Nov 2024,2024,Nov,11,2024-11-11
+3087,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,11 Sep 2024,2024,Sep,11,2024-09-11
+3088,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,12 Sep 2024,2024,Sep,12,2024-09-12
+3089,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,13 Nov 2024,2024,Nov,13,2024-11-13
+3090,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,13 Sep 2024,2024,Sep,13,2024-09-13
+3091,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,14 Nov 2024,2024,Nov,14,2024-11-14
+3092,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,14 Sep 2024,2024,Sep,14,2024-09-14
+3093,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,15 Nov 2024,2024,Nov,15,2024-11-15
+3094,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,15 Oct 2024,2024,Oct,15,2024-10-15
+3095,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,15 Sep 2024,2024,Sep,15,2024-09-15
+3096,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Nov 2024,2024,Nov,16,2024-11-16
+3097,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Oct 2024,2024,Oct,16,2024-10-16
+3098,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,16 Sep 2024,2024,Sep,16,2024-09-16
+3099,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,17 Nov 2024,2024,Nov,17,2024-11-17
+3100,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,17 Oct 2024,2024,Oct,17,2024-10-17
+3101,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,18 Nov 2024,2024,Nov,18,2024-11-18
+3102,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,18 Oct 2024,2024,Oct,18,2024-10-18
+3103,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,18 Sep 2024,2024,Sep,18,2024-09-18
+3104,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,19 Nov 2024,2024,Nov,19,2024-11-19
+3105,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,19 Oct 2024,2024,Oct,19,2024-10-19
+3106,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,20 Nov 2024,2024,Nov,20,2024-11-20
+3107,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,20 Sep 2024,2024,Sep,20,2024-09-20
+3108,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,21 Nov 2024,2024,Nov,21,2024-11-21
+3109,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,21 Oct 2024,2024,Oct,21,2024-10-21
+3110,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,21 Sep 2024,2024,Sep,21,2024-09-21
+3111,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Nov 2024,2024,Nov,22,2024-11-22
+3112,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,22 Oct 2024,2024,Oct,22,2024-10-22
+3113,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,23 Nov 2024,2024,Nov,23,2024-11-23
+3114,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,24 Nov 2024,2024,Nov,24,2024-11-24
+3115,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,24 Oct 2024,2024,Oct,24,2024-10-24
+3116,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,25 Nov 2024,2024,Nov,25,2024-11-25
+3117,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,25 Oct 2024,2024,Oct,25,2024-10-25
+3118,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,26 Nov 2024,2024,Nov,26,2024-11-26
+3119,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,26 Oct 2024,2024,Oct,26,2024-10-26
+3120,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,27 Nov 2024,2024,Nov,27,2024-11-27
+3121,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,28 Nov 2024,2024,Nov,28,2024-11-28
+3122,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,28 Oct 2024,2024,Oct,28,2024-10-28
+3123,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,28 Sep 2024,2024,Sep,28,2024-09-28
+3124,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,29 Nov 2024,2024,Nov,29,2024-11-29
+3125,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,29 Oct 2024,2024,Oct,29,2024-10-29
+3126,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,30 Nov 2024,2024,Nov,30,2024-11-30
+3127,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,8500,9500,9000,30 Sep 2024,2024,Sep,30,2024-09-30
+3128,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Aug 2024,2024,Aug,1,2024-08-01
+3129,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Jul 2024,2024,Jul,1,2024-07-01
+3130,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,01 Sep 2024,2024,Sep,1,2024-09-01
+3131,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,02 Jul 2024,2024,Jul,2,2024-07-02
+3132,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,02 Sep 2024,2024,Sep,2,2024-09-02
+3133,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,03 Jul 2024,2024,Jul,3,2024-07-03
+3134,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,03 Sep 2024,2024,Sep,3,2024-09-03
+3135,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,04 Jul 2024,2024,Jul,4,2024-07-04
+3136,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,04 Sep 2024,2024,Sep,4,2024-09-04
+3137,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,05 Jul 2024,2024,Jul,5,2024-07-05
+3138,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,06 Jul 2024,2024,Jul,6,2024-07-06
+3139,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,07 Jul 2024,2024,Jul,7,2024-07-07
+3140,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,08 Jul 2024,2024,Jul,8,2024-07-08
+3141,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,09 Jul 2024,2024,Jul,9,2024-07-09
+3142,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,10 Jul 2024,2024,Jul,10,2024-07-10
+3143,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,11 Aug 2024,2024,Aug,11,2024-08-11
+3144,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,12 Jul 2024,2024,Jul,12,2024-07-12
+3145,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Aug 2024,2024,Aug,14,2024-08-14
+3146,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,14 Jul 2024,2024,Jul,14,2024-07-14
+3147,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,15 Aug 2024,2024,Aug,15,2024-08-15
+3148,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,15 Jul 2024,2024,Jul,15,2024-07-15
+3149,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,16 Aug 2024,2024,Aug,16,2024-08-16
+3150,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,16 Jul 2024,2024,Jul,16,2024-07-16
+3151,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,17 Aug 2024,2024,Aug,17,2024-08-17
+3152,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,17 Jul 2024,2024,Jul,17,2024-07-17
+3153,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,18 Aug 2024,2024,Aug,18,2024-08-18
+3154,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,18 Jul 2024,2024,Jul,18,2024-07-18
+3155,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,19 Jul 2024,2024,Jul,19,2024-07-19
+3156,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,20 Jul 2024,2024,Jul,20,2024-07-20
+3157,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,21 Aug 2024,2024,Aug,21,2024-08-21
+3158,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,21 Jul 2024,2024,Jul,21,2024-07-21
+3159,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,22 Jul 2024,2024,Jul,22,2024-07-22
+3160,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,23 Aug 2024,2024,Aug,23,2024-08-23
+3161,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,24 Aug 2024,2024,Aug,24,2024-08-24
+3162,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Aug 2024,2024,Aug,25,2024-08-25
+3163,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,25 Jul 2024,2024,Jul,25,2024-07-25
+3164,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Aug 2024,2024,Aug,26,2024-08-26
+3165,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,26 Jul 2024,2024,Jul,26,2024-07-26
+3166,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,27 Aug 2024,2024,Aug,27,2024-08-27
+3167,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,27 Jul 2024,2024,Jul,27,2024-07-27
+3168,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,28 Aug 2024,2024,Aug,28,2024-08-28
+3169,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,28 Jul 2024,2024,Jul,28,2024-07-28
+3170,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,29 Jul 2024,2024,Jul,29,2024-07-29
+3171,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,30 Aug 2024,2024,Aug,30,2024-08-30
+3172,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,30 Jul 2024,2024,Jul,30,2024-07-30
+3173,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,31 Aug 2024,2024,Aug,31,2024-08-31
+3174,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,10000,9500,31 Jul 2024,2024,Jul,31,2024-07-31
+3175,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,02 Aug 2024,2024,Aug,2,2024-08-02
+3176,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,03 Aug 2024,2024,Aug,3,2024-08-03
+3177,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,04 Aug 2024,2024,Aug,4,2024-08-04
+3178,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,05 Aug 2024,2024,Aug,5,2024-08-05
+3179,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,06 Aug 2024,2024,Aug,6,2024-08-06
+3180,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,07 Aug 2024,2024,Aug,7,2024-08-07
+3181,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,09 Aug 2024,2024,Aug,9,2024-08-09
+3182,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,10 Aug 2024,2024,Aug,10,2024-08-10
+3183,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,19 Aug 2024,2024,Aug,19,2024-08-19
+3184,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,20 Aug 2024,2024,Aug,20,2024-08-20
+3185,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,22 Aug 2024,2024,Aug,22,2024-08-22
+3186,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,23 Jul 2024,2024,Jul,23,2024-07-23
+3187,,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,9000,11000,10000,24 Jul 2024,2024,Jul,24,2024-07-24

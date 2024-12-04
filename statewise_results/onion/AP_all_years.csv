@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Kurnool,Kurnool,Onion,Local,FAQ,210,2700,790,10 Sep 2020,2020,Sep,10,2020-09-10
 1,1.0,Kurnool,Kurnool,Onion,Local,FAQ,500,1180,900,18 Mar 2021,2021,Mar,18,2021-03-18
 2,2.0,Kurnool,Kurnool,Onion,Local,FAQ,530,2520,1980,25 Jan 2021,2021,Jan,25,2021-01-25
@@ -6255,132 +6255,132 @@
 6253,6253.0,Kurnool,Kurnool,Onion,Local,Medium,1460,3340,2900,13 Jan 2018,2018,Jan,13,2018-01-13
 6254,6254.0,Kurnool,Kurnool,Onion,Local,Medium,1720,3330,2910,12 Jan 2018,2018,Jan,12,2018-01-12
 6255,6255.0,Kurnool,Kurnool,Onion,Local,Medium,2050,3710,3000,05 Jan 2018,2018,Jan,5,2018-01-05
-6256,,Kurnool,Kurnool,Onion,Local,FAQ,2525,2525,2525,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-6257,,Kurnool,Kurnool,Onion,Local,FAQ,3411,3520,3520,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6258,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-6259,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-6260,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-6261,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-6262,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-6263,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-6264,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-6265,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-6266,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-6267,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-6268,,Kurnool,Kurnool,Onion,Local,FAQ,1130,5439,4118,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-6269,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-6270,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6271,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-6272,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-6273,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,4000,3500,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-6274,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-6275,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-6276,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-6277,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-6278,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-6279,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-6280,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-6281,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-6282,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-6283,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-6284,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-6285,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-6286,,Kurnool,Kurnool,Onion,Local,FAQ,2549,3075,3075,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6287,,Kurnool,Kurnool,Onion,Local,FAQ,2825,2825,2825,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-6288,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-6289,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,4000,3500,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-6290,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-6291,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-6292,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-6293,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6294,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-6295,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-6296,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-6297,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-6298,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6299,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-6300,,Kurnool,Kurnool,Onion,Local,FAQ,515,5129,3814,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6301,,Kurnool,Kurnool,Onion,Local,FAQ,2279,3029,2955,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6302,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-6303,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-6304,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,4000,3500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-6305,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-6306,,Kurnool,Kurnool,Onion,Local,FAQ,722,4329,3691,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-6307,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-6308,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-6309,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-6310,,Kurnool,Pattikonda,Onion,Local,FAQ,3500,4000,3800,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-6311,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-6312,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-6313,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-6314,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-6315,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-6316,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-6317,,Kurnool,Kurnool,Onion,Local,FAQ,2740,2820,2740,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-6318,,Kurnool,Pattikonda,Onion,Local,FAQ,1500,2000,1800,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-6319,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-6320,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,3500,3200,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-6321,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-6322,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-6323,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-6324,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-6325,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-6326,,Kurnool,Kurnool,Onion,Local,FAQ,2387,2387,2387,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-6327,,Kurnool,Kurnool,Onion,Local,FAQ,2959,2959,2959,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6328,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-6329,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-6330,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-6331,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-6332,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-6333,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-6334,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-6335,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-6336,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-6337,,Kurnool,Kurnool,Onion,Local,FAQ,2550,2887,2887,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-6338,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-6339,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-6340,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-6341,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-6342,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-6343,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-6344,,Kurnool,Kurnool,Onion,Local,FAQ,1209,5229,4059,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6345,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-6346,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,4000,3500,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-6347,,Kurnool,Pattikonda,Onion,Local,FAQ,3500,4000,3800,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-6348,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-6349,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-6350,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-6351,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-6352,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-6353,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-6354,,Kurnool,Kurnool,Onion,Local,FAQ,2557,2557,2557,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6355,,Kurnool,Pattikonda,Onion,Local,FAQ,1500,2000,1800,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-6356,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-6357,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-6358,,Kurnool,Pattikonda,Onion,Local,FAQ,5000,6000,5500,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-6359,,Kurnool,Kurnool,Onion,Local,FAQ,2919,3711,3641,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-6360,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-6361,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-6362,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-6363,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-6364,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-6365,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-6366,,Kurnool,Kurnool,Onion,Local,FAQ,609,4869,3286,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-6367,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-6368,,Kurnool,Pattikonda,Onion,Local,FAQ,3500,4500,4000,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-6369,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-6370,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-6371,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-6372,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-6373,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-6374,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-6375,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-6376,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-6377,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-6378,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-6379,,Kurnool,Kurnool,Onion,Local,FAQ,515,5259,3519,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-6380,,Kurnool,Pattikonda,Onion,Local,FAQ,1500,2000,1800,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-6381,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-6382,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-6383,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-6384,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
+6256,,Kurnool,Kurnool,Onion,Local,FAQ,2525,2525,2525,22 Jul 2024,2024,Jul,22,2024-07-22
+6257,,Kurnool,Kurnool,Onion,Local,FAQ,3411,3520,3520,12 Aug 2024,2024,Aug,12,2024-08-12
+6258,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,22 Nov 2024,2024,Nov,22,2024-11-22
+6259,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,03 Nov 2024,2024,Nov,3,2024-11-03
+6260,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,30 Oct 2024,2024,Oct,30,2024-10-30
+6261,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,02 Oct 2024,2024,Oct,2,2024-10-02
+6262,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,13 Sep 2024,2024,Sep,13,2024-09-13
+6263,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,17 Oct 2024,2024,Oct,17,2024-10-17
+6264,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,19 Oct 2024,2024,Oct,19,2024-10-19
+6265,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,21 Jul 2024,2024,Jul,21,2024-07-21
+6266,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,27 Aug 2024,2024,Aug,27,2024-08-27
+6267,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,30 Jul 2024,2024,Jul,30,2024-07-30
+6268,,Kurnool,Kurnool,Onion,Local,FAQ,1130,5439,4118,28 Nov 2024,2024,Nov,28,2024-11-28
+6269,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,04 Aug 2024,2024,Aug,4,2024-08-04
+6270,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,14 Aug 2024,2024,Aug,14,2024-08-14
+6271,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,20 Jul 2024,2024,Jul,20,2024-07-20
+6272,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,22 Jul 2024,2024,Jul,22,2024-07-22
+6273,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,4000,3500,10 Jul 2024,2024,Jul,10,2024-07-10
+6274,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,09 Jul 2024,2024,Jul,9,2024-07-09
+6275,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,02 Jul 2024,2024,Jul,2,2024-07-02
+6276,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,04 Jul 2024,2024,Jul,4,2024-07-04
+6277,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,04 Oct 2024,2024,Oct,4,2024-10-04
+6278,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,07 Aug 2024,2024,Aug,7,2024-08-07
+6279,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,08 Jul 2024,2024,Jul,8,2024-07-08
+6280,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,08 Sep 2024,2024,Sep,8,2024-09-08
+6281,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,10 Aug 2024,2024,Aug,10,2024-08-10
+6282,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,11 Jul 2024,2024,Jul,11,2024-07-11
+6283,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,22 Oct 2024,2024,Oct,22,2024-10-22
+6284,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,27 Sep 2024,2024,Sep,27,2024-09-27
+6285,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,29 Sep 2024,2024,Sep,29,2024-09-29
+6286,,Kurnool,Kurnool,Onion,Local,FAQ,2549,3075,3075,06 Aug 2024,2024,Aug,6,2024-08-06
+6287,,Kurnool,Kurnool,Onion,Local,FAQ,2825,2825,2825,01 Aug 2024,2024,Aug,1,2024-08-01
+6288,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,01 Nov 2024,2024,Nov,1,2024-11-01
+6289,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,4000,3500,26 Oct 2024,2024,Oct,26,2024-10-26
+6290,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,18 Sep 2024,2024,Sep,18,2024-09-18
+6291,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,28 Aug 2024,2024,Aug,28,2024-08-28
+6292,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,31 Aug 2024,2024,Aug,31,2024-08-31
+6293,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,01 Jul 2024,2024,Jul,1,2024-07-01
+6294,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,05 Oct 2024,2024,Oct,5,2024-10-05
+6295,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,06 Aug 2024,2024,Aug,6,2024-08-06
+6296,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,06 Jul 2024,2024,Jul,6,2024-07-06
+6297,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,07 Sep 2024,2024,Sep,7,2024-09-07
+6298,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,09 Aug 2024,2024,Aug,9,2024-08-09
+6299,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,09 Sep 2024,2024,Sep,9,2024-09-09
+6300,,Kurnool,Kurnool,Onion,Local,FAQ,515,5129,3814,02 Dec 2024,2024,Dec,2,2024-12-02
+6301,,Kurnool,Kurnool,Onion,Local,FAQ,2279,3029,2955,05 Aug 2024,2024,Aug,5,2024-08-05
+6302,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,24 Nov 2024,2024,Nov,24,2024-11-24
+6303,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,11 Nov 2024,2024,Nov,11,2024-11-11
+6304,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,4000,3500,28 Oct 2024,2024,Oct,28,2024-10-28
+6305,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,13 Jul 2024,2024,Jul,13,2024-07-13
+6306,,Kurnool,Kurnool,Onion,Local,FAQ,722,4329,3691,27 Nov 2024,2024,Nov,27,2024-11-27
+6307,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,25 Nov 2024,2024,Nov,25,2024-11-25
+6308,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,05 Nov 2024,2024,Nov,5,2024-11-05
+6309,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,28 Nov 2024,2024,Nov,28,2024-11-28
+6310,,Kurnool,Pattikonda,Onion,Local,FAQ,3500,4000,3800,30 Nov 2024,2024,Nov,30,2024-11-30
+6311,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,03 Aug 2024,2024,Aug,3,2024-08-03
+6312,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,10 Sep 2024,2024,Sep,10,2024-09-10
+6313,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,12 Sep 2024,2024,Sep,12,2024-09-12
+6314,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,16 Oct 2024,2024,Oct,16,2024-10-16
+6315,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,19 Sep 2024,2024,Sep,19,2024-09-19
+6316,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,25 Sep 2024,2024,Sep,25,2024-09-25
+6317,,Kurnool,Kurnool,Onion,Local,FAQ,2740,2820,2740,09 Aug 2024,2024,Aug,9,2024-08-09
+6318,,Kurnool,Pattikonda,Onion,Local,FAQ,1500,2000,1800,15 Nov 2024,2024,Nov,15,2024-11-15
+6319,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,23 Nov 2024,2024,Nov,23,2024-11-23
+6320,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,3500,3200,29 Oct 2024,2024,Oct,29,2024-10-29
+6321,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,02 Dec 2024,2024,Dec,2,2024-12-02
+6322,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,04 Sep 2024,2024,Sep,4,2024-09-04
+6323,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,08 Aug 2024,2024,Aug,8,2024-08-08
+6324,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,15 Jul 2024,2024,Jul,15,2024-07-15
+6325,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,26 Sep 2024,2024,Sep,26,2024-09-26
+6326,,Kurnool,Kurnool,Onion,Local,FAQ,2387,2387,2387,01 Jul 2024,2024,Jul,1,2024-07-01
+6327,,Kurnool,Kurnool,Onion,Local,FAQ,2959,2959,2959,23 Jul 2024,2024,Jul,23,2024-07-23
+6328,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,09 Nov 2024,2024,Nov,9,2024-11-09
+6329,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,01 Oct 2024,2024,Oct,1,2024-10-01
+6330,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,05 Sep 2024,2024,Sep,5,2024-09-05
+6331,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,07 Oct 2024,2024,Oct,7,2024-10-07
+6332,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,23 Sep 2024,2024,Sep,23,2024-09-23
+6333,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,24 Oct 2024,2024,Oct,24,2024-10-24
+6334,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,28 Sep 2024,2024,Sep,28,2024-09-28
+6335,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,29 Jul 2024,2024,Jul,29,2024-07-29
+6336,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,30 Aug 2024,2024,Aug,30,2024-08-30
+6337,,Kurnool,Kurnool,Onion,Local,FAQ,2550,2887,2887,27 Jul 2024,2024,Jul,27,2024-07-27
+6338,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,05 Aug 2024,2024,Aug,5,2024-08-05
+6339,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,05 Jul 2024,2024,Jul,5,2024-07-05
+6340,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,06 Oct 2024,2024,Oct,6,2024-10-06
+6341,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,07 Jul 2024,2024,Jul,7,2024-07-07
+6342,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,25 Oct 2024,2024,Oct,25,2024-10-25
+6343,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,30 Sep 2024,2024,Sep,30,2024-09-30
+6344,,Kurnool,Kurnool,Onion,Local,FAQ,1209,5229,4059,03 Dec 2024,2024,Dec,3,2024-12-03
+6345,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,10 Nov 2024,2024,Nov,10,2024-11-10
+6346,,Kurnool,Pattikonda,Onion,Local,FAQ,3000,4000,3500,27 Oct 2024,2024,Oct,27,2024-10-27
+6347,,Kurnool,Pattikonda,Onion,Local,FAQ,3500,4000,3800,29 Nov 2024,2024,Nov,29,2024-11-29
+6348,,Kurnool,Pattikonda,Onion,Local,FAQ,4000,5000,4500,14 Jul 2024,2024,Jul,14,2024-07-14
+6349,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,03 Sep 2024,2024,Sep,3,2024-09-03
+6350,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,11 Aug 2024,2024,Aug,11,2024-08-11
+6351,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,11 Sep 2024,2024,Sep,11,2024-09-11
+6352,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,15 Oct 2024,2024,Oct,15,2024-10-15
+6353,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,24 Jul 2024,2024,Jul,24,2024-07-24
+6354,,Kurnool,Kurnool,Onion,Local,FAQ,2557,2557,2557,31 Jul 2024,2024,Jul,31,2024-07-31
+6355,,Kurnool,Pattikonda,Onion,Local,FAQ,1500,2000,1800,13 Nov 2024,2024,Nov,13,2024-11-13
+6356,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,06 Nov 2024,2024,Nov,6,2024-11-06
+6357,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,19 Jul 2024,2024,Jul,19,2024-07-19
+6358,,Kurnool,Pattikonda,Onion,Local,FAQ,5000,6000,5500,06 Sep 2024,2024,Sep,6,2024-09-06
+6359,,Kurnool,Kurnool,Onion,Local,FAQ,2919,3711,3641,14 Aug 2024,2024,Aug,14,2024-08-14
+6360,,Kurnool,Pattikonda,Onion,Local,FAQ,2000,3000,2500,12 Nov 2024,2024,Nov,12,2024-11-12
+6361,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,16 Jul 2024,2024,Jul,16,2024-07-16
+6362,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,16 Sep 2024,2024,Sep,16,2024-09-16
+6363,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,17 Sep 2024,2024,Sep,17,2024-09-17
+6364,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,18 Oct 2024,2024,Oct,18,2024-10-18
+6365,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,29 Aug 2024,2024,Aug,29,2024-08-29
+6366,,Kurnool,Kurnool,Onion,Local,FAQ,609,4869,3286,25 Nov 2024,2024,Nov,25,2024-11-25
+6367,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,27 Nov 2024,2024,Nov,27,2024-11-27
+6368,,Kurnool,Pattikonda,Onion,Local,FAQ,3500,4500,4000,03 Dec 2024,2024,Dec,3,2024-12-03
+6369,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,12 Aug 2024,2024,Aug,12,2024-08-12
+6370,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,20 Sep 2024,2024,Sep,20,2024-09-20
+6371,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,23 Oct 2024,2024,Oct,23,2024-10-23
+6372,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,31 Jul 2024,2024,Jul,31,2024-07-31
+6373,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,02 Nov 2024,2024,Nov,2,2024-11-02
+6374,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,08 Nov 2024,2024,Nov,8,2024-11-08
+6375,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,12 Jul 2024,2024,Jul,12,2024-07-12
+6376,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,20 Oct 2024,2024,Oct,20,2024-10-20
+6377,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,22 Sep 2024,2024,Sep,22,2024-09-22
+6378,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,23 Jul 2024,2024,Jul,23,2024-07-23
+6379,,Kurnool,Kurnool,Onion,Local,FAQ,515,5259,3519,29 Nov 2024,2024,Nov,29,2024-11-29
+6380,,Kurnool,Pattikonda,Onion,Local,FAQ,1500,2000,1800,14 Nov 2024,2024,Nov,14,2024-11-14
+6381,,Kurnool,Pattikonda,Onion,Local,FAQ,2500,3000,2800,04 Nov 2024,2024,Nov,4,2024-11-04
+6382,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,03 Jul 2024,2024,Jul,3,2024-07-03
+6383,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,03 Oct 2024,2024,Oct,3,2024-10-03
+6384,,Kurnool,Pattikonda,Onion,Local,FAQ,4500,5000,4800,21 Oct 2024,2024,Oct,21,2024-10-21

@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Golaghat,Golaghat,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,12000,11000,26 Sep 2016,2016,Sep,26,2016-09-26
 1,1.0,Nalbari,Nalbari,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5500,6500,6000,01 Aug 2017,2017,Aug,1,2017-08-01
 2,2.0,Nalbari,Nalbari,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5500,6500,6000,07 Aug 2017,2017,Aug,7,2017-08-07
@@ -1784,11 +1784,11 @@
 1782,1782.0,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7300,7800,7550,21 Sep 2017,2017,Sep,21,2017-09-21
 1783,1783.0,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7300,7800,7550,22 Sep 2017,2017,Sep,22,2017-09-22
 1784,1784.0,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7300,7800,7550,23 Sep 2017,2017,Sep,23,2017-09-23
-1785,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,01 Sep 2016,2016,Sep,01,2016-09-01 00:00:00
-1786,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,28 Aug 2016,2016,Aug,28,2016-08-28 00:00:00
-1787,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,29 Aug 2016,2016,Aug,29,2016-08-29 00:00:00
-1788,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,30 Aug 2016,2016,Aug,30,2016-08-30 00:00:00
-1789,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,31 Aug 2016,2016,Aug,31,2016-08-31 00:00:00
-1790,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11500,13500,12500,25 Aug 2016,2016,Aug,25,2016-08-25 00:00:00
-1791,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11500,13500,12500,26 Aug 2016,2016,Aug,26,2016-08-26 00:00:00
-1792,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11500,13500,12500,27 Aug 2016,2016,Aug,27,2016-08-27 00:00:00
+1785,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,01 Sep 2016,2016,Sep,1,2016-09-01
+1786,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,28 Aug 2016,2016,Aug,28,2016-08-28
+1787,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,29 Aug 2016,2016,Aug,29,2016-08-29
+1788,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,30 Aug 2016,2016,Aug,30,2016-08-30
+1789,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10250,31 Aug 2016,2016,Aug,31,2016-08-31
+1790,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11500,13500,12500,25 Aug 2016,2016,Aug,25,2016-08-25
+1791,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11500,13500,12500,26 Aug 2016,2016,Aug,26,2016-08-26
+1792,,Kamrup,P.O. Uparhali Guwahati,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11500,13500,12500,27 Aug 2016,2016,Aug,27,2016-08-27

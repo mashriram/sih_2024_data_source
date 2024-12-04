@@ -1,3 +1,3 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Banaskanth,Panthawada,Mustard Oil,Mustard Oil,FAQ,6310,6310,6310,09 Jun 2022,2022,Jun,9,2022-06-09
-1,,Banaskanth,Panthawada,Mustard Oil,Mustard Oil,FAQ,6310,6310,6310,09 Jun 2022,2022,Jun,09,2022-06-09 00:00:00
+1,,Banaskanth,Panthawada,Mustard Oil,Mustard Oil,FAQ,6310,6310,6310,09 Jun 2022,2022,Jun,9,2022-06-09

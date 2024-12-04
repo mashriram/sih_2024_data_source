@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Puruliya,Balarampur,Mustard Oil,Other,FAQ,12100,12400,12300,03 Sep 2020,2020,Sep,3,2020-09-03
 1,1.0,Puruliya,Balarampur,Mustard Oil,Other,FAQ,12100,12500,12300,23 Sep 2020,2020,Sep,23,2020-09-23
 2,2.0,Puruliya,Balarampur,Mustard Oil,Other,FAQ,12100,12600,12300,24 Sep 2020,2020,Sep,24,2020-09-24
@@ -21023,655 +21023,655 @@
 21021,21021.0,Birbhum,Sainthia,Mustard Oil,Mustard Oil,FAQ,9640,9700,9670,15 Dec 2017,2017,Dec,15,2017-12-15
 21022,21022.0,Birbhum,Sainthia,Mustard Oil,Mustard Oil,FAQ,9640,9700,9670,16 Dec 2017,2017,Dec,16,2017-12-16
 21023,21023.0,Birbhum,Sainthia,Mustard Oil,Mustard Oil,FAQ,9640,9700,9670,18 Dec 2017,2017,Dec,18,2017-12-18
-21024,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13740,13780,13760,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-21025,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13840,13820,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-21026,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13840,13820,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-21027,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13850,13820,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-21028,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13860,13820,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-21029,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13860,13820,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-21030,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13860,13830,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-21031,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13860,13840,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-21032,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13900,13820,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-21033,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13900,13840,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-21034,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13810,13850,13820,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-21035,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13810,13850,13820,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-21036,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13810,13860,13820,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-21037,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13840,13830,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-21038,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13840,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-21039,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13840,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-21040,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13840,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-21041,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13840,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-21042,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13850,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-21043,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13850,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-21044,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13880,13860,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-21045,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13900,13850,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-21046,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13900,13860,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-21047,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13900,13860,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-21048,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13900,13860,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-21049,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13880,13860,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-21050,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13880,13860,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-21051,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13880,13860,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-21052,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13900,13860,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-21053,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13900,13860,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-21054,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13900,13860,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-21055,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13900,13860,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-21056,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13910,13900,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-21057,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13850,13960,13920,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-21058,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13900,13880,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-21059,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13900,13880,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-21060,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13900,13880,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-21061,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-21062,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-21063,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-21064,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-21065,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-21066,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-21067,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13910,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-21068,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13880,13920,13900,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-21069,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13880,13920,13900,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-21070,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13880,13940,13900,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-21071,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13880,13940,13900,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-21072,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13940,13910,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-21073,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13940,13920,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-21074,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13940,13920,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-21075,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13940,13920,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-21076,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13950,13920,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-21077,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13950,13920,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-21078,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13980,13950,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-21079,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13980,13950,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-21080,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13950,13940,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-21081,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13950,13940,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-21082,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13950,13940,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-21083,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13950,13940,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-21084,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13960,13940,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-21085,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13960,13940,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-21086,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13980,13950,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-21087,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13940,13980,13950,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-21088,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15200,15500,15220,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-21089,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15220,15500,15250,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-21090,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15500,15800,15600,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-21091,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15600,15800,15700,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-21092,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15620,15680,15640,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-21093,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,15900,15850,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-21094,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-21095,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-21096,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-21097,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-21098,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-21099,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-21100,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15850,16000,15900,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-21101,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15860,15900,15880,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-21102,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15860,15900,15880,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-21103,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15900,16000,15950,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-21104,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15900,16000,15950,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-21105,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15900,16200,16100,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-21106,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16400,16200,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-21107,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16400,16200,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-21108,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16500,16200,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-21109,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16500,16200,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-21110,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16500,16200,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-21111,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16200,16500,16400,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-21112,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16200,16500,16400,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-21113,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16200,16500,16400,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-21114,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16200,16500,16400,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-21115,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16400,16500,16420,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-21116,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16400,16500,16450,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-21117,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16400,16540,16500,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-21118,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16600,16520,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-21119,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16600,16520,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-21120,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16600,16550,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-21121,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16620,16600,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-21122,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16650,16600,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-21123,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16700,16600,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-21124,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16700,16600,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-21125,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16700,16600,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-21126,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16520,16600,16580,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-21127,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16550,16800,16600,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-21128,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16550,16800,16600,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-21129,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16650,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-21130,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-21131,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-21132,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-21133,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-21134,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-21135,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-21136,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-21137,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16620,16800,16700,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-21138,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16800,16740,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-21139,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16840,16800,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-21140,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16900,16800,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-21141,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16900,16800,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-21142,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16900,16800,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-21143,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16900,16820,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-21144,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16720,16900,16840,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-21145,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16750,16900,16800,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-21146,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16820,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-21147,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,17 Nov 2024,2024,Nov,17,2024-11-17 00:00:00
-21148,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-21149,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-21150,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-21151,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-21152,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-21153,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16850,16900,16880,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-21154,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16850,16900,16880,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-21155,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16850,16950,16900,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-21156,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16850,16950,16900,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-21157,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16900,17200,17000,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-21158,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16900,17200,17000,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-21159,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-21160,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-21161,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-21162,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-21163,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-21164,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-21165,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-21166,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-21167,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-21168,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-21169,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-21170,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-21171,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-21172,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-21173,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-21174,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-21175,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-21176,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-21177,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-21178,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-21179,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-21180,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-21181,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-21182,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-21183,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-21184,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-21185,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-21186,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-21187,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-21188,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-21189,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13100,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-21190,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13000,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-21191,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-21192,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13050,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-21193,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13050,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-21194,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13050,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-21195,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13260,13000,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-21196,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-21197,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-21198,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-21199,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-21200,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-21201,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-21202,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-21203,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-21204,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-21205,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-21206,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-21207,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-21208,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-21209,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-21210,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-21211,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-21212,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-21213,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-21214,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-21215,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-21216,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-21217,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-21218,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-21219,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-21220,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-21221,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-21222,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-21223,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-21224,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-21225,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13050,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-21226,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13050,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-21227,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13300,13000,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-21228,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13300,13200,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-21229,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13300,13200,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-21230,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13400,13050,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-21231,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12860,13250,13000,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-21232,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12865,13260,13050,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-21233,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12900,13300,13200,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-21234,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12900,13300,13200,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-21235,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12950,13200,13000,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-21236,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13250,13200,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-21237,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13300,13200,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-21238,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13300,13200,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-21239,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-21240,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-21241,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-21242,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-21243,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-21244,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-21245,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-21246,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-21247,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-21248,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-21249,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-21250,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-21251,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-21252,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-21253,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13020,13500,13200,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-21254,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13200,13500,13400,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-21255,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13200,13500,13400,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-21256,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13200,13500,13400,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-21257,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13200,13600,13400,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-21258,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13500,13800,13600,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-21259,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13500,13800,13700,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-21260,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-21261,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-21262,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-21263,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-21264,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-21265,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14400,14200,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-21266,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14400,14200,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-21267,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-21268,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-21269,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-21270,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-21271,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-21272,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-21273,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14300,17 Nov 2024,2024,Nov,17,2024-11-17 00:00:00
-21274,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,24500,14200,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-21275,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14300,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-21276,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14300,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-21277,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-21278,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-21279,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-21280,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-21281,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-21282,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-21283,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-21284,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-21285,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14450,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-21286,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14550,14400,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-21287,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14550,14400,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-21288,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14400,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-21289,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-21290,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-21291,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-21292,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-21293,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-21294,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14550,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-21295,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14700,14500,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-21296,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14250,14500,14400,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-21297,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14250,14500,14400,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-21298,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14250,14600,14500,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-21299,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14400,14600,14500,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-21300,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14400,14600,14500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-21301,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14600,14550,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-21302,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14650,14550,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-21303,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14700,14600,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-21304,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14600,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-21305,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14600,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-21306,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14600,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-21307,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14650,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-21308,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14650,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-21309,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14550,14800,14600,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-21310,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14600,14900,14800,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-21311,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14650,15000,14800,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-21312,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14800,15000,14900,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-21313,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12000,13000,12800,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-21314,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12500,13000,12800,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-21315,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12500,13200,12900,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-21316,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12500,13500,13200,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-21317,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-21318,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-21319,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-21320,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-21321,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-21322,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-21323,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-21324,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-21325,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-21326,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-21327,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-21328,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-21329,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-21330,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-21331,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13800,13000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-21332,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12900,13200,13000,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-21333,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12900,13200,13100,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-21334,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12900,13400,13200,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-21335,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13300,13200,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-21336,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13350,13200,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-21337,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13400,13200,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-21338,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13450,13400,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-21339,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13500,13200,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-21340,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13200,13400,13300,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-21341,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13200,13500,13300,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-21342,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13200,13500,13400,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-21343,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13500,14000,13800,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-21344,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13500,14000,13800,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-21345,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13500,14000,13800,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-21346,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13600,14400,14000,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-21347,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13800,14600,14200,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-21348,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13900,14800,14400,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-21349,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,14800,14500,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-21350,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,14800,14500,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-21351,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,14800,14500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-21352,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,14900,14400,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-21353,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-21354,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-21355,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-21356,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-21357,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-21358,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-21359,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-21360,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15200,15000,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-21361,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,16800,14600,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-21362,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14200,15000,14600,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-21363,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14200,15200,14800,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-21364,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,14800,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-21365,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-21366,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-21367,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-21368,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-21369,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-21370,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-21371,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,17 Nov 2024,2024,Nov,17,2024-11-17 00:00:00
-21372,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-21373,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-21374,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-21375,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-21376,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-21377,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-21378,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-21379,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-21380,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-21381,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15500,15000,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-21382,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15500,15000,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-21383,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14800,15800,15200,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-21384,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,15000,16000,15600,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-21385,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,15000,16000,15700,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-21386,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,15000,16000,15800,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-21387,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,16000,16800,16500,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-21388,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,9300,9500,9400,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-21389,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,9400,9600,9500,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-21390,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,9400,9600,9500,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-21391,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,9400,9600,9500,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-21392,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,12600,12800,12700,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-21393,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,12600,12800,12700,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-21394,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13200,13400,13300,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-21395,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13200,13400,13300,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-21396,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13200,13500,13400,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-21397,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13300,13500,13400,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-21398,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-21399,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-21400,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-21401,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-21402,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-21403,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-21404,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-21405,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-21406,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-21407,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-21408,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-21409,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-21410,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-21411,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-21412,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-21413,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-21414,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-21415,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-21416,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-21417,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-21418,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-21419,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-21420,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-21421,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-21422,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-21423,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-21424,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-21425,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-21426,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-21427,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-21428,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-21429,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-21430,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13600,13800,13700,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-21431,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13600,13800,13700,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-21432,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14300,14500,14400,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-21433,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14300,14500,14400,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-21434,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14300,14500,14400,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-21435,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14400,14600,14500,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-21436,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14400,14600,14500,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-21437,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14400,14600,14500,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-21438,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14600,14600,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-21439,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-21440,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-21441,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-21442,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-21443,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-21444,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-21445,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-21446,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14800,14600,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-21447,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,15000,14600,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-21448,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14600,14800,14700,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-21449,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15400,15700,15600,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-21450,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15500,15700,15600,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-21451,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-21452,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-21453,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-21454,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-21455,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-21456,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-21457,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-21458,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-21459,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15900,15800,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-21460,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,16000,15700,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-21461,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,16000,15800,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-21462,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15700,16000,15800,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-21463,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15800,16000,15900,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-21464,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16000,16200,16100,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-21465,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16100,16300,16200,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-21466,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-21467,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-21468,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-21469,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-21470,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-21471,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16300,16500,16400,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-21472,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16300,16500,16400,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-21473,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16300,16500,16400,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-21474,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-21475,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-21476,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-21477,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-21478,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-21479,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-21480,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-21481,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-21482,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-21483,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-21484,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-21485,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-21486,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-21487,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-21488,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-21489,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-21490,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-21491,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-21492,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-21493,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-21494,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-21495,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-21496,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-21497,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-21498,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-21499,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-21500,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-21501,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-21502,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-21503,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-21504,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-21505,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13300,13100,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-21506,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13400,13200,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-21507,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13400,13200,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-21508,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-21509,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-21510,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-21511,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-21512,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-21513,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-21514,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-21515,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-21516,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-21517,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-21518,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-21519,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-21520,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-21521,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-21522,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-21523,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-21524,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-21525,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-21526,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-21527,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-21528,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-21529,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-21530,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-21531,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-21532,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-21533,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-21534,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-21535,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-21536,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-21537,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-21538,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-21539,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-21540,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-21541,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-21542,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13480,13600,13520,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-21543,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13550,13700,13630,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-21544,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13550,13700,13630,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-21545,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13560,13720,13630,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-21546,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13580,13660,13660,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-21547,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13580,13740,13660,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-21548,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-21549,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-21550,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-21551,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-21552,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-21553,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13760,13680,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-21554,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13760,13680,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-21555,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13760,13700,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-21556,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13770,13680,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-21557,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13780,13700,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-21558,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13780,13700,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-21559,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13630,13800,13700,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-21560,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13720,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-21561,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-21562,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-21563,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-21564,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-21565,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-21566,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13800,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-21567,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13800,13660,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-21568,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13800,13740,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-21569,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13800,13740,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-21570,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-21571,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-21572,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-21573,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-21574,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-21575,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-21576,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13830,13740,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-21577,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13880,13800,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-21578,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,23830,13750,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-21579,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13670,13820,13750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-21580,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13680,13840,13760,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-21581,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13690,13850,13770,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-21582,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13690,13850,13770,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-21583,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13690,13850,13770,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-21584,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13800,13700,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-21585,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13850,13780,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-21586,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13850,13780,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-21587,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13860,13780,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-21588,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13870,13780,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-21589,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13720,13880,13800,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-21590,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13730,13800,13800,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-21591,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13730,13880,13800,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-21592,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13730,13880,13800,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-21593,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13730,13900,13800,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-21594,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13740,13900,13820,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-21595,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13740,13900,13820,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-21596,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13740,13900,13820,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-21597,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13760,13900,13840,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-21598,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14200,14380,14300,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-21599,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14220,14300,14300,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-21600,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14220,14360,14300,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-21601,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14220,14380,14300,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-21602,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14220,14400,14300,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-21603,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14300,14450,14380,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-21604,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14700,14600,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-21605,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14760,14680,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-21606,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14760,14680,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-21607,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14770,14700,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-21608,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14780,14700,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-21609,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14640,14800,14720,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-21610,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14660,14820,14740,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-21611,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14660,14820,14740,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-21612,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14660,14820,14740,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-21613,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14730,14800,14800,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-21614,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14730,14800,14800,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-21615,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14730,14900,14800,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-21616,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14730,14900,14800,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-21617,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15500,15650,15500,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-21618,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15550,15700,15630,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-21619,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15600,15750,15600,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-21620,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15600,15750,15680,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-21621,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15600,15770,15700,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-21622,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15660,15740,15740,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-21623,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15660,15800,15660,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-21624,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15660,15820,15740,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-21625,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15680,15830,15750,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-21626,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15740,15820,15740,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-21627,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16220,16000,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-21628,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16230,16150,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-21629,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16240,16000,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-21630,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16160,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-21631,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16160,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-21632,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16220,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-21633,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16220,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-21634,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16220,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-21635,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16230,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-21636,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16260,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-21637,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16120,16300,16200,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-21638,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16120,16360,16200,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-21639,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16120,16360,16200,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-21640,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16120,16360,16200,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-21641,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16140,16400,16300,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-21642,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16180,16350,16260,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-21643,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16200,16350,16200,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-21644,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16300,16220,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-21645,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16300,16300,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-21646,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16370,16220,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-21647,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16380,16300,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-21648,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16380,16300,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-21649,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16400,16300,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-21650,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16400,16300,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-21651,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16400,16300,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-21652,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16460,16300,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-21653,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16240,16400,16320,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-21654,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16250,16400,16330,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-21655,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16300,16450,16380,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-21656,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16300,16460,16380,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-21657,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16300,16480,16400,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-21658,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16300,16500,16400,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-21659,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16400,16400,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-21660,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16400,16400,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-21661,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16400,16400,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-21662,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16410,16330,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-21663,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16480,16400,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-21664,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16480,16410,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-21665,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16480,16410,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-21666,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16480,16480,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-21667,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16500,16400,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-21668,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16500,16400,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-21669,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16500,16400,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-21670,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16540,16400,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-21671,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16380,16540,16460,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-21672,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16400,16500,16400,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-21673,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16400,26540,16480,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-21674,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16420,16660,16500,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-21675,,Birbhum,Sainthia,Mustard Oil,Mustard Oil,FAQ,4300,4500,4400,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
+21024,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13740,13780,13760,01 Jul 2024,2024,Jul,1,2024-07-01
+21025,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13840,13820,02 Jul 2024,2024,Jul,2,2024-07-02
+21026,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13840,13820,03 Jul 2024,2024,Jul,3,2024-07-03
+21027,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13850,13820,06 Jul 2024,2024,Jul,6,2024-07-06
+21028,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13860,13820,04 Jul 2024,2024,Jul,4,2024-07-04
+21029,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13860,13820,10 Sep 2024,2024,Sep,10,2024-09-10
+21030,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13860,13830,07 Jul 2024,2024,Jul,7,2024-07-07
+21031,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13860,13840,10 Jul 2024,2024,Jul,10,2024-07-10
+21032,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13900,13820,15 Aug 2024,2024,Aug,15,2024-08-15
+21033,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13800,13900,13840,16 Aug 2024,2024,Aug,16,2024-08-16
+21034,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13810,13850,13820,14 Jul 2024,2024,Jul,14,2024-07-14
+21035,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13810,13850,13820,15 Jul 2024,2024,Jul,15,2024-07-15
+21036,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13810,13860,13820,19 Jul 2024,2024,Jul,19,2024-07-19
+21037,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13840,13830,16 Jul 2024,2024,Jul,16,2024-07-16
+21038,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13840,08 Jul 2024,2024,Jul,8,2024-07-08
+21039,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13840,11 Jul 2024,2024,Jul,11,2024-07-11
+21040,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13840,12 Jul 2024,2024,Jul,12,2024-07-12
+21041,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13840,13 Jul 2024,2024,Jul,13,2024-07-13
+21042,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13850,17 Jul 2024,2024,Jul,17,2024-07-17
+21043,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13860,13850,18 Jul 2024,2024,Jul,18,2024-07-18
+21044,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13880,13860,09 Jul 2024,2024,Jul,9,2024-07-09
+21045,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13900,13850,19 Aug 2024,2024,Aug,19,2024-08-19
+21046,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13900,13860,01 Sep 2024,2024,Sep,1,2024-09-01
+21047,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13900,13860,02 Sep 2024,2024,Sep,2,2024-09-02
+21048,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13820,13900,13860,31 Aug 2024,2024,Aug,31,2024-08-31
+21049,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13880,13860,20 Jul 2024,2024,Jul,20,2024-07-20
+21050,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13880,13860,21 Jul 2024,2024,Jul,21,2024-07-21
+21051,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13880,13860,22 Jul 2024,2024,Jul,22,2024-07-22
+21052,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13900,13860,07 Sep 2024,2024,Sep,7,2024-09-07
+21053,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13900,13860,08 Sep 2024,2024,Sep,8,2024-09-08
+21054,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13900,13860,09 Sep 2024,2024,Sep,9,2024-09-09
+21055,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13900,13860,20 Aug 2024,2024,Aug,20,2024-08-20
+21056,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13840,13910,13900,22 Aug 2024,2024,Aug,22,2024-08-22
+21057,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13850,13960,13920,26 Jul 2024,2024,Jul,26,2024-07-26
+21058,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13900,13880,16 Sep 2024,2024,Sep,16,2024-09-16
+21059,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13900,13880,17 Sep 2024,2024,Sep,17,2024-09-17
+21060,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13900,13880,27 Aug 2024,2024,Aug,27,2024-08-27
+21061,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,04 Sep 2024,2024,Sep,4,2024-09-04
+21062,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,05 Sep 2024,2024,Sep,5,2024-09-05
+21063,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,21 Aug 2024,2024,Aug,21,2024-08-21
+21064,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,23 Aug 2024,2024,Aug,23,2024-08-23
+21065,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,24 Jul 2024,2024,Jul,24,2024-07-24
+21066,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13900,25 Jul 2024,2024,Jul,25,2024-07-25
+21067,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13860,13920,13910,06 Sep 2024,2024,Sep,6,2024-09-06
+21068,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13880,13920,13900,11 Sep 2024,2024,Sep,11,2024-09-11
+21069,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13880,13920,13900,28 Jul 2024,2024,Jul,28,2024-07-28
+21070,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13880,13940,13900,27 Jul 2024,2024,Jul,27,2024-07-27
+21071,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13880,13940,13900,29 Jul 2024,2024,Jul,29,2024-07-29
+21072,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13940,13910,03 Sep 2024,2024,Sep,3,2024-09-03
+21073,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13940,13920,01 Aug 2024,2024,Aug,1,2024-08-01
+21074,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13940,13920,02 Aug 2024,2024,Aug,2,2024-08-02
+21075,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13940,13920,31 Jul 2024,2024,Jul,31,2024-07-31
+21076,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13950,13920,05 Aug 2024,2024,Aug,5,2024-08-05
+21077,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13950,13920,09 Aug 2024,2024,Aug,9,2024-08-09
+21078,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13980,13950,13 Aug 2024,2024,Aug,13,2024-08-13
+21079,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13900,13980,13950,14 Aug 2024,2024,Aug,14,2024-08-14
+21080,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13950,13940,06 Aug 2024,2024,Aug,6,2024-08-06
+21081,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13950,13940,07 Aug 2024,2024,Aug,7,2024-08-07
+21082,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13950,13940,08 Aug 2024,2024,Aug,8,2024-08-08
+21083,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13950,13940,10 Aug 2024,2024,Aug,10,2024-08-10
+21084,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13960,13940,03 Aug 2024,2024,Aug,3,2024-08-03
+21085,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13960,13940,04 Aug 2024,2024,Aug,4,2024-08-04
+21086,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13920,13980,13950,11 Aug 2024,2024,Aug,11,2024-08-11
+21087,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,13940,13980,13950,12 Aug 2024,2024,Aug,12,2024-08-12
+21088,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15200,15500,15220,18 Sep 2024,2024,Sep,18,2024-09-18
+21089,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15220,15500,15250,19 Sep 2024,2024,Sep,19,2024-09-19
+21090,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15500,15800,15600,21 Sep 2024,2024,Sep,21,2024-09-21
+21091,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15600,15800,15700,22 Sep 2024,2024,Sep,22,2024-09-22
+21092,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15620,15680,15640,20 Sep 2024,2024,Sep,20,2024-09-20
+21093,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,15900,15850,25 Sep 2024,2024,Sep,25,2024-09-25
+21094,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,01 Oct 2024,2024,Oct,1,2024-10-01
+21095,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,02 Oct 2024,2024,Oct,2,2024-10-02
+21096,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,03 Oct 2024,2024,Oct,3,2024-10-03
+21097,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,04 Oct 2024,2024,Oct,4,2024-10-04
+21098,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,29 Sep 2024,2024,Sep,29,2024-09-29
+21099,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15800,16000,15900,30 Sep 2024,2024,Sep,30,2024-09-30
+21100,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15850,16000,15900,28 Sep 2024,2024,Sep,28,2024-09-28
+21101,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15860,15900,15880,23 Sep 2024,2024,Sep,23,2024-09-23
+21102,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15860,15900,15880,24 Sep 2024,2024,Sep,24,2024-09-24
+21103,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15900,16000,15950,26 Sep 2024,2024,Sep,26,2024-09-26
+21104,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15900,16000,15950,27 Sep 2024,2024,Sep,27,2024-09-27
+21105,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,15900,16200,16100,05 Oct 2024,2024,Oct,5,2024-10-05
+21106,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16400,16200,06 Oct 2024,2024,Oct,6,2024-10-06
+21107,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16400,16200,10 Oct 2024,2024,Oct,10,2024-10-10
+21108,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16500,16200,12 Oct 2024,2024,Oct,12,2024-10-12
+21109,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16500,16200,14 Oct 2024,2024,Oct,14,2024-10-14
+21110,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16000,16500,16200,16 Oct 2024,2024,Oct,16,2024-10-16
+21111,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16200,16500,16400,07 Oct 2024,2024,Oct,7,2024-10-07
+21112,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16200,16500,16400,17 Oct 2024,2024,Oct,17,2024-10-17
+21113,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16200,16500,16400,21 Oct 2024,2024,Oct,21,2024-10-21
+21114,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16200,16500,16400,22 Oct 2024,2024,Oct,22,2024-10-22
+21115,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16400,16500,16420,20 Oct 2024,2024,Oct,20,2024-10-20
+21116,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16400,16500,16450,08 Oct 2024,2024,Oct,8,2024-10-08
+21117,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16400,16540,16500,19 Oct 2024,2024,Oct,19,2024-10-19
+21118,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16600,16520,13 Oct 2024,2024,Oct,13,2024-10-13
+21119,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16600,16520,24 Oct 2024,2024,Oct,24,2024-10-24
+21120,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16600,16550,25 Oct 2024,2024,Oct,25,2024-10-25
+21121,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16620,16600,15 Oct 2024,2024,Oct,15,2024-10-15
+21122,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16650,16600,23 Oct 2024,2024,Oct,23,2024-10-23
+21123,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16700,16600,11 Oct 2024,2024,Oct,11,2024-10-11
+21124,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16700,16600,27 Oct 2024,2024,Oct,27,2024-10-27
+21125,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16500,16700,16600,28 Oct 2024,2024,Oct,28,2024-10-28
+21126,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16520,16600,16580,26 Oct 2024,2024,Oct,26,2024-10-26
+21127,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16550,16800,16600,29 Oct 2024,2024,Oct,29,2024-10-29
+21128,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16550,16800,16600,30 Oct 2024,2024,Oct,30,2024-10-30
+21129,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16650,01 Nov 2024,2024,Nov,1,2024-11-01
+21130,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,02 Nov 2024,2024,Nov,2,2024-11-02
+21131,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,03 Nov 2024,2024,Nov,3,2024-11-03
+21132,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,04 Nov 2024,2024,Nov,4,2024-11-04
+21133,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,05 Nov 2024,2024,Nov,5,2024-11-05
+21134,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,06 Nov 2024,2024,Nov,6,2024-11-06
+21135,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,07 Nov 2024,2024,Nov,7,2024-11-07
+21136,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16600,16800,16700,31 Oct 2024,2024,Oct,31,2024-10-31
+21137,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16620,16800,16700,08 Nov 2024,2024,Nov,8,2024-11-08
+21138,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16800,16740,10 Nov 2024,2024,Nov,10,2024-11-10
+21139,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16840,16800,09 Nov 2024,2024,Nov,9,2024-11-09
+21140,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16900,16800,11 Nov 2024,2024,Nov,11,2024-11-11
+21141,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16900,16800,12 Nov 2024,2024,Nov,12,2024-11-12
+21142,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16900,16800,15 Nov 2024,2024,Nov,15,2024-11-15
+21143,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16700,16900,16820,13 Nov 2024,2024,Nov,13,2024-11-13
+21144,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16720,16900,16840,14 Nov 2024,2024,Nov,14,2024-11-14
+21145,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16750,16900,16800,18 Nov 2024,2024,Nov,18,2024-11-18
+21146,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16820,21 Nov 2024,2024,Nov,21,2024-11-21
+21147,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,17 Nov 2024,2024,Nov,17,2024-11-17
+21148,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,20 Nov 2024,2024,Nov,20,2024-11-20
+21149,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,22 Nov 2024,2024,Nov,22,2024-11-22
+21150,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,24 Nov 2024,2024,Nov,24,2024-11-24
+21151,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,25 Nov 2024,2024,Nov,25,2024-11-25
+21152,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16800,16900,16850,28 Nov 2024,2024,Nov,28,2024-11-28
+21153,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16850,16900,16880,26 Nov 2024,2024,Nov,26,2024-11-26
+21154,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16850,16900,16880,27 Nov 2024,2024,Nov,27,2024-11-27
+21155,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16850,16950,16900,03 Dec 2024,2024,Dec,3,2024-12-03
+21156,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16850,16950,16900,23 Nov 2024,2024,Nov,23,2024-11-23
+21157,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16900,17200,17000,01 Dec 2024,2024,Dec,1,2024-12-01
+21158,,Puruliya,Balarampur,Mustard Oil,Other,FAQ,16900,17200,17000,02 Dec 2024,2024,Dec,2,2024-12-02
+21159,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,01 Aug 2024,2024,Aug,1,2024-08-01
+21160,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,01 Jul 2024,2024,Jul,1,2024-07-01
+21161,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,01 Sep 2024,2024,Sep,1,2024-09-01
+21162,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,02 Jul 2024,2024,Jul,2,2024-07-02
+21163,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,03 Aug 2024,2024,Aug,3,2024-08-03
+21164,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,04 Jul 2024,2024,Jul,4,2024-07-04
+21165,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,07 Aug 2024,2024,Aug,7,2024-08-07
+21166,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,07 Sep 2024,2024,Sep,7,2024-09-07
+21167,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,08 Aug 2024,2024,Aug,8,2024-08-08
+21168,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,08 Sep 2024,2024,Sep,8,2024-09-08
+21169,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,09 Aug 2024,2024,Aug,9,2024-08-09
+21170,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,09 Jul 2024,2024,Jul,9,2024-07-09
+21171,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,10 Jul 2024,2024,Jul,10,2024-07-10
+21172,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,11 Aug 2024,2024,Aug,11,2024-08-11
+21173,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,12 Jul 2024,2024,Jul,12,2024-07-12
+21174,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,18 Aug 2024,2024,Aug,18,2024-08-18
+21175,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,19 Aug 2024,2024,Aug,19,2024-08-19
+21176,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,20 Jul 2024,2024,Jul,20,2024-07-20
+21177,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,21 Jul 2024,2024,Jul,21,2024-07-21
+21178,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13000,27 Aug 2024,2024,Aug,27,2024-08-27
+21179,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,03 Jul 2024,2024,Jul,3,2024-07-03
+21180,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,04 Aug 2024,2024,Aug,4,2024-08-04
+21181,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,05 Jul 2024,2024,Jul,5,2024-07-05
+21182,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,08 Jul 2024,2024,Jul,8,2024-07-08
+21183,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,10 Sep 2024,2024,Sep,10,2024-09-10
+21184,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,12 Aug 2024,2024,Aug,12,2024-08-12
+21185,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,23 Aug 2024,2024,Aug,23,2024-08-23
+21186,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,27 Jul 2024,2024,Jul,27,2024-07-27
+21187,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,29 Jul 2024,2024,Jul,29,2024-07-29
+21188,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13050,31 Jul 2024,2024,Jul,31,2024-07-31
+21189,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13200,13100,10 Aug 2024,2024,Aug,10,2024-08-10
+21190,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13000,07 Jul 2024,2024,Jul,7,2024-07-07
+21191,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13000,15 Jul 2024,2024,Jul,15,2024-07-15
+21192,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13050,09 Sep 2024,2024,Sep,9,2024-09-09
+21193,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13050,20 Aug 2024,2024,Aug,20,2024-08-20
+21194,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13250,13050,30 Jul 2024,2024,Jul,30,2024-07-30
+21195,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12800,13260,13000,17 Aug 2024,2024,Aug,17,2024-08-17
+21196,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,02 Aug 2024,2024,Aug,2,2024-08-02
+21197,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,02 Sep 2024,2024,Sep,2,2024-09-02
+21198,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,06 Sep 2024,2024,Sep,6,2024-09-06
+21199,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,11 Jul 2024,2024,Jul,11,2024-07-11
+21200,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,12 Sep 2024,2024,Sep,12,2024-09-12
+21201,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,16 Aug 2024,2024,Aug,16,2024-08-16
+21202,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,16 Jul 2024,2024,Jul,16,2024-07-16
+21203,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,17 Jul 2024,2024,Jul,17,2024-07-17
+21204,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,23 Jul 2024,2024,Jul,23,2024-07-23
+21205,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,24 Aug 2024,2024,Aug,24,2024-08-24
+21206,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,25 Jul 2024,2024,Jul,25,2024-07-25
+21207,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,28 Aug 2024,2024,Aug,28,2024-08-28
+21208,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13000,28 Jul 2024,2024,Jul,28,2024-07-28
+21209,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,03 Sep 2024,2024,Sep,3,2024-09-03
+21210,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,05 Aug 2024,2024,Aug,5,2024-08-05
+21211,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,15 Aug 2024,2024,Aug,15,2024-08-15
+21212,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,22 Jul 2024,2024,Jul,22,2024-07-22
+21213,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13200,13050,25 Aug 2024,2024,Aug,25,2024-08-25
+21214,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,04 Sep 2024,2024,Sep,4,2024-09-04
+21215,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,05 Sep 2024,2024,Sep,5,2024-09-05
+21216,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,06 Aug 2024,2024,Aug,6,2024-08-06
+21217,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,06 Jul 2024,2024,Jul,6,2024-07-06
+21218,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,13 Aug 2024,2024,Aug,13,2024-08-13
+21219,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,13 Sep 2024,2024,Sep,13,2024-09-13
+21220,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,14 Sep 2024,2024,Sep,14,2024-09-14
+21221,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,18 Jul 2024,2024,Jul,18,2024-07-18
+21222,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,21 Aug 2024,2024,Aug,21,2024-08-21
+21223,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,26 Jul 2024,2024,Jul,26,2024-07-26
+21224,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13000,31 Aug 2024,2024,Aug,31,2024-08-31
+21225,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13050,11 Sep 2024,2024,Sep,11,2024-09-11
+21226,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13250,13050,30 Aug 2024,2024,Aug,30,2024-08-30
+21227,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13300,13000,13 Jul 2024,2024,Jul,13,2024-07-13
+21228,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13300,13200,19 Jul 2024,2024,Jul,19,2024-07-19
+21229,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13300,13200,22 Aug 2024,2024,Aug,22,2024-08-22
+21230,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12850,13400,13050,29 Aug 2024,2024,Aug,29,2024-08-29
+21231,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12860,13250,13000,26 Aug 2024,2024,Aug,26,2024-08-26
+21232,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12865,13260,13050,24 Jul 2024,2024,Jul,24,2024-07-24
+21233,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12900,13300,13200,14 Jul 2024,2024,Jul,14,2024-07-14
+21234,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12900,13300,13200,18 Sep 2024,2024,Sep,18,2024-09-18
+21235,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,12950,13200,13000,01 Oct 2024,2024,Oct,1,2024-10-01
+21236,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13250,13200,29 Sep 2024,2024,Sep,29,2024-09-29
+21237,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13300,13200,16 Sep 2024,2024,Sep,16,2024-09-16
+21238,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13300,13200,17 Sep 2024,2024,Sep,17,2024-09-17
+21239,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,15 Sep 2024,2024,Sep,15,2024-09-15
+21240,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,19 Sep 2024,2024,Sep,19,2024-09-19
+21241,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,20 Sep 2024,2024,Sep,20,2024-09-20
+21242,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,21 Sep 2024,2024,Sep,21,2024-09-21
+21243,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,23 Sep 2024,2024,Sep,23,2024-09-23
+21244,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13400,13200,24 Sep 2024,2024,Sep,24,2024-09-24
+21245,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,02 Oct 2024,2024,Oct,2,2024-10-02
+21246,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,03 Oct 2024,2024,Oct,3,2024-10-03
+21247,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,04 Oct 2024,2024,Oct,4,2024-10-04
+21248,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,05 Oct 2024,2024,Oct,5,2024-10-05
+21249,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,06 Oct 2024,2024,Oct,6,2024-10-06
+21250,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,07 Oct 2024,2024,Oct,7,2024-10-07
+21251,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,28 Sep 2024,2024,Sep,28,2024-09-28
+21252,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13000,13500,13200,30 Sep 2024,2024,Sep,30,2024-09-30
+21253,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13020,13500,13200,22 Sep 2024,2024,Sep,22,2024-09-22
+21254,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13200,13500,13400,25 Sep 2024,2024,Sep,25,2024-09-25
+21255,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13200,13500,13400,26 Sep 2024,2024,Sep,26,2024-09-26
+21256,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13200,13500,13400,27 Sep 2024,2024,Sep,27,2024-09-27
+21257,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13200,13600,13400,08 Oct 2024,2024,Oct,8,2024-10-08
+21258,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13500,13800,13600,09 Oct 2024,2024,Oct,9,2024-10-09
+21259,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13500,13800,13700,25 Nov 2024,2024,Nov,25,2024-11-25
+21260,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,10 Oct 2024,2024,Oct,10,2024-10-10
+21261,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,23 Nov 2024,2024,Nov,23,2024-11-23
+21262,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,24 Nov 2024,2024,Nov,24,2024-11-24
+21263,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,27 Nov 2024,2024,Nov,27,2024-11-27
+21264,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,13800,14200,14000,29 Nov 2024,2024,Nov,29,2024-11-29
+21265,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14400,14200,22 Nov 2024,2024,Nov,22,2024-11-22
+21266,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14400,14200,28 Nov 2024,2024,Nov,28,2024-11-28
+21267,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,01 Dec 2024,2024,Dec,1,2024-12-01
+21268,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,02 Dec 2024,2024,Dec,2,2024-12-02
+21269,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,03 Dec 2024,2024,Dec,3,2024-12-03
+21270,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,16 Nov 2024,2024,Nov,16,2024-11-16
+21271,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,18 Nov 2024,2024,Nov,18,2024-11-18
+21272,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14200,20 Nov 2024,2024,Nov,20,2024-11-20
+21273,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,14500,14300,17 Nov 2024,2024,Nov,17,2024-11-17
+21274,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14000,24500,14200,26 Nov 2024,2024,Nov,26,2024-11-26
+21275,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14300,22 Oct 2024,2024,Oct,22,2024-10-22
+21276,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14300,23 Oct 2024,2024,Oct,23,2024-10-23
+21277,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,06 Nov 2024,2024,Nov,6,2024-11-06
+21278,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,07 Nov 2024,2024,Nov,7,2024-11-07
+21279,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,09 Nov 2024,2024,Nov,9,2024-11-09
+21280,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,10 Nov 2024,2024,Nov,10,2024-11-10
+21281,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,13 Nov 2024,2024,Nov,13,2024-11-13
+21282,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,26 Oct 2024,2024,Oct,26,2024-10-26
+21283,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,30 Nov 2024,2024,Nov,30,2024-11-30
+21284,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14400,31 Oct 2024,2024,Oct,31,2024-10-31
+21285,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14500,14450,19 Nov 2024,2024,Nov,19,2024-11-19
+21286,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14550,14400,15 Nov 2024,2024,Nov,15,2024-11-15
+21287,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14550,14400,21 Nov 2024,2024,Nov,21,2024-11-21
+21288,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14400,30 Oct 2024,2024,Oct,30,2024-10-30
+21289,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,02 Nov 2024,2024,Nov,2,2024-11-02
+21290,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,08 Nov 2024,2024,Nov,8,2024-11-08
+21291,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,14 Nov 2024,2024,Nov,14,2024-11-14
+21292,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,27 Oct 2024,2024,Oct,27,2024-10-27
+21293,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14500,28 Oct 2024,2024,Oct,28,2024-10-28
+21294,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14600,14550,01 Nov 2024,2024,Nov,1,2024-11-01
+21295,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14200,14700,14500,20 Oct 2024,2024,Oct,20,2024-10-20
+21296,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14250,14500,14400,21 Oct 2024,2024,Oct,21,2024-10-21
+21297,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14250,14500,14400,24 Oct 2024,2024,Oct,24,2024-10-24
+21298,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14250,14600,14500,25 Oct 2024,2024,Oct,25,2024-10-25
+21299,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14400,14600,14500,03 Nov 2024,2024,Nov,3,2024-11-03
+21300,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14400,14600,14500,11 Nov 2024,2024,Nov,11,2024-11-11
+21301,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14600,14550,29 Oct 2024,2024,Oct,29,2024-10-29
+21302,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14650,14550,04 Nov 2024,2024,Nov,4,2024-11-04
+21303,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14700,14600,05 Nov 2024,2024,Nov,5,2024-11-05
+21304,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14600,11 Oct 2024,2024,Oct,11,2024-10-11
+21305,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14600,12 Oct 2024,2024,Oct,12,2024-10-12
+21306,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14600,13 Oct 2024,2024,Oct,13,2024-10-13
+21307,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14650,17 Oct 2024,2024,Oct,17,2024-10-17
+21308,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14500,14800,14650,18 Oct 2024,2024,Oct,18,2024-10-18
+21309,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14550,14800,14600,19 Oct 2024,2024,Oct,19,2024-10-19
+21310,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14600,14900,14800,15 Oct 2024,2024,Oct,15,2024-10-15
+21311,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14650,15000,14800,16 Oct 2024,2024,Oct,16,2024-10-16
+21312,,Paschim Bardhaman,Durgapur,Mustard Oil,Other,FAQ,14800,15000,14900,14 Oct 2024,2024,Oct,14,2024-10-14
+21313,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12000,13000,12800,12 Jul 2024,2024,Jul,12,2024-07-12
+21314,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12500,13000,12800,05 Aug 2024,2024,Aug,5,2024-08-05
+21315,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12500,13200,12900,02 Jul 2024,2024,Jul,2,2024-07-02
+21316,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12500,13500,13200,01 Jul 2024,2024,Jul,1,2024-07-01
+21317,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,09 Jul 2024,2024,Jul,9,2024-07-09
+21318,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,14 Jul 2024,2024,Jul,14,2024-07-14
+21319,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,16 Jul 2024,2024,Jul,16,2024-07-16
+21320,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,18 Jul 2024,2024,Jul,18,2024-07-18
+21321,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,23 Jul 2024,2024,Jul,23,2024-07-23
+21322,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13100,13000,24 Jul 2024,2024,Jul,24,2024-07-24
+21323,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,04 Jul 2024,2024,Jul,4,2024-07-04
+21324,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,05 Jul 2024,2024,Jul,5,2024-07-05
+21325,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,08 Aug 2024,2024,Aug,8,2024-08-08
+21326,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,09 Aug 2024,2024,Aug,9,2024-08-09
+21327,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,12 Sep 2024,2024,Sep,12,2024-09-12
+21328,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,13 Jul 2024,2024,Jul,13,2024-07-13
+21329,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,15 Jul 2024,2024,Jul,15,2024-07-15
+21330,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13200,13000,17 Jul 2024,2024,Jul,17,2024-07-17
+21331,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12800,13800,13000,30 Aug 2024,2024,Aug,30,2024-08-30
+21332,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12900,13200,13000,04 Aug 2024,2024,Aug,4,2024-08-04
+21333,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12900,13200,13100,10 Jul 2024,2024,Jul,10,2024-07-10
+21334,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,12900,13400,13200,06 Sep 2024,2024,Sep,6,2024-09-06
+21335,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13300,13200,02 Aug 2024,2024,Aug,2,2024-08-02
+21336,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13350,13200,03 Aug 2024,2024,Aug,3,2024-08-03
+21337,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13400,13200,12 Aug 2024,2024,Aug,12,2024-08-12
+21338,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13450,13400,11 Sep 2024,2024,Sep,11,2024-09-11
+21339,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13000,13500,13200,29 Aug 2024,2024,Aug,29,2024-08-29
+21340,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13200,13400,13300,11 Aug 2024,2024,Aug,11,2024-08-11
+21341,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13200,13500,13300,10 Aug 2024,2024,Aug,10,2024-08-10
+21342,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13200,13500,13400,05 Sep 2024,2024,Sep,5,2024-09-05
+21343,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13500,14000,13800,17 Sep 2024,2024,Sep,17,2024-09-17
+21344,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13500,14000,13800,27 Aug 2024,2024,Aug,27,2024-08-27
+21345,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13500,14000,13800,28 Aug 2024,2024,Aug,28,2024-08-28
+21346,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13600,14400,14000,25 Oct 2024,2024,Oct,25,2024-10-25
+21347,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13800,14600,14200,03 Oct 2024,2024,Oct,3,2024-10-03
+21348,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,13900,14800,14400,20 Sep 2024,2024,Sep,20,2024-09-20
+21349,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,14800,14500,02 Oct 2024,2024,Oct,2,2024-10-02
+21350,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,14800,14500,26 Oct 2024,2024,Oct,26,2024-10-26
+21351,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,14800,14500,28 Oct 2024,2024,Oct,28,2024-10-28
+21352,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,14900,14400,19 Sep 2024,2024,Sep,19,2024-09-19
+21353,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,08 Nov 2024,2024,Nov,8,2024-11-08
+21354,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,16 Sep 2024,2024,Sep,16,2024-09-16
+21355,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Oct 2024,2024,Oct,18,2024-10-18
+21356,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,18 Sep 2024,2024,Sep,18,2024-09-18
+21357,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,23 Oct 2024,2024,Oct,23,2024-10-23
+21358,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,24 Oct 2024,2024,Oct,24,2024-10-24
+21359,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15000,14500,29 Oct 2024,2024,Oct,29,2024-10-29
+21360,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,15200,15000,30 Oct 2024,2024,Oct,30,2024-10-30
+21361,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14000,16800,14600,27 Oct 2024,2024,Oct,27,2024-10-27
+21362,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14200,15000,14600,11 Nov 2024,2024,Nov,11,2024-11-11
+21363,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14200,15200,14800,10 Nov 2024,2024,Nov,10,2024-11-10
+21364,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,14800,22 Oct 2024,2024,Oct,22,2024-10-22
+21365,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,09 Nov 2024,2024,Nov,9,2024-11-09
+21366,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,12 Nov 2024,2024,Nov,12,2024-11-12
+21367,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,13 Nov 2024,2024,Nov,13,2024-11-13
+21368,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,14 Nov 2024,2024,Nov,14,2024-11-14
+21369,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,15 Nov 2024,2024,Nov,15,2024-11-15
+21370,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,16 Nov 2024,2024,Nov,16,2024-11-16
+21371,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,17 Nov 2024,2024,Nov,17,2024-11-17
+21372,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,18 Nov 2024,2024,Nov,18,2024-11-18
+21373,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,20 Nov 2024,2024,Nov,20,2024-11-20
+21374,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15200,15000,21 Nov 2024,2024,Nov,21,2024-11-21
+21375,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,22 Nov 2024,2024,Nov,22,2024-11-22
+21376,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,23 Nov 2024,2024,Nov,23,2024-11-23
+21377,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,24 Nov 2024,2024,Nov,24,2024-11-24
+21378,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,25 Nov 2024,2024,Nov,25,2024-11-25
+21379,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,26 Nov 2024,2024,Nov,26,2024-11-26
+21380,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15400,15000,28 Nov 2024,2024,Nov,28,2024-11-28
+21381,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15500,15000,27 Nov 2024,2024,Nov,27,2024-11-27
+21382,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14500,15500,15000,29 Nov 2024,2024,Nov,29,2024-11-29
+21383,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,14800,15800,15200,03 Dec 2024,2024,Dec,3,2024-12-03
+21384,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,15000,16000,15600,02 Dec 2024,2024,Dec,2,2024-12-02
+21385,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,15000,16000,15700,21 Oct 2024,2024,Oct,21,2024-10-21
+21386,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,15000,16000,15800,20 Oct 2024,2024,Oct,20,2024-10-20
+21387,,Jhargram,Jhargram,Mustard Oil,Mustard Oil,FAQ,16000,16800,16500,19 Oct 2024,2024,Oct,19,2024-10-19
+21388,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,9300,9500,9400,15 Nov 2024,2024,Nov,15,2024-11-15
+21389,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,9400,9600,9500,12 Oct 2024,2024,Oct,12,2024-10-12
+21390,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,9400,9600,9500,24 Nov 2024,2024,Nov,24,2024-11-24
+21391,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,9400,9600,9500,29 Nov 2024,2024,Nov,29,2024-11-29
+21392,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,12600,12800,12700,12 Aug 2024,2024,Aug,12,2024-08-12
+21393,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,12600,12800,12700,13 Aug 2024,2024,Aug,13,2024-08-13
+21394,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13200,13400,13300,09 Aug 2024,2024,Aug,9,2024-08-09
+21395,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13200,13400,13300,11 Aug 2024,2024,Aug,11,2024-08-11
+21396,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13200,13500,13400,15 Aug 2024,2024,Aug,15,2024-08-15
+21397,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13300,13500,13400,18 Oct 2024,2024,Oct,18,2024-10-18
+21398,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,07 Jul 2024,2024,Jul,7,2024-07-07
+21399,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,17 Aug 2024,2024,Aug,17,2024-08-17
+21400,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,17 Oct 2024,2024,Oct,17,2024-10-17
+21401,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,18 Aug 2024,2024,Aug,18,2024-08-18
+21402,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,19 Oct 2024,2024,Oct,19,2024-10-19
+21403,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,20 Jul 2024,2024,Jul,20,2024-07-20
+21404,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,21 Aug 2024,2024,Aug,21,2024-08-21
+21405,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,21 Jul 2024,2024,Jul,21,2024-07-21
+21406,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,22 Aug 2024,2024,Aug,22,2024-08-22
+21407,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,22 Jul 2024,2024,Jul,22,2024-07-22
+21408,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,23 Aug 2024,2024,Aug,23,2024-08-23
+21409,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,24 Aug 2024,2024,Aug,24,2024-08-24
+21410,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,25 Aug 2024,2024,Aug,25,2024-08-25
+21411,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,27 Aug 2024,2024,Aug,27,2024-08-27
+21412,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,28 Aug 2024,2024,Aug,28,2024-08-28
+21413,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,28 Jul 2024,2024,Jul,28,2024-07-28
+21414,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,29 Jul 2024,2024,Jul,29,2024-07-29
+21415,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,30 Aug 2024,2024,Aug,30,2024-08-30
+21416,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13400,13600,13500,31 Aug 2024,2024,Aug,31,2024-08-31
+21417,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,08 Jul 2024,2024,Jul,8,2024-07-08
+21418,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,09 Jul 2024,2024,Jul,9,2024-07-09
+21419,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,10 Jul 2024,2024,Jul,10,2024-07-10
+21420,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,13 Jul 2024,2024,Jul,13,2024-07-13
+21421,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,14 Jul 2024,2024,Jul,14,2024-07-14
+21422,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,15 Jul 2024,2024,Jul,15,2024-07-15
+21423,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,17 Jul 2024,2024,Jul,17,2024-07-17
+21424,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,19 Jul 2024,2024,Jul,19,2024-07-19
+21425,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,24 Jul 2024,2024,Jul,24,2024-07-24
+21426,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,25 Jul 2024,2024,Jul,25,2024-07-25
+21427,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,26 Jul 2024,2024,Jul,26,2024-07-26
+21428,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,27 Jul 2024,2024,Jul,27,2024-07-27
+21429,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13500,13700,13600,29 Aug 2024,2024,Aug,29,2024-08-29
+21430,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13600,13800,13700,05 Jul 2024,2024,Jul,5,2024-07-05
+21431,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,13600,13800,13700,06 Jul 2024,2024,Jul,6,2024-07-06
+21432,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14300,14500,14400,11 Sep 2024,2024,Sep,11,2024-09-11
+21433,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14300,14500,14400,13 Oct 2024,2024,Oct,13,2024-10-13
+21434,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14300,14500,14400,13 Sep 2024,2024,Sep,13,2024-09-13
+21435,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14400,14600,14500,09 Sep 2024,2024,Sep,9,2024-09-09
+21436,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14400,14600,14500,10 Sep 2024,2024,Sep,10,2024-09-10
+21437,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14400,14600,14500,16 Sep 2024,2024,Sep,16,2024-09-16
+21438,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14600,14600,14 Sep 2024,2024,Sep,14,2024-09-14
+21439,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,15 Sep 2024,2024,Sep,15,2024-09-15
+21440,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,20 Sep 2024,2024,Sep,20,2024-09-20
+21441,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,21 Sep 2024,2024,Sep,21,2024-09-21
+21442,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,22 Sep 2024,2024,Sep,22,2024-09-22
+21443,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,27 Sep 2024,2024,Sep,27,2024-09-27
+21444,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,28 Sep 2024,2024,Sep,28,2024-09-28
+21445,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14700,14600,29 Sep 2024,2024,Sep,29,2024-09-29
+21446,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,14800,14600,26 Sep 2024,2024,Sep,26,2024-09-26
+21447,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14500,15000,14600,20 Oct 2024,2024,Oct,20,2024-10-20
+21448,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,14600,14800,14700,19 Sep 2024,2024,Sep,19,2024-09-19
+21449,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15400,15700,15600,10 Nov 2024,2024,Nov,10,2024-11-10
+21450,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15500,15700,15600,28 Oct 2024,2024,Oct,28,2024-10-28
+21451,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,09 Nov 2024,2024,Nov,9,2024-11-09
+21452,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,22 Oct 2024,2024,Oct,22,2024-10-22
+21453,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,25 Oct 2024,2024,Oct,25,2024-10-25
+21454,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,26 Oct 2024,2024,Oct,26,2024-10-26
+21455,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,27 Oct 2024,2024,Oct,27,2024-10-27
+21456,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,29 Oct 2024,2024,Oct,29,2024-10-29
+21457,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,30 Oct 2024,2024,Oct,30,2024-10-30
+21458,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15800,15700,31 Oct 2024,2024,Oct,31,2024-10-31
+21459,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,15900,15800,22 Nov 2024,2024,Nov,22,2024-11-22
+21460,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,16000,15700,11 Oct 2024,2024,Oct,11,2024-10-11
+21461,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15600,16000,15800,23 Oct 2024,2024,Oct,23,2024-10-23
+21462,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15700,16000,15800,28 Nov 2024,2024,Nov,28,2024-11-28
+21463,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,15800,16000,15900,24 Oct 2024,2024,Oct,24,2024-10-24
+21464,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16000,16200,16100,21 Nov 2024,2024,Nov,21,2024-11-21
+21465,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16100,16300,16200,20 Nov 2024,2024,Nov,20,2024-11-20
+21466,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,11 Nov 2024,2024,Nov,11,2024-11-11
+21467,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,13 Nov 2024,2024,Nov,13,2024-11-13
+21468,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,16 Nov 2024,2024,Nov,16,2024-11-16
+21469,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,18 Nov 2024,2024,Nov,18,2024-11-18
+21470,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16200,16400,16300,23 Nov 2024,2024,Nov,23,2024-11-23
+21471,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16300,16500,16400,14 Nov 2024,2024,Nov,14,2024-11-14
+21472,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16300,16500,16400,19 Nov 2024,2024,Nov,19,2024-11-19
+21473,,Puruliya,Kasipur,Mustard Oil,Other,FAQ,16300,16500,16400,25 Nov 2024,2024,Nov,25,2024-11-25
+21474,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,01 Jul 2024,2024,Jul,1,2024-07-01
+21475,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,02 Jul 2024,2024,Jul,2,2024-07-02
+21476,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,03 Jul 2024,2024,Jul,3,2024-07-03
+21477,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,04 Jul 2024,2024,Jul,4,2024-07-04
+21478,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,05 Jul 2024,2024,Jul,5,2024-07-05
+21479,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,06 Jul 2024,2024,Jul,6,2024-07-06
+21480,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,08 Jul 2024,2024,Jul,8,2024-07-08
+21481,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,09 Jul 2024,2024,Jul,9,2024-07-09
+21482,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,10 Jul 2024,2024,Jul,10,2024-07-10
+21483,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,11 Jul 2024,2024,Jul,11,2024-07-11
+21484,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,12 Jul 2024,2024,Jul,12,2024-07-12
+21485,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,13 Jul 2024,2024,Jul,13,2024-07-13
+21486,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,15 Jul 2024,2024,Jul,15,2024-07-15
+21487,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,16 Jul 2024,2024,Jul,16,2024-07-16
+21488,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12700,13100,12900,17 Jul 2024,2024,Jul,17,2024-07-17
+21489,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,01 Aug 2024,2024,Aug,1,2024-08-01
+21490,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,02 Aug 2024,2024,Aug,2,2024-08-02
+21491,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,03 Aug 2024,2024,Aug,3,2024-08-03
+21492,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,05 Aug 2024,2024,Aug,5,2024-08-05
+21493,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,06 Aug 2024,2024,Aug,6,2024-08-06
+21494,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,07 Aug 2024,2024,Aug,7,2024-08-07
+21495,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,18 Jul 2024,2024,Jul,18,2024-07-18
+21496,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,19 Jul 2024,2024,Jul,19,2024-07-19
+21497,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,20 Jul 2024,2024,Jul,20,2024-07-20
+21498,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,22 Jul 2024,2024,Jul,22,2024-07-22
+21499,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,23 Jul 2024,2024,Jul,23,2024-07-23
+21500,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,24 Jul 2024,2024,Jul,24,2024-07-24
+21501,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,25 Jul 2024,2024,Jul,25,2024-07-25
+21502,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,26 Jul 2024,2024,Jul,26,2024-07-26
+21503,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,30 Jul 2024,2024,Jul,30,2024-07-30
+21504,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13200,13000,31 Jul 2024,2024,Jul,31,2024-07-31
+21505,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13300,13100,22 Aug 2024,2024,Aug,22,2024-08-22
+21506,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13400,13200,27 Jul 2024,2024,Jul,27,2024-07-27
+21507,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12800,13400,13200,29 Jul 2024,2024,Jul,29,2024-07-29
+21508,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,02 Sep 2024,2024,Sep,2,2024-09-02
+21509,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,03 Sep 2024,2024,Sep,3,2024-09-03
+21510,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,08 Aug 2024,2024,Aug,8,2024-08-08
+21511,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,09 Aug 2024,2024,Aug,9,2024-08-09
+21512,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,10 Aug 2024,2024,Aug,10,2024-08-10
+21513,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,12 Aug 2024,2024,Aug,12,2024-08-12
+21514,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,13 Aug 2024,2024,Aug,13,2024-08-13
+21515,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,14 Aug 2024,2024,Aug,14,2024-08-14
+21516,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,15 Aug 2024,2024,Aug,15,2024-08-15
+21517,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,16 Aug 2024,2024,Aug,16,2024-08-16
+21518,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,17 Aug 2024,2024,Aug,17,2024-08-17
+21519,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,19 Aug 2024,2024,Aug,19,2024-08-19
+21520,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,20 Aug 2024,2024,Aug,20,2024-08-20
+21521,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,21 Aug 2024,2024,Aug,21,2024-08-21
+21522,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,23 Aug 2024,2024,Aug,23,2024-08-23
+21523,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,24 Aug 2024,2024,Aug,24,2024-08-24
+21524,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,26 Aug 2024,2024,Aug,26,2024-08-26
+21525,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,27 Aug 2024,2024,Aug,27,2024-08-27
+21526,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,28 Aug 2024,2024,Aug,28,2024-08-28
+21527,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,29 Aug 2024,2024,Aug,29,2024-08-29
+21528,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,30 Aug 2024,2024,Aug,30,2024-08-30
+21529,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,12900,13300,13100,31 Aug 2024,2024,Aug,31,2024-08-31
+21530,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,04 Sep 2024,2024,Sep,4,2024-09-04
+21531,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,05 Sep 2024,2024,Sep,5,2024-09-05
+21532,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,06 Sep 2024,2024,Sep,6,2024-09-06
+21533,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,07 Sep 2024,2024,Sep,7,2024-09-07
+21534,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,09 Sep 2024,2024,Sep,9,2024-09-09
+21535,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,10 Sep 2024,2024,Sep,10,2024-09-10
+21536,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,11 Sep 2024,2024,Sep,11,2024-09-11
+21537,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,12 Sep 2024,2024,Sep,12,2024-09-12
+21538,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,13 Sep 2024,2024,Sep,13,2024-09-13
+21539,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,14 Sep 2024,2024,Sep,14,2024-09-14
+21540,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,16 Sep 2024,2024,Sep,16,2024-09-16
+21541,,Purba Bardhaman,Katwa,Mustard Oil,Other,FAQ,13000,13400,13200,17 Sep 2024,2024,Sep,17,2024-09-17
+21542,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13480,13600,13520,05 Aug 2024,2024,Aug,5,2024-08-05
+21543,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13550,13700,13630,11 Jul 2024,2024,Jul,11,2024-07-11
+21544,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13550,13700,13630,21 Jul 2024,2024,Jul,21,2024-07-21
+21545,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13560,13720,13630,19 Jul 2024,2024,Jul,19,2024-07-19
+21546,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13580,13660,13660,02 Jul 2024,2024,Jul,2,2024-07-02
+21547,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13580,13740,13660,15 Jul 2024,2024,Jul,15,2024-07-15
+21548,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,03 Sep 2024,2024,Sep,3,2024-09-03
+21549,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,16 Jul 2024,2024,Jul,16,2024-07-16
+21550,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,23 Jul 2024,2024,Jul,23,2024-07-23
+21551,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,24 Jul 2024,2024,Jul,24,2024-07-24
+21552,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13750,13680,29 Aug 2024,2024,Aug,29,2024-08-29
+21553,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13760,13680,12 Jul 2024,2024,Jul,12,2024-07-12
+21554,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13760,13680,30 Aug 2024,2024,Aug,30,2024-08-30
+21555,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13760,13700,27 Aug 2024,2024,Aug,27,2024-08-27
+21556,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13770,13680,01 Aug 2024,2024,Aug,1,2024-08-01
+21557,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13780,13700,26 Jul 2024,2024,Jul,26,2024-07-26
+21558,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13600,13780,13700,29 Jul 2024,2024,Jul,29,2024-07-29
+21559,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13630,13800,13700,01 Jul 2024,2024,Jul,1,2024-07-01
+21560,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13720,07 Jul 2024,2024,Jul,7,2024-07-07
+21561,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,10 Jul 2024,2024,Jul,10,2024-07-10
+21562,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,20 Aug 2024,2024,Aug,20,2024-08-20
+21563,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,20 Jul 2024,2024,Jul,20,2024-07-20
+21564,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,22 Jul 2024,2024,Jul,22,2024-07-22
+21565,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13730,31 Jul 2024,2024,Jul,31,2024-07-31
+21566,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13650,13800,13800,04 Aug 2024,2024,Aug,4,2024-08-04
+21567,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13800,13660,31 Aug 2024,2024,Aug,31,2024-08-31
+21568,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13800,13740,03 Jul 2024,2024,Jul,3,2024-07-03
+21569,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13800,13740,07 Aug 2024,2024,Aug,7,2024-08-07
+21570,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,01 Sep 2024,2024,Sep,1,2024-09-01
+21571,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,05 Jul 2024,2024,Jul,5,2024-07-05
+21572,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,06 Aug 2024,2024,Aug,6,2024-08-06
+21573,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,15 Aug 2024,2024,Aug,15,2024-08-15
+21574,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,28 Jul 2024,2024,Jul,28,2024-07-28
+21575,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13820,13740,30 Jul 2024,2024,Jul,30,2024-07-30
+21576,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13830,13740,02 Aug 2024,2024,Aug,2,2024-08-02
+21577,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,13880,13800,06 Jul 2024,2024,Jul,6,2024-07-06
+21578,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13660,23830,13750,04 Jul 2024,2024,Jul,4,2024-07-04
+21579,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13670,13820,13750,25 Jul 2024,2024,Jul,25,2024-07-25
+21580,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13680,13840,13760,14 Aug 2024,2024,Aug,14,2024-08-14
+21581,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13690,13850,13770,13 Aug 2024,2024,Aug,13,2024-08-13
+21582,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13690,13850,13770,17 Aug 2024,2024,Aug,17,2024-08-17
+21583,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13690,13850,13770,19 Aug 2024,2024,Aug,19,2024-08-19
+21584,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13800,13700,27 Jul 2024,2024,Jul,27,2024-07-27
+21585,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13850,13780,08 Jul 2024,2024,Jul,8,2024-07-08
+21586,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13850,13780,24 Aug 2024,2024,Aug,24,2024-08-24
+21587,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13860,13780,13 Jul 2024,2024,Jul,13,2024-07-13
+21588,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13700,13870,13780,28 Aug 2024,2024,Aug,28,2024-08-28
+21589,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13720,13880,13800,12 Aug 2024,2024,Aug,12,2024-08-12
+21590,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13730,13800,13800,25 Aug 2024,2024,Aug,25,2024-08-25
+21591,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13730,13880,13800,21 Aug 2024,2024,Aug,21,2024-08-21
+21592,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13730,13880,13800,23 Aug 2024,2024,Aug,23,2024-08-23
+21593,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13730,13900,13800,26 Aug 2024,2024,Aug,26,2024-08-26
+21594,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13740,13900,13820,16 Aug 2024,2024,Aug,16,2024-08-16
+21595,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13740,13900,13820,18 Aug 2024,2024,Aug,18,2024-08-18
+21596,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13740,13900,13820,22 Aug 2024,2024,Aug,22,2024-08-22
+21597,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,13760,13900,13840,11 Aug 2024,2024,Aug,11,2024-08-11
+21598,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14200,14380,14300,06 Sep 2024,2024,Sep,6,2024-09-06
+21599,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14220,14300,14300,07 Sep 2024,2024,Sep,7,2024-09-07
+21600,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14220,14360,14300,04 Sep 2024,2024,Sep,4,2024-09-04
+21601,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14220,14380,14300,05 Sep 2024,2024,Sep,5,2024-09-05
+21602,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14220,14400,14300,08 Sep 2024,2024,Sep,8,2024-09-08
+21603,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14300,14450,14380,09 Sep 2024,2024,Sep,9,2024-09-09
+21604,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14700,14600,10 Sep 2024,2024,Sep,10,2024-09-10
+21605,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14760,14680,12 Sep 2024,2024,Sep,12,2024-09-12
+21606,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14760,14680,13 Sep 2024,2024,Sep,13,2024-09-13
+21607,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14770,14700,22 Sep 2024,2024,Sep,22,2024-09-22
+21608,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14600,14780,14700,20 Sep 2024,2024,Sep,20,2024-09-20
+21609,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14640,14800,14720,19 Sep 2024,2024,Sep,19,2024-09-19
+21610,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14660,14820,14740,11 Sep 2024,2024,Sep,11,2024-09-11
+21611,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14660,14820,14740,17 Sep 2024,2024,Sep,17,2024-09-17
+21612,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14660,14820,14740,18 Sep 2024,2024,Sep,18,2024-09-18
+21613,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14730,14800,14800,14 Sep 2024,2024,Sep,14,2024-09-14
+21614,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14730,14800,14800,16 Sep 2024,2024,Sep,16,2024-09-16
+21615,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14730,14900,14800,15 Sep 2024,2024,Sep,15,2024-09-15
+21616,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,14730,14900,14800,23 Sep 2024,2024,Sep,23,2024-09-23
+21617,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15500,15650,15500,30 Nov 2024,2024,Nov,30,2024-11-30
+21618,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15550,15700,15630,03 Dec 2024,2024,Dec,3,2024-12-03
+21619,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15600,15750,15600,22 Nov 2024,2024,Nov,22,2024-11-22
+21620,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15600,15750,15680,27 Nov 2024,2024,Nov,27,2024-11-27
+21621,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15600,15770,15700,28 Nov 2024,2024,Nov,28,2024-11-28
+21622,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15660,15740,15740,23 Nov 2024,2024,Nov,23,2024-11-23
+21623,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15660,15800,15660,29 Nov 2024,2024,Nov,29,2024-11-29
+21624,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15660,15820,15740,25 Nov 2024,2024,Nov,25,2024-11-25
+21625,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15680,15830,15750,02 Dec 2024,2024,Dec,2,2024-12-02
+21626,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,15740,15820,15740,01 Dec 2024,2024,Dec,1,2024-12-01
+21627,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16220,16000,09 Nov 2024,2024,Nov,9,2024-11-09
+21628,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16230,16150,01 Nov 2024,2024,Nov,1,2024-11-01
+21629,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16240,16000,07 Nov 2024,2024,Nov,7,2024-11-07
+21630,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16160,06 Nov 2024,2024,Nov,6,2024-11-06
+21631,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16160,27 Oct 2024,2024,Oct,27,2024-10-27
+21632,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16220,05 Nov 2024,2024,Nov,5,2024-11-05
+21633,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16220,10 Nov 2024,2024,Nov,10,2024-11-10
+21634,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16220,25 Sep 2024,2024,Sep,25,2024-09-25
+21635,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16230,24 Sep 2024,2024,Sep,24,2024-09-24
+21636,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16000,16300,16260,24 Oct 2024,2024,Oct,24,2024-10-24
+21637,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16120,16300,16200,29 Oct 2024,2024,Oct,29,2024-10-29
+21638,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16120,16360,16200,20 Oct 2024,2024,Oct,20,2024-10-20
+21639,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16120,16360,16200,21 Oct 2024,2024,Oct,21,2024-10-21
+21640,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16120,16360,16200,28 Oct 2024,2024,Oct,28,2024-10-28
+21641,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16140,16400,16300,19 Oct 2024,2024,Oct,19,2024-10-19
+21642,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16180,16350,16260,04 Nov 2024,2024,Nov,4,2024-11-04
+21643,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16200,16350,16200,08 Nov 2024,2024,Nov,8,2024-11-08
+21644,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16300,16220,03 Nov 2024,2024,Nov,3,2024-11-03
+21645,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16300,16300,21 Nov 2024,2024,Nov,21,2024-11-21
+21646,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16370,16220,06 Oct 2024,2024,Oct,6,2024-10-06
+21647,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16380,16300,02 Nov 2024,2024,Nov,2,2024-11-02
+21648,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16380,16300,26 Sep 2024,2024,Sep,26,2024-09-26
+21649,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16400,16300,11 Oct 2024,2024,Oct,11,2024-10-11
+21650,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16400,16300,23 Oct 2024,2024,Oct,23,2024-10-23
+21651,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16400,16300,30 Oct 2024,2024,Oct,30,2024-10-30
+21652,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16220,16460,16300,05 Oct 2024,2024,Oct,5,2024-10-05
+21653,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16240,16400,16320,11 Nov 2024,2024,Nov,11,2024-11-11
+21654,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16250,16400,16330,07 Oct 2024,2024,Oct,7,2024-10-07
+21655,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16300,16450,16380,25 Oct 2024,2024,Oct,25,2024-10-25
+21656,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16300,16460,16380,04 Oct 2024,2024,Oct,4,2024-10-04
+21657,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16300,16480,16400,28 Sep 2024,2024,Sep,28,2024-09-28
+21658,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16300,16500,16400,03 Oct 2024,2024,Oct,3,2024-10-03
+21659,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16400,16400,20 Nov 2024,2024,Nov,20,2024-11-20
+21660,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16400,16400,27 Sep 2024,2024,Sep,27,2024-09-27
+21661,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16400,16400,29 Sep 2024,2024,Sep,29,2024-09-29
+21662,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16410,16330,13 Nov 2024,2024,Nov,13,2024-11-13
+21663,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16480,16400,19 Nov 2024,2024,Nov,19,2024-11-19
+21664,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16480,16410,09 Oct 2024,2024,Oct,9,2024-10-09
+21665,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16480,16410,12 Nov 2024,2024,Nov,12,2024-11-12
+21666,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16480,16480,10 Oct 2024,2024,Oct,10,2024-10-10
+21667,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16500,16400,01 Oct 2024,2024,Oct,1,2024-10-01
+21668,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16500,16400,14 Nov 2024,2024,Nov,14,2024-11-14
+21669,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16500,16400,30 Sep 2024,2024,Sep,30,2024-09-30
+21670,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16330,16540,16400,17 Oct 2024,2024,Oct,17,2024-10-17
+21671,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16380,16540,16460,22 Oct 2024,2024,Oct,22,2024-10-22
+21672,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16400,16500,16400,08 Oct 2024,2024,Oct,8,2024-10-08
+21673,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16400,26540,16480,02 Oct 2024,2024,Oct,2,2024-10-02
+21674,,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,16420,16660,16500,18 Oct 2024,2024,Oct,18,2024-10-18
+21675,,Birbhum,Sainthia,Mustard Oil,Mustard Oil,FAQ,4300,4500,4400,15 Nov 2024,2024,Nov,15,2024-11-15

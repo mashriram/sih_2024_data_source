@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,South West Garo Hills,Garobadha,Rice,Other,FAQ,1900,2000,1950,01 Nov 2016,2016,Nov,1,2016-11-01
 1,1.0,South West Garo Hills,Garobadha,Rice,Other,FAQ,1900,2000,1950,04 Oct 2016,2016,Oct,4,2016-10-04
 2,2.0,South West Garo Hills,Garobadha,Rice,Other,FAQ,1900,2000,1950,08 Nov 2016,2016,Nov,8,2016-11-08
@@ -1692,12 +1692,12 @@
 1690,1690.0,West Jaintia Hills,Wahiajer,Rice,Other,FAQ,3000,4200,3500,24 Mar 2018,2018,Mar,24,2018-03-24
 1691,1691.0,West Jaintia Hills,Wahiajer,Rice,Other,FAQ,3000,4200,3500,25 Nov 2017,2017,Nov,25,2017-11-25
 1692,1692.0,West Jaintia Hills,Wahiajer,Rice,Other,FAQ,3000,4200,3500,26 Apr 2018,2018,Apr,26,2018-04-26
-1693,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-1694,,West Jaintia Hills,Wahiajer,Rice,Other,Local,5500,6500,6000,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-1695,,East Jaintia Hills,Khliehriat,Rice,Other,Local,5000,7000,6000,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-1696,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-1697,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-1698,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-1699,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-1700,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-1701,,East Jaintia Hills,Khliehriat,Rice,Other,Local,5000,7000,6000,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
+1693,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,08 Oct 2024,2024,Oct,8,2024-10-08
+1694,,West Jaintia Hills,Wahiajer,Rice,Other,Local,5500,6500,6000,21 Nov 2024,2024,Nov,21,2024-11-21
+1695,,East Jaintia Hills,Khliehriat,Rice,Other,Local,5000,7000,6000,03 Dec 2024,2024,Dec,3,2024-12-03
+1696,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,16 Oct 2024,2024,Oct,16,2024-10-16
+1697,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,16 Nov 2024,2024,Nov,16,2024-11-16
+1698,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,24 Oct 2024,2024,Oct,24,2024-10-24
+1699,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,01 Nov 2024,2024,Nov,1,2024-11-01
+1700,,East Jaintia Hills,Khliehriat,Rice,Other,Local,6000,8000,7000,09 Nov 2024,2024,Nov,9,2024-11-09
+1701,,East Jaintia Hills,Khliehriat,Rice,Other,Local,5000,7000,6000,25 Nov 2024,2024,Nov,25,2024-11-25

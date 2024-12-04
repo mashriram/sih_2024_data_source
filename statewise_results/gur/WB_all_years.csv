@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,2700,3100,2900,03 Feb 2021,2021,Feb,3,2021-02-03
 1,1.0,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,2700,3100,2900,17 Feb 2021,2021,Feb,17,2021-02-17
 2,2.0,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,2700,3100,2900,18 Feb 2021,2021,Feb,18,2021-02-18
@@ -8289,266 +8289,266 @@
 8287,8287.0,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3400,3550,3500,07 Nov 2017,2017,Nov,7,2017-11-07
 8288,8288.0,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3400,3600,3500,12 Nov 2017,2017,Nov,12,2017-11-12
 8289,8289.0,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3450,3500,3500,06 Oct 2017,2017,Oct,6,2017-10-06
-8290,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3700,4200,4000,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-8291,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4100,4000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-8292,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-8293,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-8294,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-8295,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-8296,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-8297,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-8298,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-8299,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-8300,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-8301,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-8302,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-8303,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-8304,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-8305,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-8306,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-8307,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-8308,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-8309,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4300,4100,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-8310,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4300,4100,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-8311,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3900,4200,4100,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-8312,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4200,4000,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-8313,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-8314,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-8315,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-8316,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-8317,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-8318,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-8319,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-8320,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-8321,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-8322,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-8323,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-8324,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-8325,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-8326,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-8327,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-8328,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-8329,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-8330,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-8331,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-8332,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-8333,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-8334,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-8335,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-8336,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-8337,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-8338,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-8339,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-8340,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-8341,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-8342,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-8343,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-8344,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-8345,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-8346,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-8347,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-8348,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-8349,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-8350,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-8351,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-8352,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-8353,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-8354,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-8355,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-8356,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-8357,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-8358,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-8359,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-8360,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-8361,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-8362,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-8363,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-8364,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-8365,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-8366,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-8367,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-8368,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-8369,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-8370,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-8371,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-8372,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-8373,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-8374,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-8375,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-8376,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-8377,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-8378,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-8379,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-8380,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-8381,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-8382,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-8383,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-8384,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-8385,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-8386,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-8387,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-8388,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-8389,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-8390,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-8391,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-8392,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-8393,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-8394,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-8395,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-8396,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-8397,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-8398,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-8399,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-8400,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-8401,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-8402,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-8403,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-8404,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-8405,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-8406,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-8407,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-8408,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-8409,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-8410,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-8411,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,24 Nov 2024,2024,Nov,24,2024-11-24 00:00:00
-8412,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-8413,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-8414,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-8415,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-8416,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-8417,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-8418,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-8419,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-8420,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3250,3440,3325,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-8421,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3350,3450,3400,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-8422,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3350,3475,3400,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-8423,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3350,3480,3430,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-8424,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3350,3500,3440,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-8425,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3375,3500,3440,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-8426,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3375,3500,3440,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-8427,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3375,3500,3450,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-8428,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3375,3500,3450,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-8429,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3380,3500,3430,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-8430,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3380,3500,3430,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-8431,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3380,3500,3450,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-8432,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3400,3500,3440,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-8433,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3400,3520,3460,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-8434,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3440,3550,3500,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-8435,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3450,3575,3500,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-8436,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3450,3600,3525,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-8437,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3475,3600,3525,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-8438,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3600,3550,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-8439,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3625,3570,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-8440,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3625,3570,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-8441,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3650,3570,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-8442,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3650,3575,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-8443,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3700,3600,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-8444,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3700,3600,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-8445,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3700,3600,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-8446,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3700,3600,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-8447,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3725,3600,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-8448,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3730,3650,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-8449,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3530,3700,3625,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-8450,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3540,3700,3600,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-8451,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3725,3630,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-8452,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3740,3600,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-8453,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3740,3650,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-8454,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3750,3625,08 Sep 2024,2024,Sep,08,2024-09-08 00:00:00
-8455,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3750,3675,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-8456,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3560,3700,3600,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-8457,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3560,3740,3650,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-8458,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3560,3750,3650,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-8459,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3560,3750,3650,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-8460,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3650,3600,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-8461,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3730,3625,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-8462,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3750,3625,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-8463,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3750,3650,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-8464,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3760,3650,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-8465,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3770,3650,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-8466,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3800,3650,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-8467,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3580,3700,3640,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-8468,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3580,3730,3650,06 Oct 2024,2024,Oct,06,2024-10-06 00:00:00
-8469,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3580,3750,3650,01 Sep 2024,2024,Sep,01,2024-09-01 00:00:00
-8470,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3580,3750,3650,31 Aug 2024,2024,Aug,31,2024-08-31 00:00:00
-8471,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3650,3650,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-8472,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3700,3650,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-8473,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3700,3675,28 Jul 2024,2024,Jul,28,2024-07-28 00:00:00
-8474,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3725,3675,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-8475,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3730,3650,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-8476,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-8477,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-8478,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-8479,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-8480,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-8481,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-8482,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3700,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-8483,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3700,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-8484,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3700,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-8485,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3775,3700,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-8486,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3780,3660,15 Aug 2024,2024,Aug,15,2024-08-15 00:00:00
-8487,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3600,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-8488,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-8489,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-8490,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-8491,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-8492,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,25 Aug 2024,2024,Aug,25,2024-08-25 00:00:00
-8493,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3620,3750,3700,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-8494,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3625,3750,3700,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-8495,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3625,3770,3700,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-8496,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3625,3775,3700,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-8497,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3625,3800,3700,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-8498,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3630,3800,3700,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-8499,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3630,3820,3700,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-8500,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3640,3800,3725,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-8501,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3700,3700,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-8502,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3740,3700,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-8503,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3775,3700,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-8504,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3775,3750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-8505,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-8506,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-8507,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-8508,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-8509,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-8510,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-8511,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-8512,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,18 Aug 2024,2024,Aug,18,2024-08-18 00:00:00
-8513,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,29 Sep 2024,2024,Sep,29,2024-09-29 00:00:00
-8514,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3725,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-8515,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3725,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-8516,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3725,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-8517,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3730,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-8518,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3760,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-8519,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3660,3800,3750,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-8520,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3660,3800,3750,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-8521,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3670,3820,3750,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-8522,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3750,3725,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-8523,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3800,3725,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-8524,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3820,3740,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-8525,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3825,3750,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-8526,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3840,3750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-8527,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3680,3800,3730,10 Nov 2024,2024,Nov,10,2024-11-10 00:00:00
-8528,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3680,3800,3750,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-8529,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3800,3700,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-8530,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3800,3725,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-8531,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3800,3750,27 Oct 2024,2024,Oct,27,2024-10-27 00:00:00
-8532,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3800,3800,03 Nov 2024,2024,Nov,03,2024-11-03 00:00:00
-8533,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3820,3750,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-8534,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3820,3770,01 Dec 2024,2024,Dec,01,2024-12-01 00:00:00
-8535,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3825,3750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-8536,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3825,3750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-8537,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3825,3760,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-8538,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3825,3775,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-8539,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3830,3750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-8540,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3830,3760,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-8541,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3840,3750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-8542,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3750,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-8543,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3757,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-8544,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3770,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-8545,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3775,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-8546,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3775,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-8547,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3780,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-8548,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3800,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-8549,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3720,3825,3775,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-8550,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3720,3850,3800,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-8551,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3720,3860,3800,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-8552,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3730,3850,3800,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
+8290,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3700,4200,4000,26 Nov 2024,2024,Nov,26,2024-11-26
+8291,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4100,4000,09 Jul 2024,2024,Jul,9,2024-07-09
+8292,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,01 Jul 2024,2024,Jul,1,2024-07-01
+8293,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,02 Jul 2024,2024,Jul,2,2024-07-02
+8294,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,03 Jul 2024,2024,Jul,3,2024-07-03
+8295,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,04 Jul 2024,2024,Jul,4,2024-07-04
+8296,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,05 Jul 2024,2024,Jul,5,2024-07-05
+8297,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,08 Jul 2024,2024,Jul,8,2024-07-08
+8298,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,10 Jul 2024,2024,Jul,10,2024-07-10
+8299,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,11 Jul 2024,2024,Jul,11,2024-07-11
+8300,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,12 Jul 2024,2024,Jul,12,2024-07-12
+8301,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,13 Jul 2024,2024,Jul,13,2024-07-13
+8302,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,14 Jul 2024,2024,Jul,14,2024-07-14
+8303,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,15 Jul 2024,2024,Jul,15,2024-07-15
+8304,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,17 Jul 2024,2024,Jul,17,2024-07-17
+8305,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,18 Aug 2024,2024,Aug,18,2024-08-18
+8306,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,19 Aug 2024,2024,Aug,19,2024-08-19
+8307,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,22 Aug 2024,2024,Aug,22,2024-08-22
+8308,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4200,4000,29 Aug 2024,2024,Aug,29,2024-08-29
+8309,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4300,4100,06 Aug 2024,2024,Aug,6,2024-08-06
+8310,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3800,4300,4100,19 Jul 2024,2024,Jul,19,2024-07-19
+8311,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,3900,4200,4100,24 Jul 2024,2024,Jul,24,2024-07-24
+8312,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4200,4000,02 Sep 2024,2024,Sep,2,2024-09-02
+8313,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,01 Aug 2024,2024,Aug,1,2024-08-01
+8314,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,07 Aug 2024,2024,Aug,7,2024-08-07
+8315,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,20 Jul 2024,2024,Jul,20,2024-07-20
+8316,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,21 Jul 2024,2024,Jul,21,2024-07-21
+8317,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,22 Jul 2024,2024,Jul,22,2024-07-22
+8318,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,29 Jul 2024,2024,Jul,29,2024-07-29
+8319,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4100,30 Jul 2024,2024,Jul,30,2024-07-30
+8320,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,01 Dec 2024,2024,Dec,1,2024-12-01
+8321,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,01 Nov 2024,2024,Nov,1,2024-11-01
+8322,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,01 Oct 2024,2024,Oct,1,2024-10-01
+8323,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,01 Sep 2024,2024,Sep,1,2024-09-01
+8324,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,02 Aug 2024,2024,Aug,2,2024-08-02
+8325,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,02 Nov 2024,2024,Nov,2,2024-11-02
+8326,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,02 Oct 2024,2024,Oct,2,2024-10-02
+8327,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,03 Aug 2024,2024,Aug,3,2024-08-03
+8328,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,03 Oct 2024,2024,Oct,3,2024-10-03
+8329,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,03 Sep 2024,2024,Sep,3,2024-09-03
+8330,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,04 Aug 2024,2024,Aug,4,2024-08-04
+8331,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,04 Nov 2024,2024,Nov,4,2024-11-04
+8332,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,04 Sep 2024,2024,Sep,4,2024-09-04
+8333,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,05 Aug 2024,2024,Aug,5,2024-08-05
+8334,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,05 Nov 2024,2024,Nov,5,2024-11-05
+8335,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,05 Oct 2024,2024,Oct,5,2024-10-05
+8336,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,05 Sep 2024,2024,Sep,5,2024-09-05
+8337,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,06 Oct 2024,2024,Oct,6,2024-10-06
+8338,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,06 Sep 2024,2024,Sep,6,2024-09-06
+8339,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,07 Nov 2024,2024,Nov,7,2024-11-07
+8340,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,07 Oct 2024,2024,Oct,7,2024-10-07
+8341,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,07 Sep 2024,2024,Sep,7,2024-09-07
+8342,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,08 Aug 2024,2024,Aug,8,2024-08-08
+8343,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,08 Nov 2024,2024,Nov,8,2024-11-08
+8344,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,08 Oct 2024,2024,Oct,8,2024-10-08
+8345,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,08 Sep 2024,2024,Sep,8,2024-09-08
+8346,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,09 Nov 2024,2024,Nov,9,2024-11-09
+8347,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,09 Oct 2024,2024,Oct,9,2024-10-09
+8348,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,09 Sep 2024,2024,Sep,9,2024-09-09
+8349,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,10 Aug 2024,2024,Aug,10,2024-08-10
+8350,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,10 Oct 2024,2024,Oct,10,2024-10-10
+8351,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,10 Sep 2024,2024,Sep,10,2024-09-10
+8352,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,11 Sep 2024,2024,Sep,11,2024-09-11
+8353,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,12 Aug 2024,2024,Aug,12,2024-08-12
+8354,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,12 Nov 2024,2024,Nov,12,2024-11-12
+8355,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,12 Sep 2024,2024,Sep,12,2024-09-12
+8356,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,13 Aug 2024,2024,Aug,13,2024-08-13
+8357,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,13 Oct 2024,2024,Oct,13,2024-10-13
+8358,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,14 Oct 2024,2024,Oct,14,2024-10-14
+8359,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,15 Oct 2024,2024,Oct,15,2024-10-15
+8360,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,15 Sep 2024,2024,Sep,15,2024-09-15
+8361,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,16 Aug 2024,2024,Aug,16,2024-08-16
+8362,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,16 Jul 2024,2024,Jul,16,2024-07-16
+8363,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,16 Oct 2024,2024,Oct,16,2024-10-16
+8364,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,16 Sep 2024,2024,Sep,16,2024-09-16
+8365,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,17 Aug 2024,2024,Aug,17,2024-08-17
+8366,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,17 Sep 2024,2024,Sep,17,2024-09-17
+8367,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,18 Nov 2024,2024,Nov,18,2024-11-18
+8368,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,18 Oct 2024,2024,Oct,18,2024-10-18
+8369,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,18 Sep 2024,2024,Sep,18,2024-09-18
+8370,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,19 Nov 2024,2024,Nov,19,2024-11-19
+8371,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,19 Oct 2024,2024,Oct,19,2024-10-19
+8372,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,19 Sep 2024,2024,Sep,19,2024-09-19
+8373,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,20 Aug 2024,2024,Aug,20,2024-08-20
+8374,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,20 Nov 2024,2024,Nov,20,2024-11-20
+8375,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,20 Oct 2024,2024,Oct,20,2024-10-20
+8376,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,20 Sep 2024,2024,Sep,20,2024-09-20
+8377,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,21 Nov 2024,2024,Nov,21,2024-11-21
+8378,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,21 Oct 2024,2024,Oct,21,2024-10-21
+8379,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,22 Nov 2024,2024,Nov,22,2024-11-22
+8380,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,22 Oct 2024,2024,Oct,22,2024-10-22
+8381,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,22 Sep 2024,2024,Sep,22,2024-09-22
+8382,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,23 Aug 2024,2024,Aug,23,2024-08-23
+8383,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,23 Jul 2024,2024,Jul,23,2024-07-23
+8384,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,23 Sep 2024,2024,Sep,23,2024-09-23
+8385,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,24 Oct 2024,2024,Oct,24,2024-10-24
+8386,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,24 Sep 2024,2024,Sep,24,2024-09-24
+8387,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,25 Aug 2024,2024,Aug,25,2024-08-25
+8388,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,25 Jul 2024,2024,Jul,25,2024-07-25
+8389,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,25 Nov 2024,2024,Nov,25,2024-11-25
+8390,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,25 Oct 2024,2024,Oct,25,2024-10-25
+8391,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,26 Aug 2024,2024,Aug,26,2024-08-26
+8392,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,26 Jul 2024,2024,Jul,26,2024-07-26
+8393,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,26 Sep 2024,2024,Sep,26,2024-09-26
+8394,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Aug 2024,2024,Aug,27,2024-08-27
+8395,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Jul 2024,2024,Jul,27,2024-07-27
+8396,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Nov 2024,2024,Nov,27,2024-11-27
+8397,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Oct 2024,2024,Oct,27,2024-10-27
+8398,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,27 Sep 2024,2024,Sep,27,2024-09-27
+8399,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,28 Aug 2024,2024,Aug,28,2024-08-28
+8400,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,28 Jul 2024,2024,Jul,28,2024-07-28
+8401,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,28 Nov 2024,2024,Nov,28,2024-11-28
+8402,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,29 Nov 2024,2024,Nov,29,2024-11-29
+8403,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,29 Oct 2024,2024,Oct,29,2024-10-29
+8404,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,30 Aug 2024,2024,Aug,30,2024-08-30
+8405,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,30 Nov 2024,2024,Nov,30,2024-11-30
+8406,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,30 Oct 2024,2024,Oct,30,2024-10-30
+8407,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4300,4200,30 Sep 2024,2024,Sep,30,2024-09-30
+8408,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,10 Nov 2024,2024,Nov,10,2024-11-10
+8409,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,11 Aug 2024,2024,Aug,11,2024-08-11
+8410,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,21 Aug 2024,2024,Aug,21,2024-08-21
+8411,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,24 Nov 2024,2024,Nov,24,2024-11-24
+8412,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4400,4200,29 Sep 2024,2024,Sep,29,2024-09-29
+8413,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,02 Dec 2024,2024,Dec,2,2024-12-02
+8414,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,03 Dec 2024,2024,Dec,3,2024-12-03
+8415,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,11 Nov 2024,2024,Nov,11,2024-11-11
+8416,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,13 Sep 2024,2024,Sep,13,2024-09-13
+8417,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,21 Sep 2024,2024,Sep,21,2024-09-21
+8418,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,24 Aug 2024,2024,Aug,24,2024-08-24
+8419,,Purba Bardhaman,Burdwan,Gur(Jaggery),Other,FAQ,4000,4500,4200,28 Oct 2024,2024,Oct,28,2024-10-28
+8420,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3250,3440,3325,05 Jul 2024,2024,Jul,5,2024-07-05
+8421,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3350,3450,3400,11 Jul 2024,2024,Jul,11,2024-07-11
+8422,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3350,3475,3400,13 Jul 2024,2024,Jul,13,2024-07-13
+8423,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3350,3480,3430,08 Jul 2024,2024,Jul,8,2024-07-08
+8424,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3350,3500,3440,15 Jul 2024,2024,Jul,15,2024-07-15
+8425,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3375,3500,3440,16 Jul 2024,2024,Jul,16,2024-07-16
+8426,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3375,3500,3440,20 Jul 2024,2024,Jul,20,2024-07-20
+8427,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3375,3500,3450,12 Jul 2024,2024,Jul,12,2024-07-12
+8428,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3375,3500,3450,22 Jul 2024,2024,Jul,22,2024-07-22
+8429,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3380,3500,3430,07 Jul 2024,2024,Jul,7,2024-07-07
+8430,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3380,3500,3430,19 Jul 2024,2024,Jul,19,2024-07-19
+8431,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3380,3500,3450,06 Jul 2024,2024,Jul,6,2024-07-06
+8432,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3400,3500,3440,10 Jul 2024,2024,Jul,10,2024-07-10
+8433,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3400,3520,3460,21 Jul 2024,2024,Jul,21,2024-07-21
+8434,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3440,3550,3500,04 Jul 2024,2024,Jul,4,2024-07-04
+8435,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3450,3575,3500,02 Jul 2024,2024,Jul,2,2024-07-02
+8436,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3450,3600,3525,23 Jul 2024,2024,Jul,23,2024-07-23
+8437,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3475,3600,3525,01 Aug 2024,2024,Aug,1,2024-08-01
+8438,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3600,3550,02 Aug 2024,2024,Aug,2,2024-08-02
+8439,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3625,3570,01 Jul 2024,2024,Jul,1,2024-07-01
+8440,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3625,3570,03 Jul 2024,2024,Jul,3,2024-07-03
+8441,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3650,3570,13 Aug 2024,2024,Aug,13,2024-08-13
+8442,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3650,3575,26 Jul 2024,2024,Jul,26,2024-07-26
+8443,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3700,3600,06 Sep 2024,2024,Sep,6,2024-09-06
+8444,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3700,3600,09 Sep 2024,2024,Sep,9,2024-09-09
+8445,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3700,3600,16 Sep 2024,2024,Sep,16,2024-09-16
+8446,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3700,3600,30 Sep 2024,2024,Sep,30,2024-09-30
+8447,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3725,3600,12 Aug 2024,2024,Aug,12,2024-08-12
+8448,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3500,3730,3650,12 Sep 2024,2024,Sep,12,2024-09-12
+8449,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3530,3700,3625,04 Sep 2024,2024,Sep,4,2024-09-04
+8450,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3540,3700,3600,25 Jul 2024,2024,Jul,25,2024-07-25
+8451,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3725,3630,20 Sep 2024,2024,Sep,20,2024-09-20
+8452,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3740,3600,14 Aug 2024,2024,Aug,14,2024-08-14
+8453,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3740,3650,07 Sep 2024,2024,Sep,7,2024-09-07
+8454,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3750,3625,08 Sep 2024,2024,Sep,8,2024-09-08
+8455,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3550,3750,3675,29 Aug 2024,2024,Aug,29,2024-08-29
+8456,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3560,3700,3600,24 Jul 2024,2024,Jul,24,2024-07-24
+8457,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3560,3740,3650,19 Sep 2024,2024,Sep,19,2024-09-19
+8458,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3560,3750,3650,05 Sep 2024,2024,Sep,5,2024-09-05
+8459,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3560,3750,3650,18 Sep 2024,2024,Sep,18,2024-09-18
+8460,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3650,3600,27 Jul 2024,2024,Jul,27,2024-07-27
+8461,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3730,3625,30 Aug 2024,2024,Aug,30,2024-08-30
+8462,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3750,3625,27 Aug 2024,2024,Aug,27,2024-08-27
+8463,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3750,3650,11 Sep 2024,2024,Sep,11,2024-09-11
+8464,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3760,3650,11 Aug 2024,2024,Aug,11,2024-08-11
+8465,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3770,3650,22 Aug 2024,2024,Aug,22,2024-08-22
+8466,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3575,3800,3650,20 Nov 2024,2024,Nov,20,2024-11-20
+8467,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3580,3700,3640,29 Jul 2024,2024,Jul,29,2024-07-29
+8468,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3580,3730,3650,06 Oct 2024,2024,Oct,6,2024-10-06
+8469,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3580,3750,3650,01 Sep 2024,2024,Sep,1,2024-09-01
+8470,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3580,3750,3650,31 Aug 2024,2024,Aug,31,2024-08-31
+8471,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3650,3650,31 Jul 2024,2024,Jul,31,2024-07-31
+8472,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3700,3650,30 Jul 2024,2024,Jul,30,2024-07-30
+8473,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3700,3675,28 Jul 2024,2024,Jul,28,2024-07-28
+8474,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3725,3675,09 Nov 2024,2024,Nov,9,2024-11-09
+8475,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3730,3650,10 Oct 2024,2024,Oct,10,2024-10-10
+8476,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,03 Sep 2024,2024,Sep,3,2024-09-03
+8477,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,16 Aug 2024,2024,Aug,16,2024-08-16
+8478,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,19 Aug 2024,2024,Aug,19,2024-08-19
+8479,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,20 Aug 2024,2024,Aug,20,2024-08-20
+8480,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,22 Sep 2024,2024,Sep,22,2024-09-22
+8481,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3675,26 Aug 2024,2024,Aug,26,2024-08-26
+8482,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3700,08 Oct 2024,2024,Oct,8,2024-10-08
+8483,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3700,23 Aug 2024,2024,Aug,23,2024-08-23
+8484,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3750,3700,28 Aug 2024,2024,Aug,28,2024-08-28
+8485,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3775,3700,07 Aug 2024,2024,Aug,7,2024-08-07
+8486,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3780,3660,15 Aug 2024,2024,Aug,15,2024-08-15
+8487,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3600,30 Nov 2024,2024,Nov,30,2024-11-30
+8488,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,03 Dec 2024,2024,Dec,3,2024-12-03
+8489,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,04 Aug 2024,2024,Aug,4,2024-08-04
+8490,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,05 Aug 2024,2024,Aug,5,2024-08-05
+8491,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,15 Sep 2024,2024,Sep,15,2024-09-15
+8492,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3600,3800,3700,25 Aug 2024,2024,Aug,25,2024-08-25
+8493,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3620,3750,3700,21 Oct 2024,2024,Oct,21,2024-10-21
+8494,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3625,3750,3700,27 Sep 2024,2024,Sep,27,2024-09-27
+8495,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3625,3770,3700,20 Oct 2024,2024,Oct,20,2024-10-20
+8496,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3625,3775,3700,23 Sep 2024,2024,Sep,23,2024-09-23
+8497,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3625,3800,3700,25 Sep 2024,2024,Sep,25,2024-09-25
+8498,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3630,3800,3700,24 Aug 2024,2024,Aug,24,2024-08-24
+8499,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3630,3820,3700,02 Oct 2024,2024,Oct,2,2024-10-02
+8500,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3640,3800,3725,19 Oct 2024,2024,Oct,19,2024-10-19
+8501,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3700,3700,11 Oct 2024,2024,Oct,11,2024-10-11
+8502,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3740,3700,13 Nov 2024,2024,Nov,13,2024-11-13
+8503,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3775,3700,28 Nov 2024,2024,Nov,28,2024-11-28
+8504,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3775,3750,14 Nov 2024,2024,Nov,14,2024-11-14
+8505,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,10 Sep 2024,2024,Sep,10,2024-09-10
+8506,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,12 Nov 2024,2024,Nov,12,2024-11-12
+8507,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,13 Sep 2024,2024,Sep,13,2024-09-13
+8508,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,14 Sep 2024,2024,Sep,14,2024-09-14
+8509,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,17 Aug 2024,2024,Aug,17,2024-08-17
+8510,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,17 Oct 2024,2024,Oct,17,2024-10-17
+8511,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,17 Sep 2024,2024,Sep,17,2024-09-17
+8512,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,18 Aug 2024,2024,Aug,18,2024-08-18
+8513,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3700,29 Sep 2024,2024,Sep,29,2024-09-29
+8514,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3725,19 Nov 2024,2024,Nov,19,2024-11-19
+8515,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3725,21 Aug 2024,2024,Aug,21,2024-08-21
+8516,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3725,26 Sep 2024,2024,Sep,26,2024-09-26
+8517,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3730,07 Nov 2024,2024,Nov,7,2024-11-07
+8518,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3650,3800,3760,24 Sep 2024,2024,Sep,24,2024-09-24
+8519,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3660,3800,3750,01 Nov 2024,2024,Nov,1,2024-11-01
+8520,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3660,3800,3750,21 Nov 2024,2024,Nov,21,2024-11-21
+8521,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3670,3820,3750,25 Nov 2024,2024,Nov,25,2024-11-25
+8522,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3750,3725,11 Nov 2024,2024,Nov,11,2024-11-11
+8523,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3800,3725,06 Nov 2024,2024,Nov,6,2024-11-06
+8524,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3820,3740,28 Oct 2024,2024,Oct,28,2024-10-28
+8525,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3825,3750,29 Nov 2024,2024,Nov,29,2024-11-29
+8526,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3675,3840,3750,04 Oct 2024,2024,Oct,4,2024-10-04
+8527,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3680,3800,3730,10 Nov 2024,2024,Nov,10,2024-11-10
+8528,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3680,3800,3750,22 Nov 2024,2024,Nov,22,2024-11-22
+8529,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3800,3700,06 Aug 2024,2024,Aug,6,2024-08-06
+8530,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3800,3725,27 Nov 2024,2024,Nov,27,2024-11-27
+8531,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3800,3750,27 Oct 2024,2024,Oct,27,2024-10-27
+8532,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3800,3800,03 Nov 2024,2024,Nov,3,2024-11-03
+8533,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3820,3750,02 Dec 2024,2024,Dec,2,2024-12-02
+8534,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3820,3770,01 Dec 2024,2024,Dec,1,2024-12-01
+8535,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3825,3750,01 Oct 2024,2024,Oct,1,2024-10-01
+8536,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3825,3750,24 Oct 2024,2024,Oct,24,2024-10-24
+8537,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3825,3760,09 Oct 2024,2024,Oct,9,2024-10-09
+8538,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3825,3775,23 Nov 2024,2024,Nov,23,2024-11-23
+8539,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3830,3750,05 Nov 2024,2024,Nov,5,2024-11-05
+8540,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3830,3760,02 Nov 2024,2024,Nov,2,2024-11-02
+8541,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3840,3750,30 Oct 2024,2024,Oct,30,2024-10-30
+8542,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3750,03 Oct 2024,2024,Oct,3,2024-10-03
+8543,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3757,05 Oct 2024,2024,Oct,5,2024-10-05
+8544,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3770,07 Oct 2024,2024,Oct,7,2024-10-07
+8545,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3775,18 Oct 2024,2024,Oct,18,2024-10-18
+8546,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3775,23 Oct 2024,2024,Oct,23,2024-10-23
+8547,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3780,08 Nov 2024,2024,Nov,8,2024-11-08
+8548,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3700,3850,3800,28 Sep 2024,2024,Sep,28,2024-09-28
+8549,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3720,3825,3775,29 Oct 2024,2024,Oct,29,2024-10-29
+8550,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3720,3850,3800,25 Oct 2024,2024,Oct,25,2024-10-25
+8551,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3720,3860,3800,22 Oct 2024,2024,Oct,22,2024-10-22
+8552,,Puruliya,Purulia,Gur(Jaggery),Other,FAQ,3730,3850,3800,04 Nov 2024,2024,Nov,4,2024-11-04

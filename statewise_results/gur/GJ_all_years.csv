@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,4000,4000.0,08 Aug 2017,2017,Aug,8,2017-08-08
 1,1.0,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,4000,4000.0,12 Aug 2017,2017,Aug,12,2017-08-12
 2,2.0,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,4000,4000.0,15 Dec 2016,2016,Dec,15,2016-12-15
@@ -1530,388 +1530,388 @@
 1528,1528.0,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3700,4600,4600.0,23 Sep 2017,2017,Sep,23,2017-09-23
 1529,1529.0,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,4000,5000,5000.0,14 Apr 2018,2018,Apr,14,2018-04-14
 1530,1530.0,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,4000,5000,5000.0,23 Apr 2018,2018,Apr,23,2018-04-23
-1531,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2500,3865,3182.0,16 Feb 2015,2015,Feb,16,2015-02-16 00:00:00
-1532,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3065,3610,3337.0,18 Mar 2015,2015,Mar,18,2015-03-18 00:00:00
-1533,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3655,4265,3960.0,28 Jan 2015,2015,Jan,28,2015-01-28 00:00:00
-1534,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4225,3987.0,03 Feb 2015,2015,Feb,03,2015-02-03 00:00:00
-1535,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4340,4045.0,27 Jan 2015,2015,Jan,27,2015-01-27 00:00:00
-1536,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4050,4415,4232.0,23 Jan 2015,2015,Jan,23,2015-01-23 00:00:00
-1537,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4105,4335,4220.0,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
-1538,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4125,4355,4240.0,03 Dec 2014,2014,Dec,03,2014-12-03 00:00:00
-1539,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4535,5145,4840.0,13 Oct 2014,2014,Oct,13,2014-10-13 00:00:00
-1540,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4555,5345,4950.0,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-1541,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,07 Jan 2015,2015,Jan,07,2015-01-07 00:00:00
-1542,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,08 Jul 2015,2015,Jul,08,2015-07-08 00:00:00
-1543,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,27 Jan 2015,2015,Jan,27,2015-01-27 00:00:00
-1544,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,29 Jan 2015,2015,Jan,29,2015-01-29 00:00:00
-1545,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,20 Aug 2015,2015,Aug,20,2015-08-20 00:00:00
-1546,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,13 Nov 2014,2014,Nov,13,2014-11-13 00:00:00
-1547,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
-1548,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,02 Sep 2014,2014,Sep,02,2014-09-02 00:00:00
-1549,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,31 Aug 2015,2015,Aug,31,2015-08-31 00:00:00
-1550,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,04 Jun 2015,2015,Jun,04,2015-06-04 00:00:00
-1551,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,19 May 2015,2015,May,19,2015-05-19 00:00:00
-1552,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,11 Oct 2014,2014,Oct,11,2014-10-11 00:00:00
-1553,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,03 Nov 2014,2014,Nov,03,2014-11-03 00:00:00
-1554,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
-1555,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2500,3625,3062.5,10 Mar 2015,2015,Mar,10,2015-03-10 00:00:00
-1556,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2825,3895,3360.0,12 Feb 2015,2015,Feb,12,2015-02-12 00:00:00
-1557,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3450,3550,3500.0,25 Mar 2015,2015,Mar,25,2015-03-25 00:00:00
-1558,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,3860,3680.0,20 Feb 2015,2015,Feb,20,2015-02-20 00:00:00
-1559,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3505,4570,4037.0,06 Jan 2015,2015,Jan,06,2015-01-06 00:00:00
-1560,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3540,4250,3895.0,13 Dec 2014,2014,Dec,13,2014-12-13 00:00:00
-1561,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4771,4260.0,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
-1562,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3755,4470,4112.0,13 Jan 2015,2015,Jan,13,2015-01-13 00:00:00
-1563,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3805,4340,4072.0,24 Dec 2014,2014,Dec,24,2014-12-24 00:00:00
-1564,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4255,6300,5025.0,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
-1565,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4600,5085,4842.0,26 Sep 2014,2014,Sep,26,2014-09-26 00:00:00
-1566,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,20 Dec 2014,2014,Dec,20,2014-12-20 00:00:00
-1567,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,29 Dec 2014,2014,Dec,29,2014-12-29 00:00:00
-1568,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,14 Jul 2015,2015,Jul,14,2015-07-14 00:00:00
-1569,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,15 Jul 2015,2015,Jul,15,2015-07-15 00:00:00
-1570,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,10 Feb 2015,2015,Feb,10,2015-02-10 00:00:00
-1571,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,28 Jan 2015,2015,Jan,28,2015-01-28 00:00:00
-1572,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,06 Aug 2015,2015,Aug,06,2015-08-06 00:00:00
-1573,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,19 Aug 2015,2015,Aug,19,2015-08-19 00:00:00
-1574,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,06 Jun 2015,2015,Jun,06,2015-06-06 00:00:00
-1575,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,23 Jun 2015,2015,Jun,23,2015-06-23 00:00:00
-1576,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,28 Jul 2015,2015,Jul,28,2015-07-28 00:00:00
-1577,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,28 May 2015,2015,May,28,2015-05-28 00:00:00
-1578,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,11 Sep 2014,2014,Sep,11,2014-09-11 00:00:00
-1579,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,18 Sep 2014,2014,Sep,18,2014-09-18 00:00:00
-1580,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,20 Sep 2014,2014,Sep,20,2014-09-20 00:00:00
-1581,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,28 Nov 2014,2014,Nov,28,2014-11-28 00:00:00
-1582,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,01 Oct 2014,2014,Oct,01,2014-10-01 00:00:00
-1583,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,16 Oct 2014,2014,Oct,16,2014-10-16 00:00:00
-1584,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,04 Nov 2014,2014,Nov,04,2014-11-04 00:00:00
-1585,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,07 Nov 2014,2014,Nov,07,2014-11-07 00:00:00
-1586,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4700,5320,5010.0,05 Sep 2014,2014,Sep,05,2014-09-05 00:00:00
-1587,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2500,3650,3075.0,12 Mar 2015,2015,Mar,12,2015-03-12 00:00:00
-1588,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3400,3655,3527.0,28 Feb 2015,2015,Feb,28,2015-02-28 00:00:00
-1589,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3405,3525,3465.0,04 Feb 2015,2015,Feb,04,2015-02-04 00:00:00
-1590,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3405,3525,3465.0,04 Mar 2015,2015,Mar,04,2015-03-04 00:00:00
-1591,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3450,3760,3605.0,25 Feb 2015,2015,Feb,25,2015-02-25 00:00:00
-1592,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3600,3845,3722.0,27 Feb 2015,2015,Feb,27,2015-02-27 00:00:00
-1593,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3715,4560,4137.0,10 Jan 2015,2015,Jan,10,2015-01-10 00:00:00
-1594,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3875,4585,4230.0,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
-1595,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4250,5230,4740.0,18 Sep 2014,2014,Sep,18,2014-09-18 00:00:00
-1596,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4350,5130,4740.0,22 Sep 2014,2014,Sep,22,2014-09-22 00:00:00
-1597,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4625,5175,4900.0,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
-1598,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4730,5200,4965.0,01 Oct 2014,2014,Oct,01,2014-10-01 00:00:00
-1599,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,05 Jan 2015,2015,Jan,05,2015-01-05 00:00:00
-1600,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,23 Dec 2014,2014,Dec,23,2014-12-23 00:00:00
-1601,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,10 Jul 2015,2015,Jul,10,2015-07-10 00:00:00
-1602,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,09 Feb 2015,2015,Feb,09,2015-02-09 00:00:00
-1603,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,17 Feb 2015,2015,Feb,17,2015-02-17 00:00:00
-1604,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,29 Aug 2015,2015,Aug,29,2015-08-29 00:00:00
-1605,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,19 Jun 2015,2015,Jun,19,2015-06-19 00:00:00
-1606,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,21 May 2015,2015,May,21,2015-05-21 00:00:00
-1607,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,25 May 2015,2015,May,25,2015-05-25 00:00:00
-1608,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
-1609,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,13 Oct 2014,2014,Oct,13,2014-10-13 00:00:00
-1610,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,17 Oct 2014,2014,Oct,17,2014-10-17 00:00:00
-1611,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,29 Oct 2014,2014,Oct,29,2014-10-29 00:00:00
-1612,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3300,3595,3447.0,06 Apr 2015,2015,Apr,06,2015-04-06 00:00:00
-1613,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3400,3960,3680.0,13 Feb 2015,2015,Feb,13,2015-02-13 00:00:00
-1614,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3470,3555,3512.0,09 Mar 2015,2015,Mar,09,2015-03-09 00:00:00
-1615,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4650,4200.0,31 Dec 2014,2014,Dec,31,2014-12-31 00:00:00
-1616,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3855,4430,4142.0,25 Dec 2014,2014,Dec,25,2014-12-25 00:00:00
-1617,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3901,4200,4050.0,07 Feb 2015,2015,Feb,07,2015-02-07 00:00:00
-1618,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4060,4432,4246.0,28 Nov 2014,2014,Nov,28,2014-11-28 00:00:00
-1619,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4180,4355,4267.0,02 Dec 2014,2014,Dec,02,2014-12-02 00:00:00
-1620,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4265,5240,4752.0,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
-1621,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4385,5140,4762.0,02 Sep 2014,2014,Sep,02,2014-09-02 00:00:00
-1622,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,11 Jul 2015,2015,Jul,11,2015-07-11 00:00:00
-1623,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,04 Feb 2015,2015,Feb,04,2015-02-04 00:00:00
-1624,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,19 Jan 2015,2015,Jan,19,2015-01-19 00:00:00
-1625,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,15 Nov 2014,2014,Nov,15,2014-11-15 00:00:00
-1626,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,22 Nov 2014,2014,Nov,22,2014-11-22 00:00:00
-1627,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,01 Jul 2015,2015,Jul,01,2015-07-01 00:00:00
-1628,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,02 Jul 2015,2015,Jul,02,2015-07-02 00:00:00
-1629,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,23 Jul 2015,2015,Jul,23,2015-07-23 00:00:00
-1630,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,29 May 2015,2015,May,29,2015-05-29 00:00:00
-1631,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,26 Sep 2014,2014,Sep,26,2014-09-26 00:00:00
-1632,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,27 Sep 2014,2014,Sep,27,2014-09-27 00:00:00
-1633,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,22 Oct 2014,2014,Oct,22,2014-10-22 00:00:00
-1634,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
-1635,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4250,5000,4625.0,02 Sep 2014,2014,Sep,02,2014-09-02 00:00:00
-1636,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3325,3550,3437.0,07 Mar 2015,2015,Mar,07,2015-03-07 00:00:00
-1637,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3545,3921,3733.0,09 Apr 2015,2015,Apr,09,2015-04-09 00:00:00
-1638,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4285,4018.0,19 Dec 2014,2014,Dec,19,2014-12-19 00:00:00
-1639,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4395,4197.0,15 Jan 2015,2015,Jan,15,2015-01-15 00:00:00
-1640,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4005,4645,4310.0,12 Nov 2014,2014,Nov,12,2014-11-12 00:00:00
-1641,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4135,4725,4430.0,03 Nov 2014,2014,Nov,03,2014-11-03 00:00:00
-1642,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4180,4697,4438.0,30 Dec 2014,2014,Dec,30,2014-12-30 00:00:00
-1643,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4360,4650,4505.0,01 Jan 2015,2015,Jan,01,2015-01-01 00:00:00
-1644,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,20 Jul 2015,2015,Jul,20,2015-07-20 00:00:00
-1645,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,20 Jan 2015,2015,Jan,20,2015-01-20 00:00:00
-1646,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,21 Aug 2015,2015,Aug,21,2015-08-21 00:00:00
-1647,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,02 Jun 2015,2015,Jun,02,2015-06-02 00:00:00
-1648,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,04 Jul 2015,2015,Jul,04,2015-07-04 00:00:00
-1649,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,31 Dec 2014,2014,Dec,31,2014-12-31 00:00:00
-1650,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,03 Dec 2014,2014,Dec,03,2014-12-03 00:00:00
-1651,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
-1652,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,23 Sep 2014,2014,Sep,23,2014-09-23 00:00:00
-1653,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,04 Oct 2014,2014,Oct,04,2014-10-04 00:00:00
-1654,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4500,5055,4777.0,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-1655,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3000,3625,3312.0,21 Mar 2015,2015,Mar,21,2015-03-21 00:00:00
-1656,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3325,3700,3512.0,16 Mar 2015,2015,Mar,16,2015-03-16 00:00:00
-1657,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3375,3575,3475.0,19 Mar 2015,2015,Mar,19,2015-03-19 00:00:00
-1658,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3630,4730,4180.0,24 Nov 2014,2014,Nov,24,2014-11-24 00:00:00
-1659,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3715,4200,3957.0,06 Feb 2015,2015,Feb,06,2015-02-06 00:00:00
-1660,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3755,4511,4133.0,07 Jan 2015,2015,Jan,07,2015-01-07 00:00:00
-1661,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3850,4196,4023.0,05 Feb 2015,2015,Feb,05,2015-02-05 00:00:00
-1662,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4050,4425,4277.0,06 Dec 2014,2014,Dec,06,2014-12-06 00:00:00
-1663,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4245,4601,4423.0,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
-1664,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4680,5155,4917.0,24 Sep 2014,2014,Sep,24,2014-09-24 00:00:00
-1665,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4690,5050,4870.0,16 Oct 2014,2014,Oct,16,2014-10-16 00:00:00
-1666,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,22 Jul 2015,2015,Jul,22,2015-07-22 00:00:00
-1667,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,07 Aug 2015,2015,Aug,07,2015-08-07 00:00:00
-1668,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,13 Aug 2015,2015,Aug,13,2015-08-13 00:00:00
-1669,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00
-1670,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,27 Aug 2015,2015,Aug,27,2015-08-27 00:00:00
-1671,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,01 Jan 2015,2015,Jan,01,2015-01-01 00:00:00
-1672,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,18 Jun 2015,2015,Jun,18,2015-06-18 00:00:00
-1673,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,24 Jul 2015,2015,Jul,24,2015-07-24 00:00:00
-1674,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,24 Jun 2015,2015,Jun,24,2015-06-24 00:00:00
-1675,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,27 Jun 2015,2015,Jun,27,2015-06-27 00:00:00
-1676,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,09 Oct 2014,2014,Oct,09,2014-10-09 00:00:00
-1677,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,12 Nov 2014,2014,Nov,12,2014-11-12 00:00:00
-1678,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,30 Oct 2014,2014,Oct,30,2014-10-30 00:00:00
-1679,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4700,5325,5012.0,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
-1680,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3105,3535,3320.0,03 Apr 2015,2015,Apr,03,2015-04-03 00:00:00
-1681,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3350,3570,3460.0,24 Mar 2015,2015,Mar,24,2015-03-24 00:00:00
-1682,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3400,4270,3835.0,31 Jan 2015,2015,Jan,31,2015-01-31 00:00:00
-1683,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3450,3560,3505.0,23 Mar 2015,2015,Mar,23,2015-03-23 00:00:00
-1684,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,4005,3752.0,11 Feb 2015,2015,Feb,11,2015-02-11 00:00:00
-1685,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3530,3695,3612.0,03 Mar 2015,2015,Mar,03,2015-03-03 00:00:00
-1686,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4555,4277.0,08 Jan 2015,2015,Jan,08,2015-01-08 00:00:00
-1687,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4105,4720,4412.0,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
-1688,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4500,4970,4735.0,20 Oct 2014,2014,Oct,20,2014-10-20 00:00:00
-1689,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4500,5135,4817.0,27 Sep 2014,2014,Sep,27,2014-09-27 00:00:00
-1690,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,26 Dec 2014,2014,Dec,26,2014-12-26 00:00:00
-1691,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,14 Feb 2015,2015,Feb,14,2015-02-14 00:00:00
-1692,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,23 Jan 2015,2015,Jan,23,2015-01-23 00:00:00
-1693,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
-1694,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
-1695,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,17 Jun 2015,2015,Jun,17,2015-06-17 00:00:00
-1696,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,01 Dec 2014,2014,Dec,01,2014-12-01 00:00:00
-1697,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,13 Dec 2014,2014,Dec,13,2014-12-13 00:00:00
-1698,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,29 Nov 2014,2014,Nov,29,2014-11-29 00:00:00
-1699,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4700,5280,4990.0,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-1700,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3105,3625,3365.0,17 Mar 2015,2015,Mar,17,2015-03-17 00:00:00
-1701,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3250,3650,3450.0,26 Feb 2015,2015,Feb,26,2015-02-26 00:00:00
-1702,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3475,3585,3530.0,04 Apr 2015,2015,Apr,04,2015-04-04 00:00:00
-1703,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3740,4405,4072.0,05 Dec 2014,2014,Dec,05,2014-12-05 00:00:00
-1704,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4265,4007.0,16 Dec 2014,2014,Dec,16,2014-12-16 00:00:00
-1705,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3810,4180,3995.0,02 Feb 2015,2015,Feb,02,2015-02-02 00:00:00
-1706,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3950,4475,4212.0,12 Jan 2015,2015,Jan,12,2015-01-12 00:00:00
-1707,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4210,4105.0,20 Dec 2014,2014,Dec,20,2014-12-20 00:00:00
-1708,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4825,4412.0,01 Nov 2014,2014,Nov,01,2014-11-01 00:00:00
-1709,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4200,4380,4290.0,08 Dec 2014,2014,Dec,08,2014-12-08 00:00:00
-1710,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4745,5220,4982.0,25 Sep 2014,2014,Sep,25,2014-09-25 00:00:00
-1711,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4830,5280,5055.0,30 Sep 2014,2014,Sep,30,2014-09-30 00:00:00
-1712,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,5000,5245,5122.0,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-1713,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,5065,5580,5322.0,05 Sep 2014,2014,Sep,05,2014-09-05 00:00:00
-1714,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,16 Dec 2014,2014,Dec,16,2014-12-16 00:00:00
-1715,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,17 Dec 2014,2014,Dec,17,2014-12-17 00:00:00
-1716,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
-1717,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
-1718,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
-1719,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
-1720,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,30 May 2015,2015,May,30,2015-05-30 00:00:00
-1721,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
-1722,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
-1723,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,31 Oct 2014,2014,Oct,31,2014-10-31 00:00:00
-1724,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3540,5125,4332.0,14 Oct 2014,2014,Oct,14,2014-10-14 00:00:00
-1725,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3720,4000,3860.0,10 Apr 2015,2015,Apr,10,2015-04-10 00:00:00
-1726,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4330,4040.0,19 Jan 2015,2015,Jan,19,2015-01-19 00:00:00
-1727,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3865,4250,4057.0,29 Jan 2015,2015,Jan,29,2015-01-29 00:00:00
-1728,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4585,5105,4845.0,17 Oct 2014,2014,Oct,17,2014-10-17 00:00:00
-1729,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4660,5260,4960.0,10 Oct 2014,2014,Oct,10,2014-10-10 00:00:00
-1730,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4675,5150,4912.0,07 Oct 2014,2014,Oct,07,2014-10-07 00:00:00
-1731,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4750,5200,4975.0,29 Sep 2014,2014,Sep,29,2014-09-29 00:00:00
-1732,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,11 Aug 2015,2015,Aug,11,2015-08-11 00:00:00
-1733,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,01 Sep 2015,2015,Sep,01,2015-09-01 00:00:00
-1734,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,24 Aug 2015,2015,Aug,24,2015-08-24 00:00:00
-1735,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,07 Oct 2014,2014,Oct,07,2014-10-07 00:00:00
-1736,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,08 Oct 2014,2014,Oct,08,2014-10-08 00:00:00
-1737,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4250,5050,4650.0,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-1738,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3000,3845,3422.0,08 Apr 2015,2015,Apr,08,2015-04-08 00:00:00
-1739,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4590,4170.0,15 Nov 2014,2014,Nov,15,2014-11-15 00:00:00
-1740,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3905,4505,4205.0,05 Jan 2015,2015,Jan,05,2015-01-05 00:00:00
-1741,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4337,4168.0,21 Jan 2015,2015,Jan,21,2015-01-21 00:00:00
-1742,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4070,4220,4145.0,15 Dec 2014,2014,Dec,15,2014-12-15 00:00:00
-1743,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4125,4435,4280.0,17 Jan 2015,2015,Jan,17,2015-01-17 00:00:00
-1744,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4160,4415,4283.0,04 Dec 2014,2014,Dec,04,2014-12-04 00:00:00
-1745,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4205,4710,4457.0,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00
-1746,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4300,4595,4447.0,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
-1747,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,5100,5205,5152.0,11 Sep 2014,2014,Sep,11,2014-09-11 00:00:00
-1748,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,15 Dec 2014,2014,Dec,15,2014-12-15 00:00:00
-1749,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,19 Dec 2014,2014,Dec,19,2014-12-19 00:00:00
-1750,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,16 Jan 2015,2015,Jan,16,2015-01-16 00:00:00
-1751,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,30 Jan 2015,2015,Jan,30,2015-01-30 00:00:00
-1752,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,15 Aug 2015,2015,Aug,15,2015-08-15 00:00:00
-1753,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,03 Aug 2015,2015,Aug,03,2015-08-03 00:00:00
-1754,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,04 Aug 2015,2015,Aug,04,2015-08-04 00:00:00
-1755,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,08 Jun 2015,2015,Jun,08,2015-06-08 00:00:00
-1756,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,10 Jun 2015,2015,Jun,10,2015-06-10 00:00:00
-1757,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,13 Jun 2015,2015,Jun,13,2015-06-13 00:00:00
-1758,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,31 Jul 2015,2015,Jul,31,2015-07-31 00:00:00
-1759,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,02 Oct 2014,2014,Oct,02,2014-10-02 00:00:00
-1760,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,18 Oct 2014,2014,Oct,18,2014-10-18 00:00:00
-1761,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,23 Oct 2014,2014,Oct,23,2014-10-23 00:00:00
-1762,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,01 Nov 2014,2014,Nov,01,2014-11-01 00:00:00
-1763,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3585,4370,3977.5,29 Nov 2014,2014,Nov,29,2014-11-29 00:00:00
-1764,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3655,4490,4072.0,05 Nov 2014,2014,Nov,05,2014-11-05 00:00:00
-1765,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3900,4570,4235.0,09 Jan 2015,2015,Jan,09,2015-01-09 00:00:00
-1766,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3905,4550,4227.0,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
-1767,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3950,4250,4100.0,10 Dec 2014,2014,Dec,10,2014-12-10 00:00:00
-1768,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4040,4225,4132.0,30 Jan 2015,2015,Jan,30,2015-01-30 00:00:00
-1769,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4125,5060,4592.0,15 Oct 2014,2014,Oct,15,2014-10-15 00:00:00
-1770,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4315,4950,4632.0,04 Oct 2014,2014,Oct,04,2014-10-04 00:00:00
-1771,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4500,5385,4942.0,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-1772,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4675,5255,4965.0,13 Sep 2014,2014,Sep,13,2014-09-13 00:00:00
-1773,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4850,5305,5077.0,09 Oct 2014,2014,Oct,09,2014-10-09 00:00:00
-1774,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,27 Dec 2014,2014,Dec,27,2014-12-27 00:00:00
-1775,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,09 Jul 2015,2015,Jul,09,2015-07-09 00:00:00
-1776,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,10 Aug 2015,2015,Aug,10,2015-08-10 00:00:00
-1777,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,17 Aug 2015,2015,Aug,17,2015-08-17 00:00:00
-1778,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,19 Nov 2014,2014,Nov,19,2014-11-19 00:00:00
-1779,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,09 Sep 2014,2014,Sep,09,2014-09-09 00:00:00
-1780,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,01 Jun 2015,2015,Jun,01,2015-06-01 00:00:00
-1781,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,05 Aug 2015,2015,Aug,05,2015-08-05 00:00:00
-1782,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,07 Jul 2015,2015,Jul,07,2015-07-07 00:00:00
-1783,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,12 Jun 2015,2015,Jun,12,2015-06-12 00:00:00
-1784,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,26 May 2015,2015,May,26,2015-05-26 00:00:00
-1785,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,05 Dec 2014,2014,Dec,05,2014-12-05 00:00:00
-1786,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,06 Dec 2014,2014,Dec,06,2014-12-06 00:00:00
-1787,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,15 Sep 2014,2014,Sep,15,2014-09-15 00:00:00
-1788,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,03 Oct 2014,2014,Oct,03,2014-10-03 00:00:00
-1789,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,12 Oct 2014,2014,Oct,12,2014-10-12 00:00:00
-1790,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4700,5200,4950.0,11 Sep 2014,2014,Sep,11,2014-09-11 00:00:00
-1791,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3000,3625,3312.0,02 Mar 2015,2015,Mar,02,2015-03-02 00:00:00
-1792,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3250,3550,3400.0,20 Mar 2015,2015,Mar,20,2015-03-20 00:00:00
-1793,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3250,3830,3540.0,24 Feb 2015,2015,Feb,24,2015-02-24 00:00:00
-1794,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,3975,3737.5,14 Feb 2015,2015,Feb,14,2015-02-14 00:00:00
-1795,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3505,4005,3755.0,10 Feb 2015,2015,Feb,10,2015-02-10 00:00:00
-1796,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3850,4100,3975.0,13 Apr 2015,2015,Apr,13,2015-04-13 00:00:00
-1797,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4105,4655,4380.0,08 Nov 2014,2014,Nov,08,2014-11-08 00:00:00
-1798,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4250,4430,4340.0,16 Jan 2015,2015,Jan,16,2015-01-16 00:00:00
-1799,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4265,4465,4365.0,26 Dec 2014,2014,Dec,26,2014-12-26 00:00:00
-1800,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4320,5265,4792.0,15 Sep 2014,2014,Sep,15,2014-09-15 00:00:00
-1801,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4980,5125,5052.0,20 Sep 2014,2014,Sep,20,2014-09-20 00:00:00
-1802,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,25 Dec 2014,2014,Dec,25,2014-12-25 00:00:00
-1803,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,06 Feb 2015,2015,Feb,06,2015-02-06 00:00:00
-1804,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,12 Feb 2015,2015,Feb,12,2015-02-12 00:00:00
-1805,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,24 Jan 2015,2015,Jan,24,2015-01-24 00:00:00
-1806,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,05 Sep 2014,2014,Sep,05,2014-09-05 00:00:00
-1807,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,28 Aug 2015,2015,Aug,28,2015-08-28 00:00:00
-1808,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,05 Jun 2015,2015,Jun,05,2015-06-05 00:00:00
-1809,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,09 Jan 2015,2015,Jan,09,2015-01-09 00:00:00
-1810,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,20 Jun 2015,2015,Jun,20,2015-06-20 00:00:00
-1811,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,20 May 2015,2015,May,20,2015-05-20 00:00:00
-1812,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,25 Jul 2015,2015,Jul,25,2015-07-25 00:00:00
-1813,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,27 Jul 2015,2015,Jul,27,2015-07-27 00:00:00
-1814,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,10 Dec 2014,2014,Dec,10,2014-12-10 00:00:00
-1815,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,12 Sep 2014,2014,Sep,12,2014-09-12 00:00:00
-1816,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,22 Sep 2014,2014,Sep,22,2014-09-22 00:00:00
-1817,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,27 Nov 2014,2014,Nov,27,2014-11-27 00:00:00
-1818,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
-1819,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2500,3675,3087.0,11 Mar 2015,2015,Mar,11,2015-03-11 00:00:00
-1820,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3000,3680,3340.0,13 Mar 2015,2015,Mar,13,2015-03-13 00:00:00
-1821,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3620,4250,3935.0,15 Apr 2015,2015,Apr,15,2015-04-15 00:00:00
-1822,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3925,4340,4132.0,20 Jan 2015,2015,Jan,20,2015-01-20 00:00:00
-1823,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4572,4286.0,03 Jan 2015,2015,Jan,03,2015-01-03 00:00:00
-1824,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4125,4975,4550.0,18 Oct 2014,2014,Oct,18,2014-10-18 00:00:00
-1825,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4200,4525,4362.0,27 Nov 2014,2014,Nov,27,2014-11-27 00:00:00
-1826,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4245,5225,4735.0,08 Oct 2014,2014,Oct,08,2014-10-08 00:00:00
-1827,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4350,4765,4557.0,13 Nov 2014,2014,Nov,13,2014-11-13 00:00:00
-1828,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4355,4700,4527.0,29 Dec 2014,2014,Dec,29,2014-12-29 00:00:00
-1829,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4555,4830,4692.0,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
-1830,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,18 Jul 2015,2015,Jul,18,2015-07-18 00:00:00
-1831,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,21 Jul 2015,2015,Jul,21,2015-07-21 00:00:00
-1832,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,11 Feb 2015,2015,Feb,11,2015-02-11 00:00:00
-1833,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,16 Feb 2015,2015,Feb,16,2015-02-16 00:00:00
-1834,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,08 Aug 2015,2015,Aug,08,2015-08-08 00:00:00
-1835,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,08 Jan 2015,2015,Jan,08,2015-01-08 00:00:00
-1836,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,11 Jun 2015,2015,Jun,11,2015-06-11 00:00:00
-1837,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,25 Jun 2015,2015,Jun,25,2015-06-25 00:00:00
-1838,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,30 Jul 2015,2015,Jul,30,2015-07-30 00:00:00
-1839,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,29 Sep 2014,2014,Sep,29,2014-09-29 00:00:00
-1840,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2505,3755,3140.0,07 Apr 2015,2015,Apr,07,2015-04-07 00:00:00
-1841,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,3906,3703.0,19 Feb 2015,2015,Feb,19,2015-02-19 00:00:00
-1842,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3655,4255,3955.0,22 Dec 2014,2014,Dec,22,2014-12-22 00:00:00
-1843,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3725,4200,3962.0,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
-1844,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3865,4000,3932.0,11 Apr 2015,2015,Apr,11,2015-04-11 00:00:00
-1845,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3900,4225,4062.0,17 Dec 2014,2014,Dec,17,2014-12-17 00:00:00
-1846,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3950,4370,4160.0,23 Dec 2014,2014,Dec,23,2014-12-23 00:00:00
-1847,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4680,5200,4940.0,23 Sep 2014,2014,Sep,23,2014-09-23 00:00:00
-1848,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4950,5385,5167.0,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
-1849,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
-1850,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,16 Jul 2015,2015,Jul,16,2015-07-16 00:00:00
-1851,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,17 Jul 2015,2015,Jul,17,2015-07-17 00:00:00
-1852,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,02 Feb 2015,2015,Feb,02,2015-02-02 00:00:00
-1853,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,07 Feb 2015,2015,Feb,07,2015-02-07 00:00:00
-1854,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,17 Jan 2015,2015,Jan,17,2015-01-17 00:00:00
-1855,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,01 Aug 2015,2015,Aug,01,2015-08-01 00:00:00
-1856,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,03 Jul 2015,2015,Jul,03,2015-07-03 00:00:00
-1857,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,10 Jan 2015,2015,Jan,10,2015-01-10 00:00:00
-1858,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,22 May 2015,2015,May,22,2015-05-22 00:00:00
-1859,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,23 May 2015,2015,May,23,2015-05-23 00:00:00
-1860,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,27 May 2015,2015,May,27,2015-05-27 00:00:00
-1861,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,30 Dec 2014,2014,Dec,30,2014-12-30 00:00:00
-1862,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,30 Jun 2015,2015,Jun,30,2015-06-30 00:00:00
-1863,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
-1864,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,20 Oct 2014,2014,Oct,20,2014-10-20 00:00:00
-1865,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,08 Nov 2014,2014,Nov,08,2014-11-08 00:00:00
-1866,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3600,3890,3745.0,18 Feb 2015,2015,Feb,18,2015-02-18 00:00:00
-1867,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3735,4555,4145.0,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
-1868,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4050,3900.0,09 Feb 2015,2015,Feb,09,2015-02-09 00:00:00
-1869,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,5150,4575.0,11 Oct 2014,2014,Oct,11,2014-10-11 00:00:00
-1870,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4100,4620,4360.0,07 Nov 2014,2014,Nov,07,2014-11-07 00:00:00
-1871,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4275,4775,4525.0,22 Nov 2014,2014,Nov,22,2014-11-22 00:00:00
-1872,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4955,5225,5090.0,08 Sep 2014,2014,Sep,08,2014-09-08 00:00:00
-1873,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,22 Dec 2014,2014,Dec,22,2014-12-22 00:00:00
-1874,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,05 Feb 2015,2015,Feb,05,2015-02-05 00:00:00
-1875,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,22 Jan 2015,2015,Jan,22,2015-01-22 00:00:00
-1876,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,26 Jan 2015,2015,Jan,26,2015-01-26 00:00:00
-1877,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,12 Aug 2015,2015,Aug,12,2015-08-12 00:00:00
-1878,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,14 Aug 2015,2015,Aug,14,2015-08-14 00:00:00
-1879,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,18 Aug 2015,2015,Aug,18,2015-08-18 00:00:00
-1880,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,06 Sep 2014,2014,Sep,06,2014-09-06 00:00:00
-1881,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,06 Jul 2015,2015,Jul,06,2015-07-06 00:00:00
-1882,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,09 Jun 2015,2015,Jun,09,2015-06-09 00:00:00
-1883,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,26 Jun 2015,2015,Jun,26,2015-06-26 00:00:00
-1884,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,29 Jun 2015,2015,Jun,29,2015-06-29 00:00:00
-1885,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,02 Dec 2014,2014,Dec,02,2014-12-02 00:00:00
-1886,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,04 Dec 2014,2014,Dec,04,2014-12-04 00:00:00
-1887,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,21 Oct 2014,2014,Oct,21,2014-10-21 00:00:00
-1888,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,05 Nov 2014,2014,Nov,05,2014-11-05 00:00:00
-1889,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,28 Oct 2014,2014,Oct,28,2014-10-28 00:00:00
-1890,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4600,5225,4912.0,08 Sep 2014,2014,Sep,08,2014-09-08 00:00:00
-1891,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3350,3800,3575.0,23 Feb 2015,2015,Feb,23,2015-02-23 00:00:00
-1892,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3455,3625,3540.0,14 Mar 2015,2015,Mar,14,2015-03-14 00:00:00
-1893,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,4215,3857.0,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
-1894,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3550,3850,3700.0,21 Feb 2015,2015,Feb,21,2015-02-21 00:00:00
-1895,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3640,4450,4045.0,01 Dec 2014,2014,Dec,01,2014-12-01 00:00:00
-1896,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3855,4515,4185.0,19 Nov 2014,2014,Nov,19,2014-11-19 00:00:00
-1897,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3975,4205,4090.0,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
-1898,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4015,4686,4350.0,27 Dec 2014,2014,Dec,27,2014-12-27 00:00:00
-1899,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4250,4601,4425.0,02 Jan 2015,2015,Jan,02,2015-01-02 00:00:00
-1900,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,24 Dec 2014,2014,Dec,24,2014-12-24 00:00:00
-1901,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,13 Feb 2015,2015,Feb,13,2015-02-13 00:00:00
-1902,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3255,3225.0,21 Jan 2015,2015,Jan,21,2015-01-21 00:00:00
-1903,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
-1904,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,24 Nov 2014,2014,Nov,24,2014-11-24 00:00:00
-1905,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,03 Jun 2015,2015,Jun,03,2015-06-03 00:00:00
-1906,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,12 Jan 2015,2015,Jan,12,2015-01-12 00:00:00
-1907,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,15 Jun 2015,2015,Jun,15,2015-06-15 00:00:00
-1908,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,16 Jun 2015,2015,Jun,16,2015-06-16 00:00:00
-1909,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,08 Dec 2014,2014,Dec,08,2014-12-08 00:00:00
-1910,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
-1911,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,24 Sep 2014,2014,Sep,24,2014-09-24 00:00:00
-1912,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,06 Oct 2014,2014,Oct,06,2014-10-06 00:00:00
-1913,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,10 Oct 2014,2014,Oct,10,2014-10-10 00:00:00
-1914,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,15 Oct 2014,2014,Oct,15,2014-10-15 00:00:00
-1915,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,30 Sep 2014,2014,Sep,30,2014-09-30 00:00:00
+1531,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2500,3865,3182.0,16 Feb 2015,2015,Feb,16,2015-02-16
+1532,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3065,3610,3337.0,18 Mar 2015,2015,Mar,18,2015-03-18
+1533,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3655,4265,3960.0,28 Jan 2015,2015,Jan,28,2015-01-28
+1534,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4225,3987.0,03 Feb 2015,2015,Feb,3,2015-02-03
+1535,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4340,4045.0,27 Jan 2015,2015,Jan,27,2015-01-27
+1536,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4050,4415,4232.0,23 Jan 2015,2015,Jan,23,2015-01-23
+1537,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4105,4335,4220.0,09 Dec 2014,2014,Dec,9,2014-12-09
+1538,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4125,4355,4240.0,03 Dec 2014,2014,Dec,3,2014-12-03
+1539,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4535,5145,4840.0,13 Oct 2014,2014,Oct,13,2014-10-13
+1540,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4555,5345,4950.0,01 Sep 2014,2014,Sep,1,2014-09-01
+1541,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,07 Jan 2015,2015,Jan,7,2015-01-07
+1542,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,08 Jul 2015,2015,Jul,8,2015-07-08
+1543,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,27 Jan 2015,2015,Jan,27,2015-01-27
+1544,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,29 Jan 2015,2015,Jan,29,2015-01-29
+1545,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,20 Aug 2015,2015,Aug,20,2015-08-20
+1546,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,13 Nov 2014,2014,Nov,13,2014-11-13
+1547,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,26 Nov 2014,2014,Nov,26,2014-11-26
+1548,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,02 Sep 2014,2014,Sep,2,2014-09-02
+1549,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,31 Aug 2015,2015,Aug,31,2015-08-31
+1550,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,04 Jun 2015,2015,Jun,4,2015-06-04
+1551,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,19 May 2015,2015,May,19,2015-05-19
+1552,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,11 Oct 2014,2014,Oct,11,2014-10-11
+1553,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,03 Nov 2014,2014,Nov,3,2014-11-03
+1554,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,11 Nov 2014,2014,Nov,11,2014-11-11
+1555,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2500,3625,3062.5,10 Mar 2015,2015,Mar,10,2015-03-10
+1556,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2825,3895,3360.0,12 Feb 2015,2015,Feb,12,2015-02-12
+1557,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3450,3550,3500.0,25 Mar 2015,2015,Mar,25,2015-03-25
+1558,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,3860,3680.0,20 Feb 2015,2015,Feb,20,2015-02-20
+1559,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3505,4570,4037.0,06 Jan 2015,2015,Jan,6,2015-01-06
+1560,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3540,4250,3895.0,13 Dec 2014,2014,Dec,13,2014-12-13
+1561,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4771,4260.0,11 Nov 2014,2014,Nov,11,2014-11-11
+1562,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3755,4470,4112.0,13 Jan 2015,2015,Jan,13,2015-01-13
+1563,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3805,4340,4072.0,24 Dec 2014,2014,Dec,24,2014-12-24
+1564,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4255,6300,5025.0,17 Sep 2014,2014,Sep,17,2014-09-17
+1565,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4600,5085,4842.0,26 Sep 2014,2014,Sep,26,2014-09-26
+1566,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,20 Dec 2014,2014,Dec,20,2014-12-20
+1567,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,29 Dec 2014,2014,Dec,29,2014-12-29
+1568,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,14 Jul 2015,2015,Jul,14,2015-07-14
+1569,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,15 Jul 2015,2015,Jul,15,2015-07-15
+1570,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,10 Feb 2015,2015,Feb,10,2015-02-10
+1571,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,28 Jan 2015,2015,Jan,28,2015-01-28
+1572,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,06 Aug 2015,2015,Aug,6,2015-08-06
+1573,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,19 Aug 2015,2015,Aug,19,2015-08-19
+1574,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,06 Jun 2015,2015,Jun,6,2015-06-06
+1575,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,23 Jun 2015,2015,Jun,23,2015-06-23
+1576,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,28 Jul 2015,2015,Jul,28,2015-07-28
+1577,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,28 May 2015,2015,May,28,2015-05-28
+1578,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,11 Sep 2014,2014,Sep,11,2014-09-11
+1579,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,18 Sep 2014,2014,Sep,18,2014-09-18
+1580,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,20 Sep 2014,2014,Sep,20,2014-09-20
+1581,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,28 Nov 2014,2014,Nov,28,2014-11-28
+1582,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,01 Oct 2014,2014,Oct,1,2014-10-01
+1583,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,16 Oct 2014,2014,Oct,16,2014-10-16
+1584,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,04 Nov 2014,2014,Nov,4,2014-11-04
+1585,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,07 Nov 2014,2014,Nov,7,2014-11-07
+1586,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4700,5320,5010.0,05 Sep 2014,2014,Sep,5,2014-09-05
+1587,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2500,3650,3075.0,12 Mar 2015,2015,Mar,12,2015-03-12
+1588,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3400,3655,3527.0,28 Feb 2015,2015,Feb,28,2015-02-28
+1589,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3405,3525,3465.0,04 Feb 2015,2015,Feb,4,2015-02-04
+1590,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3405,3525,3465.0,04 Mar 2015,2015,Mar,4,2015-03-04
+1591,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3450,3760,3605.0,25 Feb 2015,2015,Feb,25,2015-02-25
+1592,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3600,3845,3722.0,27 Feb 2015,2015,Feb,27,2015-02-27
+1593,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3715,4560,4137.0,10 Jan 2015,2015,Jan,10,2015-01-10
+1594,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3875,4585,4230.0,18 Nov 2014,2014,Nov,18,2014-11-18
+1595,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4250,5230,4740.0,18 Sep 2014,2014,Sep,18,2014-09-18
+1596,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4350,5130,4740.0,22 Sep 2014,2014,Sep,22,2014-09-22
+1597,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4625,5175,4900.0,16 Sep 2014,2014,Sep,16,2014-09-16
+1598,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4730,5200,4965.0,01 Oct 2014,2014,Oct,1,2014-10-01
+1599,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,05 Jan 2015,2015,Jan,5,2015-01-05
+1600,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,23 Dec 2014,2014,Dec,23,2014-12-23
+1601,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,10 Jul 2015,2015,Jul,10,2015-07-10
+1602,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,09 Feb 2015,2015,Feb,9,2015-02-09
+1603,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,17 Feb 2015,2015,Feb,17,2015-02-17
+1604,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,29 Aug 2015,2015,Aug,29,2015-08-29
+1605,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,19 Jun 2015,2015,Jun,19,2015-06-19
+1606,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,21 May 2015,2015,May,21,2015-05-21
+1607,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,25 May 2015,2015,May,25,2015-05-25
+1608,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,16 Sep 2014,2014,Sep,16,2014-09-16
+1609,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,13 Oct 2014,2014,Oct,13,2014-10-13
+1610,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,17 Oct 2014,2014,Oct,17,2014-10-17
+1611,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,29 Oct 2014,2014,Oct,29,2014-10-29
+1612,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3300,3595,3447.0,06 Apr 2015,2015,Apr,6,2015-04-06
+1613,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3400,3960,3680.0,13 Feb 2015,2015,Feb,13,2015-02-13
+1614,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3470,3555,3512.0,09 Mar 2015,2015,Mar,9,2015-03-09
+1615,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4650,4200.0,31 Dec 2014,2014,Dec,31,2014-12-31
+1616,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3855,4430,4142.0,25 Dec 2014,2014,Dec,25,2014-12-25
+1617,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3901,4200,4050.0,07 Feb 2015,2015,Feb,7,2015-02-07
+1618,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4060,4432,4246.0,28 Nov 2014,2014,Nov,28,2014-11-28
+1619,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4180,4355,4267.0,02 Dec 2014,2014,Dec,2,2014-12-02
+1620,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4265,5240,4752.0,19 Sep 2014,2014,Sep,19,2014-09-19
+1621,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4385,5140,4762.0,02 Sep 2014,2014,Sep,2,2014-09-02
+1622,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,11 Jul 2015,2015,Jul,11,2015-07-11
+1623,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,04 Feb 2015,2015,Feb,4,2015-02-04
+1624,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,19 Jan 2015,2015,Jan,19,2015-01-19
+1625,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,15 Nov 2014,2014,Nov,15,2014-11-15
+1626,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,22 Nov 2014,2014,Nov,22,2014-11-22
+1627,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,01 Jul 2015,2015,Jul,1,2015-07-01
+1628,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,02 Jul 2015,2015,Jul,2,2015-07-02
+1629,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,23 Jul 2015,2015,Jul,23,2015-07-23
+1630,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,29 May 2015,2015,May,29,2015-05-29
+1631,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,26 Sep 2014,2014,Sep,26,2014-09-26
+1632,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,27 Sep 2014,2014,Sep,27,2014-09-27
+1633,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,22 Oct 2014,2014,Oct,22,2014-10-22
+1634,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,06 Nov 2014,2014,Nov,6,2014-11-06
+1635,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4250,5000,4625.0,02 Sep 2014,2014,Sep,2,2014-09-02
+1636,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3325,3550,3437.0,07 Mar 2015,2015,Mar,7,2015-03-07
+1637,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3545,3921,3733.0,09 Apr 2015,2015,Apr,9,2015-04-09
+1638,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4285,4018.0,19 Dec 2014,2014,Dec,19,2014-12-19
+1639,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4395,4197.0,15 Jan 2015,2015,Jan,15,2015-01-15
+1640,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4005,4645,4310.0,12 Nov 2014,2014,Nov,12,2014-11-12
+1641,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4135,4725,4430.0,03 Nov 2014,2014,Nov,3,2014-11-03
+1642,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4180,4697,4438.0,30 Dec 2014,2014,Dec,30,2014-12-30
+1643,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4360,4650,4505.0,01 Jan 2015,2015,Jan,1,2015-01-01
+1644,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,20 Jul 2015,2015,Jul,20,2015-07-20
+1645,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,20 Jan 2015,2015,Jan,20,2015-01-20
+1646,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,21 Aug 2015,2015,Aug,21,2015-08-21
+1647,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,02 Jun 2015,2015,Jun,2,2015-06-02
+1648,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,04 Jul 2015,2015,Jul,4,2015-07-04
+1649,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,31 Dec 2014,2014,Dec,31,2014-12-31
+1650,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,03 Dec 2014,2014,Dec,3,2014-12-03
+1651,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,19 Sep 2014,2014,Sep,19,2014-09-19
+1652,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,23 Sep 2014,2014,Sep,23,2014-09-23
+1653,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,04 Oct 2014,2014,Oct,4,2014-10-04
+1654,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4500,5055,4777.0,10 Sep 2014,2014,Sep,10,2014-09-10
+1655,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3000,3625,3312.0,21 Mar 2015,2015,Mar,21,2015-03-21
+1656,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3325,3700,3512.0,16 Mar 2015,2015,Mar,16,2015-03-16
+1657,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3375,3575,3475.0,19 Mar 2015,2015,Mar,19,2015-03-19
+1658,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3630,4730,4180.0,24 Nov 2014,2014,Nov,24,2014-11-24
+1659,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3715,4200,3957.0,06 Feb 2015,2015,Feb,6,2015-02-06
+1660,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3755,4511,4133.0,07 Jan 2015,2015,Jan,7,2015-01-07
+1661,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3850,4196,4023.0,05 Feb 2015,2015,Feb,5,2015-02-05
+1662,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4050,4425,4277.0,06 Dec 2014,2014,Dec,6,2014-12-06
+1663,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4245,4601,4423.0,21 Nov 2014,2014,Nov,21,2014-11-21
+1664,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4680,5155,4917.0,24 Sep 2014,2014,Sep,24,2014-09-24
+1665,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4690,5050,4870.0,16 Oct 2014,2014,Oct,16,2014-10-16
+1666,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,22 Jul 2015,2015,Jul,22,2015-07-22
+1667,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,07 Aug 2015,2015,Aug,7,2015-08-07
+1668,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,13 Aug 2015,2015,Aug,13,2015-08-13
+1669,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,25 Nov 2014,2014,Nov,25,2014-11-25
+1670,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,27 Aug 2015,2015,Aug,27,2015-08-27
+1671,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,01 Jan 2015,2015,Jan,1,2015-01-01
+1672,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,18 Jun 2015,2015,Jun,18,2015-06-18
+1673,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,24 Jul 2015,2015,Jul,24,2015-07-24
+1674,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,24 Jun 2015,2015,Jun,24,2015-06-24
+1675,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,27 Jun 2015,2015,Jun,27,2015-06-27
+1676,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,09 Oct 2014,2014,Oct,9,2014-10-09
+1677,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,12 Nov 2014,2014,Nov,12,2014-11-12
+1678,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,30 Oct 2014,2014,Oct,30,2014-10-30
+1679,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4700,5325,5012.0,04 Sep 2014,2014,Sep,4,2014-09-04
+1680,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3105,3535,3320.0,03 Apr 2015,2015,Apr,3,2015-04-03
+1681,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3350,3570,3460.0,24 Mar 2015,2015,Mar,24,2015-03-24
+1682,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3400,4270,3835.0,31 Jan 2015,2015,Jan,31,2015-01-31
+1683,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3450,3560,3505.0,23 Mar 2015,2015,Mar,23,2015-03-23
+1684,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,4005,3752.0,11 Feb 2015,2015,Feb,11,2015-02-11
+1685,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3530,3695,3612.0,03 Mar 2015,2015,Mar,3,2015-03-03
+1686,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4555,4277.0,08 Jan 2015,2015,Jan,8,2015-01-08
+1687,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4105,4720,4412.0,14 Nov 2014,2014,Nov,14,2014-11-14
+1688,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4500,4970,4735.0,20 Oct 2014,2014,Oct,20,2014-10-20
+1689,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4500,5135,4817.0,27 Sep 2014,2014,Sep,27,2014-09-27
+1690,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,26 Dec 2014,2014,Dec,26,2014-12-26
+1691,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,14 Feb 2015,2015,Feb,14,2015-02-14
+1692,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,23 Jan 2015,2015,Jan,23,2015-01-23
+1693,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,20 Nov 2014,2014,Nov,20,2014-11-20
+1694,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,04 Sep 2014,2014,Sep,4,2014-09-04
+1695,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,17 Jun 2015,2015,Jun,17,2015-06-17
+1696,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,01 Dec 2014,2014,Dec,1,2014-12-01
+1697,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,13 Dec 2014,2014,Dec,13,2014-12-13
+1698,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,29 Nov 2014,2014,Nov,29,2014-11-29
+1699,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4700,5280,4990.0,06 Sep 2014,2014,Sep,6,2014-09-06
+1700,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3105,3625,3365.0,17 Mar 2015,2015,Mar,17,2015-03-17
+1701,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3250,3650,3450.0,26 Feb 2015,2015,Feb,26,2015-02-26
+1702,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3475,3585,3530.0,04 Apr 2015,2015,Apr,4,2015-04-04
+1703,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3740,4405,4072.0,05 Dec 2014,2014,Dec,5,2014-12-05
+1704,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4265,4007.0,16 Dec 2014,2014,Dec,16,2014-12-16
+1705,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3810,4180,3995.0,02 Feb 2015,2015,Feb,2,2015-02-02
+1706,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3950,4475,4212.0,12 Jan 2015,2015,Jan,12,2015-01-12
+1707,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4210,4105.0,20 Dec 2014,2014,Dec,20,2014-12-20
+1708,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4825,4412.0,01 Nov 2014,2014,Nov,1,2014-11-01
+1709,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4200,4380,4290.0,08 Dec 2014,2014,Dec,8,2014-12-08
+1710,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4745,5220,4982.0,25 Sep 2014,2014,Sep,25,2014-09-25
+1711,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4830,5280,5055.0,30 Sep 2014,2014,Sep,30,2014-09-30
+1712,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,5000,5245,5122.0,10 Sep 2014,2014,Sep,10,2014-09-10
+1713,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,5065,5580,5322.0,05 Sep 2014,2014,Sep,5,2014-09-05
+1714,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,16 Dec 2014,2014,Dec,16,2014-12-16
+1715,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,17 Dec 2014,2014,Dec,17,2014-12-17
+1716,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,14 Nov 2014,2014,Nov,14,2014-11-14
+1717,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,18 Nov 2014,2014,Nov,18,2014-11-18
+1718,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,21 Nov 2014,2014,Nov,21,2014-11-21
+1719,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,03 Sep 2014,2014,Sep,3,2014-09-03
+1720,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,30 May 2015,2015,May,30,2015-05-30
+1721,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,09 Dec 2014,2014,Dec,9,2014-12-09
+1722,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,11 Dec 2014,2014,Dec,11,2014-12-11
+1723,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,31 Oct 2014,2014,Oct,31,2014-10-31
+1724,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3540,5125,4332.0,14 Oct 2014,2014,Oct,14,2014-10-14
+1725,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3720,4000,3860.0,10 Apr 2015,2015,Apr,10,2015-04-10
+1726,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4330,4040.0,19 Jan 2015,2015,Jan,19,2015-01-19
+1727,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3865,4250,4057.0,29 Jan 2015,2015,Jan,29,2015-01-29
+1728,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4585,5105,4845.0,17 Oct 2014,2014,Oct,17,2014-10-17
+1729,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4660,5260,4960.0,10 Oct 2014,2014,Oct,10,2014-10-10
+1730,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4675,5150,4912.0,07 Oct 2014,2014,Oct,7,2014-10-07
+1731,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4750,5200,4975.0,29 Sep 2014,2014,Sep,29,2014-09-29
+1732,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,11 Aug 2015,2015,Aug,11,2015-08-11
+1733,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,01 Sep 2015,2015,Sep,1,2015-09-01
+1734,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,24 Aug 2015,2015,Aug,24,2015-08-24
+1735,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,07 Oct 2014,2014,Oct,7,2014-10-07
+1736,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,08 Oct 2014,2014,Oct,8,2014-10-08
+1737,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4250,5050,4650.0,01 Sep 2014,2014,Sep,1,2014-09-01
+1738,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3000,3845,3422.0,08 Apr 2015,2015,Apr,8,2015-04-08
+1739,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4590,4170.0,15 Nov 2014,2014,Nov,15,2014-11-15
+1740,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3905,4505,4205.0,05 Jan 2015,2015,Jan,5,2015-01-05
+1741,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4337,4168.0,21 Jan 2015,2015,Jan,21,2015-01-21
+1742,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4070,4220,4145.0,15 Dec 2014,2014,Dec,15,2014-12-15
+1743,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4125,4435,4280.0,17 Jan 2015,2015,Jan,17,2015-01-17
+1744,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4160,4415,4283.0,04 Dec 2014,2014,Dec,4,2014-12-04
+1745,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4205,4710,4457.0,25 Nov 2014,2014,Nov,25,2014-11-25
+1746,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4300,4595,4447.0,20 Nov 2014,2014,Nov,20,2014-11-20
+1747,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,5100,5205,5152.0,11 Sep 2014,2014,Sep,11,2014-09-11
+1748,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,15 Dec 2014,2014,Dec,15,2014-12-15
+1749,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,19 Dec 2014,2014,Dec,19,2014-12-19
+1750,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,16 Jan 2015,2015,Jan,16,2015-01-16
+1751,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,30 Jan 2015,2015,Jan,30,2015-01-30
+1752,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,15 Aug 2015,2015,Aug,15,2015-08-15
+1753,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,03 Aug 2015,2015,Aug,3,2015-08-03
+1754,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,04 Aug 2015,2015,Aug,4,2015-08-04
+1755,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,08 Jun 2015,2015,Jun,8,2015-06-08
+1756,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,10 Jun 2015,2015,Jun,10,2015-06-10
+1757,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,13 Jun 2015,2015,Jun,13,2015-06-13
+1758,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,31 Jul 2015,2015,Jul,31,2015-07-31
+1759,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,02 Oct 2014,2014,Oct,2,2014-10-02
+1760,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,18 Oct 2014,2014,Oct,18,2014-10-18
+1761,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,23 Oct 2014,2014,Oct,23,2014-10-23
+1762,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,01 Nov 2014,2014,Nov,1,2014-11-01
+1763,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3585,4370,3977.5,29 Nov 2014,2014,Nov,29,2014-11-29
+1764,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3655,4490,4072.0,05 Nov 2014,2014,Nov,5,2014-11-05
+1765,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3900,4570,4235.0,09 Jan 2015,2015,Jan,9,2015-01-09
+1766,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3905,4550,4227.0,26 Nov 2014,2014,Nov,26,2014-11-26
+1767,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3950,4250,4100.0,10 Dec 2014,2014,Dec,10,2014-12-10
+1768,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4040,4225,4132.0,30 Jan 2015,2015,Jan,30,2015-01-30
+1769,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4125,5060,4592.0,15 Oct 2014,2014,Oct,15,2014-10-15
+1770,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4315,4950,4632.0,04 Oct 2014,2014,Oct,4,2014-10-04
+1771,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4500,5385,4942.0,06 Sep 2014,2014,Sep,6,2014-09-06
+1772,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4675,5255,4965.0,13 Sep 2014,2014,Sep,13,2014-09-13
+1773,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4850,5305,5077.0,09 Oct 2014,2014,Oct,9,2014-10-09
+1774,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,27 Dec 2014,2014,Dec,27,2014-12-27
+1775,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,09 Jul 2015,2015,Jul,9,2015-07-09
+1776,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,10 Aug 2015,2015,Aug,10,2015-08-10
+1777,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,17 Aug 2015,2015,Aug,17,2015-08-17
+1778,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,19 Nov 2014,2014,Nov,19,2014-11-19
+1779,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,09 Sep 2014,2014,Sep,9,2014-09-09
+1780,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,01 Jun 2015,2015,Jun,1,2015-06-01
+1781,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,05 Aug 2015,2015,Aug,5,2015-08-05
+1782,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,07 Jul 2015,2015,Jul,7,2015-07-07
+1783,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,12 Jun 2015,2015,Jun,12,2015-06-12
+1784,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,26 May 2015,2015,May,26,2015-05-26
+1785,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,05 Dec 2014,2014,Dec,5,2014-12-05
+1786,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,06 Dec 2014,2014,Dec,6,2014-12-06
+1787,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,15 Sep 2014,2014,Sep,15,2014-09-15
+1788,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,03 Oct 2014,2014,Oct,3,2014-10-03
+1789,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,12 Oct 2014,2014,Oct,12,2014-10-12
+1790,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4700,5200,4950.0,11 Sep 2014,2014,Sep,11,2014-09-11
+1791,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3000,3625,3312.0,02 Mar 2015,2015,Mar,2,2015-03-02
+1792,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3250,3550,3400.0,20 Mar 2015,2015,Mar,20,2015-03-20
+1793,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3250,3830,3540.0,24 Feb 2015,2015,Feb,24,2015-02-24
+1794,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,3975,3737.5,14 Feb 2015,2015,Feb,14,2015-02-14
+1795,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3505,4005,3755.0,10 Feb 2015,2015,Feb,10,2015-02-10
+1796,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3850,4100,3975.0,13 Apr 2015,2015,Apr,13,2015-04-13
+1797,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4105,4655,4380.0,08 Nov 2014,2014,Nov,8,2014-11-08
+1798,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4250,4430,4340.0,16 Jan 2015,2015,Jan,16,2015-01-16
+1799,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4265,4465,4365.0,26 Dec 2014,2014,Dec,26,2014-12-26
+1800,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4320,5265,4792.0,15 Sep 2014,2014,Sep,15,2014-09-15
+1801,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4980,5125,5052.0,20 Sep 2014,2014,Sep,20,2014-09-20
+1802,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,25 Dec 2014,2014,Dec,25,2014-12-25
+1803,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,06 Feb 2015,2015,Feb,6,2015-02-06
+1804,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,12 Feb 2015,2015,Feb,12,2015-02-12
+1805,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,24 Jan 2015,2015,Jan,24,2015-01-24
+1806,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,05 Sep 2014,2014,Sep,5,2014-09-05
+1807,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3100,3100.0,28 Aug 2015,2015,Aug,28,2015-08-28
+1808,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,05 Jun 2015,2015,Jun,5,2015-06-05
+1809,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,09 Jan 2015,2015,Jan,9,2015-01-09
+1810,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,20 Jun 2015,2015,Jun,20,2015-06-20
+1811,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,20 May 2015,2015,May,20,2015-05-20
+1812,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,25 Jul 2015,2015,Jul,25,2015-07-25
+1813,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,27 Jul 2015,2015,Jul,27,2015-07-27
+1814,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,10 Dec 2014,2014,Dec,10,2014-12-10
+1815,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,12 Sep 2014,2014,Sep,12,2014-09-12
+1816,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,22 Sep 2014,2014,Sep,22,2014-09-22
+1817,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,27 Nov 2014,2014,Nov,27,2014-11-27
+1818,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,10 Nov 2014,2014,Nov,10,2014-11-10
+1819,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2500,3675,3087.0,11 Mar 2015,2015,Mar,11,2015-03-11
+1820,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3000,3680,3340.0,13 Mar 2015,2015,Mar,13,2015-03-13
+1821,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3620,4250,3935.0,15 Apr 2015,2015,Apr,15,2015-04-15
+1822,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3925,4340,4132.0,20 Jan 2015,2015,Jan,20,2015-01-20
+1823,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,4572,4286.0,03 Jan 2015,2015,Jan,3,2015-01-03
+1824,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4125,4975,4550.0,18 Oct 2014,2014,Oct,18,2014-10-18
+1825,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4200,4525,4362.0,27 Nov 2014,2014,Nov,27,2014-11-27
+1826,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4245,5225,4735.0,08 Oct 2014,2014,Oct,8,2014-10-08
+1827,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4350,4765,4557.0,13 Nov 2014,2014,Nov,13,2014-11-13
+1828,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4355,4700,4527.0,29 Dec 2014,2014,Dec,29,2014-12-29
+1829,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4555,4830,4692.0,10 Nov 2014,2014,Nov,10,2014-11-10
+1830,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,18 Jul 2015,2015,Jul,18,2015-07-18
+1831,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,21 Jul 2015,2015,Jul,21,2015-07-21
+1832,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,11 Feb 2015,2015,Feb,11,2015-02-11
+1833,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,16 Feb 2015,2015,Feb,16,2015-02-16
+1834,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,08 Aug 2015,2015,Aug,8,2015-08-08
+1835,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,08 Jan 2015,2015,Jan,8,2015-01-08
+1836,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,11 Jun 2015,2015,Jun,11,2015-06-11
+1837,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,25 Jun 2015,2015,Jun,25,2015-06-25
+1838,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,30 Jul 2015,2015,Jul,30,2015-07-30
+1839,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,29 Sep 2014,2014,Sep,29,2014-09-29
+1840,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,2505,3755,3140.0,07 Apr 2015,2015,Apr,7,2015-04-07
+1841,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,3906,3703.0,19 Feb 2015,2015,Feb,19,2015-02-19
+1842,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3655,4255,3955.0,22 Dec 2014,2014,Dec,22,2014-12-22
+1843,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3725,4200,3962.0,12 Dec 2014,2014,Dec,12,2014-12-12
+1844,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3865,4000,3932.0,11 Apr 2015,2015,Apr,11,2015-04-11
+1845,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3900,4225,4062.0,17 Dec 2014,2014,Dec,17,2014-12-17
+1846,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3950,4370,4160.0,23 Dec 2014,2014,Dec,23,2014-12-23
+1847,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4680,5200,4940.0,23 Sep 2014,2014,Sep,23,2014-09-23
+1848,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4950,5385,5167.0,04 Sep 2014,2014,Sep,4,2014-09-04
+1849,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,18 Dec 2014,2014,Dec,18,2014-12-18
+1850,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,16 Jul 2015,2015,Jul,16,2015-07-16
+1851,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2400,3200,3200.0,17 Jul 2015,2015,Jul,17,2015-07-17
+1852,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,02 Feb 2015,2015,Feb,2,2015-02-02
+1853,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,07 Feb 2015,2015,Feb,7,2015-02-07
+1854,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,17 Jan 2015,2015,Jan,17,2015-01-17
+1855,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,01 Aug 2015,2015,Aug,1,2015-08-01
+1856,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,03 Jul 2015,2015,Jul,3,2015-07-03
+1857,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,10 Jan 2015,2015,Jan,10,2015-01-10
+1858,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,22 May 2015,2015,May,22,2015-05-22
+1859,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,23 May 2015,2015,May,23,2015-05-23
+1860,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,27 May 2015,2015,May,27,2015-05-27
+1861,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,30 Dec 2014,2014,Dec,30,2014-12-30
+1862,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,30 Jun 2015,2015,Jun,30,2015-06-30
+1863,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,12 Dec 2014,2014,Dec,12,2014-12-12
+1864,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,20 Oct 2014,2014,Oct,20,2014-10-20
+1865,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,08 Nov 2014,2014,Nov,8,2014-11-08
+1866,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3600,3890,3745.0,18 Feb 2015,2015,Feb,18,2015-02-18
+1867,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3735,4555,4145.0,17 Nov 2014,2014,Nov,17,2014-11-17
+1868,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3750,4050,3900.0,09 Feb 2015,2015,Feb,9,2015-02-09
+1869,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4000,5150,4575.0,11 Oct 2014,2014,Oct,11,2014-10-11
+1870,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4100,4620,4360.0,07 Nov 2014,2014,Nov,7,2014-11-07
+1871,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4275,4775,4525.0,22 Nov 2014,2014,Nov,22,2014-11-22
+1872,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4955,5225,5090.0,08 Sep 2014,2014,Sep,8,2014-09-08
+1873,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,22 Dec 2014,2014,Dec,22,2014-12-22
+1874,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,05 Feb 2015,2015,Feb,5,2015-02-05
+1875,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,22 Jan 2015,2015,Jan,22,2015-01-22
+1876,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3225,3225.0,26 Jan 2015,2015,Jan,26,2015-01-26
+1877,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,12 Aug 2015,2015,Aug,12,2015-08-12
+1878,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,14 Aug 2015,2015,Aug,14,2015-08-14
+1879,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2700,2900,2900.0,18 Aug 2015,2015,Aug,18,2015-08-18
+1880,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3400,3400.0,06 Sep 2014,2014,Sep,6,2014-09-06
+1881,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,06 Jul 2015,2015,Jul,6,2015-07-06
+1882,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,09 Jun 2015,2015,Jun,9,2015-06-09
+1883,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,26 Jun 2015,2015,Jun,26,2015-06-26
+1884,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,29 Jun 2015,2015,Jun,29,2015-06-29
+1885,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,02 Dec 2014,2014,Dec,2,2014-12-02
+1886,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,04 Dec 2014,2014,Dec,4,2014-12-04
+1887,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,21 Oct 2014,2014,Oct,21,2014-10-21
+1888,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,05 Nov 2014,2014,Nov,5,2014-11-05
+1889,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3200,3400,3400.0,28 Oct 2014,2014,Oct,28,2014-10-28
+1890,,Banaskanth,Dhanera,Gur(Jaggery),Other,FAQ,4600,5225,4912.0,08 Sep 2014,2014,Sep,8,2014-09-08
+1891,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3350,3800,3575.0,23 Feb 2015,2015,Feb,23,2015-02-23
+1892,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3455,3625,3540.0,14 Mar 2015,2015,Mar,14,2015-03-14
+1893,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3500,4215,3857.0,11 Dec 2014,2014,Dec,11,2014-12-11
+1894,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3550,3850,3700.0,21 Feb 2015,2015,Feb,21,2015-02-21
+1895,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3640,4450,4045.0,01 Dec 2014,2014,Dec,1,2014-12-01
+1896,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3855,4515,4185.0,19 Nov 2014,2014,Nov,19,2014-11-19
+1897,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,3975,4205,4090.0,18 Dec 2014,2014,Dec,18,2014-12-18
+1898,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4015,4686,4350.0,27 Dec 2014,2014,Dec,27,2014-12-27
+1899,,Patan,Siddhpur,Gur(Jaggery),Other,FAQ,4250,4601,4425.0,02 Jan 2015,2015,Jan,2,2015-01-02
+1900,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2350,3400,3400.0,24 Dec 2014,2014,Dec,24,2014-12-24
+1901,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3200,3200.0,13 Feb 2015,2015,Feb,13,2015-02-13
+1902,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2650,3255,3225.0,21 Jan 2015,2015,Jan,21,2015-01-21
+1903,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,17 Nov 2014,2014,Nov,17,2014-11-17
+1904,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,2800,3200,3200.0,24 Nov 2014,2014,Nov,24,2014-11-24
+1905,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,03 Jun 2015,2015,Jun,3,2015-06-03
+1906,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,12 Jan 2015,2015,Jan,12,2015-01-12
+1907,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,15 Jun 2015,2015,Jun,15,2015-06-15
+1908,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3200,3200.0,16 Jun 2015,2015,Jun,16,2015-06-16
+1909,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,08 Dec 2014,2014,Dec,8,2014-12-08
+1910,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,17 Sep 2014,2014,Sep,17,2014-09-17
+1911,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3000,3500,3500.0,24 Sep 2014,2014,Sep,24,2014-09-24
+1912,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,06 Oct 2014,2014,Oct,6,2014-10-06
+1913,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,10 Oct 2014,2014,Oct,10,2014-10-10
+1914,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,15 Oct 2014,2014,Oct,15,2014-10-15
+1915,,Vadodara(Baroda),Vadodara,Gur(Jaggery),Other,FAQ,3100,3500,3500.0,30 Sep 2014,2014,Sep,30,2014-09-30

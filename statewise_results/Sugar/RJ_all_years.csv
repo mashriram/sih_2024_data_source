@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3350,3600,3475,31 Mar 2021,2021,Mar,31,2021-03-31
 1,1.0,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3350,3600,3500,26 Mar 2021,2021,Mar,26,2021-03-26
 2,2.0,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,3400,3600,3500,22 Mar 2021,2021,Mar,22,2021-03-22
@@ -4712,109 +4712,109 @@
 4710,4710.0,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,4000,4100,4075,08 Sep 2017,2017,Sep,8,2017-09-08
 4711,4711.0,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,4000,4150,4075,05 Sep 2017,2017,Sep,5,2017-09-05
 4712,4712.0,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,4000,4150,4075,06 Sep 2017,2017,Sep,6,2017-09-06
-4713,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4000,4400,4200,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-4714,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4100,4400,4250,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-4715,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4100,4400,4250,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-4716,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4100,4400,4250,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-4717,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4100,4400,4250,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-4718,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4350,4275,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-4719,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4350,4275,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-4720,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-4721,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-4722,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-4723,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-4724,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-4725,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4500,4350,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-4726,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4230,4400,4315,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-4727,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4250,4400,4325,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-4728,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4250,4400,4325,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-4729,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4250,4400,4325,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-4730,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4250,4500,4375,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-4731,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-4732,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-4733,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,13 Jul 2024,2024,Jul,13,2024-07-13 00:00:00
-4734,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-4735,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-4736,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-4737,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-4738,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-4739,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-4740,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,02 Oct 2024,2024,Oct,02,2024-10-02 00:00:00
-4741,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-4742,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-4743,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,03 Jul 2024,2024,Jul,03,2024-07-03 00:00:00
-4744,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-4745,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-4746,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,04 Sep 2024,2024,Sep,04,2024-09-04 00:00:00
-4747,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-4748,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-4749,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-4750,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-4751,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-4752,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-4753,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-4754,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-4755,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-4756,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-4757,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-4758,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-4759,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-4760,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-4761,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-4762,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-4763,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-4764,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-4765,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,12 Oct 2024,2024,Oct,12,2024-10-12 00:00:00
-4766,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-4767,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-4768,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-4769,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-4770,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-4771,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-4772,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-4773,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-4774,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-4775,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-4776,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-4777,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-4778,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-4779,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-4780,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-4781,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-4782,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-4783,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-4784,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-4785,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-4786,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-4787,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-4788,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-4789,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-4790,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-4791,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-4792,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-4793,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-4794,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-4795,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-4796,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-4797,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-4798,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-4799,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-4800,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-4801,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-4802,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-4803,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-4804,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,27 Jul 2024,2024,Jul,27,2024-07-27 00:00:00
-4805,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-4806,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-4807,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-4808,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-4809,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-4810,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-4811,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-4812,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-4813,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-4814,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-4815,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3900,4300,4100,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-4816,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3900,4300,4100,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-4817,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3900,4300,4100,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-4818,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3900,4300,4100,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
+4713,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4000,4400,4200,24 Sep 2024,2024,Sep,24,2024-09-24
+4714,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4100,4400,4250,17 Sep 2024,2024,Sep,17,2024-09-17
+4715,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4100,4400,4250,19 Sep 2024,2024,Sep,19,2024-09-19
+4716,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4100,4400,4250,23 Sep 2024,2024,Sep,23,2024-09-23
+4717,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4100,4400,4250,25 Sep 2024,2024,Sep,25,2024-09-25
+4718,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4350,4275,12 Nov 2024,2024,Nov,12,2024-11-12
+4719,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4350,4275,21 Nov 2024,2024,Nov,21,2024-11-21
+4720,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,05 Nov 2024,2024,Nov,5,2024-11-05
+4721,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,08 Nov 2024,2024,Nov,8,2024-11-08
+4722,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,16 Oct 2024,2024,Oct,16,2024-10-16
+4723,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,20 Sep 2024,2024,Sep,20,2024-09-20
+4724,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4400,4300,26 Sep 2024,2024,Sep,26,2024-09-26
+4725,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4200,4500,4350,29 Nov 2024,2024,Nov,29,2024-11-29
+4726,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4230,4400,4315,08 Oct 2024,2024,Oct,8,2024-10-08
+4727,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4250,4400,4325,06 Nov 2024,2024,Nov,6,2024-11-06
+4728,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4250,4400,4325,17 Oct 2024,2024,Oct,17,2024-10-17
+4729,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4250,4400,4325,18 Oct 2024,2024,Oct,18,2024-10-18
+4730,,Jaipur,Jaipur (Grain),Sugar,Other,FAQ,4250,4500,4375,02 Dec 2024,2024,Dec,2,2024-12-02
+4731,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,11 Jul 2024,2024,Jul,11,2024-07-11
+4732,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,12 Jul 2024,2024,Jul,12,2024-07-12
+4733,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,13 Jul 2024,2024,Jul,13,2024-07-13
+4734,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,16 Jul 2024,2024,Jul,16,2024-07-16
+4735,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3700,4100,3900,18 Jul 2024,2024,Jul,18,2024-07-18
+4736,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,01 Aug 2024,2024,Aug,1,2024-08-01
+4737,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,01 Nov 2024,2024,Nov,1,2024-11-01
+4738,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,02 Dec 2024,2024,Dec,2,2024-12-02
+4739,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,02 Nov 2024,2024,Nov,2,2024-11-02
+4740,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,02 Oct 2024,2024,Oct,2,2024-10-02
+4741,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,02 Sep 2024,2024,Sep,2,2024-09-02
+4742,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,03 Aug 2024,2024,Aug,3,2024-08-03
+4743,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,03 Jul 2024,2024,Jul,3,2024-07-03
+4744,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,03 Sep 2024,2024,Sep,3,2024-09-03
+4745,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,04 Nov 2024,2024,Nov,4,2024-11-04
+4746,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,04 Sep 2024,2024,Sep,4,2024-09-04
+4747,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,05 Aug 2024,2024,Aug,5,2024-08-05
+4748,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,05 Jul 2024,2024,Jul,5,2024-07-05
+4749,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,05 Sep 2024,2024,Sep,5,2024-09-05
+4750,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,06 Sep 2024,2024,Sep,6,2024-09-06
+4751,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,07 Nov 2024,2024,Nov,7,2024-11-07
+4752,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,07 Oct 2024,2024,Oct,7,2024-10-07
+4753,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,07 Sep 2024,2024,Sep,7,2024-09-07
+4754,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,08 Aug 2024,2024,Aug,8,2024-08-08
+4755,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,08 Nov 2024,2024,Nov,8,2024-11-08
+4756,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,09 Oct 2024,2024,Oct,9,2024-10-09
+4757,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,09 Sep 2024,2024,Sep,9,2024-09-09
+4758,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,10 Aug 2024,2024,Aug,10,2024-08-10
+4759,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,10 Oct 2024,2024,Oct,10,2024-10-10
+4760,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,10 Sep 2024,2024,Sep,10,2024-09-10
+4761,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,11 Nov 2024,2024,Nov,11,2024-11-11
+4762,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,11 Sep 2024,2024,Sep,11,2024-09-11
+4763,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,12 Aug 2024,2024,Aug,12,2024-08-12
+4764,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,12 Nov 2024,2024,Nov,12,2024-11-12
+4765,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,12 Oct 2024,2024,Oct,12,2024-10-12
+4766,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,12 Sep 2024,2024,Sep,12,2024-09-12
+4767,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,13 Aug 2024,2024,Aug,13,2024-08-13
+4768,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,14 Oct 2024,2024,Oct,14,2024-10-14
+4769,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,14 Sep 2024,2024,Sep,14,2024-09-14
+4770,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,16 Oct 2024,2024,Oct,16,2024-10-16
+4771,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,17 Sep 2024,2024,Sep,17,2024-09-17
+4772,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,18 Nov 2024,2024,Nov,18,2024-11-18
+4773,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,18 Oct 2024,2024,Oct,18,2024-10-18
+4774,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,18 Sep 2024,2024,Sep,18,2024-09-18
+4775,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,19 Jul 2024,2024,Jul,19,2024-07-19
+4776,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,19 Nov 2024,2024,Nov,19,2024-11-19
+4777,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,19 Oct 2024,2024,Oct,19,2024-10-19
+4778,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,19 Sep 2024,2024,Sep,19,2024-09-19
+4779,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,20 Aug 2024,2024,Aug,20,2024-08-20
+4780,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,20 Jul 2024,2024,Jul,20,2024-07-20
+4781,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,20 Sep 2024,2024,Sep,20,2024-09-20
+4782,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,21 Aug 2024,2024,Aug,21,2024-08-21
+4783,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,21 Nov 2024,2024,Nov,21,2024-11-21
+4784,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,21 Oct 2024,2024,Oct,21,2024-10-21
+4785,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,21 Sep 2024,2024,Sep,21,2024-09-21
+4786,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,22 Jul 2024,2024,Jul,22,2024-07-22
+4787,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,22 Nov 2024,2024,Nov,22,2024-11-22
+4788,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Aug 2024,2024,Aug,23,2024-08-23
+4789,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Jul 2024,2024,Jul,23,2024-07-23
+4790,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Nov 2024,2024,Nov,23,2024-11-23
+4791,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Oct 2024,2024,Oct,23,2024-10-23
+4792,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,23 Sep 2024,2024,Sep,23,2024-09-23
+4793,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,24 Jul 2024,2024,Jul,24,2024-07-24
+4794,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,24 Oct 2024,2024,Oct,24,2024-10-24
+4795,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,24 Sep 2024,2024,Sep,24,2024-09-24
+4796,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,25 Jul 2024,2024,Jul,25,2024-07-25
+4797,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,25 Nov 2024,2024,Nov,25,2024-11-25
+4798,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,25 Oct 2024,2024,Oct,25,2024-10-25
+4799,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,25 Sep 2024,2024,Sep,25,2024-09-25
+4800,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,26 Aug 2024,2024,Aug,26,2024-08-26
+4801,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,26 Nov 2024,2024,Nov,26,2024-11-26
+4802,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,26 Oct 2024,2024,Oct,26,2024-10-26
+4803,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,27 Aug 2024,2024,Aug,27,2024-08-27
+4804,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,27 Jul 2024,2024,Jul,27,2024-07-27
+4805,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,27 Sep 2024,2024,Sep,27,2024-09-27
+4806,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,28 Nov 2024,2024,Nov,28,2024-11-28
+4807,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,28 Oct 2024,2024,Oct,28,2024-10-28
+4808,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,28 Sep 2024,2024,Sep,28,2024-09-28
+4809,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,29 Jul 2024,2024,Jul,29,2024-07-29
+4810,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,29 Nov 2024,2024,Nov,29,2024-11-29
+4811,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,30 Aug 2024,2024,Aug,30,2024-08-30
+4812,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,30 Jul 2024,2024,Jul,30,2024-07-30
+4813,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,30 Nov 2024,2024,Nov,30,2024-11-30
+4814,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3800,4200,4000,30 Sep 2024,2024,Sep,30,2024-09-30
+4815,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3900,4300,4100,01 Jul 2024,2024,Jul,1,2024-07-01
+4816,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3900,4300,4100,06 Jul 2024,2024,Jul,6,2024-07-06
+4817,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3900,4300,4100,08 Jul 2024,2024,Jul,8,2024-07-08
+4818,,Udaipur,Udaipur (Grain),Sugar,Other,FAQ,3900,4300,4100,09 Jul 2024,2024,Jul,9,2024-07-09

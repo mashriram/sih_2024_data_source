@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6000,7000,6500,20 Mar 2021,2021,Mar,20,2021-03-20
 1,1.0,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6000,7000,6500,27 Feb 2021,2021,Feb,27,2021-02-27
 2,2.0,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6000,7000,6500,27 Mar 2021,2021,Mar,27,2021-03-27
@@ -1080,111 +1080,111 @@
 1078,1078.0,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6700,7000,6900,21 Jul 2018,2018,Jul,21,2018-07-21
 1079,1079.0,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6700,7000,6900,23 Jun 2018,2018,Jun,23,2018-06-23
 1080,1080.0,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6700,7000,6900,26 May 2018,2018,May,26,2018-05-26
-1081,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-1082,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-1083,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-1084,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-1085,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-1086,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-1087,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-1088,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-1089,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-1090,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-1091,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-1092,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-1093,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-1094,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-1095,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-1096,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-1097,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-1098,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-1099,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-1100,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-1101,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-1102,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-1103,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-1104,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-1105,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-1106,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-1107,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6400,6000,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-1108,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-1109,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-1110,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-1111,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-1112,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-1113,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-1114,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-1115,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-1116,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-1117,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-1118,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-1119,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-1120,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-1121,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-1122,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-1123,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-1124,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-1125,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-1126,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-1127,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-1128,,Mokokchung,Mangkolemba,Onion,Other,FAQ,6500,7500,7000,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-1129,,Mokokchung,Mangkolemba,Onion,Other,FAQ,6500,7500,7000,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-1130,,Mokokchung,Mangkolemba,Onion,Other,FAQ,6500,7500,7000,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-1131,,Mokokchung,Mangkolemba,Onion,Other,FAQ,6500,7600,7000,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-1132,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-1133,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-1134,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-1135,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-1136,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-1137,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-1138,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-1139,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-1140,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-1141,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-1142,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-1143,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-1144,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-1145,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-1146,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-1147,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-1148,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-1149,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-1150,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-1151,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-1152,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-1153,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-1154,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-1155,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-1156,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-1157,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-1158,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-1159,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-1160,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-1161,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-1162,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-1163,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-1164,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-1165,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,07 Sep 2024,2024,Sep,07,2024-09-07 00:00:00
-1166,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-1167,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-1168,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-1169,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
-1170,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-1171,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-1172,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-1173,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-1174,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-1175,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-1176,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-1177,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-1178,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-1179,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-1180,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-1181,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-1182,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-1183,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-1184,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-1185,,Peren,Tenning,Onion,Other,FAQ,3000,3500,3300,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-1186,,Peren,Tenning,Onion,Other,FAQ,3000,3500,3300,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-1187,,Peren,Tenning,Onion,Other,FAQ,3500,4000,3800,03 Aug 2024,2024,Aug,03,2024-08-03 00:00:00
-1188,,Peren,Tenning,Onion,Other,FAQ,5000,5500,5300,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
+1081,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,01 Jul 2024,2024,Jul,1,2024-07-01
+1082,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,02 Jul 2024,2024,Jul,2,2024-07-02
+1083,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,05 Aug 2024,2024,Aug,5,2024-08-05
+1084,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,06 Aug 2024,2024,Aug,6,2024-08-06
+1085,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,08 Aug 2024,2024,Aug,8,2024-08-08
+1086,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,08 Jul 2024,2024,Jul,8,2024-07-08
+1087,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,09 Aug 2024,2024,Aug,9,2024-08-09
+1088,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,10 Aug 2024,2024,Aug,10,2024-08-10
+1089,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,12 Aug 2024,2024,Aug,12,2024-08-12
+1090,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,13 Aug 2024,2024,Aug,13,2024-08-13
+1091,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,15 Jul 2024,2024,Jul,15,2024-07-15
+1092,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,16 Aug 2024,2024,Aug,16,2024-08-16
+1093,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,16 Jul 2024,2024,Jul,16,2024-07-16
+1094,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,16 Sep 2024,2024,Sep,16,2024-09-16
+1095,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,17 Aug 2024,2024,Aug,17,2024-08-17
+1096,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,18 Jul 2024,2024,Jul,18,2024-07-18
+1097,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,19 Aug 2024,2024,Aug,19,2024-08-19
+1098,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,19 Jul 2024,2024,Jul,19,2024-07-19
+1099,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,20 Aug 2024,2024,Aug,20,2024-08-20
+1100,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,20 Jul 2024,2024,Jul,20,2024-07-20
+1101,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,21 Aug 2024,2024,Aug,21,2024-08-21
+1102,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,21 Jul 2024,2024,Jul,21,2024-07-21
+1103,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,22 Jul 2024,2024,Jul,22,2024-07-22
+1104,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,23 Jul 2024,2024,Jul,23,2024-07-23
+1105,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,25 Jul 2024,2024,Jul,25,2024-07-25
+1106,,Mokokchung,Mangkolemba,Onion,Other,FAQ,4500,5500,5000,26 Jul 2024,2024,Jul,26,2024-07-26
+1107,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6400,6000,07 Sep 2024,2024,Sep,7,2024-09-07
+1108,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,01 Oct 2024,2024,Oct,1,2024-10-01
+1109,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,02 Dec 2024,2024,Dec,2,2024-12-02
+1110,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,02 Sep 2024,2024,Sep,2,2024-09-02
+1111,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,03 Oct 2024,2024,Oct,3,2024-10-03
+1112,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,03 Sep 2024,2024,Sep,3,2024-09-03
+1113,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,07 Oct 2024,2024,Oct,7,2024-10-07
+1114,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,09 Jul 2024,2024,Jul,9,2024-07-09
+1115,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,14 Oct 2024,2024,Oct,14,2024-10-14
+1116,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,19 Oct 2024,2024,Oct,19,2024-10-19
+1117,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,20 Nov 2024,2024,Nov,20,2024-11-20
+1118,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,23 Aug 2024,2024,Aug,23,2024-08-23
+1119,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,23 Sep 2024,2024,Sep,23,2024-09-23
+1120,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,24 Aug 2024,2024,Aug,24,2024-08-24
+1121,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,26 Aug 2024,2024,Aug,26,2024-08-26
+1122,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,26 Nov 2024,2024,Nov,26,2024-11-26
+1123,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,28 Oct 2024,2024,Oct,28,2024-10-28
+1124,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,29 Aug 2024,2024,Aug,29,2024-08-29
+1125,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,30 Aug 2024,2024,Aug,30,2024-08-30
+1126,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,30 Oct 2024,2024,Oct,30,2024-10-30
+1127,,Mokokchung,Mangkolemba,Onion,Other,FAQ,5500,6500,6000,31 Oct 2024,2024,Oct,31,2024-10-31
+1128,,Mokokchung,Mangkolemba,Onion,Other,FAQ,6500,7500,7000,05 Sep 2024,2024,Sep,5,2024-09-05
+1129,,Mokokchung,Mangkolemba,Onion,Other,FAQ,6500,7500,7000,06 Sep 2024,2024,Sep,6,2024-09-06
+1130,,Mokokchung,Mangkolemba,Onion,Other,FAQ,6500,7500,7000,09 Sep 2024,2024,Sep,9,2024-09-09
+1131,,Mokokchung,Mangkolemba,Onion,Other,FAQ,6500,7600,7000,29 Nov 2024,2024,Nov,29,2024-11-29
+1132,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,01 Jul 2024,2024,Jul,1,2024-07-01
+1133,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,02 Jul 2024,2024,Jul,2,2024-07-02
+1134,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,02 Sep 2024,2024,Sep,2,2024-09-02
+1135,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,05 Aug 2024,2024,Aug,5,2024-08-05
+1136,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,06 Aug 2024,2024,Aug,6,2024-08-06
+1137,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,08 Aug 2024,2024,Aug,8,2024-08-08
+1138,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,08 Jul 2024,2024,Jul,8,2024-07-08
+1139,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,09 Aug 2024,2024,Aug,9,2024-08-09
+1140,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,09 Jul 2024,2024,Jul,9,2024-07-09
+1141,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,10 Aug 2024,2024,Aug,10,2024-08-10
+1142,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,11 Aug 2024,2024,Aug,11,2024-08-11
+1143,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,12 Aug 2024,2024,Aug,12,2024-08-12
+1144,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,13 Aug 2024,2024,Aug,13,2024-08-13
+1145,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,16 Aug 2024,2024,Aug,16,2024-08-16
+1146,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,16 Sep 2024,2024,Sep,16,2024-09-16
+1147,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,17 Aug 2024,2024,Aug,17,2024-08-17
+1148,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,18 Jul 2024,2024,Jul,18,2024-07-18
+1149,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,19 Aug 2024,2024,Aug,19,2024-08-19
+1150,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,19 Jul 2024,2024,Jul,19,2024-07-19
+1151,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,20 Aug 2024,2024,Aug,20,2024-08-20
+1152,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,20 Jul 2024,2024,Jul,20,2024-07-20
+1153,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,21 Aug 2024,2024,Aug,21,2024-08-21
+1154,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,21 Jul 2024,2024,Jul,21,2024-07-21
+1155,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,22 Jul 2024,2024,Jul,22,2024-07-22
+1156,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,23 Jul 2024,2024,Jul,23,2024-07-23
+1157,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,25 Jul 2024,2024,Jul,25,2024-07-25
+1158,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,26 Jul 2024,2024,Jul,26,2024-07-26
+1159,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,4500,5500,5000,26 Nov 2024,2024,Nov,26,2024-11-26
+1160,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,01 Oct 2024,2024,Oct,1,2024-10-01
+1161,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,02 Dec 2024,2024,Dec,2,2024-12-02
+1162,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,03 Oct 2024,2024,Oct,3,2024-10-03
+1163,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,03 Sep 2024,2024,Sep,3,2024-09-03
+1164,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,07 Oct 2024,2024,Oct,7,2024-10-07
+1165,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,07 Sep 2024,2024,Sep,7,2024-09-07
+1166,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,14 Oct 2024,2024,Oct,14,2024-10-14
+1167,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,15 Jul 2024,2024,Jul,15,2024-07-15
+1168,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,16 Jul 2024,2024,Jul,16,2024-07-16
+1169,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,19 Oct 2024,2024,Oct,19,2024-10-19
+1170,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,20 Nov 2024,2024,Nov,20,2024-11-20
+1171,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,23 Aug 2024,2024,Aug,23,2024-08-23
+1172,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,23 Sep 2024,2024,Sep,23,2024-09-23
+1173,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,24 Aug 2024,2024,Aug,24,2024-08-24
+1174,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,26 Aug 2024,2024,Aug,26,2024-08-26
+1175,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,28 Oct 2024,2024,Oct,28,2024-10-28
+1176,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,29 Aug 2024,2024,Aug,29,2024-08-29
+1177,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,30 Aug 2024,2024,Aug,30,2024-08-30
+1178,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,30 Oct 2024,2024,Oct,30,2024-10-30
+1179,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,5500,6500,6000,31 Oct 2024,2024,Oct,31,2024-10-31
+1180,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,05 Sep 2024,2024,Sep,5,2024-09-05
+1181,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,06 Sep 2024,2024,Sep,6,2024-09-06
+1182,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,09 Sep 2024,2024,Sep,9,2024-09-09
+1183,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,23 Oct 2024,2024,Oct,23,2024-10-23
+1184,,Mokokchung,Mokokchung Town,Onion,Other,FAQ,6500,7500,7000,29 Nov 2024,2024,Nov,29,2024-11-29
+1185,,Peren,Tenning,Onion,Other,FAQ,3000,3500,3300,16 Jul 2024,2024,Jul,16,2024-07-16
+1186,,Peren,Tenning,Onion,Other,FAQ,3000,3500,3300,22 Aug 2024,2024,Aug,22,2024-08-22
+1187,,Peren,Tenning,Onion,Other,FAQ,3500,4000,3800,03 Aug 2024,2024,Aug,3,2024-08-03
+1188,,Peren,Tenning,Onion,Other,FAQ,5000,5500,5300,09 Aug 2024,2024,Aug,9,2024-08-09

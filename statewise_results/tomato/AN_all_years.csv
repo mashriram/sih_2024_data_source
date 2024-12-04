@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,South Andaman,Port Blair,Tomato,Other,FAQ,3000,5000,4000,02 May 2022,2022,May,2,2022-05-02
 1,1.0,South Andaman,Port Blair,Tomato,Other,FAQ,4000,6000,5000,31 Jan 2022,2022,Jan,31,2022-01-31
 2,2.0,South Andaman,Port Blair,Tomato,Other,FAQ,4000,8000,6000,04 May 2022,2022,May,4,2022-05-04
@@ -150,14 +150,14 @@
 148,148.0,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,40,80,60,15 Mar 2024,2024,Mar,15,2024-03-15
 149,149.0,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,40,80,60,23 Feb 2024,2024,Feb,23,2024-02-23
 150,150.0,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,50,80,65,01 Mar 2024,2024,Mar,1,2024-03-01
-151,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,7000,10000,8000,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-152,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,8000,12000,10000,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-153,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,10000,14000,12000,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-154,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,10000,14000,13000,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-155,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,10000,16000,12000,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-156,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,80,120,100,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-157,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,80,120,100,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-158,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,100,140,120,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-159,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,100,150,120,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-160,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,100,150,120,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-161,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,120,150,130,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
+151,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,7000,10000,8000,19 Sep 2024,2024,Sep,19,2024-09-19
+152,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,8000,12000,10000,29 Aug 2024,2024,Aug,29,2024-08-29
+153,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,10000,14000,12000,08 Oct 2024,2024,Oct,8,2024-10-08
+154,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,10000,14000,13000,20 Aug 2024,2024,Aug,20,2024-08-20
+155,,North and Middle Andaman,Diglipur,Tomato,Other,FAQ,10000,16000,12000,23 Jul 2024,2024,Jul,23,2024-07-23
+156,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,80,120,100,18 Sep 2024,2024,Sep,18,2024-09-18
+157,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,80,120,100,30 Oct 2024,2024,Oct,30,2024-10-30
+158,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,100,140,120,12 Sep 2024,2024,Sep,12,2024-09-12
+159,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,100,150,120,13 Nov 2024,2024,Nov,13,2024-11-13
+160,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,100,150,120,29 Nov 2024,2024,Nov,29,2024-11-29
+161,,North and Middle Andaman,Mayabandar,Tomato,Tomato,FAQ,120,150,130,04 Nov 2024,2024,Nov,4,2024-11-04

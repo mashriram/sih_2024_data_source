@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Mahasamund,Bhavarpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3000,3000,01 Sep 2020,2020,Sep,1,2020-09-01
 1,1.0,Koria,Baikunthpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1000,1000,1000,29 Jul 2019,2019,Jul,29,2019-07-29
 2,2.0,Mahasamund,Bhavarpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2000,2000,2000,25 Oct 2018,2018,Oct,25,2018-10-25
@@ -15,17 +15,17 @@
 13,13.0,Raipur,Kharora,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4000,4000,4000,14 Jul 2020,2020,Jul,14,2020-07-14
 14,14.0,Raipur,Neora,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4000,4000,4000,07 Jul 2020,2020,Jul,7,2020-07-07
 15,15.0,Mahasamund,Bhavarpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1990,2000,1995,25 Jul 2018,2018,Jul,25,2018-07-25
-16,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8701,9126,9126,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-17,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8801,9253,9200,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-18,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8901,8901,8901,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-19,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8910,8910,8910,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-20,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8975,8975,8975,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-21,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9200,9200,9200,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-22,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9201,9201,9201,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-23,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9292,9292,9292,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-24,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9295,9295,9295,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-25,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9410,9410,9410,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-26,,Rajnandgaon,Rajnandgaon,Arhar Dal(Tur Dal),Medium,Local,6857,6857,6857,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-27,,Rajnandgaon,Rajnandgaon,Arhar Dal(Tur Dal),Medium,Local,7100,7800,7450,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-28,,Rajnandgaon,Rajnandgaon,Arhar Dal(Tur Dal),Medium,Local,7500,7500,7500,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-29,,Rajnandgaon,Rajnandgaon,Arhar Dal(Tur Dal),Medium,Local,8500,8500,8500,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
+16,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8701,9126,9126,28 Oct 2024,2024,Oct,28,2024-10-28
+17,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8801,9253,9200,13 Nov 2024,2024,Nov,13,2024-11-13
+18,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8901,8901,8901,08 Nov 2024,2024,Nov,8,2024-11-08
+19,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8910,8910,8910,24 Oct 2024,2024,Oct,24,2024-10-24
+20,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,8975,8975,8975,26 Oct 2024,2024,Oct,26,2024-10-26
+21,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9200,9200,9200,25 Oct 2024,2024,Oct,25,2024-10-25
+22,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9201,9201,9201,29 Oct 2024,2024,Oct,29,2024-10-29
+23,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9292,9292,9292,20 Nov 2024,2024,Nov,20,2024-11-20
+24,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9295,9295,9295,02 Dec 2024,2024,Dec,2,2024-12-02
+25,,Balodabazar,Bhatapara,Arhar Dal(Tur Dal),Medium,Local,9410,9410,9410,21 Nov 2024,2024,Nov,21,2024-11-21
+26,,Rajnandgaon,Rajnandgaon,Arhar Dal(Tur Dal),Medium,Local,6857,6857,6857,30 Nov 2024,2024,Nov,30,2024-11-30
+27,,Rajnandgaon,Rajnandgaon,Arhar Dal(Tur Dal),Medium,Local,7100,7800,7450,13 Nov 2024,2024,Nov,13,2024-11-13
+28,,Rajnandgaon,Rajnandgaon,Arhar Dal(Tur Dal),Medium,Local,7500,7500,7500,25 Nov 2024,2024,Nov,25,2024-11-25
+29,,Rajnandgaon,Rajnandgaon,Arhar Dal(Tur Dal),Medium,Local,8500,8500,8500,24 Oct 2024,2024,Oct,24,2024-10-24

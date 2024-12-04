@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Alappuzha,Alappuzha,Wheat,Other,FAQ,1950,2050,2000,02 Dec 2020,2020,Dec,2,2020-12-02
 1,1.0,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,15 Dec 2020,2020,Dec,15,2020-12-15
 2,2.0,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,17 May 2021,2021,May,17,2021-05-17
@@ -2259,382 +2259,382 @@
 2257,2257.0,Kollam,Punalur,Wheat,Other,FAQ,3500,4000,3800,22 Feb 2018,2018,Feb,22,2018-02-22
 2258,2258.0,Kollam,Punalur,Wheat,Other,FAQ,4500,5000,4800,02 Sep 2017,2017,Sep,2,2017-09-02
 2259,2259.0,Kollam,Punalur,Wheat,Other,FAQ,4500,5000,4800,15 Sep 2017,2017,Sep,15,2017-09-15
-2260,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1900,1850,11 Aug 2015,2015,Aug,11,2015-08-11 00:00:00
-2261,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,06 Aug 2015,2015,Aug,06,2015-08-06 00:00:00
-2262,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2150,2075,03 Jul 2015,2015,Jul,03,2015-07-03 00:00:00
-2263,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2200,2300,2250,23 Jun 2015,2015,Jun,23,2015-06-23 00:00:00
-2264,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,14 Jan 2015,2015,Jan,14,2015-01-14 00:00:00
-2265,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,13 May 2015,2015,May,13,2015-05-13 00:00:00
-2266,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,09 Apr 2015,2015,Apr,09,2015-04-09 00:00:00
-2267,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,27 May 2015,2015,May,27,2015-05-27 00:00:00
-2268,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,04 Dec 2014,2014,Dec,04,2014-12-04 00:00:00
-2269,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,04 Sep 2014,2014,Sep,04,2014-09-04 00:00:00
-2270,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2800,2750,24 Nov 2014,2014,Nov,24,2014-11-24 00:00:00
-2271,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2800,12 Sep 2014,2014,Sep,12,2014-09-12 00:00:00
-2272,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,09 Oct 2014,2014,Oct,09,2014-10-09 00:00:00
-2273,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,30 Oct 2014,2014,Oct,30,2014-10-30 00:00:00
-2274,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2900,2850,22 Sep 2014,2014,Sep,22,2014-09-22 00:00:00
-2275,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2850,2950,2900,16 Sep 2014,2014,Sep,16,2014-09-16 00:00:00
-2276,,Alappuzha,Cherthala,Wheat,Other,FAQ,2500,2700,2600,11 Aug 2015,2015,Aug,11,2015-08-11 00:00:00
-2277,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,03 Aug 2015,2015,Aug,03,2015-08-03 00:00:00
-2278,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,25 Jul 2015,2015,Jul,25,2015-07-25 00:00:00
-2279,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3100,2900,25 May 2015,2015,May,25,2015-05-25 00:00:00
-2280,,Alappuzha,Cherthala,Wheat,Other,FAQ,3000,3200,3100,22 Apr 2015,2015,Apr,22,2015-04-22 00:00:00
-2281,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,25 Feb 2015,2015,Feb,25,2015-02-25 00:00:00
-2282,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3400,3350,01 Apr 2015,2015,Apr,01,2015-04-01 00:00:00
-2283,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1900,1850,30 Jul 2015,2015,Jul,30,2015-07-30 00:00:00
-2284,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,25 Jul 2015,2015,Jul,25,2015-07-25 00:00:00
-2285,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,27 Jun 2015,2015,Jun,27,2015-06-27 00:00:00
-2286,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,24 Jan 2015,2015,Jan,24,2015-01-24 00:00:00
-2287,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,27 Dec 2014,2014,Dec,27,2014-12-27 00:00:00
-2288,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,15 Dec 2014,2014,Dec,15,2014-12-15 00:00:00
-2289,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,19 Dec 2014,2014,Dec,19,2014-12-19 00:00:00
-2290,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2800,2750,05 Nov 2014,2014,Nov,05,2014-11-05 00:00:00
-2291,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2900,2850,23 Oct 2014,2014,Oct,23,2014-10-23 00:00:00
-2292,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2950,2875,17 Sep 2014,2014,Sep,17,2014-09-17 00:00:00
-2293,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2850,2950,2900,14 Oct 2014,2014,Oct,14,2014-10-14 00:00:00
-2294,,Alappuzha,Cherthala,Wheat,Other,FAQ,2800,3000,2900,09 Jun 2015,2015,Jun,09,2015-06-09 00:00:00
-2295,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,17 Jun 2015,2015,Jun,17,2015-06-17 00:00:00
-2296,,Alappuzha,Cherthala,Wheat,Other,FAQ,3100,3200,3150,21 Apr 2015,2015,Apr,21,2015-04-21 00:00:00
-2297,,Alappuzha,Cherthala,Wheat,Other,FAQ,3100,3250,3200,17 Dec 2014,2014,Dec,17,2014-12-17 00:00:00
-2298,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,06 Feb 2015,2015,Feb,06,2015-02-06 00:00:00
-2299,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3450,3400,22 Nov 2014,2014,Nov,22,2014-11-22 00:00:00
-2300,,Kollam,Punalur,Wheat,Other,FAQ,2800,3300,3000,07 Jul 2015,2015,Jul,07,2015-07-07 00:00:00
-2301,,Kollam,Punalur,Wheat,Other,FAQ,3000,3500,3200,18 Jun 2015,2015,Jun,18,2015-06-18 00:00:00
-2302,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,13 Aug 2015,2015,Aug,13,2015-08-13 00:00:00
-2303,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,01 Jul 2015,2015,Jul,01,2015-07-01 00:00:00
-2304,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,06 Feb 2015,2015,Feb,06,2015-02-06 00:00:00
-2305,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,22 Jan 2015,2015,Jan,22,2015-01-22 00:00:00
-2306,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,29 Jan 2015,2015,Jan,29,2015-01-29 00:00:00
-2307,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,12 Mar 2015,2015,Mar,12,2015-03-12 00:00:00
-2308,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,17 Dec 2014,2014,Dec,17,2014-12-17 00:00:00
-2309,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,27 Apr 2015,2015,Apr,27,2015-04-27 00:00:00
-2310,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,22 Dec 2014,2014,Dec,22,2014-12-22 00:00:00
-2311,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2675,27 Nov 2014,2014,Nov,27,2014-11-27 00:00:00
-2312,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-2313,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,12 Nov 2014,2014,Nov,12,2014-11-12 00:00:00
-2314,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,18 Sep 2014,2014,Sep,18,2014-09-18 00:00:00
-2315,,Alappuzha,Cherthala,Wheat,Other,FAQ,2550,2650,2600,13 Aug 2015,2015,Aug,13,2015-08-13 00:00:00
-2316,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,26 Jun 2015,2015,Jun,26,2015-06-26 00:00:00
-2317,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,03 Jun 2015,2015,Jun,03,2015-06-03 00:00:00
-2318,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,29 Jul 2015,2015,Jul,29,2015-07-29 00:00:00
-2319,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,05 Jun 2015,2015,Jun,05,2015-06-05 00:00:00
-2320,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3350,3300,24 Apr 2015,2015,Apr,24,2015-04-24 00:00:00
-2321,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
-2322,,Alappuzha,Cherthala,Wheat,Other,FAQ,3450,3600,3500,03 Feb 2015,2015,Feb,03,2015-02-03 00:00:00
-2323,,Kollam,Punalur,Wheat,Other,FAQ,2800,3000,2900,20 Aug 2015,2015,Aug,20,2015-08-20 00:00:00
-2324,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,28 Jul 2015,2015,Jul,28,2015-07-28 00:00:00
-2325,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1850,1950,1900,24 Aug 2015,2015,Aug,24,2015-08-24 00:00:00
-2326,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,22 Aug 2015,2015,Aug,22,2015-08-22 00:00:00
-2327,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,06 Jul 2015,2015,Jul,06,2015-07-06 00:00:00
-2328,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,11 Feb 2015,2015,Feb,11,2015-02-11 00:00:00
-2329,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,23 Jan 2015,2015,Jan,23,2015-01-23 00:00:00
-2330,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2450,2400,16 Feb 2015,2015,Feb,16,2015-02-16 00:00:00
-2331,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2500,2425,25 May 2015,2015,May,25,2015-05-25 00:00:00
-2332,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2500,2450,29 Dec 2014,2014,Dec,29,2014-12-29 00:00:00
-2333,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,05 Feb 2015,2015,Feb,05,2015-02-05 00:00:00
-2334,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,06 May 2015,2015,May,06,2015-05-06 00:00:00
-2335,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,16 Mar 2015,2015,Mar,16,2015-03-16 00:00:00
-2336,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
-2337,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,13 Oct 2014,2014,Oct,13,2014-10-13 00:00:00
-2338,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,27 Oct 2014,2014,Oct,27,2014-10-27 00:00:00
-2339,,Alappuzha,Cherthala,Wheat,Other,FAQ,2800,3100,2900,23 Apr 2015,2015,Apr,23,2015-04-23 00:00:00
-2340,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,16 Jun 2015,2015,Jun,16,2015-06-16 00:00:00
-2341,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3450,3400,19 Mar 2015,2015,Mar,19,2015-03-19 00:00:00
-2342,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,27 Nov 2014,2014,Nov,27,2014-11-27 00:00:00
-2343,,Kollam,Punalur,Wheat,Other,FAQ,2700,3000,2800,22 Jun 2015,2015,Jun,22,2015-06-22 00:00:00
-2344,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1900,1850,04 Aug 2015,2015,Aug,04,2015-08-04 00:00:00
-2345,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,29 Jul 2015,2015,Jul,29,2015-07-29 00:00:00
-2346,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,31 Jul 2015,2015,Jul,31,2015-07-31 00:00:00
-2347,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2100,2200,2150,10 Jul 2015,2015,Jul,10,2015-07-10 00:00:00
-2348,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,24 Feb 2015,2015,Feb,24,2015-02-24 00:00:00
-2349,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,07 Feb 2015,2015,Feb,07,2015-02-07 00:00:00
-2350,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,13 Jan 2015,2015,Jan,13,2015-01-13 00:00:00
-2351,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,18 Feb 2015,2015,Feb,18,2015-02-18 00:00:00
-2352,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,24 Dec 2014,2014,Dec,24,2014-12-24 00:00:00
-2353,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,05 May 2015,2015,May,05,2015-05-05 00:00:00
-2354,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,07 Apr 2015,2015,Apr,07,2015-04-07 00:00:00
-2355,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,07 May 2015,2015,May,07,2015-05-07 00:00:00
-2356,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,11 Mar 2015,2015,Mar,11,2015-03-11 00:00:00
-2357,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,23 Feb 2015,2015,Feb,23,2015-02-23 00:00:00
-2358,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,25 Feb 2015,2015,Feb,25,2015-02-25 00:00:00
-2359,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,28 Nov 2014,2014,Nov,28,2014-11-28 00:00:00
-2360,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
-2361,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,15 Nov 2014,2014,Nov,15,2014-11-15 00:00:00
-2362,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,16 Oct 2014,2014,Oct,16,2014-10-16 00:00:00
-2363,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,3000,2800,02 Jun 2015,2015,Jun,02,2015-06-02 00:00:00
-2364,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3100,3000,09 Apr 2015,2015,Apr,09,2015-04-09 00:00:00
-2365,,Alappuzha,Cherthala,Wheat,Other,FAQ,2900,3100,3000,12 Jun 2015,2015,Jun,12,2015-06-12 00:00:00
-2366,,Alappuzha,Cherthala,Wheat,Other,FAQ,3150,3300,3200,06 May 2015,2015,May,06,2015-05-06 00:00:00
-2367,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3350,3300,07 May 2015,2015,May,07,2015-05-07 00:00:00
-2368,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,18 Mar 2015,2015,Mar,18,2015-03-18 00:00:00
-2369,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,11 Feb 2015,2015,Feb,11,2015-02-11 00:00:00
-2370,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3500,3450,05 Dec 2014,2014,Dec,05,2014-12-05 00:00:00
-2371,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3600,3500,21 Feb 2015,2015,Feb,21,2015-02-21 00:00:00
-2372,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,07 Aug 2015,2015,Aug,07,2015-08-07 00:00:00
-2373,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,01 Sep 2015,2015,Sep,01,2015-09-01 00:00:00
-2374,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,19 Aug 2015,2015,Aug,19,2015-08-19 00:00:00
-2375,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,08 Jun 2015,2015,Jun,08,2015-06-08 00:00:00
-2376,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,15 Jan 2015,2015,Jan,15,2015-01-15 00:00:00
-2377,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,17 Jun 2015,2015,Jun,17,2015-06-17 00:00:00
-2378,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2450,2400,07 Jan 2015,2015,Jan,07,2015-01-07 00:00:00
-2379,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2475,2450,04 Feb 2015,2015,Feb,04,2015-02-04 00:00:00
-2380,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,04 May 2015,2015,May,04,2015-05-04 00:00:00
-2381,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,16 Apr 2015,2015,Apr,16,2015-04-16 00:00:00
-2382,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2475,23 Mar 2015,2015,Mar,23,2015-03-23 00:00:00
-2383,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2675,29 Nov 2014,2014,Nov,29,2014-11-29 00:00:00
-2384,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2800,2750,04 Nov 2014,2014,Nov,04,2014-11-04 00:00:00
-2385,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
-2386,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2875,08 Oct 2014,2014,Oct,08,2014-10-08 00:00:00
-2387,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,23 Jul 2015,2015,Jul,23,2015-07-23 00:00:00
-2388,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,22 Jun 2015,2015,Jun,22,2015-06-22 00:00:00
-2389,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,04 Apr 2015,2015,Apr,04,2015-04-04 00:00:00
-2390,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,13 Mar 2015,2015,Mar,13,2015-03-13 00:00:00
-2391,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,26 Dec 2014,2014,Dec,26,2014-12-26 00:00:00
-2392,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,03 Aug 2015,2015,Aug,03,2015-08-03 00:00:00
-2393,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,25 Aug 2015,2015,Aug,25,2015-08-25 00:00:00
-2394,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1950,2050,2000,23 Jul 2015,2015,Jul,23,2015-07-23 00:00:00
-2395,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2150,2075,13 Jul 2015,2015,Jul,13,2015-07-13 00:00:00
-2396,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,26 Dec 2014,2014,Dec,26,2014-12-26 00:00:00
-2397,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2450,2400,21 Jan 2015,2015,Jan,21,2015-01-21 00:00:00
-2398,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,09 Jan 2015,2015,Jan,09,2015-01-09 00:00:00
-2399,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
-2400,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,18 Mar 2015,2015,Mar,18,2015-03-18 00:00:00
-2401,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,19 Mar 2015,2015,Mar,19,2015-03-19 00:00:00
-2402,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,20 May 2015,2015,May,20,2015-05-20 00:00:00
-2403,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,23 Apr 2015,2015,Apr,23,2015-04-23 00:00:00
-2404,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,05 Dec 2014,2014,Dec,05,2014-12-05 00:00:00
-2405,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
-2406,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2750,05 Sep 2014,2014,Sep,05,2014-09-05 00:00:00
-2407,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,22 Jul 2015,2015,Jul,22,2015-07-22 00:00:00
-2408,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3400,3300,09 Feb 2015,2015,Feb,09,2015-02-09 00:00:00
-2409,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3350,3300,24 Mar 2015,2015,Mar,24,2015-03-24 00:00:00
-2410,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,12 Mar 2015,2015,Mar,12,2015-03-12 00:00:00
-2411,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,24 Dec 2014,2014,Dec,24,2014-12-24 00:00:00
-2412,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3450,3400,23 Feb 2015,2015,Feb,23,2015-02-23 00:00:00
-2413,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3500,3400,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
-2414,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,09 Mar 2015,2015,Mar,09,2015-03-09 00:00:00
-2415,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,15 Nov 2014,2014,Nov,15,2014-11-15 00:00:00
-2416,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00
-2417,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3600,3500,11 Mar 2015,2015,Mar,11,2015-03-11 00:00:00
-2418,,Kollam,Punalur,Wheat,Other,FAQ,2500,3000,2800,14 Jul 2015,2015,Jul,14,2015-07-14 00:00:00
-2419,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1900,1850,27 Jul 2015,2015,Jul,27,2015-07-27 00:00:00
-2420,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,12 Aug 2015,2015,Aug,12,2015-08-12 00:00:00
-2421,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2200,2300,2250,24 Jun 2015,2015,Jun,24,2015-06-24 00:00:00
-2422,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,02 Jun 2015,2015,Jun,02,2015-06-02 00:00:00
-2423,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,12 May 2015,2015,May,12,2015-05-12 00:00:00
-2424,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,16 May 2015,2015,May,16,2015-05-16 00:00:00
-2425,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,06 Apr 2015,2015,Apr,06,2015-04-06 00:00:00
-2426,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,10 Mar 2015,2015,Mar,10,2015-03-10 00:00:00
-2427,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,18 Apr 2015,2015,Apr,18,2015-04-18 00:00:00
-2428,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,19 Feb 2015,2015,Feb,19,2015-02-19 00:00:00
-2429,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2425,2500,2475,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
-2430,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,08 Dec 2014,2014,Dec,08,2014-12-08 00:00:00
-2431,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,10 Dec 2014,2014,Dec,10,2014-12-10 00:00:00
-2432,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
-2433,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,07 Nov 2014,2014,Nov,07,2014-11-07 00:00:00
-2434,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2775,2900,2850,29 Oct 2014,2014,Oct,29,2014-10-29 00:00:00
-2435,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,18 Oct 2014,2014,Oct,18,2014-10-18 00:00:00
-2436,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2850,2950,2900,23 Sep 2014,2014,Sep,23,2014-09-23 00:00:00
-2437,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2750,2700,12 Aug 2015,2015,Aug,12,2015-08-12 00:00:00
-2438,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,04 Jun 2015,2015,Jun,04,2015-06-04 00:00:00
-2439,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,06 Jul 2015,2015,Jul,06,2015-07-06 00:00:00
-2440,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,18 May 2015,2015,May,18,2015-05-18 00:00:00
-2441,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,21 Jul 2015,2015,Jul,21,2015-07-21 00:00:00
-2442,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,3000,2800,15 Jun 2015,2015,Jun,15,2015-06-15 00:00:00
-2443,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3350,3300,23 Dec 2014,2014,Dec,23,2014-12-23 00:00:00
-2444,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,01 Aug 2015,2015,Aug,01,2015-08-01 00:00:00
-2445,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,21 Aug 2015,2015,Aug,21,2015-08-21 00:00:00
-2446,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,14 Jul 2015,2015,Jul,14,2015-07-14 00:00:00
-2447,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2150,2075,30 Jun 2015,2015,Jun,30,2015-06-30 00:00:00
-2448,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2100,2200,2150,19 Jun 2015,2015,Jun,19,2015-06-19 00:00:00
-2449,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,03 Feb 2015,2015,Feb,03,2015-02-03 00:00:00
-2450,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,09 Feb 2015,2015,Feb,09,2015-02-09 00:00:00
-2451,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,18 May 2015,2015,May,18,2015-05-18 00:00:00
-2452,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,20 Mar 2015,2015,Mar,20,2015-03-20 00:00:00
-2453,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,24 Apr 2015,2015,Apr,24,2015-04-24 00:00:00
-2454,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,08 Jan 2015,2015,Jan,08,2015-01-08 00:00:00
-2455,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,28 Oct 2014,2014,Oct,28,2014-10-28 00:00:00
-2456,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,20 Oct 2014,2014,Oct,20,2014-10-20 00:00:00
-2457,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2750,04 Jul 2015,2015,Jul,04,2015-07-04 00:00:00
-2458,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,27 Mar 2015,2015,Mar,27,2015-03-27 00:00:00
-2459,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,3000,2800,02 Jul 2015,2015,Jul,02,2015-07-02 00:00:00
-2460,,Alappuzha,Cherthala,Wheat,Other,FAQ,3100,3200,3150,17 Apr 2015,2015,Apr,17,2015-04-17 00:00:00
-2461,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3400,3300,08 May 2015,2015,May,08,2015-05-08 00:00:00
-2462,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,01 Dec 2014,2014,Dec,01,2014-12-01 00:00:00
-2463,,Alappuzha,Cherthala,Wheat,Other,FAQ,3850,4000,3900,18 Jun 2015,2015,Jun,18,2015-06-18 00:00:00
-2464,,Kollam,Punalur,Wheat,Other,FAQ,3000,3500,3200,10 Jul 2015,2015,Jul,10,2015-07-10 00:00:00
-2465,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2050,2150,2100,08 Jul 2015,2015,Jul,08,2015-07-08 00:00:00
-2466,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2100,2250,2175,18 Jun 2015,2015,Jun,18,2015-06-18 00:00:00
-2467,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,30 Mar 2015,2015,Mar,30,2015-03-30 00:00:00
-2468,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,31 Mar 2015,2015,Mar,31,2015-03-31 00:00:00
-2469,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,09 Jun 2015,2015,Jun,09,2015-06-09 00:00:00
-2470,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,20 Jan 2015,2015,Jan,20,2015-01-20 00:00:00
-2471,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,17 Mar 2015,2015,Mar,17,2015-03-17 00:00:00
-2472,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,26 May 2015,2015,May,26,2015-05-26 00:00:00
-2473,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2550,2475,16 Dec 2014,2014,Dec,16,2014-12-16 00:00:00
-2474,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2500,2600,2550,31 Dec 2014,2014,Dec,31,2014-12-31 00:00:00
-2475,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2675,02 Dec 2014,2014,Dec,02,2014-12-02 00:00:00
-2476,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2800,2750,13 Nov 2014,2014,Nov,13,2014-11-13 00:00:00
-2477,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,24 Sep 2014,2014,Sep,24,2014-09-24 00:00:00
-2478,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2900,2850,30 Sep 2014,2014,Sep,30,2014-09-30 00:00:00
-2479,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2850,2800,27 Jun 2015,2015,Jun,27,2015-06-27 00:00:00
-2480,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3100,2900,06 Apr 2015,2015,Apr,06,2015-04-06 00:00:00
-2481,,Alappuzha,Cherthala,Wheat,Other,FAQ,2900,3050,3000,11 Jun 2015,2015,Jun,11,2015-06-11 00:00:00
-2482,,Alappuzha,Cherthala,Wheat,Other,FAQ,3150,3250,3200,13 Jul 2015,2015,Jul,13,2015-07-13 00:00:00
-2483,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3400,3300,07 Mar 2015,2015,Mar,07,2015-03-07 00:00:00
-2484,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3500,3400,30 Jan 2015,2015,Jan,30,2015-01-30 00:00:00
-2485,,Alappuzha,Cherthala,Wheat,Other,FAQ,3375,3500,3400,06 Mar 2015,2015,Mar,06,2015-03-06 00:00:00
-2486,,Kollam,Punalur,Wheat,Other,FAQ,2800,3200,3000,29 Jun 2015,2015,Jun,29,2015-06-29 00:00:00
-2487,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,10 Feb 2015,2015,Feb,10,2015-02-10 00:00:00
-2488,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,12 Jan 2015,2015,Jan,12,2015-01-12 00:00:00
-2489,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,20 Dec 2014,2014,Dec,20,2014-12-20 00:00:00
-2490,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,01 Apr 2015,2015,Apr,01,2015-04-01 00:00:00
-2491,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,13 Apr 2015,2015,Apr,13,2015-04-13 00:00:00
-2492,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,13 Mar 2015,2015,Mar,13,2015-03-13 00:00:00
-2493,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,19 May 2015,2015,May,19,2015-05-19 00:00:00
-2494,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,24 Mar 2015,2015,Mar,24,2015-03-24 00:00:00
-2495,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,10 Oct 2014,2014,Oct,10,2014-10-10 00:00:00
-2496,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,15 Oct 2014,2014,Oct,15,2014-10-15 00:00:00
-2497,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,19 Nov 2014,2014,Nov,19,2014-11-19 00:00:00
-2498,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,17 Jul 2015,2015,Jul,17,2015-07-17 00:00:00
-2499,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,30 Jul 2015,2015,Jul,30,2015-07-30 00:00:00
-2500,,Alappuzha,Cherthala,Wheat,Other,FAQ,3000,3150,3100,10 Apr 2015,2015,Apr,10,2015-04-10 00:00:00
-2501,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3275,3250,16 Apr 2015,2015,Apr,16,2015-04-16 00:00:00
-2502,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,13 Apr 2015,2015,Apr,13,2015-04-13 00:00:00
-2503,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,29 May 2015,2015,May,29,2015-05-29 00:00:00
-2504,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,12 Feb 2015,2015,Feb,12,2015-02-12 00:00:00
-2505,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
-2506,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,28 Feb 2015,2015,Feb,28,2015-02-28 00:00:00
-2507,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3550,3500,13 Nov 2014,2014,Nov,13,2014-11-13 00:00:00
-2508,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3550,3500,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
-2509,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3600,3500,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
-2510,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,10 Apr 2015,2015,Apr,10,2015-04-10 00:00:00
-2511,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,11 Jun 2015,2015,Jun,11,2015-06-11 00:00:00
-2512,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,25 Mar 2015,2015,Mar,25,2015-03-25 00:00:00
-2513,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2525,2475,28 Feb 2015,2015,Feb,28,2015-02-28 00:00:00
-2514,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2600,2550,02 Mar 2015,2015,Mar,02,2015-03-02 00:00:00
-2515,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2500,2600,2550,04 Apr 2015,2015,Apr,04,2015-04-04 00:00:00
-2516,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,01 Dec 2014,2014,Dec,01,2014-12-01 00:00:00
-2517,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,20 Jul 2015,2015,Jul,20,2015-07-20 00:00:00
-2518,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,06 Jun 2015,2015,Jun,06,2015-06-06 00:00:00
-2519,,Alappuzha,Cherthala,Wheat,Other,FAQ,3000,3200,3100,26 May 2015,2015,May,26,2015-05-26 00:00:00
-2520,,Alappuzha,Cherthala,Wheat,Other,FAQ,3150,3250,3200,12 May 2015,2015,May,12,2015-05-12 00:00:00
-2521,,Alappuzha,Cherthala,Wheat,Other,FAQ,3150,3300,3200,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
-2522,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,25 Apr 2015,2015,Apr,25,2015-04-25 00:00:00
-2523,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3450,3400,21 Jan 2015,2015,Jan,21,2015-01-21 00:00:00
-2524,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3450,3400,04 Dec 2014,2014,Dec,04,2014-12-04 00:00:00
-2525,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
-2526,,Kollam,Punalur,Wheat,Other,FAQ,2500,3000,2800,24 Aug 2015,2015,Aug,24,2015-08-24 00:00:00
-2527,,Kollam,Punalur,Wheat,Other,FAQ,2700,3000,2900,08 Jun 2015,2015,Jun,08,2015-06-08 00:00:00
-2528,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,17 Aug 2015,2015,Aug,17,2015-08-17 00:00:00
-2529,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1950,2050,2000,22 Jul 2015,2015,Jul,22,2015-07-22 00:00:00
-2530,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2050,2150,2100,02 Jul 2015,2015,Jul,02,2015-07-02 00:00:00
-2531,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2200,2300,2250,25 Jun 2015,2015,Jun,25,2015-06-25 00:00:00
-2532,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2250,2325,2300,22 Jun 2015,2015,Jun,22,2015-06-22 00:00:00
-2533,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,10 Jun 2015,2015,Jun,10,2015-06-10 00:00:00
-2534,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,01 Jun 2015,2015,Jun,01,2015-06-01 00:00:00
-2535,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,16 Jan 2015,2015,Jan,16,2015-01-16 00:00:00
-2536,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,17 Jan 2015,2015,Jan,17,2015-01-17 00:00:00
-2537,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,22 May 2015,2015,May,22,2015-05-22 00:00:00
-2538,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,28 Jan 2015,2015,Jan,28,2015-01-28 00:00:00
-2539,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2475,2425,27 Mar 2015,2015,Mar,27,2015-03-27 00:00:00
-2540,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,27 Feb 2015,2015,Feb,27,2015-02-27 00:00:00
-2541,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2700,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00
-2542,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
-2543,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
-2544,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
-2545,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,07 Oct 2014,2014,Oct,07,2014-10-07 00:00:00
-2546,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,17 Oct 2014,2014,Oct,17,2014-10-17 00:00:00
-2547,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2950,2875,04 Oct 2014,2014,Oct,04,2014-10-04 00:00:00
-2548,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,14 Jul 2015,2015,Jul,14,2015-07-14 00:00:00
-2549,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,19 Jun 2015,2015,Jun,19,2015-06-19 00:00:00
-2550,,Alappuzha,Cherthala,Wheat,Other,FAQ,2800,3000,2900,03 Jul 2015,2015,Jul,03,2015-07-03 00:00:00
-2551,,Alappuzha,Cherthala,Wheat,Other,FAQ,2950,3100,3000,20 Apr 2015,2015,Apr,20,2015-04-20 00:00:00
-2552,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,29 Apr 2015,2015,Apr,29,2015-04-29 00:00:00
-2553,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3400,3350,22 Dec 2014,2014,Dec,22,2014-12-22 00:00:00
-2554,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3500,3400,26 Feb 2015,2015,Feb,26,2015-02-26 00:00:00
-2555,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
-2556,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,05 Jun 2015,2015,Jun,05,2015-06-05 00:00:00
-2557,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,12 Jun 2015,2015,Jun,12,2015-06-12 00:00:00
-2558,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,15 Jun 2015,2015,Jun,15,2015-06-15 00:00:00
-2559,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,19 Jan 2015,2015,Jan,19,2015-01-19 00:00:00
-2560,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,03 Mar 2015,2015,Mar,03,2015-03-03 00:00:00
-2561,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,17 Apr 2015,2015,Apr,17,2015-04-17 00:00:00
-2562,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,28 Apr 2015,2015,Apr,28,2015-04-28 00:00:00
-2563,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,28 Mar 2015,2015,Mar,28,2015-03-28 00:00:00
-2564,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2675,06 Dec 2014,2014,Dec,06,2014-12-06 00:00:00
-2565,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
-2566,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2750,01 Nov 2014,2014,Nov,01,2014-11-01 00:00:00
-2567,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2775,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
-2568,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,21 Oct 2014,2014,Oct,21,2014-10-21 00:00:00
-2569,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,25 Oct 2014,2014,Oct,25,2014-10-25 00:00:00
-2570,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,26 Sep 2014,2014,Sep,26,2014-09-26 00:00:00
-2571,,Alappuzha,Cherthala,Wheat,Other,FAQ,2700,2900,2800,27 Jul 2015,2015,Jul,27,2015-07-27 00:00:00
-2572,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,29 Jun 2015,2015,Jun,29,2015-06-29 00:00:00
-2573,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,30 Mar 2015,2015,Mar,30,2015-03-30 00:00:00
-2574,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,08 Jun 2015,2015,Jun,08,2015-06-08 00:00:00
-2575,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,10 Jun 2015,2015,Jun,10,2015-06-10 00:00:00
-2576,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,13 May 2015,2015,May,13,2015-05-13 00:00:00
-2577,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,17 Mar 2015,2015,Mar,17,2015-03-17 00:00:00
-2578,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3400,3350,02 Mar 2015,2015,Mar,02,2015-03-02 00:00:00
-2579,,Kollam,Punalur,Wheat,Other,FAQ,2800,3500,3000,30 Jul 2015,2015,Jul,30,2015-07-30 00:00:00
-2580,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2050,1975,15 Jul 2015,2015,Jul,15,2015-07-15 00:00:00
-2581,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2050,1975,21 Jul 2015,2015,Jul,21,2015-07-21 00:00:00
-2582,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2050,2000,20 Jul 2015,2015,Jul,20,2015-07-20 00:00:00
-2583,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1975,2100,2050,04 Jul 2015,2015,Jul,04,2015-07-04 00:00:00
-2584,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,07 Jul 2015,2015,Jul,07,2015-07-07 00:00:00
-2585,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2100,2200,2150,17 Jul 2015,2015,Jul,17,2015-07-17 00:00:00
-2586,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,02 Feb 2015,2015,Feb,02,2015-02-02 00:00:00
-2587,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,06 Jun 2015,2015,Jun,06,2015-06-06 00:00:00
-2588,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,16 Jun 2015,2015,Jun,16,2015-06-16 00:00:00
-2589,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2475,2450,21 May 2015,2015,May,21,2015-05-21 00:00:00
-2590,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,02 May 2015,2015,May,02,2015-05-02 00:00:00
-2591,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,14 May 2015,2015,May,14,2015-05-14 00:00:00
-2592,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,20 Apr 2015,2015,Apr,20,2015-04-20 00:00:00
-2593,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,21 Apr 2015,2015,Apr,21,2015-04-21 00:00:00
-2594,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,21 Mar 2015,2015,Mar,21,2015-03-21 00:00:00
-2595,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,22 Apr 2015,2015,Apr,22,2015-04-22 00:00:00
-2596,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2500,2475,04 Mar 2015,2015,Mar,04,2015-03-04 00:00:00
-2597,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,05 Jan 2015,2015,Jan,05,2015-01-05 00:00:00
-2598,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,26 Feb 2015,2015,Feb,26,2015-02-26 00:00:00
-2599,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,29 Sep 2014,2014,Sep,29,2014-09-29 00:00:00
-2600,,Alappuzha,Cherthala,Wheat,Other,FAQ,2500,2900,2700,01 Oct 2014,2014,Oct,01,2014-10-01 00:00:00
-2601,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,01 Aug 2015,2015,Aug,01,2015-08-01 00:00:00
-2602,,Alappuzha,Cherthala,Wheat,Other,FAQ,2700,2850,2800,20 Jun 2015,2015,Jun,20,2015-06-20 00:00:00
-2603,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,23 Jun 2015,2015,Jun,23,2015-06-23 00:00:00
-2604,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,30 Apr 2015,2015,Apr,30,2015-04-30 00:00:00
-2605,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,18 Apr 2015,2015,Apr,18,2015-04-18 00:00:00
-2606,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,19 May 2015,2015,May,19,2015-05-19 00:00:00
-2607,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,15 May 2015,2015,May,15,2015-05-15 00:00:00
-2608,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,27 Feb 2015,2015,Feb,27,2015-02-27 00:00:00
-2609,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3500,3400,24 Jan 2015,2015,Jan,24,2015-01-24 00:00:00
-2610,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,16 Feb 2015,2015,Feb,16,2015-02-16 00:00:00
-2611,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,17 Jan 2015,2015,Jan,17,2015-01-17 00:00:00
-2612,,Alappuzha,Cherthala,Wheat,Other,FAQ,3450,3550,3500,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
-2613,,Kollam,Punalur,Wheat,Other,FAQ,3000,3200,3100,15 Jun 2015,2015,Jun,15,2015-06-15 00:00:00
-2614,,Kollam,Punalur,Wheat,Other,FAQ,3000,3500,3300,25 Jun 2015,2015,Jun,25,2015-06-25 00:00:00
-2615,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,05 Aug 2015,2015,Aug,05,2015-08-05 00:00:00
-2616,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1950,2050,2000,16 Jul 2015,2015,Jul,16,2015-07-16 00:00:00
-2617,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,04 Jun 2015,2015,Jun,04,2015-06-04 00:00:00
-2618,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,12 Feb 2015,2015,Feb,12,2015-02-12 00:00:00
-2619,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2475,2425,13 Feb 2015,2015,Feb,13,2015-02-13 00:00:00
-2620,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2500,2450,15 May 2015,2015,May,15,2015-05-15 00:00:00
-2621,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,08 May 2015,2015,May,08,2015-05-08 00:00:00
-2622,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,23 Dec 2014,2014,Dec,23,2014-12-23 00:00:00
-2623,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,25 Apr 2015,2015,Apr,25,2015-04-25 00:00:00
-2624,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,29 Apr 2015,2015,Apr,29,2015-04-29 00:00:00
-2625,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,01 Jan 2015,2015,Jan,01,2015-01-01 00:00:00
-2626,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
-2627,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2800,2725,01 Sep 2014,2014,Sep,01,2014-09-01 00:00:00
-2628,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2775,03 Sep 2014,2014,Sep,03,2014-09-03 00:00:00
-2629,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2775,31 Oct 2014,2014,Oct,31,2014-10-31 00:00:00
-2630,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,20 Nov 2014,2014,Nov,20,2014-11-20 00:00:00
-2631,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,19 Sep 2014,2014,Sep,19,2014-09-19 00:00:00
-2632,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,25 Sep 2014,2014,Sep,25,2014-09-25 00:00:00
-2633,,Alappuzha,Cherthala,Wheat,Other,FAQ,2550,2650,2600,19 Aug 2015,2015,Aug,19,2015-08-19 00:00:00
-2634,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,15 Jul 2015,2015,Jul,15,2015-07-15 00:00:00
-2635,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,07 Jul 2015,2015,Jul,07,2015-07-07 00:00:00
-2636,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3350,3300,20 Mar 2015,2015,Mar,20,2015-03-20 00:00:00
-2637,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,10 Mar 2015,2015,Mar,10,2015-03-10 00:00:00
-2638,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,19 Dec 2014,2014,Dec,19,2014-12-19 00:00:00
+2260,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1900,1850,11 Aug 2015,2015,Aug,11,2015-08-11
+2261,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,06 Aug 2015,2015,Aug,6,2015-08-06
+2262,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2150,2075,03 Jul 2015,2015,Jul,3,2015-07-03
+2263,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2200,2300,2250,23 Jun 2015,2015,Jun,23,2015-06-23
+2264,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,14 Jan 2015,2015,Jan,14,2015-01-14
+2265,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,13 May 2015,2015,May,13,2015-05-13
+2266,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,09 Apr 2015,2015,Apr,9,2015-04-09
+2267,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,27 May 2015,2015,May,27,2015-05-27
+2268,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,04 Dec 2014,2014,Dec,4,2014-12-04
+2269,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,04 Sep 2014,2014,Sep,4,2014-09-04
+2270,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2800,2750,24 Nov 2014,2014,Nov,24,2014-11-24
+2271,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2800,12 Sep 2014,2014,Sep,12,2014-09-12
+2272,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,09 Oct 2014,2014,Oct,9,2014-10-09
+2273,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,30 Oct 2014,2014,Oct,30,2014-10-30
+2274,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2900,2850,22 Sep 2014,2014,Sep,22,2014-09-22
+2275,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2850,2950,2900,16 Sep 2014,2014,Sep,16,2014-09-16
+2276,,Alappuzha,Cherthala,Wheat,Other,FAQ,2500,2700,2600,11 Aug 2015,2015,Aug,11,2015-08-11
+2277,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,03 Aug 2015,2015,Aug,3,2015-08-03
+2278,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,25 Jul 2015,2015,Jul,25,2015-07-25
+2279,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3100,2900,25 May 2015,2015,May,25,2015-05-25
+2280,,Alappuzha,Cherthala,Wheat,Other,FAQ,3000,3200,3100,22 Apr 2015,2015,Apr,22,2015-04-22
+2281,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,25 Feb 2015,2015,Feb,25,2015-02-25
+2282,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3400,3350,01 Apr 2015,2015,Apr,1,2015-04-01
+2283,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1900,1850,30 Jul 2015,2015,Jul,30,2015-07-30
+2284,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,25 Jul 2015,2015,Jul,25,2015-07-25
+2285,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,27 Jun 2015,2015,Jun,27,2015-06-27
+2286,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,24 Jan 2015,2015,Jan,24,2015-01-24
+2287,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,27 Dec 2014,2014,Dec,27,2014-12-27
+2288,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,15 Dec 2014,2014,Dec,15,2014-12-15
+2289,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,19 Dec 2014,2014,Dec,19,2014-12-19
+2290,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2800,2750,05 Nov 2014,2014,Nov,5,2014-11-05
+2291,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2900,2850,23 Oct 2014,2014,Oct,23,2014-10-23
+2292,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2950,2875,17 Sep 2014,2014,Sep,17,2014-09-17
+2293,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2850,2950,2900,14 Oct 2014,2014,Oct,14,2014-10-14
+2294,,Alappuzha,Cherthala,Wheat,Other,FAQ,2800,3000,2900,09 Jun 2015,2015,Jun,9,2015-06-09
+2295,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,17 Jun 2015,2015,Jun,17,2015-06-17
+2296,,Alappuzha,Cherthala,Wheat,Other,FAQ,3100,3200,3150,21 Apr 2015,2015,Apr,21,2015-04-21
+2297,,Alappuzha,Cherthala,Wheat,Other,FAQ,3100,3250,3200,17 Dec 2014,2014,Dec,17,2014-12-17
+2298,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,06 Feb 2015,2015,Feb,6,2015-02-06
+2299,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3450,3400,22 Nov 2014,2014,Nov,22,2014-11-22
+2300,,Kollam,Punalur,Wheat,Other,FAQ,2800,3300,3000,07 Jul 2015,2015,Jul,7,2015-07-07
+2301,,Kollam,Punalur,Wheat,Other,FAQ,3000,3500,3200,18 Jun 2015,2015,Jun,18,2015-06-18
+2302,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,13 Aug 2015,2015,Aug,13,2015-08-13
+2303,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,01 Jul 2015,2015,Jul,1,2015-07-01
+2304,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,06 Feb 2015,2015,Feb,6,2015-02-06
+2305,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,22 Jan 2015,2015,Jan,22,2015-01-22
+2306,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,29 Jan 2015,2015,Jan,29,2015-01-29
+2307,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,12 Mar 2015,2015,Mar,12,2015-03-12
+2308,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,17 Dec 2014,2014,Dec,17,2014-12-17
+2309,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,27 Apr 2015,2015,Apr,27,2015-04-27
+2310,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,22 Dec 2014,2014,Dec,22,2014-12-22
+2311,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2675,27 Nov 2014,2014,Nov,27,2014-11-27
+2312,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,10 Sep 2014,2014,Sep,10,2014-09-10
+2313,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,12 Nov 2014,2014,Nov,12,2014-11-12
+2314,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,18 Sep 2014,2014,Sep,18,2014-09-18
+2315,,Alappuzha,Cherthala,Wheat,Other,FAQ,2550,2650,2600,13 Aug 2015,2015,Aug,13,2015-08-13
+2316,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,26 Jun 2015,2015,Jun,26,2015-06-26
+2317,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,03 Jun 2015,2015,Jun,3,2015-06-03
+2318,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,29 Jul 2015,2015,Jul,29,2015-07-29
+2319,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,05 Jun 2015,2015,Jun,5,2015-06-05
+2320,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3350,3300,24 Apr 2015,2015,Apr,24,2015-04-24
+2321,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,20 Nov 2014,2014,Nov,20,2014-11-20
+2322,,Alappuzha,Cherthala,Wheat,Other,FAQ,3450,3600,3500,03 Feb 2015,2015,Feb,3,2015-02-03
+2323,,Kollam,Punalur,Wheat,Other,FAQ,2800,3000,2900,20 Aug 2015,2015,Aug,20,2015-08-20
+2324,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,28 Jul 2015,2015,Jul,28,2015-07-28
+2325,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1850,1950,1900,24 Aug 2015,2015,Aug,24,2015-08-24
+2326,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,22 Aug 2015,2015,Aug,22,2015-08-22
+2327,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,06 Jul 2015,2015,Jul,6,2015-07-06
+2328,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,11 Feb 2015,2015,Feb,11,2015-02-11
+2329,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,23 Jan 2015,2015,Jan,23,2015-01-23
+2330,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2450,2400,16 Feb 2015,2015,Feb,16,2015-02-16
+2331,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2500,2425,25 May 2015,2015,May,25,2015-05-25
+2332,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2500,2450,29 Dec 2014,2014,Dec,29,2014-12-29
+2333,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,05 Feb 2015,2015,Feb,5,2015-02-05
+2334,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,06 May 2015,2015,May,6,2015-05-06
+2335,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,16 Mar 2015,2015,Mar,16,2015-03-16
+2336,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,18 Dec 2014,2014,Dec,18,2014-12-18
+2337,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,13 Oct 2014,2014,Oct,13,2014-10-13
+2338,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,27 Oct 2014,2014,Oct,27,2014-10-27
+2339,,Alappuzha,Cherthala,Wheat,Other,FAQ,2800,3100,2900,23 Apr 2015,2015,Apr,23,2015-04-23
+2340,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,16 Jun 2015,2015,Jun,16,2015-06-16
+2341,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3450,3400,19 Mar 2015,2015,Mar,19,2015-03-19
+2342,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,27 Nov 2014,2014,Nov,27,2014-11-27
+2343,,Kollam,Punalur,Wheat,Other,FAQ,2700,3000,2800,22 Jun 2015,2015,Jun,22,2015-06-22
+2344,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1900,1850,04 Aug 2015,2015,Aug,4,2015-08-04
+2345,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,29 Jul 2015,2015,Jul,29,2015-07-29
+2346,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,31 Jul 2015,2015,Jul,31,2015-07-31
+2347,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2100,2200,2150,10 Jul 2015,2015,Jul,10,2015-07-10
+2348,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,24 Feb 2015,2015,Feb,24,2015-02-24
+2349,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,07 Feb 2015,2015,Feb,7,2015-02-07
+2350,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,13 Jan 2015,2015,Jan,13,2015-01-13
+2351,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,18 Feb 2015,2015,Feb,18,2015-02-18
+2352,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,24 Dec 2014,2014,Dec,24,2014-12-24
+2353,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,05 May 2015,2015,May,5,2015-05-05
+2354,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,07 Apr 2015,2015,Apr,7,2015-04-07
+2355,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,07 May 2015,2015,May,7,2015-05-07
+2356,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,11 Mar 2015,2015,Mar,11,2015-03-11
+2357,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,23 Feb 2015,2015,Feb,23,2015-02-23
+2358,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,25 Feb 2015,2015,Feb,25,2015-02-25
+2359,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,28 Nov 2014,2014,Nov,28,2014-11-28
+2360,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,11 Nov 2014,2014,Nov,11,2014-11-11
+2361,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,15 Nov 2014,2014,Nov,15,2014-11-15
+2362,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,16 Oct 2014,2014,Oct,16,2014-10-16
+2363,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,3000,2800,02 Jun 2015,2015,Jun,2,2015-06-02
+2364,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3100,3000,09 Apr 2015,2015,Apr,9,2015-04-09
+2365,,Alappuzha,Cherthala,Wheat,Other,FAQ,2900,3100,3000,12 Jun 2015,2015,Jun,12,2015-06-12
+2366,,Alappuzha,Cherthala,Wheat,Other,FAQ,3150,3300,3200,06 May 2015,2015,May,6,2015-05-06
+2367,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3350,3300,07 May 2015,2015,May,7,2015-05-07
+2368,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,18 Mar 2015,2015,Mar,18,2015-03-18
+2369,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,11 Feb 2015,2015,Feb,11,2015-02-11
+2370,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3500,3450,05 Dec 2014,2014,Dec,5,2014-12-05
+2371,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3600,3500,21 Feb 2015,2015,Feb,21,2015-02-21
+2372,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,07 Aug 2015,2015,Aug,7,2015-08-07
+2373,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,01 Sep 2015,2015,Sep,1,2015-09-01
+2374,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,19 Aug 2015,2015,Aug,19,2015-08-19
+2375,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,08 Jun 2015,2015,Jun,8,2015-06-08
+2376,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,15 Jan 2015,2015,Jan,15,2015-01-15
+2377,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,17 Jun 2015,2015,Jun,17,2015-06-17
+2378,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2450,2400,07 Jan 2015,2015,Jan,7,2015-01-07
+2379,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2475,2450,04 Feb 2015,2015,Feb,4,2015-02-04
+2380,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,04 May 2015,2015,May,4,2015-05-04
+2381,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,16 Apr 2015,2015,Apr,16,2015-04-16
+2382,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2475,23 Mar 2015,2015,Mar,23,2015-03-23
+2383,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2675,29 Nov 2014,2014,Nov,29,2014-11-29
+2384,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2800,2750,04 Nov 2014,2014,Nov,4,2014-11-04
+2385,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,14 Nov 2014,2014,Nov,14,2014-11-14
+2386,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2875,08 Oct 2014,2014,Oct,8,2014-10-08
+2387,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,23 Jul 2015,2015,Jul,23,2015-07-23
+2388,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,22 Jun 2015,2015,Jun,22,2015-06-22
+2389,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,04 Apr 2015,2015,Apr,4,2015-04-04
+2390,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,13 Mar 2015,2015,Mar,13,2015-03-13
+2391,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,26 Dec 2014,2014,Dec,26,2014-12-26
+2392,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,03 Aug 2015,2015,Aug,3,2015-08-03
+2393,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,25 Aug 2015,2015,Aug,25,2015-08-25
+2394,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1950,2050,2000,23 Jul 2015,2015,Jul,23,2015-07-23
+2395,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2150,2075,13 Jul 2015,2015,Jul,13,2015-07-13
+2396,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,26 Dec 2014,2014,Dec,26,2014-12-26
+2397,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2450,2400,21 Jan 2015,2015,Jan,21,2015-01-21
+2398,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,09 Jan 2015,2015,Jan,9,2015-01-09
+2399,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,12 Dec 2014,2014,Dec,12,2014-12-12
+2400,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,18 Mar 2015,2015,Mar,18,2015-03-18
+2401,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,19 Mar 2015,2015,Mar,19,2015-03-19
+2402,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,20 May 2015,2015,May,20,2015-05-20
+2403,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,23 Apr 2015,2015,Apr,23,2015-04-23
+2404,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,05 Dec 2014,2014,Dec,5,2014-12-05
+2405,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,09 Dec 2014,2014,Dec,9,2014-12-09
+2406,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2750,05 Sep 2014,2014,Sep,5,2014-09-05
+2407,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,22 Jul 2015,2015,Jul,22,2015-07-22
+2408,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3400,3300,09 Feb 2015,2015,Feb,9,2015-02-09
+2409,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3350,3300,24 Mar 2015,2015,Mar,24,2015-03-24
+2410,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,12 Mar 2015,2015,Mar,12,2015-03-12
+2411,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,24 Dec 2014,2014,Dec,24,2014-12-24
+2412,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3450,3400,23 Feb 2015,2015,Feb,23,2015-02-23
+2413,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3500,3400,10 Nov 2014,2014,Nov,10,2014-11-10
+2414,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,09 Mar 2015,2015,Mar,9,2015-03-09
+2415,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,15 Nov 2014,2014,Nov,15,2014-11-15
+2416,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,25 Nov 2014,2014,Nov,25,2014-11-25
+2417,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3600,3500,11 Mar 2015,2015,Mar,11,2015-03-11
+2418,,Kollam,Punalur,Wheat,Other,FAQ,2500,3000,2800,14 Jul 2015,2015,Jul,14,2015-07-14
+2419,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1900,1850,27 Jul 2015,2015,Jul,27,2015-07-27
+2420,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,12 Aug 2015,2015,Aug,12,2015-08-12
+2421,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2200,2300,2250,24 Jun 2015,2015,Jun,24,2015-06-24
+2422,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,02 Jun 2015,2015,Jun,2,2015-06-02
+2423,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,12 May 2015,2015,May,12,2015-05-12
+2424,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,16 May 2015,2015,May,16,2015-05-16
+2425,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,06 Apr 2015,2015,Apr,6,2015-04-06
+2426,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,10 Mar 2015,2015,Mar,10,2015-03-10
+2427,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,18 Apr 2015,2015,Apr,18,2015-04-18
+2428,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,19 Feb 2015,2015,Feb,19,2015-02-19
+2429,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2425,2500,2475,26 Mar 2015,2015,Mar,26,2015-03-26
+2430,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,08 Dec 2014,2014,Dec,8,2014-12-08
+2431,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,10 Dec 2014,2014,Dec,10,2014-12-10
+2432,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,11 Dec 2014,2014,Dec,11,2014-12-11
+2433,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,07 Nov 2014,2014,Nov,7,2014-11-07
+2434,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2775,2900,2850,29 Oct 2014,2014,Oct,29,2014-10-29
+2435,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,18 Oct 2014,2014,Oct,18,2014-10-18
+2436,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2850,2950,2900,23 Sep 2014,2014,Sep,23,2014-09-23
+2437,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2750,2700,12 Aug 2015,2015,Aug,12,2015-08-12
+2438,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,04 Jun 2015,2015,Jun,4,2015-06-04
+2439,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,06 Jul 2015,2015,Jul,6,2015-07-06
+2440,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,18 May 2015,2015,May,18,2015-05-18
+2441,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,21 Jul 2015,2015,Jul,21,2015-07-21
+2442,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,3000,2800,15 Jun 2015,2015,Jun,15,2015-06-15
+2443,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3350,3300,23 Dec 2014,2014,Dec,23,2014-12-23
+2444,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,01 Aug 2015,2015,Aug,1,2015-08-01
+2445,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,21 Aug 2015,2015,Aug,21,2015-08-21
+2446,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,14 Jul 2015,2015,Jul,14,2015-07-14
+2447,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2150,2075,30 Jun 2015,2015,Jun,30,2015-06-30
+2448,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2100,2200,2150,19 Jun 2015,2015,Jun,19,2015-06-19
+2449,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,03 Feb 2015,2015,Feb,3,2015-02-03
+2450,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,09 Feb 2015,2015,Feb,9,2015-02-09
+2451,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,18 May 2015,2015,May,18,2015-05-18
+2452,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,20 Mar 2015,2015,Mar,20,2015-03-20
+2453,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,24 Apr 2015,2015,Apr,24,2015-04-24
+2454,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,08 Jan 2015,2015,Jan,8,2015-01-08
+2455,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,28 Oct 2014,2014,Oct,28,2014-10-28
+2456,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,20 Oct 2014,2014,Oct,20,2014-10-20
+2457,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2750,04 Jul 2015,2015,Jul,4,2015-07-04
+2458,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,27 Mar 2015,2015,Mar,27,2015-03-27
+2459,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,3000,2800,02 Jul 2015,2015,Jul,2,2015-07-02
+2460,,Alappuzha,Cherthala,Wheat,Other,FAQ,3100,3200,3150,17 Apr 2015,2015,Apr,17,2015-04-17
+2461,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3400,3300,08 May 2015,2015,May,8,2015-05-08
+2462,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,01 Dec 2014,2014,Dec,1,2014-12-01
+2463,,Alappuzha,Cherthala,Wheat,Other,FAQ,3850,4000,3900,18 Jun 2015,2015,Jun,18,2015-06-18
+2464,,Kollam,Punalur,Wheat,Other,FAQ,3000,3500,3200,10 Jul 2015,2015,Jul,10,2015-07-10
+2465,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2050,2150,2100,08 Jul 2015,2015,Jul,8,2015-07-08
+2466,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2100,2250,2175,18 Jun 2015,2015,Jun,18,2015-06-18
+2467,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,30 Mar 2015,2015,Mar,30,2015-03-30
+2468,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,31 Mar 2015,2015,Mar,31,2015-03-31
+2469,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,09 Jun 2015,2015,Jun,9,2015-06-09
+2470,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,20 Jan 2015,2015,Jan,20,2015-01-20
+2471,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,17 Mar 2015,2015,Mar,17,2015-03-17
+2472,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,26 May 2015,2015,May,26,2015-05-26
+2473,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2550,2475,16 Dec 2014,2014,Dec,16,2014-12-16
+2474,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2500,2600,2550,31 Dec 2014,2014,Dec,31,2014-12-31
+2475,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2675,02 Dec 2014,2014,Dec,2,2014-12-02
+2476,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2800,2750,13 Nov 2014,2014,Nov,13,2014-11-13
+2477,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,24 Sep 2014,2014,Sep,24,2014-09-24
+2478,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2900,2850,30 Sep 2014,2014,Sep,30,2014-09-30
+2479,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2850,2800,27 Jun 2015,2015,Jun,27,2015-06-27
+2480,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3100,2900,06 Apr 2015,2015,Apr,6,2015-04-06
+2481,,Alappuzha,Cherthala,Wheat,Other,FAQ,2900,3050,3000,11 Jun 2015,2015,Jun,11,2015-06-11
+2482,,Alappuzha,Cherthala,Wheat,Other,FAQ,3150,3250,3200,13 Jul 2015,2015,Jul,13,2015-07-13
+2483,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3400,3300,07 Mar 2015,2015,Mar,7,2015-03-07
+2484,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3500,3400,30 Jan 2015,2015,Jan,30,2015-01-30
+2485,,Alappuzha,Cherthala,Wheat,Other,FAQ,3375,3500,3400,06 Mar 2015,2015,Mar,6,2015-03-06
+2486,,Kollam,Punalur,Wheat,Other,FAQ,2800,3200,3000,29 Jun 2015,2015,Jun,29,2015-06-29
+2487,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,10 Feb 2015,2015,Feb,10,2015-02-10
+2488,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,12 Jan 2015,2015,Jan,12,2015-01-12
+2489,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,20 Dec 2014,2014,Dec,20,2014-12-20
+2490,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,01 Apr 2015,2015,Apr,1,2015-04-01
+2491,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,13 Apr 2015,2015,Apr,13,2015-04-13
+2492,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,13 Mar 2015,2015,Mar,13,2015-03-13
+2493,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,19 May 2015,2015,May,19,2015-05-19
+2494,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,24 Mar 2015,2015,Mar,24,2015-03-24
+2495,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,10 Oct 2014,2014,Oct,10,2014-10-10
+2496,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,15 Oct 2014,2014,Oct,15,2014-10-15
+2497,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,19 Nov 2014,2014,Nov,19,2014-11-19
+2498,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,17 Jul 2015,2015,Jul,17,2015-07-17
+2499,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,30 Jul 2015,2015,Jul,30,2015-07-30
+2500,,Alappuzha,Cherthala,Wheat,Other,FAQ,3000,3150,3100,10 Apr 2015,2015,Apr,10,2015-04-10
+2501,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3275,3250,16 Apr 2015,2015,Apr,16,2015-04-16
+2502,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,13 Apr 2015,2015,Apr,13,2015-04-13
+2503,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,29 May 2015,2015,May,29,2015-05-29
+2504,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,12 Feb 2015,2015,Feb,12,2015-02-12
+2505,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,21 Nov 2014,2014,Nov,21,2014-11-21
+2506,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,28 Feb 2015,2015,Feb,28,2015-02-28
+2507,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3550,3500,13 Nov 2014,2014,Nov,13,2014-11-13
+2508,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3550,3500,17 Nov 2014,2014,Nov,17,2014-11-17
+2509,,Alappuzha,Cherthala,Wheat,Other,FAQ,3400,3600,3500,11 Nov 2014,2014,Nov,11,2014-11-11
+2510,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,10 Apr 2015,2015,Apr,10,2015-04-10
+2511,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,11 Jun 2015,2015,Jun,11,2015-06-11
+2512,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,25 Mar 2015,2015,Mar,25,2015-03-25
+2513,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2525,2475,28 Feb 2015,2015,Feb,28,2015-02-28
+2514,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2600,2550,02 Mar 2015,2015,Mar,2,2015-03-02
+2515,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2500,2600,2550,04 Apr 2015,2015,Apr,4,2015-04-04
+2516,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,01 Dec 2014,2014,Dec,1,2014-12-01
+2517,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,20 Jul 2015,2015,Jul,20,2015-07-20
+2518,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,06 Jun 2015,2015,Jun,6,2015-06-06
+2519,,Alappuzha,Cherthala,Wheat,Other,FAQ,3000,3200,3100,26 May 2015,2015,May,26,2015-05-26
+2520,,Alappuzha,Cherthala,Wheat,Other,FAQ,3150,3250,3200,12 May 2015,2015,May,12,2015-05-12
+2521,,Alappuzha,Cherthala,Wheat,Other,FAQ,3150,3300,3200,26 Mar 2015,2015,Mar,26,2015-03-26
+2522,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,25 Apr 2015,2015,Apr,25,2015-04-25
+2523,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3450,3400,21 Jan 2015,2015,Jan,21,2015-01-21
+2524,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3450,3400,04 Dec 2014,2014,Dec,4,2014-12-04
+2525,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,26 Nov 2014,2014,Nov,26,2014-11-26
+2526,,Kollam,Punalur,Wheat,Other,FAQ,2500,3000,2800,24 Aug 2015,2015,Aug,24,2015-08-24
+2527,,Kollam,Punalur,Wheat,Other,FAQ,2700,3000,2900,08 Jun 2015,2015,Jun,8,2015-06-08
+2528,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2000,1950,17 Aug 2015,2015,Aug,17,2015-08-17
+2529,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1950,2050,2000,22 Jul 2015,2015,Jul,22,2015-07-22
+2530,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2050,2150,2100,02 Jul 2015,2015,Jul,2,2015-07-02
+2531,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2200,2300,2250,25 Jun 2015,2015,Jun,25,2015-06-25
+2532,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2250,2325,2300,22 Jun 2015,2015,Jun,22,2015-06-22
+2533,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,10 Jun 2015,2015,Jun,10,2015-06-10
+2534,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,01 Jun 2015,2015,Jun,1,2015-06-01
+2535,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,16 Jan 2015,2015,Jan,16,2015-01-16
+2536,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,17 Jan 2015,2015,Jan,17,2015-01-17
+2537,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,22 May 2015,2015,May,22,2015-05-22
+2538,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,28 Jan 2015,2015,Jan,28,2015-01-28
+2539,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2475,2425,27 Mar 2015,2015,Mar,27,2015-03-27
+2540,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,27 Feb 2015,2015,Feb,27,2015-02-27
+2541,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2700,25 Nov 2014,2014,Nov,25,2014-11-25
+2542,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,21 Nov 2014,2014,Nov,21,2014-11-21
+2543,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,10 Nov 2014,2014,Nov,10,2014-11-10
+2544,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,17 Nov 2014,2014,Nov,17,2014-11-17
+2545,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,07 Oct 2014,2014,Oct,7,2014-10-07
+2546,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,17 Oct 2014,2014,Oct,17,2014-10-17
+2547,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2950,2875,04 Oct 2014,2014,Oct,4,2014-10-04
+2548,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,14 Jul 2015,2015,Jul,14,2015-07-14
+2549,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,19 Jun 2015,2015,Jun,19,2015-06-19
+2550,,Alappuzha,Cherthala,Wheat,Other,FAQ,2800,3000,2900,03 Jul 2015,2015,Jul,3,2015-07-03
+2551,,Alappuzha,Cherthala,Wheat,Other,FAQ,2950,3100,3000,20 Apr 2015,2015,Apr,20,2015-04-20
+2552,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,29 Apr 2015,2015,Apr,29,2015-04-29
+2553,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3400,3350,22 Dec 2014,2014,Dec,22,2014-12-22
+2554,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3500,3400,26 Feb 2015,2015,Feb,26,2015-02-26
+2555,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,11 Dec 2014,2014,Dec,11,2014-12-11
+2556,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,05 Jun 2015,2015,Jun,5,2015-06-05
+2557,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,12 Jun 2015,2015,Jun,12,2015-06-12
+2558,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,15 Jun 2015,2015,Jun,15,2015-06-15
+2559,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,19 Jan 2015,2015,Jan,19,2015-01-19
+2560,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,03 Mar 2015,2015,Mar,3,2015-03-03
+2561,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,17 Apr 2015,2015,Apr,17,2015-04-17
+2562,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,28 Apr 2015,2015,Apr,28,2015-04-28
+2563,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,28 Mar 2015,2015,Mar,28,2015-03-28
+2564,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2750,2675,06 Dec 2014,2014,Dec,6,2014-12-06
+2565,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2650,2750,2700,18 Nov 2014,2014,Nov,18,2014-11-18
+2566,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2750,01 Nov 2014,2014,Nov,1,2014-11-01
+2567,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2775,06 Nov 2014,2014,Nov,6,2014-11-06
+2568,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,21 Oct 2014,2014,Oct,21,2014-10-21
+2569,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,25 Oct 2014,2014,Oct,25,2014-10-25
+2570,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,26 Sep 2014,2014,Sep,26,2014-09-26
+2571,,Alappuzha,Cherthala,Wheat,Other,FAQ,2700,2900,2800,27 Jul 2015,2015,Jul,27,2015-07-27
+2572,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,29 Jun 2015,2015,Jun,29,2015-06-29
+2573,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,30 Mar 2015,2015,Mar,30,2015-03-30
+2574,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,08 Jun 2015,2015,Jun,8,2015-06-08
+2575,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,10 Jun 2015,2015,Jun,10,2015-06-10
+2576,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,13 May 2015,2015,May,13,2015-05-13
+2577,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,17 Mar 2015,2015,Mar,17,2015-03-17
+2578,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3400,3350,02 Mar 2015,2015,Mar,2,2015-03-02
+2579,,Kollam,Punalur,Wheat,Other,FAQ,2800,3500,3000,30 Jul 2015,2015,Jul,30,2015-07-30
+2580,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2050,1975,15 Jul 2015,2015,Jul,15,2015-07-15
+2581,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2050,1975,21 Jul 2015,2015,Jul,21,2015-07-21
+2582,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1900,2050,2000,20 Jul 2015,2015,Jul,20,2015-07-20
+2583,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1975,2100,2050,04 Jul 2015,2015,Jul,4,2015-07-04
+2584,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2000,2100,2050,07 Jul 2015,2015,Jul,7,2015-07-07
+2585,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2100,2200,2150,17 Jul 2015,2015,Jul,17,2015-07-17
+2586,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,02 Feb 2015,2015,Feb,2,2015-02-02
+2587,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,06 Jun 2015,2015,Jun,6,2015-06-06
+2588,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,16 Jun 2015,2015,Jun,16,2015-06-16
+2589,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2475,2450,21 May 2015,2015,May,21,2015-05-21
+2590,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,02 May 2015,2015,May,2,2015-05-02
+2591,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,14 May 2015,2015,May,14,2015-05-14
+2592,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,20 Apr 2015,2015,Apr,20,2015-04-20
+2593,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,21 Apr 2015,2015,Apr,21,2015-04-21
+2594,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,21 Mar 2015,2015,Mar,21,2015-03-21
+2595,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,22 Apr 2015,2015,Apr,22,2015-04-22
+2596,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2500,2475,04 Mar 2015,2015,Mar,4,2015-03-04
+2597,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,05 Jan 2015,2015,Jan,5,2015-01-05
+2598,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,26 Feb 2015,2015,Feb,26,2015-02-26
+2599,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,29 Sep 2014,2014,Sep,29,2014-09-29
+2600,,Alappuzha,Cherthala,Wheat,Other,FAQ,2500,2900,2700,01 Oct 2014,2014,Oct,1,2014-10-01
+2601,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,01 Aug 2015,2015,Aug,1,2015-08-01
+2602,,Alappuzha,Cherthala,Wheat,Other,FAQ,2700,2850,2800,20 Jun 2015,2015,Jun,20,2015-06-20
+2603,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,23 Jun 2015,2015,Jun,23,2015-06-23
+2604,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,30 Apr 2015,2015,Apr,30,2015-04-30
+2605,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,18 Apr 2015,2015,Apr,18,2015-04-18
+2606,,Alappuzha,Cherthala,Wheat,Other,FAQ,2850,3000,2900,19 May 2015,2015,May,19,2015-05-19
+2607,,Alappuzha,Cherthala,Wheat,Other,FAQ,3200,3300,3250,15 May 2015,2015,May,15,2015-05-15
+2608,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,27 Feb 2015,2015,Feb,27,2015-02-27
+2609,,Alappuzha,Cherthala,Wheat,Other,FAQ,3300,3500,3400,24 Jan 2015,2015,Jan,24,2015-01-24
+2610,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,16 Feb 2015,2015,Feb,16,2015-02-16
+2611,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,17 Jan 2015,2015,Jan,17,2015-01-17
+2612,,Alappuzha,Cherthala,Wheat,Other,FAQ,3450,3550,3500,12 Dec 2014,2014,Dec,12,2014-12-12
+2613,,Kollam,Punalur,Wheat,Other,FAQ,3000,3200,3100,15 Jun 2015,2015,Jun,15,2015-06-15
+2614,,Kollam,Punalur,Wheat,Other,FAQ,3000,3500,3300,25 Jun 2015,2015,Jun,25,2015-06-25
+2615,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1800,1950,1875,05 Aug 2015,2015,Aug,5,2015-08-05
+2616,,Alappuzha,Alappuzha,Wheat,Other,FAQ,1950,2050,2000,16 Jul 2015,2015,Jul,16,2015-07-16
+2617,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2300,2400,2350,04 Jun 2015,2015,Jun,4,2015-06-04
+2618,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2350,2450,2400,12 Feb 2015,2015,Feb,12,2015-02-12
+2619,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2475,2425,13 Feb 2015,2015,Feb,13,2015-02-13
+2620,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2375,2500,2450,15 May 2015,2015,May,15,2015-05-15
+2621,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,08 May 2015,2015,May,8,2015-05-08
+2622,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,23 Dec 2014,2014,Dec,23,2014-12-23
+2623,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,25 Apr 2015,2015,Apr,25,2015-04-25
+2624,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2400,2500,2450,29 Apr 2015,2015,Apr,29,2015-04-29
+2625,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2450,2550,2500,01 Jan 2015,2015,Jan,1,2015-01-01
+2626,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2600,2700,2650,26 Nov 2014,2014,Nov,26,2014-11-26
+2627,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2800,2725,01 Sep 2014,2014,Sep,1,2014-09-01
+2628,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2775,03 Sep 2014,2014,Sep,3,2014-09-03
+2629,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2700,2850,2775,31 Oct 2014,2014,Oct,31,2014-10-31
+2630,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2750,2850,2800,20 Nov 2014,2014,Nov,20,2014-11-20
+2631,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,19 Sep 2014,2014,Sep,19,2014-09-19
+2632,,Alappuzha,Alappuzha,Wheat,Other,FAQ,2800,2900,2850,25 Sep 2014,2014,Sep,25,2014-09-25
+2633,,Alappuzha,Cherthala,Wheat,Other,FAQ,2550,2650,2600,19 Aug 2015,2015,Aug,19,2015-08-19
+2634,,Alappuzha,Cherthala,Wheat,Other,FAQ,2650,2800,2700,15 Jul 2015,2015,Jul,15,2015-07-15
+2635,,Alappuzha,Cherthala,Wheat,Other,FAQ,2750,2900,2800,07 Jul 2015,2015,Jul,7,2015-07-07
+2636,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3350,3300,20 Mar 2015,2015,Mar,20,2015-03-20
+2637,,Alappuzha,Cherthala,Wheat,Other,FAQ,3250,3400,3300,10 Mar 2015,2015,Mar,10,2015-03-10
+2638,,Alappuzha,Cherthala,Wheat,Other,FAQ,3350,3500,3400,19 Dec 2014,2014,Dec,19,2014-12-19

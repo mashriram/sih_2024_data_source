@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,8600,8700,8650,27 Nov 2016,2016,Nov,27,2016-11-27
 1,1.0,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,8600,8700,8650,28 Nov 2016,2016,Nov,28,2016-11-28
 2,2.0,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,4300,4500,4400,27 Jun 2016,2016,Jun,27,2016-06-27
@@ -6,11 +6,11 @@
 4,4.0,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,5800,6000,5900,22 Jul 2016,2016,Jul,22,2016-07-22
 5,5.0,Prakasam,Markapur,Bengal Gram Dal (Chana Dal),Other,Medium,5800,6000,5900,26 Jul 2016,2016,Jul,26,2016-07-26
 6,6.0,Kurnool,Yemmiganur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,Medium,4900,4900,4900,08 May 2016,2016,May,8,2016-05-08
-7,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,1000,2000,1300,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-8,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3500,4500,4000,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-9,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4500,5500,5000,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-10,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5500,5300,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-11,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Small (Split),FAQ,4000,4200,4100,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-12,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Small (Split),FAQ,5000,5500,5300,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-13,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Small (Split),FAQ,7500,8000,7700,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-14,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Small (Split),FAQ,7500,8000,7700,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
+7,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,1000,2000,1300,14 Oct 2024,2024,Oct,14,2024-10-14
+8,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3500,4500,4000,08 Nov 2024,2024,Nov,8,2024-11-08
+9,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,4500,5500,5000,28 Oct 2024,2024,Oct,28,2024-10-28
+10,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,5000,5500,5300,12 Nov 2024,2024,Nov,12,2024-11-12
+11,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Small (Split),FAQ,4000,4200,4100,04 Nov 2024,2024,Nov,4,2024-11-04
+12,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Small (Split),FAQ,5000,5500,5300,12 Nov 2024,2024,Nov,12,2024-11-12
+13,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Small (Split),FAQ,7500,8000,7700,15 Oct 2024,2024,Oct,15,2024-10-15
+14,,Anantapur,Kadiri,Bengal Gram Dal (Chana Dal),Small (Split),FAQ,7500,8000,7700,21 Oct 2024,2024,Oct,21,2024-10-21

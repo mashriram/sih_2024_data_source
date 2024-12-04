@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Yamuna Nagar,Bilaspur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6000,6000,6000,30 Aug 2017,2017,Aug,30,2017-08-30
 1,1.0,Hissar,Hissar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9000,9000,18 Oct 2016,2016,Oct,18,2016-10-18
 2,2.0,Hissar,Hissar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9300,9100,06 Nov 2016,2016,Nov,6,2016-11-06
@@ -27,23 +27,23 @@
 25,25.0,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3751,3751,3751,12 Jun 2019,2019,Jun,12,2019-06-12
 26,26.0,Hissar,Barwala(Hisar),Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4500,4500,4500,03 Feb 2018,2018,Feb,3,2018-02-03
 27,27.0,Yamuna Nagar,Bilaspur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6000,6000,6000,27 Dec 2017,2017,Dec,27,2017-12-27
-28,,Yamuna Nagar,Bilaspur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6000,6000,6000,30 Aug 2017,2017,Aug,30,2017-08-30 00:00:00
-29,,Hissar,Hissar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9000,9000,18 Oct 2016,2016,Oct,18,2016-10-18 00:00:00
-30,,Hissar,Hissar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9300,9100,06 Nov 2016,2016,Nov,06,2016-11-06 00:00:00
-31,,Mewat,Tauru,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4600,5000,4900,25 Oct 2016,2016,Oct,25,2016-10-25 00:00:00
-32,,Mewat,Tauru,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4900,5070,5000,23 Oct 2016,2016,Oct,23,2016-10-23 00:00:00
-33,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2521,2521,2521,24 Dec 2016,2016,Dec,24,2016-12-24 00:00:00
-34,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2549,2549,2549,30 Aug 2017,2017,Aug,30,2017-08-30 00:00:00
-35,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2950,3300,3200,14 Feb 2017,2017,Feb,14,2017-02-14 00:00:00
-36,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3300,3180,15 Feb 2017,2017,Feb,15,2017-02-15 00:00:00
-37,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,3621,3340,04 Jan 2017,2017,Jan,04,2017-01-04 00:00:00
-38,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3500,3400,05 Jan 2017,2017,Jan,05,2017-01-05 00:00:00
-39,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3571,3410,03 Jan 2017,2017,Jan,03,2017-01-03 00:00:00
-40,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3400,4022,3800,20 Dec 2016,2016,Dec,20,2016-12-20 00:00:00
-41,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3441,3500,3480,02 Jan 2017,2017,Jan,02,2017-01-02 00:00:00
-42,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3931,3987,3965,16 Dec 2016,2016,Dec,16,2016-12-16 00:00:00
-43,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3961,3961,3961,19 Dec 2016,2016,Dec,19,2016-12-19 00:00:00
-44,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3974,3974,3974,29 Nov 2016,2016,Nov,29,2016-11-29 00:00:00
-45,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3994,4101,4020,15 Dec 2016,2016,Dec,15,2016-12-15 00:00:00
-46,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4800,5292,5100,03 Dec 2016,2016,Dec,03,2016-12-03 00:00:00
-47,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5045,5200,5120,21 Dec 2016,2016,Dec,21,2016-12-21 00:00:00
+28,,Yamuna Nagar,Bilaspur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6000,6000,6000,30 Aug 2017,2017,Aug,30,2017-08-30
+29,,Hissar,Hissar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9000,9000,18 Oct 2016,2016,Oct,18,2016-10-18
+30,,Hissar,Hissar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9300,9100,06 Nov 2016,2016,Nov,6,2016-11-06
+31,,Mewat,Tauru,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4600,5000,4900,25 Oct 2016,2016,Oct,25,2016-10-25
+32,,Mewat,Tauru,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4900,5070,5000,23 Oct 2016,2016,Oct,23,2016-10-23
+33,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2521,2521,2521,24 Dec 2016,2016,Dec,24,2016-12-24
+34,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2549,2549,2549,30 Aug 2017,2017,Aug,30,2017-08-30
+35,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2950,3300,3200,14 Feb 2017,2017,Feb,14,2017-02-14
+36,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3000,3300,3180,15 Feb 2017,2017,Feb,15,2017-02-15
+37,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3200,3621,3340,04 Jan 2017,2017,Jan,4,2017-01-04
+38,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3500,3400,05 Jan 2017,2017,Jan,5,2017-01-05
+39,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3300,3571,3410,03 Jan 2017,2017,Jan,3,2017-01-03
+40,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3400,4022,3800,20 Dec 2016,2016,Dec,20,2016-12-20
+41,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3441,3500,3480,02 Jan 2017,2017,Jan,2,2017-01-02
+42,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3931,3987,3965,16 Dec 2016,2016,Dec,16,2016-12-16
+43,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3961,3961,3961,19 Dec 2016,2016,Dec,19,2016-12-19
+44,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3974,3974,3974,29 Nov 2016,2016,Nov,29,2016-11-29
+45,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,3994,4101,4020,15 Dec 2016,2016,Dec,15,2016-12-15
+46,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,4800,5292,5100,03 Dec 2016,2016,Dec,3,2016-12-03
+47,,Jind,Uchana,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,5045,5200,5120,21 Dec 2016,2016,Dec,21,2016-12-21

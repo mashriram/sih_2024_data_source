@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Fazilka,Abohar,Wheat,Other,FAQ,1975.0,1975.0,1975.0,21 Apr 2021,2021,Apr,21,2021-04-21
 1,1.0,Fazilka,Abohar,Wheat,Other,FAQ,1975.0,1975.0,1975.0,23 Apr 2021,2021,Apr,23,2021-04-23
 2,2.0,Moga,Ajitwal (Chogawan),Wheat,Other,FAQ,1975.0,1975.0,1975.0,06 May 2021,2021,May,6,2021-05-06
@@ -21715,39 +21715,39 @@
 21713,21713.0,Ferozpur,Zira,Wheat,Other,FAQ,1735.0,1735.0,1735.0,30 Apr 2018,2018,Apr,30,2018-04-30
 21714,21714.0,Ferozpur,Zira,Wheat,Other,FAQ,1735.0,1740.0,1735.0,12 Apr 2018,2018,Apr,12,2018-04-12
 21715,21715.0,Ferozpur,Zira,Wheat,Other,FAQ,1735.0,1740.0,1735.0,16 Apr 2018,2018,Apr,16,2018-04-16
-21716,,Jalandhar,Nakodar(Sarih),Wheat,Other,FAQ,2320.0,2320.0,2320.0,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-21717,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2280.0,2290.0,2285.0,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-21718,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2552.0,2600.0,2600.0,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-21719,,Patiala,Rajpura,Wheat,Local,FAQ,2480.0,2480.0,2480.0,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-21720,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2550.0,2550.0,2550.0,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-21721,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2817.0,2817.0,2817.0,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-21722,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2280.0,2650.0,2280.0,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-21723,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2627.0,2627.0,2627.0,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-21724,,Ludhiana,Khanna,Wheat,Other,FAQ,2600.0,2725.0,2700.0,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-21725,,Ludhiana,Kila Raipur,Wheat,Other,FAQ,2320.0,2320.0,2320.0,13 Oct 2024,2024,Oct,13,2024-10-13 00:00:00
-21726,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2300.0,2300.0,2300.0,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-21727,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2345.0,2350.0,2350.0,22 Sep 2024,2024,Sep,22,2024-09-22 00:00:00
-21728,,Patiala,Rajpura,Wheat,Local,FAQ,2300.0,2480.0,2400.0,07 Jul 2024,2024,Jul,07,2024-07-07 00:00:00
-21729,,Ludhiana,Khanna,Wheat,Other,FAQ,2300.0,2600.0,2400.0,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-21730,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2600.0,2600.0,2600.0,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-21731,,Patiala,Rajpura,Wheat,Local,FAQ,2300.0,2360.0,2330.0,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-21732,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2800.0,2920.0,2920.0,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-21733,,Ludhiana,Khanna,Wheat,Other,FAQ,2600.0,2760.0,2700.0,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-21734,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2449.0,2449.0,2449.0,28 Sep 2024,2024,Sep,28,2024-09-28 00:00:00
-21735,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2460.0,2460.0,2460.0,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-21736,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2282.0,2300.0,2282.0,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-21737,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2300.0,2300.0,2300.0,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-21738,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2475.0,2475.0,2475.0,04 Aug 2024,2024,Aug,04,2024-08-04 00:00:00
-21739,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,3000.0,3000.0,3000.0,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-21740,,Ludhiana,Kila Raipur,Wheat,Other,FAQ,2320.0,2320.0,2320.0,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-21741,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2280.0,2280.0,2280.0,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-21742,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2528.0,2528.0,2528.0,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-21743,,Patiala,Rajpura,Wheat,Local,FAQ,2300.0,2490.0,2400.0,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-21744,,Patiala,Rajpura,Wheat,Local,FAQ,2400.0,2460.0,2430.0,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-21745,,Patiala,Rajpura,Wheat,Local,FAQ,2520.0,2520.0,2520.0,14 Jul 2024,2024,Jul,14,2024-07-14 00:00:00
-21746,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2285.0,2450.0,2450.0,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-21747,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2600.0,2600.0,2600.0,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-21748,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2285.0,2285.0,2285.0,15 Sep 2024,2024,Sep,15,2024-09-15 00:00:00
-21749,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2600.0,2855.0,2600.0,20 Oct 2024,2024,Oct,20,2024-10-20 00:00:00
-21750,,Amritsar,Majitha,Wheat,Other,FAQ,2280.0,2280.0,2280.0,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-21751,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2280.0,2280.0,2280.0,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
+21716,,Jalandhar,Nakodar(Sarih),Wheat,Other,FAQ,2320.0,2320.0,2320.0,04 Nov 2024,2024,Nov,4,2024-11-04
+21717,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2280.0,2290.0,2285.0,11 Sep 2024,2024,Sep,11,2024-09-11
+21718,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2552.0,2600.0,2600.0,25 Sep 2024,2024,Sep,25,2024-09-25
+21719,,Patiala,Rajpura,Wheat,Local,FAQ,2480.0,2480.0,2480.0,05 Jul 2024,2024,Jul,5,2024-07-05
+21720,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2550.0,2550.0,2550.0,22 Aug 2024,2024,Aug,22,2024-08-22
+21721,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2817.0,2817.0,2817.0,02 Nov 2024,2024,Nov,2,2024-11-02
+21722,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2280.0,2650.0,2280.0,23 Aug 2024,2024,Aug,23,2024-08-23
+21723,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2627.0,2627.0,2627.0,18 Sep 2024,2024,Sep,18,2024-09-18
+21724,,Ludhiana,Khanna,Wheat,Other,FAQ,2600.0,2725.0,2700.0,24 Sep 2024,2024,Sep,24,2024-09-24
+21725,,Ludhiana,Kila Raipur,Wheat,Other,FAQ,2320.0,2320.0,2320.0,13 Oct 2024,2024,Oct,13,2024-10-13
+21726,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2300.0,2300.0,2300.0,20 Sep 2024,2024,Sep,20,2024-09-20
+21727,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2345.0,2350.0,2350.0,22 Sep 2024,2024,Sep,22,2024-09-22
+21728,,Patiala,Rajpura,Wheat,Local,FAQ,2300.0,2480.0,2400.0,07 Jul 2024,2024,Jul,7,2024-07-07
+21729,,Ludhiana,Khanna,Wheat,Other,FAQ,2300.0,2600.0,2400.0,21 Sep 2024,2024,Sep,21,2024-09-21
+21730,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2600.0,2600.0,2600.0,10 Oct 2024,2024,Oct,10,2024-10-10
+21731,,Patiala,Rajpura,Wheat,Local,FAQ,2300.0,2360.0,2330.0,06 Jul 2024,2024,Jul,6,2024-07-06
+21732,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2800.0,2920.0,2920.0,03 Dec 2024,2024,Dec,3,2024-12-03
+21733,,Ludhiana,Khanna,Wheat,Other,FAQ,2600.0,2760.0,2700.0,01 Oct 2024,2024,Oct,1,2024-10-01
+21734,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2449.0,2449.0,2449.0,28 Sep 2024,2024,Sep,28,2024-09-28
+21735,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2460.0,2460.0,2460.0,24 Sep 2024,2024,Sep,24,2024-09-24
+21736,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2282.0,2300.0,2282.0,21 Sep 2024,2024,Sep,21,2024-09-21
+21737,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2300.0,2300.0,2300.0,13 Sep 2024,2024,Sep,13,2024-09-13
+21738,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2475.0,2475.0,2475.0,04 Aug 2024,2024,Aug,4,2024-08-04
+21739,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,3000.0,3000.0,3000.0,02 Dec 2024,2024,Dec,2,2024-12-02
+21740,,Ludhiana,Kila Raipur,Wheat,Other,FAQ,2320.0,2320.0,2320.0,14 Oct 2024,2024,Oct,14,2024-10-14
+21741,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2280.0,2280.0,2280.0,09 Sep 2024,2024,Sep,9,2024-09-09
+21742,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2528.0,2528.0,2528.0,10 Sep 2024,2024,Sep,10,2024-09-10
+21743,,Patiala,Rajpura,Wheat,Local,FAQ,2300.0,2490.0,2400.0,08 Jul 2024,2024,Jul,8,2024-07-08
+21744,,Patiala,Rajpura,Wheat,Local,FAQ,2400.0,2460.0,2430.0,22 Jul 2024,2024,Jul,22,2024-07-22
+21745,,Patiala,Rajpura,Wheat,Local,FAQ,2520.0,2520.0,2520.0,14 Jul 2024,2024,Jul,14,2024-07-14
+21746,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2285.0,2450.0,2450.0,16 Jul 2024,2024,Jul,16,2024-07-16
+21747,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2600.0,2600.0,2600.0,09 Oct 2024,2024,Oct,9,2024-10-09
+21748,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2285.0,2285.0,2285.0,15 Sep 2024,2024,Sep,15,2024-09-15
+21749,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2600.0,2855.0,2600.0,20 Oct 2024,2024,Oct,20,2024-10-20
+21750,,Amritsar,Majitha,Wheat,Other,FAQ,2280.0,2280.0,2280.0,05 Jul 2024,2024,Jul,5,2024-07-05
+21751,,Nawanshahr,Nawanshahar,Wheat,Medium,FAQ,2280.0,2280.0,2280.0,26 Aug 2024,2024,Aug,26,2024-08-26

@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Sepahijala,Boxonagar,Gur(Jaggery),Other,FAQ,5000,6000,5500,22 Nov 2020,2020,Nov,22,2020-11-22
 1,1.0,Sepahijala,Boxonagar,Gur(Jaggery),Other,FAQ,5000,6000,5500,25 Oct 2020,2020,Oct,25,2020-10-25
 2,2.0,Sepahijala,Boxonagar,Gur(Jaggery),Other,FAQ,5000,6000,5500,29 Nov 2020,2020,Nov,29,2020-11-29
@@ -1336,48 +1336,48 @@
 1334,1334.0,Unokoti,Panichowki,Gur(Jaggery),Yellow,FAQ,4950,5100,5000,01 Aug 2018,2018,Aug,1,2018-08-01
 1335,1335.0,Unokoti,Panichowki,Gur(Jaggery),Yellow,FAQ,4950,5100,5000,28 Mar 2018,2018,Mar,28,2018-03-28
 1336,1336.0,Unokoti,Panichowki,Gur(Jaggery),Yellow,FAQ,5000,5200,5070,17 Jan 2018,2018,Jan,17,2018-01-17
-1337,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,07 Feb 2015,2015,Feb,07,2015-02-07 00:00:00
-1338,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,11 Mar 2015,2015,Mar,11,2015-03-11 00:00:00
-1339,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,14 Feb 2015,2015,Feb,14,2015-02-14 00:00:00
-1340,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,14 Mar 2015,2015,Mar,14,2015-03-14 00:00:00
-1341,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,15 Apr 2015,2015,Apr,15,2015-04-15 00:00:00
-1342,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,21 Mar 2015,2015,Mar,21,2015-03-21 00:00:00
-1343,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,22 Apr 2015,2015,Apr,22,2015-04-22 00:00:00
-1344,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,25 Apr 2015,2015,Apr,25,2015-04-25 00:00:00
-1345,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,25 Mar 2015,2015,Mar,25,2015-03-25 00:00:00
-1346,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,28 Mar 2015,2015,Mar,28,2015-03-28 00:00:00
-1347,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,6000,5400,28 Jan 2015,2015,Jan,28,2015-01-28 00:00:00
-1348,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,5200,5000,04 Feb 2015,2015,Feb,04,2015-02-04 00:00:00
-1349,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,5200,5000,20 Feb 2015,2015,Feb,20,2015-02-20 00:00:00
-1350,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,5200,5000,21 Feb 2015,2015,Feb,21,2015-02-21 00:00:00
-1351,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,5200,5000,25 Feb 2015,2015,Feb,25,2015-02-25 00:00:00
-1352,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,6000,5400,13 Dec 2014,2014,Dec,13,2014-12-13 00:00:00
-1353,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5000,5200,5100,01 Jul 2015,2015,Jul,01,2015-07-01 00:00:00
-1354,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5000,5200,5100,16 May 2015,2015,May,16,2015-05-16 00:00:00
-1355,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5050,5200,5100,23 May 2015,2015,May,23,2015-05-23 00:00:00
-1356,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5050,5250,5100,03 Jun 2015,2015,Jun,03,2015-06-03 00:00:00
-1357,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5050,5250,5100,30 May 2015,2015,May,30,2015-05-30 00:00:00
-1358,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,06 Jun 2015,2015,Jun,06,2015-06-06 00:00:00
-1359,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,10 Jun 2015,2015,Jun,10,2015-06-10 00:00:00
-1360,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,13 Jun 2015,2015,Jun,13,2015-06-13 00:00:00
-1361,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,17 Jun 2015,2015,Jun,17,2015-06-17 00:00:00
-1362,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,20 Jun 2015,2015,Jun,20,2015-06-20 00:00:00
-1363,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,01 Aug 2015,2015,Aug,01,2015-08-01 00:00:00
-1364,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,05 Aug 2015,2015,Aug,05,2015-08-05 00:00:00
-1365,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,08 Aug 2015,2015,Aug,08,2015-08-08 00:00:00
-1366,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,08 Jul 2015,2015,Jul,08,2015-07-08 00:00:00
-1367,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,11 Jul 2015,2015,Jul,11,2015-07-11 00:00:00
-1368,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,12 Aug 2015,2015,Aug,12,2015-08-12 00:00:00
-1369,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,15 Aug 2015,2015,Aug,15,2015-08-15 00:00:00
-1370,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,18 Jul 2015,2015,Jul,18,2015-07-18 00:00:00
-1371,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,19 Aug 2015,2015,Aug,19,2015-08-19 00:00:00
-1372,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,22 Aug 2015,2015,Aug,22,2015-08-22 00:00:00
-1373,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,22 Jul 2015,2015,Jul,22,2015-07-22 00:00:00
-1374,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,24 Jun 2015,2015,Jun,24,2015-06-24 00:00:00
-1375,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,26 Aug 2015,2015,Aug,26,2015-08-26 00:00:00
-1376,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,26 Jul 2015,2015,Jul,26,2015-07-26 00:00:00
-1377,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,27 Jun 2015,2015,Jun,27,2015-06-27 00:00:00
-1378,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,29 Jul 2015,2015,Jul,29,2015-07-29 00:00:00
-1379,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5350,5250,15 Jul 2015,2015,Jul,15,2015-07-15 00:00:00
-1380,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5350,5250,25 Jul 2015,2015,Jul,25,2015-07-25 00:00:00
-1381,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5400,5300,29 Aug 2015,2015,Aug,29,2015-08-29 00:00:00
+1337,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,07 Feb 2015,2015,Feb,7,2015-02-07
+1338,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,11 Mar 2015,2015,Mar,11,2015-03-11
+1339,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,14 Feb 2015,2015,Feb,14,2015-02-14
+1340,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,14 Mar 2015,2015,Mar,14,2015-03-14
+1341,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,15 Apr 2015,2015,Apr,15,2015-04-15
+1342,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,21 Mar 2015,2015,Mar,21,2015-03-21
+1343,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,22 Apr 2015,2015,Apr,22,2015-04-22
+1344,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,25 Apr 2015,2015,Apr,25,2015-04-25
+1345,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,25 Mar 2015,2015,Mar,25,2015-03-25
+1346,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,5200,5000,28 Mar 2015,2015,Mar,28,2015-03-28
+1347,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4800,6000,5400,28 Jan 2015,2015,Jan,28,2015-01-28
+1348,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,5200,5000,04 Feb 2015,2015,Feb,4,2015-02-04
+1349,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,5200,5000,20 Feb 2015,2015,Feb,20,2015-02-20
+1350,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,5200,5000,21 Feb 2015,2015,Feb,21,2015-02-21
+1351,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,5200,5000,25 Feb 2015,2015,Feb,25,2015-02-25
+1352,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,4850,6000,5400,13 Dec 2014,2014,Dec,13,2014-12-13
+1353,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5000,5200,5100,01 Jul 2015,2015,Jul,1,2015-07-01
+1354,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5000,5200,5100,16 May 2015,2015,May,16,2015-05-16
+1355,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5050,5200,5100,23 May 2015,2015,May,23,2015-05-23
+1356,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5050,5250,5100,03 Jun 2015,2015,Jun,3,2015-06-03
+1357,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5050,5250,5100,30 May 2015,2015,May,30,2015-05-30
+1358,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,06 Jun 2015,2015,Jun,6,2015-06-06
+1359,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,10 Jun 2015,2015,Jun,10,2015-06-10
+1360,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,13 Jun 2015,2015,Jun,13,2015-06-13
+1361,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,17 Jun 2015,2015,Jun,17,2015-06-17
+1362,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5100,5200,5150,20 Jun 2015,2015,Jun,20,2015-06-20
+1363,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,01 Aug 2015,2015,Aug,1,2015-08-01
+1364,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,05 Aug 2015,2015,Aug,5,2015-08-05
+1365,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,08 Aug 2015,2015,Aug,8,2015-08-08
+1366,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,08 Jul 2015,2015,Jul,8,2015-07-08
+1367,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,11 Jul 2015,2015,Jul,11,2015-07-11
+1368,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,12 Aug 2015,2015,Aug,12,2015-08-12
+1369,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,15 Aug 2015,2015,Aug,15,2015-08-15
+1370,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,18 Jul 2015,2015,Jul,18,2015-07-18
+1371,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,19 Aug 2015,2015,Aug,19,2015-08-19
+1372,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,22 Aug 2015,2015,Aug,22,2015-08-22
+1373,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,22 Jul 2015,2015,Jul,22,2015-07-22
+1374,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,24 Jun 2015,2015,Jun,24,2015-06-24
+1375,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,26 Aug 2015,2015,Aug,26,2015-08-26
+1376,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,26 Jul 2015,2015,Jul,26,2015-07-26
+1377,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,27 Jun 2015,2015,Jun,27,2015-06-27
+1378,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5300,5250,29 Jul 2015,2015,Jul,29,2015-07-29
+1379,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5350,5250,15 Jul 2015,2015,Jul,15,2015-07-15
+1380,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5350,5250,25 Jul 2015,2015,Jul,25,2015-07-25
+1381,,Unokoti,Pabiacherra,Gur(Jaggery),Other,FAQ,5200,5400,5300,29 Aug 2015,2015,Aug,29,2015-08-29

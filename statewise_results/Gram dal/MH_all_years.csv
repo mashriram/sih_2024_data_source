@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,580,6600,6300,14 Jun 2021,2021,Jun,14,2021-06-14
 1,1.0,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,5500,5900,5700,02 Sep 2020,2020,Sep,2,2020-09-02
 2,2.0,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,5500,5900,5700,03 Sep 2020,2020,Sep,3,2020-09-03
@@ -2055,98 +2055,98 @@
 2053,2053.0,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7300,7900,7600,23 Sep 2017,2017,Sep,23,2017-09-23
 2054,2054.0,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,9000,12000,10500,04 Oct 2017,2017,Oct,4,2017-10-04
 2055,2055.0,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,9000,13000,11000,15 Nov 2017,2017,Nov,15,2017-11-15
-2056,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,02 Dec 2024,2024,Dec,02,2024-12-02 00:00:00
-2057,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-2058,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
-2059,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-2060,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,30 Nov 2024,2024,Nov,30,2024-11-30 00:00:00
-2061,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-2062,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-2063,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-2064,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-2065,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-2066,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-2067,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-2068,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,06 Jul 2024,2024,Jul,06,2024-07-06 00:00:00
-2069,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-2070,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-2071,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-2072,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-2073,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-2074,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-2075,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-2076,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-2077,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-2078,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-2079,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-2080,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-2081,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-2082,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-2083,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-2084,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-2085,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-2086,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-2087,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-2088,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-2089,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,02 Nov 2024,2024,Nov,02,2024-11-02 00:00:00
-2090,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-2091,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-2092,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-2093,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-2094,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,09 Nov 2024,2024,Nov,09,2024-11-09 00:00:00
-2095,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-2096,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-2097,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,13 Nov 2024,2024,Nov,13,2024-11-13 00:00:00
-2098,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-2099,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-2100,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,16 Nov 2024,2024,Nov,16,2024-11-16 00:00:00
-2101,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-2102,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,19 Nov 2024,2024,Nov,19,2024-11-19 00:00:00
-2103,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,22 Nov 2024,2024,Nov,22,2024-11-22 00:00:00
-2104,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,23 Nov 2024,2024,Nov,23,2024-11-23 00:00:00
-2105,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,25 Nov 2024,2024,Nov,25,2024-11-25 00:00:00
-2106,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-2107,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-2108,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-2109,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-2110,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-2111,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-2112,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-2113,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-2114,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-2115,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-2116,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-2117,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-2118,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,24 Aug 2024,2024,Aug,24,2024-08-24 00:00:00
-2119,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,26 Aug 2024,2024,Aug,26,2024-08-26 00:00:00
-2120,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-2121,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-2122,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-2123,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-2124,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-2125,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-2126,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-2127,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-2128,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-2129,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-2130,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-2131,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,11 Oct 2024,2024,Oct,11,2024-10-11 00:00:00
-2132,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-2133,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-2134,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-2135,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-2136,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,14 Sep 2024,2024,Sep,14,2024-09-14 00:00:00
-2137,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,15 Oct 2024,2024,Oct,15,2024-10-15 00:00:00
-2138,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-2139,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-2140,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,17 Oct 2024,2024,Oct,17,2024-10-17 00:00:00
-2141,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-2142,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-2143,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-2144,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-2145,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,21 Sep 2024,2024,Sep,21,2024-09-21 00:00:00
-2146,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-2147,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-2148,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-2149,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-2150,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
+2056,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,02 Dec 2024,2024,Dec,2,2024-12-02
+2057,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,03 Dec 2024,2024,Dec,3,2024-12-03
+2058,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,27 Nov 2024,2024,Nov,27,2024-11-27
+2059,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,28 Nov 2024,2024,Nov,28,2024-11-28
+2060,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7500,8500,8100,30 Nov 2024,2024,Nov,30,2024-11-30
+2061,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,01 Aug 2024,2024,Aug,1,2024-08-01
+2062,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,01 Jul 2024,2024,Jul,1,2024-07-01
+2063,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,02 Aug 2024,2024,Aug,2,2024-08-02
+2064,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,04 Jul 2024,2024,Jul,4,2024-07-04
+2065,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,05 Aug 2024,2024,Aug,5,2024-08-05
+2066,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,05 Jul 2024,2024,Jul,5,2024-07-05
+2067,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,06 Aug 2024,2024,Aug,6,2024-08-06
+2068,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,06 Jul 2024,2024,Jul,6,2024-07-06
+2069,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,07 Aug 2024,2024,Aug,7,2024-08-07
+2070,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,08 Aug 2024,2024,Aug,8,2024-08-08
+2071,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,08 Jul 2024,2024,Jul,8,2024-07-08
+2072,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,09 Aug 2024,2024,Aug,9,2024-08-09
+2073,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,09 Jul 2024,2024,Jul,9,2024-07-09
+2074,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,10 Jul 2024,2024,Jul,10,2024-07-10
+2075,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,11 Jul 2024,2024,Jul,11,2024-07-11
+2076,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,12 Aug 2024,2024,Aug,12,2024-08-12
+2077,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,12 Jul 2024,2024,Jul,12,2024-07-12
+2078,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,15 Jul 2024,2024,Jul,15,2024-07-15
+2079,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,16 Jul 2024,2024,Jul,16,2024-07-16
+2080,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,18 Jul 2024,2024,Jul,18,2024-07-18
+2081,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,19 Jul 2024,2024,Jul,19,2024-07-19
+2082,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,22 Jul 2024,2024,Jul,22,2024-07-22
+2083,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,23 Jul 2024,2024,Jul,23,2024-07-23
+2084,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,24 Jul 2024,2024,Jul,24,2024-07-24
+2085,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,25 Jul 2024,2024,Jul,25,2024-07-25
+2086,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,26 Jul 2024,2024,Jul,26,2024-07-26
+2087,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,30 Jul 2024,2024,Jul,30,2024-07-30
+2088,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7700,9000,8550,31 Jul 2024,2024,Jul,31,2024-07-31
+2089,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,02 Nov 2024,2024,Nov,2,2024-11-02
+2090,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,04 Nov 2024,2024,Nov,4,2024-11-04
+2091,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,06 Nov 2024,2024,Nov,6,2024-11-06
+2092,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,07 Nov 2024,2024,Nov,7,2024-11-07
+2093,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,08 Nov 2024,2024,Nov,8,2024-11-08
+2094,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,09 Nov 2024,2024,Nov,9,2024-11-09
+2095,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,11 Nov 2024,2024,Nov,11,2024-11-11
+2096,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,12 Nov 2024,2024,Nov,12,2024-11-12
+2097,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,13 Nov 2024,2024,Nov,13,2024-11-13
+2098,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,14 Nov 2024,2024,Nov,14,2024-11-14
+2099,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,15 Nov 2024,2024,Nov,15,2024-11-15
+2100,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,16 Nov 2024,2024,Nov,16,2024-11-16
+2101,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,18 Nov 2024,2024,Nov,18,2024-11-18
+2102,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,19 Nov 2024,2024,Nov,19,2024-11-19
+2103,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,22 Nov 2024,2024,Nov,22,2024-11-22
+2104,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,23 Nov 2024,2024,Nov,23,2024-11-23
+2105,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,25 Nov 2024,2024,Nov,25,2024-11-25
+2106,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,26 Nov 2024,2024,Nov,26,2024-11-26
+2107,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,29 Oct 2024,2024,Oct,29,2024-10-29
+2108,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7800,9500,8800,30 Oct 2024,2024,Oct,30,2024-10-30
+2109,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,02 Sep 2024,2024,Sep,2,2024-09-02
+2110,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,03 Sep 2024,2024,Sep,3,2024-09-03
+2111,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,13 Aug 2024,2024,Aug,13,2024-08-13
+2112,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,14 Aug 2024,2024,Aug,14,2024-08-14
+2113,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,16 Aug 2024,2024,Aug,16,2024-08-16
+2114,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,20 Aug 2024,2024,Aug,20,2024-08-20
+2115,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,21 Aug 2024,2024,Aug,21,2024-08-21
+2116,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,22 Aug 2024,2024,Aug,22,2024-08-22
+2117,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,23 Aug 2024,2024,Aug,23,2024-08-23
+2118,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,24 Aug 2024,2024,Aug,24,2024-08-24
+2119,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,26 Aug 2024,2024,Aug,26,2024-08-26
+2120,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,28 Aug 2024,2024,Aug,28,2024-08-28
+2121,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,7900,9500,8900,29 Aug 2024,2024,Aug,29,2024-08-29
+2122,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,01 Oct 2024,2024,Oct,1,2024-10-01
+2123,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,03 Oct 2024,2024,Oct,3,2024-10-03
+2124,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,04 Oct 2024,2024,Oct,4,2024-10-04
+2125,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,05 Sep 2024,2024,Sep,5,2024-09-05
+2126,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,06 Sep 2024,2024,Sep,6,2024-09-06
+2127,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,09 Oct 2024,2024,Oct,9,2024-10-09
+2128,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,09 Sep 2024,2024,Sep,9,2024-09-09
+2129,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,10 Oct 2024,2024,Oct,10,2024-10-10
+2130,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,10 Sep 2024,2024,Sep,10,2024-09-10
+2131,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,11 Oct 2024,2024,Oct,11,2024-10-11
+2132,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,11 Sep 2024,2024,Sep,11,2024-09-11
+2133,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,12 Sep 2024,2024,Sep,12,2024-09-12
+2134,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,13 Sep 2024,2024,Sep,13,2024-09-13
+2135,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,14 Oct 2024,2024,Oct,14,2024-10-14
+2136,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,14 Sep 2024,2024,Sep,14,2024-09-14
+2137,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,15 Oct 2024,2024,Oct,15,2024-10-15
+2138,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,16 Oct 2024,2024,Oct,16,2024-10-16
+2139,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,16 Sep 2024,2024,Sep,16,2024-09-16
+2140,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,17 Oct 2024,2024,Oct,17,2024-10-17
+2141,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,18 Oct 2024,2024,Oct,18,2024-10-18
+2142,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,18 Sep 2024,2024,Sep,18,2024-09-18
+2143,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,19 Sep 2024,2024,Sep,19,2024-09-19
+2144,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,20 Sep 2024,2024,Sep,20,2024-09-20
+2145,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,21 Sep 2024,2024,Sep,21,2024-09-21
+2146,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,23 Sep 2024,2024,Sep,23,2024-09-23
+2147,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,24 Sep 2024,2024,Sep,24,2024-09-24
+2148,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,26 Sep 2024,2024,Sep,26,2024-09-26
+2149,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,27 Sep 2024,2024,Sep,27,2024-09-27
+2150,,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,FAQ,8500,9200,8900,30 Sep 2024,2024,Sep,30,2024-09-30

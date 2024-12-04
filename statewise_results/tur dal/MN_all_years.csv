@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11500.0,12000,11750,26 Feb 2021,2021,Feb,26,2021-02-26
 1,1.0,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11500.0,12000,11750,27 Feb 2021,2021,Feb,27,2021-02-27
 2,2.0,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11000.0,14000,12500,25 Feb 2021,2021,Feb,25,2021-02-25
@@ -3788,343 +3788,343 @@
 3786,3786.0,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11450.0,11550,11500,26 Sep 2017,2017,Sep,26,2017-09-26
 3787,3787.0,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11450.0,11550,11500,27 Sep 2017,2017,Sep,27,2017-09-27
 3788,3788.0,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,11450.0,11550,11500,29 Sep 2017,2017,Sep,29,2017-09-29
-3789,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-3790,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-3791,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-3792,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-3793,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-3794,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-3795,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-3796,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-3797,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-3798,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-3799,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-3800,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-3801,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-3802,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-3803,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-3804,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-3805,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-3806,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-3807,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-3808,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-3809,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-3810,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-3811,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-3812,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-3813,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-3814,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-3815,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-3816,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-3817,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-3818,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-3819,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-3820,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-3821,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-3822,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-3823,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-3824,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-3825,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-3826,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-3827,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-3828,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-3829,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-3830,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-3831,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-3832,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-3833,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-3834,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-3835,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-3836,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-3837,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-3838,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-3839,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-3840,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-3841,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-3842,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-3843,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-3844,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-3845,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-3846,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-3847,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-3848,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-3849,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-3850,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-3851,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-3852,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-3853,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-3854,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-3855,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-3856,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-3857,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-3858,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-3859,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-3860,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-3861,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-3862,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-3863,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-3864,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-3865,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-3866,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-3867,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-3868,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-3869,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-3870,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-3871,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-3872,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-3873,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-3874,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-3875,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-3876,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-3877,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-3878,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-3879,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-3880,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-3881,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-3882,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-3883,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-3884,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-3885,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-3886,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,16 Jul 2024,2024,Jul,16,2024-07-16 00:00:00
-3887,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-3888,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-3889,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-3890,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-3891,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-3892,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-3893,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-3894,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-3895,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-3896,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-3897,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-3898,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-3899,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-3900,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-3901,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-3902,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-3903,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-3904,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-3905,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-3906,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-3907,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-3908,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-3909,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-3910,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-3911,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-3912,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-3913,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-3914,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-3915,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-3916,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-3917,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-3918,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-3919,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-3920,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-3921,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-3922,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-3923,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-3924,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,20000,19250,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-3925,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,20000,19250,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-3926,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,20000,19250,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-3927,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1750.0,18000,17750,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-3928,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-3929,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-3930,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-3931,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-3932,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-3933,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-3934,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-3935,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-3936,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-3937,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-3938,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-3939,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-3940,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-3941,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-3942,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-3943,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-3944,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-3945,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-3946,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-3947,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-3948,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-3949,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-3950,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-3951,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-3952,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-3953,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-3954,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-3955,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-3956,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-3957,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-3958,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-3959,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-3960,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-3961,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-3962,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-3963,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-3964,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-3965,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-3966,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-3967,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-3968,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-3969,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-3970,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-3971,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-3972,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-3973,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-3974,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-3975,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-3976,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-3977,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-3978,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-3979,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-3980,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-3981,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-3982,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-3983,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-3984,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-3985,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-3986,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-3987,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-3988,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-3989,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-3990,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19500.0,20000,19750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-3991,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-3992,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-3993,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-3994,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-3995,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-3996,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-3997,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-3998,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-3999,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-4000,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-4001,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-4002,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-4003,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-4004,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-4005,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-4006,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-4007,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-4008,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-4009,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-4010,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-4011,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-4012,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-4013,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-4014,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-4015,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,12 Nov 2024,2024,Nov,12,2024-11-12 00:00:00
-4016,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-4017,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-4018,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-4019,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-4020,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-4021,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-4022,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-4023,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-4024,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-4025,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-4026,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-4027,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-4028,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-4029,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-4030,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-4031,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-4032,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-4033,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-4034,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-4035,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-4036,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-4037,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-4038,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-4039,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-4040,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-4041,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-4042,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-4043,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-4044,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-4045,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-4046,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-4047,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-4048,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-4049,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-4050,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-4051,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-4052,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-4053,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-4054,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-4055,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-4056,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-4057,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-4058,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-4059,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19000.0,20000,19500,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
-4060,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18750,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-4061,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-4062,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-4063,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Aug 2024,2024,Aug,02,2024-08-02 00:00:00
-4064,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Jul 2024,2024,Jul,02,2024-07-02 00:00:00
-4065,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-4066,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-4067,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,03 Sep 2024,2024,Sep,03,2024-09-03 00:00:00
-4068,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,04 Nov 2024,2024,Nov,04,2024-11-04 00:00:00
-4069,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-4070,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-4071,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,05 Sep 2024,2024,Sep,05,2024-09-05 00:00:00
-4072,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-4073,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-4074,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Sep 2024,2024,Sep,06,2024-09-06 00:00:00
-4075,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Aug 2024,2024,Aug,07,2024-08-07 00:00:00
-4076,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-4077,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-4078,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Aug 2024,2024,Aug,08,2024-08-08 00:00:00
-4079,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-4080,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Aug 2024,2024,Aug,09,2024-08-09 00:00:00
-4081,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Jul 2024,2024,Jul,09,2024-07-09 00:00:00
-4082,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-4083,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Sep 2024,2024,Sep,09,2024-09-09 00:00:00
-4084,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-4085,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-4086,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-4087,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-4088,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-4089,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-4090,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-4091,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,16 Oct 2024,2024,Oct,16,2024-10-16 00:00:00
-4092,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-4093,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,17 Sep 2024,2024,Sep,17,2024-09-17 00:00:00
-4094,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-4095,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,18 Sep 2024,2024,Sep,18,2024-09-18 00:00:00
-4096,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Aug 2024,2024,Aug,19,2024-08-19 00:00:00
-4097,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-4098,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Sep 2024,2024,Sep,19,2024-09-19 00:00:00
-4099,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-4100,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-4101,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-4102,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-4103,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,22 Aug 2024,2024,Aug,22,2024-08-22 00:00:00
-4104,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,22 Oct 2024,2024,Oct,22,2024-10-22 00:00:00
-4105,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-4106,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Jul 2024,2024,Jul,23,2024-07-23 00:00:00
-4107,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Oct 2024,2024,Oct,23,2024-10-23 00:00:00
-4108,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-4109,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-4110,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-4111,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Jul 2024,2024,Jul,25,2024-07-25 00:00:00
-4112,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Oct 2024,2024,Oct,25,2024-10-25 00:00:00
-4113,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Sep 2024,2024,Sep,25,2024-09-25 00:00:00
-4114,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,26 Jul 2024,2024,Jul,26,2024-07-26 00:00:00
-4115,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,27 Aug 2024,2024,Aug,27,2024-08-27 00:00:00
-4116,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-4117,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-4118,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-4119,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Aug 2024,2024,Aug,29,2024-08-29 00:00:00
-4120,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-4121,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-4122,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Aug 2024,2024,Aug,30,2024-08-30 00:00:00
-4123,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-4124,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Oct 2024,2024,Oct,30,2024-10-30 00:00:00
-4125,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-4126,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-4127,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19500.0,20000,19750,11 Nov 2024,2024,Nov,11,2024-11-11 00:00:00
-4128,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19500.0,20000,19750,14 Nov 2024,2024,Nov,14,2024-11-14 00:00:00
+3789,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,01 Aug 2024,2024,Aug,1,2024-08-01
+3790,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,01 Jul 2024,2024,Jul,1,2024-07-01
+3791,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,01 Oct 2024,2024,Oct,1,2024-10-01
+3792,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,02 Aug 2024,2024,Aug,2,2024-08-02
+3793,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,02 Jul 2024,2024,Jul,2,2024-07-02
+3794,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,02 Sep 2024,2024,Sep,2,2024-09-02
+3795,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,03 Sep 2024,2024,Sep,3,2024-09-03
+3796,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,04 Nov 2024,2024,Nov,4,2024-11-04
+3797,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,04 Oct 2024,2024,Oct,4,2024-10-04
+3798,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,05 Nov 2024,2024,Nov,5,2024-11-05
+3799,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,05 Sep 2024,2024,Sep,5,2024-09-05
+3800,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,06 Aug 2024,2024,Aug,6,2024-08-06
+3801,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,06 Nov 2024,2024,Nov,6,2024-11-06
+3802,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,06 Sep 2024,2024,Sep,6,2024-09-06
+3803,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,07 Aug 2024,2024,Aug,7,2024-08-07
+3804,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,07 Nov 2024,2024,Nov,7,2024-11-07
+3805,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,08 Aug 2024,2024,Aug,8,2024-08-08
+3806,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,08 Nov 2024,2024,Nov,8,2024-11-08
+3807,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,08 Oct 2024,2024,Oct,8,2024-10-08
+3808,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,09 Aug 2024,2024,Aug,9,2024-08-09
+3809,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,09 Jul 2024,2024,Jul,9,2024-07-09
+3810,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,09 Oct 2024,2024,Oct,9,2024-10-09
+3811,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,10 Oct 2024,2024,Oct,10,2024-10-10
+3812,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,11 Jul 2024,2024,Jul,11,2024-07-11
+3813,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,11 Nov 2024,2024,Nov,11,2024-11-11
+3814,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,12 Aug 2024,2024,Aug,12,2024-08-12
+3815,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,12 Jul 2024,2024,Jul,12,2024-07-12
+3816,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,12 Nov 2024,2024,Nov,12,2024-11-12
+3817,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,14 Aug 2024,2024,Aug,14,2024-08-14
+3818,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,14 Nov 2024,2024,Nov,14,2024-11-14
+3819,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,14 Oct 2024,2024,Oct,14,2024-10-14
+3820,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,15 Jul 2024,2024,Jul,15,2024-07-15
+3821,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,16 Jul 2024,2024,Jul,16,2024-07-16
+3822,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,16 Oct 2024,2024,Oct,16,2024-10-16
+3823,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,17 Jul 2024,2024,Jul,17,2024-07-17
+3824,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,17 Sep 2024,2024,Sep,17,2024-09-17
+3825,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,18 Jul 2024,2024,Jul,18,2024-07-18
+3826,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,18 Sep 2024,2024,Sep,18,2024-09-18
+3827,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,19 Jul 2024,2024,Jul,19,2024-07-19
+3828,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,19 Sep 2024,2024,Sep,19,2024-09-19
+3829,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,20 Aug 2024,2024,Aug,20,2024-08-20
+3830,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,21 Aug 2024,2024,Aug,21,2024-08-21
+3831,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,21 Oct 2024,2024,Oct,21,2024-10-21
+3832,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,22 Aug 2024,2024,Aug,22,2024-08-22
+3833,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,22 Oct 2024,2024,Oct,22,2024-10-22
+3834,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Aug 2024,2024,Aug,23,2024-08-23
+3835,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Jul 2024,2024,Jul,23,2024-07-23
+3836,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Oct 2024,2024,Oct,23,2024-10-23
+3837,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Sep 2024,2024,Sep,23,2024-09-23
+3838,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,24 Oct 2024,2024,Oct,24,2024-10-24
+3839,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,24 Sep 2024,2024,Sep,24,2024-09-24
+3840,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,25 Jul 2024,2024,Jul,25,2024-07-25
+3841,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,25 Oct 2024,2024,Oct,25,2024-10-25
+3842,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,25 Sep 2024,2024,Sep,25,2024-09-25
+3843,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,26 Jul 2024,2024,Jul,26,2024-07-26
+3844,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,26 Sep 2024,2024,Sep,26,2024-09-26
+3845,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,27 Aug 2024,2024,Aug,27,2024-08-27
+3846,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,27 Sep 2024,2024,Sep,27,2024-09-27
+3847,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,28 Aug 2024,2024,Aug,28,2024-08-28
+3848,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,28 Oct 2024,2024,Oct,28,2024-10-28
+3849,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,29 Aug 2024,2024,Aug,29,2024-08-29
+3850,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,29 Jul 2024,2024,Jul,29,2024-07-29
+3851,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,29 Oct 2024,2024,Oct,29,2024-10-29
+3852,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,30 Aug 2024,2024,Aug,30,2024-08-30
+3853,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,30 Jul 2024,2024,Jul,30,2024-07-30
+3854,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,30 Oct 2024,2024,Oct,30,2024-10-30
+3855,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,31 Jul 2024,2024,Jul,31,2024-07-31
+3856,,Bishnupur,Bishenpur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,31 Oct 2024,2024,Oct,31,2024-10-31
+3857,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Aug 2024,2024,Aug,1,2024-08-01
+3858,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Jul 2024,2024,Jul,1,2024-07-01
+3859,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Oct 2024,2024,Oct,1,2024-10-01
+3860,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,02 Aug 2024,2024,Aug,2,2024-08-02
+3861,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,02 Sep 2024,2024,Sep,2,2024-09-02
+3862,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,03 Sep 2024,2024,Sep,3,2024-09-03
+3863,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,04 Nov 2024,2024,Nov,4,2024-11-04
+3864,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,04 Oct 2024,2024,Oct,4,2024-10-04
+3865,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,05 Nov 2024,2024,Nov,5,2024-11-05
+3866,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,05 Sep 2024,2024,Sep,5,2024-09-05
+3867,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Aug 2024,2024,Aug,6,2024-08-06
+3868,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Nov 2024,2024,Nov,6,2024-11-06
+3869,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Sep 2024,2024,Sep,6,2024-09-06
+3870,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Aug 2024,2024,Aug,7,2024-08-07
+3871,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Nov 2024,2024,Nov,7,2024-11-07
+3872,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Aug 2024,2024,Aug,8,2024-08-08
+3873,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Nov 2024,2024,Nov,8,2024-11-08
+3874,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Oct 2024,2024,Oct,8,2024-10-08
+3875,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Aug 2024,2024,Aug,9,2024-08-09
+3876,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Oct 2024,2024,Oct,9,2024-10-09
+3877,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Sep 2024,2024,Sep,9,2024-09-09
+3878,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,10 Jul 2024,2024,Jul,10,2024-07-10
+3879,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,10 Oct 2024,2024,Oct,10,2024-10-10
+3880,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,11 Jul 2024,2024,Jul,11,2024-07-11
+3881,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,12 Aug 2024,2024,Aug,12,2024-08-12
+3882,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,12 Jul 2024,2024,Jul,12,2024-07-12
+3883,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,14 Aug 2024,2024,Aug,14,2024-08-14
+3884,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,14 Oct 2024,2024,Oct,14,2024-10-14
+3885,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,16 Aug 2024,2024,Aug,16,2024-08-16
+3886,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,16 Jul 2024,2024,Jul,16,2024-07-16
+3887,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,16 Oct 2024,2024,Oct,16,2024-10-16
+3888,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,17 Jul 2024,2024,Jul,17,2024-07-17
+3889,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,17 Sep 2024,2024,Sep,17,2024-09-17
+3890,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Jul 2024,2024,Jul,18,2024-07-18
+3891,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Oct 2024,2024,Oct,18,2024-10-18
+3892,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Sep 2024,2024,Sep,18,2024-09-18
+3893,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Aug 2024,2024,Aug,19,2024-08-19
+3894,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Jul 2024,2024,Jul,19,2024-07-19
+3895,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Sep 2024,2024,Sep,19,2024-09-19
+3896,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,20 Aug 2024,2024,Aug,20,2024-08-20
+3897,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,20 Sep 2024,2024,Sep,20,2024-09-20
+3898,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,21 Aug 2024,2024,Aug,21,2024-08-21
+3899,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,21 Oct 2024,2024,Oct,21,2024-10-21
+3900,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,22 Aug 2024,2024,Aug,22,2024-08-22
+3901,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,22 Oct 2024,2024,Oct,22,2024-10-22
+3902,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Aug 2024,2024,Aug,23,2024-08-23
+3903,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Jul 2024,2024,Jul,23,2024-07-23
+3904,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Oct 2024,2024,Oct,23,2024-10-23
+3905,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Sep 2024,2024,Sep,23,2024-09-23
+3906,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,24 Oct 2024,2024,Oct,24,2024-10-24
+3907,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,24 Sep 2024,2024,Sep,24,2024-09-24
+3908,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Jul 2024,2024,Jul,25,2024-07-25
+3909,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Oct 2024,2024,Oct,25,2024-10-25
+3910,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Sep 2024,2024,Sep,25,2024-09-25
+3911,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,26 Jul 2024,2024,Jul,26,2024-07-26
+3912,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,26 Sep 2024,2024,Sep,26,2024-09-26
+3913,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,27 Aug 2024,2024,Aug,27,2024-08-27
+3914,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,28 Aug 2024,2024,Aug,28,2024-08-28
+3915,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,28 Oct 2024,2024,Oct,28,2024-10-28
+3916,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Aug 2024,2024,Aug,29,2024-08-29
+3917,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Jul 2024,2024,Jul,29,2024-07-29
+3918,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Oct 2024,2024,Oct,29,2024-10-29
+3919,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Aug 2024,2024,Aug,30,2024-08-30
+3920,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Jul 2024,2024,Jul,30,2024-07-30
+3921,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Oct 2024,2024,Oct,30,2024-10-30
+3922,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,31 Jul 2024,2024,Jul,31,2024-07-31
+3923,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,31 Oct 2024,2024,Oct,31,2024-10-31
+3924,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,20000,19250,11 Nov 2024,2024,Nov,11,2024-11-11
+3925,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,20000,19250,12 Nov 2024,2024,Nov,12,2024-11-12
+3926,,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,20000,19250,14 Nov 2024,2024,Nov,14,2024-11-14
+3927,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,1750.0,18000,17750,17 Jul 2024,2024,Jul,17,2024-07-17
+3928,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,18 Jul 2024,2024,Jul,18,2024-07-18
+3929,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,22 Jul 2024,2024,Jul,22,2024-07-22
+3930,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,23 Jul 2024,2024,Jul,23,2024-07-23
+3931,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,24 Jul 2024,2024,Jul,24,2024-07-24
+3932,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17500.0,18000,17750,25 Jul 2024,2024,Jul,25,2024-07-25
+3933,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,01 Aug 2024,2024,Aug,1,2024-08-01
+3934,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,01 Oct 2024,2024,Oct,1,2024-10-01
+3935,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Aug 2024,2024,Aug,2,2024-08-02
+3936,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Sep 2024,2024,Sep,2,2024-09-02
+3937,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,03 Dec 2024,2024,Dec,3,2024-12-03
+3938,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,03 Sep 2024,2024,Sep,3,2024-09-03
+3939,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,04 Nov 2024,2024,Nov,4,2024-11-04
+3940,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,04 Oct 2024,2024,Oct,4,2024-10-04
+3941,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,05 Nov 2024,2024,Nov,5,2024-11-05
+3942,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,05 Sep 2024,2024,Sep,5,2024-09-05
+3943,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Aug 2024,2024,Aug,6,2024-08-06
+3944,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Nov 2024,2024,Nov,6,2024-11-06
+3945,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Sep 2024,2024,Sep,6,2024-09-06
+3946,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Aug 2024,2024,Aug,7,2024-08-07
+3947,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Nov 2024,2024,Nov,7,2024-11-07
+3948,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Oct 2024,2024,Oct,7,2024-10-07
+3949,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Aug 2024,2024,Aug,8,2024-08-08
+3950,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Nov 2024,2024,Nov,8,2024-11-08
+3951,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Oct 2024,2024,Oct,8,2024-10-08
+3952,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Aug 2024,2024,Aug,9,2024-08-09
+3953,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Oct 2024,2024,Oct,9,2024-10-09
+3954,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Sep 2024,2024,Sep,9,2024-09-09
+3955,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,10 Oct 2024,2024,Oct,10,2024-10-10
+3956,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,12 Aug 2024,2024,Aug,12,2024-08-12
+3957,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,12 Nov 2024,2024,Nov,12,2024-11-12
+3958,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,14 Aug 2024,2024,Aug,14,2024-08-14
+3959,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,14 Nov 2024,2024,Nov,14,2024-11-14
+3960,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,16 Aug 2024,2024,Aug,16,2024-08-16
+3961,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,16 Oct 2024,2024,Oct,16,2024-10-16
+3962,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,17 Sep 2024,2024,Sep,17,2024-09-17
+3963,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,18 Oct 2024,2024,Oct,18,2024-10-18
+3964,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,18 Sep 2024,2024,Sep,18,2024-09-18
+3965,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Aug 2024,2024,Aug,19,2024-08-19
+3966,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Sep 2024,2024,Sep,19,2024-09-19
+3967,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,20 Aug 2024,2024,Aug,20,2024-08-20
+3968,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,20 Sep 2024,2024,Sep,20,2024-09-20
+3969,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,21 Aug 2024,2024,Aug,21,2024-08-21
+3970,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,21 Oct 2024,2024,Oct,21,2024-10-21
+3971,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,22 Aug 2024,2024,Aug,22,2024-08-22
+3972,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,22 Oct 2024,2024,Oct,22,2024-10-22
+3973,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Oct 2024,2024,Oct,23,2024-10-23
+3974,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Sep 2024,2024,Sep,23,2024-09-23
+3975,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,24 Oct 2024,2024,Oct,24,2024-10-24
+3976,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,24 Sep 2024,2024,Sep,24,2024-09-24
+3977,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Oct 2024,2024,Oct,25,2024-10-25
+3978,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Sep 2024,2024,Sep,25,2024-09-25
+3979,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,26 Sep 2024,2024,Sep,26,2024-09-26
+3980,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,27 Sep 2024,2024,Sep,27,2024-09-27
+3981,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,28 Aug 2024,2024,Aug,28,2024-08-28
+3982,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,28 Oct 2024,2024,Oct,28,2024-10-28
+3983,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Aug 2024,2024,Aug,29,2024-08-29
+3984,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Oct 2024,2024,Oct,29,2024-10-29
+3985,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Aug 2024,2024,Aug,30,2024-08-30
+3986,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Jul 2024,2024,Jul,30,2024-07-30
+3987,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Oct 2024,2024,Oct,30,2024-10-30
+3988,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,31 Jul 2024,2024,Jul,31,2024-07-31
+3989,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,31 Oct 2024,2024,Oct,31,2024-10-31
+3990,,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19500.0,20000,19750,11 Nov 2024,2024,Nov,11,2024-11-11
+3991,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Aug 2024,2024,Aug,1,2024-08-01
+3992,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,01 Oct 2024,2024,Oct,1,2024-10-01
+3993,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,02 Aug 2024,2024,Aug,2,2024-08-02
+3994,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,02 Sep 2024,2024,Sep,2,2024-09-02
+3995,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,03 Sep 2024,2024,Sep,3,2024-09-03
+3996,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,04 Nov 2024,2024,Nov,4,2024-11-04
+3997,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,04 Oct 2024,2024,Oct,4,2024-10-04
+3998,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,05 Nov 2024,2024,Nov,5,2024-11-05
+3999,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,05 Sep 2024,2024,Sep,5,2024-09-05
+4000,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Aug 2024,2024,Aug,6,2024-08-06
+4001,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Nov 2024,2024,Nov,6,2024-11-06
+4002,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,06 Sep 2024,2024,Sep,6,2024-09-06
+4003,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Aug 2024,2024,Aug,7,2024-08-07
+4004,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Nov 2024,2024,Nov,7,2024-11-07
+4005,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,07 Oct 2024,2024,Oct,7,2024-10-07
+4006,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Aug 2024,2024,Aug,8,2024-08-08
+4007,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Nov 2024,2024,Nov,8,2024-11-08
+4008,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,08 Oct 2024,2024,Oct,8,2024-10-08
+4009,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Aug 2024,2024,Aug,9,2024-08-09
+4010,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Oct 2024,2024,Oct,9,2024-10-09
+4011,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,09 Sep 2024,2024,Sep,9,2024-09-09
+4012,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,10 Oct 2024,2024,Oct,10,2024-10-10
+4013,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,11 Nov 2024,2024,Nov,11,2024-11-11
+4014,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,12 Aug 2024,2024,Aug,12,2024-08-12
+4015,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,12 Nov 2024,2024,Nov,12,2024-11-12
+4016,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,14 Aug 2024,2024,Aug,14,2024-08-14
+4017,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,14 Oct 2024,2024,Oct,14,2024-10-14
+4018,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,16 Aug 2024,2024,Aug,16,2024-08-16
+4019,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,17 Sep 2024,2024,Sep,17,2024-09-17
+4020,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Oct 2024,2024,Oct,18,2024-10-18
+4021,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,18 Sep 2024,2024,Sep,18,2024-09-18
+4022,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Aug 2024,2024,Aug,19,2024-08-19
+4023,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,19 Sep 2024,2024,Sep,19,2024-09-19
+4024,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,20 Aug 2024,2024,Aug,20,2024-08-20
+4025,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,20 Sep 2024,2024,Sep,20,2024-09-20
+4026,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,21 Aug 2024,2024,Aug,21,2024-08-21
+4027,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,21 Oct 2024,2024,Oct,21,2024-10-21
+4028,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,22 Oct 2024,2024,Oct,22,2024-10-22
+4029,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Aug 2024,2024,Aug,23,2024-08-23
+4030,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Oct 2024,2024,Oct,23,2024-10-23
+4031,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,23 Sep 2024,2024,Sep,23,2024-09-23
+4032,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,24 Oct 2024,2024,Oct,24,2024-10-24
+4033,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,24 Sep 2024,2024,Sep,24,2024-09-24
+4034,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Oct 2024,2024,Oct,25,2024-10-25
+4035,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,25 Sep 2024,2024,Sep,25,2024-09-25
+4036,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,26 Sep 2024,2024,Sep,26,2024-09-26
+4037,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,27 Aug 2024,2024,Aug,27,2024-08-27
+4038,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,27 Sep 2024,2024,Sep,27,2024-09-27
+4039,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,28 Oct 2024,2024,Oct,28,2024-10-28
+4040,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Aug 2024,2024,Aug,29,2024-08-29
+4041,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,29 Oct 2024,2024,Oct,29,2024-10-29
+4042,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Aug 2024,2024,Aug,30,2024-08-30
+4043,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,30 Oct 2024,2024,Oct,30,2024-10-30
+4044,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,17000.0,18000,17500,31 Oct 2024,2024,Oct,31,2024-10-31
+4045,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,02 Jul 2024,2024,Jul,2,2024-07-02
+4046,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,03 Dec 2024,2024,Dec,3,2024-12-03
+4047,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,09 Jul 2024,2024,Jul,9,2024-07-09
+4048,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,10 Jul 2024,2024,Jul,10,2024-07-10
+4049,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,12 Jul 2024,2024,Jul,12,2024-07-12
+4050,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,17 Jul 2024,2024,Jul,17,2024-07-17
+4051,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,18 Jul 2024,2024,Jul,18,2024-07-18
+4052,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,19 Jul 2024,2024,Jul,19,2024-07-19
+4053,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,23 Jul 2024,2024,Jul,23,2024-07-23
+4054,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,25 Jul 2024,2024,Jul,25,2024-07-25
+4055,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,26 Jul 2024,2024,Jul,26,2024-07-26
+4056,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,29 Jul 2024,2024,Jul,29,2024-07-29
+4057,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,30 Jul 2024,2024,Jul,30,2024-07-30
+4058,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18500,31 Jul 2024,2024,Jul,31,2024-07-31
+4059,,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19000.0,20000,19500,14 Nov 2024,2024,Nov,14,2024-11-14
+4060,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18000.0,19000,18750,26 Sep 2024,2024,Sep,26,2024-09-26
+4061,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,01 Aug 2024,2024,Aug,1,2024-08-01
+4062,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,01 Jul 2024,2024,Jul,1,2024-07-01
+4063,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Aug 2024,2024,Aug,2,2024-08-02
+4064,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Jul 2024,2024,Jul,2,2024-07-02
+4065,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,02 Sep 2024,2024,Sep,2,2024-09-02
+4066,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,03 Dec 2024,2024,Dec,3,2024-12-03
+4067,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,03 Sep 2024,2024,Sep,3,2024-09-03
+4068,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,04 Nov 2024,2024,Nov,4,2024-11-04
+4069,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,04 Oct 2024,2024,Oct,4,2024-10-04
+4070,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,05 Nov 2024,2024,Nov,5,2024-11-05
+4071,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,05 Sep 2024,2024,Sep,5,2024-09-05
+4072,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Aug 2024,2024,Aug,6,2024-08-06
+4073,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Nov 2024,2024,Nov,6,2024-11-06
+4074,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,06 Sep 2024,2024,Sep,6,2024-09-06
+4075,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Aug 2024,2024,Aug,7,2024-08-07
+4076,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Nov 2024,2024,Nov,7,2024-11-07
+4077,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,07 Oct 2024,2024,Oct,7,2024-10-07
+4078,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Aug 2024,2024,Aug,8,2024-08-08
+4079,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,08 Oct 2024,2024,Oct,8,2024-10-08
+4080,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Aug 2024,2024,Aug,9,2024-08-09
+4081,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Jul 2024,2024,Jul,9,2024-07-09
+4082,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Oct 2024,2024,Oct,9,2024-10-09
+4083,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,09 Sep 2024,2024,Sep,9,2024-09-09
+4084,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,10 Oct 2024,2024,Oct,10,2024-10-10
+4085,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,11 Jul 2024,2024,Jul,11,2024-07-11
+4086,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,12 Aug 2024,2024,Aug,12,2024-08-12
+4087,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,12 Jul 2024,2024,Jul,12,2024-07-12
+4088,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,14 Aug 2024,2024,Aug,14,2024-08-14
+4089,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,14 Oct 2024,2024,Oct,14,2024-10-14
+4090,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,16 Aug 2024,2024,Aug,16,2024-08-16
+4091,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,16 Oct 2024,2024,Oct,16,2024-10-16
+4092,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,17 Jul 2024,2024,Jul,17,2024-07-17
+4093,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,17 Sep 2024,2024,Sep,17,2024-09-17
+4094,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,18 Oct 2024,2024,Oct,18,2024-10-18
+4095,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,18 Sep 2024,2024,Sep,18,2024-09-18
+4096,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Aug 2024,2024,Aug,19,2024-08-19
+4097,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Jul 2024,2024,Jul,19,2024-07-19
+4098,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,19 Sep 2024,2024,Sep,19,2024-09-19
+4099,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,20 Aug 2024,2024,Aug,20,2024-08-20
+4100,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,20 Sep 2024,2024,Sep,20,2024-09-20
+4101,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,21 Aug 2024,2024,Aug,21,2024-08-21
+4102,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,21 Oct 2024,2024,Oct,21,2024-10-21
+4103,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,22 Aug 2024,2024,Aug,22,2024-08-22
+4104,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,22 Oct 2024,2024,Oct,22,2024-10-22
+4105,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Aug 2024,2024,Aug,23,2024-08-23
+4106,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Jul 2024,2024,Jul,23,2024-07-23
+4107,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Oct 2024,2024,Oct,23,2024-10-23
+4108,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,23 Sep 2024,2024,Sep,23,2024-09-23
+4109,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,24 Oct 2024,2024,Oct,24,2024-10-24
+4110,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,24 Sep 2024,2024,Sep,24,2024-09-24
+4111,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Jul 2024,2024,Jul,25,2024-07-25
+4112,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Oct 2024,2024,Oct,25,2024-10-25
+4113,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,25 Sep 2024,2024,Sep,25,2024-09-25
+4114,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,26 Jul 2024,2024,Jul,26,2024-07-26
+4115,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,27 Aug 2024,2024,Aug,27,2024-08-27
+4116,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,27 Sep 2024,2024,Sep,27,2024-09-27
+4117,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,28 Aug 2024,2024,Aug,28,2024-08-28
+4118,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,28 Oct 2024,2024,Oct,28,2024-10-28
+4119,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Aug 2024,2024,Aug,29,2024-08-29
+4120,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Jul 2024,2024,Jul,29,2024-07-29
+4121,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,29 Oct 2024,2024,Oct,29,2024-10-29
+4122,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Aug 2024,2024,Aug,30,2024-08-30
+4123,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Jul 2024,2024,Jul,30,2024-07-30
+4124,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,30 Oct 2024,2024,Oct,30,2024-10-30
+4125,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,31 Jul 2024,2024,Jul,31,2024-07-31
+4126,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,18500.0,19000,18750,31 Oct 2024,2024,Oct,31,2024-10-31
+4127,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19500.0,20000,19750,11 Nov 2024,2024,Nov,11,2024-11-11
+4128,,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19500.0,20000,19750,14 Nov 2024,2024,Nov,14,2024-11-14

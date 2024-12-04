@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9100,9140,9120,17 Mar 2015,2015,Mar,17,2015-03-17
 1,1.0,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9120,9160,9140,21 Mar 2015,2015,Mar,21,2015-03-21
 2,2.0,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9170,9240,9220,01 Dec 2014,2014,Dec,1,2014-12-01
@@ -40,44 +40,44 @@
 38,38.0,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10200,10300,10250,04 Feb 2015,2015,Feb,4,2015-02-04
 39,39.0,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10300,10400,10350,05 Mar 2015,2015,Mar,5,2015-03-05
 40,40.0,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10420,10500,10450,02 Mar 2015,2015,Mar,2,2015-03-02
-41,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9100,9140,9120,17 Mar 2015,2015,Mar,17,2015-03-17 00:00:00
-42,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9120,9160,9140,21 Mar 2015,2015,Mar,21,2015-03-21 00:00:00
-43,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9170,9240,9220,01 Dec 2014,2014,Dec,01,2014-12-01 00:00:00
-44,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9220,9350,9290,08 Oct 2014,2014,Oct,08,2014-10-08 00:00:00
-45,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9250,9340,9310,15 Nov 2014,2014,Nov,15,2014-11-15 00:00:00
-46,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9250,9340,9310,19 Nov 2014,2014,Nov,19,2014-11-19 00:00:00
-47,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9270,9340,9320,25 Nov 2014,2014,Nov,25,2014-11-25 00:00:00
-48,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9280,9340,9310,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
-49,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9280,9340,9320,02 Dec 2014,2014,Dec,02,2014-12-02 00:00:00
-50,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9280,9340,9320,17 Dec 2014,2014,Dec,17,2014-12-17 00:00:00
-51,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9280,9360,9340,28 Nov 2014,2014,Nov,28,2014-11-28 00:00:00
-52,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9315,9400,9385,17 Oct 2014,2014,Oct,17,2014-10-17 00:00:00
-53,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9360,9340,22 Dec 2014,2014,Dec,22,2014-12-22 00:00:00
-54,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9400,9380,18 Oct 2014,2014,Oct,18,2014-10-18 00:00:00
-55,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9405,9380,15 Oct 2014,2014,Oct,15,2014-10-15 00:00:00
-56,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9405,9380,16 Oct 2014,2014,Oct,16,2014-10-16 00:00:00
-57,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9410,9390,20 Oct 2014,2014,Oct,20,2014-10-20 00:00:00
-58,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9420,9380,10 Oct 2014,2014,Oct,10,2014-10-10 00:00:00
-59,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9420,9405,13 Oct 2014,2014,Oct,13,2014-10-13 00:00:00
-60,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9340,9420,9390,21 Oct 2014,2014,Oct,21,2014-10-21 00:00:00
-61,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9350,9400,9380,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
-62,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9350,9405,9380,10 Nov 2014,2014,Nov,10,2014-11-10 00:00:00
-63,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9350,9410,9370,04 Oct 2014,2014,Oct,04,2014-10-04 00:00:00
-64,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9410,9500,9440,24 Mar 2015,2015,Mar,24,2015-03-24 00:00:00
-65,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9420,9460,9440,29 Dec 2014,2014,Dec,29,2014-12-29 00:00:00
-66,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9420,9480,9460,14 Oct 2014,2014,Oct,14,2014-10-14 00:00:00
-67,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9420,9500,9450,25 Mar 2015,2015,Mar,25,2015-03-25 00:00:00
-68,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9420,9510,9450,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
-69,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9710,9780,9740,09 Apr 2015,2015,Apr,09,2015-04-09 00:00:00
-70,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9710,9800,9760,07 Apr 2015,2015,Apr,07,2015-04-07 00:00:00
-71,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9720,9770,9740,04 Apr 2015,2015,Apr,04,2015-04-04 00:00:00
-72,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9820,9900,9880,12 Jan 2015,2015,Jan,12,2015-01-12 00:00:00
-73,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9880,9950,9920,11 Apr 2015,2015,Apr,11,2015-04-11 00:00:00
-74,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9900,9950,9930,21 Apr 2015,2015,Apr,21,2015-04-21 00:00:00
-75,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9900,9980,9950,27 Apr 2015,2015,Apr,27,2015-04-27 00:00:00
-76,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9920,9960,9940,10 Mar 2015,2015,Mar,10,2015-03-10 00:00:00
-77,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10000,10050,10020,27 Jan 2015,2015,Jan,27,2015-01-27 00:00:00
-78,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10200,10280,10250,31 Jan 2015,2015,Jan,31,2015-01-31 00:00:00
-79,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10200,10300,10250,04 Feb 2015,2015,Feb,04,2015-02-04 00:00:00
-80,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10300,10400,10350,05 Mar 2015,2015,Mar,05,2015-03-05 00:00:00
-81,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10420,10500,10450,02 Mar 2015,2015,Mar,02,2015-03-02 00:00:00
+41,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9100,9140,9120,17 Mar 2015,2015,Mar,17,2015-03-17
+42,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9120,9160,9140,21 Mar 2015,2015,Mar,21,2015-03-21
+43,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9170,9240,9220,01 Dec 2014,2014,Dec,1,2014-12-01
+44,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9220,9350,9290,08 Oct 2014,2014,Oct,8,2014-10-08
+45,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9250,9340,9310,15 Nov 2014,2014,Nov,15,2014-11-15
+46,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9250,9340,9310,19 Nov 2014,2014,Nov,19,2014-11-19
+47,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9270,9340,9320,25 Nov 2014,2014,Nov,25,2014-11-25
+48,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9280,9340,9310,11 Dec 2014,2014,Dec,11,2014-12-11
+49,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9280,9340,9320,02 Dec 2014,2014,Dec,2,2014-12-02
+50,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9280,9340,9320,17 Dec 2014,2014,Dec,17,2014-12-17
+51,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9280,9360,9340,28 Nov 2014,2014,Nov,28,2014-11-28
+52,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9315,9400,9385,17 Oct 2014,2014,Oct,17,2014-10-17
+53,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9360,9340,22 Dec 2014,2014,Dec,22,2014-12-22
+54,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9400,9380,18 Oct 2014,2014,Oct,18,2014-10-18
+55,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9405,9380,15 Oct 2014,2014,Oct,15,2014-10-15
+56,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9405,9380,16 Oct 2014,2014,Oct,16,2014-10-16
+57,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9410,9390,20 Oct 2014,2014,Oct,20,2014-10-20
+58,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9420,9380,10 Oct 2014,2014,Oct,10,2014-10-10
+59,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9320,9420,9405,13 Oct 2014,2014,Oct,13,2014-10-13
+60,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9340,9420,9390,21 Oct 2014,2014,Oct,21,2014-10-21
+61,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9350,9400,9380,06 Nov 2014,2014,Nov,6,2014-11-06
+62,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9350,9405,9380,10 Nov 2014,2014,Nov,10,2014-11-10
+63,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9350,9410,9370,04 Oct 2014,2014,Oct,4,2014-10-04
+64,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9410,9500,9440,24 Mar 2015,2015,Mar,24,2015-03-24
+65,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9420,9460,9440,29 Dec 2014,2014,Dec,29,2014-12-29
+66,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9420,9480,9460,14 Oct 2014,2014,Oct,14,2014-10-14
+67,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9420,9500,9450,25 Mar 2015,2015,Mar,25,2015-03-25
+68,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9420,9510,9450,26 Mar 2015,2015,Mar,26,2015-03-26
+69,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9710,9780,9740,09 Apr 2015,2015,Apr,9,2015-04-09
+70,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9710,9800,9760,07 Apr 2015,2015,Apr,7,2015-04-07
+71,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9720,9770,9740,04 Apr 2015,2015,Apr,4,2015-04-04
+72,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9820,9900,9880,12 Jan 2015,2015,Jan,12,2015-01-12
+73,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9880,9950,9920,11 Apr 2015,2015,Apr,11,2015-04-11
+74,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9900,9950,9930,21 Apr 2015,2015,Apr,21,2015-04-21
+75,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9900,9980,9950,27 Apr 2015,2015,Apr,27,2015-04-27
+76,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,9920,9960,9940,10 Mar 2015,2015,Mar,10,2015-03-10
+77,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10000,10050,10020,27 Jan 2015,2015,Jan,27,2015-01-27
+78,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10200,10280,10250,31 Jan 2015,2015,Jan,31,2015-01-31
+79,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10200,10300,10250,04 Feb 2015,2015,Feb,4,2015-02-04
+80,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10300,10400,10350,05 Mar 2015,2015,Mar,5,2015-03-05
+81,,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,10420,10500,10450,02 Mar 2015,2015,Mar,2,2015-03-02

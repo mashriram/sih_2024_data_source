@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Kohima,Jalukie,Tomato,Tomato,FAQ,3000,3300,3200,11 Jun 2021,2021,Jun,11,2021-06-11
 1,1.0,Kohima,Jalukie,Tomato,Tomato,FAQ,3000,3300,3200,23 Jul 2021,2021,Jul,23,2021-07-23
 2,2.0,Kohima,Jalukie,Tomato,Tomato,FAQ,4000,4200,4100,25 Jun 2021,2021,Jun,25,2021-06-25
@@ -2062,102 +2062,102 @@
 2060,2060.0,Zunheboto,Zunheboto,Tomato,Tomato,FAQ,7000,8000,7500,06 Dec 2017,2017,Dec,6,2017-12-06
 2061,2061.0,Zunheboto,Zunheboto,Tomato,Tomato,FAQ,7000,8000,7500,29 Nov 2017,2017,Nov,29,2017-11-29
 2062,2062.0,Zunheboto,Zunheboto,Tomato,Tomato,FAQ,7000,8200,7600,20 Dec 2017,2017,Dec,20,2017-12-20
-2063,,Zunheboto,Ghathashi,Tomato,Other,FAQ,3100,3300,3200,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-2064,,Zunheboto,Ghathashi,Tomato,Other,FAQ,3100,3300,3200,28 Aug 2024,2024,Aug,28,2024-08-28 00:00:00
-2065,,Kohima,Jalukie,Tomato,Tomato,FAQ,4000,5000,4500,08 Nov 2024,2024,Nov,08,2024-11-08 00:00:00
-2066,,Kohima,Jalukie,Tomato,Tomato,FAQ,4000,5000,4500,13 Sep 2024,2024,Sep,13,2024-09-13 00:00:00
-2067,,Kohima,Jalukie,Tomato,Tomato,FAQ,5000,5500,5300,20 Sep 2024,2024,Sep,20,2024-09-20 00:00:00
-2068,,Kohima,Jalukie,Tomato,Tomato,FAQ,5000,6000,5500,04 Oct 2024,2024,Oct,04,2024-10-04 00:00:00
-2069,,Kohima,Jalukie,Tomato,Tomato,FAQ,5000,6000,5500,27 Sep 2024,2024,Sep,27,2024-09-27 00:00:00
-2070,,Kohima,Jalukie,Tomato,Tomato,FAQ,6000,7000,6500,01 Nov 2024,2024,Nov,01,2024-11-01 00:00:00
-2071,,Kohima,Jalukie,Tomato,Tomato,FAQ,7000,8000,7500,29 Nov 2024,2024,Nov,29,2024-11-29 00:00:00
-2072,,Kiphire,Kipheri,Tomato,Local,FAQ,3800,4000,3900,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-2073,,Kiphire,Kipheri,Tomato,Local,FAQ,4500,4700,4600,28 Oct 2024,2024,Oct,28,2024-10-28 00:00:00
-2074,,Kiphire,Kipheri,Tomato,Local,FAQ,4500,4800,4600,05 Nov 2024,2024,Nov,05,2024-11-05 00:00:00
-2075,,Kiphire,Kipheri,Tomato,Local,FAQ,4500,4800,4600,12 Sep 2024,2024,Sep,12,2024-09-12 00:00:00
-2076,,Kiphire,Kipheri,Tomato,Local,FAQ,4600,4900,4700,29 Oct 2024,2024,Oct,29,2024-10-29 00:00:00
-2077,,Kiphire,Kipheri,Tomato,Local,FAQ,4800,5000,4900,11 Sep 2024,2024,Sep,11,2024-09-11 00:00:00
-2078,,Kiphire,Kipheri,Tomato,Local,FAQ,5000,5300,5200,15 Nov 2024,2024,Nov,15,2024-11-15 00:00:00
-2079,,Kiphire,Kipheri,Tomato,Local,FAQ,5100,5400,5300,18 Nov 2024,2024,Nov,18,2024-11-18 00:00:00
-2080,,Kiphire,Kipheri,Tomato,Local,FAQ,5200,5500,5300,30 Sep 2024,2024,Sep,30,2024-09-30 00:00:00
-2081,,Kiphire,Kipheri,Tomato,Local,FAQ,5300,5500,5400,23 Sep 2024,2024,Sep,23,2024-09-23 00:00:00
-2082,,Kiphire,Kipheri,Tomato,Local,FAQ,5400,5700,5500,18 Oct 2024,2024,Oct,18,2024-10-18 00:00:00
-2083,,Kiphire,Kipheri,Tomato,Local,FAQ,5600,5800,5700,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-2084,,Kiphire,Kipheri,Tomato,Local,FAQ,5600,5800,5700,21 Oct 2024,2024,Oct,21,2024-10-21 00:00:00
-2085,,Kiphire,Kipheri,Tomato,Local,FAQ,5600,5900,5800,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-2086,,Kiphire,Kipheri,Tomato,Local,FAQ,5700,5900,5800,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-2087,,Kiphire,Kipheri,Tomato,Local,FAQ,5700,5900,5800,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-2088,,Kiphire,Kipheri,Tomato,Local,FAQ,5700,6000,5800,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-2089,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-2090,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,06 Aug 2024,2024,Aug,06,2024-08-06 00:00:00
-2091,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,17 Jul 2024,2024,Jul,17,2024-07-17 00:00:00
-2092,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-2093,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,20 Aug 2024,2024,Aug,20,2024-08-20 00:00:00
-2094,,Kiphire,Kipheri,Tomato,Local,FAQ,6200,6400,6300,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-2095,,Kiphire,Kipheri,Tomato,Local,FAQ,6400,6700,6500,07 Oct 2024,2024,Oct,07,2024-10-07 00:00:00
-2096,,Kiphire,Kipheri,Tomato,Local,FAQ,6400,6700,6500,08 Oct 2024,2024,Oct,08,2024-10-08 00:00:00
-2097,,Kiphire,Kipheri,Tomato,Local,FAQ,6500,6800,6700,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-2098,,Kiphire,Kipheri,Tomato,Local,FAQ,6500,6800,6700,26 Nov 2024,2024,Nov,26,2024-11-26 00:00:00
-2099,,Kiphire,Kipheri,Tomato,Local,FAQ,6700,6900,6800,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-2100,,Kiphire,Kipheri,Tomato,Local,FAQ,6700,6900,6800,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-2101,,Kiphire,Kipheri,Tomato,Local,FAQ,6800,7000,6900,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-2102,,Kiphire,Kipheri,Tomato,Local,FAQ,6800,7000,6900,11 Jul 2024,2024,Jul,11,2024-07-11 00:00:00
-2103,,Kiphire,Kipheri,Tomato,Local,FAQ,6800,7000,6900,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-2104,,Kiphire,Kipheri,Tomato,Local,FAQ,8600,8800,8700,05 Jul 2024,2024,Jul,05,2024-07-05 00:00:00
-2105,,Kiphire,Kipheri,Tomato,Local,FAQ,8700,9000,8800,04 Jul 2024,2024,Jul,04,2024-07-04 00:00:00
-2106,,Kiphire,Kipheri,Tomato,Local,FAQ,9600,9800,9700,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-2107,,Kohima,Kohima,Tomato,Tomato,FAQ,8000,8200,8100,14 Oct 2024,2024,Oct,14,2024-10-14 00:00:00
-2108,,Kohima,Kohima,Tomato,Tomato,FAQ,8000,8200,8100,29 Jul 2024,2024,Jul,29,2024-07-29 00:00:00
-2109,,Longleng,Longleng,Tomato,Tomato,FAQ,2000,2300,2100,03 Oct 2024,2024,Oct,03,2024-10-03 00:00:00
-2110,,Longleng,Longleng,Tomato,Tomato,FAQ,2600,2900,2700,28 Nov 2024,2024,Nov,28,2024-11-28 00:00:00
-2111,,Longleng,Longleng,Tomato,Tomato,FAQ,3000,3300,3100,21 Aug 2024,2024,Aug,21,2024-08-21 00:00:00
-2112,,Longleng,Longleng,Tomato,Tomato,FAQ,3200,3500,3300,07 Nov 2024,2024,Nov,07,2024-11-07 00:00:00
-2113,,Longleng,Longleng,Tomato,Tomato,FAQ,3300,3600,3400,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-2114,,Longleng,Longleng,Tomato,Tomato,FAQ,3400,3700,3500,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-2115,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,08 Jul 2024,2024,Jul,08,2024-07-08 00:00:00
-2116,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-2117,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,12 Jul 2024,2024,Jul,12,2024-07-12 00:00:00
-2118,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-2119,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,19 Jul 2024,2024,Jul,19,2024-07-19 00:00:00
-2120,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,24 Oct 2024,2024,Oct,24,2024-10-24 00:00:00
-2121,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-2122,,Longleng,Longleng,Tomato,Tomato,FAQ,4200,4400,4300,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-2123,,Longleng,Longleng,Tomato,Tomato,FAQ,4300,4600,4400,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-2124,,Longleng,Longleng,Tomato,Tomato,FAQ,4500,4800,4600,20 Nov 2024,2024,Nov,20,2024-11-20 00:00:00
-2125,,Mokokchung,Mangkolemba,Tomato,Other,FAQ,5500,6500,6000,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-2126,,Mokokchung,Mangkolemba,Tomato,Other,FAQ,5500,6500,6000,16 Aug 2024,2024,Aug,16,2024-08-16 00:00:00
-2127,,Mokokchung,Mangkolemba,Tomato,Other,FAQ,5500,6500,6000,16 Sep 2024,2024,Sep,16,2024-09-16 00:00:00
-2128,,Mokokchung,Mangkolemba,Tomato,Other,FAQ,5500,6500,6000,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-2129,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5500,6500,6000,10 Aug 2024,2024,Aug,10,2024-08-10 00:00:00
-2130,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5500,6500,6000,11 Aug 2024,2024,Aug,11,2024-08-11 00:00:00
-2131,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5500,6500,6000,13 Aug 2024,2024,Aug,13,2024-08-13 00:00:00
-2132,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5500,6500,6000,20 Jul 2024,2024,Jul,20,2024-07-20 00:00:00
-2133,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5600,6500,6000,21 Jul 2024,2024,Jul,21,2024-07-21 00:00:00
-2134,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,7500,8500,8000,01 Jul 2024,2024,Jul,01,2024-07-01 00:00:00
-2135,,Peren,Tenning,Tomato,Other,FAQ,3000,3500,3300,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-2136,,Peren,Tenning,Tomato,Other,FAQ,3000,3500,3300,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-2137,,Peren,Tenning,Tomato,Other,FAQ,3000,3500,3300,23 Aug 2024,2024,Aug,23,2024-08-23 00:00:00
-2138,,Peren,Tenning,Tomato,Other,FAQ,3000,3500,3300,24 Jul 2024,2024,Jul,24,2024-07-24 00:00:00
-2139,,Peren,Tenning,Tomato,Other,FAQ,3500,4000,3800,30 Jul 2024,2024,Jul,30,2024-07-30 00:00:00
-2140,,Peren,Tenning,Tomato,Other,FAQ,4000,4500,4300,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-2141,,Peren,Tenning,Tomato,Other,FAQ,4000,4500,4300,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-2142,,Peren,Tenning,Tomato,Other,FAQ,4000,4500,4300,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
-2143,,Peren,Tenning,Tomato,Other,FAQ,5000,5500,5300,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-2144,,Tsemenyu,Tsemenyu,Tomato,Local,FAQ,5000,6000,5500,14 Aug 2024,2024,Aug,14,2024-08-14 00:00:00
-2145,,Wokha,Wokha Town,Tomato,Other,FAQ,4000,6000,5000,01 Oct 2024,2024,Oct,01,2024-10-01 00:00:00
-2146,,Wokha,Wokha Town,Tomato,Other,FAQ,4500,6000,5000,05 Aug 2024,2024,Aug,05,2024-08-05 00:00:00
-2147,,Wokha,Wokha Town,Tomato,Other,FAQ,4500,6000,5000,26 Sep 2024,2024,Sep,26,2024-09-26 00:00:00
-2148,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,02 Sep 2024,2024,Sep,02,2024-09-02 00:00:00
-2149,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,05 Oct 2024,2024,Oct,05,2024-10-05 00:00:00
-2150,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,10 Sep 2024,2024,Sep,10,2024-09-10 00:00:00
-2151,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,12 Aug 2024,2024,Aug,12,2024-08-12 00:00:00
-2152,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,18 Jul 2024,2024,Jul,18,2024-07-18 00:00:00
-2153,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,22 Jul 2024,2024,Jul,22,2024-07-22 00:00:00
-2154,,Wokha,Wokha Town,Tomato,Other,FAQ,5500,7000,6000,24 Sep 2024,2024,Sep,24,2024-09-24 00:00:00
-2155,,Wokha,Wokha Town,Tomato,Other,FAQ,5500,7000,6000,31 Oct 2024,2024,Oct,31,2024-10-31 00:00:00
-2156,,Wokha,Wokha Town,Tomato,Other,FAQ,6000,8000,7000,10 Jul 2024,2024,Jul,10,2024-07-10 00:00:00
-2157,,Wokha,Wokha Town,Tomato,Other,FAQ,6000,8000,7000,17 Aug 2024,2024,Aug,17,2024-08-17 00:00:00
-2158,,Wokha,Wokha Town,Tomato,Other,FAQ,7000,9000,8000,15 Jul 2024,2024,Jul,15,2024-07-15 00:00:00
-2159,,Wokha,Wokha Town,Tomato,Other,FAQ,7000,9500,7800,21 Nov 2024,2024,Nov,21,2024-11-21 00:00:00
-2160,,Wokha,Wokha Town,Tomato,Other,FAQ,7500,9000,8000,03 Dec 2024,2024,Dec,03,2024-12-03 00:00:00
-2161,,Wokha,Wokha Town,Tomato,Other,FAQ,8000,11000,10000,27 Nov 2024,2024,Nov,27,2024-11-27 00:00:00
+2063,,Zunheboto,Ghathashi,Tomato,Other,FAQ,3100,3300,3200,15 Jul 2024,2024,Jul,15,2024-07-15
+2064,,Zunheboto,Ghathashi,Tomato,Other,FAQ,3100,3300,3200,28 Aug 2024,2024,Aug,28,2024-08-28
+2065,,Kohima,Jalukie,Tomato,Tomato,FAQ,4000,5000,4500,08 Nov 2024,2024,Nov,8,2024-11-08
+2066,,Kohima,Jalukie,Tomato,Tomato,FAQ,4000,5000,4500,13 Sep 2024,2024,Sep,13,2024-09-13
+2067,,Kohima,Jalukie,Tomato,Tomato,FAQ,5000,5500,5300,20 Sep 2024,2024,Sep,20,2024-09-20
+2068,,Kohima,Jalukie,Tomato,Tomato,FAQ,5000,6000,5500,04 Oct 2024,2024,Oct,4,2024-10-04
+2069,,Kohima,Jalukie,Tomato,Tomato,FAQ,5000,6000,5500,27 Sep 2024,2024,Sep,27,2024-09-27
+2070,,Kohima,Jalukie,Tomato,Tomato,FAQ,6000,7000,6500,01 Nov 2024,2024,Nov,1,2024-11-01
+2071,,Kohima,Jalukie,Tomato,Tomato,FAQ,7000,8000,7500,29 Nov 2024,2024,Nov,29,2024-11-29
+2072,,Kiphire,Kipheri,Tomato,Local,FAQ,3800,4000,3900,07 Nov 2024,2024,Nov,7,2024-11-07
+2073,,Kiphire,Kipheri,Tomato,Local,FAQ,4500,4700,4600,28 Oct 2024,2024,Oct,28,2024-10-28
+2074,,Kiphire,Kipheri,Tomato,Local,FAQ,4500,4800,4600,05 Nov 2024,2024,Nov,5,2024-11-05
+2075,,Kiphire,Kipheri,Tomato,Local,FAQ,4500,4800,4600,12 Sep 2024,2024,Sep,12,2024-09-12
+2076,,Kiphire,Kipheri,Tomato,Local,FAQ,4600,4900,4700,29 Oct 2024,2024,Oct,29,2024-10-29
+2077,,Kiphire,Kipheri,Tomato,Local,FAQ,4800,5000,4900,11 Sep 2024,2024,Sep,11,2024-09-11
+2078,,Kiphire,Kipheri,Tomato,Local,FAQ,5000,5300,5200,15 Nov 2024,2024,Nov,15,2024-11-15
+2079,,Kiphire,Kipheri,Tomato,Local,FAQ,5100,5400,5300,18 Nov 2024,2024,Nov,18,2024-11-18
+2080,,Kiphire,Kipheri,Tomato,Local,FAQ,5200,5500,5300,30 Sep 2024,2024,Sep,30,2024-09-30
+2081,,Kiphire,Kipheri,Tomato,Local,FAQ,5300,5500,5400,23 Sep 2024,2024,Sep,23,2024-09-23
+2082,,Kiphire,Kipheri,Tomato,Local,FAQ,5400,5700,5500,18 Oct 2024,2024,Oct,18,2024-10-18
+2083,,Kiphire,Kipheri,Tomato,Local,FAQ,5600,5800,5700,15 Jul 2024,2024,Jul,15,2024-07-15
+2084,,Kiphire,Kipheri,Tomato,Local,FAQ,5600,5800,5700,21 Oct 2024,2024,Oct,21,2024-10-21
+2085,,Kiphire,Kipheri,Tomato,Local,FAQ,5600,5900,5800,14 Oct 2024,2024,Oct,14,2024-10-14
+2086,,Kiphire,Kipheri,Tomato,Local,FAQ,5700,5900,5800,18 Jul 2024,2024,Jul,18,2024-07-18
+2087,,Kiphire,Kipheri,Tomato,Local,FAQ,5700,5900,5800,24 Jul 2024,2024,Jul,24,2024-07-24
+2088,,Kiphire,Kipheri,Tomato,Local,FAQ,5700,6000,5800,23 Aug 2024,2024,Aug,23,2024-08-23
+2089,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,01 Aug 2024,2024,Aug,1,2024-08-01
+2090,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,06 Aug 2024,2024,Aug,6,2024-08-06
+2091,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,17 Jul 2024,2024,Jul,17,2024-07-17
+2092,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,19 Jul 2024,2024,Jul,19,2024-07-19
+2093,,Kiphire,Kipheri,Tomato,Local,FAQ,5800,6000,5900,20 Aug 2024,2024,Aug,20,2024-08-20
+2094,,Kiphire,Kipheri,Tomato,Local,FAQ,6200,6400,6300,09 Oct 2024,2024,Oct,9,2024-10-09
+2095,,Kiphire,Kipheri,Tomato,Local,FAQ,6400,6700,6500,07 Oct 2024,2024,Oct,7,2024-10-07
+2096,,Kiphire,Kipheri,Tomato,Local,FAQ,6400,6700,6500,08 Oct 2024,2024,Oct,8,2024-10-08
+2097,,Kiphire,Kipheri,Tomato,Local,FAQ,6500,6800,6700,03 Oct 2024,2024,Oct,3,2024-10-03
+2098,,Kiphire,Kipheri,Tomato,Local,FAQ,6500,6800,6700,26 Nov 2024,2024,Nov,26,2024-11-26
+2099,,Kiphire,Kipheri,Tomato,Local,FAQ,6700,6900,6800,12 Jul 2024,2024,Jul,12,2024-07-12
+2100,,Kiphire,Kipheri,Tomato,Local,FAQ,6700,6900,6800,16 Aug 2024,2024,Aug,16,2024-08-16
+2101,,Kiphire,Kipheri,Tomato,Local,FAQ,6800,7000,6900,10 Jul 2024,2024,Jul,10,2024-07-10
+2102,,Kiphire,Kipheri,Tomato,Local,FAQ,6800,7000,6900,11 Jul 2024,2024,Jul,11,2024-07-11
+2103,,Kiphire,Kipheri,Tomato,Local,FAQ,6800,7000,6900,12 Aug 2024,2024,Aug,12,2024-08-12
+2104,,Kiphire,Kipheri,Tomato,Local,FAQ,8600,8800,8700,05 Jul 2024,2024,Jul,5,2024-07-05
+2105,,Kiphire,Kipheri,Tomato,Local,FAQ,8700,9000,8800,04 Jul 2024,2024,Jul,4,2024-07-04
+2106,,Kiphire,Kipheri,Tomato,Local,FAQ,9600,9800,9700,01 Jul 2024,2024,Jul,1,2024-07-01
+2107,,Kohima,Kohima,Tomato,Tomato,FAQ,8000,8200,8100,14 Oct 2024,2024,Oct,14,2024-10-14
+2108,,Kohima,Kohima,Tomato,Tomato,FAQ,8000,8200,8100,29 Jul 2024,2024,Jul,29,2024-07-29
+2109,,Longleng,Longleng,Tomato,Tomato,FAQ,2000,2300,2100,03 Oct 2024,2024,Oct,3,2024-10-03
+2110,,Longleng,Longleng,Tomato,Tomato,FAQ,2600,2900,2700,28 Nov 2024,2024,Nov,28,2024-11-28
+2111,,Longleng,Longleng,Tomato,Tomato,FAQ,3000,3300,3100,21 Aug 2024,2024,Aug,21,2024-08-21
+2112,,Longleng,Longleng,Tomato,Tomato,FAQ,3200,3500,3300,07 Nov 2024,2024,Nov,7,2024-11-07
+2113,,Longleng,Longleng,Tomato,Tomato,FAQ,3300,3600,3400,31 Oct 2024,2024,Oct,31,2024-10-31
+2114,,Longleng,Longleng,Tomato,Tomato,FAQ,3400,3700,3500,03 Dec 2024,2024,Dec,3,2024-12-03
+2115,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,08 Jul 2024,2024,Jul,8,2024-07-08
+2116,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,10 Jul 2024,2024,Jul,10,2024-07-10
+2117,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,12 Jul 2024,2024,Jul,12,2024-07-12
+2118,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,16 Aug 2024,2024,Aug,16,2024-08-16
+2119,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,19 Jul 2024,2024,Jul,19,2024-07-19
+2120,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,24 Oct 2024,2024,Oct,24,2024-10-24
+2121,,Longleng,Longleng,Tomato,Tomato,FAQ,4000,4300,4100,31 Jul 2024,2024,Jul,31,2024-07-31
+2122,,Longleng,Longleng,Tomato,Tomato,FAQ,4200,4400,4300,22 Jul 2024,2024,Jul,22,2024-07-22
+2123,,Longleng,Longleng,Tomato,Tomato,FAQ,4300,4600,4400,15 Jul 2024,2024,Jul,15,2024-07-15
+2124,,Longleng,Longleng,Tomato,Tomato,FAQ,4500,4800,4600,20 Nov 2024,2024,Nov,20,2024-11-20
+2125,,Mokokchung,Mangkolemba,Tomato,Other,FAQ,5500,6500,6000,12 Aug 2024,2024,Aug,12,2024-08-12
+2126,,Mokokchung,Mangkolemba,Tomato,Other,FAQ,5500,6500,6000,16 Aug 2024,2024,Aug,16,2024-08-16
+2127,,Mokokchung,Mangkolemba,Tomato,Other,FAQ,5500,6500,6000,16 Sep 2024,2024,Sep,16,2024-09-16
+2128,,Mokokchung,Mangkolemba,Tomato,Other,FAQ,5500,6500,6000,17 Aug 2024,2024,Aug,17,2024-08-17
+2129,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5500,6500,6000,10 Aug 2024,2024,Aug,10,2024-08-10
+2130,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5500,6500,6000,11 Aug 2024,2024,Aug,11,2024-08-11
+2131,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5500,6500,6000,13 Aug 2024,2024,Aug,13,2024-08-13
+2132,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5500,6500,6000,20 Jul 2024,2024,Jul,20,2024-07-20
+2133,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,5600,6500,6000,21 Jul 2024,2024,Jul,21,2024-07-21
+2134,,Mokokchung,Mokokchung Town,Tomato,Other,FAQ,7500,8500,8000,01 Jul 2024,2024,Jul,1,2024-07-01
+2135,,Peren,Tenning,Tomato,Other,FAQ,3000,3500,3300,05 Aug 2024,2024,Aug,5,2024-08-05
+2136,,Peren,Tenning,Tomato,Other,FAQ,3000,3500,3300,18 Jul 2024,2024,Jul,18,2024-07-18
+2137,,Peren,Tenning,Tomato,Other,FAQ,3000,3500,3300,23 Aug 2024,2024,Aug,23,2024-08-23
+2138,,Peren,Tenning,Tomato,Other,FAQ,3000,3500,3300,24 Jul 2024,2024,Jul,24,2024-07-24
+2139,,Peren,Tenning,Tomato,Other,FAQ,3500,4000,3800,30 Jul 2024,2024,Jul,30,2024-07-30
+2140,,Peren,Tenning,Tomato,Other,FAQ,4000,4500,4300,02 Sep 2024,2024,Sep,2,2024-09-02
+2141,,Peren,Tenning,Tomato,Other,FAQ,4000,4500,4300,26 Oct 2024,2024,Oct,26,2024-10-26
+2142,,Peren,Tenning,Tomato,Other,FAQ,4000,4500,4300,31 Jul 2024,2024,Jul,31,2024-07-31
+2143,,Peren,Tenning,Tomato,Other,FAQ,5000,5500,5300,01 Oct 2024,2024,Oct,1,2024-10-01
+2144,,Tsemenyu,Tsemenyu,Tomato,Local,FAQ,5000,6000,5500,14 Aug 2024,2024,Aug,14,2024-08-14
+2145,,Wokha,Wokha Town,Tomato,Other,FAQ,4000,6000,5000,01 Oct 2024,2024,Oct,1,2024-10-01
+2146,,Wokha,Wokha Town,Tomato,Other,FAQ,4500,6000,5000,05 Aug 2024,2024,Aug,5,2024-08-05
+2147,,Wokha,Wokha Town,Tomato,Other,FAQ,4500,6000,5000,26 Sep 2024,2024,Sep,26,2024-09-26
+2148,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,02 Sep 2024,2024,Sep,2,2024-09-02
+2149,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,05 Oct 2024,2024,Oct,5,2024-10-05
+2150,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,10 Sep 2024,2024,Sep,10,2024-09-10
+2151,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,12 Aug 2024,2024,Aug,12,2024-08-12
+2152,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,18 Jul 2024,2024,Jul,18,2024-07-18
+2153,,Wokha,Wokha Town,Tomato,Other,FAQ,5000,7000,6000,22 Jul 2024,2024,Jul,22,2024-07-22
+2154,,Wokha,Wokha Town,Tomato,Other,FAQ,5500,7000,6000,24 Sep 2024,2024,Sep,24,2024-09-24
+2155,,Wokha,Wokha Town,Tomato,Other,FAQ,5500,7000,6000,31 Oct 2024,2024,Oct,31,2024-10-31
+2156,,Wokha,Wokha Town,Tomato,Other,FAQ,6000,8000,7000,10 Jul 2024,2024,Jul,10,2024-07-10
+2157,,Wokha,Wokha Town,Tomato,Other,FAQ,6000,8000,7000,17 Aug 2024,2024,Aug,17,2024-08-17
+2158,,Wokha,Wokha Town,Tomato,Other,FAQ,7000,9000,8000,15 Jul 2024,2024,Jul,15,2024-07-15
+2159,,Wokha,Wokha Town,Tomato,Other,FAQ,7000,9500,7800,21 Nov 2024,2024,Nov,21,2024-11-21
+2160,,Wokha,Wokha Town,Tomato,Other,FAQ,7500,9000,8000,03 Dec 2024,2024,Dec,3,2024-12-03
+2161,,Wokha,Wokha Town,Tomato,Other,FAQ,8000,11000,10000,27 Nov 2024,2024,Nov,27,2024-11-27

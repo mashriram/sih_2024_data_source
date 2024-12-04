@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Bhiwani,Behal,Gur(Jaggery),Khandsari,FAQ,2855,2855,2855,02 Nov 2016,2016,Nov,2,2016-11-02
 1,1.0,Bhiwani,Behal,Gur(Jaggery),Khandsari,FAQ,3540,3540,3540,18 Nov 2016,2016,Nov,18,2016-11-18
 2,2.0,Bhiwani,Behal,Gur(Jaggery),Khandsari,FAQ,3875,3875,3875,29 Sep 2016,2016,Sep,29,2016-09-29
@@ -264,91 +264,91 @@
 262,262.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2500,2500,2500,31 Dec 2015,2015,Dec,31,2015-12-31
 263,263.0,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,3740,3740,3740,02 Oct 2015,2015,Oct,2,2015-10-02
 264,264.0,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2500,2500,2500,25 Sep 2015,2015,Sep,25,2015-09-25
-265,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,04 Mar 2015,2015,Mar,04,2015-03-04 00:00:00
-266,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,24 Feb 2015,2015,Feb,24,2015-02-24 00:00:00
-267,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,08 Mar 2015,2015,Mar,08,2015-03-08 00:00:00
-268,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,22 Feb 2015,2015,Feb,22,2015-02-22 00:00:00
-269,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2600,0,17 Feb 2015,2015,Feb,17,2015-02-17 00:00:00
-270,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,3000,0,06 Mar 2015,2015,Mar,06,2015-03-06 00:00:00
-271,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2100,2100,2100,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
-272,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,09 Dec 2014,2014,Dec,09,2014-12-09 00:00:00
-273,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,17 Dec 2014,2014,Dec,17,2014-12-17 00:00:00
-274,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,18 Nov 2014,2014,Nov,18,2014-11-18 00:00:00
-275,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
-276,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,30 Dec 2014,2014,Dec,30,2014-12-30 00:00:00
-277,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2300,2250,01 Jan 2015,2015,Jan,01,2015-01-01 00:00:00
-278,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
-279,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2211,2225,2218,07 Dec 2014,2014,Dec,07,2014-12-07 00:00:00
-280,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2240,2240,2240,30 Nov 2014,2014,Nov,30,2014-11-30 00:00:00
-281,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,06 Dec 2014,2014,Dec,06,2014-12-06 00:00:00
-282,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,11 Nov 2014,2014,Nov,11,2014-11-11 00:00:00
-283,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,23 Nov 2014,2014,Nov,23,2014-11-23 00:00:00
-284,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,24 Dec 2014,2014,Dec,24,2014-12-24 00:00:00
-285,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,26 Nov 2014,2014,Nov,26,2014-11-26 00:00:00
-286,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,31 Jan 2015,2015,Jan,31,2015-01-31 00:00:00
-287,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,05 Jan 2015,2015,Jan,05,2015-01-05 00:00:00
-288,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,30 Jan 2015,2015,Jan,30,2015-01-30 00:00:00
-289,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2380,2380,2380,07 Feb 2015,2015,Feb,07,2015-02-07 00:00:00
-290,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Feb 2015,2015,Feb,03,2015-02-03 00:00:00
-291,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Nov 2014,2014,Nov,03,2014-11-03 00:00:00
-292,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,13 Jan 2015,2015,Jan,13,2015-01-13 00:00:00
-293,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,14 Nov 2014,2014,Nov,14,2014-11-14 00:00:00
-294,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,26 Oct 2014,2014,Oct,26,2014-10-26 00:00:00
-295,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,28 Jan 2015,2015,Jan,28,2015-01-28 00:00:00
-296,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,06 Nov 2014,2014,Nov,06,2014-11-06 00:00:00
-297,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,09 Nov 2014,2014,Nov,09,2014-11-09 00:00:00
-298,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2500,2500,2500,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
-299,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2600,2600,2600,10 Sep 2014,2014,Sep,10,2014-09-10 00:00:00
-300,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2800,2800,2800,09 Sep 2014,2014,Sep,09,2014-09-09 00:00:00
-301,,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,20 Feb 2015,2015,Feb,20,2015-02-20 00:00:00
-302,,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,27 Apr 2015,2015,Apr,27,2015-04-27 00:00:00
-303,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2100,2300,2195,24 Feb 2015,2015,Feb,24,2015-02-24 00:00:00
-304,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2160,2300,2160,23 Feb 2015,2015,Feb,23,2015-02-23 00:00:00
-305,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2161,2271,2161,05 Mar 2015,2015,Mar,05,2015-03-05 00:00:00
-306,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2200,2200,2200,08 Apr 2015,2015,Apr,08,2015-04-08 00:00:00
-307,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2211,2211,26 Feb 2015,2015,Feb,26,2015-02-26 00:00:00
-308,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2300,2300,27 Feb 2015,2015,Feb,27,2015-02-27 00:00:00
-309,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2215,2215,2215,25 Feb 2015,2015,Feb,25,2015-02-25 00:00:00
-310,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2281,2291,2281,07 Mar 2015,2015,Mar,07,2015-03-07 00:00:00
-311,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2150,2150,24 Feb 2015,2015,Feb,24,2015-02-24 00:00:00
-312,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2500,2500,10 Jun 2015,2015,Jun,10,2015-06-10 00:00:00
-313,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2100,2100,06 Mar 2015,2015,Mar,06,2015-03-06 00:00:00
-314,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2150,2150,02 Mar 2015,2015,Mar,02,2015-03-02 00:00:00
-315,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2200,2100,18 Mar 2015,2015,Mar,18,2015-03-18 00:00:00
-316,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2100,2200,2200,12 Mar 2015,2015,Mar,12,2015-03-12 00:00:00
-317,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,11 Mar 2015,2015,Mar,11,2015-03-11 00:00:00
-318,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,26 Mar 2015,2015,Mar,26,2015-03-26 00:00:00
-319,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18 00:00:00
-320,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2500,2500,15 Jun 2015,2015,Jun,15,2015-06-15 00:00:00
-321,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2500,2700,2700,15 May 2015,2015,May,15,2015-05-15 00:00:00
-322,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2600,2700,2700,22 Apr 2015,2015,Apr,22,2015-04-22 00:00:00
-323,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,02 Apr 2015,2015,Apr,02,2015-04-02 00:00:00
-324,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,27 Apr 2015,2015,Apr,27,2015-04-27 00:00:00
-325,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,28 Apr 2015,2015,Apr,28,2015-04-28 00:00:00
-326,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2700,30 Apr 2015,2015,Apr,30,2015-04-30 00:00:00
-327,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,12 Apr 2015,2015,Apr,12,2015-04-12 00:00:00
-328,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,16 May 2015,2015,May,16,2015-05-16 00:00:00
-329,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,27 Mar 2015,2015,Mar,27,2015-03-27 00:00:00
-330,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2800,2800,05 Apr 2015,2015,Apr,05,2015-04-05 00:00:00
-331,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,14 Apr 2015,2015,Apr,14,2015-04-14 00:00:00
-332,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,31 Mar 2015,2015,Mar,31,2015-03-31 00:00:00
-333,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,3100,3100,06 Jun 2015,2015,Jun,06,2015-06-06 00:00:00
-334,,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2000,2200,2100,12 Dec 2014,2014,Dec,12,2014-12-12 00:00:00
-335,,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2200,2200,11 Dec 2014,2014,Dec,11,2014-12-11 00:00:00
-336,,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2500,2300,14 Dec 2014,2014,Dec,14,2014-12-14 00:00:00
-337,,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2500,0,14 Aug 2015,2015,Aug,14,2015-08-14 00:00:00
-338,,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2615,2600,09 Aug 2015,2015,Aug,09,2015-08-09 00:00:00
-339,,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2400,2400,2400,11 Jul 2015,2015,Jul,11,2015-07-11 00:00:00
-340,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,02 Apr 2015,2015,Apr,02,2015-04-02 00:00:00
-341,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,10 Dec 2014,2014,Dec,10,2014-12-10 00:00:00
-342,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Feb 2015,2015,Feb,28,2015-02-28 00:00:00
-343,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Mar 2015,2015,Mar,28,2015-03-28 00:00:00
-344,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,29 May 2015,2015,May,29,2015-05-29 00:00:00
-345,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2350,2450,2400,21 Nov 2014,2014,Nov,21,2014-11-21 00:00:00
-346,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,17 Nov 2014,2014,Nov,17,2014-11-17 00:00:00
-347,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,18 Feb 2015,2015,Feb,18,2015-02-18 00:00:00
-348,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,20 Feb 2015,2015,Feb,20,2015-02-20 00:00:00
-349,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,22 Nov 2014,2014,Nov,22,2014-11-22 00:00:00
-350,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,23 Jan 2015,2015,Jan,23,2015-01-23 00:00:00
-351,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,31 Jan 2015,2015,Jan,31,2015-01-31 00:00:00
-352,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2500,2500,2500,14 Jan 2015,2015,Jan,14,2015-01-14 00:00:00
+265,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,04 Mar 2015,2015,Mar,4,2015-03-04
+266,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2400,0,24 Feb 2015,2015,Feb,24,2015-02-24
+267,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,08 Mar 2015,2015,Mar,8,2015-03-08
+268,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2500,0,22 Feb 2015,2015,Feb,22,2015-02-22
+269,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,2600,0,17 Feb 2015,2015,Feb,17,2015-02-17
+270,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,0,3000,0,06 Mar 2015,2015,Mar,6,2015-03-06
+271,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2100,2100,2100,11 Dec 2014,2014,Dec,11,2014-12-11
+272,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,09 Dec 2014,2014,Dec,9,2014-12-09
+273,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,17 Dec 2014,2014,Dec,17,2014-12-17
+274,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,18 Nov 2014,2014,Nov,18,2014-11-18
+275,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,21 Nov 2014,2014,Nov,21,2014-11-21
+276,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2200,2200,30 Dec 2014,2014,Dec,30,2014-12-30
+277,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2300,2250,01 Jan 2015,2015,Jan,1,2015-01-01
+278,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18
+279,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2211,2225,2218,07 Dec 2014,2014,Dec,7,2014-12-07
+280,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2240,2240,2240,30 Nov 2014,2014,Nov,30,2014-11-30
+281,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,06 Dec 2014,2014,Dec,6,2014-12-06
+282,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,11 Nov 2014,2014,Nov,11,2014-11-11
+283,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,23 Nov 2014,2014,Nov,23,2014-11-23
+284,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,24 Dec 2014,2014,Dec,24,2014-12-24
+285,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,26 Nov 2014,2014,Nov,26,2014-11-26
+286,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2300,2300,31 Jan 2015,2015,Jan,31,2015-01-31
+287,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,05 Jan 2015,2015,Jan,5,2015-01-05
+288,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2300,2400,2350,30 Jan 2015,2015,Jan,30,2015-01-30
+289,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2380,2380,2380,07 Feb 2015,2015,Feb,7,2015-02-07
+290,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Feb 2015,2015,Feb,3,2015-02-03
+291,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,03 Nov 2014,2014,Nov,3,2014-11-03
+292,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,13 Jan 2015,2015,Jan,13,2015-01-13
+293,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,14 Nov 2014,2014,Nov,14,2014-11-14
+294,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,26 Oct 2014,2014,Oct,26,2014-10-26
+295,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2400,2400,28 Jan 2015,2015,Jan,28,2015-01-28
+296,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,06 Nov 2014,2014,Nov,6,2014-11-06
+297,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2400,2500,2450,09 Nov 2014,2014,Nov,9,2014-11-09
+298,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2500,2500,2500,26 Mar 2015,2015,Mar,26,2015-03-26
+299,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2600,2600,2600,10 Sep 2014,2014,Sep,10,2014-09-10
+300,,Jhajar,Bahadurgarh,Gur(Jaggery),Other,FAQ,2800,2800,2800,09 Sep 2014,2014,Sep,9,2014-09-09
+301,,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,20 Feb 2015,2015,Feb,20,2015-02-20
+302,,Mewat,Hathin,Gur(Jaggery),Other,FAQ,2200,2200,2200,27 Apr 2015,2015,Apr,27,2015-04-27
+303,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2100,2300,2195,24 Feb 2015,2015,Feb,24,2015-02-24
+304,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2160,2300,2160,23 Feb 2015,2015,Feb,23,2015-02-23
+305,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2161,2271,2161,05 Mar 2015,2015,Mar,5,2015-03-05
+306,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2200,2200,2200,08 Apr 2015,2015,Apr,8,2015-04-08
+307,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2211,2211,26 Feb 2015,2015,Feb,26,2015-02-26
+308,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2211,2300,2300,27 Feb 2015,2015,Feb,27,2015-02-27
+309,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2215,2215,2215,25 Feb 2015,2015,Feb,25,2015-02-25
+310,,Sonipat,"New Grain Market , Sonipat",Gur(Jaggery),Other,FAQ,2281,2291,2281,07 Mar 2015,2015,Mar,7,2015-03-07
+311,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2150,2150,24 Feb 2015,2015,Feb,24,2015-02-24
+312,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2000,2500,2500,10 Jun 2015,2015,Jun,10,2015-06-10
+313,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2100,2100,06 Mar 2015,2015,Mar,6,2015-03-06
+314,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2150,2150,02 Mar 2015,2015,Mar,2,2015-03-02
+315,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2050,2200,2100,18 Mar 2015,2015,Mar,18,2015-03-18
+316,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2100,2200,2200,12 Mar 2015,2015,Mar,12,2015-03-12
+317,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,11 Mar 2015,2015,Mar,11,2015-03-11
+318,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2250,2250,26 Mar 2015,2015,Mar,26,2015-03-26
+319,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2400,2300,18 Dec 2014,2014,Dec,18,2014-12-18
+320,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2200,2500,2500,15 Jun 2015,2015,Jun,15,2015-06-15
+321,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2500,2700,2700,15 May 2015,2015,May,15,2015-05-15
+322,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2600,2700,2700,22 Apr 2015,2015,Apr,22,2015-04-22
+323,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,02 Apr 2015,2015,Apr,2,2015-04-02
+324,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,27 Apr 2015,2015,Apr,27,2015-04-27
+325,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2700,2700,28 Apr 2015,2015,Apr,28,2015-04-28
+326,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2700,30 Apr 2015,2015,Apr,30,2015-04-30
+327,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,12 Apr 2015,2015,Apr,12,2015-04-12
+328,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,16 May 2015,2015,May,16,2015-05-16
+329,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2700,2800,2800,27 Mar 2015,2015,Mar,27,2015-03-27
+330,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2800,2800,05 Apr 2015,2015,Apr,5,2015-04-05
+331,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,14 Apr 2015,2015,Apr,14,2015-04-14
+332,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,2900,2900,31 Mar 2015,2015,Mar,31,2015-03-31
+333,,Panipat,Samalkha,Gur(Jaggery),Black,FAQ,2800,3100,3100,06 Jun 2015,2015,Jun,6,2015-06-06
+334,,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2000,2200,2100,12 Dec 2014,2014,Dec,12,2014-12-12
+335,,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2200,2200,11 Dec 2014,2014,Dec,11,2014-12-11
+336,,Panipat,Samalkha,Gur(Jaggery),Other,FAQ,2200,2500,2300,14 Dec 2014,2014,Dec,14,2014-12-14
+337,,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2500,0,14 Aug 2015,2015,Aug,14,2015-08-14
+338,,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,0,2615,2600,09 Aug 2015,2015,Aug,9,2015-08-09
+339,,Bhiwani,Siwani,Gur(Jaggery),Other,FAQ,2400,2400,2400,11 Jul 2015,2015,Jul,11,2015-07-11
+340,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,02 Apr 2015,2015,Apr,2,2015-04-02
+341,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,10 Dec 2014,2014,Dec,10,2014-12-10
+342,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Feb 2015,2015,Feb,28,2015-02-28
+343,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,28 Mar 2015,2015,Mar,28,2015-03-28
+344,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2300,2300,2300,29 May 2015,2015,May,29,2015-05-29
+345,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2350,2450,2400,21 Nov 2014,2014,Nov,21,2014-11-21
+346,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,17 Nov 2014,2014,Nov,17,2014-11-17
+347,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,18 Feb 2015,2015,Feb,18,2015-02-18
+348,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,20 Feb 2015,2015,Feb,20,2015-02-20
+349,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,22 Nov 2014,2014,Nov,22,2014-11-22
+350,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,23 Jan 2015,2015,Jan,23,2015-01-23
+351,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2400,2400,2400,31 Jan 2015,2015,Jan,31,2015-01-31
+352,,Bhiwani,Tosham,Gur(Jaggery),Other,FAQ,2500,2500,2500,14 Jan 2015,2015,Jan,14,2015-01-14

@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Alappuzha,Cherthala,Sugar,Other,FAQ,3500,3600,3550,19 Oct 2020,2020,Oct,19,2020-10-19
 1,1.0,Malappuram,Kondotty,Sugar,Other,FAQ,3700,3900,3800,08 Feb 2021,2021,Feb,8,2021-02-08
 2,2.0,Malappuram,Thirurrangadi,Sugar,Chini,FAQ,3600,3800,3800,09 Apr 2021,2021,Apr,9,2021-04-09
@@ -857,5 +857,5 @@
 855,855.0,Kollam,Punalur,Sugar,Other,FAQ,4500,5000,4800,28 Jul 2018,2018,Jul,28,2018-07-28
 856,856.0,Kollam,Punalur,Sugar,Other,FAQ,5500,6000,5800,11 Jul 2018,2018,Jul,11,2018-07-11
 857,857.0,Malappuram,Thirurrangadi,Sugar,Chini,FAQ,4200,4700,4500,24 Jan 2018,2018,Jan,24,2018-01-24
-858,,Malappuram,Thirurrangadi,Sugar,Chini,FAQ,3500,3500,3500,01 Aug 2024,2024,Aug,01,2024-08-01 00:00:00
-859,,Malappuram,Thirurrangadi,Sugar,Chini,FAQ,3800,3800,3800,31 Jul 2024,2024,Jul,31,2024-07-31 00:00:00
+858,,Malappuram,Thirurrangadi,Sugar,Chini,FAQ,3500,3500,3500,01 Aug 2024,2024,Aug,1,2024-08-01
+859,,Malappuram,Thirurrangadi,Sugar,Chini,FAQ,3800,3800,3800,31 Jul 2024,2024,Jul,31,2024-07-31

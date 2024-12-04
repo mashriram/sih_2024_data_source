@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Erode,Anthiyur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5575,9619,9565,08 Mar 2022,2022,Mar,8,2022-03-08
 1,1.0,Erode,Anthiyur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8075,9195,8615,01 Feb 2022,2022,Feb,1,2022-02-01
 2,2.0,Erode,Anthiyur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,9110,9659,9375,08 Feb 2022,2022,Feb,8,2022-02-08
@@ -61,8 +61,8 @@
 59,59.0,Villupuram,Ulundurpettai,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7069,7069,7069,05 Dec 2023,2023,Dec,5,2023-12-05
 60,60.0,Villupuram,Ulundurpettai,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7600,7600,7600,17 Nov 2023,2023,Nov,17,2023-11-17
 61,61.0,Erode,Anthiyur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5429,6419,5429,06 Mar 2018,2018,Mar,6,2018-03-06
-62,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3320,5540,4500,20 Feb 2017,2017,Feb,20,2017-02-20 00:00:00
-63,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3809,6209,4369,22 May 2017,2017,May,22,2017-05-22 00:00:00
-64,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4617,4832,4709,21 Feb 2017,2017,Feb,21,2017-02-21 00:00:00
-65,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4909,5029,5000,17 Feb 2017,2017,Feb,17,2017-02-17 00:00:00
-66,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5049,5369,5249,17 Mar 2017,2017,Mar,17,2017-03-17 00:00:00
+62,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3320,5540,4500,20 Feb 2017,2017,Feb,20,2017-02-20
+63,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3809,6209,4369,22 May 2017,2017,May,22,2017-05-22
+64,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4617,4832,4709,21 Feb 2017,2017,Feb,21,2017-02-21
+65,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4909,5029,5000,17 Feb 2017,2017,Feb,17,2017-02-17
+66,,Villupuram,Marakkanam,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5049,5369,5249,17 Mar 2017,2017,Mar,17,2017-03-17

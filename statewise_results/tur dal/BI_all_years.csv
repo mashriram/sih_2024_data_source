@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8500,9500,9000,08 Apr 2022,2022,Apr,8,2022-04-08
 1,1.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8800,08 Feb 2022,2022,Feb,8,2022-02-08
 2,2.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8800,19 Feb 2022,2022,Feb,19,2022-02-19
@@ -65,8 +65,8 @@
 63,63.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,14500,16000,15500,15 Dec 2023,2023,Dec,15,2023-12-15
 64,64.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,15000,16000,15500,14 Nov 2023,2023,Nov,14,2023-11-14
 65,65.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,15500,16500,16000,03 Nov 2023,2023,Nov,3,2023-11-03
-66,,Buxar,Brahmpur,Arhar Dal(Tur Dal),777 New Ind,FAQ,13000,14500,13800,09 Oct 2024,2024,Oct,09,2024-10-09 00:00:00
-67,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,13800,26 Oct 2024,2024,Oct,26,2024-10-26 00:00:00
-68,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,06 Nov 2024,2024,Nov,06,2024-11-06 00:00:00
-69,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,10 Oct 2024,2024,Oct,10,2024-10-10 00:00:00
-70,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,19 Oct 2024,2024,Oct,19,2024-10-19 00:00:00
+66,,Buxar,Brahmpur,Arhar Dal(Tur Dal),777 New Ind,FAQ,13000,14500,13800,09 Oct 2024,2024,Oct,9,2024-10-09
+67,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,13800,26 Oct 2024,2024,Oct,26,2024-10-26
+68,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,06 Nov 2024,2024,Nov,6,2024-11-06
+69,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,10 Oct 2024,2024,Oct,10,2024-10-10
+70,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,19 Oct 2024,2024,Oct,19,2024-10-19

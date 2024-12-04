@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Koria,Baikunthpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3000,3000,3000,28 Oct 2020,2020,Oct,28,2020-10-28
 1,1.0,Kanker,Kanker,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,2500,2500,2500,07 Mar 2021,2021,Mar,7,2021-03-07
 2,2.0,Kanker,Kanker,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,2500,2500,2500,25 Feb 2021,2021,Feb,25,2021-02-25
@@ -26,6 +26,6 @@
 24,24.0,Bilaspur,Bilha,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3100,3110,3110,05 May 2018,2018,May,5,2018-05-05
 25,25.0,Bilaspur,Bilha,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,3100,3105,3105,07 May 2018,2018,May,7,2018-05-07
 26,26.0,Bilaspur,Bilha,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,3450,3455,3450,12 Apr 2018,2018,Apr,12,2018-04-12
-27,,Bilaspur,Bilha,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3100,3110,3110,05 May 2018,2018,May,05,2018-05-05 00:00:00
-28,,Bilaspur,Bilha,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,3100,3105,3105,07 May 2018,2018,May,07,2018-05-07 00:00:00
-29,,Bilaspur,Bilha,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,3450,3455,3450,12 Apr 2018,2018,Apr,12,2018-04-12 00:00:00
+27,,Bilaspur,Bilha,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,3100,3110,3110,05 May 2018,2018,May,5,2018-05-05
+28,,Bilaspur,Bilha,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,3100,3105,3105,07 May 2018,2018,May,7,2018-05-07
+29,,Bilaspur,Bilha,Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),FAQ,3450,3455,3450,12 Apr 2018,2018,Apr,12,2018-04-12

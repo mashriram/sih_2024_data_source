@@ -1,4 +1,4 @@
-,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
 0,0.0,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,6000,4700,11 Mar 2017,2017,Mar,11,2017-03-11
 1,1.0,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7500,21 Mar 2017,2017,Mar,21,2017-03-21
 2,2.0,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8000,7800,14 Mar 2017,2017,Mar,14,2017-03-14
@@ -688,85 +688,85 @@
 686,686.0,Sepahijala,Bishramganj,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,9200,10000,9500,29 Oct 2017,2017,Oct,29,2017-10-29
 687,687.0,Sepahijala,Bishramganj,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,9200,10000,9500,30 Nov 2017,2017,Nov,30,2017-11-30
 688,688.0,Sepahijala,Bishramganj,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,9200,10000,9500,31 Dec 2017,2017,Dec,31,2017-12-31
-689,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,6000,4700,11 Mar 2017,2017,Mar,11,2017-03-11 00:00:00
-690,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7500,21 Mar 2017,2017,Mar,21,2017-03-21 00:00:00
-691,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8000,7800,14 Mar 2017,2017,Mar,14,2017-03-14 00:00:00
-692,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8000,7800,18 Mar 2017,2017,Mar,18,2017-03-18 00:00:00
-693,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,01 Jul 2017,2017,Jul,01,2017-07-01 00:00:00
-694,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,08 Jul 2017,2017,Jul,08,2017-07-08 00:00:00
-695,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,11 Jul 2017,2017,Jul,11,2017-07-11 00:00:00
-696,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,13 Jun 2017,2017,Jun,13,2017-06-13 00:00:00
-697,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,15 Jul 2017,2017,Jul,15,2017-07-15 00:00:00
-698,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,20 Jun 2017,2017,Jun,20,2017-06-20 00:00:00
-699,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,24 Jun 2017,2017,Jun,24,2017-06-24 00:00:00
-700,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,27 Jun 2017,2017,Jun,27,2017-06-27 00:00:00
-701,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,27 May 2017,2017,May,27,2017-05-27 00:00:00
-702,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,30 May 2017,2017,May,30,2017-05-30 00:00:00
-703,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,01 Apr 2017,2017,Apr,01,2017-04-01 00:00:00
-704,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,11 Apr 2017,2017,Apr,11,2017-04-11 00:00:00
-705,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,15 Apr 2017,2017,Apr,15,2017-04-15 00:00:00
-706,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,23 May 2017,2017,May,23,2017-05-23 00:00:00
-707,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,25 Mar 2017,2017,Mar,25,2017-03-25 00:00:00
-708,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,04 Jul 2017,2017,Jul,04,2017-07-04 00:00:00
-709,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,08 Aug 2017,2017,Aug,08,2017-08-08 00:00:00
-710,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,18 Jul 2017,2017,Jul,18,2017-07-18 00:00:00
-711,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,19 Aug 2017,2017,Aug,19,2017-08-19 00:00:00
-712,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,22 Aug 2017,2017,Aug,22,2017-08-22 00:00:00
-713,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,22 Jul 2017,2017,Jul,22,2017-07-22 00:00:00
-714,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,28 Mar 2017,2017,Mar,28,2017-03-28 00:00:00
-715,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8700,16 May 2017,2017,May,16,2017-05-16 00:00:00
-716,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8700,25 Jul 2017,2017,Jul,25,2017-07-25 00:00:00
-717,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,01 Aug 2017,2017,Aug,01,2017-08-01 00:00:00
-718,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,04 Apr 2017,2017,Apr,04,2017-04-04 00:00:00
-719,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,05 Aug 2017,2017,Aug,05,2017-08-05 00:00:00
-720,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,29 Aug 2017,2017,Aug,29,2017-08-29 00:00:00
-721,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,29 Jul 2017,2017,Jul,29,2017-07-29 00:00:00
-722,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,08 Apr 2017,2017,Apr,08,2017-04-08 00:00:00
-723,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,20 May 2017,2017,May,20,2017-05-20 00:00:00
-724,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,02 May 2017,2017,May,02,2017-05-02 00:00:00
-725,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,03 Jun 2017,2017,Jun,03,2017-06-03 00:00:00
-726,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,06 Jun 2017,2017,Jun,06,2017-06-06 00:00:00
-727,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,10 Jun 2017,2017,Jun,10,2017-06-10 00:00:00
-728,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,13 May 2017,2017,May,13,2017-05-13 00:00:00
-729,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,21 Feb 2017,2017,Feb,21,2017-02-21 00:00:00
-730,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,25 Apr 2017,2017,Apr,25,2017-04-25 00:00:00
-731,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9600,9200,18 Feb 2017,2017,Feb,18,2017-02-18 00:00:00
-732,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,04 Mar 2017,2017,Mar,04,2017-03-04 00:00:00
-733,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,06 May 2017,2017,May,06,2017-05-06 00:00:00
-734,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,09 May 2017,2017,May,09,2017-05-09 00:00:00
-735,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,22 Apr 2017,2017,Apr,22,2017-04-22 00:00:00
-736,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9500,29 Apr 2017,2017,Apr,29,2017-04-29 00:00:00
-737,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,10000,9700,18 Apr 2017,2017,Apr,18,2017-04-18 00:00:00
-738,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,10000,9800,28 Feb 2017,2017,Feb,28,2017-02-28 00:00:00
-739,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10000,10500,10200,14 Feb 2017,2017,Feb,14,2017-02-14 00:00:00
-740,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10200,10800,10500,25 Feb 2017,2017,Feb,25,2017-02-25 00:00:00
-741,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10500,11000,10800,07 Mar 2017,2017,Mar,07,2017-03-07 00:00:00
-742,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11000,12000,11500,21 Jan 2017,2017,Jan,21,2017-01-21 00:00:00
-743,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11000,12000,11500,24 Jan 2017,2017,Jan,24,2017-01-24 00:00:00
-744,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11000,12000,11500,28 Jan 2017,2017,Jan,28,2017-01-28 00:00:00
-745,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11500,12000,11800,04 Feb 2017,2017,Feb,04,2017-02-04 00:00:00
-746,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11500,12000,11800,07 Feb 2017,2017,Feb,07,2017-02-07 00:00:00
-747,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11500,12000,11800,31 Jan 2017,2017,Jan,31,2017-01-31 00:00:00
-748,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11800,12500,12000,11 Feb 2017,2017,Feb,11,2017-02-11 00:00:00
-749,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,13500,13200,03 Jan 2017,2017,Jan,03,2017-01-03 00:00:00
-750,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,13500,13300,07 Jan 2017,2017,Jan,07,2017-01-07 00:00:00
-751,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,14000,13500,05 Nov 2016,2016,Nov,05,2016-11-05 00:00:00
-752,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,14000,13500,12 Nov 2016,2016,Nov,12,2016-11-12 00:00:00
-753,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,14000,13500,15 Nov 2016,2016,Nov,15,2016-11-15 00:00:00
-754,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13200,13800,13500,10 Jan 2017,2017,Jan,10,2017-01-10 00:00:00
-755,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13200,13800,13500,17 Jan 2017,2017,Jan,17,2017-01-17 00:00:00
-756,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13500,14500,14000,01 Nov 2016,2016,Nov,01,2016-11-01 00:00:00
-757,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13500,14500,14000,08 Nov 2016,2016,Nov,08,2016-11-08 00:00:00
-758,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13500,14500,14000,22 Nov 2016,2016,Nov,22,2016-11-22 00:00:00
-759,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13500,14500,14000,29 Nov 2016,2016,Nov,29,2016-11-29 00:00:00
-760,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,14500,14200,03 Dec 2016,2016,Dec,03,2016-12-03 00:00:00
-761,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,14500,14200,05 Dec 2016,2016,Dec,05,2016-12-05 00:00:00
-762,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,14500,14200,06 Dec 2016,2016,Dec,06,2016-12-06 00:00:00
-763,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,15000,14500,19 Nov 2016,2016,Nov,19,2016-11-19 00:00:00
-764,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,15000,14500,29 Oct 2016,2016,Oct,29,2016-10-29 00:00:00
-765,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14200,14800,14500,31 Dec 2016,2016,Dec,31,2016-12-31 00:00:00
-766,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14500,15000,14700,24 Dec 2016,2016,Dec,24,2016-12-24 00:00:00
-767,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14500,15000,14800,13 Dec 2016,2016,Dec,13,2016-12-13 00:00:00
-768,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14500,15000,14800,20 Dec 2016,2016,Dec,20,2016-12-20 00:00:00
-769,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14500,15000,14800,27 Dec 2016,2016,Dec,27,2016-12-27 00:00:00
-770,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14700,15000,14800,17 Dec 2016,2016,Dec,17,2016-12-17 00:00:00
+689,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,6000,4700,11 Mar 2017,2017,Mar,11,2017-03-11
+690,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7000,8000,7500,21 Mar 2017,2017,Mar,21,2017-03-21
+691,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8000,7800,14 Mar 2017,2017,Mar,14,2017-03-14
+692,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,7500,8000,7800,18 Mar 2017,2017,Mar,18,2017-03-18
+693,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,01 Jul 2017,2017,Jul,1,2017-07-01
+694,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,08 Jul 2017,2017,Jul,8,2017-07-08
+695,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,11 Jul 2017,2017,Jul,11,2017-07-11
+696,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,13 Jun 2017,2017,Jun,13,2017-06-13
+697,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,15 Jul 2017,2017,Jul,15,2017-07-15
+698,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,20 Jun 2017,2017,Jun,20,2017-06-20
+699,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,24 Jun 2017,2017,Jun,24,2017-06-24
+700,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,27 Jun 2017,2017,Jun,27,2017-06-27
+701,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,27 May 2017,2017,May,27,2017-05-27
+702,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,8500,8200,30 May 2017,2017,May,30,2017-05-30
+703,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,01 Apr 2017,2017,Apr,1,2017-04-01
+704,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,11 Apr 2017,2017,Apr,11,2017-04-11
+705,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,15 Apr 2017,2017,Apr,15,2017-04-15
+706,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,23 May 2017,2017,May,23,2017-05-23
+707,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8000,9000,8500,25 Mar 2017,2017,Mar,25,2017-03-25
+708,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,04 Jul 2017,2017,Jul,4,2017-07-04
+709,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,08 Aug 2017,2017,Aug,8,2017-08-08
+710,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,18 Jul 2017,2017,Jul,18,2017-07-18
+711,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,19 Aug 2017,2017,Aug,19,2017-08-19
+712,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,22 Aug 2017,2017,Aug,22,2017-08-22
+713,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,22 Jul 2017,2017,Jul,22,2017-07-22
+714,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8200,9000,8500,28 Mar 2017,2017,Mar,28,2017-03-28
+715,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8700,16 May 2017,2017,May,16,2017-05-16
+716,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8700,25 Jul 2017,2017,Jul,25,2017-07-25
+717,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,01 Aug 2017,2017,Aug,1,2017-08-01
+718,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,04 Apr 2017,2017,Apr,4,2017-04-04
+719,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,05 Aug 2017,2017,Aug,5,2017-08-05
+720,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,29 Aug 2017,2017,Aug,29,2017-08-29
+721,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9000,8800,29 Jul 2017,2017,Jul,29,2017-07-29
+722,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,08 Apr 2017,2017,Apr,8,2017-04-08
+723,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,8500,9500,9000,20 May 2017,2017,May,20,2017-05-20
+724,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,02 May 2017,2017,May,2,2017-05-02
+725,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,03 Jun 2017,2017,Jun,3,2017-06-03
+726,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,06 Jun 2017,2017,Jun,6,2017-06-06
+727,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,10 Jun 2017,2017,Jun,10,2017-06-10
+728,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,13 May 2017,2017,May,13,2017-05-13
+729,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,21 Feb 2017,2017,Feb,21,2017-02-21
+730,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9500,9200,25 Apr 2017,2017,Apr,25,2017-04-25
+731,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,9600,9200,18 Feb 2017,2017,Feb,18,2017-02-18
+732,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,04 Mar 2017,2017,Mar,4,2017-03-04
+733,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,06 May 2017,2017,May,6,2017-05-06
+734,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,09 May 2017,2017,May,9,2017-05-09
+735,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9000,10000,9500,22 Apr 2017,2017,Apr,22,2017-04-22
+736,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9200,10000,9500,29 Apr 2017,2017,Apr,29,2017-04-29
+737,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,10000,9700,18 Apr 2017,2017,Apr,18,2017-04-18
+738,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,9500,10000,9800,28 Feb 2017,2017,Feb,28,2017-02-28
+739,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10000,10500,10200,14 Feb 2017,2017,Feb,14,2017-02-14
+740,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10200,10800,10500,25 Feb 2017,2017,Feb,25,2017-02-25
+741,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,10500,11000,10800,07 Mar 2017,2017,Mar,7,2017-03-07
+742,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11000,12000,11500,21 Jan 2017,2017,Jan,21,2017-01-21
+743,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11000,12000,11500,24 Jan 2017,2017,Jan,24,2017-01-24
+744,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11000,12000,11500,28 Jan 2017,2017,Jan,28,2017-01-28
+745,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11500,12000,11800,04 Feb 2017,2017,Feb,4,2017-02-04
+746,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11500,12000,11800,07 Feb 2017,2017,Feb,7,2017-02-07
+747,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11500,12000,11800,31 Jan 2017,2017,Jan,31,2017-01-31
+748,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,11800,12500,12000,11 Feb 2017,2017,Feb,11,2017-02-11
+749,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,13500,13200,03 Jan 2017,2017,Jan,3,2017-01-03
+750,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,13500,13300,07 Jan 2017,2017,Jan,7,2017-01-07
+751,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,14000,13500,05 Nov 2016,2016,Nov,5,2016-11-05
+752,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,14000,13500,12 Nov 2016,2016,Nov,12,2016-11-12
+753,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13000,14000,13500,15 Nov 2016,2016,Nov,15,2016-11-15
+754,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13200,13800,13500,10 Jan 2017,2017,Jan,10,2017-01-10
+755,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13200,13800,13500,17 Jan 2017,2017,Jan,17,2017-01-17
+756,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13500,14500,14000,01 Nov 2016,2016,Nov,1,2016-11-01
+757,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13500,14500,14000,08 Nov 2016,2016,Nov,8,2016-11-08
+758,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13500,14500,14000,22 Nov 2016,2016,Nov,22,2016-11-22
+759,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,13500,14500,14000,29 Nov 2016,2016,Nov,29,2016-11-29
+760,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,14500,14200,03 Dec 2016,2016,Dec,3,2016-12-03
+761,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,14500,14200,05 Dec 2016,2016,Dec,5,2016-12-05
+762,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,14500,14200,06 Dec 2016,2016,Dec,6,2016-12-06
+763,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,15000,14500,19 Nov 2016,2016,Nov,19,2016-11-19
+764,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14000,15000,14500,29 Oct 2016,2016,Oct,29,2016-10-29
+765,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14200,14800,14500,31 Dec 2016,2016,Dec,31,2016-12-31
+766,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14500,15000,14700,24 Dec 2016,2016,Dec,24,2016-12-24
+767,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14500,15000,14800,13 Dec 2016,2016,Dec,13,2016-12-13
+768,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14500,15000,14800,20 Dec 2016,2016,Dec,20,2016-12-20
+769,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14500,15000,14800,27 Dec 2016,2016,Dec,27,2016-12-27
+770,,Sepahijala,Bishalgarh,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,14700,15000,14800,17 Dec 2016,2016,Dec,17,2016-12-17
