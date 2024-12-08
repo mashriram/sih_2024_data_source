@@ -1,185 +1,277 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,27 Sep 2014,2014,Sep,27,2014-09-27
-1,1.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,29 Sep 2014,2014,Sep,29,2014-09-29
-2,2.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,30 Sep 2014,2014,Sep,30,2014-09-30
-3,3.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,24 Sep 2014,2014,Sep,24,2014-09-24
-4,4.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,26 Sep 2014,2014,Sep,26,2014-09-26
-5,5.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4550,4800,4650,23 Sep 2014,2014,Sep,23,2014-09-23
-6,6.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,4850,4600,22 Sep 2014,2014,Sep,22,2014-09-22
-7,7.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,10 Sep 2014,2014,Sep,10,2014-09-10
-8,8.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,11 Sep 2014,2014,Sep,11,2014-09-11
-9,9.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,12 Sep 2014,2014,Sep,12,2014-09-12
-10,10.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,13 Sep 2014,2014,Sep,13,2014-09-13
-11,11.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,15 Sep 2014,2014,Sep,15,2014-09-15
-12,12.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,16 Sep 2014,2014,Sep,16,2014-09-16
-13,13.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,17 Sep 2014,2014,Sep,17,2014-09-17
-14,14.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,18 Sep 2014,2014,Sep,18,2014-09-18
-15,15.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,19 Sep 2014,2014,Sep,19,2014-09-19
-16,16.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,01 Sep 2014,2014,Sep,1,2014-09-01
-17,17.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,02 Sep 2014,2014,Sep,2,2014-09-02
-18,18.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,03 Sep 2014,2014,Sep,3,2014-09-03
-19,19.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,04 Sep 2014,2014,Sep,4,2014-09-04
-20,20.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,06 Sep 2014,2014,Sep,6,2014-09-06
-21,21.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,08 Sep 2014,2014,Sep,8,2014-09-08
-22,22.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4650,4950,4700,20 Sep 2014,2014,Sep,20,2014-09-20
-23,23.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,3400,3600,3500,06 Sep 2014,2014,Sep,6,2014-09-06
-24,24.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4300,4600,4500,23 Sep 2014,2014,Sep,23,2014-09-23
-25,25.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,04 Sep 2014,2014,Sep,4,2014-09-04
-26,26.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4800,4600,01 Sep 2014,2014,Sep,1,2014-09-01
-27,27.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,21 Sep 2014,2014,Sep,21,2014-09-21
-28,28.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,16 Sep 2014,2014,Sep,16,2014-09-16
-29,29.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5000,4900,01 Oct 2014,2014,Oct,1,2014-10-01
-30,30.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,11 Sep 2014,2014,Sep,11,2014-09-11
-31,31.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5800,5600,09 Sep 2014,2014,Sep,9,2014-09-09
-32,32.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,6400,6800,6600,08 Sep 2014,2014,Sep,8,2014-09-08
-33,33.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4100,07 Sep 2014,2014,Sep,7,2014-09-07
-34,34.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,01 Sep 2014,2014,Sep,1,2014-09-01
-35,35.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,05 Sep 2014,2014,Sep,5,2014-09-05
-36,36.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,08 Sep 2014,2014,Sep,8,2014-09-08
-37,37.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,12 Sep 2014,2014,Sep,12,2014-09-12
-38,38.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,15 Sep 2014,2014,Sep,15,2014-09-15
-39,39.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,16 Sep 2014,2014,Sep,16,2014-09-16
-40,40.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4230,06 Sep 2014,2014,Sep,6,2014-09-06
-41,41.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,26 Sep 2014,2014,Sep,26,2014-09-26
-42,42.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,27 Sep 2014,2014,Sep,27,2014-09-27
-43,43.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,29 Sep 2014,2014,Sep,29,2014-09-29
-44,44.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4700,28 Sep 2014,2014,Sep,28,2014-09-28
-45,45.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4800,24 Sep 2014,2014,Sep,24,2014-09-24
-46,46.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,21 Sep 2014,2014,Sep,21,2014-09-21
-47,47.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,23 Sep 2014,2014,Sep,23,2014-09-23
-48,48.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5200,4800,20 Sep 2014,2014,Sep,20,2014-09-20
-49,49.0,Hazaribagh,Hazaribagh,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,5000,12 Sep 2014,2014,Sep,12,2014-09-12
-50,50.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,4950,4920,02 Sep 2014,2014,Sep,2,2014-09-02
-51,51.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4910,4950,4920,24 Sep 2014,2014,Sep,24,2014-09-24
-52,52.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4950,4980,4960,27 Sep 2014,2014,Sep,27,2014-09-27
-53,53.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5450,5410,19 Sep 2014,2014,Sep,19,2014-09-19
-54,54.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,6900,6950,6920,22 Sep 2014,2014,Sep,22,2014-09-22
-55,55.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,15 Sep 2014,2014,Sep,15,2014-09-15
-56,56.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,18 Sep 2014,2014,Sep,18,2014-09-18
-57,57.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,01 Sep 2014,2014,Sep,1,2014-09-01
-58,58.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4700,03 Sep 2014,2014,Sep,3,2014-09-03
-59,59.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,16 Sep 2014,2014,Sep,16,2014-09-16
-60,60.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,12 Sep 2014,2014,Sep,12,2014-09-12
-61,61.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,11 Sep 2014,2014,Sep,11,2014-09-11
-62,62.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,19 Sep 2014,2014,Sep,19,2014-09-19
-63,63.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,23 Sep 2014,2014,Sep,23,2014-09-23
-64,64.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,5300,5200,24 Sep 2014,2014,Sep,24,2014-09-24
-65,65.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5100,5400,5300,22 Sep 2014,2014,Sep,22,2014-09-22
-66,66.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5300,5600,5500,07 Sep 2014,2014,Sep,7,2014-09-07
-67,67.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5600,5800,5700,06 Sep 2014,2014,Sep,6,2014-09-06
-68,68.0,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,01 Sep 2014,2014,Sep,1,2014-09-01
-69,69.0,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5400,5300,03 Sep 2014,2014,Sep,3,2014-09-03
-70,70.0,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5500,5400,04 Sep 2014,2014,Sep,4,2014-09-04
-71,71.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,03 Sep 2014,2014,Sep,3,2014-09-03
-72,72.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,04 Sep 2014,2014,Sep,4,2014-09-04
-73,73.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,06 Sep 2014,2014,Sep,6,2014-09-06
-74,74.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,08 Sep 2014,2014,Sep,8,2014-09-08
-75,75.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,09 Sep 2014,2014,Sep,9,2014-09-09
-76,76.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,10 Sep 2014,2014,Sep,10,2014-09-10
-77,77.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,11 Sep 2014,2014,Sep,11,2014-09-11
-78,78.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,12 Sep 2014,2014,Sep,12,2014-09-12
-79,79.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,13 Sep 2014,2014,Sep,13,2014-09-13
-80,80.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,15 Sep 2014,2014,Sep,15,2014-09-15
-81,81.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,16 Sep 2014,2014,Sep,16,2014-09-16
-82,82.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,17 Sep 2014,2014,Sep,17,2014-09-17
-83,83.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,18 Sep 2014,2014,Sep,18,2014-09-18
-84,84.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,19 Sep 2014,2014,Sep,19,2014-09-19
-85,85.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,20 Sep 2014,2014,Sep,20,2014-09-20
-86,86.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,22 Sep 2014,2014,Sep,22,2014-09-22
-87,87.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,23 Sep 2014,2014,Sep,23,2014-09-23
-88,88.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,24 Sep 2014,2014,Sep,24,2014-09-24
-89,89.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,26 Sep 2014,2014,Sep,26,2014-09-26
-90,90.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,29 Sep 2014,2014,Sep,29,2014-09-29
-91,91.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,30 Sep 2014,2014,Sep,30,2014-09-30
-92,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,27 Sep 2014,2014,Sep,27,2014-09-27
-93,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,29 Sep 2014,2014,Sep,29,2014-09-29
-94,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,30 Sep 2014,2014,Sep,30,2014-09-30
-95,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,24 Sep 2014,2014,Sep,24,2014-09-24
-96,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,26 Sep 2014,2014,Sep,26,2014-09-26
-97,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4550,4800,4650,23 Sep 2014,2014,Sep,23,2014-09-23
-98,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,4850,4600,22 Sep 2014,2014,Sep,22,2014-09-22
-99,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,10 Sep 2014,2014,Sep,10,2014-09-10
-100,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,11 Sep 2014,2014,Sep,11,2014-09-11
-101,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,12 Sep 2014,2014,Sep,12,2014-09-12
-102,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,13 Sep 2014,2014,Sep,13,2014-09-13
-103,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,15 Sep 2014,2014,Sep,15,2014-09-15
-104,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,16 Sep 2014,2014,Sep,16,2014-09-16
-105,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,17 Sep 2014,2014,Sep,17,2014-09-17
-106,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,18 Sep 2014,2014,Sep,18,2014-09-18
-107,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,19 Sep 2014,2014,Sep,19,2014-09-19
-108,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,01 Sep 2014,2014,Sep,1,2014-09-01
-109,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,02 Sep 2014,2014,Sep,2,2014-09-02
-110,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,03 Sep 2014,2014,Sep,3,2014-09-03
-111,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,04 Sep 2014,2014,Sep,4,2014-09-04
-112,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,06 Sep 2014,2014,Sep,6,2014-09-06
-113,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,08 Sep 2014,2014,Sep,8,2014-09-08
-114,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4650,4950,4700,20 Sep 2014,2014,Sep,20,2014-09-20
-115,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,3400,3600,3500,06 Sep 2014,2014,Sep,6,2014-09-06
-116,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4300,4600,4500,23 Sep 2014,2014,Sep,23,2014-09-23
-117,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,04 Sep 2014,2014,Sep,4,2014-09-04
-118,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4800,4600,01 Sep 2014,2014,Sep,1,2014-09-01
-119,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,21 Sep 2014,2014,Sep,21,2014-09-21
-120,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,16 Sep 2014,2014,Sep,16,2014-09-16
-121,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5000,4900,01 Oct 2014,2014,Oct,1,2014-10-01
-122,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,11 Sep 2014,2014,Sep,11,2014-09-11
-123,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5800,5600,09 Sep 2014,2014,Sep,9,2014-09-09
-124,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,6400,6800,6600,08 Sep 2014,2014,Sep,8,2014-09-08
-125,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4100,07 Sep 2014,2014,Sep,7,2014-09-07
-126,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,01 Sep 2014,2014,Sep,1,2014-09-01
-127,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,05 Sep 2014,2014,Sep,5,2014-09-05
-128,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,08 Sep 2014,2014,Sep,8,2014-09-08
-129,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,12 Sep 2014,2014,Sep,12,2014-09-12
-130,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,15 Sep 2014,2014,Sep,15,2014-09-15
-131,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,16 Sep 2014,2014,Sep,16,2014-09-16
-132,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4230,06 Sep 2014,2014,Sep,6,2014-09-06
-133,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,26 Sep 2014,2014,Sep,26,2014-09-26
-134,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,27 Sep 2014,2014,Sep,27,2014-09-27
-135,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,29 Sep 2014,2014,Sep,29,2014-09-29
-136,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4700,28 Sep 2014,2014,Sep,28,2014-09-28
-137,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4800,24 Sep 2014,2014,Sep,24,2014-09-24
-138,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,21 Sep 2014,2014,Sep,21,2014-09-21
-139,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,23 Sep 2014,2014,Sep,23,2014-09-23
-140,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5200,4800,20 Sep 2014,2014,Sep,20,2014-09-20
-141,,Hazaribagh,Hazaribagh,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,5000,12 Sep 2014,2014,Sep,12,2014-09-12
-142,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,4950,4920,02 Sep 2014,2014,Sep,2,2014-09-02
-143,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4910,4950,4920,24 Sep 2014,2014,Sep,24,2014-09-24
-144,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4950,4980,4960,27 Sep 2014,2014,Sep,27,2014-09-27
-145,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5450,5410,19 Sep 2014,2014,Sep,19,2014-09-19
-146,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,6900,6950,6920,22 Sep 2014,2014,Sep,22,2014-09-22
-147,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,15 Sep 2014,2014,Sep,15,2014-09-15
-148,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,18 Sep 2014,2014,Sep,18,2014-09-18
-149,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,01 Sep 2014,2014,Sep,1,2014-09-01
-150,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4700,03 Sep 2014,2014,Sep,3,2014-09-03
-151,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,16 Sep 2014,2014,Sep,16,2014-09-16
-152,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,12 Sep 2014,2014,Sep,12,2014-09-12
-153,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,11 Sep 2014,2014,Sep,11,2014-09-11
-154,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,19 Sep 2014,2014,Sep,19,2014-09-19
-155,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,23 Sep 2014,2014,Sep,23,2014-09-23
-156,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,5300,5200,24 Sep 2014,2014,Sep,24,2014-09-24
-157,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5100,5400,5300,22 Sep 2014,2014,Sep,22,2014-09-22
-158,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5300,5600,5500,07 Sep 2014,2014,Sep,7,2014-09-07
-159,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5600,5800,5700,06 Sep 2014,2014,Sep,6,2014-09-06
-160,,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,01 Sep 2014,2014,Sep,1,2014-09-01
-161,,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5400,5300,03 Sep 2014,2014,Sep,3,2014-09-03
-162,,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5500,5400,04 Sep 2014,2014,Sep,4,2014-09-04
-163,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,03 Sep 2014,2014,Sep,3,2014-09-03
-164,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,04 Sep 2014,2014,Sep,4,2014-09-04
-165,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,06 Sep 2014,2014,Sep,6,2014-09-06
-166,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,08 Sep 2014,2014,Sep,8,2014-09-08
-167,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,09 Sep 2014,2014,Sep,9,2014-09-09
-168,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,10 Sep 2014,2014,Sep,10,2014-09-10
-169,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,11 Sep 2014,2014,Sep,11,2014-09-11
-170,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,12 Sep 2014,2014,Sep,12,2014-09-12
-171,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,13 Sep 2014,2014,Sep,13,2014-09-13
-172,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,15 Sep 2014,2014,Sep,15,2014-09-15
-173,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,16 Sep 2014,2014,Sep,16,2014-09-16
-174,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,17 Sep 2014,2014,Sep,17,2014-09-17
-175,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,18 Sep 2014,2014,Sep,18,2014-09-18
-176,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,19 Sep 2014,2014,Sep,19,2014-09-19
-177,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,20 Sep 2014,2014,Sep,20,2014-09-20
-178,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,22 Sep 2014,2014,Sep,22,2014-09-22
-179,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,23 Sep 2014,2014,Sep,23,2014-09-23
-180,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,24 Sep 2014,2014,Sep,24,2014-09-24
-181,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,26 Sep 2014,2014,Sep,26,2014-09-26
-182,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,29 Sep 2014,2014,Sep,29,2014-09-29
-183,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,30 Sep 2014,2014,Sep,30,2014-09-30
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,27 Sep 2014,2014,Sep,27,2014-09-27
+1,1.0,1.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,29 Sep 2014,2014,Sep,29,2014-09-29
+2,2.0,2.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,30 Sep 2014,2014,Sep,30,2014-09-30
+3,3.0,3.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,24 Sep 2014,2014,Sep,24,2014-09-24
+4,4.0,4.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,26 Sep 2014,2014,Sep,26,2014-09-26
+5,5.0,5.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4550,4800,4650,23 Sep 2014,2014,Sep,23,2014-09-23
+6,6.0,6.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,4850,4600,22 Sep 2014,2014,Sep,22,2014-09-22
+7,7.0,7.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,10 Sep 2014,2014,Sep,10,2014-09-10
+8,8.0,8.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,11 Sep 2014,2014,Sep,11,2014-09-11
+9,9.0,9.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,12 Sep 2014,2014,Sep,12,2014-09-12
+10,10.0,10.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,13 Sep 2014,2014,Sep,13,2014-09-13
+11,11.0,11.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,15 Sep 2014,2014,Sep,15,2014-09-15
+12,12.0,12.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,16 Sep 2014,2014,Sep,16,2014-09-16
+13,13.0,13.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,17 Sep 2014,2014,Sep,17,2014-09-17
+14,14.0,14.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,18 Sep 2014,2014,Sep,18,2014-09-18
+15,15.0,15.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,19 Sep 2014,2014,Sep,19,2014-09-19
+16,16.0,16.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,01 Sep 2014,2014,Sep,1,2014-09-01
+17,17.0,17.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,02 Sep 2014,2014,Sep,2,2014-09-02
+18,18.0,18.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,03 Sep 2014,2014,Sep,3,2014-09-03
+19,19.0,19.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,04 Sep 2014,2014,Sep,4,2014-09-04
+20,20.0,20.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,06 Sep 2014,2014,Sep,6,2014-09-06
+21,21.0,21.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,08 Sep 2014,2014,Sep,8,2014-09-08
+22,22.0,22.0,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4650,4950,4700,20 Sep 2014,2014,Sep,20,2014-09-20
+23,23.0,23.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,3400,3600,3500,06 Sep 2014,2014,Sep,6,2014-09-06
+24,24.0,24.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4300,4600,4500,23 Sep 2014,2014,Sep,23,2014-09-23
+25,25.0,25.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,04 Sep 2014,2014,Sep,4,2014-09-04
+26,26.0,26.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4800,4600,01 Sep 2014,2014,Sep,1,2014-09-01
+27,27.0,27.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,21 Sep 2014,2014,Sep,21,2014-09-21
+28,28.0,28.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,16 Sep 2014,2014,Sep,16,2014-09-16
+29,29.0,29.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5000,4900,01 Oct 2014,2014,Oct,1,2014-10-01
+30,30.0,30.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,11 Sep 2014,2014,Sep,11,2014-09-11
+31,31.0,31.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5800,5600,09 Sep 2014,2014,Sep,9,2014-09-09
+32,32.0,32.0,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,6400,6800,6600,08 Sep 2014,2014,Sep,8,2014-09-08
+33,33.0,33.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4100,07 Sep 2014,2014,Sep,7,2014-09-07
+34,34.0,34.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,01 Sep 2014,2014,Sep,1,2014-09-01
+35,35.0,35.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,05 Sep 2014,2014,Sep,5,2014-09-05
+36,36.0,36.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,08 Sep 2014,2014,Sep,8,2014-09-08
+37,37.0,37.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,12 Sep 2014,2014,Sep,12,2014-09-12
+38,38.0,38.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,15 Sep 2014,2014,Sep,15,2014-09-15
+39,39.0,39.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,16 Sep 2014,2014,Sep,16,2014-09-16
+40,40.0,40.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4230,06 Sep 2014,2014,Sep,6,2014-09-06
+41,41.0,41.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,26 Sep 2014,2014,Sep,26,2014-09-26
+42,42.0,42.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,27 Sep 2014,2014,Sep,27,2014-09-27
+43,43.0,43.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,29 Sep 2014,2014,Sep,29,2014-09-29
+44,44.0,44.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4700,28 Sep 2014,2014,Sep,28,2014-09-28
+45,45.0,45.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4800,24 Sep 2014,2014,Sep,24,2014-09-24
+46,46.0,46.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,21 Sep 2014,2014,Sep,21,2014-09-21
+47,47.0,47.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,23 Sep 2014,2014,Sep,23,2014-09-23
+48,48.0,48.0,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5200,4800,20 Sep 2014,2014,Sep,20,2014-09-20
+49,49.0,49.0,Hazaribagh,Hazaribagh,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,5000,12 Sep 2014,2014,Sep,12,2014-09-12
+50,50.0,50.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,4950,4920,02 Sep 2014,2014,Sep,2,2014-09-02
+51,51.0,51.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4910,4950,4920,24 Sep 2014,2014,Sep,24,2014-09-24
+52,52.0,52.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4950,4980,4960,27 Sep 2014,2014,Sep,27,2014-09-27
+53,53.0,53.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5450,5410,19 Sep 2014,2014,Sep,19,2014-09-19
+54,54.0,54.0,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,6900,6950,6920,22 Sep 2014,2014,Sep,22,2014-09-22
+55,55.0,55.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,15 Sep 2014,2014,Sep,15,2014-09-15
+56,56.0,56.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,18 Sep 2014,2014,Sep,18,2014-09-18
+57,57.0,57.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,01 Sep 2014,2014,Sep,1,2014-09-01
+58,58.0,58.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4700,03 Sep 2014,2014,Sep,3,2014-09-03
+59,59.0,59.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,16 Sep 2014,2014,Sep,16,2014-09-16
+60,60.0,60.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,12 Sep 2014,2014,Sep,12,2014-09-12
+61,61.0,61.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,11 Sep 2014,2014,Sep,11,2014-09-11
+62,62.0,62.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,19 Sep 2014,2014,Sep,19,2014-09-19
+63,63.0,63.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,23 Sep 2014,2014,Sep,23,2014-09-23
+64,64.0,64.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,5300,5200,24 Sep 2014,2014,Sep,24,2014-09-24
+65,65.0,65.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5100,5400,5300,22 Sep 2014,2014,Sep,22,2014-09-22
+66,66.0,66.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5300,5600,5500,07 Sep 2014,2014,Sep,7,2014-09-07
+67,67.0,67.0,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5600,5800,5700,06 Sep 2014,2014,Sep,6,2014-09-06
+68,68.0,68.0,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,01 Sep 2014,2014,Sep,1,2014-09-01
+69,69.0,69.0,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5400,5300,03 Sep 2014,2014,Sep,3,2014-09-03
+70,70.0,70.0,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5500,5400,04 Sep 2014,2014,Sep,4,2014-09-04
+71,71.0,71.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,03 Sep 2014,2014,Sep,3,2014-09-03
+72,72.0,72.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,04 Sep 2014,2014,Sep,4,2014-09-04
+73,73.0,73.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,06 Sep 2014,2014,Sep,6,2014-09-06
+74,74.0,74.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,08 Sep 2014,2014,Sep,8,2014-09-08
+75,75.0,75.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,09 Sep 2014,2014,Sep,9,2014-09-09
+76,76.0,76.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,10 Sep 2014,2014,Sep,10,2014-09-10
+77,77.0,77.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,11 Sep 2014,2014,Sep,11,2014-09-11
+78,78.0,78.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,12 Sep 2014,2014,Sep,12,2014-09-12
+79,79.0,79.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,13 Sep 2014,2014,Sep,13,2014-09-13
+80,80.0,80.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,15 Sep 2014,2014,Sep,15,2014-09-15
+81,81.0,81.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,16 Sep 2014,2014,Sep,16,2014-09-16
+82,82.0,82.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,17 Sep 2014,2014,Sep,17,2014-09-17
+83,83.0,83.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,18 Sep 2014,2014,Sep,18,2014-09-18
+84,84.0,84.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,19 Sep 2014,2014,Sep,19,2014-09-19
+85,85.0,85.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,20 Sep 2014,2014,Sep,20,2014-09-20
+86,86.0,86.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,22 Sep 2014,2014,Sep,22,2014-09-22
+87,87.0,87.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,23 Sep 2014,2014,Sep,23,2014-09-23
+88,88.0,88.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,24 Sep 2014,2014,Sep,24,2014-09-24
+89,89.0,89.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,26 Sep 2014,2014,Sep,26,2014-09-26
+90,90.0,90.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,29 Sep 2014,2014,Sep,29,2014-09-29
+91,91.0,91.0,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,30 Sep 2014,2014,Sep,30,2014-09-30
+92,92.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,27 Sep 2014,2014,Sep,27,2014-09-27
+93,93.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,29 Sep 2014,2014,Sep,29,2014-09-29
+94,94.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,30 Sep 2014,2014,Sep,30,2014-09-30
+95,95.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,24 Sep 2014,2014,Sep,24,2014-09-24
+96,96.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,26 Sep 2014,2014,Sep,26,2014-09-26
+97,97.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4550,4800,4650,23 Sep 2014,2014,Sep,23,2014-09-23
+98,98.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,4850,4600,22 Sep 2014,2014,Sep,22,2014-09-22
+99,99.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,10 Sep 2014,2014,Sep,10,2014-09-10
+100,100.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,11 Sep 2014,2014,Sep,11,2014-09-11
+101,101.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,12 Sep 2014,2014,Sep,12,2014-09-12
+102,102.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,13 Sep 2014,2014,Sep,13,2014-09-13
+103,103.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,15 Sep 2014,2014,Sep,15,2014-09-15
+104,104.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,16 Sep 2014,2014,Sep,16,2014-09-16
+105,105.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,17 Sep 2014,2014,Sep,17,2014-09-17
+106,106.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,18 Sep 2014,2014,Sep,18,2014-09-18
+107,107.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,19 Sep 2014,2014,Sep,19,2014-09-19
+108,108.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,01 Sep 2014,2014,Sep,1,2014-09-01
+109,109.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,02 Sep 2014,2014,Sep,2,2014-09-02
+110,110.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,03 Sep 2014,2014,Sep,3,2014-09-03
+111,111.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,04 Sep 2014,2014,Sep,4,2014-09-04
+112,112.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,06 Sep 2014,2014,Sep,6,2014-09-06
+113,113.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,08 Sep 2014,2014,Sep,8,2014-09-08
+114,114.0,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4650,4950,4700,20 Sep 2014,2014,Sep,20,2014-09-20
+115,115.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,3400,3600,3500,06 Sep 2014,2014,Sep,6,2014-09-06
+116,116.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4300,4600,4500,23 Sep 2014,2014,Sep,23,2014-09-23
+117,117.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,04 Sep 2014,2014,Sep,4,2014-09-04
+118,118.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4800,4600,01 Sep 2014,2014,Sep,1,2014-09-01
+119,119.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,21 Sep 2014,2014,Sep,21,2014-09-21
+120,120.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,16 Sep 2014,2014,Sep,16,2014-09-16
+121,121.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5000,4900,01 Oct 2014,2014,Oct,1,2014-10-01
+122,122.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,11 Sep 2014,2014,Sep,11,2014-09-11
+123,123.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5800,5600,09 Sep 2014,2014,Sep,9,2014-09-09
+124,124.0,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,6400,6800,6600,08 Sep 2014,2014,Sep,8,2014-09-08
+125,125.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4100,07 Sep 2014,2014,Sep,7,2014-09-07
+126,126.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,01 Sep 2014,2014,Sep,1,2014-09-01
+127,127.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,05 Sep 2014,2014,Sep,5,2014-09-05
+128,128.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,08 Sep 2014,2014,Sep,8,2014-09-08
+129,129.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,12 Sep 2014,2014,Sep,12,2014-09-12
+130,130.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,15 Sep 2014,2014,Sep,15,2014-09-15
+131,131.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,16 Sep 2014,2014,Sep,16,2014-09-16
+132,132.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4230,06 Sep 2014,2014,Sep,6,2014-09-06
+133,133.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,26 Sep 2014,2014,Sep,26,2014-09-26
+134,134.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,27 Sep 2014,2014,Sep,27,2014-09-27
+135,135.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,29 Sep 2014,2014,Sep,29,2014-09-29
+136,136.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4700,28 Sep 2014,2014,Sep,28,2014-09-28
+137,137.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4800,24 Sep 2014,2014,Sep,24,2014-09-24
+138,138.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,21 Sep 2014,2014,Sep,21,2014-09-21
+139,139.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,23 Sep 2014,2014,Sep,23,2014-09-23
+140,140.0,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5200,4800,20 Sep 2014,2014,Sep,20,2014-09-20
+141,141.0,,Hazaribagh,Hazaribagh,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,5000,12 Sep 2014,2014,Sep,12,2014-09-12
+142,142.0,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,4950,4920,02 Sep 2014,2014,Sep,2,2014-09-02
+143,143.0,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4910,4950,4920,24 Sep 2014,2014,Sep,24,2014-09-24
+144,144.0,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4950,4980,4960,27 Sep 2014,2014,Sep,27,2014-09-27
+145,145.0,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5450,5410,19 Sep 2014,2014,Sep,19,2014-09-19
+146,146.0,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,6900,6950,6920,22 Sep 2014,2014,Sep,22,2014-09-22
+147,147.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,15 Sep 2014,2014,Sep,15,2014-09-15
+148,148.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,18 Sep 2014,2014,Sep,18,2014-09-18
+149,149.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,01 Sep 2014,2014,Sep,1,2014-09-01
+150,150.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4700,03 Sep 2014,2014,Sep,3,2014-09-03
+151,151.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,16 Sep 2014,2014,Sep,16,2014-09-16
+152,152.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,12 Sep 2014,2014,Sep,12,2014-09-12
+153,153.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,11 Sep 2014,2014,Sep,11,2014-09-11
+154,154.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,19 Sep 2014,2014,Sep,19,2014-09-19
+155,155.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,23 Sep 2014,2014,Sep,23,2014-09-23
+156,156.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,5300,5200,24 Sep 2014,2014,Sep,24,2014-09-24
+157,157.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5100,5400,5300,22 Sep 2014,2014,Sep,22,2014-09-22
+158,158.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5300,5600,5500,07 Sep 2014,2014,Sep,7,2014-09-07
+159,159.0,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5600,5800,5700,06 Sep 2014,2014,Sep,6,2014-09-06
+160,160.0,,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,01 Sep 2014,2014,Sep,1,2014-09-01
+161,161.0,,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5400,5300,03 Sep 2014,2014,Sep,3,2014-09-03
+162,162.0,,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5500,5400,04 Sep 2014,2014,Sep,4,2014-09-04
+163,163.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,03 Sep 2014,2014,Sep,3,2014-09-03
+164,164.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,04 Sep 2014,2014,Sep,4,2014-09-04
+165,165.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,06 Sep 2014,2014,Sep,6,2014-09-06
+166,166.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,08 Sep 2014,2014,Sep,8,2014-09-08
+167,167.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,09 Sep 2014,2014,Sep,9,2014-09-09
+168,168.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,10 Sep 2014,2014,Sep,10,2014-09-10
+169,169.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,11 Sep 2014,2014,Sep,11,2014-09-11
+170,170.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,12 Sep 2014,2014,Sep,12,2014-09-12
+171,171.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,13 Sep 2014,2014,Sep,13,2014-09-13
+172,172.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,15 Sep 2014,2014,Sep,15,2014-09-15
+173,173.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,16 Sep 2014,2014,Sep,16,2014-09-16
+174,174.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,17 Sep 2014,2014,Sep,17,2014-09-17
+175,175.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,18 Sep 2014,2014,Sep,18,2014-09-18
+176,176.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,19 Sep 2014,2014,Sep,19,2014-09-19
+177,177.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,20 Sep 2014,2014,Sep,20,2014-09-20
+178,178.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,22 Sep 2014,2014,Sep,22,2014-09-22
+179,179.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,23 Sep 2014,2014,Sep,23,2014-09-23
+180,180.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,24 Sep 2014,2014,Sep,24,2014-09-24
+181,181.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,26 Sep 2014,2014,Sep,26,2014-09-26
+182,182.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,29 Sep 2014,2014,Sep,29,2014-09-29
+183,183.0,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,30 Sep 2014,2014,Sep,30,2014-09-30
+184,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,27 Sep 2014,2014,Sep,27,2014-09-27
+185,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,29 Sep 2014,2014,Sep,29,2014-09-29
+186,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4200,4350,4250,30 Sep 2014,2014,Sep,30,2014-09-30
+187,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,24 Sep 2014,2014,Sep,24,2014-09-24
+188,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4500,4850,4550,26 Sep 2014,2014,Sep,26,2014-09-26
+189,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4550,4800,4650,23 Sep 2014,2014,Sep,23,2014-09-23
+190,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,4850,4600,22 Sep 2014,2014,Sep,22,2014-09-22
+191,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,10 Sep 2014,2014,Sep,10,2014-09-10
+192,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,11 Sep 2014,2014,Sep,11,2014-09-11
+193,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,12 Sep 2014,2014,Sep,12,2014-09-12
+194,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,13 Sep 2014,2014,Sep,13,2014-09-13
+195,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,15 Sep 2014,2014,Sep,15,2014-09-15
+196,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,16 Sep 2014,2014,Sep,16,2014-09-16
+197,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,17 Sep 2014,2014,Sep,17,2014-09-17
+198,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,18 Sep 2014,2014,Sep,18,2014-09-18
+199,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4700,19 Sep 2014,2014,Sep,19,2014-09-19
+200,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,01 Sep 2014,2014,Sep,1,2014-09-01
+201,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,02 Sep 2014,2014,Sep,2,2014-09-02
+202,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,03 Sep 2014,2014,Sep,3,2014-09-03
+203,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,04 Sep 2014,2014,Sep,4,2014-09-04
+204,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,06 Sep 2014,2014,Sep,6,2014-09-06
+205,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4600,5000,4750,08 Sep 2014,2014,Sep,8,2014-09-08
+206,,,West Singbhum,Chaibasa,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,4650,4950,4700,20 Sep 2014,2014,Sep,20,2014-09-20
+207,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,3400,3600,3500,06 Sep 2014,2014,Sep,6,2014-09-06
+208,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4300,4600,4500,23 Sep 2014,2014,Sep,23,2014-09-23
+209,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,04 Sep 2014,2014,Sep,4,2014-09-04
+210,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4800,4600,01 Sep 2014,2014,Sep,1,2014-09-01
+211,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,21 Sep 2014,2014,Sep,21,2014-09-21
+212,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,16 Sep 2014,2014,Sep,16,2014-09-16
+213,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5000,4900,01 Oct 2014,2014,Oct,1,2014-10-01
+214,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,11 Sep 2014,2014,Sep,11,2014-09-11
+215,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5800,5600,09 Sep 2014,2014,Sep,9,2014-09-09
+216,,,Deogarh,Deoghar,Bengal Gram Dal (Chana Dal),Other,FAQ,6400,6800,6600,08 Sep 2014,2014,Sep,8,2014-09-08
+217,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4100,07 Sep 2014,2014,Sep,7,2014-09-07
+218,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,01 Sep 2014,2014,Sep,1,2014-09-01
+219,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,05 Sep 2014,2014,Sep,5,2014-09-05
+220,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,08 Sep 2014,2014,Sep,8,2014-09-08
+221,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,12 Sep 2014,2014,Sep,12,2014-09-12
+222,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,15 Sep 2014,2014,Sep,15,2014-09-15
+223,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4200,16 Sep 2014,2014,Sep,16,2014-09-16
+224,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4000,4500,4230,06 Sep 2014,2014,Sep,6,2014-09-06
+225,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,26 Sep 2014,2014,Sep,26,2014-09-26
+226,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,27 Sep 2014,2014,Sep,27,2014-09-27
+227,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,29 Sep 2014,2014,Sep,29,2014-09-29
+228,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4700,28 Sep 2014,2014,Sep,28,2014-09-28
+229,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4800,24 Sep 2014,2014,Sep,24,2014-09-24
+230,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,21 Sep 2014,2014,Sep,21,2014-09-21
+231,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,4800,23 Sep 2014,2014,Sep,23,2014-09-23
+232,,,Dhanbad,Dhanbad,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5200,4800,20 Sep 2014,2014,Sep,20,2014-09-20
+233,,,Hazaribagh,Hazaribagh,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,5000,5000,12 Sep 2014,2014,Sep,12,2014-09-12
+234,,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,4950,4920,02 Sep 2014,2014,Sep,2,2014-09-02
+235,,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4910,4950,4920,24 Sep 2014,2014,Sep,24,2014-09-24
+236,,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,4950,4980,4960,27 Sep 2014,2014,Sep,27,2014-09-27
+237,,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,5400,5450,5410,19 Sep 2014,2014,Sep,19,2014-09-19
+238,,,East Singhbhum,Jamshedpur,Bengal Gram Dal (Chana Dal),Other,FAQ,6900,6950,6920,22 Sep 2014,2014,Sep,22,2014-09-22
+239,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,15 Sep 2014,2014,Sep,15,2014-09-15
+240,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4600,4500,18 Sep 2014,2014,Sep,18,2014-09-18
+241,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4600,01 Sep 2014,2014,Sep,1,2014-09-01
+242,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4400,4700,4700,03 Sep 2014,2014,Sep,3,2014-09-03
+243,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4500,4800,4600,16 Sep 2014,2014,Sep,16,2014-09-16
+244,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,4900,4800,12 Sep 2014,2014,Sep,12,2014-09-12
+245,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,11 Sep 2014,2014,Sep,11,2014-09-11
+246,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,19 Sep 2014,2014,Sep,19,2014-09-19
+247,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4800,5200,5000,23 Sep 2014,2014,Sep,23,2014-09-23
+248,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,4900,5300,5200,24 Sep 2014,2014,Sep,24,2014-09-24
+249,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5100,5400,5300,22 Sep 2014,2014,Sep,22,2014-09-22
+250,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5300,5600,5500,07 Sep 2014,2014,Sep,7,2014-09-07
+251,,,Koderma,Koderma,Bengal Gram Dal (Chana Dal),Other,FAQ,5600,5800,5700,06 Sep 2014,2014,Sep,6,2014-09-06
+252,,,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,4600,5000,4800,01 Sep 2014,2014,Sep,1,2014-09-01
+253,,,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5400,5300,03 Sep 2014,2014,Sep,3,2014-09-03
+254,,,Hazaribagh,Ramgarh,Bengal Gram Dal (Chana Dal),Other,FAQ,5200,5500,5400,04 Sep 2014,2014,Sep,4,2014-09-04
+255,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,03 Sep 2014,2014,Sep,3,2014-09-03
+256,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,04 Sep 2014,2014,Sep,4,2014-09-04
+257,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,06 Sep 2014,2014,Sep,6,2014-09-06
+258,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,08 Sep 2014,2014,Sep,8,2014-09-08
+259,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,09 Sep 2014,2014,Sep,9,2014-09-09
+260,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,10 Sep 2014,2014,Sep,10,2014-09-10
+261,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,11 Sep 2014,2014,Sep,11,2014-09-11
+262,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,12 Sep 2014,2014,Sep,12,2014-09-12
+263,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,13 Sep 2014,2014,Sep,13,2014-09-13
+264,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3250,3975,3800,15 Sep 2014,2014,Sep,15,2014-09-15
+265,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,16 Sep 2014,2014,Sep,16,2014-09-16
+266,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3800,17 Sep 2014,2014,Sep,17,2014-09-17
+267,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,18 Sep 2014,2014,Sep,18,2014-09-18
+268,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,19 Sep 2014,2014,Sep,19,2014-09-19
+269,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,20 Sep 2014,2014,Sep,20,2014-09-20
+270,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,22 Sep 2014,2014,Sep,22,2014-09-22
+271,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,23 Sep 2014,2014,Sep,23,2014-09-23
+272,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,24 Sep 2014,2014,Sep,24,2014-09-24
+273,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,26 Sep 2014,2014,Sep,26,2014-09-26
+274,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,29 Sep 2014,2014,Sep,29,2014-09-29
+275,,,Ranchi,Ranchi,Bengal Gram Dal (Chana Dal),Medium,FAQ,3400,4200,3850,30 Sep 2014,2014,Sep,30,2014-09-30

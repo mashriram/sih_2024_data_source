@@ -1,0 +1,85 @@
+0,1,2,3,4,5,6,7,8,9
+1,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Onion,Local,FAQ,2000,4000,3750,05 Dec 2024
+2,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Onion,Local,FAQ,2500,4000,3700,04 Dec 2024
+3,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Onion,Nasik,FAQ,2500,7000,6400,04 Dec 2024
+4,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Onion,Nasik,FAQ,2500,7000,6500,05 Dec 2024
+5,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,FAQ,2500,3500,2800,04 Dec 2024
+6,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,FAQ,2500,3500,3000,05 Dec 2024
+7,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,FAQ,2500,3500,3000,06 Dec 2024
+8,Bhavnagar,Bhavnagar,Onion,Red,FAQ,800,3755,2275,06 Dec 2024
+9,Bhavnagar,Bhavnagar,Onion,Red,FAQ,1000,3830,2415,07 Dec 2024
+10,Bhavnagar,Bhavnagar,Onion,Red,FAQ,1000,4015,2530,04 Dec 2024
+11,Bhavnagar,Bhavnagar,Onion,White,FAQ,1100,2500,1800,07 Dec 2024
+12,Kachchh,Bhuj,Onion,Small,FAQ,3000,5000,4000,04 Dec 2024
+13,Kachchh,Bhuj,Onion,Small,FAQ,3000,5000,4000,05 Dec 2024
+14,Kachchh,Bhuj,Onion,Small,FAQ,3000,5000,4000,06 Dec 2024
+15,Kachchh,Bhuj,Onion,Small,FAQ,3000,5000,4000,07 Dec 2024
+16,Navsari,Bilimora,Onion,Nasik,FAQ,3500,5500,4500,07 Dec 2024
+17,Navsari,Bilimora,Onion,Nasik,FAQ,4000,5500,4600,04 Dec 2024
+18,Navsari,Bilimora,Onion,Nasik,FAQ,4000,5500,4600,05 Dec 2024
+19,Navsari,Bilimora,Onion,Nasik,FAQ,4000,5500,4600,06 Dec 2024
+20,Dahod,Dahod(Veg. Market),Onion,Onion,FAQ,2000,4000,3000,05 Dec 2024
+21,Dahod,Dahod(Veg. Market),Onion,Onion,FAQ,2000,4000,3000,06 Dec 2024
+22,Dahod,Dahod(Veg. Market),Onion,Onion,FAQ,2000,4000,3200,07 Dec 2024
+23,Banaskanth,Deesa(Deesa Veg Yard),Onion,Other,FAQ,2500,6650,4575,04 Dec 2024
+24,Banaskanth,Deesa(Deesa Veg Yard),Onion,Other,FAQ,2500,6700,4600,05 Dec 2024
+25,Banaskanth,Deesa(Deesa Veg Yard),Onion,Other,FAQ,2500,6750,4625,06 Dec 2024
+26,Banaskanth,Deesa(Deesa Veg Yard),Onion,Other,FAQ,2600,6700,4650,07 Dec 2024
+27,Rajkot,Dhoraji,Onion,Nasik,FAQ,500,3305,2655,07 Dec 2024
+28,Rajkot,Dhoraji,Onion,Nasik,FAQ,650,3205,2830,06 Dec 2024
+29,Rajkot,Dhoraji,Onion,Nasik,FAQ,755,3230,2855,04 Dec 2024
+30,Rajkot,Dhoraji,Onion,Nasik,FAQ,800,3305,3005,05 Dec 2024
+31,Rajkot,Gondal,Onion,Red,FAQ,555,3955,2605,05 Dec 2024
+32,Rajkot,Gondal,Onion,Red,FAQ,955,3855,2705,04 Dec 2024
+33,Jamnagar,Jamnagar,Onion,Other,FAQ,500,4150,2650,05 Dec 2024
+34,Jamnagar,Jamnagar,Onion,Other,FAQ,525,4250,2525,04 Dec 2024
+35,Jamnagar,Jamnagar,Onion,Other,FAQ,750,3825,2425,07 Dec 2024
+36,Jamnagar,Jamnagar,Onion,Other,FAQ,750,4150,2725,06 Dec 2024
+37,Rajkot,Jetpur(Dist.Rajkot),Onion,Onion,FAQ,605,3305,2905,05 Dec 2024
+38,Rajkot,Jetpur(Dist.Rajkot),Onion,Onion,FAQ,705,3755,3055,04 Dec 2024
+39,Rajkot,Jetpur(Dist.Rajkot),Onion,Onion,FAQ,1250,3375,2505,06 Dec 2024
+40,Kheda,Kapadvanj,Onion,Other,FAQ,2100,3800,2950,05 Dec 2024
+41,Kheda,Kapadvanj,Onion,Other,FAQ,2100,3890,2950,04 Dec 2024
+42,Kheda,Kapadvanj,Onion,Other,FAQ,3250,4250,3750,06 Dec 2024
+43,Anand,Khambhat(Veg Yard Khambhat),Onion,Other,FAQ,2600,3300,2950,07 Dec 2024
+44,Anand,Khambhat(Veg Yard Khambhat),Onion,Other,FAQ,3500,4000,3750,04 Dec 2024
+45,Bhavnagar,Mahuva(Station Road),Onion,Red,FAQ,1500,3840,2670,06 Dec 2024
+46,Bhavnagar,Mahuva(Station Road),Onion,Red,FAQ,1500,4025,2765,07 Dec 2024
+47,Bhavnagar,Mahuva(Station Road),Onion,Red,FAQ,1500,4490,2995,05 Dec 2024
+48,Bhavnagar,Mahuva(Station Road),Onion,Red,FAQ,1500,4910,3205,04 Dec 2024
+49,Bhavnagar,Mahuva(Station Road),Onion,White,FAQ,1000,4200,2600,06 Dec 2024
+50,Bhavnagar,Mahuva(Station Road),Onion,White,FAQ,1000,4775,2890,07 Dec 2024
+51,Bhavnagar,Mahuva(Station Road),Onion,White,FAQ,1000,5010,3255,05 Dec 2024
+52,Bhavnagar,Mahuva(Station Road),Onion,White,FAQ,1000,5205,3000,04 Dec 2024
+53,Mehsana,Mehsana(Mehsana Veg),Onion,Onion,FAQ,1000,4900,4000,06 Dec 2024
+54,Mehsana,Mehsana(Mehsana Veg),Onion,Onion,FAQ,1100,4500,3500,04 Dec 2024
+55,Mehsana,Mehsana(Mehsana Veg),Onion,Onion,FAQ,1100,5000,4000,05 Dec 2024
+56,Mehsana,Mehsana(Mehsana Veg),Onion,Onion,FAQ,1500,4500,3500,07 Dec 2024
+57,Morbi,Morbi,Onion,Onion,FAQ,1000,3300,2150,04 Dec 2024
+58,Morbi,Morbi,Onion,Onion,FAQ,1000,3300,2150,05 Dec 2024
+59,Morbi,Morbi,Onion,Onion,FAQ,1000,3300,2150,06 Dec 2024
+60,Morbi,Morbi,Onion,Onion,FAQ,1000,3300,2150,07 Dec 2024
+61,Kheda,Nadiyad(Piplag),Onion,Onion,FAQ,2200,3200,2800,05 Dec 2024
+62,Kheda,Nadiyad(Piplag),Onion,Onion,FAQ,2400,3000,2800,07 Dec 2024
+63,Kheda,Nadiyad(Piplag),Onion,Onion,FAQ,2400,3200,2800,04 Dec 2024
+64,Porbandar,Porbandar,Onion,Other,FAQ,2000,3000,2500,04 Dec 2024
+65,Porbandar,Porbandar,Onion,Other,FAQ,2000,3000,2500,06 Dec 2024
+66,Porbandar,Porbandar,Onion,Other,FAQ,2000,3000,2500,07 Dec 2024
+67,Porbandar,Porbandar,Onion,Other,FAQ,2000,3500,3000,05 Dec 2024
+68,Rajkot,Rajkot(Veg.Sub Yard),Onion,Onion,FAQ,500,3000,2000,06 Dec 2024
+69,Rajkot,Rajkot(Veg.Sub Yard),Onion,Onion,FAQ,525,3075,2100,07 Dec 2024
+70,Rajkot,Rajkot(Veg.Sub Yard),Onion,Onion,FAQ,550,3050,2150,05 Dec 2024
+71,Rajkot,Rajkot(Veg.Sub Yard),Onion,Onion,FAQ,650,3250,2250,04 Dec 2024
+72,Surat,Surat,Onion,Other,FAQ,2000,6000,4000,06 Dec 2024
+73,Surat,Surat,Onion,Other,FAQ,2000,6500,4250,04 Dec 2024
+74,Surat,Surat,Onion,Other,FAQ,2000,6500,4250,07 Dec 2024
+75,Surat,Surat,Onion,Other,FAQ,2000,7000,4500,05 Dec 2024
+76,Surendranagar,Vadhvan,Onion,Onion,FAQ,2500,3000,2750,05 Dec 2024
+77,Surendranagar,Vadhvan,Onion,Onion,FAQ,2500,3000,2750,06 Dec 2024
+78,Vadodara(Baroda),Vadodara(Sayajipura),Onion,Other,FAQ,2500,6000,4300,04 Dec 2024
+79,Vadodara(Baroda),Vadodara(Sayajipura),Onion,Other,FAQ,2500,6000,4300,05 Dec 2024
+80,Vadodara(Baroda),Vadodara(Sayajipura),Onion,Other,FAQ,2500,6000,4300,06 Dec 2024
+81,Junagarh,Visavadar,Onion,Onion,FAQ,705,2155,1430,07 Dec 2024
+82,Junagarh,Visavadar,Onion,Onion,FAQ,725,2605,1665,06 Dec 2024
+83,Junagarh,Visavadar,Onion,Onion,FAQ,810,2930,1870,05 Dec 2024
+84,Junagarh,Visavadar,Onion,Onion,FAQ,815,2755,1785,04 Dec 2024

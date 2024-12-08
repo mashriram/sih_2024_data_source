@@ -1,188 +1,190 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Kishanganj,Bahadurganj,Masur Dal,Kala Masoor New,FAQ,7500,7800,7700,07 Aug 2022,2022,Aug,7,2022-08-07
-1,1.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,9000,9800,9500,06 Aug 2022,2022,Aug,6,2022-08-06
-2,2.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7000,6800,04 Nov 2022,2022,Nov,4,2022-11-04
-3,3.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7000,6800,12 Nov 2022,2022,Nov,12,2022-11-12
-4,4.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7000,6800,15 Nov 2022,2022,Nov,15,2022-11-15
-5,5.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7100,6800,20 Nov 2022,2022,Nov,20,2022-11-20
-6,6.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7500,7000,14 Oct 2022,2022,Oct,14,2022-10-14
-7,7.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7500,7000,18 Oct 2022,2022,Oct,18,2022-10-18
-8,8.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7000,6900,13 Nov 2022,2022,Nov,13,2022-11-13
-9,9.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7100,7000,30 Oct 2022,2022,Oct,30,2022-10-30
-10,10.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,02 Dec 2022,2022,Dec,2,2022-12-02
-11,11.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,03 Nov 2022,2022,Nov,3,2022-11-03
-12,12.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,06 Dec 2022,2022,Dec,6,2022-12-06
-13,13.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7400,7000,01 Nov 2022,2022,Nov,1,2022-11-01
-14,14.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7500,7000,30 Dec 2022,2022,Dec,30,2022-12-30
-15,15.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6850,6950,6900,02 Apr 2023,2023,Apr,2,2023-04-02
-16,16.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6850,7000,6950,23 Jan 2023,2023,Jan,23,2023-01-23
-17,17.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6950,7050,7000,17 Jan 2023,2023,Jan,17,2023-01-17
-18,18.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6950,7050,7000,18 Apr 2023,2023,Apr,18,2023-04-18
-19,19.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,01 Feb 2023,2023,Feb,1,2023-02-01
-20,20.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,05 Jan 2023,2023,Jan,5,2023-01-05
-21,21.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,09 Apr 2023,2023,Apr,9,2023-04-09
-22,22.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,10 Feb 2023,2023,Feb,10,2023-02-10
-23,23.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,24 Mar 2023,2023,Mar,24,2023-03-24
-24,24.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7200,7050,12 Jan 2023,2023,Jan,12,2023-01-12
-25,25.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7200,7050,20 Jan 2023,2023,Jan,20,2023-01-20
-26,26.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7500,7200,15 Oct 2022,2022,Oct,15,2022-10-15
-27,27.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7500,7200,20 Oct 2022,2022,Oct,20,2022-10-20
-28,28.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7500,7200,26 Oct 2022,2022,Oct,26,2022-10-26
-29,29.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7500,7250,27 Dec 2022,2022,Dec,27,2022-12-27
-30,30.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7800,7400,17 Oct 2022,2022,Oct,17,2022-10-17
-31,31.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,8000,7500,16 Oct 2022,2022,Oct,16,2022-10-16
-32,32.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,8000,7500,19 Oct 2022,2022,Oct,19,2022-10-19
-33,33.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7050,7150,7100,03 May 2023,2023,May,3,2023-05-03
-34,34.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7250,7350,7300,05 Apr 2023,2023,Apr,5,2023-04-05
-35,35.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7250,7350,7300,07 Feb 2023,2023,Feb,7,2023-02-07
-36,36.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7250,7350,7300,13 Apr 2023,2023,Apr,13,2023-04-13
-37,37.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7350,7450,7400,16 May 2023,2023,May,16,2023-05-16
-38,38.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7450,7550,7500,24 Apr 2023,2023,Apr,24,2023-04-24
-39,39.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7500,7600,7550,02 Mar 2023,2023,Mar,2,2023-03-02
-40,40.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7500,7600,7550,17 Mar 2023,2023,Mar,17,2023-03-17
-41,41.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7500,7609,7550,21 May 2023,2023,May,21,2023-05-21
-42,42.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7550,7650,7600,07 May 2023,2023,May,7,2023-05-07
-43,43.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7550,7650,7600,29 Apr 2023,2023,Apr,29,2023-04-29
-44,44.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6600,6800,6700,08 Nov 2022,2022,Nov,8,2022-11-08
-45,45.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,05 Nov 2022,2022,Nov,5,2022-11-05
-46,46.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,06 Nov 2022,2022,Nov,6,2022-11-06
-47,47.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,07 Nov 2022,2022,Nov,7,2022-11-07
-48,48.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,10 Nov 2022,2022,Nov,10,2022-11-10
-49,49.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,13 Nov 2022,2022,Nov,13,2022-11-13
-50,50.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,18 Oct 2022,2022,Oct,18,2022-10-18
-51,51.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6800,15 Oct 2022,2022,Oct,15,2022-10-15
-52,52.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,09 Nov 2022,2022,Nov,9,2022-11-09
-53,53.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,11 Nov 2022,2022,Nov,11,2022-11-11
-54,54.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,13 Oct 2022,2022,Oct,13,2022-10-13
-55,55.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,14 Nov 2022,2022,Nov,14,2022-11-14
-56,56.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,15 Nov 2022,2022,Nov,15,2022-11-15
-57,57.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,16 Nov 2022,2022,Nov,16,2022-11-16
-58,58.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,17 Oct 2022,2022,Oct,17,2022-10-17
-59,59.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,18 Nov 2022,2022,Nov,18,2022-11-18
-60,60.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,19 Nov 2022,2022,Nov,19,2022-11-19
-61,61.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,19 Oct 2022,2022,Oct,19,2022-10-19
-62,62.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,20 Oct 2022,2022,Oct,20,2022-10-20
-63,63.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,21 Nov 2022,2022,Nov,21,2022-11-21
-64,64.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,22 Nov 2022,2022,Nov,22,2022-11-22
-65,65.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,22 Oct 2022,2022,Oct,22,2022-10-22
-66,66.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,24 Oct 2022,2022,Oct,24,2022-10-24
-67,67.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,26 Oct 2022,2022,Oct,26,2022-10-26
-68,68.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,27 Oct 2022,2022,Oct,27,2022-10-27
-69,69.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,29 Oct 2022,2022,Oct,29,2022-10-29
-70,70.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7000,6900,05 Dec 2022,2022,Dec,5,2022-12-05
-71,71.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7000,6900,10 Dec 2022,2022,Dec,10,2022-12-10
-72,72.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7000,6900,23 Oct 2022,2022,Oct,23,2022-10-23
-73,73.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,11 Oct 2022,2022,Oct,11,2022-10-11
-74,74.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,12 Oct 2022,2022,Oct,12,2022-10-12
-75,75.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,16 Oct 2022,2022,Oct,16,2022-10-16
-76,76.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6900,7100,7000,13 Dec 2022,2022,Dec,13,2022-12-13
-77,77.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6900,7100,7000,25 Nov 2022,2022,Nov,25,2022-11-25
-78,78.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,20 Dec 2022,2022,Dec,20,2022-12-20
-79,79.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,14 Dec 2022,2022,Dec,14,2022-12-14
-80,80.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,19 Dec 2022,2022,Dec,19,2022-12-19
-81,81.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,21 Dec 2022,2022,Dec,21,2022-12-21
-82,82.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,22 Dec 2022,2022,Dec,22,2022-12-22
-83,83.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,26 Dec 2022,2022,Dec,26,2022-12-26
-84,84.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,27 Nov 2022,2022,Nov,27,2022-11-27
-85,85.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,28 Nov 2022,2022,Nov,28,2022-11-28
-86,86.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,30 Nov 2022,2022,Nov,30,2022-11-30
-87,87.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,02 Feb 2023,2023,Feb,2,2023-02-02
-88,88.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,02 Jan 2023,2023,Jan,2,2023-01-02
-89,89.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,03 Jan 2023,2023,Jan,3,2023-01-03
-90,90.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,04 Jan 2023,2023,Jan,4,2023-01-04
-91,91.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,09 Feb 2023,2023,Feb,9,2023-02-09
-92,92.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,10 Feb 2023,2023,Feb,10,2023-02-10
-93,93.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,11 Jan 2023,2023,Jan,11,2023-01-11
-94,94.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,24 Dec 2022,2022,Dec,24,2022-12-24
-95,95.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,25 Dec 2022,2022,Dec,25,2022-12-25
-96,96.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,01 Feb 2023,2023,Feb,1,2023-02-01
-97,97.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,01 Mar 2023,2023,Mar,1,2023-03-01
-98,98.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,02 Mar 2023,2023,Mar,2,2023-03-02
-99,99.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,03 Feb 2023,2023,Feb,3,2023-02-03
-100,100.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,04 Feb 2023,2023,Feb,4,2023-02-04
-101,101.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,06 Feb 2023,2023,Feb,6,2023-02-06
-102,102.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,06 Jan 2023,2023,Jan,6,2023-01-06
-103,103.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,07 Feb 2023,2023,Feb,7,2023-02-07
-104,104.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,08 Feb 2023,2023,Feb,8,2023-02-08
-105,105.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,09 Jan 2023,2023,Jan,9,2023-01-09
-106,106.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,12 Jan 2023,2023,Jan,12,2023-01-12
-107,107.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,13 Feb 2023,2023,Feb,13,2023-02-13
-108,108.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,13 Jan 2023,2023,Jan,13,2023-01-13
-109,109.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,13 Mar 2023,2023,Mar,13,2023-03-13
-110,110.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,15 Feb 2023,2023,Feb,15,2023-02-15
-111,111.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,15 Mar 2023,2023,Mar,15,2023-03-15
-112,112.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,16 Feb 2023,2023,Feb,16,2023-02-16
-113,113.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,17 Feb 2023,2023,Feb,17,2023-02-17
-114,114.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,18 Feb 2023,2023,Feb,18,2023-02-18
-115,115.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,18 Mar 2023,2023,Mar,18,2023-03-18
-116,116.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,20 Feb 2023,2023,Feb,20,2023-02-20
-117,117.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,21 Feb 2023,2023,Feb,21,2023-02-21
-118,118.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,22 Feb 2023,2023,Feb,22,2023-02-22
-119,119.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,23 Jan 2023,2023,Jan,23,2023-01-23
-120,120.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,24 Feb 2023,2023,Feb,24,2023-02-24
-121,121.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,24 Jan 2023,2023,Jan,24,2023-01-24
-122,122.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,25 Jan 2023,2023,Jan,25,2023-01-25
-123,123.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,28 Jan 2023,2023,Jan,28,2023-01-28
-124,124.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,30 Dec 2022,2022,Dec,30,2022-12-30
-125,125.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,05 Jan 2023,2023,Jan,5,2023-01-05
-126,126.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,07 Jan 2023,2023,Jan,7,2023-01-07
-127,127.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,10 Mar 2023,2023,Mar,10,2023-03-10
-128,128.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,14 Mar 2023,2023,Mar,14,2023-03-14
-129,129.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,21 Jan 2023,2023,Jan,21,2023-01-21
-130,130.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,23 May 2023,2023,May,23,2023-05-23
-131,131.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,26 Jan 2023,2023,Jan,26,2023-01-26
-132,132.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,27 Feb 2023,2023,Feb,27,2023-02-27
-133,133.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,29 Mar 2023,2023,Mar,29,2023-03-29
-134,134.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,01 May 2023,2023,May,1,2023-05-01
-135,135.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,02 May 2023,2023,May,2,2023-05-02
-136,136.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,03 Apr 2023,2023,Apr,3,2023-04-03
-137,137.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,04 Apr 2023,2023,Apr,4,2023-04-04
-138,138.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,04 Mar 2023,2023,Mar,4,2023-03-04
-139,139.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,05 Apr 2023,2023,Apr,5,2023-04-05
-140,140.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,05 May 2023,2023,May,5,2023-05-05
-141,141.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,06 Apr 2023,2023,Apr,6,2023-04-06
-142,142.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,06 May 2023,2023,May,6,2023-05-06
-143,143.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,07 Apr 2023,2023,Apr,7,2023-04-07
-144,144.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,08 May 2023,2023,May,8,2023-05-08
-145,145.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,10 Apr 2023,2023,Apr,10,2023-04-10
-146,146.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,10 May 2023,2023,May,10,2023-05-10
-147,147.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,11 Apr 2023,2023,Apr,11,2023-04-11
-148,148.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,11 Mar 2023,2023,Mar,11,2023-03-11
-149,149.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,11 May 2023,2023,May,11,2023-05-11
-150,150.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,12 Apr 2023,2023,Apr,12,2023-04-12
-151,151.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,12 May 2023,2023,May,12,2023-05-12
-152,152.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,13 Apr 2023,2023,Apr,13,2023-04-13
-153,153.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,14 Apr 2023,2023,Apr,14,2023-04-14
-154,154.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,15 Apr 2023,2023,Apr,15,2023-04-15
-155,155.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,16 Mar 2023,2023,Mar,16,2023-03-16
-156,156.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,16 May 2023,2023,May,16,2023-05-16
-157,157.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,17 Apr 2023,2023,Apr,17,2023-04-17
-158,158.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,17 Mar 2023,2023,Mar,17,2023-03-17
-159,159.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,17 May 2023,2023,May,17,2023-05-17
-160,160.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,18 Apr 2023,2023,Apr,18,2023-04-18
-161,161.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,18 Jan 2023,2023,Jan,18,2023-01-18
-162,162.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,18 May 2023,2023,May,18,2023-05-18
-163,163.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,19 Apr 2023,2023,Apr,19,2023-04-19
-164,164.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,19 Jan 2023,2023,Jan,19,2023-01-19
-165,165.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,19 May 2023,2023,May,19,2023-05-19
-166,166.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,20 Jan 2023,2023,Jan,20,2023-01-20
-167,167.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,20 May 2023,2023,May,20,2023-05-20
-168,168.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,24 Apr 2023,2023,Apr,24,2023-04-24
-169,169.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,24 May 2023,2023,May,24,2023-05-24
-170,170.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,25 Feb 2023,2023,Feb,25,2023-02-25
-171,171.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,25 Mar 2023,2023,Mar,25,2023-03-25
-172,172.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,25 May 2023,2023,May,25,2023-05-25
-173,173.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,26 Apr 2023,2023,Apr,26,2023-04-26
-174,174.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,26 May 2023,2023,May,26,2023-05-26
-175,175.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,27 Apr 2023,2023,Apr,27,2023-04-27
-176,176.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,27 Mar 2023,2023,Mar,27,2023-03-27
-177,177.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,27 May 2023,2023,May,27,2023-05-27
-178,178.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,28 Apr 2023,2023,Apr,28,2023-04-28
-179,179.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,28 Mar 2023,2023,Mar,28,2023-03-28
-180,180.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,30 Mar 2023,2023,Mar,30,2023-03-30
-181,181.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,31 Mar 2023,2023,Mar,31,2023-03-31
-182,182.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7309,22 Apr 2023,2023,Apr,22,2023-04-22
-183,183.0,Buxar,Brahmpur,Masur Dal,Masoor Gola,FAQ,8000,10000,9000,28 Sep 2023,2023,Sep,28,2023-09-28
-184,184.0,Buxar,Brahmpur,Masur Dal,Masoor Gola,FAQ,8000,10000,9000,29 Sep 2023,2023,Sep,29,2023-09-29
-185,,Kishanganj,Bahadurganj,Masur Dal,Kala Masoor New,FAQ,7500,7800,7700,07 Aug 2022,2022,Aug,7,2022-08-07
-186,,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,9000,9800,9500,06 Aug 2022,2022,Aug,6,2022-08-06
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Kishanganj,Bahadurganj,Masur Dal,Kala Masoor New,FAQ,7500,7800,7700,07 Aug 2022,2022,Aug,7,2022-08-07
+1,1.0,1.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,9000,9800,9500,06 Aug 2022,2022,Aug,6,2022-08-06
+2,2.0,2.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7000,6800,04 Nov 2022,2022,Nov,4,2022-11-04
+3,3.0,3.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7000,6800,12 Nov 2022,2022,Nov,12,2022-11-12
+4,4.0,4.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7000,6800,15 Nov 2022,2022,Nov,15,2022-11-15
+5,5.0,5.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7100,6800,20 Nov 2022,2022,Nov,20,2022-11-20
+6,6.0,6.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7500,7000,14 Oct 2022,2022,Oct,14,2022-10-14
+7,7.0,7.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6500,7500,7000,18 Oct 2022,2022,Oct,18,2022-10-18
+8,8.0,8.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7000,6900,13 Nov 2022,2022,Nov,13,2022-11-13
+9,9.0,9.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7100,7000,30 Oct 2022,2022,Oct,30,2022-10-30
+10,10.0,10.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,02 Dec 2022,2022,Dec,2,2022-12-02
+11,11.0,11.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,03 Nov 2022,2022,Nov,3,2022-11-03
+12,12.0,12.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,06 Dec 2022,2022,Dec,6,2022-12-06
+13,13.0,13.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7400,7000,01 Nov 2022,2022,Nov,1,2022-11-01
+14,14.0,14.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6800,7500,7000,30 Dec 2022,2022,Dec,30,2022-12-30
+15,15.0,15.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6850,6950,6900,02 Apr 2023,2023,Apr,2,2023-04-02
+16,16.0,16.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6850,7000,6950,23 Jan 2023,2023,Jan,23,2023-01-23
+17,17.0,17.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6950,7050,7000,17 Jan 2023,2023,Jan,17,2023-01-17
+18,18.0,18.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,6950,7050,7000,18 Apr 2023,2023,Apr,18,2023-04-18
+19,19.0,19.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,01 Feb 2023,2023,Feb,1,2023-02-01
+20,20.0,20.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,05 Jan 2023,2023,Jan,5,2023-01-05
+21,21.0,21.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,09 Apr 2023,2023,Apr,9,2023-04-09
+22,22.0,22.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,10 Feb 2023,2023,Feb,10,2023-02-10
+23,23.0,23.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,24 Mar 2023,2023,Mar,24,2023-03-24
+24,24.0,24.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7200,7050,12 Jan 2023,2023,Jan,12,2023-01-12
+25,25.0,25.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7200,7050,20 Jan 2023,2023,Jan,20,2023-01-20
+26,26.0,26.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7500,7200,15 Oct 2022,2022,Oct,15,2022-10-15
+27,27.0,27.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7500,7200,20 Oct 2022,2022,Oct,20,2022-10-20
+28,28.0,28.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7500,7200,26 Oct 2022,2022,Oct,26,2022-10-26
+29,29.0,29.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7500,7250,27 Dec 2022,2022,Dec,27,2022-12-27
+30,30.0,30.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,7800,7400,17 Oct 2022,2022,Oct,17,2022-10-17
+31,31.0,31.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,8000,7500,16 Oct 2022,2022,Oct,16,2022-10-16
+32,32.0,32.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7000,8000,7500,19 Oct 2022,2022,Oct,19,2022-10-19
+33,33.0,33.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7050,7150,7100,03 May 2023,2023,May,3,2023-05-03
+34,34.0,34.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7250,7350,7300,05 Apr 2023,2023,Apr,5,2023-04-05
+35,35.0,35.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7250,7350,7300,07 Feb 2023,2023,Feb,7,2023-02-07
+36,36.0,36.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7250,7350,7300,13 Apr 2023,2023,Apr,13,2023-04-13
+37,37.0,37.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7350,7450,7400,16 May 2023,2023,May,16,2023-05-16
+38,38.0,38.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7450,7550,7500,24 Apr 2023,2023,Apr,24,2023-04-24
+39,39.0,39.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7500,7600,7550,02 Mar 2023,2023,Mar,2,2023-03-02
+40,40.0,40.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7500,7600,7550,17 Mar 2023,2023,Mar,17,2023-03-17
+41,41.0,41.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7500,7609,7550,21 May 2023,2023,May,21,2023-05-21
+42,42.0,42.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7550,7650,7600,07 May 2023,2023,May,7,2023-05-07
+43,43.0,43.0,Aurangabad,Aurangabad,Masur Dal,Kala Masoor New,FAQ,7550,7650,7600,29 Apr 2023,2023,Apr,29,2023-04-29
+44,44.0,44.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6600,6800,6700,08 Nov 2022,2022,Nov,8,2022-11-08
+45,45.0,45.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,05 Nov 2022,2022,Nov,5,2022-11-05
+46,46.0,46.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,06 Nov 2022,2022,Nov,6,2022-11-06
+47,47.0,47.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,07 Nov 2022,2022,Nov,7,2022-11-07
+48,48.0,48.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,10 Nov 2022,2022,Nov,10,2022-11-10
+49,49.0,49.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,13 Nov 2022,2022,Nov,13,2022-11-13
+50,50.0,50.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,6900,6800,18 Oct 2022,2022,Oct,18,2022-10-18
+51,51.0,51.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6800,15 Oct 2022,2022,Oct,15,2022-10-15
+52,52.0,52.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,09 Nov 2022,2022,Nov,9,2022-11-09
+53,53.0,53.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,11 Nov 2022,2022,Nov,11,2022-11-11
+54,54.0,54.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,13 Oct 2022,2022,Oct,13,2022-10-13
+55,55.0,55.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,14 Nov 2022,2022,Nov,14,2022-11-14
+56,56.0,56.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,15 Nov 2022,2022,Nov,15,2022-11-15
+57,57.0,57.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,16 Nov 2022,2022,Nov,16,2022-11-16
+58,58.0,58.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,17 Oct 2022,2022,Oct,17,2022-10-17
+59,59.0,59.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,18 Nov 2022,2022,Nov,18,2022-11-18
+60,60.0,60.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,19 Nov 2022,2022,Nov,19,2022-11-19
+61,61.0,61.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,19 Oct 2022,2022,Oct,19,2022-10-19
+62,62.0,62.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,20 Oct 2022,2022,Oct,20,2022-10-20
+63,63.0,63.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,21 Nov 2022,2022,Nov,21,2022-11-21
+64,64.0,64.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,22 Nov 2022,2022,Nov,22,2022-11-22
+65,65.0,65.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,22 Oct 2022,2022,Oct,22,2022-10-22
+66,66.0,66.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,24 Oct 2022,2022,Oct,24,2022-10-24
+67,67.0,67.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,26 Oct 2022,2022,Oct,26,2022-10-26
+68,68.0,68.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,27 Oct 2022,2022,Oct,27,2022-10-27
+69,69.0,69.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6700,7000,6850,29 Oct 2022,2022,Oct,29,2022-10-29
+70,70.0,70.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7000,6900,05 Dec 2022,2022,Dec,5,2022-12-05
+71,71.0,71.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7000,6900,10 Dec 2022,2022,Dec,10,2022-12-10
+72,72.0,72.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7000,6900,23 Oct 2022,2022,Oct,23,2022-10-23
+73,73.0,73.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,11 Oct 2022,2022,Oct,11,2022-10-11
+74,74.0,74.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,12 Oct 2022,2022,Oct,12,2022-10-12
+75,75.0,75.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6800,7200,7000,16 Oct 2022,2022,Oct,16,2022-10-16
+76,76.0,76.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6900,7100,7000,13 Dec 2022,2022,Dec,13,2022-12-13
+77,77.0,77.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,6900,7100,7000,25 Nov 2022,2022,Nov,25,2022-11-25
+78,78.0,78.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7100,7050,20 Dec 2022,2022,Dec,20,2022-12-20
+79,79.0,79.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,14 Dec 2022,2022,Dec,14,2022-12-14
+80,80.0,80.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,19 Dec 2022,2022,Dec,19,2022-12-19
+81,81.0,81.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,21 Dec 2022,2022,Dec,21,2022-12-21
+82,82.0,82.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,22 Dec 2022,2022,Dec,22,2022-12-22
+83,83.0,83.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,26 Dec 2022,2022,Dec,26,2022-12-26
+84,84.0,84.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,27 Nov 2022,2022,Nov,27,2022-11-27
+85,85.0,85.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,28 Nov 2022,2022,Nov,28,2022-11-28
+86,86.0,86.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7000,7200,7100,30 Nov 2022,2022,Nov,30,2022-11-30
+87,87.0,87.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,02 Feb 2023,2023,Feb,2,2023-02-02
+88,88.0,88.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,02 Jan 2023,2023,Jan,2,2023-01-02
+89,89.0,89.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,03 Jan 2023,2023,Jan,3,2023-01-03
+90,90.0,90.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,04 Jan 2023,2023,Jan,4,2023-01-04
+91,91.0,91.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,09 Feb 2023,2023,Feb,9,2023-02-09
+92,92.0,92.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,10 Feb 2023,2023,Feb,10,2023-02-10
+93,93.0,93.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,11 Jan 2023,2023,Jan,11,2023-01-11
+94,94.0,94.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,24 Dec 2022,2022,Dec,24,2022-12-24
+95,95.0,95.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7200,7150,25 Dec 2022,2022,Dec,25,2022-12-25
+96,96.0,96.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,01 Feb 2023,2023,Feb,1,2023-02-01
+97,97.0,97.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,01 Mar 2023,2023,Mar,1,2023-03-01
+98,98.0,98.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,02 Mar 2023,2023,Mar,2,2023-03-02
+99,99.0,99.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,03 Feb 2023,2023,Feb,3,2023-02-03
+100,100.0,100.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,04 Feb 2023,2023,Feb,4,2023-02-04
+101,101.0,101.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,06 Feb 2023,2023,Feb,6,2023-02-06
+102,102.0,102.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,06 Jan 2023,2023,Jan,6,2023-01-06
+103,103.0,103.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,07 Feb 2023,2023,Feb,7,2023-02-07
+104,104.0,104.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,08 Feb 2023,2023,Feb,8,2023-02-08
+105,105.0,105.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,09 Jan 2023,2023,Jan,9,2023-01-09
+106,106.0,106.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,12 Jan 2023,2023,Jan,12,2023-01-12
+107,107.0,107.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,13 Feb 2023,2023,Feb,13,2023-02-13
+108,108.0,108.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,13 Jan 2023,2023,Jan,13,2023-01-13
+109,109.0,109.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,13 Mar 2023,2023,Mar,13,2023-03-13
+110,110.0,110.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,15 Feb 2023,2023,Feb,15,2023-02-15
+111,111.0,111.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,15 Mar 2023,2023,Mar,15,2023-03-15
+112,112.0,112.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,16 Feb 2023,2023,Feb,16,2023-02-16
+113,113.0,113.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,17 Feb 2023,2023,Feb,17,2023-02-17
+114,114.0,114.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,18 Feb 2023,2023,Feb,18,2023-02-18
+115,115.0,115.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,18 Mar 2023,2023,Mar,18,2023-03-18
+116,116.0,116.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,20 Feb 2023,2023,Feb,20,2023-02-20
+117,117.0,117.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,21 Feb 2023,2023,Feb,21,2023-02-21
+118,118.0,118.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,22 Feb 2023,2023,Feb,22,2023-02-22
+119,119.0,119.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,23 Jan 2023,2023,Jan,23,2023-01-23
+120,120.0,120.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,24 Feb 2023,2023,Feb,24,2023-02-24
+121,121.0,121.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,24 Jan 2023,2023,Jan,24,2023-01-24
+122,122.0,122.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,25 Jan 2023,2023,Jan,25,2023-01-25
+123,123.0,123.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,28 Jan 2023,2023,Jan,28,2023-01-28
+124,124.0,124.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7100,7300,7200,30 Dec 2022,2022,Dec,30,2022-12-30
+125,125.0,125.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,05 Jan 2023,2023,Jan,5,2023-01-05
+126,126.0,126.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,07 Jan 2023,2023,Jan,7,2023-01-07
+127,127.0,127.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,10 Mar 2023,2023,Mar,10,2023-03-10
+128,128.0,128.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,14 Mar 2023,2023,Mar,14,2023-03-14
+129,129.0,129.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,21 Jan 2023,2023,Jan,21,2023-01-21
+130,130.0,130.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,23 May 2023,2023,May,23,2023-05-23
+131,131.0,131.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,26 Jan 2023,2023,Jan,26,2023-01-26
+132,132.0,132.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,27 Feb 2023,2023,Feb,27,2023-02-27
+133,133.0,133.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7300,7250,29 Mar 2023,2023,Mar,29,2023-03-29
+134,134.0,134.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,01 May 2023,2023,May,1,2023-05-01
+135,135.0,135.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,02 May 2023,2023,May,2,2023-05-02
+136,136.0,136.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,03 Apr 2023,2023,Apr,3,2023-04-03
+137,137.0,137.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,04 Apr 2023,2023,Apr,4,2023-04-04
+138,138.0,138.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,04 Mar 2023,2023,Mar,4,2023-03-04
+139,139.0,139.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,05 Apr 2023,2023,Apr,5,2023-04-05
+140,140.0,140.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,05 May 2023,2023,May,5,2023-05-05
+141,141.0,141.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,06 Apr 2023,2023,Apr,6,2023-04-06
+142,142.0,142.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,06 May 2023,2023,May,6,2023-05-06
+143,143.0,143.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,07 Apr 2023,2023,Apr,7,2023-04-07
+144,144.0,144.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,08 May 2023,2023,May,8,2023-05-08
+145,145.0,145.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,10 Apr 2023,2023,Apr,10,2023-04-10
+146,146.0,146.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,10 May 2023,2023,May,10,2023-05-10
+147,147.0,147.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,11 Apr 2023,2023,Apr,11,2023-04-11
+148,148.0,148.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,11 Mar 2023,2023,Mar,11,2023-03-11
+149,149.0,149.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,11 May 2023,2023,May,11,2023-05-11
+150,150.0,150.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,12 Apr 2023,2023,Apr,12,2023-04-12
+151,151.0,151.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,12 May 2023,2023,May,12,2023-05-12
+152,152.0,152.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,13 Apr 2023,2023,Apr,13,2023-04-13
+153,153.0,153.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,14 Apr 2023,2023,Apr,14,2023-04-14
+154,154.0,154.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,15 Apr 2023,2023,Apr,15,2023-04-15
+155,155.0,155.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,16 Mar 2023,2023,Mar,16,2023-03-16
+156,156.0,156.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,16 May 2023,2023,May,16,2023-05-16
+157,157.0,157.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,17 Apr 2023,2023,Apr,17,2023-04-17
+158,158.0,158.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,17 Mar 2023,2023,Mar,17,2023-03-17
+159,159.0,159.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,17 May 2023,2023,May,17,2023-05-17
+160,160.0,160.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,18 Apr 2023,2023,Apr,18,2023-04-18
+161,161.0,161.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,18 Jan 2023,2023,Jan,18,2023-01-18
+162,162.0,162.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,18 May 2023,2023,May,18,2023-05-18
+163,163.0,163.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,19 Apr 2023,2023,Apr,19,2023-04-19
+164,164.0,164.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,19 Jan 2023,2023,Jan,19,2023-01-19
+165,165.0,165.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,19 May 2023,2023,May,19,2023-05-19
+166,166.0,166.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,20 Jan 2023,2023,Jan,20,2023-01-20
+167,167.0,167.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,20 May 2023,2023,May,20,2023-05-20
+168,168.0,168.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,24 Apr 2023,2023,Apr,24,2023-04-24
+169,169.0,169.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,24 May 2023,2023,May,24,2023-05-24
+170,170.0,170.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,25 Feb 2023,2023,Feb,25,2023-02-25
+171,171.0,171.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,25 Mar 2023,2023,Mar,25,2023-03-25
+172,172.0,172.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,25 May 2023,2023,May,25,2023-05-25
+173,173.0,173.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,26 Apr 2023,2023,Apr,26,2023-04-26
+174,174.0,174.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,26 May 2023,2023,May,26,2023-05-26
+175,175.0,175.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,27 Apr 2023,2023,Apr,27,2023-04-27
+176,176.0,176.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,27 Mar 2023,2023,Mar,27,2023-03-27
+177,177.0,177.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,27 May 2023,2023,May,27,2023-05-27
+178,178.0,178.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,28 Apr 2023,2023,Apr,28,2023-04-28
+179,179.0,179.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,28 Mar 2023,2023,Mar,28,2023-03-28
+180,180.0,180.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,30 Mar 2023,2023,Mar,30,2023-03-30
+181,181.0,181.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7300,31 Mar 2023,2023,Mar,31,2023-03-31
+182,182.0,182.0,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,7200,7400,7309,22 Apr 2023,2023,Apr,22,2023-04-22
+183,183.0,183.0,Buxar,Brahmpur,Masur Dal,Masoor Gola,FAQ,8000,10000,9000,28 Sep 2023,2023,Sep,28,2023-09-28
+184,184.0,184.0,Buxar,Brahmpur,Masur Dal,Masoor Gola,FAQ,8000,10000,9000,29 Sep 2023,2023,Sep,29,2023-09-29
+185,185.0,,Kishanganj,Bahadurganj,Masur Dal,Kala Masoor New,FAQ,7500,7800,7700,07 Aug 2022,2022,Aug,7,2022-08-07
+186,186.0,,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,9000,9800,9500,06 Aug 2022,2022,Aug,6,2022-08-06
+187,,,Kishanganj,Bahadurganj,Masur Dal,Kala Masoor New,FAQ,7500,7800,7700,07 Aug 2022,2022,Aug,7,2022-08-07
+188,,,Patna,Patna City,Masur Dal,Kala Masoor New,FAQ,9000,9800,9500,06 Aug 2022,2022,Aug,6,2022-08-06

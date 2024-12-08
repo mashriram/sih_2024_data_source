@@ -1,273 +1,275 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Garhwa,Gadhwah,Masur Dal,Kala Masoor New,FAQ,4500,4595,4540,11 Jan 2019,2019,Jan,11,2019-01-11
-1,1.0,Garhwa,Gadhwah,Masur Dal,Kala Masoor New,FAQ,8600,8605,8602,27 Jun 2019,2019,Jun,27,2019-06-27
-2,2.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6150,21 Sep 2014,2014,Sep,21,2014-09-21
-3,3.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6250,27 Sep 2014,2014,Sep,27,2014-09-27
-4,4.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6300,20 Sep 2014,2014,Sep,20,2014-09-20
-5,5.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6200,6400,6400,01 Sep 2014,2014,Sep,1,2014-09-01
-6,6.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6200,6500,6500,15 Sep 2014,2014,Sep,15,2014-09-15
-7,7.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6250,6450,6450,06 Sep 2014,2014,Sep,6,2014-09-06
-8,8.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6250,6450,6450,10 Sep 2014,2014,Sep,10,2014-09-10
-9,9.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6300,6500,6500,17 Sep 2014,2014,Sep,17,2014-09-17
-10,10.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,01 Sep 2014,2014,Sep,1,2014-09-01
-11,11.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,02 Sep 2014,2014,Sep,2,2014-09-02
-12,12.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,03 Sep 2014,2014,Sep,3,2014-09-03
-13,13.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,04 Sep 2014,2014,Sep,4,2014-09-04
-14,14.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,06 Sep 2014,2014,Sep,6,2014-09-06
-15,15.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,08 Sep 2014,2014,Sep,8,2014-09-08
-16,16.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,10 Sep 2014,2014,Sep,10,2014-09-10
-17,17.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,11 Sep 2014,2014,Sep,11,2014-09-11
-18,18.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,5800,5650,22 Sep 2014,2014,Sep,22,2014-09-22
-19,19.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,12 Sep 2014,2014,Sep,12,2014-09-12
-20,20.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,13 Sep 2014,2014,Sep,13,2014-09-13
-21,21.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,15 Sep 2014,2014,Sep,15,2014-09-15
-22,22.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,16 Sep 2014,2014,Sep,16,2014-09-16
-23,23.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,17 Sep 2014,2014,Sep,17,2014-09-17
-24,24.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,18 Sep 2014,2014,Sep,18,2014-09-18
-25,25.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,19 Sep 2014,2014,Sep,19,2014-09-19
-26,26.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5800,5700,24 Sep 2014,2014,Sep,24,2014-09-24
-27,27.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5800,5700,26 Sep 2014,2014,Sep,26,2014-09-26
-28,28.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5950,5700,20 Sep 2014,2014,Sep,20,2014-09-20
-29,29.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5900,5750,23 Sep 2014,2014,Sep,23,2014-09-23
-30,30.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,27 Sep 2014,2014,Sep,27,2014-09-27
-31,31.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,29 Sep 2014,2014,Sep,29,2014-09-29
-32,32.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,30 Sep 2014,2014,Sep,30,2014-09-30
-33,33.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6300,6500,6400,23 Sep 2014,2014,Sep,23,2014-09-23
-34,34.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,16 Sep 2014,2014,Sep,16,2014-09-16
-35,35.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,20 Sep 2014,2014,Sep,20,2014-09-20
-36,36.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,21 Sep 2014,2014,Sep,21,2014-09-21
-37,37.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6700,6600,01 Sep 2014,2014,Sep,1,2014-09-01
-38,38.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6800,6600,04 Sep 2014,2014,Sep,4,2014-09-04
-39,39.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6600,6900,6700,01 Oct 2014,2014,Oct,1,2014-10-01
-40,40.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6600,6900,6800,07 Sep 2014,2014,Sep,7,2014-09-07
-41,41.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6700,6900,6800,06 Sep 2014,2014,Sep,6,2014-09-06
-42,42.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6700,6900,6800,09 Sep 2014,2014,Sep,9,2014-09-09
-43,43.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6410,01 Sep 2014,2014,Sep,1,2014-09-01
-44,44.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6410,05 Sep 2014,2014,Sep,5,2014-09-05
-45,45.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6450,09 Sep 2014,2014,Sep,9,2014-09-09
-46,46.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6450,10 Sep 2014,2014,Sep,10,2014-09-10
-47,47.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,03 Sep 2014,2014,Sep,3,2014-09-03
-48,48.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,06 Sep 2014,2014,Sep,6,2014-09-06
-49,49.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,08 Sep 2014,2014,Sep,8,2014-09-08
-50,50.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6900,02 Sep 2014,2014,Sep,2,2014-09-02
-51,51.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6900,12 Sep 2014,2014,Sep,12,2014-09-12
-52,52.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7200,6400,15 Sep 2014,2014,Sep,15,2014-09-15
-53,53.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6800,7400,7000,13 Sep 2014,2014,Sep,13,2014-09-13
-54,54.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6800,7400,7000,16 Sep 2014,2014,Sep,16,2014-09-16
-55,55.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,6900,24 Sep 2014,2014,Sep,24,2014-09-24
-56,56.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,19 Sep 2014,2014,Sep,19,2014-09-19
-57,57.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,20 Sep 2014,2014,Sep,20,2014-09-20
-58,58.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,26 Sep 2014,2014,Sep,26,2014-09-26
-59,59.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,27 Sep 2014,2014,Sep,27,2014-09-27
-60,60.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,28 Sep 2014,2014,Sep,28,2014-09-28
-61,61.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7200,23 Sep 2014,2014,Sep,23,2014-09-23
-62,62.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7200,29 Sep 2014,2014,Sep,29,2014-09-29
-63,63.0,Giridih,Giridih,Masur Dal,Masur Dal,FAQ,6200,6500,6500,08 Sep 2014,2014,Sep,8,2014-09-08
-64,64.0,Giridih,Giridih,Masur Dal,Masur Dal,FAQ,6300,6400,6400,19 Sep 2014,2014,Sep,19,2014-09-19
-65,65.0,Gumla,Gumla,Masur Dal,Other,FAQ,6400,6800,6600,02 Sep 2014,2014,Sep,2,2014-09-02
-66,66.0,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7000,6600,09 Sep 2014,2014,Sep,9,2014-09-09
-67,67.0,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7000,6800,16 Sep 2014,2014,Sep,16,2014-09-16
-68,68.0,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7600,6900,20 Sep 2014,2014,Sep,20,2014-09-20
-69,69.0,Gumla,Gumla,Masur Dal,Other,FAQ,6500,7600,6700,27 Sep 2014,2014,Sep,27,2014-09-27
-70,70.0,Gumla,Gumla,Masur Dal,Other,FAQ,6700,7700,7200,30 Sep 2014,2014,Sep,30,2014-09-30
-71,71.0,Gumla,Gumla,Masur Dal,Other,FAQ,6800,7500,7150,23 Sep 2014,2014,Sep,23,2014-09-23
-72,72.0,Gumla,Gumla,Masur Dal,Other,FAQ,6800,7600,7200,25 Sep 2014,2014,Sep,25,2014-09-25
-73,73.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,5800,6500,6200,03 Sep 2014,2014,Sep,3,2014-09-03
-74,74.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6200,13 Sep 2014,2014,Sep,13,2014-09-13
-75,75.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6500,02 Sep 2014,2014,Sep,2,2014-09-02
-76,76.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6500,05 Sep 2014,2014,Sep,5,2014-09-05
-77,77.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6600,6500,10 Sep 2014,2014,Sep,10,2014-09-10
-78,78.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6500,6600,6600,06 Sep 2014,2014,Sep,6,2014-09-06
-79,79.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4900,4920,4900,02 Sep 2014,2014,Sep,2,2014-09-02
-80,80.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4910,4970,4925,27 Sep 2014,2014,Sep,27,2014-09-27
-81,81.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4910,4980,4910,22 Sep 2014,2014,Sep,22,2014-09-22
-82,82.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,5000,5010,5000,19 Sep 2014,2014,Sep,19,2014-09-19
-83,83.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,6700,6740,6710,24 Sep 2014,2014,Sep,24,2014-09-24
-84,84.0,Koderma,Koderma,Masur Dal,Other,FAQ,6200,6400,6300,13 Sep 2014,2014,Sep,13,2014-09-13
-85,85.0,Koderma,Koderma,Masur Dal,Other,FAQ,6200,6600,6500,23 Sep 2014,2014,Sep,23,2014-09-23
-86,86.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6500,6400,22 Sep 2014,2014,Sep,22,2014-09-22
-87,87.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,11 Sep 2014,2014,Sep,11,2014-09-11
-88,88.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,19 Sep 2014,2014,Sep,19,2014-09-19
-89,89.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,26 Sep 2014,2014,Sep,26,2014-09-26
-90,90.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,27 Sep 2014,2014,Sep,27,2014-09-27
-91,91.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6600,6500,16 Sep 2014,2014,Sep,16,2014-09-16
-92,92.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6600,6500,18 Sep 2014,2014,Sep,18,2014-09-18
-93,93.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,01 Sep 2014,2014,Sep,1,2014-09-01
-94,94.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,03 Sep 2014,2014,Sep,3,2014-09-03
-95,95.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,04 Sep 2014,2014,Sep,4,2014-09-04
-96,96.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6800,6600,15 Sep 2014,2014,Sep,15,2014-09-15
-97,97.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,7000,6900,07 Sep 2014,2014,Sep,7,2014-09-07
-98,98.0,Koderma,Koderma,Masur Dal,Other,FAQ,6500,6900,6500,05 Sep 2014,2014,Sep,5,2014-09-05
-99,99.0,Koderma,Koderma,Masur Dal,Other,FAQ,6700,6900,6800,09 Sep 2014,2014,Sep,9,2014-09-09
-100,100.0,Hazaribagh,Ramgarh,Masur Dal,Other,FAQ,6500,6900,6700,03 Sep 2014,2014,Sep,3,2014-09-03
-101,101.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,0,5880,5600,11 Sep 2014,2014,Sep,11,2014-09-11
-102,102.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,03 Sep 2014,2014,Sep,3,2014-09-03
-103,103.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,04 Sep 2014,2014,Sep,4,2014-09-04
-104,104.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,06 Sep 2014,2014,Sep,6,2014-09-06
-105,105.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,08 Sep 2014,2014,Sep,8,2014-09-08
-106,106.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,09 Sep 2014,2014,Sep,9,2014-09-09
-107,107.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,10 Sep 2014,2014,Sep,10,2014-09-10
-108,108.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,12 Sep 2014,2014,Sep,12,2014-09-12
-109,109.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,13 Sep 2014,2014,Sep,13,2014-09-13
-110,110.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,15 Sep 2014,2014,Sep,15,2014-09-15
-111,111.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,17 Sep 2014,2014,Sep,17,2014-09-17
-112,112.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,18 Sep 2014,2014,Sep,18,2014-09-18
-113,113.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,19 Sep 2014,2014,Sep,19,2014-09-19
-114,114.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,20 Sep 2014,2014,Sep,20,2014-09-20
-115,115.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,22 Sep 2014,2014,Sep,22,2014-09-22
-116,116.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,23 Sep 2014,2014,Sep,23,2014-09-23
-117,117.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,24 Sep 2014,2014,Sep,24,2014-09-24
-118,118.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,26 Sep 2014,2014,Sep,26,2014-09-26
-119,119.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,29 Sep 2014,2014,Sep,29,2014-09-29
-120,120.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,30 Sep 2014,2014,Sep,30,2014-09-30
-121,121.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,03 Sep 2014,2014,Sep,3,2014-09-03
-122,122.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,04 Sep 2014,2014,Sep,4,2014-09-04
-123,123.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,06 Sep 2014,2014,Sep,6,2014-09-06
-124,124.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,07 Sep 2014,2014,Sep,7,2014-09-07
-125,125.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,10 Sep 2014,2014,Sep,10,2014-09-10
-126,126.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,11 Sep 2014,2014,Sep,11,2014-09-11
-127,127.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,20 Sep 2014,2014,Sep,20,2014-09-20
-128,128.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,21 Sep 2014,2014,Sep,21,2014-09-21
-129,129.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,24 Sep 2014,2014,Sep,24,2014-09-24
-130,130.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,25 Sep 2014,2014,Sep,25,2014-09-25
-131,131.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6200,27 Sep 2014,2014,Sep,27,2014-09-27
-132,132.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6200,28 Sep 2014,2014,Sep,28,2014-09-28
-133,133.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,13 Sep 2014,2014,Sep,13,2014-09-13
-134,134.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,14 Sep 2014,2014,Sep,14,2014-09-14
-135,135.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,17 Sep 2014,2014,Sep,17,2014-09-17
-136,136.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,18 Sep 2014,2014,Sep,18,2014-09-18
-137,,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6150,21 Sep 2014,2014,Sep,21,2014-09-21
-138,,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6250,27 Sep 2014,2014,Sep,27,2014-09-27
-139,,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6300,20 Sep 2014,2014,Sep,20,2014-09-20
-140,,Bokaro,Bermo,Masur Dal,Other,FAQ,6200,6400,6400,01 Sep 2014,2014,Sep,1,2014-09-01
-141,,Bokaro,Bermo,Masur Dal,Other,FAQ,6200,6500,6500,15 Sep 2014,2014,Sep,15,2014-09-15
-142,,Bokaro,Bermo,Masur Dal,Other,FAQ,6250,6450,6450,06 Sep 2014,2014,Sep,6,2014-09-06
-143,,Bokaro,Bermo,Masur Dal,Other,FAQ,6250,6450,6450,10 Sep 2014,2014,Sep,10,2014-09-10
-144,,Bokaro,Bermo,Masur Dal,Other,FAQ,6300,6500,6500,17 Sep 2014,2014,Sep,17,2014-09-17
-145,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,01 Sep 2014,2014,Sep,1,2014-09-01
-146,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,02 Sep 2014,2014,Sep,2,2014-09-02
-147,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,03 Sep 2014,2014,Sep,3,2014-09-03
-148,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,04 Sep 2014,2014,Sep,4,2014-09-04
-149,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,06 Sep 2014,2014,Sep,6,2014-09-06
-150,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,08 Sep 2014,2014,Sep,8,2014-09-08
-151,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,10 Sep 2014,2014,Sep,10,2014-09-10
-152,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,11 Sep 2014,2014,Sep,11,2014-09-11
-153,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,5800,5650,22 Sep 2014,2014,Sep,22,2014-09-22
-154,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,12 Sep 2014,2014,Sep,12,2014-09-12
-155,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,13 Sep 2014,2014,Sep,13,2014-09-13
-156,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,15 Sep 2014,2014,Sep,15,2014-09-15
-157,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,16 Sep 2014,2014,Sep,16,2014-09-16
-158,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,17 Sep 2014,2014,Sep,17,2014-09-17
-159,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,18 Sep 2014,2014,Sep,18,2014-09-18
-160,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,19 Sep 2014,2014,Sep,19,2014-09-19
-161,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5800,5700,24 Sep 2014,2014,Sep,24,2014-09-24
-162,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5800,5700,26 Sep 2014,2014,Sep,26,2014-09-26
-163,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5950,5700,20 Sep 2014,2014,Sep,20,2014-09-20
-164,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5900,5750,23 Sep 2014,2014,Sep,23,2014-09-23
-165,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,27 Sep 2014,2014,Sep,27,2014-09-27
-166,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,29 Sep 2014,2014,Sep,29,2014-09-29
-167,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,30 Sep 2014,2014,Sep,30,2014-09-30
-168,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6300,6500,6400,23 Sep 2014,2014,Sep,23,2014-09-23
-169,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,16 Sep 2014,2014,Sep,16,2014-09-16
-170,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,20 Sep 2014,2014,Sep,20,2014-09-20
-171,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,21 Sep 2014,2014,Sep,21,2014-09-21
-172,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6700,6600,01 Sep 2014,2014,Sep,1,2014-09-01
-173,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6800,6600,04 Sep 2014,2014,Sep,4,2014-09-04
-174,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6600,6900,6700,01 Oct 2014,2014,Oct,1,2014-10-01
-175,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6600,6900,6800,07 Sep 2014,2014,Sep,7,2014-09-07
-176,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6700,6900,6800,06 Sep 2014,2014,Sep,6,2014-09-06
-177,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6700,6900,6800,09 Sep 2014,2014,Sep,9,2014-09-09
-178,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6410,01 Sep 2014,2014,Sep,1,2014-09-01
-179,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6410,05 Sep 2014,2014,Sep,5,2014-09-05
-180,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6450,09 Sep 2014,2014,Sep,9,2014-09-09
-181,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6450,10 Sep 2014,2014,Sep,10,2014-09-10
-182,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,03 Sep 2014,2014,Sep,3,2014-09-03
-183,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,06 Sep 2014,2014,Sep,6,2014-09-06
-184,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,08 Sep 2014,2014,Sep,8,2014-09-08
-185,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6900,02 Sep 2014,2014,Sep,2,2014-09-02
-186,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6900,12 Sep 2014,2014,Sep,12,2014-09-12
-187,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7200,6400,15 Sep 2014,2014,Sep,15,2014-09-15
-188,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6800,7400,7000,13 Sep 2014,2014,Sep,13,2014-09-13
-189,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6800,7400,7000,16 Sep 2014,2014,Sep,16,2014-09-16
-190,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,6900,24 Sep 2014,2014,Sep,24,2014-09-24
-191,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,19 Sep 2014,2014,Sep,19,2014-09-19
-192,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,20 Sep 2014,2014,Sep,20,2014-09-20
-193,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,26 Sep 2014,2014,Sep,26,2014-09-26
-194,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,27 Sep 2014,2014,Sep,27,2014-09-27
-195,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,28 Sep 2014,2014,Sep,28,2014-09-28
-196,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7200,23 Sep 2014,2014,Sep,23,2014-09-23
-197,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7200,29 Sep 2014,2014,Sep,29,2014-09-29
-198,,Giridih,Giridih,Masur Dal,Masur Dal,FAQ,6200,6500,6500,08 Sep 2014,2014,Sep,8,2014-09-08
-199,,Giridih,Giridih,Masur Dal,Masur Dal,FAQ,6300,6400,6400,19 Sep 2014,2014,Sep,19,2014-09-19
-200,,Gumla,Gumla,Masur Dal,Other,FAQ,6400,6800,6600,02 Sep 2014,2014,Sep,2,2014-09-02
-201,,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7000,6600,09 Sep 2014,2014,Sep,9,2014-09-09
-202,,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7000,6800,16 Sep 2014,2014,Sep,16,2014-09-16
-203,,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7600,6900,20 Sep 2014,2014,Sep,20,2014-09-20
-204,,Gumla,Gumla,Masur Dal,Other,FAQ,6500,7600,6700,27 Sep 2014,2014,Sep,27,2014-09-27
-205,,Gumla,Gumla,Masur Dal,Other,FAQ,6700,7700,7200,30 Sep 2014,2014,Sep,30,2014-09-30
-206,,Gumla,Gumla,Masur Dal,Other,FAQ,6800,7500,7150,23 Sep 2014,2014,Sep,23,2014-09-23
-207,,Gumla,Gumla,Masur Dal,Other,FAQ,6800,7600,7200,25 Sep 2014,2014,Sep,25,2014-09-25
-208,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,5800,6500,6200,03 Sep 2014,2014,Sep,3,2014-09-03
-209,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6200,13 Sep 2014,2014,Sep,13,2014-09-13
-210,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6500,02 Sep 2014,2014,Sep,2,2014-09-02
-211,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6500,05 Sep 2014,2014,Sep,5,2014-09-05
-212,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6600,6500,10 Sep 2014,2014,Sep,10,2014-09-10
-213,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6500,6600,6600,06 Sep 2014,2014,Sep,6,2014-09-06
-214,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4900,4920,4900,02 Sep 2014,2014,Sep,2,2014-09-02
-215,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4910,4970,4925,27 Sep 2014,2014,Sep,27,2014-09-27
-216,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4910,4980,4910,22 Sep 2014,2014,Sep,22,2014-09-22
-217,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,5000,5010,5000,19 Sep 2014,2014,Sep,19,2014-09-19
-218,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,6700,6740,6710,24 Sep 2014,2014,Sep,24,2014-09-24
-219,,Koderma,Koderma,Masur Dal,Other,FAQ,6200,6400,6300,13 Sep 2014,2014,Sep,13,2014-09-13
-220,,Koderma,Koderma,Masur Dal,Other,FAQ,6200,6600,6500,23 Sep 2014,2014,Sep,23,2014-09-23
-221,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6500,6400,22 Sep 2014,2014,Sep,22,2014-09-22
-222,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,11 Sep 2014,2014,Sep,11,2014-09-11
-223,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,19 Sep 2014,2014,Sep,19,2014-09-19
-224,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,26 Sep 2014,2014,Sep,26,2014-09-26
-225,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,27 Sep 2014,2014,Sep,27,2014-09-27
-226,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6600,6500,16 Sep 2014,2014,Sep,16,2014-09-16
-227,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6600,6500,18 Sep 2014,2014,Sep,18,2014-09-18
-228,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,01 Sep 2014,2014,Sep,1,2014-09-01
-229,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,03 Sep 2014,2014,Sep,3,2014-09-03
-230,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,04 Sep 2014,2014,Sep,4,2014-09-04
-231,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6800,6600,15 Sep 2014,2014,Sep,15,2014-09-15
-232,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,7000,6900,07 Sep 2014,2014,Sep,7,2014-09-07
-233,,Koderma,Koderma,Masur Dal,Other,FAQ,6500,6900,6500,05 Sep 2014,2014,Sep,5,2014-09-05
-234,,Koderma,Koderma,Masur Dal,Other,FAQ,6700,6900,6800,09 Sep 2014,2014,Sep,9,2014-09-09
-235,,Hazaribagh,Ramgarh,Masur Dal,Other,FAQ,6500,6900,6700,03 Sep 2014,2014,Sep,3,2014-09-03
-236,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,0,5880,5600,11 Sep 2014,2014,Sep,11,2014-09-11
-237,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,03 Sep 2014,2014,Sep,3,2014-09-03
-238,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,04 Sep 2014,2014,Sep,4,2014-09-04
-239,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,06 Sep 2014,2014,Sep,6,2014-09-06
-240,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,08 Sep 2014,2014,Sep,8,2014-09-08
-241,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,09 Sep 2014,2014,Sep,9,2014-09-09
-242,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,10 Sep 2014,2014,Sep,10,2014-09-10
-243,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,12 Sep 2014,2014,Sep,12,2014-09-12
-244,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,13 Sep 2014,2014,Sep,13,2014-09-13
-245,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,15 Sep 2014,2014,Sep,15,2014-09-15
-246,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,17 Sep 2014,2014,Sep,17,2014-09-17
-247,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,18 Sep 2014,2014,Sep,18,2014-09-18
-248,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,19 Sep 2014,2014,Sep,19,2014-09-19
-249,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,20 Sep 2014,2014,Sep,20,2014-09-20
-250,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,22 Sep 2014,2014,Sep,22,2014-09-22
-251,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,23 Sep 2014,2014,Sep,23,2014-09-23
-252,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,24 Sep 2014,2014,Sep,24,2014-09-24
-253,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,26 Sep 2014,2014,Sep,26,2014-09-26
-254,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,29 Sep 2014,2014,Sep,29,2014-09-29
-255,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,30 Sep 2014,2014,Sep,30,2014-09-30
-256,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,03 Sep 2014,2014,Sep,3,2014-09-03
-257,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,04 Sep 2014,2014,Sep,4,2014-09-04
-258,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,06 Sep 2014,2014,Sep,6,2014-09-06
-259,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,07 Sep 2014,2014,Sep,7,2014-09-07
-260,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,10 Sep 2014,2014,Sep,10,2014-09-10
-261,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,11 Sep 2014,2014,Sep,11,2014-09-11
-262,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,20 Sep 2014,2014,Sep,20,2014-09-20
-263,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,21 Sep 2014,2014,Sep,21,2014-09-21
-264,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,24 Sep 2014,2014,Sep,24,2014-09-24
-265,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,25 Sep 2014,2014,Sep,25,2014-09-25
-266,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6200,27 Sep 2014,2014,Sep,27,2014-09-27
-267,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6200,28 Sep 2014,2014,Sep,28,2014-09-28
-268,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,13 Sep 2014,2014,Sep,13,2014-09-13
-269,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,14 Sep 2014,2014,Sep,14,2014-09-14
-270,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,17 Sep 2014,2014,Sep,17,2014-09-17
-271,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,18 Sep 2014,2014,Sep,18,2014-09-18
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Garhwa,Gadhwah,Masur Dal,Kala Masoor New,FAQ,4500,4595,4540,11 Jan 2019,2019,Jan,11,2019-01-11
+1,1.0,1.0,Garhwa,Gadhwah,Masur Dal,Kala Masoor New,FAQ,8600,8605,8602,27 Jun 2019,2019,Jun,27,2019-06-27
+2,2.0,2.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6150,21 Sep 2014,2014,Sep,21,2014-09-21
+3,3.0,3.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6250,27 Sep 2014,2014,Sep,27,2014-09-27
+4,4.0,4.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6300,20 Sep 2014,2014,Sep,20,2014-09-20
+5,5.0,5.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6200,6400,6400,01 Sep 2014,2014,Sep,1,2014-09-01
+6,6.0,6.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6200,6500,6500,15 Sep 2014,2014,Sep,15,2014-09-15
+7,7.0,7.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6250,6450,6450,06 Sep 2014,2014,Sep,6,2014-09-06
+8,8.0,8.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6250,6450,6450,10 Sep 2014,2014,Sep,10,2014-09-10
+9,9.0,9.0,Bokaro,Bermo,Masur Dal,Other,FAQ,6300,6500,6500,17 Sep 2014,2014,Sep,17,2014-09-17
+10,10.0,10.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,01 Sep 2014,2014,Sep,1,2014-09-01
+11,11.0,11.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,02 Sep 2014,2014,Sep,2,2014-09-02
+12,12.0,12.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,03 Sep 2014,2014,Sep,3,2014-09-03
+13,13.0,13.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,04 Sep 2014,2014,Sep,4,2014-09-04
+14,14.0,14.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,06 Sep 2014,2014,Sep,6,2014-09-06
+15,15.0,15.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,08 Sep 2014,2014,Sep,8,2014-09-08
+16,16.0,16.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,10 Sep 2014,2014,Sep,10,2014-09-10
+17,17.0,17.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,11 Sep 2014,2014,Sep,11,2014-09-11
+18,18.0,18.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,5800,5650,22 Sep 2014,2014,Sep,22,2014-09-22
+19,19.0,19.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,12 Sep 2014,2014,Sep,12,2014-09-12
+20,20.0,20.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,13 Sep 2014,2014,Sep,13,2014-09-13
+21,21.0,21.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,15 Sep 2014,2014,Sep,15,2014-09-15
+22,22.0,22.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,16 Sep 2014,2014,Sep,16,2014-09-16
+23,23.0,23.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,17 Sep 2014,2014,Sep,17,2014-09-17
+24,24.0,24.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,18 Sep 2014,2014,Sep,18,2014-09-18
+25,25.0,25.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,19 Sep 2014,2014,Sep,19,2014-09-19
+26,26.0,26.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5800,5700,24 Sep 2014,2014,Sep,24,2014-09-24
+27,27.0,27.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5800,5700,26 Sep 2014,2014,Sep,26,2014-09-26
+28,28.0,28.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5950,5700,20 Sep 2014,2014,Sep,20,2014-09-20
+29,29.0,29.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5900,5750,23 Sep 2014,2014,Sep,23,2014-09-23
+30,30.0,30.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,27 Sep 2014,2014,Sep,27,2014-09-27
+31,31.0,31.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,29 Sep 2014,2014,Sep,29,2014-09-29
+32,32.0,32.0,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,30 Sep 2014,2014,Sep,30,2014-09-30
+33,33.0,33.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6300,6500,6400,23 Sep 2014,2014,Sep,23,2014-09-23
+34,34.0,34.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,16 Sep 2014,2014,Sep,16,2014-09-16
+35,35.0,35.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,20 Sep 2014,2014,Sep,20,2014-09-20
+36,36.0,36.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,21 Sep 2014,2014,Sep,21,2014-09-21
+37,37.0,37.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6700,6600,01 Sep 2014,2014,Sep,1,2014-09-01
+38,38.0,38.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6800,6600,04 Sep 2014,2014,Sep,4,2014-09-04
+39,39.0,39.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6600,6900,6700,01 Oct 2014,2014,Oct,1,2014-10-01
+40,40.0,40.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6600,6900,6800,07 Sep 2014,2014,Sep,7,2014-09-07
+41,41.0,41.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6700,6900,6800,06 Sep 2014,2014,Sep,6,2014-09-06
+42,42.0,42.0,Deogarh,Deoghar,Masur Dal,Other,FAQ,6700,6900,6800,09 Sep 2014,2014,Sep,9,2014-09-09
+43,43.0,43.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6410,01 Sep 2014,2014,Sep,1,2014-09-01
+44,44.0,44.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6410,05 Sep 2014,2014,Sep,5,2014-09-05
+45,45.0,45.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6450,09 Sep 2014,2014,Sep,9,2014-09-09
+46,46.0,46.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6450,10 Sep 2014,2014,Sep,10,2014-09-10
+47,47.0,47.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,03 Sep 2014,2014,Sep,3,2014-09-03
+48,48.0,48.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,06 Sep 2014,2014,Sep,6,2014-09-06
+49,49.0,49.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,08 Sep 2014,2014,Sep,8,2014-09-08
+50,50.0,50.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6900,02 Sep 2014,2014,Sep,2,2014-09-02
+51,51.0,51.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6900,12 Sep 2014,2014,Sep,12,2014-09-12
+52,52.0,52.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7200,6400,15 Sep 2014,2014,Sep,15,2014-09-15
+53,53.0,53.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6800,7400,7000,13 Sep 2014,2014,Sep,13,2014-09-13
+54,54.0,54.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6800,7400,7000,16 Sep 2014,2014,Sep,16,2014-09-16
+55,55.0,55.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,6900,24 Sep 2014,2014,Sep,24,2014-09-24
+56,56.0,56.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,19 Sep 2014,2014,Sep,19,2014-09-19
+57,57.0,57.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,20 Sep 2014,2014,Sep,20,2014-09-20
+58,58.0,58.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,26 Sep 2014,2014,Sep,26,2014-09-26
+59,59.0,59.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,27 Sep 2014,2014,Sep,27,2014-09-27
+60,60.0,60.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,28 Sep 2014,2014,Sep,28,2014-09-28
+61,61.0,61.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7200,23 Sep 2014,2014,Sep,23,2014-09-23
+62,62.0,62.0,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7200,29 Sep 2014,2014,Sep,29,2014-09-29
+63,63.0,63.0,Giridih,Giridih,Masur Dal,Masur Dal,FAQ,6200,6500,6500,08 Sep 2014,2014,Sep,8,2014-09-08
+64,64.0,64.0,Giridih,Giridih,Masur Dal,Masur Dal,FAQ,6300,6400,6400,19 Sep 2014,2014,Sep,19,2014-09-19
+65,65.0,65.0,Gumla,Gumla,Masur Dal,Other,FAQ,6400,6800,6600,02 Sep 2014,2014,Sep,2,2014-09-02
+66,66.0,66.0,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7000,6600,09 Sep 2014,2014,Sep,9,2014-09-09
+67,67.0,67.0,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7000,6800,16 Sep 2014,2014,Sep,16,2014-09-16
+68,68.0,68.0,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7600,6900,20 Sep 2014,2014,Sep,20,2014-09-20
+69,69.0,69.0,Gumla,Gumla,Masur Dal,Other,FAQ,6500,7600,6700,27 Sep 2014,2014,Sep,27,2014-09-27
+70,70.0,70.0,Gumla,Gumla,Masur Dal,Other,FAQ,6700,7700,7200,30 Sep 2014,2014,Sep,30,2014-09-30
+71,71.0,71.0,Gumla,Gumla,Masur Dal,Other,FAQ,6800,7500,7150,23 Sep 2014,2014,Sep,23,2014-09-23
+72,72.0,72.0,Gumla,Gumla,Masur Dal,Other,FAQ,6800,7600,7200,25 Sep 2014,2014,Sep,25,2014-09-25
+73,73.0,73.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,5800,6500,6200,03 Sep 2014,2014,Sep,3,2014-09-03
+74,74.0,74.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6200,13 Sep 2014,2014,Sep,13,2014-09-13
+75,75.0,75.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6500,02 Sep 2014,2014,Sep,2,2014-09-02
+76,76.0,76.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6500,05 Sep 2014,2014,Sep,5,2014-09-05
+77,77.0,77.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6600,6500,10 Sep 2014,2014,Sep,10,2014-09-10
+78,78.0,78.0,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6500,6600,6600,06 Sep 2014,2014,Sep,6,2014-09-06
+79,79.0,79.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4900,4920,4900,02 Sep 2014,2014,Sep,2,2014-09-02
+80,80.0,80.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4910,4970,4925,27 Sep 2014,2014,Sep,27,2014-09-27
+81,81.0,81.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4910,4980,4910,22 Sep 2014,2014,Sep,22,2014-09-22
+82,82.0,82.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,5000,5010,5000,19 Sep 2014,2014,Sep,19,2014-09-19
+83,83.0,83.0,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,6700,6740,6710,24 Sep 2014,2014,Sep,24,2014-09-24
+84,84.0,84.0,Koderma,Koderma,Masur Dal,Other,FAQ,6200,6400,6300,13 Sep 2014,2014,Sep,13,2014-09-13
+85,85.0,85.0,Koderma,Koderma,Masur Dal,Other,FAQ,6200,6600,6500,23 Sep 2014,2014,Sep,23,2014-09-23
+86,86.0,86.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6500,6400,22 Sep 2014,2014,Sep,22,2014-09-22
+87,87.0,87.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,11 Sep 2014,2014,Sep,11,2014-09-11
+88,88.0,88.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,19 Sep 2014,2014,Sep,19,2014-09-19
+89,89.0,89.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,26 Sep 2014,2014,Sep,26,2014-09-26
+90,90.0,90.0,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,27 Sep 2014,2014,Sep,27,2014-09-27
+91,91.0,91.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6600,6500,16 Sep 2014,2014,Sep,16,2014-09-16
+92,92.0,92.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6600,6500,18 Sep 2014,2014,Sep,18,2014-09-18
+93,93.0,93.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,01 Sep 2014,2014,Sep,1,2014-09-01
+94,94.0,94.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,03 Sep 2014,2014,Sep,3,2014-09-03
+95,95.0,95.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,04 Sep 2014,2014,Sep,4,2014-09-04
+96,96.0,96.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6800,6600,15 Sep 2014,2014,Sep,15,2014-09-15
+97,97.0,97.0,Koderma,Koderma,Masur Dal,Other,FAQ,6400,7000,6900,07 Sep 2014,2014,Sep,7,2014-09-07
+98,98.0,98.0,Koderma,Koderma,Masur Dal,Other,FAQ,6500,6900,6500,05 Sep 2014,2014,Sep,5,2014-09-05
+99,99.0,99.0,Koderma,Koderma,Masur Dal,Other,FAQ,6700,6900,6800,09 Sep 2014,2014,Sep,9,2014-09-09
+100,100.0,100.0,Hazaribagh,Ramgarh,Masur Dal,Other,FAQ,6500,6900,6700,03 Sep 2014,2014,Sep,3,2014-09-03
+101,101.0,101.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,0,5880,5600,11 Sep 2014,2014,Sep,11,2014-09-11
+102,102.0,102.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,03 Sep 2014,2014,Sep,3,2014-09-03
+103,103.0,103.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,04 Sep 2014,2014,Sep,4,2014-09-04
+104,104.0,104.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,06 Sep 2014,2014,Sep,6,2014-09-06
+105,105.0,105.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,08 Sep 2014,2014,Sep,8,2014-09-08
+106,106.0,106.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,09 Sep 2014,2014,Sep,9,2014-09-09
+107,107.0,107.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,10 Sep 2014,2014,Sep,10,2014-09-10
+108,108.0,108.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,12 Sep 2014,2014,Sep,12,2014-09-12
+109,109.0,109.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,13 Sep 2014,2014,Sep,13,2014-09-13
+110,110.0,110.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,15 Sep 2014,2014,Sep,15,2014-09-15
+111,111.0,111.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,17 Sep 2014,2014,Sep,17,2014-09-17
+112,112.0,112.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,18 Sep 2014,2014,Sep,18,2014-09-18
+113,113.0,113.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,19 Sep 2014,2014,Sep,19,2014-09-19
+114,114.0,114.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,20 Sep 2014,2014,Sep,20,2014-09-20
+115,115.0,115.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,22 Sep 2014,2014,Sep,22,2014-09-22
+116,116.0,116.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,23 Sep 2014,2014,Sep,23,2014-09-23
+117,117.0,117.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,24 Sep 2014,2014,Sep,24,2014-09-24
+118,118.0,118.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,26 Sep 2014,2014,Sep,26,2014-09-26
+119,119.0,119.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,29 Sep 2014,2014,Sep,29,2014-09-29
+120,120.0,120.0,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,30 Sep 2014,2014,Sep,30,2014-09-30
+121,121.0,121.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,03 Sep 2014,2014,Sep,3,2014-09-03
+122,122.0,122.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,04 Sep 2014,2014,Sep,4,2014-09-04
+123,123.0,123.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,06 Sep 2014,2014,Sep,6,2014-09-06
+124,124.0,124.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,07 Sep 2014,2014,Sep,7,2014-09-07
+125,125.0,125.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,10 Sep 2014,2014,Sep,10,2014-09-10
+126,126.0,126.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,11 Sep 2014,2014,Sep,11,2014-09-11
+127,127.0,127.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,20 Sep 2014,2014,Sep,20,2014-09-20
+128,128.0,128.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,21 Sep 2014,2014,Sep,21,2014-09-21
+129,129.0,129.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,24 Sep 2014,2014,Sep,24,2014-09-24
+130,130.0,130.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,25 Sep 2014,2014,Sep,25,2014-09-25
+131,131.0,131.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6200,27 Sep 2014,2014,Sep,27,2014-09-27
+132,132.0,132.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6200,28 Sep 2014,2014,Sep,28,2014-09-28
+133,133.0,133.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,13 Sep 2014,2014,Sep,13,2014-09-13
+134,134.0,134.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,14 Sep 2014,2014,Sep,14,2014-09-14
+135,135.0,135.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,17 Sep 2014,2014,Sep,17,2014-09-17
+136,136.0,136.0,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,18 Sep 2014,2014,Sep,18,2014-09-18
+137,137.0,,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6150,21 Sep 2014,2014,Sep,21,2014-09-21
+138,138.0,,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6250,27 Sep 2014,2014,Sep,27,2014-09-27
+139,139.0,,Bokaro,Bermo,Masur Dal,Other,FAQ,6100,6300,6300,20 Sep 2014,2014,Sep,20,2014-09-20
+140,140.0,,Bokaro,Bermo,Masur Dal,Other,FAQ,6200,6400,6400,01 Sep 2014,2014,Sep,1,2014-09-01
+141,141.0,,Bokaro,Bermo,Masur Dal,Other,FAQ,6200,6500,6500,15 Sep 2014,2014,Sep,15,2014-09-15
+142,142.0,,Bokaro,Bermo,Masur Dal,Other,FAQ,6250,6450,6450,06 Sep 2014,2014,Sep,6,2014-09-06
+143,143.0,,Bokaro,Bermo,Masur Dal,Other,FAQ,6250,6450,6450,10 Sep 2014,2014,Sep,10,2014-09-10
+144,144.0,,Bokaro,Bermo,Masur Dal,Other,FAQ,6300,6500,6500,17 Sep 2014,2014,Sep,17,2014-09-17
+145,145.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,01 Sep 2014,2014,Sep,1,2014-09-01
+146,146.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,02 Sep 2014,2014,Sep,2,2014-09-02
+147,147.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,03 Sep 2014,2014,Sep,3,2014-09-03
+148,148.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,04 Sep 2014,2014,Sep,4,2014-09-04
+149,149.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,06 Sep 2014,2014,Sep,6,2014-09-06
+150,150.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,08 Sep 2014,2014,Sep,8,2014-09-08
+151,151.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,10 Sep 2014,2014,Sep,10,2014-09-10
+152,152.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5500,5950,5650,11 Sep 2014,2014,Sep,11,2014-09-11
+153,153.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,5800,5650,22 Sep 2014,2014,Sep,22,2014-09-22
+154,154.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,12 Sep 2014,2014,Sep,12,2014-09-12
+155,155.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,13 Sep 2014,2014,Sep,13,2014-09-13
+156,156.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,15 Sep 2014,2014,Sep,15,2014-09-15
+157,157.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,16 Sep 2014,2014,Sep,16,2014-09-16
+158,158.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,17 Sep 2014,2014,Sep,17,2014-09-17
+159,159.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,18 Sep 2014,2014,Sep,18,2014-09-18
+160,160.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5600,6000,5650,19 Sep 2014,2014,Sep,19,2014-09-19
+161,161.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5800,5700,24 Sep 2014,2014,Sep,24,2014-09-24
+162,162.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5800,5700,26 Sep 2014,2014,Sep,26,2014-09-26
+163,163.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5650,5950,5700,20 Sep 2014,2014,Sep,20,2014-09-20
+164,164.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5900,5750,23 Sep 2014,2014,Sep,23,2014-09-23
+165,165.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,27 Sep 2014,2014,Sep,27,2014-09-27
+166,166.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,29 Sep 2014,2014,Sep,29,2014-09-29
+167,167.0,,West Singbhum,Chaibasa,Masur Dal,Masur Dal,FAQ,5700,5950,5750,30 Sep 2014,2014,Sep,30,2014-09-30
+168,168.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6300,6500,6400,23 Sep 2014,2014,Sep,23,2014-09-23
+169,169.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,16 Sep 2014,2014,Sep,16,2014-09-16
+170,170.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,20 Sep 2014,2014,Sep,20,2014-09-20
+171,171.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6600,6500,21 Sep 2014,2014,Sep,21,2014-09-21
+172,172.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6700,6600,01 Sep 2014,2014,Sep,1,2014-09-01
+173,173.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6400,6800,6600,04 Sep 2014,2014,Sep,4,2014-09-04
+174,174.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6600,6900,6700,01 Oct 2014,2014,Oct,1,2014-10-01
+175,175.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6600,6900,6800,07 Sep 2014,2014,Sep,7,2014-09-07
+176,176.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6700,6900,6800,06 Sep 2014,2014,Sep,6,2014-09-06
+177,177.0,,Deogarh,Deoghar,Masur Dal,Other,FAQ,6700,6900,6800,09 Sep 2014,2014,Sep,9,2014-09-09
+178,178.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6410,01 Sep 2014,2014,Sep,1,2014-09-01
+179,179.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6410,05 Sep 2014,2014,Sep,5,2014-09-05
+180,180.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6450,09 Sep 2014,2014,Sep,9,2014-09-09
+181,181.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6450,10 Sep 2014,2014,Sep,10,2014-09-10
+182,182.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,03 Sep 2014,2014,Sep,3,2014-09-03
+183,183.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,06 Sep 2014,2014,Sep,6,2014-09-06
+184,184.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6500,08 Sep 2014,2014,Sep,8,2014-09-08
+185,185.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6900,02 Sep 2014,2014,Sep,2,2014-09-02
+186,186.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7000,6900,12 Sep 2014,2014,Sep,12,2014-09-12
+187,187.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6310,7200,6400,15 Sep 2014,2014,Sep,15,2014-09-15
+188,188.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6800,7400,7000,13 Sep 2014,2014,Sep,13,2014-09-13
+189,189.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6800,7400,7000,16 Sep 2014,2014,Sep,16,2014-09-16
+190,190.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,6900,24 Sep 2014,2014,Sep,24,2014-09-24
+191,191.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,19 Sep 2014,2014,Sep,19,2014-09-19
+192,192.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,20 Sep 2014,2014,Sep,20,2014-09-20
+193,193.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,26 Sep 2014,2014,Sep,26,2014-09-26
+194,194.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,27 Sep 2014,2014,Sep,27,2014-09-27
+195,195.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7000,28 Sep 2014,2014,Sep,28,2014-09-28
+196,196.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7200,23 Sep 2014,2014,Sep,23,2014-09-23
+197,197.0,,Dhanbad,Dhanbad,Masur Dal,Other,FAQ,6850,7400,7200,29 Sep 2014,2014,Sep,29,2014-09-29
+198,198.0,,Giridih,Giridih,Masur Dal,Masur Dal,FAQ,6200,6500,6500,08 Sep 2014,2014,Sep,8,2014-09-08
+199,199.0,,Giridih,Giridih,Masur Dal,Masur Dal,FAQ,6300,6400,6400,19 Sep 2014,2014,Sep,19,2014-09-19
+200,200.0,,Gumla,Gumla,Masur Dal,Other,FAQ,6400,6800,6600,02 Sep 2014,2014,Sep,2,2014-09-02
+201,201.0,,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7000,6600,09 Sep 2014,2014,Sep,9,2014-09-09
+202,202.0,,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7000,6800,16 Sep 2014,2014,Sep,16,2014-09-16
+203,203.0,,Gumla,Gumla,Masur Dal,Other,FAQ,6400,7600,6900,20 Sep 2014,2014,Sep,20,2014-09-20
+204,204.0,,Gumla,Gumla,Masur Dal,Other,FAQ,6500,7600,6700,27 Sep 2014,2014,Sep,27,2014-09-27
+205,205.0,,Gumla,Gumla,Masur Dal,Other,FAQ,6700,7700,7200,30 Sep 2014,2014,Sep,30,2014-09-30
+206,206.0,,Gumla,Gumla,Masur Dal,Other,FAQ,6800,7500,7150,23 Sep 2014,2014,Sep,23,2014-09-23
+207,207.0,,Gumla,Gumla,Masur Dal,Other,FAQ,6800,7600,7200,25 Sep 2014,2014,Sep,25,2014-09-25
+208,208.0,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,5800,6500,6200,03 Sep 2014,2014,Sep,3,2014-09-03
+209,209.0,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6200,13 Sep 2014,2014,Sep,13,2014-09-13
+210,210.0,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6500,02 Sep 2014,2014,Sep,2,2014-09-02
+211,211.0,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6500,6500,05 Sep 2014,2014,Sep,5,2014-09-05
+212,212.0,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6200,6600,6500,10 Sep 2014,2014,Sep,10,2014-09-10
+213,213.0,,Hazaribagh,Hazaribagh,Masur Dal,Other,FAQ,6500,6600,6600,06 Sep 2014,2014,Sep,6,2014-09-06
+214,214.0,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4900,4920,4900,02 Sep 2014,2014,Sep,2,2014-09-02
+215,215.0,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4910,4970,4925,27 Sep 2014,2014,Sep,27,2014-09-27
+216,216.0,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,4910,4980,4910,22 Sep 2014,2014,Sep,22,2014-09-22
+217,217.0,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,5000,5010,5000,19 Sep 2014,2014,Sep,19,2014-09-19
+218,218.0,,East Singhbhum,Jamshedpur,Masur Dal,Other,FAQ,6700,6740,6710,24 Sep 2014,2014,Sep,24,2014-09-24
+219,219.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6200,6400,6300,13 Sep 2014,2014,Sep,13,2014-09-13
+220,220.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6200,6600,6500,23 Sep 2014,2014,Sep,23,2014-09-23
+221,221.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6500,6400,22 Sep 2014,2014,Sep,22,2014-09-22
+222,222.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,11 Sep 2014,2014,Sep,11,2014-09-11
+223,223.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,19 Sep 2014,2014,Sep,19,2014-09-19
+224,224.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,26 Sep 2014,2014,Sep,26,2014-09-26
+225,225.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6300,6600,6500,27 Sep 2014,2014,Sep,27,2014-09-27
+226,226.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6600,6500,16 Sep 2014,2014,Sep,16,2014-09-16
+227,227.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6600,6500,18 Sep 2014,2014,Sep,18,2014-09-18
+228,228.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,01 Sep 2014,2014,Sep,1,2014-09-01
+229,229.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,03 Sep 2014,2014,Sep,3,2014-09-03
+230,230.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6700,6600,04 Sep 2014,2014,Sep,4,2014-09-04
+231,231.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,6800,6600,15 Sep 2014,2014,Sep,15,2014-09-15
+232,232.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6400,7000,6900,07 Sep 2014,2014,Sep,7,2014-09-07
+233,233.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6500,6900,6500,05 Sep 2014,2014,Sep,5,2014-09-05
+234,234.0,,Koderma,Koderma,Masur Dal,Other,FAQ,6700,6900,6800,09 Sep 2014,2014,Sep,9,2014-09-09
+235,235.0,,Hazaribagh,Ramgarh,Masur Dal,Other,FAQ,6500,6900,6700,03 Sep 2014,2014,Sep,3,2014-09-03
+236,236.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,0,5880,5600,11 Sep 2014,2014,Sep,11,2014-09-11
+237,237.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,03 Sep 2014,2014,Sep,3,2014-09-03
+238,238.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,04 Sep 2014,2014,Sep,4,2014-09-04
+239,239.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,06 Sep 2014,2014,Sep,6,2014-09-06
+240,240.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,08 Sep 2014,2014,Sep,8,2014-09-08
+241,241.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,09 Sep 2014,2014,Sep,9,2014-09-09
+242,242.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,10 Sep 2014,2014,Sep,10,2014-09-10
+243,243.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,12 Sep 2014,2014,Sep,12,2014-09-12
+244,244.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,13 Sep 2014,2014,Sep,13,2014-09-13
+245,245.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5350,5880,5600,15 Sep 2014,2014,Sep,15,2014-09-15
+246,246.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,17 Sep 2014,2014,Sep,17,2014-09-17
+247,247.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,18 Sep 2014,2014,Sep,18,2014-09-18
+248,248.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,19 Sep 2014,2014,Sep,19,2014-09-19
+249,249.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,20 Sep 2014,2014,Sep,20,2014-09-20
+250,250.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,22 Sep 2014,2014,Sep,22,2014-09-22
+251,251.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,23 Sep 2014,2014,Sep,23,2014-09-23
+252,252.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,24 Sep 2014,2014,Sep,24,2014-09-24
+253,253.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,26 Sep 2014,2014,Sep,26,2014-09-26
+254,254.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,29 Sep 2014,2014,Sep,29,2014-09-29
+255,255.0,,Ranchi,Ranchi,Masur Dal,Masur Dal,FAQ,5400,6000,5600,30 Sep 2014,2014,Sep,30,2014-09-30
+256,256.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,03 Sep 2014,2014,Sep,3,2014-09-03
+257,257.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,04 Sep 2014,2014,Sep,4,2014-09-04
+258,258.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,06 Sep 2014,2014,Sep,6,2014-09-06
+259,259.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,07 Sep 2014,2014,Sep,7,2014-09-07
+260,260.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,10 Sep 2014,2014,Sep,10,2014-09-10
+261,261.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5200,6000,5500,11 Sep 2014,2014,Sep,11,2014-09-11
+262,262.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,20 Sep 2014,2014,Sep,20,2014-09-20
+263,263.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,21 Sep 2014,2014,Sep,21,2014-09-21
+264,264.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,24 Sep 2014,2014,Sep,24,2014-09-24
+265,265.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,5800,6400,6200,25 Sep 2014,2014,Sep,25,2014-09-25
+266,266.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6200,27 Sep 2014,2014,Sep,27,2014-09-27
+267,267.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6200,28 Sep 2014,2014,Sep,28,2014-09-28
+268,268.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,13 Sep 2014,2014,Sep,13,2014-09-13
+269,269.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,14 Sep 2014,2014,Sep,14,2014-09-14
+270,270.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,17 Sep 2014,2014,Sep,17,2014-09-17
+271,271.0,,Sahebgang,Sahebganj,Masur Dal,Other,FAQ,6000,6500,6500,18 Sep 2014,2014,Sep,18,2014-09-18
+272,,,Garhwa,Gadhwah,Masur Dal,Kala Masoor New,FAQ,4500,4595,4540,11 Jan 2019,2019,Jan,11,2019-01-11
+273,,,Garhwa,Gadhwah,Masur Dal,Kala Masoor New,FAQ,8600,8605,8602,27 Jun 2019,2019,Jun,27,2019-06-27

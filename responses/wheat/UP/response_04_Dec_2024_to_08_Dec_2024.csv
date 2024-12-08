@@ -1,0 +1,483 @@
+0,1,2,3,4,5,6,7,8,9
+1,Auraiya,Achalda,Wheat,Dara,FAQ,2600,2800,2720,05 Dec 2024
+2,Auraiya,Achalda,Wheat,Dara,FAQ,2650,2750,2700,04 Dec 2024
+3,Auraiya,Achalda,Wheat,Dara,FAQ,2700,2850,2800,06 Dec 2024
+4,Auraiya,Achalda,Wheat,Dara,FAQ,2700,2900,2800,07 Dec 2024
+5,Agra,Achnera,Wheat,Dara,FAQ,2800,2920,2870,06 Dec 2024
+6,Agra,Achnera,Wheat,Dara,FAQ,2800,2930,2880,04 Dec 2024
+7,Agra,Achnera,Wheat,Dara,FAQ,2820,2920,2880,07 Dec 2024
+8,Agra,Agra,Wheat,Dara,FAQ,2820,2890,2850,06 Dec 2024
+9,Agra,Agra,Wheat,Dara,FAQ,2830,2900,2850,05 Dec 2024
+10,Agra,Agra,Wheat,Dara,FAQ,2850,2920,2860,04 Dec 2024
+11,Jalaun (Orai),Ait,Wheat,Dara,FAQ,2750,2790,2760,06 Dec 2024
+12,Jalaun (Orai),Ait,Wheat,Dara,FAQ,2750,2790,2765,07 Dec 2024
+13,Jalaun (Orai),Ait,Wheat,Dara,FAQ,2760,2795,2780,05 Dec 2024
+14,Jalaun (Orai),Ait,Wheat,Dara,FAQ,2780,2811,2795,04 Dec 2024
+15,Prayagraj,Ajuha,Wheat,Dara,FAQ,2660,2730,2700,04 Dec 2024
+16,Prayagraj,Ajuha,Wheat,Dara,FAQ,2700,2780,2750,05 Dec 2024
+17,Prayagraj,Ajuha,Wheat,Dara,FAQ,2700,2780,2750,06 Dec 2024
+18,Ambedkarnagar,Akbarpur,Wheat,Dara,FAQ,2700,2800,2750,05 Dec 2024
+19,Ambedkarnagar,Akbarpur,Wheat,Dara,FAQ,2700,2800,2750,07 Dec 2024
+20,Ambedkarnagar,Akbarpur,Wheat,Dara,FAQ,2700,2800,2760,04 Dec 2024
+21,Ambedkarnagar,Akbarpur,Wheat,Dara,FAQ,2720,2820,2780,06 Dec 2024
+22,Etah,Aliganj,Wheat,Dara,FAQ,2600,2675,2655,06 Dec 2024
+23,Etah,Aliganj,Wheat,Dara,FAQ,2650,2695,2655,07 Dec 2024
+24,Etah,Aliganj,Wheat,Dara,FAQ,2650,2710,2685,04 Dec 2024
+25,Etah,Aliganj,Wheat,Dara,FAQ,2650,2800,2750,08 Dec 2024
+26,Aligarh,Aligarh,Wheat,Dara,FAQ,2730,2770,2750,04 Dec 2024
+27,Aligarh,Aligarh,Wheat,Dara,FAQ,2730,2780,2750,05 Dec 2024
+28,Aligarh,Aligarh,Wheat,Dara,FAQ,2740,2780,2760,06 Dec 2024
+29,Aligarh,Aligarh,Wheat,Dara,FAQ,2750,2780,2770,07 Dec 2024
+30,Prayagraj,Allahabad,Wheat,Dara,FAQ,2685,2850,2750,06 Dec 2024
+31,Prayagraj,Allahabad,Wheat,Dara,FAQ,2700,2850,2775,04 Dec 2024
+32,Prayagraj,Allahabad,Wheat,Dara,FAQ,2750,2800,2775,05 Dec 2024
+33,Prayagraj,Allahabad,Wheat,Dara,FAQ,2750,2880,2770,07 Dec 2024
+34,Amroha,Amroha,Wheat,Dara,FAQ,2770,2790,2785,04 Dec 2024
+35,Amroha,Amroha,Wheat,Dara,FAQ,2770,2800,2790,05 Dec 2024
+36,Amroha,Amroha,Wheat,Dara,FAQ,2780,2810,2800,06 Dec 2024
+37,Maharajganj,Anandnagar,Wheat,Dara,FAQ,2300,2400,2350,04 Dec 2024
+38,Maharajganj,Anandnagar,Wheat,Dara,FAQ,2300,2400,2350,05 Dec 2024
+39,Maharajganj,Anandnagar,Wheat,Dara,FAQ,2300,2400,2350,06 Dec 2024
+40,Maharajganj,Anandnagar,Wheat,Dara,FAQ,2300,2450,2400,07 Dec 2024
+41,Banda,Atarra,Wheat,Dara,FAQ,2530,2690,2600,05 Dec 2024
+42,Aligarh,Atrauli,Wheat,Dara,FAQ,2700,2900,2800,04 Dec 2024
+43,Auraiya,Auraiya,Wheat,Dara,FAQ,2700,2770,2750,04 Dec 2024
+44,Auraiya,Auraiya,Wheat,Dara,FAQ,2700,2780,2760,05 Dec 2024
+45,Auraiya,Auraiya,Wheat,Dara,FAQ,2750,2820,2800,06 Dec 2024
+46,Auraiya,Auraiya,Wheat,Dara,FAQ,2760,2820,2800,07 Dec 2024
+47,Azamgarh,Azamgarh,Wheat,Dara,FAQ,2720,2820,2770,07 Dec 2024
+48,Azamgarh,Azamgarh,Wheat,Dara,FAQ,2720,2830,2780,05 Dec 2024
+49,Azamgarh,Azamgarh,Wheat,Dara,FAQ,2725,2825,2775,04 Dec 2024
+50,Azamgarh,Azamgarh,Wheat,Dara,FAQ,2725,2825,2780,06 Dec 2024
+51,Badaun,Babrala,Wheat,Dara,FAQ,2730,2750,2740,06 Dec 2024
+52,Badaun,Babrala,Wheat,Dara,FAQ,2730,2750,2740,07 Dec 2024
+53,Badaun,Babrala,Wheat,Dara,FAQ,2730,2750,2740,08 Dec 2024
+54,Raebarelli,Bachranwa,Wheat,Dara,FAQ,2650,2710,2700,07 Dec 2024
+55,Raebarelli,Bachranwa,Wheat,Dara,FAQ,2675,2710,2700,06 Dec 2024
+56,Raebarelli,Bachranwa,Wheat,Dara,FAQ,2675,2715,2700,05 Dec 2024
+57,Raebarelli,Bachranwa,Wheat,Dara,FAQ,2700,2725,2715,04 Dec 2024
+58,Badaun,Badayoun,Wheat,Dara,FAQ,2620,2750,2710,04 Dec 2024
+59,Badaun,Badayoun,Wheat,Dara,FAQ,2620,2750,2710,07 Dec 2024
+60,Badaun,Badayoun,Wheat,Dara,FAQ,2670,2750,2710,05 Dec 2024
+61,Badaun,Badayoun,Wheat,Dara,FAQ,2670,2750,2710,06 Dec 2024
+62,Bahraich,Bahraich,Wheat,Dara,FAQ,2700,2800,2750,04 Dec 2024
+63,Bahraich,Bahraich,Wheat,Dara,FAQ,2700,2800,2750,05 Dec 2024
+64,Bahraich,Bahraich,Wheat,Dara,FAQ,2700,2800,2750,06 Dec 2024
+65,Bahraich,Bahraich,Wheat,Dara,FAQ,2700,2800,2750,07 Dec 2024
+66,Ballia,Ballia,Wheat,Dara,FAQ,2750,2790,2770,04 Dec 2024
+67,Ballia,Ballia,Wheat,Dara,FAQ,2750,2790,2775,05 Dec 2024
+68,Ballia,Ballia,Wheat,Dara,FAQ,2750,2800,2780,07 Dec 2024
+69,Ballia,Ballia,Wheat,Dara,FAQ,2755,2815,2785,06 Dec 2024
+70,Balrampur,Balrampur,Wheat,Dara,FAQ,2675,2890,2780,06 Dec 2024
+71,Balrampur,Balrampur,Wheat,Dara,FAQ,2675,2895,2790,04 Dec 2024
+72,Balrampur,Balrampur,Wheat,Dara,FAQ,2700,2900,2800,05 Dec 2024
+73,Banda,Banda,Wheat,Dara,FAQ,2600,2750,2700,04 Dec 2024
+74,Banda,Banda,Wheat,Dara,FAQ,2600,2750,2700,05 Dec 2024
+75,Banda,Banda,Wheat,Dara,FAQ,2600,2750,2700,07 Dec 2024
+76,Banda,Banda,Wheat,Dara,FAQ,2650,2800,2750,06 Dec 2024
+77,Unnao,Bangarmau,Wheat,Dara,FAQ,2670,2770,2720,04 Dec 2024
+78,Unnao,Bangarmau,Wheat,Dara,FAQ,2670,2770,2720,06 Dec 2024
+79,Unnao,Bangarmau,Wheat,Dara,FAQ,2670,2770,2720,07 Dec 2024
+80,Unnao,Bangarmau,Wheat,Dara,FAQ,2670,2770,2720,08 Dec 2024
+81,Lucknow,Banthara,Wheat,Dara,FAQ,2868,2888,2878,08 Dec 2024
+82,Lucknow,Banthara,Wheat,Dara,FAQ,2883,2903,2893,06 Dec 2024
+83,Lucknow,Banthara,Wheat,Dara,FAQ,2928,2948,2938,05 Dec 2024
+84,Lucknow,Banthara,Wheat,Dara,FAQ,3032,3052,3042,04 Dec 2024
+85,Barabanki,Barabanki,Wheat,Dara,FAQ,2750,2790,2770,07 Dec 2024
+86,Baghpat,Baraut,Wheat,Dara,FAQ,2700,2850,2800,05 Dec 2024
+87,Baghpat,Baraut,Wheat,Dara,FAQ,2700,2860,2810,06 Dec 2024
+88,Baghpat,Baraut,Wheat,Dara,FAQ,2750,2850,2800,07 Dec 2024
+89,Baghpat,Baraut,Wheat,Dara,FAQ,2750,2875,2815,04 Dec 2024
+90,Bareilly,Bareilly,Wheat,Dara,FAQ,2675,2850,2705,07 Dec 2024
+91,Bareilly,Bareilly,Wheat,Dara,FAQ,2700,2750,2700,05 Dec 2024
+92,Bareilly,Bareilly,Wheat,Dara,FAQ,2700,2775,2725,04 Dec 2024
+93,Bareilly,Bareilly,Wheat,Dara,FAQ,2700,2948,2750,06 Dec 2024
+94,Basti,Basti,Wheat,Dara,FAQ,2500,2800,2750,06 Dec 2024
+95,Basti,Basti,Wheat,Dara,FAQ,2600,2825,2770,07 Dec 2024
+96,Basti,Basti,Wheat,Dara,FAQ,2600,2860,2810,04 Dec 2024
+97,Basti,Basti,Wheat,Dara,FAQ,2700,2815,2760,05 Dec 2024
+98,Mainpuri,Bewar,Wheat,Dara,FAQ,2600,2660,2630,08 Dec 2024
+99,Mainpuri,Bewar,Wheat,Dara,FAQ,2600,2680,2640,06 Dec 2024
+100,Mainpuri,Bewar,Wheat,Dara,FAQ,2600,2690,2645,07 Dec 2024
+101,Mainpuri,Bewar,Wheat,Dara,FAQ,2610,2690,2650,04 Dec 2024
+102,Etawah,Bharthna,Wheat,Dara,FAQ,2650,2750,2700,04 Dec 2024
+103,Etawah,Bharthna,Wheat,Dara,FAQ,2650,2750,2700,06 Dec 2024
+104,Etawah,Bharthna,Wheat,Dara,FAQ,2660,2760,2710,05 Dec 2024
+105,Hamirpur,Bharuasumerpur,Wheat,Dara,FAQ,2700,2800,2760,07 Dec 2024
+106,Hamirpur,Bharuasumerpur,Wheat,Dara,FAQ,2725,2800,2775,04 Dec 2024
+107,Hamirpur,Bharuasumerpur,Wheat,Dara,FAQ,2750,2810,2800,06 Dec 2024
+108,Kaushambi,Bharwari,Wheat,Dara,FAQ,2630,2760,2700,07 Dec 2024
+109,Sambhal,Bhehjoi,Wheat,Dara,FAQ,2400,2500,2450,07 Dec 2024
+110,Sambhal,Bhehjoi,Wheat,Dara,FAQ,2500,2530,2510,06 Dec 2024
+111,Shravasti,Bhinga,Wheat,Dara,FAQ,2670,2840,2750,04 Dec 2024
+112,Shravasti,Bhinga,Wheat,Dara,FAQ,2670,2840,2750,06 Dec 2024
+113,Shravasti,Bhinga,Wheat,Dara,FAQ,2670,2840,2750,07 Dec 2024
+114,Shravasti,Bhinga,Wheat,Dara,FAQ,2680,2840,2760,05 Dec 2024
+115,Bijnor,Bijnaur,Wheat,Dara,FAQ,2775,2840,2790,07 Dec 2024
+116,Bijnor,Bijnaur,Wheat,Dara,FAQ,2775,2850,2785,06 Dec 2024
+117,Badaun,Bilsi,Wheat,Dara,FAQ,2700,2750,2720,04 Dec 2024
+118,Fatehpur,Bindki,Wheat,Dara,FAQ,2400,2730,2680,06 Dec 2024
+119,Fatehpur,Bindki,Wheat,Dara,FAQ,2480,2750,2670,04 Dec 2024
+120,Fatehpur,Bindki,Wheat,Dara,FAQ,2500,2750,2660,05 Dec 2024
+121,Bulandshahar,Buland Shahr,Wheat,Dara,FAQ,2780,2820,2795,07 Dec 2024
+122,Bulandshahar,Buland Shahr,Wheat,Dara,FAQ,2785,2825,2800,06 Dec 2024
+123,Bulandshahar,Buland Shahr,Wheat,Dara,FAQ,2790,2810,2800,05 Dec 2024
+124,Bulandshahar,Buland Shahr,Wheat,Dara,FAQ,2800,2850,2820,04 Dec 2024
+125,Chandauli,Chandoli,Wheat,Dara,FAQ,2770,2790,2780,04 Dec 2024
+126,Chandauli,Chandoli,Wheat,Dara,FAQ,2780,2800,2790,06 Dec 2024
+127,Chandauli,Chandoli,Wheat,Dara,FAQ,2780,2800,2790,07 Dec 2024
+128,Chandauli,Chandoli,Wheat,Dara,FAQ,2790,2810,2800,05 Dec 2024
+129,Mahoba,Charkhari,Wheat,147 Average,FAQ,2650,2800,2800,04 Dec 2024
+130,Mahoba,Charkhari,Wheat,147 Average,FAQ,2650,2800,2800,05 Dec 2024
+131,Mahoba,Charkhari,Wheat,147 Average,FAQ,2800,2800,2800,07 Dec 2024
+132,Aligarh,Charra,Wheat,Dara,FAQ,2600,2700,2650,04 Dec 2024
+133,Aligarh,Charra,Wheat,Dara,FAQ,2600,2700,2650,05 Dec 2024
+134,Aligarh,Charra,Wheat,Dara,FAQ,2600,2700,2650,06 Dec 2024
+135,Aligarh,Charra,Wheat,Dara,FAQ,2600,2700,2650,07 Dec 2024
+136,Kannuj,Chhibramau,Wheat,Dara,FAQ,2725,2800,2760,04 Dec 2024
+137,Kannuj,Chhibramau,Wheat,Dara,FAQ,2725,2800,2765,06 Dec 2024
+138,Kannuj,Chhibramau,Wheat,Dara,FAQ,2750,2800,2770,07 Dec 2024
+139,Gorakhpur,Chorichora,Wheat,Dara,FAQ,2275,2640,2350,06 Dec 2024
+140,Kanpur,Choubepur,Wheat,Dara,FAQ,2700,2800,2730,05 Dec 2024
+141,Kanpur,Choubepur,Wheat,Dara,FAQ,2700,2800,2740,04 Dec 2024
+142,Kanpur,Choubepur,Wheat,Dara,FAQ,2700,2800,2740,06 Dec 2024
+143,Kanpur,Choubepur,Wheat,Dara,FAQ,2700,2800,2740,07 Dec 2024
+144,Gautam Budh Nagar,Dadri,Wheat,Dara,FAQ,2730,2900,2820,05 Dec 2024
+145,Gautam Budh Nagar,Dankaur,Wheat,Dara,FAQ,2700,2900,2811,06 Dec 2024
+146,Gautam Budh Nagar,Dankaur,Wheat,Dara,FAQ,2700,2900,2815,04 Dec 2024
+147,Deoria,Devariya,Wheat,Dara,FAQ,2720,2735,2725,05 Dec 2024
+148,Deoria,Devariya,Wheat,Dara,FAQ,2730,2745,2735,06 Dec 2024
+149,Deoria,Devariya,Wheat,Dara,FAQ,2730,2750,2740,04 Dec 2024
+150,Etah,Etah,Wheat,Dara,FAQ,2400,3000,2600,04 Dec 2024
+151,Etah,Etah,Wheat,Dara,FAQ,2400,3000,2600,05 Dec 2024
+152,Etah,Etah,Wheat,Dara,FAQ,2400,3000,2700,07 Dec 2024
+153,Etah,Etah,Wheat,Dara,FAQ,2400,3000,2720,06 Dec 2024
+154,Etawah,Etawah,Wheat,Dara,FAQ,2660,2730,2720,05 Dec 2024
+155,Etawah,Etawah,Wheat,Dara,FAQ,2670,2750,2710,04 Dec 2024
+156,Etawah,Etawah,Wheat,Dara,FAQ,2700,2780,2750,06 Dec 2024
+157,Etawah,Etawah,Wheat,Dara,FAQ,2700,2860,2740,07 Dec 2024
+158,Ayodhya,Faizabad,Wheat,Dara,FAQ,2700,2850,2790,04 Dec 2024
+159,Ayodhya,Faizabad,Wheat,Dara,FAQ,2700,2850,2800,06 Dec 2024
+160,Ayodhya,Faizabad,Wheat,Dara,FAQ,2730,2840,2800,07 Dec 2024
+161,Ayodhya,Faizabad,Wheat,Dara,FAQ,2740,2860,2800,05 Dec 2024
+162,Farukhabad,Farukhabad,Wheat,Dara,FAQ,2700,2800,2745,07 Dec 2024
+163,Farukhabad,Farukhabad,Wheat,Dara,FAQ,2700,2800,2750,04 Dec 2024
+164,Farukhabad,Farukhabad,Wheat,Dara,FAQ,2700,2800,2760,05 Dec 2024
+165,Fatehpur,Fatehpur,Wheat,Dara,FAQ,2600,2720,2670,06 Dec 2024
+166,Fatehpur,Fatehpur,Wheat,Dara,FAQ,2620,2720,2675,07 Dec 2024
+167,Fatehpur,Fatehpur,Wheat,Dara,FAQ,2650,2740,2690,04 Dec 2024
+168,Agra,Fatehpur Sikri,Wheat,Dara,FAQ,2820,2890,2850,06 Dec 2024
+169,Agra,Fatehpur Sikri,Wheat,Dara,FAQ,2840,2890,2865,07 Dec 2024
+170,Firozabad,Firozabad,Wheat,Dara,FAQ,2880,2920,2905,06 Dec 2024
+171,Firozabad,Firozabad,Wheat,Dara,FAQ,2880,2925,2910,08 Dec 2024
+172,Firozabad,Firozabad,Wheat,Dara,FAQ,2900,2920,2910,04 Dec 2024
+173,Ghazipur,Gazipur,Wheat,Dara,FAQ,2750,2810,2780,04 Dec 2024
+174,Ghazipur,Gazipur,Wheat,Dara,FAQ,2750,2810,2780,05 Dec 2024
+175,Ghaziabad,Ghaziabad,Wheat,Dara,FAQ,2810,2830,2820,04 Dec 2024
+176,Ghaziabad,Ghaziabad,Wheat,Dara,FAQ,2810,2830,2820,05 Dec 2024
+177,Ghaziabad,Ghaziabad,Wheat,Dara,FAQ,2810,2830,2820,06 Dec 2024
+178,Ghaziabad,Ghaziabad,Wheat,Dara,FAQ,2810,2830,2820,07 Dec 2024
+179,Mainpuri,Ghiraur,Wheat,Dara,FAQ,2655,2855,2755,04 Dec 2024
+180,Mainpuri,Ghiraur,Wheat,Dara,FAQ,2665,2865,2765,06 Dec 2024
+181,Mainpuri,Ghiraur,Wheat,Dara,FAQ,2680,2880,2780,08 Dec 2024
+182,Mainpuri,Ghiraur,Wheat,Dara,FAQ,2680,2890,2790,05 Dec 2024
+183,Lakhimpur,Golagokarnath,Wheat,Dara,FAQ,2700,2850,2780,07 Dec 2024
+184,Lakhimpur,Golagokarnath,Wheat,Dara,FAQ,2710,2800,2770,06 Dec 2024
+185,Gonda,Gonda,Wheat,Dara,FAQ,2780,2850,2800,05 Dec 2024
+186,Gonda,Gonda,Wheat,Dara,FAQ,2800,2855,2850,06 Dec 2024
+187,Gonda,Gonda,Wheat,Dara,FAQ,2800,2855,2850,07 Dec 2024
+188,Gonda,Gonda,Wheat,Dara,FAQ,2800,2860,2830,04 Dec 2024
+189,Bhadohi(Sant Ravi Nagar),Gopiganj,Wheat,Dara,FAQ,2720,2820,2770,05 Dec 2024
+190,Gorakhpur,Gorakhpur,Wheat,Dara,FAQ,2675,2775,2725,07 Dec 2024
+191,Gorakhpur,Gorakhpur,Wheat,Dara,FAQ,2685,2785,2735,06 Dec 2024
+192,Gorakhpur,Gorakhpur,Wheat,Dara,FAQ,2700,2750,2725,05 Dec 2024
+193,Gorakhpur,Gorakhpur,Wheat,Dara,FAQ,2700,2770,2735,04 Dec 2024
+194,Hathras,Haathras,Wheat,Dara,FAQ,2660,2760,2710,05 Dec 2024
+195,Hathras,Haathras,Wheat,Dara,FAQ,2700,2840,2770,06 Dec 2024
+196,Hathras,Haathras,Wheat,Dara,FAQ,2700,2860,2780,07 Dec 2024
+197,Hathras,Haathras,Wheat,Dara,FAQ,2720,2820,2780,04 Dec 2024
+198,Hardoi,Hardoi,Wheat,Dara,FAQ,2700,2740,2725,06 Dec 2024
+199,Hardoi,Hardoi,Wheat,Dara,FAQ,2700,2740,2730,05 Dec 2024
+200,Hardoi,Hardoi,Wheat,Dara,FAQ,2700,2750,2725,07 Dec 2024
+201,Hardoi,Hardoi,Wheat,Dara,FAQ,2720,2740,2730,04 Dec 2024
+202,Sitapur,Hargaon (Laharpur),Wheat,Dara,FAQ,2800,2810,2805,04 Dec 2024
+203,Sitapur,Hargaon (Laharpur),Wheat,Dara,FAQ,2800,2810,2805,05 Dec 2024
+204,Sitapur,Hargaon (Laharpur),Wheat,Dara,FAQ,2800,2810,2805,06 Dec 2024
+205,Sitapur,Hargaon (Laharpur),Wheat,Dara,FAQ,2800,2810,2805,07 Dec 2024
+206,Amethi,Jafarganj,Wheat,Dara,FAQ,2720,2800,2760,05 Dec 2024
+207,Amethi,Jafarganj,Wheat,Dara,FAQ,2720,2800,2760,07 Dec 2024
+208,Amethi,Jafarganj,Wheat,Dara,FAQ,2730,2810,2770,06 Dec 2024
+209,Amethi,Jafarganj,Wheat,Dara,FAQ,2730,2820,2770,04 Dec 2024
+210,Fatehpur,Jahanabad,Wheat,Dara,FAQ,2300,2310,2305,04 Dec 2024
+211,Fatehpur,Jahanabad,Wheat,Dara,FAQ,2300,2310,2305,05 Dec 2024
+212,Fatehpur,Jahanabad,Wheat,Dara,FAQ,2300,2310,2305,06 Dec 2024
+213,Fatehpur,Jahanabad,Wheat,Dara,FAQ,2300,2310,2305,08 Dec 2024
+214,Fatehpur,Jahanabad,Wheat,Dara,FAQ,2301,2303,2302,07 Dec 2024
+215,Bulandshahar,Jahangirabad,Wheat,Dara,FAQ,2780,2810,2795,04 Dec 2024
+216,Shahjahanpur,Jalalabad,Wheat,Dara,FAQ,2400,2850,2600,06 Dec 2024
+217,Shahjahanpur,Jalalabad,Wheat,Dara,FAQ,2500,2750,2600,05 Dec 2024
+218,Shahjahanpur,Jalalabad,Wheat,Dara,FAQ,2600,2750,2650,04 Dec 2024
+219,Jalaun (Orai),Jalaun,Wheat,Dara,FAQ,2700,2780,2750,05 Dec 2024
+220,Jalaun (Orai),Jalaun,Wheat,Dara,FAQ,2780,2800,2791,07 Dec 2024
+221,Jalaun (Orai),Jalaun,Wheat,Dara,FAQ,2780,2800,2793,08 Dec 2024
+222,Jalaun (Orai),Jalaun,Wheat,Dara,FAQ,2800,2830,2812,06 Dec 2024
+223,Etawah,Jasvantnagar,Wheat,Dara,FAQ,2675,2725,2700,04 Dec 2024
+224,Etawah,Jasvantnagar,Wheat,Dara,FAQ,2685,2735,2710,05 Dec 2024
+225,Etawah,Jasvantnagar,Wheat,Dara,FAQ,2725,2775,2750,07 Dec 2024
+226,Etawah,Jasvantnagar,Wheat,Dara,FAQ,2735,2785,2760,06 Dec 2024
+227,Jaunpur,Jaunpur,Wheat,Dara,FAQ,2780,2840,2810,05 Dec 2024
+228,Jaunpur,Jaunpur,Wheat,Dara,FAQ,2785,2830,2810,04 Dec 2024
+229,Jaunpur,Jaunpur,Wheat,Dara,FAQ,2785,2845,2815,07 Dec 2024
+230,Jhansi,Jhansi (Grain),Wheat,Dara,FAQ,2700,2795,2750,05 Dec 2024
+231,Jalaun (Orai),Kadaura,Wheat,147 Average,FAQ,2510,2510,2510,05 Dec 2024
+232,Jalaun (Orai),Kadaura,Wheat,147 Average,FAQ,2525,2525,2525,08 Dec 2024
+233,Farukhabad,Kamlaganj,Wheat,Dara,FAQ,2700,2800,2730,08 Dec 2024
+234,Farukhabad,Kamlaganj,Wheat,Dara,FAQ,2740,2760,2750,06 Dec 2024
+235,Farukhabad,Kamlaganj,Wheat,Dara,FAQ,2760,2810,2800,07 Dec 2024
+236,Kannuj,Kannauj,Wheat,Dara,FAQ,2720,2820,2770,05 Dec 2024
+237,Kannuj,Kannauj,Wheat,Dara,FAQ,2720,2830,2770,07 Dec 2024
+238,Kannuj,Kannauj,Wheat,Dara,FAQ,2720,2840,2770,06 Dec 2024
+239,Kannuj,Kannauj,Wheat,Dara,FAQ,2750,2800,2770,04 Dec 2024
+240,Kanpur,Kanpur(Grain),Wheat,Dara,FAQ,2400,2500,2450,07 Dec 2024
+241,Kanpur,Kanpur(Grain),Wheat,Dara,FAQ,2680,2780,2730,05 Dec 2024
+242,Kanpur,Kanpur(Grain),Wheat,Dara,FAQ,2690,2790,2740,04 Dec 2024
+243,Kanpur,Kanpur(Grain),Wheat,Dara,FAQ,2690,2790,2740,06 Dec 2024
+244,Chitrakut,Karvi,Wheat,Dara,FAQ,2655,2775,2700,08 Dec 2024
+245,Chitrakut,Karvi,Wheat,Dara,FAQ,2665,2770,2700,06 Dec 2024
+246,Chitrakut,Karvi,Wheat,Dara,FAQ,2665,2775,2700,07 Dec 2024
+247,Farukhabad,Kayamganj,Wheat,Dara,FAQ,2740,2770,2750,07 Dec 2024
+248,Farukhabad,Kayamganj,Wheat,Dara,FAQ,2750,2770,2760,04 Dec 2024
+249,Farukhabad,Kayamganj,Wheat,Dara,FAQ,2750,2770,2760,05 Dec 2024
+250,Farukhabad,Kayamganj,Wheat,Dara,FAQ,2755,2775,2765,06 Dec 2024
+251,Fatehpur,Khaga,Wheat,Dara,FAQ,2700,2775,2740,04 Dec 2024
+252,Fatehpur,Khaga,Wheat,Dara,FAQ,2700,2775,2740,07 Dec 2024
+253,Fatehpur,Khaga,Wheat,Dara,FAQ,2700,2780,2750,06 Dec 2024
+254,Aligarh,Khair,Wheat,Dara,FAQ,2500,2850,2700,06 Dec 2024
+255,Bulandshahar,Khurja,Wheat,Dara,FAQ,2750,2850,2800,05 Dec 2024
+256,Bulandshahar,Khurja,Wheat,Dara,FAQ,2750,2850,2800,06 Dec 2024
+257,Bulandshahar,Khurja,Wheat,Dara,FAQ,2750,2850,2800,07 Dec 2024
+258,Fatehpur,Kishunpur,Wheat,Dara,FAQ,2600,2650,2640,05 Dec 2024
+259,Fatehpur,Kishunpur,Wheat,Dara,FAQ,2600,2700,2650,06 Dec 2024
+260,Fatehpur,Kishunpur,Wheat,Dara,FAQ,2660,2700,2680,07 Dec 2024
+261,Jalaun (Orai),Konch,Wheat,Dara,FAQ,2650,2750,2700,06 Dec 2024
+262,Jalaun (Orai),Konch,Wheat,Dara,FAQ,2700,2800,2750,05 Dec 2024
+263,Mathura,Kosikalan,Wheat,Dara,FAQ,2700,2840,2750,04 Dec 2024
+264,Mathura,Kosikalan,Wheat,Dara,FAQ,2800,2870,2835,07 Dec 2024
+265,Mathura,Kosikalan,Wheat,Dara,FAQ,2800,2900,2850,06 Dec 2024
+266,Mathura,Kosikalan,Wheat,Dara,FAQ,2845,2900,2885,05 Dec 2024
+267,Hamirpur,Kurara,Wheat,Dara,FAQ,2400,2500,2450,08 Dec 2024
+268,Lakhimpur,Lakhimpur,Wheat,Dara,FAQ,2700,2770,2740,05 Dec 2024
+269,Lakhimpur,Lakhimpur,Wheat,Dara,FAQ,2710,2780,2750,04 Dec 2024
+270,Lakhimpur,Lakhimpur,Wheat,Dara,FAQ,2720,2820,2780,06 Dec 2024
+271,Lakhimpur,Lakhimpur,Wheat,Dara,FAQ,2760,2850,2800,07 Dec 2024
+272,Raebarelli,Lalganj,Wheat,Dara,FAQ,2675,2715,2700,06 Dec 2024
+273,Raebarelli,Lalganj,Wheat,Dara,FAQ,2685,2715,2700,07 Dec 2024
+274,Raebarelli,Lalganj,Wheat,Dara,FAQ,2700,2725,2710,05 Dec 2024
+275,Raebarelli,Lalganj,Wheat,Dara,FAQ,2700,2750,2725,04 Dec 2024
+276,Lalitpur,Lalitpur,Wheat,Dara,FAQ,2700,2800,2780,05 Dec 2024
+277,Prayagraj,Lediyari,Wheat,Dara,FAQ,2400,2500,2450,05 Dec 2024
+278,Lucknow,Lucknow,Wheat,Dara,FAQ,2730,2830,2780,04 Dec 2024
+279,Lucknow,Lucknow,Wheat,Dara,FAQ,2730,2830,2780,05 Dec 2024
+280,Lucknow,Lucknow,Wheat,Dara,FAQ,2730,2830,2780,06 Dec 2024
+281,Lucknow,Lucknow,Wheat,Dara,FAQ,2730,2830,2780,07 Dec 2024
+282,Hardoi,Madhoganj,Wheat,Dara,FAQ,2700,2750,2720,04 Dec 2024
+283,Hardoi,Madhoganj,Wheat,Dara,FAQ,2700,2750,2720,06 Dec 2024
+284,Hardoi,Madhoganj,Wheat,Dara,FAQ,2700,2750,2725,05 Dec 2024
+285,Jalaun (Orai),Madhogarh,Wheat,Dara,FAQ,2700,2750,2720,04 Dec 2024
+286,Jalaun (Orai),Madhogarh,Wheat,Dara,FAQ,2700,2800,2750,07 Dec 2024
+287,Jalaun (Orai),Madhogarh,Wheat,Dara,FAQ,2750,2770,2760,06 Dec 2024
+288,Jalaun (Orai),Madhogarh,Wheat,Dara,FAQ,2750,2820,2800,08 Dec 2024
+289,Mahoba,Mahoba,Wheat,Dara,FAQ,2650,2760,2700,06 Dec 2024
+290,Mahoba,Mahoba,Wheat,Dara,FAQ,2650,2760,2700,08 Dec 2024
+291,Mahoba,Mahoba,Wheat,Dara,FAQ,2650,2760,2710,07 Dec 2024
+292,Mahoba,Mahoba,Wheat,Dara,FAQ,2680,2780,2730,04 Dec 2024
+293,Mahoba,Mahoba,Wheat,Dara,FAQ,2680,2790,2720,05 Dec 2024
+294,Mainpuri,Mainpuri,Wheat,Dara,FAQ,2765,2785,2775,05 Dec 2024
+295,Mainpuri,Mainpuri,Wheat,Dara,FAQ,2765,2785,2777,07 Dec 2024
+296,Mainpuri,Mainpuri,Wheat,Dara,FAQ,2770,2790,2781,06 Dec 2024
+297,Mainpuri,Mainpuri,Wheat,Dara,FAQ,2780,2800,2791,04 Dec 2024
+298,Kaushambi,Manjhanpur,Wheat,Dara,FAQ,2660,2800,2720,07 Dec 2024
+299,Kaushambi,Manjhanpur,Wheat,Dara,FAQ,2685,2825,2750,04 Dec 2024
+300,Kaushambi,Manjhanpur,Wheat,Dara,FAQ,2710,2840,2770,05 Dec 2024
+301,Kaushambi,Manjhanpur,Wheat,Dara,FAQ,2730,2870,2790,06 Dec 2024
+302,Mathura,Mathura,Wheat,Dara,FAQ,2800,2850,2820,06 Dec 2024
+303,Mathura,Mathura,Wheat,Dara,FAQ,2820,2880,2850,05 Dec 2024
+304,Mathura,Mathura,Wheat,Dara,FAQ,2860,2910,2890,04 Dec 2024
+305,Jhansi,Mauranipur,Wheat,Dara,FAQ,2650,2750,2700,07 Dec 2024
+306,Jhansi,Mauranipur,Wheat,Dara,FAQ,2650,2750,2720,06 Dec 2024
+307,Meerut,Meerut,Wheat,Dara,FAQ,2780,2820,2800,06 Dec 2024
+308,Meerut,Meerut,Wheat,Dara,FAQ,2780,2820,2800,07 Dec 2024
+309,Meerut,Meerut,Wheat,Dara,FAQ,2800,2840,2820,04 Dec 2024
+310,Sitapur,Mehmoodabad,Wheat,Dara,FAQ,2690,2740,2710,04 Dec 2024
+311,Lalitpur,Mehrauni,Wheat,147 Average,FAQ,2375,2500,2500,06 Dec 2024
+312,Lalitpur,Mehrauni,Wheat,147 Average,FAQ,2375,2500,2500,07 Dec 2024
+313,Lalitpur,Mehrauni,Wheat,147 Average,FAQ,2400,2600,2600,04 Dec 2024
+314,Mirzapur,Mirzapur,Wheat,Dara,FAQ,2725,2800,2775,04 Dec 2024
+315,Mirzapur,Mirzapur,Wheat,Dara,FAQ,2725,2825,2785,05 Dec 2024
+316,Mirzapur,Mirzapur,Wheat,Dara,FAQ,2735,2825,2790,07 Dec 2024
+317,Mirzapur,Mirzapur,Wheat,Dara,FAQ,2750,2800,2775,06 Dec 2024
+318,Farukhabad,Mohamadabad,Wheat,Dara,FAQ,2750,2770,2760,06 Dec 2024
+319,Farukhabad,Mohamadabad,Wheat,Dara,FAQ,2755,2775,2765,05 Dec 2024
+320,Farukhabad,Mohamadabad,Wheat,Dara,FAQ,2760,2780,2770,04 Dec 2024
+321,Khiri (Lakhimpur),Mohammdi,Wheat,Dara,FAQ,2700,2790,2745,05 Dec 2024
+322,Khiri (Lakhimpur),Mohammdi,Wheat,Dara,FAQ,2710,2810,2760,04 Dec 2024
+323,Khiri (Lakhimpur),Mohammdi,Wheat,Dara,FAQ,2740,2820,2780,06 Dec 2024
+324,Khiri (Lakhimpur),Mohammdi,Wheat,Dara,FAQ,2740,2820,2780,07 Dec 2024
+325,Jhansi,Moth,Wheat,Dara,FAQ,2740,2800,2750,04 Dec 2024
+326,Jhansi,Moth,Wheat,Dara,FAQ,2740,2800,2750,06 Dec 2024
+327,Jaunpur,Mugrabaadshahpur,Wheat,Dara,FAQ,2700,2900,2800,05 Dec 2024
+328,Jaunpur,Mugrabaadshahpur,Wheat,Dara,FAQ,2700,2900,2800,06 Dec 2024
+329,Jaunpur,Mugrabaadshahpur,Wheat,Dara,FAQ,2710,2910,2810,04 Dec 2024
+330,Jaunpur,Mugrabaadshahpur,Wheat,Dara,FAQ,2710,2910,2810,07 Dec 2024
+331,Sambhal,Muradabad,Wheat,Hybrid,FAQ,2760,2800,2780,05 Dec 2024
+332,Sambhal,Muradabad,Wheat,Hybrid,FAQ,2760,2800,2785,04 Dec 2024
+333,Sambhal,Muradabad,Wheat,Hybrid,FAQ,2760,2820,2790,06 Dec 2024
+334,Sambhal,Muradabad,Wheat,Hybrid,FAQ,2780,2820,2800,07 Dec 2024
+335,Muzaffarnagar,Muzzafarnagar,Wheat,Dara,FAQ,2770,2850,2800,05 Dec 2024
+336,Muzaffarnagar,Muzzafarnagar,Wheat,Dara,FAQ,2770,2850,2820,07 Dec 2024
+337,Muzaffarnagar,Muzzafarnagar,Wheat,Dara,FAQ,2800,2850,2825,06 Dec 2024
+338,Muzaffarnagar,Muzzafarnagar,Wheat,Dara,FAQ,2800,2860,2825,04 Dec 2024
+339,Bahraich,Naanpara,Wheat,Other,FAQ,2200,2300,2250,04 Dec 2024
+340,Bahraich,Naanpara,Wheat,Other,FAQ,2200,2300,2250,07 Dec 2024
+341,Siddharth Nagar,Naugarh,Wheat,Dara,FAQ,2740,2790,2780,06 Dec 2024
+342,Siddharth Nagar,Naugarh,Wheat,Dara,FAQ,2840,2860,2850,05 Dec 2024
+343,Gonda,Nawabganj,Wheat,Dara,FAQ,2750,2800,2800,05 Dec 2024
+344,Gonda,Nawabganj,Wheat,Dara,FAQ,2750,2850,2800,04 Dec 2024
+345,Gonda,Nawabganj,Wheat,Dara,FAQ,2750,2850,2800,06 Dec 2024
+346,Gonda,Nawabganj,Wheat,Dara,FAQ,2750,2850,2800,07 Dec 2024
+347,Jalaun (Orai),Orai,Wheat,Dara,FAQ,2600,2750,2700,04 Dec 2024
+348,Jalaun (Orai),Orai,Wheat,Dara,FAQ,2750,2800,2800,05 Dec 2024
+349,Jalaun (Orai),Orai,Wheat,Dara,FAQ,2750,2800,2800,06 Dec 2024
+350,Jalaun (Orai),Orai,Wheat,Dara,FAQ,2750,2830,2825,07 Dec 2024
+351,Jalaun (Orai),Orai,Wheat,Dara,FAQ,2780,2820,2800,08 Dec 2024
+352,Lakhimpur,Paliakala,Wheat,Dara,FAQ,2700,2800,2750,04 Dec 2024
+353,Balrampur,Panchpedwa,Wheat,Dara,FAQ,2700,2900,2800,04 Dec 2024
+354,Balrampur,Panchpedwa,Wheat,Dara,FAQ,2700,2900,2800,05 Dec 2024
+355,Balrampur,Panchpedwa,Wheat,Dara,FAQ,2700,2900,2800,06 Dec 2024
+356,Balrampur,Panchpedwa,Wheat,Dara,FAQ,2700,2900,2800,07 Dec 2024
+357,Maharajganj,Partaval,Wheat,Dara,FAQ,2650,2785,2715,05 Dec 2024
+358,Maharajganj,Partaval,Wheat,Dara,FAQ,2650,2800,2720,06 Dec 2024
+359,Maharajganj,Partaval,Wheat,Dara,FAQ,2655,2810,2730,04 Dec 2024
+360,Pillibhit,Pilibhit,Wheat,Dara,FAQ,2700,2800,2750,06 Dec 2024
+361,Pillibhit,Pilibhit,Wheat,Dara,FAQ,2715,2795,2755,07 Dec 2024
+362,Pillibhit,Pilibhit,Wheat,Dara,FAQ,2750,2840,2795,04 Dec 2024
+363,Pillibhit,Pilibhit,Wheat,Dara,FAQ,2750,2840,2799,05 Dec 2024
+364,Pratapgarh,Pratapgarh,Wheat,Dara,FAQ,2700,2850,2760,04 Dec 2024
+365,Pratapgarh,Pratapgarh,Wheat,Dara,FAQ,2700,2850,2760,06 Dec 2024
+366,Pratapgarh,Pratapgarh,Wheat,Dara,FAQ,2700,2850,2765,05 Dec 2024
+367,Pratapgarh,Pratapgarh,Wheat,Dara,FAQ,2700,2850,2765,07 Dec 2024
+368,Kanpur Dehat,Pukharayan,Wheat,Dara,FAQ,2760,2800,2780,06 Dec 2024
+369,Kanpur Dehat,Pukharayan,Wheat,Dara,FAQ,2775,2815,2790,07 Dec 2024
+370,Kanpur Dehat,Pukharayan,Wheat,Dara,FAQ,2780,2800,2790,04 Dec 2024
+371,Kanpur Dehat,Pukharayan,Wheat,Dara,FAQ,2780,2810,2790,05 Dec 2024
+372,Pillibhit,Puranpur,Wheat,Dara,FAQ,2700,2800,2750,07 Dec 2024
+373,Pillibhit,Puranpur,Wheat,Dara,FAQ,2750,2840,2790,04 Dec 2024
+374,Pillibhit,Puranpur,Wheat,Dara,FAQ,2750,2840,2795,05 Dec 2024
+375,Pillibhit,Puranpur,Wheat,Dara,FAQ,2750,2840,2799,06 Dec 2024
+376,Unnao,Purwa,Wheat,Dara,FAQ,2715,2750,2735,04 Dec 2024
+377,Unnao,Purwa,Wheat,Dara,FAQ,2715,2760,2740,05 Dec 2024
+378,Unnao,Purwa,Wheat,Dara,FAQ,2715,2760,2740,06 Dec 2024
+379,Shahjahanpur,Puwaha,Wheat,Dara,FAQ,2665,2865,2765,05 Dec 2024
+380,Shahjahanpur,Puwaha,Wheat,Dara,FAQ,2665,2865,2765,06 Dec 2024
+381,Shahjahanpur,Puwaha,Wheat,Dara,FAQ,2665,2865,2765,07 Dec 2024
+382,Shahjahanpur,Puwaha,Wheat,Dara,FAQ,2675,2875,2775,04 Dec 2024
+383,Raebarelli,Raibareilly,Wheat,Dara,FAQ,2650,2700,2675,06 Dec 2024
+384,Raebarelli,Raibareilly,Wheat,Dara,FAQ,2660,2680,2670,07 Dec 2024
+385,Raebarelli,Raibareilly,Wheat,Dara,FAQ,2660,2700,2680,04 Dec 2024
+386,Raebarelli,Raibareilly,Wheat,Dara,FAQ,2660,2700,2680,05 Dec 2024
+387,Rampur,Rampur,Wheat,Dara,FAQ,2745,2840,2785,05 Dec 2024
+388,Rampur,Rampur,Wheat,Dara,FAQ,2750,2825,2790,06 Dec 2024
+389,Rampur,Rampur,Wheat,Dara,FAQ,2750,2845,2790,07 Dec 2024
+390,Ballia,Rasda,Wheat,Dara,FAQ,2650,2810,2730,04 Dec 2024
+391,Ballia,Rasda,Wheat,Dara,FAQ,2660,2800,2745,06 Dec 2024
+392,Ballia,Rasda,Wheat,Dara,FAQ,2660,2820,2750,05 Dec 2024
+393,Ballia,Rasda,Wheat,Dara,FAQ,2680,2845,2760,07 Dec 2024
+394,Sonbhadra,Robertsganj,Wheat,Dara,FAQ,2630,2865,2750,07 Dec 2024
+395,Sonbhadra,Robertsganj,Wheat,Dara,FAQ,2640,2865,2755,06 Dec 2024
+396,Sonbhadra,Robertsganj,Wheat,Dara,FAQ,2650,2845,2765,05 Dec 2024
+397,Barabanki,Safdarganj,Wheat,Dara,FAQ,2700,2800,2750,04 Dec 2024
+398,Barabanki,Safdarganj,Wheat,Dara,FAQ,2700,2800,2750,05 Dec 2024
+399,Barabanki,Safdarganj,Wheat,Dara,FAQ,2700,2800,2750,07 Dec 2024
+400,Saharanpur,Saharanpur,Wheat,Dara,FAQ,2700,2950,2800,07 Dec 2024
+401,Saharanpur,Saharanpur,Wheat,Dara,FAQ,2700,2950,2820,05 Dec 2024
+402,Saharanpur,Saharanpur,Wheat,Dara,FAQ,2700,2950,2830,04 Dec 2024
+403,Saharanpur,Saharanpur,Wheat,Dara,FAQ,2700,2950,2830,06 Dec 2024
+404,Siddharth Nagar,Sahiyapur,Wheat,Dara,FAQ,2390,2450,2400,06 Dec 2024
+405,Siddharth Nagar,Sahiyapur,Wheat,Dara,FAQ,2400,2490,2450,07 Dec 2024
+406,Siddharth Nagar,Sahiyapur,Wheat,Dara,FAQ,2400,2500,2450,04 Dec 2024
+407,Siddharth Nagar,Sahiyapur,Wheat,Dara,FAQ,2400,2500,2450,05 Dec 2024
+408,Raebarelli,Salon,Wheat,Dara,FAQ,2690,2700,2695,04 Dec 2024
+409,Raebarelli,Salon,Wheat,Dara,FAQ,2690,2700,2695,05 Dec 2024
+410,Raebarelli,Salon,Wheat,Dara,FAQ,2690,2705,2700,07 Dec 2024
+411,Raebarelli,Salon,Wheat,Dara,FAQ,2690,2710,2700,06 Dec 2024
+412,Hardoi,Sandi,Wheat,Dara,FAQ,2670,2750,2720,06 Dec 2024
+413,Hardoi,Sandi,Wheat,Dara,FAQ,2680,2750,2720,04 Dec 2024
+414,Hardoi,Sandi,Wheat,Dara,FAQ,2680,2750,2725,05 Dec 2024
+415,Hardoi,Sandi,Wheat,Dara,FAQ,2680,2760,2730,07 Dec 2024
+416,Hardoi,Sandila,Wheat,Dara,FAQ,2690,2770,2730,05 Dec 2024
+417,Hardoi,Sandila,Wheat,Dara,FAQ,2690,2770,2730,07 Dec 2024
+418,Hardoi,Sandila,Wheat,Dara,FAQ,2700,2780,2740,06 Dec 2024
+419,Hardoi,Shahabad(New Mandi),Wheat,Dara,FAQ,2700,2780,2740,04 Dec 2024
+420,Hardoi,Shahabad(New Mandi),Wheat,Dara,FAQ,2700,2780,2740,06 Dec 2024
+421,Hardoi,Shahabad(New Mandi),Wheat,Dara,FAQ,2700,2780,2740,07 Dec 2024
+422,Jaunpur,Shahganj,Wheat,Dara,FAQ,2750,2840,2800,04 Dec 2024
+423,Jaunpur,Shahganj,Wheat,Dara,FAQ,2760,2860,2810,05 Dec 2024
+424,Jaunpur,Shahganj,Wheat,Dara,FAQ,2770,2830,2800,06 Dec 2024
+425,Jaunpur,Shahganj,Wheat,Dara,FAQ,2780,2900,2810,07 Dec 2024
+426,Shahjahanpur,Shahjahanpur,Wheat,Dara,FAQ,2600,3000,2800,06 Dec 2024
+427,Shahjahanpur,Shahjahanpur,Wheat,Dara,FAQ,2700,2950,2815,04 Dec 2024
+428,Shahjahanpur,Shahjahanpur,Wheat,Dara,FAQ,2700,2950,2820,05 Dec 2024
+429,Shamli,Shamli,Wheat,Dara,FAQ,2780,2840,2810,05 Dec 2024
+430,Shamli,Shamli,Wheat,Dara,FAQ,2800,2840,2820,06 Dec 2024
+431,Shamli,Shamli,Wheat,Dara,FAQ,2800,2850,2830,07 Dec 2024
+432,Shamli,Shamli,Wheat,Dara,FAQ,2800,2860,2830,04 Dec 2024
+433,Hathras,Sikandraraau,Wheat,Dara,FAQ,2670,2785,2740,08 Dec 2024
+434,Hathras,Sikandraraau,Wheat,Dara,FAQ,2680,2775,2750,07 Dec 2024
+435,Hathras,Sikandraraau,Wheat,Dara,FAQ,2710,2775,2760,06 Dec 2024
+436,Hathras,Sikandraraau,Wheat,Dara,FAQ,2710,2785,2760,04 Dec 2024
+437,Bulandshahar,Sikarpur,Wheat,Dara,FAQ,2380,2500,2450,04 Dec 2024
+438,Bulandshahar,Sikarpur,Wheat,Dara,FAQ,2400,2461,2430,07 Dec 2024
+439,Bulandshahar,Sikarpur,Wheat,Dara,FAQ,2400,2500,2450,06 Dec 2024
+440,Sitapur,Sitapur,Wheat,Dara,FAQ,2680,2740,2700,04 Dec 2024
+441,Sitapur,Sitapur,Wheat,Dara,FAQ,2680,2740,2710,07 Dec 2024
+442,Sitapur,Sitapur,Wheat,Dara,FAQ,2680,2750,2700,05 Dec 2024
+443,Sitapur,Sitapur,Wheat,Dara,FAQ,2680,2750,2700,06 Dec 2024
+444,Bulandshahar,Siyana,Wheat,Dara,FAQ,2760,2800,2780,06 Dec 2024
+445,Bulandshahar,Siyana,Wheat,Dara,FAQ,2760,2800,2780,07 Dec 2024
+446,Amethi,Sultanpur,Wheat,Dara,FAQ,2700,2820,2750,06 Dec 2024
+447,Amethi,Sultanpur,Wheat,Dara,FAQ,2700,2820,2755,07 Dec 2024
+448,Amethi,Sultanpur,Wheat,Dara,FAQ,2700,2820,2760,04 Dec 2024
+449,Amethi,Sultanpur,Wheat,Dara,FAQ,2700,2825,2760,05 Dec 2024
+450,Shahjahanpur,Tilhar,Wheat,Dara,FAQ,2680,2770,2730,07 Dec 2024
+451,Shahjahanpur,Tilhar,Wheat,Dara,FAQ,2690,2770,2730,05 Dec 2024
+452,Shahjahanpur,Tilhar,Wheat,Dara,FAQ,2690,2790,2740,04 Dec 2024
+453,Shahjahanpur,Tilhar,Wheat,Dara,FAQ,2690,2790,2740,06 Dec 2024
+454,Balrampur,Tulsipur,Wheat,Dara,FAQ,2700,2750,2730,04 Dec 2024
+455,Balrampur,Tulsipur,Wheat,Dara,FAQ,2700,2775,2750,07 Dec 2024
+456,Balrampur,Tulsipur,Wheat,Dara,FAQ,2720,2770,2750,05 Dec 2024
+457,Balrampur,Tulsipur,Wheat,Dara,FAQ,2725,2775,2750,08 Dec 2024
+458,Balrampur,Tulsipur,Wheat,Dara,FAQ,2730,2770,2750,06 Dec 2024
+459,Firozabad,Tundla,Wheat,Dara,FAQ,2835,2875,2855,07 Dec 2024
+460,Firozabad,Tundla,Wheat,Dara,FAQ,2850,2900,2875,05 Dec 2024
+461,Firozabad,Tundla,Wheat,Dara,FAQ,2865,2900,2880,06 Dec 2024
+462,Unnao,Unnao,Wheat,Dara,FAQ,2700,2750,2730,04 Dec 2024
+463,Unnao,Unnao,Wheat,Dara,FAQ,2715,2750,2730,05 Dec 2024
+464,Unnao,Unnao,Wheat,Dara,FAQ,2715,2750,2730,06 Dec 2024
+465,Kanpur,Uttaripura,Wheat,Dara,FAQ,2700,2800,2740,06 Dec 2024
+466,Kanpur,Uttaripura,Wheat,Dara,FAQ,2700,2800,2750,07 Dec 2024
+467,Kanpur,Uttaripura,Wheat,Dara,FAQ,2700,2800,2760,05 Dec 2024
+468,Kanpur,Uttaripura,Wheat,Dara,FAQ,2725,2825,2775,04 Dec 2024
+469,Varanasi,Varanasi,Wheat,Dara,FAQ,2750,2865,2800,05 Dec 2024
+470,Varanasi,Varanasi,Wheat,Dara,FAQ,2750,2865,2810,04 Dec 2024
+471,Varanasi,Varanasi,Wheat,Dara,FAQ,2750,2875,2815,06 Dec 2024
+472,Kanpur,Varipaal,Wheat,Dara,FAQ,2600,2650,2620,04 Dec 2024
+473,Kanpur,Varipaal,Wheat,Dara,FAQ,2600,2700,2650,05 Dec 2024
+474,Pillibhit,Vishalpur,Wheat,Dara,FAQ,2680,2750,2720,06 Dec 2024
+475,Pillibhit,Vishalpur,Wheat,Dara,FAQ,2720,2780,2750,05 Dec 2024
+476,Pillibhit,Vishalpur,Wheat,Dara,FAQ,2740,2800,2770,04 Dec 2024
+477,Badaun,Visoli,Wheat,Dara,FAQ,2340,2350,2350,06 Dec 2024
+478,Sitapur,Viswan,Wheat,Dara,FAQ,2660,2700,2680,04 Dec 2024
+479,Sitapur,Viswan,Wheat,Dara,FAQ,2660,2700,2680,05 Dec 2024
+480,Sitapur,Viswan,Wheat,Dara,FAQ,2660,2700,2680,06 Dec 2024
+481,Sitapur,Viswan,Wheat,Dara,FAQ,2670,2710,2690,07 Dec 2024
+482,Badaun,Wazirganj,Wheat,Dara,FAQ,2650,2740,2700,04 Dec 2024

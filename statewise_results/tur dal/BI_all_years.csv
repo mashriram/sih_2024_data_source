@@ -1,72 +1,123 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8500,9500,9000,08 Apr 2022,2022,Apr,8,2022-04-08
-1,1.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8800,08 Feb 2022,2022,Feb,8,2022-02-08
-2,2.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8800,19 Feb 2022,2022,Feb,19,2022-02-19
-3,3.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8900,07 Feb 2022,2022,Feb,7,2022-02-07
-4,4.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9100,8800,13 Mar 2022,2022,Mar,13,2022-03-13
-5,5.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9200,8900,21 Feb 2022,2022,Feb,21,2022-02-21
-6,6.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9100,8900,24 Feb 2022,2022,Feb,24,2022-02-24
-7,7.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,8900,25 Feb 2022,2022,Feb,25,2022-02-25
-8,8.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,04 Feb 2022,2022,Feb,4,2022-02-04
-9,9.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,10 Feb 2022,2022,Feb,10,2022-02-10
-10,10.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,18 Feb 2022,2022,Feb,18,2022-02-18
-11,11.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,27 Feb 2022,2022,Feb,27,2022-02-27
-12,12.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9400,9000,06 Apr 2022,2022,Apr,6,2022-04-06
-13,13.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9600,9100,06 Feb 2022,2022,Feb,6,2022-02-06
-14,14.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9200,9000,02 Mar 2022,2022,Mar,2,2022-03-02
-15,15.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9100,05 Feb 2022,2022,Feb,5,2022-02-05
-16,16.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9100,09 Feb 2022,2022,Feb,9,2022-02-09
-17,17.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9200,22 Feb 2022,2022,Feb,22,2022-02-22
-18,18.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9200,30 Apr 2022,2022,Apr,30,2022-04-30
-19,19.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9400,9200,27 Apr 2022,2022,Apr,27,2022-04-27
-20,20.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9200,9100,05 Mar 2022,2022,Mar,5,2022-03-05
-21,21.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9200,9100,31 May 2022,2022,May,31,2022-05-31
-22,22.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9250,9100,26 Apr 2022,2022,Apr,26,2022-04-26
-23,23.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9350,9200,20 May 2022,2022,May,20,2022-05-20
-24,24.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9450,9250,27 May 2022,2022,May,27,2022-05-27
-25,25.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9050,18 Apr 2022,2022,Apr,18,2022-04-18
-26,26.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,16 Feb 2022,2022,Feb,16,2022-02-16
-27,27.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9300,15 Feb 2022,2022,Feb,15,2022-02-15
-28,28.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9350,9250,28 May 2022,2022,May,28,2022-05-28
-29,29.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9400,9200,13 May 2022,2022,May,13,2022-05-13
-30,30.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9400,9300,15 May 2022,2022,May,15,2022-05-15
-31,31.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9400,9350,21 May 2022,2022,May,21,2022-05-21
-32,32.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9350,9250,25 May 2022,2022,May,25,2022-05-25
-33,33.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9400,9300,17 May 2022,2022,May,17,2022-05-17
-34,34.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9400,9350,23 May 2022,2022,May,23,2022-05-23
-35,35.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9450,9350,14 May 2022,2022,May,14,2022-05-14
-36,36.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9500,9400,18 May 2022,2022,May,18,2022-05-18
-37,37.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,7500,7000,01 Apr 2022,2022,Apr,1,2022-04-01
-38,38.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,8000,7500,21 Mar 2022,2022,Mar,21,2022-03-21
-39,39.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,8500,7500,05 Apr 2022,2022,Apr,5,2022-04-05
-40,40.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,8500,7500,14 Mar 2022,2022,Mar,14,2022-03-14
-41,41.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7000,8500,7500,07 Apr 2022,2022,Apr,7,2022-04-07
-42,42.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7000,9500,8500,05 May 2022,2022,May,5,2022-05-05
-43,43.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7200,8600,8000,18 Apr 2022,2022,Apr,18,2022-04-18
-44,44.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7500,9500,8500,13 May 2022,2022,May,13,2022-05-13
-45,45.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7500,9500,8500,25 Apr 2022,2022,Apr,25,2022-04-25
-46,46.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7500,9500,8600,23 May 2022,2022,May,23,2022-05-23
-47,47.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9800,9500,26 Aug 2022,2022,Aug,26,2022-08-26
-48,48.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,9800,18 Aug 2022,2022,Aug,18,2022-08-18
-49,49.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10000,06 Aug 2022,2022,Aug,6,2022-08-06
-50,50.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10500,11 Aug 2022,2022,Aug,11,2022-08-11
-51,51.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2500,3500,3000,07 Sep 2022,2022,Sep,7,2022-09-07
-52,52.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7400,7600,7500,20 Mar 2023,2023,Mar,20,2023-03-20
-53,53.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9800,9500,02 Sep 2022,2022,Sep,2,2022-09-02
-54,54.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9900,9500,12 Sep 2022,2022,Sep,12,2022-09-12
-55,55.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9900,10000,9950,24 Dec 2022,2022,Dec,24,2022-12-24
-56,56.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,14000,15000,14500,03 Apr 2023,2023,Apr,3,2023-04-03
-57,57.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,14000,15000,14500,04 Mar 2023,2023,Mar,4,2023-03-04
-58,58.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,14000,15000,14500,12 Apr 2023,2023,Apr,12,2023-04-12
-59,59.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),777 New Ind,FAQ,15500,16500,16000,03 Jan 2024,2024,Jan,3,2024-01-03
-60,60.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,14000,16000,15000,09 Nov 2023,2023,Nov,9,2023-11-09
-61,61.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,14000,18000,16000,21 Dec 2023,2023,Dec,21,2023-12-21
-62,62.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,14000,18000,16000,26 Sep 2023,2023,Sep,26,2023-09-26
-63,63.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,14500,16000,15500,15 Dec 2023,2023,Dec,15,2023-12-15
-64,64.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,15000,16000,15500,14 Nov 2023,2023,Nov,14,2023-11-14
-65,65.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,15500,16500,16000,03 Nov 2023,2023,Nov,3,2023-11-03
-66,,Buxar,Brahmpur,Arhar Dal(Tur Dal),777 New Ind,FAQ,13000,14500,13800,09 Oct 2024,2024,Oct,9,2024-10-09
-67,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,13800,26 Oct 2024,2024,Oct,26,2024-10-26
-68,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,06 Nov 2024,2024,Nov,6,2024-11-06
-69,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,10 Oct 2024,2024,Oct,10,2024-10-10
-70,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,19 Oct 2024,2024,Oct,19,2024-10-19
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8500,9500,9000,08 Apr 2022,2022,Apr,8,2022-04-08
+1,1.0,1.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8800,08 Feb 2022,2022,Feb,8,2022-02-08
+2,2.0,2.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8800,19 Feb 2022,2022,Feb,19,2022-02-19
+3,3.0,3.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8900,07 Feb 2022,2022,Feb,7,2022-02-07
+4,4.0,4.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9100,8800,13 Mar 2022,2022,Mar,13,2022-03-13
+5,5.0,5.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9200,8900,21 Feb 2022,2022,Feb,21,2022-02-21
+6,6.0,6.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9100,8900,24 Feb 2022,2022,Feb,24,2022-02-24
+7,7.0,7.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,8900,25 Feb 2022,2022,Feb,25,2022-02-25
+8,8.0,8.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,04 Feb 2022,2022,Feb,4,2022-02-04
+9,9.0,9.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,10 Feb 2022,2022,Feb,10,2022-02-10
+10,10.0,10.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,18 Feb 2022,2022,Feb,18,2022-02-18
+11,11.0,11.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,27 Feb 2022,2022,Feb,27,2022-02-27
+12,12.0,12.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9400,9000,06 Apr 2022,2022,Apr,6,2022-04-06
+13,13.0,13.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9600,9100,06 Feb 2022,2022,Feb,6,2022-02-06
+14,14.0,14.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9200,9000,02 Mar 2022,2022,Mar,2,2022-03-02
+15,15.0,15.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9100,05 Feb 2022,2022,Feb,5,2022-02-05
+16,16.0,16.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9100,09 Feb 2022,2022,Feb,9,2022-02-09
+17,17.0,17.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9200,22 Feb 2022,2022,Feb,22,2022-02-22
+18,18.0,18.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9200,30 Apr 2022,2022,Apr,30,2022-04-30
+19,19.0,19.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9400,9200,27 Apr 2022,2022,Apr,27,2022-04-27
+20,20.0,20.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9200,9100,05 Mar 2022,2022,Mar,5,2022-03-05
+21,21.0,21.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9200,9100,31 May 2022,2022,May,31,2022-05-31
+22,22.0,22.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9250,9100,26 Apr 2022,2022,Apr,26,2022-04-26
+23,23.0,23.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9350,9200,20 May 2022,2022,May,20,2022-05-20
+24,24.0,24.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9450,9250,27 May 2022,2022,May,27,2022-05-27
+25,25.0,25.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9050,18 Apr 2022,2022,Apr,18,2022-04-18
+26,26.0,26.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,16 Feb 2022,2022,Feb,16,2022-02-16
+27,27.0,27.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9300,15 Feb 2022,2022,Feb,15,2022-02-15
+28,28.0,28.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9350,9250,28 May 2022,2022,May,28,2022-05-28
+29,29.0,29.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9400,9200,13 May 2022,2022,May,13,2022-05-13
+30,30.0,30.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9400,9300,15 May 2022,2022,May,15,2022-05-15
+31,31.0,31.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9400,9350,21 May 2022,2022,May,21,2022-05-21
+32,32.0,32.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9350,9250,25 May 2022,2022,May,25,2022-05-25
+33,33.0,33.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9400,9300,17 May 2022,2022,May,17,2022-05-17
+34,34.0,34.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9400,9350,23 May 2022,2022,May,23,2022-05-23
+35,35.0,35.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9450,9350,14 May 2022,2022,May,14,2022-05-14
+36,36.0,36.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9500,9400,18 May 2022,2022,May,18,2022-05-18
+37,37.0,37.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,7500,7000,01 Apr 2022,2022,Apr,1,2022-04-01
+38,38.0,38.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,8000,7500,21 Mar 2022,2022,Mar,21,2022-03-21
+39,39.0,39.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,8500,7500,05 Apr 2022,2022,Apr,5,2022-04-05
+40,40.0,40.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,8500,7500,14 Mar 2022,2022,Mar,14,2022-03-14
+41,41.0,41.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7000,8500,7500,07 Apr 2022,2022,Apr,7,2022-04-07
+42,42.0,42.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7000,9500,8500,05 May 2022,2022,May,5,2022-05-05
+43,43.0,43.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7200,8600,8000,18 Apr 2022,2022,Apr,18,2022-04-18
+44,44.0,44.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7500,9500,8500,13 May 2022,2022,May,13,2022-05-13
+45,45.0,45.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7500,9500,8500,25 Apr 2022,2022,Apr,25,2022-04-25
+46,46.0,46.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7500,9500,8600,23 May 2022,2022,May,23,2022-05-23
+47,47.0,47.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9800,9500,26 Aug 2022,2022,Aug,26,2022-08-26
+48,48.0,48.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,9800,18 Aug 2022,2022,Aug,18,2022-08-18
+49,49.0,49.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10000,06 Aug 2022,2022,Aug,6,2022-08-06
+50,50.0,50.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10500,11 Aug 2022,2022,Aug,11,2022-08-11
+51,51.0,51.0,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,2500,3500,3000,07 Sep 2022,2022,Sep,7,2022-09-07
+52,52.0,52.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7400,7600,7500,20 Mar 2023,2023,Mar,20,2023-03-20
+53,53.0,53.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9800,9500,02 Sep 2022,2022,Sep,2,2022-09-02
+54,54.0,54.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9900,9500,12 Sep 2022,2022,Sep,12,2022-09-12
+55,55.0,55.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9900,10000,9950,24 Dec 2022,2022,Dec,24,2022-12-24
+56,56.0,56.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,14000,15000,14500,03 Apr 2023,2023,Apr,3,2023-04-03
+57,57.0,57.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,14000,15000,14500,04 Mar 2023,2023,Mar,4,2023-03-04
+58,58.0,58.0,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,14000,15000,14500,12 Apr 2023,2023,Apr,12,2023-04-12
+59,59.0,59.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),777 New Ind,FAQ,15500,16500,16000,03 Jan 2024,2024,Jan,3,2024-01-03
+60,60.0,60.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,14000,16000,15000,09 Nov 2023,2023,Nov,9,2023-11-09
+61,61.0,61.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,14000,18000,16000,21 Dec 2023,2023,Dec,21,2023-12-21
+62,62.0,62.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,14000,18000,16000,26 Sep 2023,2023,Sep,26,2023-09-26
+63,63.0,63.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,14500,16000,15500,15 Dec 2023,2023,Dec,15,2023-12-15
+64,64.0,64.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,15000,16000,15500,14 Nov 2023,2023,Nov,14,2023-11-14
+65,65.0,65.0,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,15500,16500,16000,03 Nov 2023,2023,Nov,3,2023-11-03
+66,66.0,,Buxar,Brahmpur,Arhar Dal(Tur Dal),777 New Ind,FAQ,13000,14500,13800,09 Oct 2024,2024,Oct,9,2024-10-09
+67,67.0,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,13800,26 Oct 2024,2024,Oct,26,2024-10-26
+68,68.0,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,06 Nov 2024,2024,Nov,6,2024-11-06
+69,69.0,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,10 Oct 2024,2024,Oct,10,2024-10-10
+70,70.0,,Buxar,Brahmpur,Arhar Dal(Tur Dal),Gulbarga Phatka New,FAQ,13000,14500,14000,19 Oct 2024,2024,Oct,19,2024-10-19
+71,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8500,9500,9000,08 Apr 2022,2022,Apr,8,2022-04-08
+72,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8800,08 Feb 2022,2022,Feb,8,2022-02-08
+73,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8800,19 Feb 2022,2022,Feb,19,2022-02-19
+74,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9000,8900,07 Feb 2022,2022,Feb,7,2022-02-07
+75,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9100,8800,13 Mar 2022,2022,Mar,13,2022-03-13
+76,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8700,9200,8900,21 Feb 2022,2022,Feb,21,2022-02-21
+77,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9100,8900,24 Feb 2022,2022,Feb,24,2022-02-24
+78,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,8900,25 Feb 2022,2022,Feb,25,2022-02-25
+79,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,04 Feb 2022,2022,Feb,4,2022-02-04
+80,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,10 Feb 2022,2022,Feb,10,2022-02-10
+81,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,18 Feb 2022,2022,Feb,18,2022-02-18
+82,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9200,9000,27 Feb 2022,2022,Feb,27,2022-02-27
+83,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9400,9000,06 Apr 2022,2022,Apr,6,2022-04-06
+84,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8800,9600,9100,06 Feb 2022,2022,Feb,6,2022-02-06
+85,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9200,9000,02 Mar 2022,2022,Mar,2,2022-03-02
+86,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9100,05 Feb 2022,2022,Feb,5,2022-02-05
+87,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9100,09 Feb 2022,2022,Feb,9,2022-02-09
+88,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9200,22 Feb 2022,2022,Feb,22,2022-02-22
+89,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9300,9200,30 Apr 2022,2022,Apr,30,2022-04-30
+90,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,8900,9400,9200,27 Apr 2022,2022,Apr,27,2022-04-27
+91,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9200,9100,05 Mar 2022,2022,Mar,5,2022-03-05
+92,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9200,9100,31 May 2022,2022,May,31,2022-05-31
+93,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9250,9100,26 Apr 2022,2022,Apr,26,2022-04-26
+94,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9350,9200,20 May 2022,2022,May,20,2022-05-20
+95,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9450,9250,27 May 2022,2022,May,27,2022-05-27
+96,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9050,18 Apr 2022,2022,Apr,18,2022-04-18
+97,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9200,16 Feb 2022,2022,Feb,16,2022-02-16
+98,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9500,9300,15 Feb 2022,2022,Feb,15,2022-02-15
+99,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9350,9250,28 May 2022,2022,May,28,2022-05-28
+100,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9400,9200,13 May 2022,2022,May,13,2022-05-13
+101,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9400,9300,15 May 2022,2022,May,15,2022-05-15
+102,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9100,9400,9350,21 May 2022,2022,May,21,2022-05-21
+103,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9350,9250,25 May 2022,2022,May,25,2022-05-25
+104,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9400,9300,17 May 2022,2022,May,17,2022-05-17
+105,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9400,9350,23 May 2022,2022,May,23,2022-05-23
+106,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9450,9350,14 May 2022,2022,May,14,2022-05-14
+107,,,Gopalgang,Gopalganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9200,9500,9400,18 May 2022,2022,May,18,2022-05-18
+108,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,7500,7000,01 Apr 2022,2022,Apr,1,2022-04-01
+109,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,8000,7500,21 Mar 2022,2022,Mar,21,2022-03-21
+110,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,8500,7500,05 Apr 2022,2022,Apr,5,2022-04-05
+111,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,6500,8500,7500,14 Mar 2022,2022,Mar,14,2022-03-14
+112,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7000,8500,7500,07 Apr 2022,2022,Apr,7,2022-04-07
+113,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7000,9500,8500,05 May 2022,2022,May,5,2022-05-05
+114,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7200,8600,8000,18 Apr 2022,2022,Apr,18,2022-04-18
+115,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7500,9500,8500,13 May 2022,2022,May,13,2022-05-13
+116,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7500,9500,8500,25 Apr 2022,2022,Apr,25,2022-04-25
+117,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,7500,9500,8600,23 May 2022,2022,May,23,2022-05-23
+118,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9000,9800,9500,26 Aug 2022,2022,Aug,26,2022-08-26
+119,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,9800,18 Aug 2022,2022,Aug,18,2022-08-18
+120,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10000,06 Aug 2022,2022,Aug,6,2022-08-06
+121,,,Patna,Patna City,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,9500,11000,10500,11 Aug 2022,2022,Aug,11,2022-08-11

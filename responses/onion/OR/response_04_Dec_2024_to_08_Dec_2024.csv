@@ -1,0 +1,72 @@
+0,1,2,3,4,5,6,7,8,9
+1,Khurda,Balugaon,Onion,Other,FAQ,4000,4500,4400,05 Dec 2024
+2,Khurda,Balugaon,Onion,Other,FAQ,4200,4500,4400,07 Dec 2024
+3,Khurda,Balugaon,Onion,Other,FAQ,4400,4800,4500,06 Dec 2024
+4,Bargarh,Bargarh,Onion,Other,FAQ,3500,3700,3600,04 Dec 2024
+5,Bargarh,Bargarh,Onion,Other,FAQ,3500,3700,3600,05 Dec 2024
+6,Bargarh,Bargarh,Onion,Other,FAQ,3500,3700,3600,06 Dec 2024
+7,Bargarh,Bargarh(Barapalli),Onion,Other,FAQ,3500,3700,3600,05 Dec 2024
+8,Bargarh,Bargarh(Barapalli),Onion,Other,FAQ,3500,3700,3600,06 Dec 2024
+9,Kalahandi,Bhawanipatna,Onion,Local,FAQ,5200,5200,5200,04 Dec 2024
+10,Kalahandi,Bhawanipatna,Onion,Local,FAQ,5200,5200,5200,05 Dec 2024
+11,Kalahandi,Bhawanipatna,Onion,Local,FAQ,5300,5300,5300,07 Dec 2024
+12,Sundergarh,Bonai,Onion,Onion,FAQ,6000,6000,6000,07 Dec 2024
+13,Sundergarh,Bonai,Onion,Other,FAQ,6000,6000,6000,07 Dec 2024
+14,Boudh,Boudh,Onion,Other,FAQ,4000,6000,5000,04 Dec 2024
+15,Boudh,Boudh,Onion,Other,FAQ,4000,6000,5000,05 Dec 2024
+16,Boudh,Boudh,Onion,Other,FAQ,4000,6000,5000,06 Dec 2024
+17,Boudh,Boudh,Onion,Other,FAQ,4000,6000,5000,07 Dec 2024
+18,Bhadrak,Chandabali,Onion,Other,FAQ,4760,5300,5000,04 Dec 2024
+19,Bhadrak,Chandabali,Onion,Other,FAQ,4800,5500,5000,05 Dec 2024
+20,Bhadrak,Chandabali,Onion,Other,FAQ,4800,5500,5000,06 Dec 2024
+21,Bhadrak,Chandabali,Onion,Other,FAQ,4800,5500,5000,07 Dec 2024
+22,Mayurbhanja,Chuliaposi,Onion,1st Sort,FAQ,5200,5300,5200,05 Dec 2024
+23,Mayurbhanja,Chuliaposi,Onion,1st Sort,FAQ,6300,6500,6400,04 Dec 2024
+24,Sonepur,Dungurapalli,Onion,Other,FAQ,3500,3600,3600,05 Dec 2024
+25,Sonepur,Dungurapalli,Onion,Other,FAQ,3500,3600,3600,07 Dec 2024
+26,Sonepur,Dungurapalli,Onion,Other,FAQ,3500,4000,3800,06 Dec 2024
+27,Sonepur,Dungurapalli,Onion,Other,FAQ,4000,4500,4200,04 Dec 2024
+28,Bargarh,Godabhaga,Onion,Other,FAQ,4500,5000,4500,05 Dec 2024
+29,Dhenkanal,Hindol,Onion,Other,FAQ,3800,4000,3900,04 Dec 2024
+30,Dhenkanal,Hindol,Onion,Other,FAQ,3800,4200,4000,07 Dec 2024
+31,Dhenkanal,Hindol,Onion,Other,FAQ,4000,4500,4200,05 Dec 2024
+32,Dhenkanal,Hindol,Onion,Other,FAQ,4000,4500,4200,06 Dec 2024
+33,Dhenkanal,Hindol,Onion,Other,FAQ,4000,4500,4200,08 Dec 2024
+34,Ganjam,Hinjilicut,Onion,Other,FAQ,3800,5000,5000,05 Dec 2024
+35,Ganjam,Hinjilicut,Onion,Other,FAQ,4000,6000,5200,04 Dec 2024
+36,Balasore,Jaleswar,Onion,Other,FAQ,3800,4200,4000,06 Dec 2024
+37,Balasore,Jaleswar,Onion,Other,FAQ,4200,4600,4400,07 Dec 2024
+38,Balasore,Jaleswar,Onion,Other,FAQ,4200,4600,4400,08 Dec 2024
+39,Balasore,Jaleswar,Onion,Other,FAQ,5300,5700,5500,04 Dec 2024
+40,Jharsuguda,Jharsuguda,Onion,Other,FAQ,5000,5500,5000,06 Dec 2024
+41,Jharsuguda,Jharsuguda,Onion,Other,FAQ,5000,5500,5500,04 Dec 2024
+42,Jharsuguda,Jharsuguda,Onion,Other,FAQ,5500,5500,5500,05 Dec 2024
+43,Jharsuguda,Jharsuguda,Onion,Other,FAQ,6000,6000,6000,07 Dec 2024
+44,Dhenkanal,Kamakhyanagar,Onion,Onion,FAQ,6000,6200,6000,04 Dec 2024
+45,Dhenkanal,Kamakhyanagar,Onion,Onion,FAQ,6000,6200,6000,05 Dec 2024
+46,Dhenkanal,Kamakhyanagar,Onion,Onion,FAQ,6000,6500,6000,06 Dec 2024
+47,Dhenkanal,Kamakhyanagar,Onion,Onion,FAQ,6000,6500,6000,07 Dec 2024
+48,Keonjhar,Keonjhar,Onion,Other,FAQ,5000,5500,5500,04 Dec 2024
+49,Kalahandi,Kesinga,Onion,Other,FAQ,7000,7000,7000,08 Dec 2024
+50,Kalahandi,Kesinga,Onion,Other,FAQ,8000,8000,8000,04 Dec 2024
+51,Nuapada,Khariar,Onion,Dry F.A.Q.,FAQ,6000,7000,7000,06 Dec 2024
+52,Nuapada,Khariar Road,Onion,Other,FAQ,6000,6500,6000,06 Dec 2024
+53,Nuapada,Khariar Road,Onion,Other,FAQ,6000,7000,7000,05 Dec 2024
+54,Nuapada,Khariar Road,Onion,Other,FAQ,6000,7000,7000,07 Dec 2024
+55,Boudh,Khunthabandha,Onion,Other,FAQ,4000,6000,5000,04 Dec 2024
+56,Boudh,Khunthabandha,Onion,Other,FAQ,4000,6000,5000,05 Dec 2024
+57,Boudh,Khunthabandha,Onion,Other,FAQ,4000,6000,5000,06 Dec 2024
+58,Boudh,Khunthabandha,Onion,Other,FAQ,4000,6000,5000,07 Dec 2024
+59,Sambalpur,Kuchinda,Onion,Other,FAQ,5600,6000,5900,06 Dec 2024
+60,Sonepur,Pandkital,Onion,Other,FAQ,3500,4000,3800,05 Dec 2024
+61,Sonepur,Pandkital,Onion,Other,FAQ,4000,4000,4000,07 Dec 2024
+62,Sonepur,Pandkital,Onion,Other,FAQ,4000,4500,4500,06 Dec 2024
+63,Rayagada,Rayagada,Onion,Other,FAQ,4800,4900,4900,04 Dec 2024
+64,Rayagada,Rayagada,Onion,Other,FAQ,4800,4900,4900,05 Dec 2024
+65,Rayagada,Rayagada,Onion,Other,FAQ,4900,5000,5000,07 Dec 2024
+66,Sundergarh,Sargipali,Onion,Other,FAQ,4500,5000,4800,06 Dec 2024
+67,Sundergarh,Sargipali,Onion,Other,FAQ,4500,5000,4800,07 Dec 2024
+68,Sundergarh,Sargipali,Onion,Other,FAQ,4800,5200,5000,04 Dec 2024
+69,Sundergarh,Sargipali,Onion,Other,FAQ,4800,5200,5000,05 Dec 2024
+70,Mayurbhanja,Udala,Onion,Onion,FAQ,5200,5400,5200,05 Dec 2024
+71,Mayurbhanja,Udala,Onion,Onion,FAQ,6200,6400,6300,04 Dec 2024

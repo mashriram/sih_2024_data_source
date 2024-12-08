@@ -1,5 +1,7 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Bilaspur,Sakri,Gur(Jaggery),Yellow,FAQ,3400,3400,3400,29 Apr 2017,2017,Apr,29,2017-04-29
-1,1.0,Surajpur,Surajpur,Gur(Jaggery),Black,FAQ,3000,3000,3000,30 Mar 2017,2017,Mar,30,2017-03-30
-2,,Bilaspur,Sakri,Gur(Jaggery),Yellow,FAQ,3400,3400,3400,29 Apr 2017,2017,Apr,29,2017-04-29
-3,,Surajpur,Surajpur,Gur(Jaggery),Black,FAQ,3000,3000,3000,30 Mar 2017,2017,Mar,30,2017-03-30
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Bilaspur,Sakri,Gur(Jaggery),Yellow,FAQ,3400,3400,3400,29 Apr 2017,2017,Apr,29,2017-04-29
+1,1.0,1.0,Surajpur,Surajpur,Gur(Jaggery),Black,FAQ,3000,3000,3000,30 Mar 2017,2017,Mar,30,2017-03-30
+2,2.0,,Bilaspur,Sakri,Gur(Jaggery),Yellow,FAQ,3400,3400,3400,29 Apr 2017,2017,Apr,29,2017-04-29
+3,3.0,,Surajpur,Surajpur,Gur(Jaggery),Black,FAQ,3000,3000,3000,30 Mar 2017,2017,Mar,30,2017-03-30
+4,,,Bilaspur,Sakri,Gur(Jaggery),Yellow,FAQ,3400,3400,3400,29 Apr 2017,2017,Apr,29,2017-04-29
+5,,,Surajpur,Surajpur,Gur(Jaggery),Black,FAQ,3000,3000,3000,30 Mar 2017,2017,Mar,30,2017-03-30

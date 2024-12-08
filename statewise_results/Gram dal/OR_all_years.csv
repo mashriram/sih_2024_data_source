@@ -1,5 +1,7 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7500,9000,8000,26 Aug 2016,2016,Aug,26,2016-08-26
-1,1.0,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10000,12000,11000,03 Aug 2016,2016,Aug,3,2016-08-03
-2,,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7500,9000,8000,26 Aug 2016,2016,Aug,26,2016-08-26
-3,,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10000,12000,11000,03 Aug 2016,2016,Aug,3,2016-08-03
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7500,9000,8000,26 Aug 2016,2016,Aug,26,2016-08-26
+1,1.0,1.0,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10000,12000,11000,03 Aug 2016,2016,Aug,3,2016-08-03
+2,2.0,,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7500,9000,8000,26 Aug 2016,2016,Aug,26,2016-08-26
+3,3.0,,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10000,12000,11000,03 Aug 2016,2016,Aug,3,2016-08-03
+4,,,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,7500,9000,8000,26 Aug 2016,2016,Aug,26,2016-08-26
+5,,,Jajpur,Jajpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,10000,12000,11000,03 Aug 2016,2016,Aug,3,2016-08-03

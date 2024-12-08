@@ -1,0 +1,80 @@
+0,1,2,3,4,5,6,7,8,9
+1,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Potato,Chips,FAQ,2300,4000,3700,05 Dec 2024
+2,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Potato,Chips,FAQ,3000,4000,3700,04 Dec 2024
+3,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Potato,Desi,FAQ,1500,2500,2300,04 Dec 2024
+4,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Potato,Desi,FAQ,1750,2500,2300,05 Dec 2024
+5,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Potato,Jalander,FAQ,2700,3000,2900,04 Dec 2024
+6,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Potato,Jalander,FAQ,2700,3100,3000,05 Dec 2024
+7,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Potato,Other,FAQ,2000,2600,2450,04 Dec 2024
+8,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana),Potato,Other,FAQ,2000,2800,2650,05 Dec 2024
+9,Anand,"Anand(Veg,Yard,Anand)",Potato,Potato,FAQ,2500,3000,2750,04 Dec 2024
+10,Anand,"Anand(Veg,Yard,Anand)",Potato,Potato,FAQ,2500,3000,2750,06 Dec 2024
+11,Anand,"Anand(Veg,Yard,Anand)",Potato,Potato,FAQ,2500,3000,2800,05 Dec 2024
+12,Bharuch,Ankleshwar,Potato,Potato,FAQ,2000,3500,2500,06 Dec 2024
+13,Bharuch,Ankleshwar,Potato,Potato,FAQ,2000,3500,2500,07 Dec 2024
+14,Bharuch,Ankleshwar,Potato,Potato,FAQ,2000,3500,3000,04 Dec 2024
+15,Bharuch,Ankleshwar,Potato,Potato,FAQ,2000,3500,3000,05 Dec 2024
+16,Kachchh,Bhuj,Potato,Desi,FAQ,2800,3500,3150,04 Dec 2024
+17,Kachchh,Bhuj,Potato,Desi,FAQ,2800,3500,3150,05 Dec 2024
+18,Kachchh,Bhuj,Potato,Desi,FAQ,2800,3500,3150,06 Dec 2024
+19,Kachchh,Bhuj,Potato,Desi,FAQ,2800,3500,3150,07 Dec 2024
+20,Navsari,Bilimora,Potato,Other,FAQ,2700,3500,3100,04 Dec 2024
+21,Navsari,Bilimora,Potato,Other,FAQ,2700,3500,3100,05 Dec 2024
+22,Navsari,Bilimora,Potato,Other,FAQ,2700,3500,3100,06 Dec 2024
+23,Navsari,Bilimora,Potato,Other,FAQ,2700,3500,3100,07 Dec 2024
+24,Dahod,Dahod(Veg. Market),Potato,Potato,FAQ,520,520,520,04 Dec 2024
+25,Dahod,Dahod(Veg. Market),Potato,Potato,FAQ,1800,2500,2500,06 Dec 2024
+26,Dahod,Dahod(Veg. Market),Potato,Potato,FAQ,2200,2300,2250,07 Dec 2024
+27,Dahod,Dahod(Veg. Market),Potato,Potato,FAQ,2500,2700,2600,05 Dec 2024
+28,Banaskanth,Deesa(Deesa Veg Yard),Potato,Other,FAQ,1350,3250,2300,04 Dec 2024
+29,Banaskanth,Deesa(Deesa Veg Yard),Potato,Other,FAQ,1350,3250,2300,06 Dec 2024
+30,Banaskanth,Deesa(Deesa Veg Yard),Potato,Other,FAQ,1400,3300,2350,05 Dec 2024
+31,Banaskanth,Deesa(Deesa Veg Yard),Potato,Other,FAQ,1400,3300,2350,07 Dec 2024
+32,Rajkot,Gondal(Veg.market Gondal),Potato,Potato,FAQ,400,600,500,06 Dec 2024
+33,Rajkot,Gondal(Veg.market Gondal),Potato,Potato,FAQ,450,580,515,08 Dec 2024
+34,Rajkot,Gondal(Veg.market Gondal),Potato,Potato,FAQ,450,610,530,07 Dec 2024
+35,Rajkot,Gondal(Veg.market Gondal),Potato,Potato,FAQ,480,560,520,05 Dec 2024
+36,Rajkot,Gondal(Veg.market Gondal),Potato,Potato,FAQ,500,600,550,04 Dec 2024
+37,Kheda,Kapadvanj,Potato,Other,FAQ,2000,2700,2350,06 Dec 2024
+38,Kheda,Kapadvanj,Potato,Other,FAQ,2000,2800,2400,04 Dec 2024
+39,Kheda,Kapadvanj,Potato,Other,FAQ,2000,2800,2400,05 Dec 2024
+40,Anand,Khambhat(Veg Yard Khambhat),Potato,Other,FAQ,2500,3000,2750,04 Dec 2024
+41,Anand,Khambhat(Veg Yard Khambhat),Potato,Other,FAQ,2700,2900,2800,07 Dec 2024
+42,Mehsana,Mehsana(Mehsana Veg),Potato,Potato,FAQ,1300,2700,2500,04 Dec 2024
+43,Mehsana,Mehsana(Mehsana Veg),Potato,Potato,FAQ,1300,2800,2400,07 Dec 2024
+44,Mehsana,Mehsana(Mehsana Veg),Potato,Potato,FAQ,1300,3000,2500,05 Dec 2024
+45,Mehsana,Mehsana(Mehsana Veg),Potato,Potato,FAQ,1300,3000,2500,06 Dec 2024
+46,Kheda,Nadiad,Potato,Other,FAQ,2000,2600,2350,05 Dec 2024
+47,Kheda,Nadiad,Potato,Other,FAQ,2200,2500,2300,07 Dec 2024
+48,Kheda,Nadiad,Potato,Other,FAQ,2300,2600,2400,04 Dec 2024
+49,Kheda,Nadiyad(Chaklasi),Potato,Potato,FAQ,2000,2200,2100,07 Dec 2024
+50,Kheda,Nadiyad(Chaklasi),Potato,Potato,FAQ,2200,2400,2300,04 Dec 2024
+51,Kheda,Nadiyad(Chaklasi),Potato,Potato,FAQ,2200,2400,2300,05 Dec 2024
+52,Kheda,Nadiyad(Piplag),Potato,Potato,FAQ,1800,2550,2350,05 Dec 2024
+53,Kheda,Nadiyad(Piplag),Potato,Potato,FAQ,1800,2600,2300,04 Dec 2024
+54,Kheda,Nadiyad(Piplag),Potato,Potato,FAQ,1900,2100,2050,07 Dec 2024
+55,Navsari,Navsari,Potato,(Red Nanital),FAQ,2000,3700,2850,04 Dec 2024
+56,Navsari,Navsari,Potato,(Red Nanital),FAQ,2000,3750,2875,05 Dec 2024
+57,Navsari,Navsari,Potato,(Red Nanital),FAQ,2000,3750,2875,07 Dec 2024
+58,Bhavnagar,Palitana,Potato,Potato,FAQ,3000,4000,3500,04 Dec 2024
+59,Bhavnagar,Palitana,Potato,Potato,FAQ,3000,4000,3500,05 Dec 2024
+60,Bhavnagar,Palitana,Potato,Potato,FAQ,3000,4000,3500,06 Dec 2024
+61,Porbandar,Porbandar,Potato,(Red Nanital),FAQ,2500,3000,2750,07 Dec 2024
+62,Porbandar,Porbandar,Potato,(Red Nanital),FAQ,2500,3500,3000,04 Dec 2024
+63,Porbandar,Porbandar,Potato,(Red Nanital),FAQ,2500,3500,3000,05 Dec 2024
+64,Porbandar,Porbandar,Potato,(Red Nanital),FAQ,2500,3500,3000,06 Dec 2024
+65,Rajkot,Rajkot(Veg.Sub Yard),Potato,Desi,FAQ,1750,3500,2625,04 Dec 2024
+66,Rajkot,Rajkot(Veg.Sub Yard),Potato,Desi,FAQ,1800,3405,2605,05 Dec 2024
+67,Rajkot,Rajkot(Veg.Sub Yard),Potato,Desi,FAQ,2000,3000,2500,06 Dec 2024
+68,Rajkot,Rajkot(Veg.Sub Yard),Potato,Desi,FAQ,2000,3555,2780,07 Dec 2024
+69,Surat,Surat,Potato,Other,FAQ,1200,3250,2225,04 Dec 2024
+70,Surat,Surat,Potato,Other,FAQ,1200,3250,2225,06 Dec 2024
+71,Surat,Surat,Potato,Other,FAQ,1200,3250,2225,07 Dec 2024
+72,Surat,Surat,Potato,Other,FAQ,1200,3300,2250,05 Dec 2024
+73,Surendranagar,Vadhvan,Potato,Potato,FAQ,3000,3500,3250,04 Dec 2024
+74,Surendranagar,Vadhvan,Potato,Potato,FAQ,3000,3500,3250,05 Dec 2024
+75,Surendranagar,Vadhvan,Potato,Potato,FAQ,3000,3500,3250,06 Dec 2024
+76,Surendranagar,Vadhvan,Potato,Potato,FAQ,3000,3500,3250,07 Dec 2024
+77,Vadodara(Baroda),Vadodara(Sayajipura),Potato,Other,FAQ,2500,3500,3050,04 Dec 2024
+78,Vadodara(Baroda),Vadodara(Sayajipura),Potato,Other,FAQ,2500,3500,3050,05 Dec 2024
+79,Vadodara(Baroda),Vadodara(Sayajipura),Potato,Other,FAQ,2500,3500,3050,06 Dec 2024

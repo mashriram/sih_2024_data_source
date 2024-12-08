@@ -1,15 +1,19 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,9000,8500,23 Oct 2020,2020,Oct,23,2020-10-23
-1,1.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,12000,14000,13000,01 Nov 2020,2020,Nov,1,2020-11-01
-2,2.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6950,7000,7000,31 Dec 2021,2021,Dec,31,2021-12-31
-3,3.0,Rayagada,Rayagada(Muniguda),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6950,7000,7000,30 Mar 2022,2022,Mar,30,2022-03-30
-4,4.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,9000,8500,06 Jul 2019,2019,Jul,6,2019-07-06
-5,5.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,09 Feb 2023,2023,Feb,9,2023-02-09
-6,6.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,22 Jan 2023,2023,Jan,22,2023-01-22
-7,7.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,23 Jan 2023,2023,Jan,23,2023-01-23
-8,8.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,24 Jan 2023,2023,Jan,24,2023-01-24
-9,9.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7500,8500,8000,05 Nov 2019,2019,Nov,5,2019-11-05
-10,10.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,7000,6800,25 Jun 2018,2018,Jun,25,2018-06-25
-11,11.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,8000,7500,10 Jun 2018,2018,Jun,10,2018-06-10
-12,,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,7000,6800,25 Jun 2018,2018,Jun,25,2018-06-25
-13,,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,8000,7500,10 Jun 2018,2018,Jun,10,2018-06-10
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,9000,8500,23 Oct 2020,2020,Oct,23,2020-10-23
+1,1.0,1.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,12000,14000,13000,01 Nov 2020,2020,Nov,1,2020-11-01
+2,2.0,2.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6950,7000,7000,31 Dec 2021,2021,Dec,31,2021-12-31
+3,3.0,3.0,Rayagada,Rayagada(Muniguda),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6950,7000,7000,30 Mar 2022,2022,Mar,30,2022-03-30
+4,4.0,4.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,9000,8500,06 Jul 2019,2019,Jul,6,2019-07-06
+5,5.0,5.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,09 Feb 2023,2023,Feb,9,2023-02-09
+6,6.0,6.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,22 Jan 2023,2023,Jan,22,2023-01-22
+7,7.0,7.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,23 Jan 2023,2023,Jan,23,2023-01-23
+8,8.0,8.0,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,24 Jan 2023,2023,Jan,24,2023-01-24
+9,9.0,9.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7500,8500,8000,05 Nov 2019,2019,Nov,5,2019-11-05
+10,10.0,10.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,7000,6800,25 Jun 2018,2018,Jun,25,2018-06-25
+11,11.0,11.0,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,8000,7500,10 Jun 2018,2018,Jun,10,2018-06-10
+12,12.0,,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6500,7000,6800,25 Jun 2018,2018,Jun,25,2018-06-25
+13,13.0,,Kalahandi,Kesinga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7000,8000,7500,10 Jun 2018,2018,Jun,10,2018-06-10
+14,,,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,09 Feb 2023,2023,Feb,9,2023-02-09
+15,,,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,22 Jan 2023,2023,Jan,22,2023-01-22
+16,,,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,23 Jan 2023,2023,Jan,23,2023-01-23
+17,,,Rayagada,Gunpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7760,7800,7800,24 Jan 2023,2023,Jan,24,2023-01-24

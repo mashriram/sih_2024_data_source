@@ -1,0 +1,230 @@
+0,1,2,3,4,5,6,7,8,9
+1,Paschim Bardhaman,Asansol,Rice,Fine,FAQ,3500,3750,3650,06 Dec 2024
+2,Paschim Bardhaman,Asansol,Rice,Fine,FAQ,3500,3750,3660,04 Dec 2024
+3,Paschim Bardhaman,Asansol,Rice,Fine,FAQ,3500,3765,3650,05 Dec 2024
+4,Puruliya,Balarampur,Rice,Other,FAQ,4000,4200,4100,05 Dec 2024
+5,Puruliya,Balarampur,Rice,Other,FAQ,4000,4200,4100,06 Dec 2024
+6,Bankura,Bankura Sadar,Rice,Common,FAQ,3450,3600,3500,04 Dec 2024
+7,Bankura,Bankura Sadar,Rice,Common,FAQ,3450,3600,3500,05 Dec 2024
+8,Bankura,Bankura Sadar,Rice,Common,FAQ,3450,3600,3500,06 Dec 2024
+9,Bankura,Bankura Sadar,Rice,Common,FAQ,3450,3600,3500,07 Dec 2024
+10,Sounth 24 Parganas,Baruipur(Canning),Rice,Common,FAQ,3400,3600,3500,06 Dec 2024
+11,Sounth 24 Parganas,Baruipur(Canning),Rice,Common,FAQ,3400,3600,3500,07 Dec 2024
+12,Sounth 24 Parganas,Baruipur(Canning),Rice,Common,FAQ,3500,3600,3550,04 Dec 2024
+13,Sounth 24 Parganas,Baruipur(Canning),Rice,Common,FAQ,3500,3600,3550,05 Dec 2024
+14,Sounth 24 Parganas,Baruipur(Canning),Rice,Super Fine,FAQ,4700,4900,4800,06 Dec 2024
+15,Sounth 24 Parganas,Baruipur(Canning),Rice,Super Fine,FAQ,4700,4900,4800,07 Dec 2024
+16,Sounth 24 Parganas,Baruipur(Canning),Rice,Super Fine,FAQ,4800,4900,4850,04 Dec 2024
+17,Sounth 24 Parganas,Baruipur(Canning),Rice,Super Fine,FAQ,4800,4900,4850,05 Dec 2024
+18,Murshidabad,Beldanga,Rice,Other,FAQ,3600,3700,3650,05 Dec 2024
+19,Murshidabad,Beldanga,Rice,Other,FAQ,3650,3750,3700,07 Dec 2024
+20,Murshidabad,Beldanga,Rice,Other,FAQ,3700,3800,3750,04 Dec 2024
+21,Nadia,Bethuadahari,Rice,Fine,FAQ,4400,4600,4500,04 Dec 2024
+22,Birbhum,Birbhum,Rice,Common,FAQ,3350,3450,3400,04 Dec 2024
+23,Birbhum,Birbhum,Rice,Common,FAQ,3350,3450,3400,05 Dec 2024
+24,Birbhum,Birbhum,Rice,Common,FAQ,3350,3450,3400,06 Dec 2024
+25,Birbhum,Birbhum,Rice,Common,FAQ,3350,3450,3400,07 Dec 2024
+26,Birbhum,Birbhum,Rice,Common,FAQ,3350,3450,3400,08 Dec 2024
+27,Bankura,Bishnupur(Bankura),Rice,Common,FAQ,3500,3600,3550,06 Dec 2024
+28,Bankura,Bishnupur(Bankura),Rice,Common,FAQ,3550,3700,3600,04 Dec 2024
+29,Bankura,Bishnupur(Bankura),Rice,Common,FAQ,3550,3700,3600,05 Dec 2024
+30,Bankura,Bishnupur(Bankura),Rice,Common,FAQ,3550,3700,3600,07 Dec 2024
+31,Bankura,Bishnupur(Bankura),Rice,Common,FAQ,3550,3700,3600,08 Dec 2024
+32,Bankura,Bishnupur(Bankura),Rice,Fine,FAQ,4500,4700,4600,04 Dec 2024
+33,Bankura,Bishnupur(Bankura),Rice,Fine,FAQ,4500,4700,4600,05 Dec 2024
+34,Bankura,Bishnupur(Bankura),Rice,Fine,FAQ,4500,4700,4600,06 Dec 2024
+35,Bankura,Bishnupur(Bankura),Rice,Fine,FAQ,4500,4700,4600,07 Dec 2024
+36,Bankura,Bishnupur(Bankura),Rice,Fine,FAQ,4500,4700,4600,08 Dec 2024
+37,Birbhum,Bolpur,Rice,Common,FAQ,3350,3450,3400,04 Dec 2024
+38,Birbhum,Bolpur,Rice,Common,FAQ,3350,3450,3400,05 Dec 2024
+39,Birbhum,Bolpur,Rice,Common,FAQ,3350,3450,3400,06 Dec 2024
+40,Birbhum,Bolpur,Rice,Common,FAQ,3350,3450,3400,07 Dec 2024
+41,Purba Bardhaman,Burdwan,Rice,Common,FAQ,3200,3400,3300,04 Dec 2024
+42,Purba Bardhaman,Burdwan,Rice,Common,FAQ,3200,3400,3300,05 Dec 2024
+43,Purba Bardhaman,Burdwan,Rice,Common,FAQ,3200,3400,3300,06 Dec 2024
+44,Purba Bardhaman,Burdwan,Rice,Common,FAQ,3200,3400,3300,07 Dec 2024
+45,Purba Bardhaman,Burdwan,Rice,Fine,FAQ,3500,3700,3600,04 Dec 2024
+46,Purba Bardhaman,Burdwan,Rice,Fine,FAQ,3500,3700,3600,05 Dec 2024
+47,Purba Bardhaman,Burdwan,Rice,Fine,FAQ,3500,3700,3600,06 Dec 2024
+48,Purba Bardhaman,Burdwan,Rice,Fine,FAQ,3500,3700,3600,07 Dec 2024
+49,Hooghly,Champadanga,Rice,Fine,FAQ,4400,4500,4450,04 Dec 2024
+50,Hooghly,Champadanga,Rice,Fine,FAQ,4400,4500,4450,05 Dec 2024
+51,Hooghly,Champadanga,Rice,Fine,FAQ,4400,4500,4450,06 Dec 2024
+52,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Rice,Common,FAQ,3400,3600,3500,06 Dec 2024
+53,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Rice,Common,FAQ,3500,3600,3550,04 Dec 2024
+54,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Rice,Common,FAQ,3500,3600,3550,05 Dec 2024
+55,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Rice,Super Fine,FAQ,4700,4900,4800,06 Dec 2024
+56,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Rice,Super Fine,FAQ,4800,4900,4850,04 Dec 2024
+57,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Rice,Super Fine,FAQ,4800,4900,4850,05 Dec 2024
+58,Paschim Bardhaman,Durgapur,Rice,Fine,FAQ,3550,3750,3600,05 Dec 2024
+59,Paschim Bardhaman,Durgapur,Rice,Fine,FAQ,3550,3750,3650,04 Dec 2024
+60,Paschim Bardhaman,Durgapur,Rice,Fine,FAQ,3560,3750,3660,06 Dec 2024
+61,Paschim Bardhaman,Durgapur,Rice,Other,FAQ,2850,3000,2900,05 Dec 2024
+62,Paschim Bardhaman,Durgapur,Rice,Other,FAQ,2850,3050,2900,06 Dec 2024
+63,Paschim Bardhaman,Durgapur,Rice,Other,FAQ,2860,3000,2900,04 Dec 2024
+64,Medinipur(E),Egra/contai,Rice,Coarse,FAQ,3700,3900,3800,04 Dec 2024
+65,Medinipur(E),Egra/contai,Rice,Coarse,FAQ,3700,3900,3800,05 Dec 2024
+66,Medinipur(E),Egra/contai,Rice,Fine,FAQ,4300,4500,4400,04 Dec 2024
+67,Medinipur(E),Egra/contai,Rice,Fine,FAQ,4300,4500,4400,05 Dec 2024
+68,Malda,English Bazar,Rice,Common,FAQ,3900,4100,4000,04 Dec 2024
+69,Malda,English Bazar,Rice,Common,FAQ,3900,4100,4000,06 Dec 2024
+70,Malda,English Bazar,Rice,Common,FAQ,4000,4200,4100,05 Dec 2024
+71,Malda,Gajol,Rice,Common,FAQ,4100,4300,4200,04 Dec 2024
+72,Malda,Gajol,Rice,Common,FAQ,4150,4350,4250,06 Dec 2024
+73,Malda,Gajol,Rice,Other,FAQ,4150,4350,4250,07 Dec 2024
+74,Medinipur(W),Garbeta(Medinipur),Rice,Common,FAQ,3500,3900,3700,04 Dec 2024
+75,Medinipur(W),Garbeta(Medinipur),Rice,Common,FAQ,3500,3900,3700,05 Dec 2024
+76,Medinipur(W),Garbeta(Medinipur),Rice,Common,FAQ,3500,3900,3700,06 Dec 2024
+77,Medinipur(W),Garbeta(Medinipur),Rice,Fine,FAQ,3900,4300,4100,04 Dec 2024
+78,Medinipur(W),Garbeta(Medinipur),Rice,Fine,FAQ,3900,4300,4100,05 Dec 2024
+79,Medinipur(W),Garbeta(Medinipur),Rice,Fine,FAQ,3900,4300,4100,06 Dec 2024
+80,Medinipur(W),Ghatal,Rice,Common,FAQ,3600,3900,3700,04 Dec 2024
+81,Medinipur(W),Ghatal,Rice,Common,FAQ,3600,3900,3700,05 Dec 2024
+82,Medinipur(W),Ghatal,Rice,Common,FAQ,3600,3900,3700,06 Dec 2024
+83,Bankura,Indus(Bankura Sadar),Rice,Fine,FAQ,4550,4650,4600,04 Dec 2024
+84,Bankura,Indus(Bankura Sadar),Rice,Fine,FAQ,4550,4650,4600,05 Dec 2024
+85,Bankura,Indus(Bankura Sadar),Rice,Fine,FAQ,4550,4650,4600,07 Dec 2024
+86,Bankura,Indus(Bankura Sadar),Rice,Fine,FAQ,4550,4700,4600,06 Dec 2024
+87,Uttar Dinajpur,Islampur,Rice,Fine,FAQ,3700,3900,3800,04 Dec 2024
+88,Uttar Dinajpur,Islampur,Rice,Fine,FAQ,3700,3900,3800,05 Dec 2024
+89,Uttar Dinajpur,Islampur,Rice,Fine,FAQ,3700,3900,3800,06 Dec 2024
+90,Murshidabad,Jangipur,Rice,Fine,FAQ,3640,3685,3660,08 Dec 2024
+91,Murshidabad,Jangipur,Rice,Fine,FAQ,3640,3685,3665,04 Dec 2024
+92,Murshidabad,Jangipur,Rice,Fine,FAQ,3640,3685,3665,05 Dec 2024
+93,Murshidabad,Jangipur,Rice,Fine,FAQ,3640,3685,3665,06 Dec 2024
+94,Murshidabad,Jangipur,Rice,Fine,FAQ,3640,3685,3665,07 Dec 2024
+95,Jhargram,Jhargram,Rice,Common,FAQ,3600,3800,3700,04 Dec 2024
+96,Jhargram,Jhargram,Rice,Common,FAQ,3600,4000,3800,05 Dec 2024
+97,Jhargram,Jhargram,Rice,Fine,FAQ,4000,4400,4200,04 Dec 2024
+98,Jhargram,Jhargram,Rice,Fine,FAQ,4200,4600,4400,05 Dec 2024
+99,Jhargram,Jhargram,Rice,Super Fine,FAQ,4600,5000,4800,04 Dec 2024
+100,Jhargram,Jhargram,Rice,Super Fine,FAQ,4800,5200,5000,05 Dec 2024
+101,Murshidabad,Jiaganj,Rice,Fine,FAQ,3550,3650,3600,05 Dec 2024
+102,Murshidabad,Jiaganj,Rice,Fine,FAQ,3650,3750,3700,04 Dec 2024
+103,Murshidabad,Jiaganj,Rice,Fine,FAQ,3650,3750,3700,06 Dec 2024
+104,Uttar Dinajpur,Kaliaganj,Rice,Fine,FAQ,3600,3800,3700,04 Dec 2024
+105,Uttar Dinajpur,Kaliaganj,Rice,Fine,FAQ,3600,3800,3700,05 Dec 2024
+106,Hooghly,Kalipur,Rice,Common,FAQ,3400,3500,3450,04 Dec 2024
+107,Hooghly,Kalipur,Rice,Common,FAQ,3400,3500,3450,05 Dec 2024
+108,Hooghly,Kalipur,Rice,Common,FAQ,3400,3500,3450,06 Dec 2024
+109,Hooghly,Kalipur,Rice,Fine,FAQ,4350,4450,4400,04 Dec 2024
+110,Hooghly,Kalipur,Rice,Fine,FAQ,4350,4450,4400,05 Dec 2024
+111,Hooghly,Kalipur,Rice,Fine,FAQ,4350,4450,4400,06 Dec 2024
+112,Purba Bardhaman,Kalna,Rice,Fine,FAQ,3980,4020,4000,04 Dec 2024
+113,Purba Bardhaman,Kalna,Rice,Fine,FAQ,3980,4020,4000,05 Dec 2024
+114,Purba Bardhaman,Kalna,Rice,Fine,FAQ,3980,4020,4000,06 Dec 2024
+115,Purba Bardhaman,Kalna,Rice,Fine,FAQ,3980,4020,4000,07 Dec 2024
+116,Purba Bardhaman,Kalna,Rice,Other,FAQ,3260,3300,3280,05 Dec 2024
+117,Purba Bardhaman,Kalna,Rice,Other,FAQ,3280,3320,3300,04 Dec 2024
+118,Purba Bardhaman,Kalna,Rice,Other,FAQ,3280,3320,3300,06 Dec 2024
+119,Purba Bardhaman,Kalna,Rice,Other,FAQ,3280,3320,3300,07 Dec 2024
+120,Nadia,Kalyani,Rice,Fine,FAQ,3350,3750,3550,04 Dec 2024
+121,Nadia,Kalyani,Rice,Fine,FAQ,3350,3750,3550,06 Dec 2024
+122,Nadia,Kalyani,Rice,Fine,FAQ,3350,3750,3550,07 Dec 2024
+123,Nadia,Kalyani,Rice,Fine,FAQ,3350,3750,3550,08 Dec 2024
+124,Nadia,Kalyani,Rice,Other,FAQ,2950,3350,3150,04 Dec 2024
+125,Nadia,Kalyani,Rice,Other,FAQ,2950,3350,3150,06 Dec 2024
+126,Nadia,Kalyani,Rice,Other,FAQ,2950,3350,3150,07 Dec 2024
+127,Nadia,Kalyani,Rice,Other,FAQ,2950,3350,3150,08 Dec 2024
+128,Nadia,Kalyani,Rice,Sona,FAQ,2350,2750,2550,04 Dec 2024
+129,Nadia,Kalyani,Rice,Sona,FAQ,2350,2750,2550,06 Dec 2024
+130,Nadia,Kalyani,Rice,Sona,FAQ,2350,2750,2550,07 Dec 2024
+131,Nadia,Kalyani,Rice,Sona,FAQ,2350,2750,2550,08 Dec 2024
+132,Murshidabad,Kandi,Rice,Common,FAQ,3550,3700,3600,04 Dec 2024
+133,Murshidabad,Kandi,Rice,Common,FAQ,3550,3700,3600,05 Dec 2024
+134,Murshidabad,Kandi,Rice,Common,FAQ,3550,3700,3600,06 Dec 2024
+135,Murshidabad,Kandi,Rice,Common,FAQ,3550,3700,3600,07 Dec 2024
+136,Nadia,Karimpur,Rice,Other,FAQ,4225,4300,4250,04 Dec 2024
+137,Nadia,Karimpur,Rice,Other,FAQ,4250,4290,4275,05 Dec 2024
+138,Nadia,Karimpur,Rice,Other,FAQ,4250,4300,4275,07 Dec 2024
+139,Darjeeling,Karsiyang(Matigara),Rice,Other,FAQ,4000,4500,4200,04 Dec 2024
+140,Darjeeling,Karsiyang(Matigara),Rice,Other,FAQ,4000,4500,4200,05 Dec 2024
+141,Darjeeling,Karsiyang(Matigara),Rice,Other,FAQ,4000,4500,4200,06 Dec 2024
+142,Darjeeling,Karsiyang(Matigara),Rice,Other,FAQ,4000,4500,4200,07 Dec 2024
+143,Darjeeling,Karsiyang(Matigara),Rice,Other,FAQ,4000,4500,4200,08 Dec 2024
+144,Murshidabad,Kasimbazar,Rice,Other,FAQ,3550,3700,3650,04 Dec 2024
+145,Murshidabad,Kasimbazar,Rice,Other,FAQ,3550,3700,3650,05 Dec 2024
+146,Murshidabad,Kasimbazar,Rice,Other,FAQ,3550,3700,3650,06 Dec 2024
+147,Murshidabad,Kasimbazar,Rice,Other,FAQ,3550,3700,3650,07 Dec 2024
+148,Bankura,Khatra,Rice,Common,FAQ,3550,3700,3600,04 Dec 2024
+149,Bankura,Khatra,Rice,Common,FAQ,3550,3700,3600,05 Dec 2024
+150,Bankura,Khatra,Rice,Common,FAQ,3550,3700,3600,06 Dec 2024
+151,Bankura,Khatra,Rice,Common,FAQ,3550,3700,3600,07 Dec 2024
+152,Medinipur(E),Kolaghat,Rice,Common,FAQ,3700,3900,3800,04 Dec 2024
+153,Medinipur(E),Kolaghat,Rice,Common,FAQ,3700,3900,3800,05 Dec 2024
+154,Medinipur(E),Kolaghat,Rice,Common,FAQ,3700,3900,3800,06 Dec 2024
+155,Medinipur(E),Kolaghat,Rice,Common,FAQ,3700,3900,3800,07 Dec 2024
+156,Medinipur(E),Kolaghat,Rice,Fine,FAQ,4000,4200,4100,07 Dec 2024
+157,Medinipur(E),Kolaghat,Rice,Fine,FAQ,4100,4300,4200,04 Dec 2024
+158,Medinipur(E),Kolaghat,Rice,Fine,FAQ,4100,4300,4200,05 Dec 2024
+159,Medinipur(E),Kolaghat,Rice,Fine,FAQ,4100,4300,4200,06 Dec 2024
+160,Murshidabad,Lalbagh,Rice,Other,FAQ,3750,3850,3800,04 Dec 2024
+161,Murshidabad,Lalbagh,Rice,Other,FAQ,3750,3850,3800,05 Dec 2024
+162,Murshidabad,Lalbagh,Rice,Other,FAQ,3750,3850,3800,06 Dec 2024
+163,Murshidabad,Lalbagh,Rice,Other,FAQ,3750,3850,3800,07 Dec 2024
+164,Medinipur(W),Medinipur(West),Rice,Common,FAQ,3500,3900,3700,04 Dec 2024
+165,Medinipur(W),Medinipur(West),Rice,Common,FAQ,3500,3900,3700,05 Dec 2024
+166,Medinipur(W),Medinipur(West),Rice,Common,FAQ,3500,3900,3700,06 Dec 2024
+167,Medinipur(W),Medinipur(West),Rice,Fine,FAQ,3900,4300,4100,04 Dec 2024
+168,Medinipur(W),Medinipur(West),Rice,Fine,FAQ,3900,4300,4100,05 Dec 2024
+169,Medinipur(W),Medinipur(West),Rice,Fine,FAQ,3900,4300,4100,06 Dec 2024
+170,Purba Bardhaman,Memari,Rice,Common,FAQ,3200,3400,3300,04 Dec 2024
+171,Purba Bardhaman,Memari,Rice,Common,FAQ,3200,3400,3300,05 Dec 2024
+172,Purba Bardhaman,Memari,Rice,Common,FAQ,3200,3400,3300,06 Dec 2024
+173,Purba Bardhaman,Memari,Rice,Common,FAQ,3200,3500,3400,07 Dec 2024
+174,Purba Bardhaman,Memari,Rice,Fine,FAQ,3500,3700,3600,04 Dec 2024
+175,Purba Bardhaman,Memari,Rice,Fine,FAQ,3500,3700,3600,05 Dec 2024
+176,Purba Bardhaman,Memari,Rice,Fine,FAQ,3500,3700,3600,06 Dec 2024
+177,Purba Bardhaman,Memari,Rice,Fine,FAQ,3500,3700,3600,07 Dec 2024
+178,Nadia,Nadia,Rice,Common,FAQ,3350,3600,3450,08 Dec 2024
+179,Nadia,Nadia,Rice,Common,FAQ,3400,3550,3400,07 Dec 2024
+180,Nadia,Nadia,Rice,Common,FAQ,3400,3600,3600,04 Dec 2024
+181,Nadia,Nadia,Rice,Common,FAQ,3400,3600,3600,05 Dec 2024
+182,Nadia,Nadia,Rice,Common,FAQ,3400,3600,3600,06 Dec 2024
+183,Hooghly,Pandua,Rice,Fine,FAQ,4350,4450,4400,04 Dec 2024
+184,Hooghly,Pandua,Rice,Fine,FAQ,4350,4450,4400,05 Dec 2024
+185,Hooghly,Pandua,Rice,Fine,FAQ,4350,4450,4400,06 Dec 2024
+186,Puruliya,Purulia,Rice,Other,FAQ,3660,3680,3680,07 Dec 2024
+187,Puruliya,Purulia,Rice,Other,FAQ,3660,3700,3660,06 Dec 2024
+188,Puruliya,Purulia,Rice,Other,FAQ,3660,3700,3680,08 Dec 2024
+189,Puruliya,Purulia,Rice,Other,FAQ,3700,3720,3700,04 Dec 2024
+190,Puruliya,Purulia,Rice,Other,FAQ,3700,3720,3700,05 Dec 2024
+191,Uttar Dinajpur,Raiganj,Rice,Fine,FAQ,3700,3900,3800,04 Dec 2024
+192,Uttar Dinajpur,Raiganj,Rice,Fine,FAQ,3700,3900,3800,05 Dec 2024
+193,Howrah,Ramkrishanpur(Howrah),Rice,Other,FAQ,3900,4100,4000,04 Dec 2024
+194,Howrah,Ramkrishanpur(Howrah),Rice,Other,FAQ,3900,4100,4000,05 Dec 2024
+195,Howrah,Ramkrishanpur(Howrah),Rice,Other,FAQ,3900,4100,4000,06 Dec 2024
+196,Howrah,Ramkrishanpur(Howrah),Rice,Sona Mansoori Non Basmati,FAQ,3500,3700,3600,04 Dec 2024
+197,Howrah,Ramkrishanpur(Howrah),Rice,Sona Mansoori Non Basmati,FAQ,3500,3700,3600,05 Dec 2024
+198,Howrah,Ramkrishanpur(Howrah),Rice,Sona Mansoori Non Basmati,FAQ,3500,3700,3600,06 Dec 2024
+199,Birbhum,Rampurhat,Rice,Common,FAQ,3350,3450,3400,04 Dec 2024
+200,Birbhum,Rampurhat,Rice,Common,FAQ,3350,3450,3400,05 Dec 2024
+201,Birbhum,Rampurhat,Rice,Common,FAQ,3350,3450,3400,06 Dec 2024
+202,Nadia,Ranaghat,Rice,Other,FAQ,4500,4650,4600,04 Dec 2024
+203,Nadia,Ranaghat,Rice,Other,FAQ,4500,4650,4600,05 Dec 2024
+204,Nadia,Ranaghat,Rice,Other,FAQ,4500,4650,4600,06 Dec 2024
+205,Nadia,Ranaghat,Rice,Other,FAQ,4500,4650,4600,07 Dec 2024
+206,Birbhum,Sainthia,Rice,Common,FAQ,3350,3450,3400,04 Dec 2024
+207,Birbhum,Sainthia,Rice,Common,FAQ,3350,3450,3400,05 Dec 2024
+208,Birbhum,Sainthia,Rice,Common,FAQ,3350,3450,3400,06 Dec 2024
+209,Birbhum,Sainthia,Rice,Common,FAQ,3350,3450,3400,07 Dec 2024
+210,Birbhum,Sainthia,Rice,Common,FAQ,3350,3450,3400,08 Dec 2024
+211,Malda,Samsi,Rice,Fine,FAQ,3900,4100,4000,04 Dec 2024
+212,Malda,Samsi,Rice,Fine,FAQ,4100,4300,4200,06 Dec 2024
+213,Darjeeling,Siliguri,Rice,Fine(Basmati),FAQ,4000,4500,4200,04 Dec 2024
+214,Darjeeling,Siliguri,Rice,Fine(Basmati),FAQ,4000,4500,4200,05 Dec 2024
+215,Darjeeling,Siliguri,Rice,Fine(Basmati),FAQ,4000,4500,4200,06 Dec 2024
+216,Darjeeling,Siliguri,Rice,Fine(Basmati),FAQ,4000,4500,4200,07 Dec 2024
+217,Darjeeling,Siliguri,Rice,Fine(Basmati),FAQ,4000,4500,4200,08 Dec 2024
+218,Medinipur(E),Tamluk (Medinipur E),Rice,Common,FAQ,3700,3900,3800,04 Dec 2024
+219,Medinipur(E),Tamluk (Medinipur E),Rice,Common,FAQ,3700,3900,3800,05 Dec 2024
+220,Medinipur(E),Tamluk (Medinipur E),Rice,Common,FAQ,3700,3900,3800,06 Dec 2024
+221,Medinipur(E),Tamluk (Medinipur E),Rice,Common,FAQ,3700,3900,3800,07 Dec 2024
+222,Medinipur(E),Tamluk (Medinipur E),Rice,Fine,FAQ,4000,4200,4100,07 Dec 2024
+223,Medinipur(E),Tamluk (Medinipur E),Rice,Fine,FAQ,4100,4300,4200,04 Dec 2024
+224,Medinipur(E),Tamluk (Medinipur E),Rice,Fine,FAQ,4100,4300,4200,05 Dec 2024
+225,Medinipur(E),Tamluk (Medinipur E),Rice,Fine,FAQ,4100,4300,4200,06 Dec 2024
+226,Howrah,Uluberia,Rice,Other,FAQ,3600,4000,3800,04 Dec 2024
+227,Howrah,Uluberia,Rice,Other,FAQ,3600,4000,3800,05 Dec 2024
+228,Howrah,Uluberia,Rice,Sona Mansoori Non Basmati,FAQ,3300,3500,3400,04 Dec 2024
+229,Howrah,Uluberia,Rice,Sona Mansoori Non Basmati,FAQ,3300,3500,3400,05 Dec 2024

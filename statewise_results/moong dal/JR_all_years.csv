@@ -1,167 +1,211 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,01 Dec 2018,2018,Dec,1,2018-12-01
-1,1.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,01 Feb 2019,2019,Feb,1,2019-02-01
-2,2.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,01 Jan 2019,2019,Jan,1,2019-01-01
-3,3.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,02 Dec 2018,2018,Dec,2,2018-12-02
-4,4.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,02 Feb 2019,2019,Feb,2,2019-02-02
-5,5.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,02 Jan 2019,2019,Jan,2,2019-01-02
-6,6.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,03 Dec 2018,2018,Dec,3,2018-12-03
-7,7.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,03 Feb 2019,2019,Feb,3,2019-02-03
-8,8.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,03 Jan 2019,2019,Jan,3,2019-01-03
-9,9.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,04 Feb 2019,2019,Feb,4,2019-02-04
-10,10.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,05 Feb 2019,2019,Feb,5,2019-02-05
-11,11.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,07 Mar 2019,2019,Mar,7,2019-03-07
-12,12.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,08 Jan 2019,2019,Jan,8,2019-01-08
-13,13.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,09 Jan 2019,2019,Jan,9,2019-01-09
-14,14.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,10 Jan 2019,2019,Jan,10,2019-01-10
-15,15.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,16 Jan 2019,2019,Jan,16,2019-01-16
-16,16.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,17 Jan 2019,2019,Jan,17,2019-01-17
-17,17.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,18 Jan 2019,2019,Jan,18,2019-01-18
-18,18.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,19 Feb 2019,2019,Feb,19,2019-02-19
-19,19.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,19 Jan 2019,2019,Jan,19,2019-01-19
-20,20.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,20 Feb 2019,2019,Feb,20,2019-02-20
-21,21.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,20 Jan 2019,2019,Jan,20,2019-01-20
-22,22.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,21 Feb 2019,2019,Feb,21,2019-02-21
-23,23.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,21 Jan 2019,2019,Jan,21,2019-01-21
-24,24.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,22 Dec 2018,2018,Dec,22,2018-12-22
-25,25.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,22 Feb 2019,2019,Feb,22,2019-02-22
-26,26.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,22 Jan 2019,2019,Jan,22,2019-01-22
-27,27.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,23 Dec 2018,2018,Dec,23,2018-12-23
-28,28.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,23 Feb 2019,2019,Feb,23,2019-02-23
-29,29.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,23 Jan 2019,2019,Jan,23,2019-01-23
-30,30.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,24 Dec 2018,2018,Dec,24,2018-12-24
-31,31.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,24 Feb 2019,2019,Feb,24,2019-02-24
-32,32.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,25 Dec 2018,2018,Dec,25,2018-12-25
-33,33.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,25 Feb 2019,2019,Feb,25,2019-02-25
-34,34.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,25 Jan 2019,2019,Jan,25,2019-01-25
-35,35.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,26 Dec 2018,2018,Dec,26,2018-12-26
-36,36.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,26 Jan 2019,2019,Jan,26,2019-01-26
-37,37.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,27 Dec 2018,2018,Dec,27,2018-12-27
-38,38.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,27 Jan 2019,2019,Jan,27,2019-01-27
-39,39.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,28 Jan 2019,2019,Jan,28,2019-01-28
-40,40.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,29 Jan 2019,2019,Jan,29,2019-01-29
-41,41.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,30 Jan 2019,2019,Jan,30,2019-01-30
-42,42.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,31 Jan 2019,2019,Jan,31,2019-01-31
-43,43.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7700,7900,7800,06 Nov 2018,2018,Nov,6,2018-11-06
-44,44.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4250,4550,4500,16 Sep 2014,2014,Sep,16,2014-09-16
-45,45.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4300,4450,4400,04 Sep 2014,2014,Sep,4,2014-09-04
-46,46.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4300,4450,4400,05 Sep 2014,2014,Sep,5,2014-09-05
-47,47.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,02 Sep 2014,2014,Sep,2,2014-09-02
-48,48.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,03 Sep 2014,2014,Sep,3,2014-09-03
-49,49.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,22 Sep 2014,2014,Sep,22,2014-09-22
-50,50.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,06 Sep 2014,2014,Sep,6,2014-09-06
-51,51.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,07 Sep 2014,2014,Sep,7,2014-09-07
-52,52.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,08 Sep 2014,2014,Sep,8,2014-09-08
-53,53.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,09 Sep 2014,2014,Sep,9,2014-09-09
-54,54.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,10 Sep 2014,2014,Sep,10,2014-09-10
-55,55.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,11 Sep 2014,2014,Sep,11,2014-09-11
-56,56.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,12 Sep 2014,2014,Sep,12,2014-09-12
-57,57.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,13 Sep 2014,2014,Sep,13,2014-09-13
-58,58.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,14 Sep 2014,2014,Sep,14,2014-09-14
-59,59.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,15 Sep 2014,2014,Sep,15,2014-09-15
-60,60.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4550,4450,20 Sep 2014,2014,Sep,20,2014-09-20
-61,61.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4550,4450,21 Sep 2014,2014,Sep,21,2014-09-21
-62,62.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,17 Sep 2014,2014,Sep,17,2014-09-17
-63,63.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,18 Sep 2014,2014,Sep,18,2014-09-18
-64,64.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,19 Sep 2014,2014,Sep,19,2014-09-19
-65,65.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,23 Sep 2014,2014,Sep,23,2014-09-23
-66,66.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8400,8100,22 Sep 2014,2014,Sep,22,2014-09-22
-67,67.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8050,8450,8100,01 Sep 2014,2014,Sep,1,2014-09-01
-68,68.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,02 Sep 2014,2014,Sep,2,2014-09-02
-69,69.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,03 Sep 2014,2014,Sep,3,2014-09-03
-70,70.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,04 Sep 2014,2014,Sep,4,2014-09-04
-71,71.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,06 Sep 2014,2014,Sep,6,2014-09-06
-72,72.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,08 Sep 2014,2014,Sep,8,2014-09-08
-73,73.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,10 Sep 2014,2014,Sep,10,2014-09-10
-74,74.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,11 Sep 2014,2014,Sep,11,2014-09-11
-75,75.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,12 Sep 2014,2014,Sep,12,2014-09-12
-76,76.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,13 Sep 2014,2014,Sep,13,2014-09-13
-77,77.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,15 Sep 2014,2014,Sep,15,2014-09-15
-78,78.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,16 Sep 2014,2014,Sep,16,2014-09-16
-79,79.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,17 Sep 2014,2014,Sep,17,2014-09-17
-80,80.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,18 Sep 2014,2014,Sep,18,2014-09-18
-81,81.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,19 Sep 2014,2014,Sep,19,2014-09-19
-82,82.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,20 Sep 2014,2014,Sep,20,2014-09-20
-83,83.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,23 Sep 2014,2014,Sep,23,2014-09-23
-84,84.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,27 Sep 2014,2014,Sep,27,2014-09-27
-85,85.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,29 Sep 2014,2014,Sep,29,2014-09-29
-86,86.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,30 Sep 2014,2014,Sep,30,2014-09-30
-87,87.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8200,8550,8250,24 Sep 2014,2014,Sep,24,2014-09-24
-88,88.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8200,8550,8250,26 Sep 2014,2014,Sep,26,2014-09-26
-89,89.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,03 Sep 2014,2014,Sep,3,2014-09-03
-90,90.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,04 Sep 2014,2014,Sep,4,2014-09-04
-91,91.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,06 Sep 2014,2014,Sep,6,2014-09-06
-92,92.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,07 Sep 2014,2014,Sep,7,2014-09-07
-93,93.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,10 Sep 2014,2014,Sep,10,2014-09-10
-94,94.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,11 Sep 2014,2014,Sep,11,2014-09-11
-95,95.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8200,8000,27 Sep 2014,2014,Sep,27,2014-09-27
-96,96.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8200,8000,28 Sep 2014,2014,Sep,28,2014-09-28
-97,97.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,20 Sep 2014,2014,Sep,20,2014-09-20
-98,98.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,21 Sep 2014,2014,Sep,21,2014-09-21
-99,99.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,24 Sep 2014,2014,Sep,24,2014-09-24
-100,100.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,25 Sep 2014,2014,Sep,25,2014-09-25
-101,101.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,13 Sep 2014,2014,Sep,13,2014-09-13
-102,102.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,14 Sep 2014,2014,Sep,14,2014-09-14
-103,103.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,17 Sep 2014,2014,Sep,17,2014-09-17
-104,104.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,18 Sep 2014,2014,Sep,18,2014-09-18
-105,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4250,4550,4500,16 Sep 2014,2014,Sep,16,2014-09-16
-106,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4300,4450,4400,04 Sep 2014,2014,Sep,4,2014-09-04
-107,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4300,4450,4400,05 Sep 2014,2014,Sep,5,2014-09-05
-108,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,02 Sep 2014,2014,Sep,2,2014-09-02
-109,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,03 Sep 2014,2014,Sep,3,2014-09-03
-110,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,22 Sep 2014,2014,Sep,22,2014-09-22
-111,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,06 Sep 2014,2014,Sep,6,2014-09-06
-112,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,07 Sep 2014,2014,Sep,7,2014-09-07
-113,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,08 Sep 2014,2014,Sep,8,2014-09-08
-114,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,09 Sep 2014,2014,Sep,9,2014-09-09
-115,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,10 Sep 2014,2014,Sep,10,2014-09-10
-116,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,11 Sep 2014,2014,Sep,11,2014-09-11
-117,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,12 Sep 2014,2014,Sep,12,2014-09-12
-118,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,13 Sep 2014,2014,Sep,13,2014-09-13
-119,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,14 Sep 2014,2014,Sep,14,2014-09-14
-120,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,15 Sep 2014,2014,Sep,15,2014-09-15
-121,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4550,4450,20 Sep 2014,2014,Sep,20,2014-09-20
-122,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4550,4450,21 Sep 2014,2014,Sep,21,2014-09-21
-123,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,17 Sep 2014,2014,Sep,17,2014-09-17
-124,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,18 Sep 2014,2014,Sep,18,2014-09-18
-125,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,19 Sep 2014,2014,Sep,19,2014-09-19
-126,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,23 Sep 2014,2014,Sep,23,2014-09-23
-127,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8400,8100,22 Sep 2014,2014,Sep,22,2014-09-22
-128,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8050,8450,8100,01 Sep 2014,2014,Sep,1,2014-09-01
-129,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,02 Sep 2014,2014,Sep,2,2014-09-02
-130,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,03 Sep 2014,2014,Sep,3,2014-09-03
-131,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,04 Sep 2014,2014,Sep,4,2014-09-04
-132,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,06 Sep 2014,2014,Sep,6,2014-09-06
-133,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,08 Sep 2014,2014,Sep,8,2014-09-08
-134,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,10 Sep 2014,2014,Sep,10,2014-09-10
-135,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,11 Sep 2014,2014,Sep,11,2014-09-11
-136,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,12 Sep 2014,2014,Sep,12,2014-09-12
-137,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,13 Sep 2014,2014,Sep,13,2014-09-13
-138,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,15 Sep 2014,2014,Sep,15,2014-09-15
-139,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,16 Sep 2014,2014,Sep,16,2014-09-16
-140,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,17 Sep 2014,2014,Sep,17,2014-09-17
-141,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,18 Sep 2014,2014,Sep,18,2014-09-18
-142,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,19 Sep 2014,2014,Sep,19,2014-09-19
-143,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,20 Sep 2014,2014,Sep,20,2014-09-20
-144,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,23 Sep 2014,2014,Sep,23,2014-09-23
-145,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,27 Sep 2014,2014,Sep,27,2014-09-27
-146,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,29 Sep 2014,2014,Sep,29,2014-09-29
-147,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,30 Sep 2014,2014,Sep,30,2014-09-30
-148,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8200,8550,8250,24 Sep 2014,2014,Sep,24,2014-09-24
-149,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8200,8550,8250,26 Sep 2014,2014,Sep,26,2014-09-26
-150,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,03 Sep 2014,2014,Sep,3,2014-09-03
-151,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,04 Sep 2014,2014,Sep,4,2014-09-04
-152,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,06 Sep 2014,2014,Sep,6,2014-09-06
-153,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,07 Sep 2014,2014,Sep,7,2014-09-07
-154,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,10 Sep 2014,2014,Sep,10,2014-09-10
-155,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,11 Sep 2014,2014,Sep,11,2014-09-11
-156,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8200,8000,27 Sep 2014,2014,Sep,27,2014-09-27
-157,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8200,8000,28 Sep 2014,2014,Sep,28,2014-09-28
-158,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,20 Sep 2014,2014,Sep,20,2014-09-20
-159,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,21 Sep 2014,2014,Sep,21,2014-09-21
-160,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,24 Sep 2014,2014,Sep,24,2014-09-24
-161,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,25 Sep 2014,2014,Sep,25,2014-09-25
-162,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,13 Sep 2014,2014,Sep,13,2014-09-13
-163,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,14 Sep 2014,2014,Sep,14,2014-09-14
-164,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,17 Sep 2014,2014,Sep,17,2014-09-17
-165,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,18 Sep 2014,2014,Sep,18,2014-09-18
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,01 Dec 2018,2018,Dec,1,2018-12-01
+1,1.0,1.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,01 Feb 2019,2019,Feb,1,2019-02-01
+2,2.0,2.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,01 Jan 2019,2019,Jan,1,2019-01-01
+3,3.0,3.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,02 Dec 2018,2018,Dec,2,2018-12-02
+4,4.0,4.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,02 Feb 2019,2019,Feb,2,2019-02-02
+5,5.0,5.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,02 Jan 2019,2019,Jan,2,2019-01-02
+6,6.0,6.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,03 Dec 2018,2018,Dec,3,2018-12-03
+7,7.0,7.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,03 Feb 2019,2019,Feb,3,2019-02-03
+8,8.0,8.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,03 Jan 2019,2019,Jan,3,2019-01-03
+9,9.0,9.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,04 Feb 2019,2019,Feb,4,2019-02-04
+10,10.0,10.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,05 Feb 2019,2019,Feb,5,2019-02-05
+11,11.0,11.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,07 Mar 2019,2019,Mar,7,2019-03-07
+12,12.0,12.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,08 Jan 2019,2019,Jan,8,2019-01-08
+13,13.0,13.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,09 Jan 2019,2019,Jan,9,2019-01-09
+14,14.0,14.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,10 Jan 2019,2019,Jan,10,2019-01-10
+15,15.0,15.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,16 Jan 2019,2019,Jan,16,2019-01-16
+16,16.0,16.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,17 Jan 2019,2019,Jan,17,2019-01-17
+17,17.0,17.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,18 Jan 2019,2019,Jan,18,2019-01-18
+18,18.0,18.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,19 Feb 2019,2019,Feb,19,2019-02-19
+19,19.0,19.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,19 Jan 2019,2019,Jan,19,2019-01-19
+20,20.0,20.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,20 Feb 2019,2019,Feb,20,2019-02-20
+21,21.0,21.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,20 Jan 2019,2019,Jan,20,2019-01-20
+22,22.0,22.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,21 Feb 2019,2019,Feb,21,2019-02-21
+23,23.0,23.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,21 Jan 2019,2019,Jan,21,2019-01-21
+24,24.0,24.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,22 Dec 2018,2018,Dec,22,2018-12-22
+25,25.0,25.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,22 Feb 2019,2019,Feb,22,2019-02-22
+26,26.0,26.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,22 Jan 2019,2019,Jan,22,2019-01-22
+27,27.0,27.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,23 Dec 2018,2018,Dec,23,2018-12-23
+28,28.0,28.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,23 Feb 2019,2019,Feb,23,2019-02-23
+29,29.0,29.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,23 Jan 2019,2019,Jan,23,2019-01-23
+30,30.0,30.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,24 Dec 2018,2018,Dec,24,2018-12-24
+31,31.0,31.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,24 Feb 2019,2019,Feb,24,2019-02-24
+32,32.0,32.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,25 Dec 2018,2018,Dec,25,2018-12-25
+33,33.0,33.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,25 Feb 2019,2019,Feb,25,2019-02-25
+34,34.0,34.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,25 Jan 2019,2019,Jan,25,2019-01-25
+35,35.0,35.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,26 Dec 2018,2018,Dec,26,2018-12-26
+36,36.0,36.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,26 Jan 2019,2019,Jan,26,2019-01-26
+37,37.0,37.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,27 Dec 2018,2018,Dec,27,2018-12-27
+38,38.0,38.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,27 Jan 2019,2019,Jan,27,2019-01-27
+39,39.0,39.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,28 Jan 2019,2019,Jan,28,2019-01-28
+40,40.0,40.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,29 Jan 2019,2019,Jan,29,2019-01-29
+41,41.0,41.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,30 Jan 2019,2019,Jan,30,2019-01-30
+42,42.0,42.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,31 Jan 2019,2019,Jan,31,2019-01-31
+43,43.0,43.0,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7700,7900,7800,06 Nov 2018,2018,Nov,6,2018-11-06
+44,44.0,44.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4250,4550,4500,16 Sep 2014,2014,Sep,16,2014-09-16
+45,45.0,45.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4300,4450,4400,04 Sep 2014,2014,Sep,4,2014-09-04
+46,46.0,46.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4300,4450,4400,05 Sep 2014,2014,Sep,5,2014-09-05
+47,47.0,47.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,02 Sep 2014,2014,Sep,2,2014-09-02
+48,48.0,48.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,03 Sep 2014,2014,Sep,3,2014-09-03
+49,49.0,49.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,22 Sep 2014,2014,Sep,22,2014-09-22
+50,50.0,50.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,06 Sep 2014,2014,Sep,6,2014-09-06
+51,51.0,51.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,07 Sep 2014,2014,Sep,7,2014-09-07
+52,52.0,52.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,08 Sep 2014,2014,Sep,8,2014-09-08
+53,53.0,53.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,09 Sep 2014,2014,Sep,9,2014-09-09
+54,54.0,54.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,10 Sep 2014,2014,Sep,10,2014-09-10
+55,55.0,55.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,11 Sep 2014,2014,Sep,11,2014-09-11
+56,56.0,56.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,12 Sep 2014,2014,Sep,12,2014-09-12
+57,57.0,57.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,13 Sep 2014,2014,Sep,13,2014-09-13
+58,58.0,58.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,14 Sep 2014,2014,Sep,14,2014-09-14
+59,59.0,59.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,15 Sep 2014,2014,Sep,15,2014-09-15
+60,60.0,60.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4550,4450,20 Sep 2014,2014,Sep,20,2014-09-20
+61,61.0,61.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4550,4450,21 Sep 2014,2014,Sep,21,2014-09-21
+62,62.0,62.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,17 Sep 2014,2014,Sep,17,2014-09-17
+63,63.0,63.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,18 Sep 2014,2014,Sep,18,2014-09-18
+64,64.0,64.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,19 Sep 2014,2014,Sep,19,2014-09-19
+65,65.0,65.0,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,23 Sep 2014,2014,Sep,23,2014-09-23
+66,66.0,66.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8400,8100,22 Sep 2014,2014,Sep,22,2014-09-22
+67,67.0,67.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8050,8450,8100,01 Sep 2014,2014,Sep,1,2014-09-01
+68,68.0,68.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,02 Sep 2014,2014,Sep,2,2014-09-02
+69,69.0,69.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,03 Sep 2014,2014,Sep,3,2014-09-03
+70,70.0,70.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,04 Sep 2014,2014,Sep,4,2014-09-04
+71,71.0,71.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,06 Sep 2014,2014,Sep,6,2014-09-06
+72,72.0,72.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,08 Sep 2014,2014,Sep,8,2014-09-08
+73,73.0,73.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,10 Sep 2014,2014,Sep,10,2014-09-10
+74,74.0,74.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,11 Sep 2014,2014,Sep,11,2014-09-11
+75,75.0,75.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,12 Sep 2014,2014,Sep,12,2014-09-12
+76,76.0,76.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,13 Sep 2014,2014,Sep,13,2014-09-13
+77,77.0,77.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,15 Sep 2014,2014,Sep,15,2014-09-15
+78,78.0,78.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,16 Sep 2014,2014,Sep,16,2014-09-16
+79,79.0,79.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,17 Sep 2014,2014,Sep,17,2014-09-17
+80,80.0,80.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,18 Sep 2014,2014,Sep,18,2014-09-18
+81,81.0,81.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,19 Sep 2014,2014,Sep,19,2014-09-19
+82,82.0,82.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,20 Sep 2014,2014,Sep,20,2014-09-20
+83,83.0,83.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,23 Sep 2014,2014,Sep,23,2014-09-23
+84,84.0,84.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,27 Sep 2014,2014,Sep,27,2014-09-27
+85,85.0,85.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,29 Sep 2014,2014,Sep,29,2014-09-29
+86,86.0,86.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,30 Sep 2014,2014,Sep,30,2014-09-30
+87,87.0,87.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8200,8550,8250,24 Sep 2014,2014,Sep,24,2014-09-24
+88,88.0,88.0,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8200,8550,8250,26 Sep 2014,2014,Sep,26,2014-09-26
+89,89.0,89.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,03 Sep 2014,2014,Sep,3,2014-09-03
+90,90.0,90.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,04 Sep 2014,2014,Sep,4,2014-09-04
+91,91.0,91.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,06 Sep 2014,2014,Sep,6,2014-09-06
+92,92.0,92.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,07 Sep 2014,2014,Sep,7,2014-09-07
+93,93.0,93.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,10 Sep 2014,2014,Sep,10,2014-09-10
+94,94.0,94.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,11 Sep 2014,2014,Sep,11,2014-09-11
+95,95.0,95.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8200,8000,27 Sep 2014,2014,Sep,27,2014-09-27
+96,96.0,96.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8200,8000,28 Sep 2014,2014,Sep,28,2014-09-28
+97,97.0,97.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,20 Sep 2014,2014,Sep,20,2014-09-20
+98,98.0,98.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,21 Sep 2014,2014,Sep,21,2014-09-21
+99,99.0,99.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,24 Sep 2014,2014,Sep,24,2014-09-24
+100,100.0,100.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,25 Sep 2014,2014,Sep,25,2014-09-25
+101,101.0,101.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,13 Sep 2014,2014,Sep,13,2014-09-13
+102,102.0,102.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,14 Sep 2014,2014,Sep,14,2014-09-14
+103,103.0,103.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,17 Sep 2014,2014,Sep,17,2014-09-17
+104,104.0,104.0,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,18 Sep 2014,2014,Sep,18,2014-09-18
+105,105.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4250,4550,4500,16 Sep 2014,2014,Sep,16,2014-09-16
+106,106.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4300,4450,4400,04 Sep 2014,2014,Sep,4,2014-09-04
+107,107.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4300,4450,4400,05 Sep 2014,2014,Sep,5,2014-09-05
+108,108.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,02 Sep 2014,2014,Sep,2,2014-09-02
+109,109.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,03 Sep 2014,2014,Sep,3,2014-09-03
+110,110.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4350,4450,4400,22 Sep 2014,2014,Sep,22,2014-09-22
+111,111.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,06 Sep 2014,2014,Sep,6,2014-09-06
+112,112.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,07 Sep 2014,2014,Sep,7,2014-09-07
+113,113.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,08 Sep 2014,2014,Sep,8,2014-09-08
+114,114.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,09 Sep 2014,2014,Sep,9,2014-09-09
+115,115.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,10 Sep 2014,2014,Sep,10,2014-09-10
+116,116.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,11 Sep 2014,2014,Sep,11,2014-09-11
+117,117.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,12 Sep 2014,2014,Sep,12,2014-09-12
+118,118.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,13 Sep 2014,2014,Sep,13,2014-09-13
+119,119.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,14 Sep 2014,2014,Sep,14,2014-09-14
+120,120.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4500,4450,15 Sep 2014,2014,Sep,15,2014-09-15
+121,121.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4550,4450,20 Sep 2014,2014,Sep,20,2014-09-20
+122,122.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4400,4550,4450,21 Sep 2014,2014,Sep,21,2014-09-21
+123,123.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,17 Sep 2014,2014,Sep,17,2014-09-17
+124,124.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,18 Sep 2014,2014,Sep,18,2014-09-18
+125,125.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,19 Sep 2014,2014,Sep,19,2014-09-19
+126,126.0,,Bokaro,Bokaro (Chas),Green Gram Dal (Moong Dal),Other,FAQ,4450,4550,4500,23 Sep 2014,2014,Sep,23,2014-09-23
+127,127.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8000,8400,8100,22 Sep 2014,2014,Sep,22,2014-09-22
+128,128.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8050,8450,8100,01 Sep 2014,2014,Sep,1,2014-09-01
+129,129.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,02 Sep 2014,2014,Sep,2,2014-09-02
+130,130.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,03 Sep 2014,2014,Sep,3,2014-09-03
+131,131.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,04 Sep 2014,2014,Sep,4,2014-09-04
+132,132.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,06 Sep 2014,2014,Sep,6,2014-09-06
+133,133.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,08 Sep 2014,2014,Sep,8,2014-09-08
+134,134.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,10 Sep 2014,2014,Sep,10,2014-09-10
+135,135.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,11 Sep 2014,2014,Sep,11,2014-09-11
+136,136.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,12 Sep 2014,2014,Sep,12,2014-09-12
+137,137.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,13 Sep 2014,2014,Sep,13,2014-09-13
+138,138.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,15 Sep 2014,2014,Sep,15,2014-09-15
+139,139.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,16 Sep 2014,2014,Sep,16,2014-09-16
+140,140.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,17 Sep 2014,2014,Sep,17,2014-09-17
+141,141.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,18 Sep 2014,2014,Sep,18,2014-09-18
+142,142.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,19 Sep 2014,2014,Sep,19,2014-09-19
+143,143.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,20 Sep 2014,2014,Sep,20,2014-09-20
+144,144.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,23 Sep 2014,2014,Sep,23,2014-09-23
+145,145.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,27 Sep 2014,2014,Sep,27,2014-09-27
+146,146.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,29 Sep 2014,2014,Sep,29,2014-09-29
+147,147.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8150,8500,8200,30 Sep 2014,2014,Sep,30,2014-09-30
+148,148.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8200,8550,8250,24 Sep 2014,2014,Sep,24,2014-09-24
+149,149.0,,West Singbhum,Chaibasa,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,8200,8550,8250,26 Sep 2014,2014,Sep,26,2014-09-26
+150,150.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,03 Sep 2014,2014,Sep,3,2014-09-03
+151,151.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,04 Sep 2014,2014,Sep,4,2014-09-04
+152,152.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,06 Sep 2014,2014,Sep,6,2014-09-06
+153,153.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,07 Sep 2014,2014,Sep,7,2014-09-07
+154,154.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,10 Sep 2014,2014,Sep,10,2014-09-10
+155,155.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8000,8000,11 Sep 2014,2014,Sep,11,2014-09-11
+156,156.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8200,8000,27 Sep 2014,2014,Sep,27,2014-09-27
+157,157.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7000,8200,8000,28 Sep 2014,2014,Sep,28,2014-09-28
+158,158.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,20 Sep 2014,2014,Sep,20,2014-09-20
+159,159.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,21 Sep 2014,2014,Sep,21,2014-09-21
+160,160.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,24 Sep 2014,2014,Sep,24,2014-09-24
+161,161.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7400,8000,7800,25 Sep 2014,2014,Sep,25,2014-09-25
+162,162.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,13 Sep 2014,2014,Sep,13,2014-09-13
+163,163.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,14 Sep 2014,2014,Sep,14,2014-09-14
+164,164.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,17 Sep 2014,2014,Sep,17,2014-09-17
+165,165.0,,Sahebgang,Sahebganj,Green Gram Dal (Moong Dal),Other,FAQ,7800,8400,8000,18 Sep 2014,2014,Sep,18,2014-09-18
+166,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,01 Dec 2018,2018,Dec,1,2018-12-01
+167,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,01 Feb 2019,2019,Feb,1,2019-02-01
+168,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,01 Jan 2019,2019,Jan,1,2019-01-01
+169,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,02 Dec 2018,2018,Dec,2,2018-12-02
+170,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,02 Feb 2019,2019,Feb,2,2019-02-02
+171,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,02 Jan 2019,2019,Jan,2,2019-01-02
+172,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,03 Dec 2018,2018,Dec,3,2018-12-03
+173,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,03 Feb 2019,2019,Feb,3,2019-02-03
+174,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,03 Jan 2019,2019,Jan,3,2019-01-03
+175,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,04 Feb 2019,2019,Feb,4,2019-02-04
+176,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,05 Feb 2019,2019,Feb,5,2019-02-05
+177,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,07 Mar 2019,2019,Mar,7,2019-03-07
+178,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,08 Jan 2019,2019,Jan,8,2019-01-08
+179,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,09 Jan 2019,2019,Jan,9,2019-01-09
+180,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,10 Jan 2019,2019,Jan,10,2019-01-10
+181,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,16 Jan 2019,2019,Jan,16,2019-01-16
+182,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,17 Jan 2019,2019,Jan,17,2019-01-17
+183,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,18 Jan 2019,2019,Jan,18,2019-01-18
+184,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,19 Feb 2019,2019,Feb,19,2019-02-19
+185,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,19 Jan 2019,2019,Jan,19,2019-01-19
+186,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,20 Feb 2019,2019,Feb,20,2019-02-20
+187,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,20 Jan 2019,2019,Jan,20,2019-01-20
+188,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,21 Feb 2019,2019,Feb,21,2019-02-21
+189,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,21 Jan 2019,2019,Jan,21,2019-01-21
+190,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,22 Dec 2018,2018,Dec,22,2018-12-22
+191,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,22 Feb 2019,2019,Feb,22,2019-02-22
+192,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,22 Jan 2019,2019,Jan,22,2019-01-22
+193,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,23 Dec 2018,2018,Dec,23,2018-12-23
+194,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,23 Feb 2019,2019,Feb,23,2019-02-23
+195,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,23 Jan 2019,2019,Jan,23,2019-01-23
+196,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,24 Dec 2018,2018,Dec,24,2018-12-24
+197,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,24 Feb 2019,2019,Feb,24,2019-02-24
+198,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,25 Dec 2018,2018,Dec,25,2018-12-25
+199,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,25 Feb 2019,2019,Feb,25,2019-02-25
+200,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,25 Jan 2019,2019,Jan,25,2019-01-25
+201,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,26 Dec 2018,2018,Dec,26,2018-12-26
+202,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,26 Jan 2019,2019,Jan,26,2019-01-26
+203,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,27 Dec 2018,2018,Dec,27,2018-12-27
+204,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,27 Jan 2019,2019,Jan,27,2019-01-27
+205,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,28 Jan 2019,2019,Jan,28,2019-01-28
+206,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,29 Jan 2019,2019,Jan,29,2019-01-29
+207,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,30 Jan 2019,2019,Jan,30,2019-01-30
+208,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,6800,7000,6900,31 Jan 2019,2019,Jan,31,2019-01-31
+209,,,Pakur,Pakur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,7700,7900,7800,06 Nov 2018,2018,Nov,6,2018-11-06

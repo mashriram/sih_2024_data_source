@@ -1,0 +1,59 @@
+0,1,2,3,4,5,6,7,8,9
+1,Bangalore,Bangalore,Rice,Dappa,FAQ,3800,4200,4000,04 Dec 2024
+2,Bangalore,Bangalore,Rice,Dappa,FAQ,3800,4200,4000,06 Dec 2024
+3,Bangalore,Bangalore,Rice,Dappa,FAQ,3800,4200,4000,07 Dec 2024
+4,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6000,5700,04 Dec 2024
+5,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6000,5700,06 Dec 2024
+6,Bangalore,Bangalore,Rice,Fine,FAQ,5400,6000,5700,07 Dec 2024
+7,Bangalore,Bangalore,Rice,Medium,FAQ,4700,5600,5150,04 Dec 2024
+8,Bangalore,Bangalore,Rice,Medium,FAQ,4700,5600,5150,06 Dec 2024
+9,Bangalore,Bangalore,Rice,Medium,FAQ,4700,5600,5150,07 Dec 2024
+10,Kolar,Bangarpet,Rice,Broken Rice,FAQ,2700,3000,2900,05 Dec 2024
+11,Kolar,Bangarpet,Rice,Broken Rice,FAQ,3000,3500,3300,04 Dec 2024
+12,Kolar,Bangarpet,Rice,Hansa,FAQ,6500,7300,6800,06 Dec 2024
+13,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3000,3500,3300,05 Dec 2024
+14,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3500,4000,3800,04 Dec 2024
+15,Kolar,Bangarpet,Rice,Sarbati Raw,FAQ,3500,4000,3800,06 Dec 2024
+16,Kolar,Bangarpet,Rice,Sona Fine,FAQ,5000,5500,5300,04 Dec 2024
+17,Shimoga,Bhadravathi,Rice,Medium,FAQ,2700,3050,2779,05 Dec 2024
+18,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3300,3000,06 Dec 2024
+19,Bidar,Bidar,Rice,Broken Rice,FAQ,2900,3300,3100,05 Dec 2024
+20,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5600,6500,5800,05 Dec 2024
+21,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5600,6500,5800,06 Dec 2024
+22,Bidar,Bidar,Rice,CR 1009 (Coarse) Boiled,FAQ,5700,6500,5800,07 Dec 2024
+23,Davangere,Davangere,Rice,Broken Rice,FAQ,2550,2550,2550,04 Dec 2024
+24,Davangere,Davangere,Rice,Medium,FAQ,2950,2950,2950,04 Dec 2024
+25,Davangere,Davangere,Rice,Medium,FAQ,4300,4300,4300,05 Dec 2024
+26,Davangere,Davangere,Rice,Medium,FAQ,5316,5316,5316,06 Dec 2024
+27,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2450,2520,2475,06 Dec 2024
+28,Koppal,Gangavathi,Rice,Broken Rice,FAQ,2480,2710,2480,05 Dec 2024
+29,Koppal,Gangavathi,Rice,Other,FAQ,3600,4810,4730,06 Dec 2024
+30,Koppal,Gangavathi,Rice,Other,FAQ,3700,3700,3700,05 Dec 2024
+31,Kalburgi,Kalburgi,Rice,Broken Rice,FAQ,3000,4200,3800,04 Dec 2024
+32,Kalburgi,Kalburgi,Rice,Coarse,FAQ,5800,6200,6000,04 Dec 2024
+33,Kalburgi,Kalburgi,Rice,Fine,FAQ,5000,6000,5500,04 Dec 2024
+34,Kolar,Malur,Rice,Sona,FAQ,4500,6000,5300,07 Dec 2024
+35,Karwar(Uttar Kannad),Mundgod,Rice,Broken Rice,FAQ,2800,2800,2800,04 Dec 2024
+36,Mysore,Mysore (Bandipalya),Rice,Broken Rice,FAQ,2900,3030,3030,05 Dec 2024
+37,Mysore,Mysore (Bandipalya),Rice,Fine,FAQ,5300,6950,6500,05 Dec 2024
+38,Mysore,Mysore (Bandipalya),Rice,Medium,FAQ,4350,5200,4800,05 Dec 2024
+39,Bangalore,Ramanagara,Rice,Fine,FAQ,4000,6000,5000,04 Dec 2024
+40,Belgaum,Sankeshwar,Rice,Other,FAQ,5800,6358,6200,07 Dec 2024
+41,Shimoga,Shimoga,Rice,Coarse,FAQ,4600,7500,6040,06 Dec 2024
+42,Shimoga,Shimoga,Rice,Coarse,FAQ,4600,7500,6050,04 Dec 2024
+43,Shimoga,Shimoga,Rice,Coarse,FAQ,4600,7500,6050,05 Dec 2024
+44,Shimoga,Shimoga,Rice,Coarse,FAQ,4600,7500,6050,07 Dec 2024
+45,Shimoga,Shimoga,Rice,Fine,FAQ,3800,5500,4650,04 Dec 2024
+46,Shimoga,Shimoga,Rice,Fine,FAQ,3800,5500,4650,05 Dec 2024
+47,Shimoga,Shimoga,Rice,Fine,FAQ,3800,5500,4650,07 Dec 2024
+48,Shimoga,Shimoga,Rice,Fine,FAQ,3800,5500,4660,06 Dec 2024
+49,Shimoga,Shimoga,Rice,Medium,FAQ,2105,3050,3000,05 Dec 2024
+50,Shimoga,Shimoga,Rice,Medium,FAQ,2105,3050,3000,06 Dec 2024
+51,Shimoga,Shimoga,Rice,Medium,FAQ,2105,3050,3000,07 Dec 2024
+52,Shimoga,Shimoga,Rice,Medium,FAQ,2150,3050,3000,04 Dec 2024
+53,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2500,2500,2500,05 Dec 2024
+54,Raichur,Sindhanur,Rice,Broken Rice,FAQ,2700,2700,2700,04 Dec 2024
+55,Raichur,Sindhanur,Rice,Medium,FAQ,2810,2810,2810,05 Dec 2024
+56,Raichur,Sindhanur,Rice,Medium,FAQ,3700,3700,3700,06 Dec 2024
+57,Raichur,Sindhanur,Rice,Medium,FAQ,3800,4250,4250,04 Dec 2024
+58,Tumkur,Sira,Rice,Other,FAQ,3200,3200,3200,04 Dec 2024

@@ -1,0 +1,94 @@
+0,1,2,3,4,5,6,7,8,9
+1,Sirohi,Abu Road,Tomato,Other,FAQ,1975,2025,2000,04 Dec 2024
+2,Sirohi,Abu Road,Tomato,Other,FAQ,1975,2025,2000,05 Dec 2024
+3,Sirohi,Abu Road,Tomato,Other,FAQ,1975,2025,2000,06 Dec 2024
+4,Ajmer,Ajmer(F&V),Tomato,Other,FAQ,1800,3400,2600,06 Dec 2024
+5,Ajmer,Ajmer(F&V),Tomato,Other,FAQ,2000,3600,2800,05 Dec 2024
+6,Ajmer,Ajmer(F&V),Tomato,Other,FAQ,2200,3400,3000,04 Dec 2024
+7,Alwar,Alwar (F&V),Tomato,Other,FAQ,3400,4600,4000,04 Dec 2024
+8,Alwar,Alwar (F&V),Tomato,Other,FAQ,3400,4800,4000,05 Dec 2024
+9,Balotra,Balotra,Tomato,Deshi,FAQ,3400,3450,3425,06 Dec 2024
+10,Balotra,Balotra,Tomato,Deshi,FAQ,3400,3500,3450,04 Dec 2024
+11,Balotra,Balotra,Tomato,Deshi,FAQ,3400,3500,3450,07 Dec 2024
+12,Balotra,Balotra,Tomato,Deshi,FAQ,3400,3500,3480,05 Dec 2024
+13,Baran,Baran,Tomato,Other,FAQ,1000,1600,1400,08 Dec 2024
+14,Baran,Baran,Tomato,Other,FAQ,1000,1700,1500,07 Dec 2024
+15,Baran,Baran,Tomato,Other,FAQ,1000,1800,1500,05 Dec 2024
+16,Baran,Baran,Tomato,Other,FAQ,1000,1800,1500,06 Dec 2024
+17,Jaipur Rural,Bassi,Tomato,Other,FAQ,2800,3000,2900,07 Dec 2024
+18,Jaipur Rural,Bassi,Tomato,Other,FAQ,3200,3600,3400,06 Dec 2024
+19,Jaipur Rural,Bassi,Tomato,Other,FAQ,3400,3600,3500,04 Dec 2024
+20,Jaipur Rural,Bassi,Tomato,Other,FAQ,3600,3800,3700,05 Dec 2024
+21,Hanumangarh,Bhadara,Tomato,Deshi,FAQ,3500,4200,3700,05 Dec 2024
+22,Hanumangarh,Bhadara,Tomato,Deshi,FAQ,3500,4500,4286,06 Dec 2024
+23,Bhilwara,Bhilwara,Tomato,Other,FAQ,3000,3500,3250,04 Dec 2024
+24,Bhilwara,Bhilwara,Tomato,Other,FAQ,3000,3500,3250,05 Dec 2024
+25,Jalore,Bhinmal,Tomato,Other,FAQ,1500,1600,1550,05 Dec 2024
+26,Jalore,Bhinmal,Tomato,Other,FAQ,1600,1800,1700,04 Dec 2024
+27,Jalore,Bhinmal,Tomato,Other,FAQ,1600,1900,1750,07 Dec 2024
+28,Jalore,Bhinmal,Tomato,Other,FAQ,1700,1800,1750,06 Dec 2024
+29,Bikaner,Bikaner (F&V),Tomato,Other,FAQ,3100,3300,3200,06 Dec 2024
+30,Bikaner,Bikaner (F&V),Tomato,Other,FAQ,3400,3600,3500,04 Dec 2024
+31,Bikaner,Bikaner (F&V),Tomato,Other,FAQ,3400,3600,3500,05 Dec 2024
+32,Jaipur Rural,Chomu (F&V),Tomato,Other,FAQ,2500,3500,3000,04 Dec 2024
+33,Jaipur Rural,Chomu (F&V),Tomato,Other,FAQ,2500,3500,3000,05 Dec 2024
+34,Jaipur Rural,Chomu (F&V),Tomato,Other,FAQ,2500,3500,3000,06 Dec 2024
+35,Churu,Churu,Tomato,Hybrid,FAQ,3000,3200,3100,07 Dec 2024
+36,Churu,Churu,Tomato,Hybrid,FAQ,3200,3400,3300,06 Dec 2024
+37,Churu,Churu,Tomato,Hybrid,FAQ,3200,3600,3400,05 Dec 2024
+38,Churu,Churu,Tomato,Hybrid,FAQ,3400,3600,3500,04 Dec 2024
+39,Dungarpur,Dungarpur,Tomato,Tomato,FAQ,1325,1400,1360,04 Dec 2024
+40,Dungarpur,Dungarpur,Tomato,Tomato,FAQ,1325,1400,1360,05 Dec 2024
+41,Dungarpur,Dungarpur,Tomato,Tomato,FAQ,1325,1400,1360,06 Dec 2024
+42,Hanumangarh,Goluwala,Tomato,Deshi,FAQ,3500,4400,4400,07 Dec 2024
+43,Hanumangarh,Goluwala,Tomato,Deshi,FAQ,3600,4200,4200,05 Dec 2024
+44,Hanumangarh,Goluwala,Tomato,Deshi,FAQ,3600,4500,4500,06 Dec 2024
+45,Hanumangarh,Goluwala,Tomato,Deshi,FAQ,3800,4000,4000,04 Dec 2024
+46,Hanumangarh,Hanumangarh(Urlivas),Tomato,Deshi,FAQ,3000,3800,3400,04 Dec 2024
+47,Hanumangarh,Hanumangarh(Urlivas),Tomato,Deshi,FAQ,3000,3800,3400,05 Dec 2024
+48,Hanumangarh,Hanumangarh(Urlivas),Tomato,Deshi,FAQ,3000,3800,3400,06 Dec 2024
+49,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3600,3300,05 Dec 2024
+50,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,4000,3500,04 Dec 2024
+51,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3300,3250,06 Dec 2024
+52,Jalore,Jalore,Tomato,Other,FAQ,1200,1500,1300,08 Dec 2024
+53,Jalore,Jalore,Tomato,Other,FAQ,2500,2800,2600,06 Dec 2024
+54,Jalore,Jalore,Tomato,Other,FAQ,2500,3000,2800,04 Dec 2024
+55,Jalore,Jalore,Tomato,Other,FAQ,2500,3000,2800,05 Dec 2024
+56,Jalore,Jalore,Tomato,Other,FAQ,2500,3000,2800,07 Dec 2024
+57,Jhunjhunu,Jhunjhunu,Tomato,Deshi,FAQ,2000,2800,2000,04 Dec 2024
+58,Jodhpur,Jodhpur(F&V)(Paota),Tomato,Other,FAQ,2000,3000,2500,06 Dec 2024
+59,Jodhpur,Jodhpur(F&V)(Paota),Tomato,Other,FAQ,2500,3300,3000,05 Dec 2024
+60,Jodhpur,Jodhpur(F&V)(Paota),Tomato,Other,FAQ,3000,3500,3200,04 Dec 2024
+61,Kota,Kota (F&V),Tomato,Other,FAQ,1000,4000,2500,06 Dec 2024
+62,Kota,Kota (F&V),Tomato,Other,FAQ,2000,5000,3500,05 Dec 2024
+63,Kotputli- Behror,Kotputli,Tomato,Tomato,FAQ,2100,2300,2200,05 Dec 2024
+64,Kotputli- Behror,Kotputli,Tomato,Tomato,FAQ,2300,2500,2400,04 Dec 2024
+65,Ajmer,Madanganj Kishangarh,Tomato,Deshi,FAQ,3000,4000,3500,05 Dec 2024
+66,Chittorgarh,Nimbahera,Tomato,Deshi,FAQ,2500,5000,3500,06 Dec 2024
+67,Rajsamand,Rajsamand,Tomato,Tomato,FAQ,1500,2000,1750,04 Dec 2024
+68,Rajsamand,Rajsamand,Tomato,Tomato,FAQ,1500,2000,1750,05 Dec 2024
+69,Rajsamand,Rajsamand,Tomato,Tomato,FAQ,1800,2200,2000,06 Dec 2024
+70,Hanumangarh,Rawatsar,Tomato,Deshi,FAQ,2400,2400,2400,04 Dec 2024
+71,Hanumangarh,Rawatsar,Tomato,Deshi,FAQ,2700,2700,2700,07 Dec 2024
+72,Hanumangarh,Rawatsar,Tomato,Deshi,FAQ,2800,2800,2800,05 Dec 2024
+73,Hanumangarh,Rawatsar,Tomato,Deshi,FAQ,2900,2900,2900,06 Dec 2024
+74,Sikar,Sikar,Tomato,Deshi,FAQ,1000,3000,2000,06 Dec 2024
+75,Sikar,Sikar,Tomato,Deshi,FAQ,1200,3200,2200,04 Dec 2024
+76,Sikar,Sikar,Tomato,Deshi,FAQ,1200,3200,2200,05 Dec 2024
+77,Ganganagar,Sriganganagar (F&V),Tomato,Other,FAQ,3600,4000,3800,07 Dec 2024
+78,Ganganagar,Sriganganagar (F&V),Tomato,Other,FAQ,3800,4200,4000,05 Dec 2024
+79,Ganganagar,Sriganganagar (F&V),Tomato,Other,FAQ,3800,4200,4000,06 Dec 2024
+80,Ganganagar,Sriganganagar (F&V),Tomato,Other,FAQ,4300,4700,4500,04 Dec 2024
+81,Churu,Sujangarh,Tomato,Other,FAQ,3000,3200,3100,05 Dec 2024
+82,Churu,Sujangarh,Tomato,Other,FAQ,3000,3200,3100,06 Dec 2024
+83,Churu,Sujangarh,Tomato,Other,FAQ,3100,3300,3200,07 Dec 2024
+84,Churu,Sujangarh,Tomato,Other,FAQ,3200,3400,3300,04 Dec 2024
+85,Ganganagar,Suratgarh,Tomato,Deshi,FAQ,3500,4200,4100,04 Dec 2024
+86,Ganganagar,Suratgarh,Tomato,Deshi,FAQ,3500,4200,4100,05 Dec 2024
+87,Ganganagar,Suratgarh,Tomato,Deshi,FAQ,3500,4200,4100,06 Dec 2024
+88,Udaipur,Udaipur (F&V),Tomato,Other,FAQ,1500,3000,2250,06 Dec 2024
+89,Udaipur,Udaipur (F&V),Tomato,Other,FAQ,1500,3800,2650,04 Dec 2024
+90,Udaipur,Udaipur (F&V),Tomato,Other,FAQ,2000,3200,2600,05 Dec 2024
+91,Udaipur,Udaipur (F&V),Tomato,Other,FAQ,2000,3500,2750,07 Dec 2024
+92,Beawar,Vijaynagar,Tomato,Deshi,FAQ,2050,2550,2350,05 Dec 2024
+93,Beawar,Vijaynagar,Tomato,Deshi,FAQ,2150,2450,2350,04 Dec 2024

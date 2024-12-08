@@ -1,0 +1,81 @@
+0,1,2,3,4,5,6,7,8,9
+1,Ahmedabad,Ahmedabad,Tomato,Other,FAQ,2500,5000,4350,05 Dec 2024
+2,Ahmedabad,Ahmedabad,Tomato,Other,FAQ,3000,5000,4300,04 Dec 2024
+3,Anand,"Anand(Veg,Yard,Anand)",Tomato,Other,FAQ,2500,3500,3000,04 Dec 2024
+4,Anand,"Anand(Veg,Yard,Anand)",Tomato,Other,FAQ,2500,3500,3000,06 Dec 2024
+5,Anand,"Anand(Veg,Yard,Anand)",Tomato,Other,FAQ,3000,4000,3500,05 Dec 2024
+6,Bharuch,Ankleshwar,Tomato,Tomato,FAQ,2000,3000,2500,04 Dec 2024
+7,Bharuch,Ankleshwar,Tomato,Tomato,FAQ,2000,3500,3000,07 Dec 2024
+8,Bharuch,Ankleshwar,Tomato,Tomato,FAQ,2000,4000,3000,06 Dec 2024
+9,Navsari,Bilimora,Tomato,Other,FAQ,2000,3500,2800,07 Dec 2024
+10,Navsari,Bilimora,Tomato,Other,FAQ,2000,4000,3000,04 Dec 2024
+11,Navsari,Bilimora,Tomato,Other,FAQ,2000,4000,3000,05 Dec 2024
+12,Navsari,Bilimora,Tomato,Other,FAQ,2000,4000,3000,06 Dec 2024
+13,Dahod,Dahod(Veg. Market),Tomato,Tomato,FAQ,600,3200,2500,05 Dec 2024
+14,Dahod,Dahod(Veg. Market),Tomato,Tomato,FAQ,1000,3000,2000,07 Dec 2024
+15,Dahod,Dahod(Veg. Market),Tomato,Tomato,FAQ,1000,3200,2000,04 Dec 2024
+16,Dahod,Dahod(Veg. Market),Tomato,Tomato,FAQ,1000,3500,3000,06 Dec 2024
+17,Amreli,Damnagar,Tomato,Local,FAQ,3000,3500,3250,05 Dec 2024
+18,Amreli,Damnagar,Tomato,Local,FAQ,3250,4000,3950,04 Dec 2024
+19,Amreli,Damnagar,Tomato,Local,FAQ,4000,4500,4250,08 Dec 2024
+20,Amreli,Damnagar,Tomato,Local,FAQ,4200,5000,4500,06 Dec 2024
+21,Amreli,Damnagar,Tomato,Local,FAQ,4500,5000,4850,07 Dec 2024
+22,Banaskanth,Deesa(Deesa Veg Yard),Tomato,Other,FAQ,3000,3350,3175,04 Dec 2024
+23,Banaskanth,Deesa(Deesa Veg Yard),Tomato,Other,FAQ,3000,3400,3200,05 Dec 2024
+24,Banaskanth,Deesa(Deesa Veg Yard),Tomato,Other,FAQ,3000,3450,3225,06 Dec 2024
+25,Banaskanth,Deesa(Deesa Veg Yard),Tomato,Other,FAQ,3000,4900,3950,07 Dec 2024
+26,Rajkot,Gondal(Veg.market Gondal),Tomato,Tomato,FAQ,2000,4000,3000,08 Dec 2024
+27,Rajkot,Gondal(Veg.market Gondal),Tomato,Tomato,FAQ,2500,4000,3250,06 Dec 2024
+28,Rajkot,Gondal(Veg.market Gondal),Tomato,Tomato,FAQ,2700,4200,3450,07 Dec 2024
+29,Rajkot,Gondal(Veg.market Gondal),Tomato,Tomato,FAQ,2800,5000,3900,04 Dec 2024
+30,Rajkot,Gondal(Veg.market Gondal),Tomato,Tomato,FAQ,3000,5000,4000,05 Dec 2024
+31,Kheda,Kapadvanj,Tomato,Other,FAQ,2500,3000,2700,04 Dec 2024
+32,Kheda,Kapadvanj,Tomato,Other,FAQ,2500,3000,2700,05 Dec 2024
+33,Kheda,Kapadvanj,Tomato,Other,FAQ,3000,3500,3200,06 Dec 2024
+34,Anand,Khambhat(Veg Yard Khambhat),Tomato,Other,FAQ,2500,3000,2750,07 Dec 2024
+35,Anand,Khambhat(Veg Yard Khambhat),Tomato,Other,FAQ,3000,3500,3250,04 Dec 2024
+36,Gandhinagar,Mansa(Manas Veg Yard),Tomato,Other,FAQ,4000,4000,4000,04 Dec 2024
+37,Gandhinagar,Mansa(Manas Veg Yard),Tomato,Other,FAQ,4000,4000,4000,05 Dec 2024
+38,Gandhinagar,Mansa(Manas Veg Yard),Tomato,Other,FAQ,4000,4000,4000,06 Dec 2024
+39,Mehsana,Mehsana(Mehsana Veg),Tomato,Tomato,FAQ,1000,3500,3100,06 Dec 2024
+40,Mehsana,Mehsana(Mehsana Veg),Tomato,Tomato,FAQ,1200,3900,3250,04 Dec 2024
+41,Mehsana,Mehsana(Mehsana Veg),Tomato,Tomato,FAQ,1500,3750,3000,05 Dec 2024
+42,Mehsana,Mehsana(Mehsana Veg),Tomato,Tomato,FAQ,2500,3500,3100,07 Dec 2024
+43,Morbi,Morbi,Tomato,Tomato,FAQ,2500,4000,3250,04 Dec 2024
+44,Morbi,Morbi,Tomato,Tomato,FAQ,2500,4000,3250,05 Dec 2024
+45,Morbi,Morbi,Tomato,Tomato,FAQ,2500,4000,3250,06 Dec 2024
+46,Kheda,Nadiad,Tomato,Other,FAQ,3000,3400,3200,05 Dec 2024
+47,Kheda,Nadiad,Tomato,Other,FAQ,3000,3500,3350,04 Dec 2024
+48,Kheda,Nadiad,Tomato,Other,FAQ,3200,3800,3400,07 Dec 2024
+49,Kheda,Nadiyad(Chaklasi),Tomato,Tomato,FAQ,2600,3000,2800,04 Dec 2024
+50,Kheda,Nadiyad(Piplag),Tomato,Tomato,FAQ,2400,2800,2600,04 Dec 2024
+51,Kheda,Nadiyad(Piplag),Tomato,Tomato,FAQ,2400,2800,2600,07 Dec 2024
+52,Kheda,Nadiyad(Piplag),Tomato,Tomato,FAQ,2400,3200,2800,05 Dec 2024
+53,Navsari,Navsari,Tomato,Other,FAQ,2000,4000,3000,05 Dec 2024
+54,Navsari,Navsari,Tomato,Other,FAQ,2000,4250,3125,04 Dec 2024
+55,Navsari,Navsari,Tomato,Other,FAQ,2500,4000,3250,07 Dec 2024
+56,Bhavnagar,Palitana,Tomato,Hybrid,FAQ,2500,3500,3000,04 Dec 2024
+57,Bhavnagar,Palitana,Tomato,Hybrid,FAQ,2500,3500,3000,06 Dec 2024
+58,Porbandar,Porbandar,Tomato,Deshi,FAQ,2500,3500,3000,04 Dec 2024
+59,Porbandar,Porbandar,Tomato,Deshi,FAQ,4500,5500,5000,05 Dec 2024
+60,Porbandar,Porbandar,Tomato,Deshi,FAQ,4500,5500,5000,06 Dec 2024
+61,Porbandar,Porbandar,Tomato,Deshi,FAQ,4500,5500,5000,07 Dec 2024
+62,Rajkot,Rajkot(Veg.Sub Yard),Tomato,Tomato,FAQ,3250,4500,3900,05 Dec 2024
+63,Rajkot,Rajkot(Veg.Sub Yard),Tomato,Tomato,FAQ,3250,4550,3900,07 Dec 2024
+64,Rajkot,Rajkot(Veg.Sub Yard),Tomato,Tomato,FAQ,3500,4500,4000,04 Dec 2024
+65,Rajkot,Rajkot(Veg.Sub Yard),Tomato,Tomato,FAQ,3500,4500,4000,06 Dec 2024
+66,Surat,Surat,Tomato,Other,FAQ,1500,4000,2750,06 Dec 2024
+67,Surat,Surat,Tomato,Other,FAQ,1500,4000,2750,07 Dec 2024
+68,Surat,Surat,Tomato,Other,FAQ,1500,4500,3000,05 Dec 2024
+69,Surat,Surat,Tomato,Other,FAQ,1500,4800,3150,04 Dec 2024
+70,Gir Somnath,Talalagir,Tomato,Other,FAQ,1000,3500,2000,04 Dec 2024
+71,Gir Somnath,Talalagir,Tomato,Other,FAQ,1500,4000,2500,05 Dec 2024
+72,Gir Somnath,Talalagir,Tomato,Other,FAQ,2000,4000,3000,07 Dec 2024
+73,Gir Somnath,Talalagir,Tomato,Other,FAQ,2000,5000,3500,06 Dec 2024
+74,Surendranagar,Vadhvan,Tomato,Tomato,FAQ,3000,3500,3250,04 Dec 2024
+75,Surendranagar,Vadhvan,Tomato,Tomato,FAQ,3000,3500,3250,05 Dec 2024
+76,Surendranagar,Vadhvan,Tomato,Tomato,FAQ,3000,3500,3250,06 Dec 2024
+77,Surendranagar,Vadhvan,Tomato,Tomato,FAQ,3000,3500,3250,07 Dec 2024
+78,Vadodara(Baroda),Vadodara(Sayajipura),Tomato,Other,FAQ,2500,3500,3050,04 Dec 2024
+79,Vadodara(Baroda),Vadodara(Sayajipura),Tomato,Other,FAQ,2500,3500,3050,05 Dec 2024
+80,Vadodara(Baroda),Vadodara(Sayajipura),Tomato,Other,FAQ,2500,3500,3050,06 Dec 2024

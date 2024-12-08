@@ -1,0 +1,140 @@
+0,1,2,3,4,5,6,7,8,9
+1,Alipurduar,Alipurduar,Tomato,Other,FAQ,4000,4200,4100,05 Dec 2024
+2,Alipurduar,Alipurduar,Tomato,Other,FAQ,4000,4400,4200,06 Dec 2024
+3,Alipurduar,Alipurduar,Tomato,Other,FAQ,5000,5200,5100,04 Dec 2024
+4,Paschim Bardhaman,Asansol,Tomato,Hybrid,FAQ,4250,4500,4300,06 Dec 2024
+5,Paschim Bardhaman,Asansol,Tomato,Hybrid,FAQ,4250,4600,4400,04 Dec 2024
+6,Paschim Bardhaman,Asansol,Tomato,Hybrid,FAQ,4300,4500,4400,05 Dec 2024
+7,Puruliya,Balarampur,Tomato,Other,FAQ,4000,4500,4200,06 Dec 2024
+8,Puruliya,Balarampur,Tomato,Other,FAQ,4200,4600,4500,05 Dec 2024
+9,Dakshin Dinajpur,Balurghat,Tomato,Other,FAQ,4900,5100,5000,06 Dec 2024
+10,North 24 Parganas,Barasat,Tomato,Other,FAQ,4800,4800,4800,04 Dec 2024
+11,North 24 Parganas,Barasat,Tomato,Other,FAQ,4800,4800,4800,05 Dec 2024
+12,North 24 Parganas,Barasat,Tomato,Other,FAQ,4800,4800,4800,06 Dec 2024
+13,North 24 Parganas,Barasat,Tomato,Other,FAQ,4800,4800,4800,07 Dec 2024
+14,North 24 Parganas,Barasat,Tomato,Other,FAQ,4800,4800,4800,08 Dec 2024
+15,Jalpaiguri,Belacoba,Tomato,Other,FAQ,4800,5000,4900,04 Dec 2024
+16,Jalpaiguri,Belacoba,Tomato,Other,FAQ,4800,5000,4900,05 Dec 2024
+17,Jalpaiguri,Belacoba,Tomato,Other,FAQ,4800,5000,4900,06 Dec 2024
+18,Birbhum,Birbhum,Tomato,Hybrid,FAQ,4300,4500,4400,04 Dec 2024
+19,Birbhum,Birbhum,Tomato,Hybrid,FAQ,4300,4500,4400,05 Dec 2024
+20,Birbhum,Birbhum,Tomato,Hybrid,FAQ,4300,4600,4500,08 Dec 2024
+21,Birbhum,Birbhum,Tomato,Hybrid,FAQ,4400,4600,4500,06 Dec 2024
+22,Birbhum,Birbhum,Tomato,Hybrid,FAQ,4400,4600,4500,07 Dec 2024
+23,Birbhum,Bolpur,Tomato,Hybrid,FAQ,4300,4500,4400,04 Dec 2024
+24,Birbhum,Bolpur,Tomato,Hybrid,FAQ,4300,4500,4400,05 Dec 2024
+25,Birbhum,Bolpur,Tomato,Hybrid,FAQ,4300,4500,4400,06 Dec 2024
+26,Birbhum,Bolpur,Tomato,Hybrid,FAQ,4400,4600,4500,07 Dec 2024
+27,Purba Bardhaman,Burdwan,Tomato,Other,FAQ,4200,4800,4500,06 Dec 2024
+28,Purba Bardhaman,Burdwan,Tomato,Other,FAQ,4400,5000,4800,05 Dec 2024
+29,Purba Bardhaman,Burdwan,Tomato,Other,FAQ,4500,5000,4800,04 Dec 2024
+30,Purba Bardhaman,Burdwan,Tomato,Other,FAQ,4500,5200,5000,07 Dec 2024
+31,Nadia,Chakdah,Tomato,Hybrid,FAQ,4600,4750,4700,05 Dec 2024
+32,Nadia,Chakdah,Tomato,Hybrid,FAQ,4600,4750,4700,07 Dec 2024
+33,Nadia,Chakdah,Tomato,Hybrid,FAQ,4700,4850,4800,04 Dec 2024
+34,Hooghly,Champadanga,Tomato,Hybrid,FAQ,4200,4400,4200,06 Dec 2024
+35,Hooghly,Champadanga,Tomato,Hybrid,FAQ,4400,4600,4400,05 Dec 2024
+36,Hooghly,Champadanga,Tomato,Hybrid,FAQ,4500,4600,4600,04 Dec 2024
+37,Coochbehar,Coochbehar,Tomato,Other,FAQ,4000,4500,4200,04 Dec 2024
+38,Coochbehar,Coochbehar,Tomato,Other,FAQ,4000,4500,4200,05 Dec 2024
+39,Coochbehar,Coochbehar,Tomato,Other,FAQ,4000,4500,4200,06 Dec 2024
+40,Darjeeling,Darjeeling,Tomato,Other,FAQ,4000,4200,4100,04 Dec 2024
+41,Darjeeling,Darjeeling,Tomato,Other,FAQ,4000,4200,4100,06 Dec 2024
+42,Darjeeling,Darjeeling,Tomato,Other,FAQ,4000,4200,4100,07 Dec 2024
+43,Darjeeling,Darjeeling,Tomato,Other,FAQ,4000,4200,4100,08 Dec 2024
+44,Darjeeling,Darjeeling,Tomato,Other,FAQ,5000,5200,5100,05 Dec 2024
+45,Jalpaiguri,Dhupguri,Tomato,Deshi,FAQ,5500,5700,5600,06 Dec 2024
+46,Jalpaiguri,Dhupguri,Tomato,Deshi,FAQ,5800,6000,5900,04 Dec 2024
+47,Jalpaiguri,Dhupguri,Tomato,Deshi,FAQ,5800,6000,5900,05 Dec 2024
+48,Jalpaiguri,Dhupguri,Tomato,Other,FAQ,4700,4900,4800,06 Dec 2024
+49,Jalpaiguri,Dhupguri,Tomato,Other,FAQ,4800,5000,4900,04 Dec 2024
+50,Jalpaiguri,Dhupguri,Tomato,Other,FAQ,4800,5000,4900,05 Dec 2024
+51,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Tomato,Tomato,FAQ,5100,5300,5200,04 Dec 2024
+52,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Tomato,Tomato,FAQ,5100,5300,5200,05 Dec 2024
+53,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Tomato,Tomato,FAQ,5200,5300,5250,06 Dec 2024
+54,Paschim Bardhaman,Durgapur,Tomato,Hybrid,FAQ,4250,4650,4350,06 Dec 2024
+55,Paschim Bardhaman,Durgapur,Tomato,Hybrid,FAQ,4250,4650,4500,04 Dec 2024
+56,Paschim Bardhaman,Durgapur,Tomato,Hybrid,FAQ,4300,4550,4450,05 Dec 2024
+57,Medinipur(E),Egra/contai,Tomato,Tomato,FAQ,4500,5000,4700,04 Dec 2024
+58,Medinipur(E),Egra/contai,Tomato,Tomato,FAQ,4500,5000,4750,05 Dec 2024
+59,Alipurduar,Falakata,Tomato,Other,FAQ,4800,5000,4900,05 Dec 2024
+60,Alipurduar,Falakata,Tomato,Other,FAQ,5500,6000,5800,04 Dec 2024
+61,Alipurduar,Falakata,Tomato,Other,FAQ,6000,6500,6200,06 Dec 2024
+62,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Tomato,Other,FAQ,4500,4800,4600,05 Dec 2024
+63,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Tomato,Other,FAQ,4500,4800,4700,04 Dec 2024
+64,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Tomato,Other,FAQ,4500,5000,4800,06 Dec 2024
+65,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Tomato,Other,FAQ,5000,5500,5400,07 Dec 2024
+66,Medinipur(W),Garbeta(Medinipur),Tomato,Tomato,FAQ,4800,5050,5000,06 Dec 2024
+67,Medinipur(W),Garbeta(Medinipur),Tomato,Tomato,FAQ,4800,5200,5000,04 Dec 2024
+68,Medinipur(W),Garbeta(Medinipur),Tomato,Tomato,FAQ,4800,5200,5000,05 Dec 2024
+69,Medinipur(W),Ghatal,Tomato,Hybrid,FAQ,4400,4600,4500,04 Dec 2024
+70,Medinipur(W),Ghatal,Tomato,Hybrid,FAQ,4400,4600,4500,06 Dec 2024
+71,Medinipur(W),Ghatal,Tomato,Hybrid,FAQ,4500,4600,4550,05 Dec 2024
+72,North 24 Parganas,Habra,Tomato,Other,FAQ,4200,4500,4500,08 Dec 2024
+73,North 24 Parganas,Habra,Tomato,Other,FAQ,4600,4700,4700,04 Dec 2024
+74,North 24 Parganas,Habra,Tomato,Other,FAQ,4600,4700,4700,05 Dec 2024
+75,North 24 Parganas,Habra,Tomato,Other,FAQ,4800,5000,5000,06 Dec 2024
+76,North 24 Parganas,Habra,Tomato,Other,FAQ,4800,5200,5000,07 Dec 2024
+77,Jalpaiguri,Jalpaiguri Sadar,Tomato,Other,FAQ,4700,4900,4800,06 Dec 2024
+78,Jalpaiguri,Jalpaiguri Sadar,Tomato,Other,FAQ,4800,5000,4900,04 Dec 2024
+79,Jalpaiguri,Jalpaiguri Sadar,Tomato,Other,FAQ,4800,5000,4900,05 Dec 2024
+80,Hooghly,Kalipur,Tomato,Hybrid,FAQ,4400,4600,4400,06 Dec 2024
+81,Hooghly,Kalipur,Tomato,Hybrid,FAQ,4400,4600,4600,04 Dec 2024
+82,Hooghly,Kalipur,Tomato,Hybrid,FAQ,4400,4600,4600,05 Dec 2024
+83,Purba Bardhaman,Kalna,Tomato,Other,FAQ,3500,3700,3600,04 Dec 2024
+84,Purba Bardhaman,Kalna,Tomato,Other,FAQ,3800,4000,3900,05 Dec 2024
+85,Purba Bardhaman,Kalna,Tomato,Other,FAQ,3800,4000,3900,06 Dec 2024
+86,Purba Bardhaman,Kalna,Tomato,Other,FAQ,3800,4000,3900,07 Dec 2024
+87,Darjeeling,Karsiyang(Matigara),Tomato,Other,FAQ,4800,5000,4900,08 Dec 2024
+88,Darjeeling,Karsiyang(Matigara),Tomato,Other,FAQ,5000,5500,5200,04 Dec 2024
+89,Darjeeling,Karsiyang(Matigara),Tomato,Other,FAQ,5000,5500,5200,05 Dec 2024
+90,Darjeeling,Karsiyang(Matigara),Tomato,Other,FAQ,5000,5500,5200,06 Dec 2024
+91,Darjeeling,Karsiyang(Matigara),Tomato,Other,FAQ,5000,5500,5200,07 Dec 2024
+92,Bankura,Khatra,Tomato,Tomato,FAQ,5000,6000,5500,05 Dec 2024
+93,Bankura,Khatra,Tomato,Tomato,FAQ,5000,6000,5500,06 Dec 2024
+94,Bankura,Khatra,Tomato,Tomato,FAQ,5000,6000,5500,07 Dec 2024
+95,Bankura,Khatra,Tomato,Tomato,FAQ,5000,6000,5500,08 Dec 2024
+96,Bankura,Khatra,Tomato,Tomato,FAQ,5000,6500,6000,04 Dec 2024
+97,Medinipur(W),Medinipur(West),Tomato,Tomato,FAQ,4800,5100,5000,06 Dec 2024
+98,Medinipur(W),Medinipur(West),Tomato,Tomato,FAQ,4800,5200,5000,04 Dec 2024
+99,Medinipur(W),Medinipur(West),Tomato,Tomato,FAQ,4800,5400,5000,05 Dec 2024
+100,Coochbehar,Mekhliganj,Tomato,Other,FAQ,4000,4500,4200,04 Dec 2024
+101,Purba Bardhaman,Memari,Tomato,Other,FAQ,4000,4500,4200,04 Dec 2024
+102,Purba Bardhaman,Memari,Tomato,Other,FAQ,4000,4500,4200,06 Dec 2024
+103,Purba Bardhaman,Memari,Tomato,Other,FAQ,4000,4800,4500,07 Dec 2024
+104,Purba Bardhaman,Memari,Tomato,Other,FAQ,4500,5200,5000,05 Dec 2024
+105,Jalpaiguri,Moynaguri,Tomato,Local,FAQ,5700,5900,5800,05 Dec 2024
+106,Jalpaiguri,Moynaguri,Tomato,Other,FAQ,4700,4900,4800,06 Dec 2024
+107,Jalpaiguri,Moynaguri,Tomato,Other,FAQ,4800,5000,4900,04 Dec 2024
+108,Jalpaiguri,Moynaguri,Tomato,Other,FAQ,4800,5000,4900,05 Dec 2024
+109,Hooghly,Pandua,Tomato,Hybrid,FAQ,4400,4600,4400,06 Dec 2024
+110,Hooghly,Pandua,Tomato,Hybrid,FAQ,4500,4600,4600,04 Dec 2024
+111,Hooghly,Pandua,Tomato,Hybrid,FAQ,4500,4600,4600,05 Dec 2024
+112,Howrah,Ramkrishanpur(Howrah),Tomato,Other,FAQ,4200,4800,4500,05 Dec 2024
+113,Howrah,Ramkrishanpur(Howrah),Tomato,Other,FAQ,4200,5000,4600,04 Dec 2024
+114,Howrah,Ramkrishanpur(Howrah),Tomato,Other,FAQ,4400,5000,4600,06 Dec 2024
+115,Nadia,Ranaghat,Tomato,Other,FAQ,4700,4850,4800,05 Dec 2024
+116,Nadia,Ranaghat,Tomato,Other,FAQ,4700,4850,4800,06 Dec 2024
+117,Nadia,Ranaghat,Tomato,Other,FAQ,4700,4850,4800,07 Dec 2024
+118,Nadia,Ranaghat,Tomato,Other,FAQ,4900,5050,5000,04 Dec 2024
+119,Birbhum,Sainthia,Tomato,Hybrid,FAQ,4300,4500,4400,04 Dec 2024
+120,Birbhum,Sainthia,Tomato,Hybrid,FAQ,4300,4500,4400,05 Dec 2024
+121,Birbhum,Sainthia,Tomato,Hybrid,FAQ,4400,4600,4500,06 Dec 2024
+122,Birbhum,Sainthia,Tomato,Hybrid,FAQ,4400,4600,4500,08 Dec 2024
+123,Birbhum,Sainthia,Tomato,Hybrid,FAQ,4500,4700,4600,07 Dec 2024
+124,Kolkata,Sealdah Koley Market,Tomato,Other,FAQ,4000,5000,4400,05 Dec 2024
+125,Kolkata,Sealdah Koley Market,Tomato,Other,FAQ,4400,5400,5000,06 Dec 2024
+126,Kolkata,Sealdah Koley Market,Tomato,Other,FAQ,4400,5400,5000,07 Dec 2024
+127,Kolkata,Sealdah Koley Market,Tomato,Other,FAQ,4800,5400,5000,04 Dec 2024
+128,Hooghly,Sheoraphuly,Tomato,Other,FAQ,4400,4600,4500,07 Dec 2024
+129,Hooghly,Sheoraphuly,Tomato,Other,FAQ,4400,4800,4600,06 Dec 2024
+130,Hooghly,Sheoraphuly,Tomato,Other,FAQ,4600,5000,4800,05 Dec 2024
+131,Hooghly,Sheoraphuly,Tomato,Other,FAQ,4800,5200,5000,04 Dec 2024
+132,Darjeeling,Siliguri,Tomato,Hybrid,FAQ,4000,4500,4200,04 Dec 2024
+133,Darjeeling,Siliguri,Tomato,Hybrid,FAQ,4000,4500,4200,05 Dec 2024
+134,Darjeeling,Siliguri,Tomato,Hybrid,FAQ,4000,4500,4200,06 Dec 2024
+135,Darjeeling,Siliguri,Tomato,Hybrid,FAQ,4000,4500,4200,07 Dec 2024
+136,Darjeeling,Siliguri,Tomato,Hybrid,FAQ,4000,4500,4200,08 Dec 2024
+137,Coochbehar,Toofanganj,Tomato,Other,FAQ,4000,4500,4200,06 Dec 2024
+138,Howrah,Uluberia,Tomato,Other,FAQ,4500,5000,4800,04 Dec 2024
+139,Howrah,Uluberia,Tomato,Other,FAQ,4500,5000,4800,05 Dec 2024

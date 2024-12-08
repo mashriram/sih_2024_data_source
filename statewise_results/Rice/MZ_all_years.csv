@@ -1,5 +1,7 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,01 Aug 2019,2019,Aug,1,2019-08-01
-1,1.0,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,22 Aug 2019,2019,Aug,22,2019-08-22
-2,,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,01 Aug 2019,2019,Aug,1,2019-08-01
-3,,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,22 Aug 2019,2019,Aug,22,2019-08-22
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,01 Aug 2019,2019,Aug,1,2019-08-01
+1,1.0,1.0,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,22 Aug 2019,2019,Aug,22,2019-08-22
+2,2.0,,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,01 Aug 2019,2019,Aug,1,2019-08-01
+3,3.0,,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,22 Aug 2019,2019,Aug,22,2019-08-22
+4,,,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,01 Aug 2019,2019,Aug,1,2019-08-01
+5,,,Aizawl,New Market Aizawl,Rice,1009 Kar,FAQ,3000,4000,3500,22 Aug 2019,2019,Aug,22,2019-08-22

@@ -1,0 +1,990 @@
+0,1,2,3,4,5,6,7,8,9
+1,Ratlam,A lot,Wheat,Wheat,FAQ,2710,2718,2718,07 Dec 2024
+2,Ratlam,A lot,Wheat,Wheat,FAQ,2720,2740,2740,06 Dec 2024
+3,Shajapur,Agar,Wheat,Wheat,FAQ,1890,2901,2876,06 Dec 2024
+4,Shajapur,Agar,Wheat,Wheat,FAQ,2696,2900,2765,07 Dec 2024
+5,Panna,Ajaygarh,Wheat,Mill Quality,FAQ,2680,2715,2700,07 Dec 2024
+6,Panna,Ajaygarh,Wheat,Mill Quality,FAQ,2700,2720,2720,06 Dec 2024
+7,Panna,Ajaygarh,Wheat,Mill Quality,FAQ,2700,2730,2725,05 Dec 2024
+8,Panna,Ajaygarh,Wheat,Mill Quality,FAQ,2700,2750,2700,04 Dec 2024
+9,Bhind,Alampur,Wheat,Mill Quality,FAQ,2695,2720,2720,04 Dec 2024
+10,Bhind,Alampur,Wheat,Mill Quality,FAQ,2700,2740,2740,06 Dec 2024
+11,Bhind,Alampur,Wheat,Wheat,FAQ,2670,2770,2710,07 Dec 2024
+12,Bhind,Alampur,Wheat,Wheat,FAQ,2738,2750,2750,04 Dec 2024
+13,Alirajpur,Alirajpur,Wheat,Mill Quality,FAQ,2600,2625,2625,06 Dec 2024
+14,Alirajpur,Alirajpur,Wheat,Mill Quality,FAQ,2800,2800,2800,05 Dec 2024
+15,Alirajpur,Alirajpur,Wheat,Wheat,FAQ,2650,2800,2800,04 Dec 2024
+16,Alirajpur,Alirajpur,Wheat,Wheat,FAQ,2750,2750,2750,08 Dec 2024
+17,Satna,Amarpatan,Wheat,Mill Quality,FAQ,2690,2780,2705,06 Dec 2024
+18,Satna,Amarpatan,Wheat,Wheat,FAQ,2600,2670,2670,07 Dec 2024
+19,Satna,Amarpatan,Wheat,Wheat,FAQ,2680,2715,2710,05 Dec 2024
+20,Badwani,Anjad,Wheat,Wheat,FAQ,2600,2650,2650,08 Dec 2024
+21,Badwani,Anjad,Wheat,Wheat,FAQ,2625,2625,2625,05 Dec 2024
+22,Badwani,Anjad(F&V),Wheat,Wheat,FAQ,2625,2625,2625,05 Dec 2024
+23,Anupur,Anuppur,Wheat,Wheat,FAQ,2500,2500,2500,04 Dec 2024
+24,Anupur,Anuppur,Wheat,Wheat,FAQ,2600,2650,2650,06 Dec 2024
+25,Anupur,Anuppur,Wheat,Wheat,FAQ,2650,2650,2650,08 Dec 2024
+26,Guna,Aron,Wheat,Wheat,FAQ,2640,2700,2680,06 Dec 2024
+27,Guna,Aron,Wheat,Wheat,FAQ,2650,3500,3500,05 Dec 2024
+28,Ashoknagar,Ashoknagar,Wheat,Mill Quality,FAQ,2245,2245,2245,05 Dec 2024
+29,Ashoknagar,Ashoknagar,Wheat,Wheat,FAQ,2400,3995,2600,04 Dec 2024
+30,Ashoknagar,Ashoknagar,Wheat,Wheat,FAQ,2610,3871,3871,05 Dec 2024
+31,Ashoknagar,Ashoknagar,Wheat,Wheat,FAQ,2691,3970,2875,06 Dec 2024
+32,Ashoknagar,Ashoknagar,Wheat,Wheat,FAQ,2700,3955,3300,07 Dec 2024
+33,Sehore,Ashta,Wheat,Mill Quality,FAQ,2930,2930,2930,04 Dec 2024
+34,Sehore,Ashta,Wheat,Mill Quality,FAQ,2930,2930,2930,05 Dec 2024
+35,Sehore,Ashta,Wheat,Sujata,FAQ,3330,3330,3330,05 Dec 2024
+36,Sehore,Ashta,Wheat,Wheat,FAQ,2521,4210,2930,05 Dec 2024
+37,Sehore,Ashta,Wheat,Wheat,FAQ,2571,3700,2800,04 Dec 2024
+38,Sehore,Ashta,Wheat,Wheat,FAQ,2651,4161,2941,06 Dec 2024
+39,Sehore,Ashta,Wheat,Wheat,FAQ,2670,4070,2940,07 Dec 2024
+40,Chhatarpur,Badamalhera,Wheat,Mill Quality,FAQ,2610,2705,2700,05 Dec 2024
+41,Chhatarpur,Badamalhera,Wheat,Mill Quality,FAQ,2640,2670,2670,06 Dec 2024
+42,Shivpuri,Badarwas,Wheat,Wheat,FAQ,2620,3205,3205,05 Dec 2024
+43,Shivpuri,Badarwas,Wheat,Wheat,FAQ,2625,3120,3120,04 Dec 2024
+44,Shivpuri,Badarwas,Wheat,Wheat,FAQ,2675,2675,2675,07 Dec 2024
+45,Shivpuri,Badarwas,Wheat,Wheat,FAQ,2695,3315,2800,06 Dec 2024
+46,Ujjain,Badnagar,Wheat,Lokwan,FAQ,2916,3015,3015,08 Dec 2024
+47,Ujjain,Badnagar,Wheat,Wheat,FAQ,1500,2950,2750,05 Dec 2024
+48,Ujjain,Badnagar,Wheat,Wheat,FAQ,2650,3100,2821,06 Dec 2024
+49,Ujjain,Badnagar,Wheat,Wheat,FAQ,2740,3150,2990,07 Dec 2024
+50,Dhar,Badnawar,Wheat,Lokwan,FAQ,2745,2830,2785,07 Dec 2024
+51,Dhar,Badnawar,Wheat,Wheat,FAQ,1905,3015,2900,04 Dec 2024
+52,Dhar,Badnawar,Wheat,Wheat,FAQ,2311,3015,2955,06 Dec 2024
+53,Dhar,Badnawar,Wheat,Wheat,FAQ,2321,3010,2890,07 Dec 2024
+54,Dhar,Badnawar,Wheat,Wheat,FAQ,2630,3030,2895,05 Dec 2024
+55,Dhar,Badnawar,Wheat,Wheat-Organic,FAQ,2200,2200,2200,07 Dec 2024
+56,Dhar,Badnawar,Wheat,Wheat-Organic,FAQ,2211,2211,2211,04 Dec 2024
+57,Shajapur,Badod,Wheat,Wheat,FAQ,2620,2814,2814,06 Dec 2024
+58,Shajapur,Badod,Wheat,Wheat,FAQ,2731,2818,2771,07 Dec 2024
+59,Khargone,Badwaha,Wheat,Wheat,FAQ,2700,2888,2801,07 Dec 2024
+60,Khargone,Badwaha,Wheat,Wheat,FAQ,2822,2899,2850,06 Dec 2024
+61,Khargone,Badwaha,Wheat,Wheat,FAQ,2835,2880,2880,05 Dec 2024
+62,Dewas,Bagli,Wheat,Mill Quality,FAQ,2425,2425,2425,05 Dec 2024
+63,Dewas,Bagli,Wheat,Mill Quality,FAQ,2849,2849,2849,04 Dec 2024
+64,Rewa,Baikunthpur,Wheat,Mill Quality,FAQ,2600,2660,2650,04 Dec 2024
+65,Rewa,Baikunthpur,Wheat,Mill Quality,FAQ,2625,2650,2625,06 Dec 2024
+66,Rewa,Baikunthpur,Wheat,Mill Quality,FAQ,2640,2650,2650,05 Dec 2024
+67,Rewa,Baikunthpur,Wheat,Mill Quality,FAQ,2650,2700,2650,07 Dec 2024
+68,Rewa,Baikunthpur,Wheat,Wheat,FAQ,2650,2695,2695,06 Dec 2024
+69,Rewa,Baikunthpur,Wheat,Wheat,FAQ,2675,2680,2680,05 Dec 2024
+70,Sehore,Baktara,Wheat,Wheat,FAQ,2601,2601,2601,05 Dec 2024
+71,Balaghat,Balaghat,Wheat,Mill Quality,FAQ,2000,2000,2000,04 Dec 2024
+72,Balaghat,Balaghat,Wheat,Mill Quality,FAQ,2200,2200,2200,06 Dec 2024
+73,Balaghat,Balaghat,Wheat,Wheat,FAQ,2200,2200,2200,06 Dec 2024
+74,Sagar,Bamora,Wheat,Wheat,FAQ,2700,2836,2700,07 Dec 2024
+75,Hoshangabad,Banapura,Wheat,Local,FAQ,2602,2852,2820,07 Dec 2024
+76,Hoshangabad,Banapura,Wheat,Local,FAQ,2701,2850,2800,06 Dec 2024
+77,Hoshangabad,Banapura,Wheat,Local,FAQ,2708,2842,2799,05 Dec 2024
+78,Hoshangabad,Banapura,Wheat,Local,FAQ,2720,2837,2781,04 Dec 2024
+79,Hoshangabad,Banapura,Wheat,Mill Quality,FAQ,2776,2885,2799,05 Dec 2024
+80,Hoshangabad,Banapura(F&V),Wheat,147 Average,FAQ,2701,2850,2792,06 Dec 2024
+81,Hoshangabad,Banapura(F&V),Wheat,147 Average,FAQ,2708,2885,2790,05 Dec 2024
+82,Sagar,Banda,Wheat,Wheat,FAQ,2622,2677,2651,05 Dec 2024
+83,Sagar,Banda,Wheat,Wheat,FAQ,2640,2640,2640,07 Dec 2024
+84,Sagar,Banda,Wheat,Wheat,FAQ,2650,2675,2650,06 Dec 2024
+85,Sagar,Banda,Wheat,Wheat,FAQ,2655,2700,2700,04 Dec 2024
+86,Hoshangabad,Bankhedi,Wheat,Mill Quality,FAQ,2742,2801,2800,05 Dec 2024
+87,Hoshangabad,Bankhedi,Wheat,Wheat,FAQ,2792,2800,2800,04 Dec 2024
+88,Raisen,Bareli,Wheat,Mill Quality,FAQ,2446,2860,2830,06 Dec 2024
+89,Raisen,Bareli,Wheat,Mill Quality,FAQ,2600,2900,2827,04 Dec 2024
+90,Raisen,Bareli,Wheat,Mill Quality,FAQ,2652,2839,2839,05 Dec 2024
+91,Raisen,Bareli,Wheat,Wheat,FAQ,2775,2825,2825,06 Dec 2024
+92,Raisen,Bareli,Wheat,Wheat,FAQ,2780,2826,2826,04 Dec 2024
+93,Raisen,Begamganj,Wheat,Wheat,FAQ,1800,2770,2700,06 Dec 2024
+94,Raisen,Begamganj,Wheat,Wheat,FAQ,2500,2725,2700,04 Dec 2024
+95,Raisen,Begamganj,Wheat,Wheat,FAQ,2500,2750,2700,05 Dec 2024
+96,Raisen,Begamganj,Wheat,Wheat,FAQ,2745,2760,2750,07 Dec 2024
+97,Shehdol,Beohari,Wheat,Mill Quality,FAQ,2600,2600,2600,05 Dec 2024
+98,Shehdol,Beohari,Wheat,Mill Quality,FAQ,2600,2710,2710,07 Dec 2024
+99,Shehdol,Beohari,Wheat,Mill Quality,FAQ,2600,2725,2700,06 Dec 2024
+100,Bhopal,Berasia,Wheat,Local,FAQ,2515,3084,2740,05 Dec 2024
+101,Bhopal,Berasia,Wheat,Local,FAQ,2650,2985,2675,06 Dec 2024
+102,Bhopal,Berasia,Wheat,Local,FAQ,2685,3039,3039,07 Dec 2024
+103,Bhopal,Berasia,Wheat,Lokwan,FAQ,2560,2925,2925,05 Dec 2024
+104,Bhopal,Berasia,Wheat,Lokwan,FAQ,2683,2683,2683,06 Dec 2024
+105,Bhopal,Berasia,Wheat,Mill Quality,FAQ,2472,2797,2650,05 Dec 2024
+106,Bhopal,Berasia,Wheat,Mill Quality,FAQ,2540,2875,2670,06 Dec 2024
+107,Bhopal,Berasia,Wheat,Mill Quality,FAQ,2550,2900,2730,07 Dec 2024
+108,Bhopal,Berasia,Wheat,Sharbati,FAQ,2750,2912,2912,05 Dec 2024
+109,Bhopal,Berasia,Wheat,Sharbati,FAQ,2750,3000,2810,06 Dec 2024
+110,Bhopal,Berasia,Wheat,Sharbati,FAQ,2770,2929,2929,07 Dec 2024
+111,Betul,Betul,Wheat,Mill Quality,FAQ,2235,2916,2839,07 Dec 2024
+112,Betul,Betul,Wheat,Mill Quality,FAQ,2572,2900,2789,05 Dec 2024
+113,Betul,Betul,Wheat,Mill Quality,FAQ,2586,2953,2801,06 Dec 2024
+114,Betul,Betul,Wheat,Mill Quality,FAQ,2630,2900,2770,04 Dec 2024
+115,Datia,Bhander,Wheat,Mill Quality,FAQ,2710,2830,2760,04 Dec 2024
+116,Datia,Bhander,Wheat,Other,FAQ,2685,2700,2700,04 Dec 2024
+117,Betul,Bhensdehi,Wheat,Mill Quality,FAQ,2650,2650,2650,05 Dec 2024
+118,Khargone,Bhikangaon,Wheat,Mill Quality,FAQ,2700,2700,2700,04 Dec 2024
+119,Khargone,Bhikangaon,Wheat,Wheat,FAQ,2600,2864,2850,05 Dec 2024
+120,Khargone,Bhikangaon,Wheat,Wheat,FAQ,2615,2904,2825,06 Dec 2024
+121,Khargone,Bhikangaon,Wheat,Wheat,FAQ,2722,2939,2759,04 Dec 2024
+122,Khargone,Bhikangaon,Wheat,Wheat,FAQ,2770,3050,2851,07 Dec 2024
+123,Khargone,Bhikangaon,Wheat,Wheat,FAQ,2824,2920,2840,08 Dec 2024
+124,Bhind,Bhind,Wheat,Mill Quality,FAQ,2750,2785,2785,04 Dec 2024
+125,Bhind,Bhind,Wheat,Mill Quality,FAQ,2760,2760,2760,06 Dec 2024
+126,Bhind,Bhind,Wheat,Mill Quality,FAQ,2808,2808,2808,05 Dec 2024
+127,Bhind,Bhind,Wheat,Wheat,FAQ,2735,2800,2799,06 Dec 2024
+128,Bhind,Bhind,Wheat,Wheat,FAQ,2748,2806,2798,05 Dec 2024
+129,Bhind,Bhind,Wheat,Wheat,FAQ,2765,2785,2775,04 Dec 2024
+130,Bhind,Bhind,Wheat,Wheat,FAQ,2790,2796,2796,07 Dec 2024
+131,Bhopal,Bhopal,Wheat,Mill Quality,FAQ,2835,2835,2835,06 Dec 2024
+132,Bhopal,Bhopal,Wheat,Wheat,FAQ,2500,3680,2840,06 Dec 2024
+133,Bhopal,Bhopal,Wheat,Wheat,FAQ,2590,3201,2900,05 Dec 2024
+134,Bhopal,Bhopal,Wheat,Wheat,FAQ,2714,4060,2800,07 Dec 2024
+135,Rajgarh,Biaora,Wheat,Mill Quality,FAQ,2665,2860,2790,04 Dec 2024
+136,Rajgarh,Biaora,Wheat,Mill Quality,FAQ,2720,2935,2915,05 Dec 2024
+137,Rajgarh,Biaora,Wheat,Mill Quality,FAQ,2725,2905,2880,07 Dec 2024
+138,Rajgarh,Biaora,Wheat,Mill Quality,FAQ,2780,2885,2820,06 Dec 2024
+139,Rajgarh,Biaora,Wheat,Sharbati,FAQ,2915,2915,2915,07 Dec 2024
+140,Rajgarh,Biaora,Wheat,Wheat,FAQ,2640,2925,2800,04 Dec 2024
+141,Rajgarh,Biaora,Wheat,Wheat,FAQ,2670,2935,2815,05 Dec 2024
+142,Rajgarh,Biaora,Wheat,Wheat,FAQ,2750,3015,2910,06 Dec 2024
+143,Rajgarh,Biaora,Wheat,Wheat,FAQ,2770,3030,2865,07 Dec 2024
+144,Rajgarh,Biaora,Wheat,Wheat,FAQ,2830,2940,2900,08 Dec 2024
+145,Mandla,Bichhiya,Wheat,Mill Quality,FAQ,2500,2700,2600,05 Dec 2024
+146,Mandla,Bichhiya,Wheat,Mill Quality,FAQ,2500,2700,2600,07 Dec 2024
+147,Chhatarpur,Bijawar,Wheat,Mill Quality,FAQ,2490,2525,2525,04 Dec 2024
+148,Chhatarpur,Bijawar,Wheat,Mill Quality,FAQ,2500,2610,2610,05 Dec 2024
+149,Chhatarpur,Bijawar,Wheat,Mill Quality,FAQ,2560,2700,2650,06 Dec 2024
+150,Sagar,Bina,Wheat,Local,FAQ,2852,3555,3555,05 Dec 2024
+151,Sagar,Bina,Wheat,Local,FAQ,2859,3041,3041,04 Dec 2024
+152,Sagar,Bina,Wheat,Mill Quality,FAQ,2740,2850,2840,05 Dec 2024
+153,Sagar,Bina,Wheat,Mill Quality,FAQ,2780,2945,2810,04 Dec 2024
+154,Sagar,Bina,Wheat,Wheat,FAQ,2751,3671,3500,04 Dec 2024
+155,Sagar,Bina,Wheat,Wheat,FAQ,2782,3401,2800,05 Dec 2024
+156,Guna,Binaganj,Wheat,Wheat,FAQ,2670,2835,2805,05 Dec 2024
+157,Guna,Binaganj,Wheat,Wheat,FAQ,2740,2810,2800,04 Dec 2024
+158,Guna,Binaganj,Wheat,Wheat,FAQ,2750,2840,2815,06 Dec 2024
+159,Guna,Binaganj,Wheat,Wheat,FAQ,2780,2890,2890,07 Dec 2024
+160,Shehdol,Budhar,Wheat,Mill Quality,FAQ,2900,2900,2900,07 Dec 2024
+161,Burhanpur,Burhanpur,Wheat,Wheat,FAQ,1781,2700,2700,05 Dec 2024
+162,Burhanpur,Burhanpur,Wheat,Wheat,FAQ,2000,2767,2767,06 Dec 2024
+163,Burhanpur,Burhanpur,Wheat,Wheat,FAQ,2731,2731,2731,04 Dec 2024
+164,Rewa,Chaakghat,Wheat,Mill Quality,FAQ,2380,2750,2725,04 Dec 2024
+165,Rewa,Chaakghat,Wheat,Mill Quality,FAQ,2400,2600,2600,07 Dec 2024
+166,Rewa,Chaakghat,Wheat,Mill Quality,FAQ,2700,2700,2700,08 Dec 2024
+167,Rewa,Chaakghat,Wheat,Mill Quality,FAQ,2780,2780,2780,05 Dec 2024
+168,Rewa,Chaakghat,Wheat,Wheat,FAQ,2505,2515,2515,04 Dec 2024
+169,Rewa,Chaakghat,Wheat,Wheat,FAQ,2510,2510,2510,07 Dec 2024
+170,Ashoknagar,Chanderi,Wheat,Wheat,FAQ,2700,2741,2710,06 Dec 2024
+171,Ashoknagar,Chanderi,Wheat,Wheat,FAQ,4126,4126,4126,04 Dec 2024
+172,Chhindwara,Chaurai,Wheat,Mill Quality,FAQ,2651,2733,2700,04 Dec 2024
+173,Chhindwara,Chaurai,Wheat,Mill Quality,FAQ,2701,2741,2741,06 Dec 2024
+174,Chhindwara,Chaurai,Wheat,Wheat,FAQ,2712,2716,2716,05 Dec 2024
+175,Chhindwara,Chaurai,Wheat,Wheat,FAQ,2765,2765,2765,06 Dec 2024
+176,Rajgarh,Chhapiheda,Wheat,Wheat,FAQ,2770,2810,2810,05 Dec 2024
+177,Chhindwara,Chhindwara,Wheat,Local,FAQ,2781,2873,2873,04 Dec 2024
+178,Chhindwara,Chhindwara,Wheat,Mill Quality,FAQ,2200,2901,2828,04 Dec 2024
+179,Chhindwara,Chhindwara,Wheat,Mill Quality,FAQ,2750,2951,2771,05 Dec 2024
+180,Chhindwara,Chhindwara,Wheat,Mill Quality,FAQ,2810,2942,2875,06 Dec 2024
+181,Chhindwara,Chhindwara,Wheat,Wheat,FAQ,2601,2911,2815,04 Dec 2024
+182,Chhindwara,Chhindwara,Wheat,Wheat,FAQ,2725,3151,2886,05 Dec 2024
+183,Chhindwara,Chhindwara,Wheat,Wheat,FAQ,2807,3201,2851,06 Dec 2024
+184,Gwalior,Dabra,Wheat,Wheat,FAQ,2700,2700,2700,07 Dec 2024
+185,Mandsaur,Daloda,Wheat,Wheat,FAQ,2201,3125,2963,05 Dec 2024
+186,Mandsaur,Daloda,Wheat,Wheat,FAQ,2300,3140,3049,06 Dec 2024
+187,Mandsaur,Daloda,Wheat,Wheat,FAQ,2737,3210,2891,07 Dec 2024
+188,Datia,Datia,Wheat,Mill Quality,FAQ,2690,2952,2952,06 Dec 2024
+189,Datia,Datia,Wheat,Mill Quality,FAQ,2745,2836,2836,04 Dec 2024
+190,Datia,Datia,Wheat,Mill Quality,FAQ,2780,2830,2830,05 Dec 2024
+191,Datia,Datia,Wheat,Wheat,FAQ,2750,2785,2785,05 Dec 2024
+192,Datia,Datia,Wheat,Wheat,FAQ,2810,2862,2862,04 Dec 2024
+193,Datia,Datia,Wheat,Wheat,FAQ,2950,2960,2950,07 Dec 2024
+194,Sagar,Deori,Wheat,Mill Quality,FAQ,2240,2240,2240,08 Dec 2024
+195,Sagar,Deori,Wheat,Mill Quality,FAQ,2260,2660,2660,05 Dec 2024
+196,Sagar,Deori,Wheat,Mill Quality,FAQ,2675,2700,2700,04 Dec 2024
+197,Sagar,Deori,Wheat,Mill Quality,FAQ,2700,2720,2720,07 Dec 2024
+198,Sagar,Deori,Wheat,Wheat,FAQ,2511,2710,2710,06 Dec 2024
+199,Sagar,Deori,Wheat,Wheat,FAQ,2660,2680,2670,04 Dec 2024
+200,Panna,Devandranagar,Wheat,Wheat,FAQ,2710,2710,2710,05 Dec 2024
+201,Dewas,Dewas,Wheat,Wheat,FAQ,1740,3262,2750,06 Dec 2024
+202,Dewas,Dewas,Wheat,Wheat,FAQ,2200,3181,2700,05 Dec 2024
+203,Dewas,Dewas,Wheat,Wheat,FAQ,2650,2675,2675,04 Dec 2024
+204,Dewas,Dewas,Wheat,Wheat,FAQ,2650,3246,2770,07 Dec 2024
+205,Dhar,Dhamnod,Wheat,Wheat,FAQ,2722,2811,2811,04 Dec 2024
+206,Dhar,Dhamnod,Wheat,Wheat-Organic,FAQ,2651,2745,2745,05 Dec 2024
+207,Dhar,Dhar,Wheat,Local,FAQ,2750,2800,2800,05 Dec 2024
+208,Dhar,Dhar,Wheat,Local,FAQ,2860,2860,2860,06 Dec 2024
+209,Dhar,Dhar,Wheat,Lokwan,FAQ,1162,3072,2830,07 Dec 2024
+210,Dhar,Dhar,Wheat,Lokwan,FAQ,2500,3012,2836,04 Dec 2024
+211,Dhar,Dhar,Wheat,Lokwan,FAQ,2550,3050,2864,06 Dec 2024
+212,Dhar,Dhar,Wheat,Lokwan,FAQ,2826,3052,2830,05 Dec 2024
+213,Dhar,Dhar,Wheat,Malwa Shakti,FAQ,2400,2776,2700,06 Dec 2024
+214,Dhar,Dhar,Wheat,Malwa Shakti,FAQ,2450,2810,2810,05 Dec 2024
+215,Dhar,Dhar,Wheat,Malwa Shakti,FAQ,2712,2712,2712,04 Dec 2024
+216,Dhar,Dhar,Wheat,Malwa Shakti,FAQ,2735,2735,2735,07 Dec 2024
+217,Dhar,Dhar,Wheat,Mill Quality,FAQ,1400,3112,2860,05 Dec 2024
+218,Dhar,Dhar,Wheat,Mill Quality,FAQ,1500,3090,2832,06 Dec 2024
+219,Dhar,Dhar,Wheat,Mill Quality,FAQ,1810,3052,2868,07 Dec 2024
+220,Dhar,Dhar,Wheat,Mill Quality,FAQ,2450,3100,2870,04 Dec 2024
+221,Dhar,Dhar,Wheat,Wheat,FAQ,2450,2962,2820,04 Dec 2024
+222,Dhar,Dhar,Wheat,Wheat,FAQ,2480,2900,2900,07 Dec 2024
+223,Dhar,Dhar,Wheat,Wheat,FAQ,2500,2962,2922,06 Dec 2024
+224,Dhar,Dhar,Wheat,Wheat,FAQ,2554,2976,2866,05 Dec 2024
+225,Dindori,Dindori,Wheat,Local,FAQ,2500,2500,2500,04 Dec 2024
+226,Dindori,Dindori,Wheat,Local,FAQ,2500,2660,2650,07 Dec 2024
+227,Dindori,Dindori,Wheat,Local,FAQ,2600,2600,2600,05 Dec 2024
+228,Dindori,Dindori,Wheat,Mill Quality,FAQ,2475,2530,2530,06 Dec 2024
+229,Dindori,Dindori,Wheat,Mill Quality,FAQ,2500,2550,2550,07 Dec 2024
+230,Dindori,Dindori,Wheat,Wheat,FAQ,2275,2275,2275,05 Dec 2024
+231,Dindori,Dindori,Wheat,Wheat,FAQ,2680,2680,2680,07 Dec 2024
+232,Narsinghpur,Gadarwada,Wheat,Mill Quality,FAQ,2572,2778,2730,05 Dec 2024
+233,Narsinghpur,Gadarwada,Wheat,Mill Quality,FAQ,2641,2851,2711,06 Dec 2024
+234,Narsinghpur,Gadarwada,Wheat,Mill Quality,FAQ,2680,2764,2764,04 Dec 2024
+235,Narsinghpur,Gadarwada,Wheat,Mill Quality,FAQ,2696,2727,2727,07 Dec 2024
+236,Raisen,Gairatganj,Wheat,Wheat,FAQ,2500,2650,2650,05 Dec 2024
+237,Raisen,Gairatganj,Wheat,Wheat,FAQ,2700,2810,2800,06 Dec 2024
+238,Raisen,Gairatganj,Wheat,Wheat,FAQ,2701,2830,2800,07 Dec 2024
+239,Dhar,Gandhwani,Wheat,Mill Quality,FAQ,2800,2830,2830,04 Dec 2024
+240,Dhar,Gandhwani,Wheat,Wheat,FAQ,2800,2850,2850,05 Dec 2024
+241,Dhar,Gandhwani,Wheat,Wheat,FAQ,2840,2840,2840,04 Dec 2024
+242,Vidisha,Ganjbasoda,Wheat,Lokwan,FAQ,2790,2790,2790,04 Dec 2024
+243,Vidisha,Ganjbasoda,Wheat,Lokwan,FAQ,2889,2889,2889,05 Dec 2024
+244,Vidisha,Ganjbasoda,Wheat,Malwa Shakti,FAQ,2800,2860,2860,04 Dec 2024
+245,Vidisha,Ganjbasoda,Wheat,Malwa Shakti,FAQ,2875,2875,2875,07 Dec 2024
+246,Vidisha,Ganjbasoda,Wheat,Malwa Shakti,FAQ,2886,2936,2936,06 Dec 2024
+247,Vidisha,Ganjbasoda,Wheat,Mill Quality,FAQ,2640,2951,2800,06 Dec 2024
+248,Vidisha,Ganjbasoda,Wheat,Mill Quality,FAQ,2648,2822,2700,04 Dec 2024
+249,Vidisha,Ganjbasoda,Wheat,Mill Quality,FAQ,2690,2900,2700,07 Dec 2024
+250,Vidisha,Ganjbasoda,Wheat,Mill Quality,FAQ,2695,2819,2819,05 Dec 2024
+251,Vidisha,Ganjbasoda,Wheat,Sharbati,FAQ,2820,4100,4100,05 Dec 2024
+252,Vidisha,Ganjbasoda,Wheat,Sharbati,FAQ,3710,4260,3710,07 Dec 2024
+253,Vidisha,Ganjbasoda,Wheat,Sharbati,FAQ,3900,4390,4390,04 Dec 2024
+254,Vidisha,Ganjbasoda,Wheat,Sharbati,FAQ,3930,3930,3930,06 Dec 2024
+255,Vidisha,Ganjbasoda,Wheat,Sujata,FAQ,2070,3401,2895,04 Dec 2024
+256,Vidisha,Ganjbasoda,Wheat,Sujata,FAQ,2645,3901,2850,05 Dec 2024
+257,Vidisha,Ganjbasoda,Wheat,Sujata,FAQ,2700,3041,2900,07 Dec 2024
+258,Vidisha,Ganjbasoda,Wheat,Sujata,FAQ,2708,3016,2900,06 Dec 2024
+259,Vidisha,Ganjbasoda,Wheat,Wheat,FAQ,2380,2870,2870,06 Dec 2024
+260,Vidisha,Ganjbasoda,Wheat,Wheat,FAQ,2725,2966,2966,07 Dec 2024
+261,Vidisha,Ganjbasoda,Wheat,Wheat,FAQ,2793,3069,2870,04 Dec 2024
+262,Vidisha,Ganjbasoda,Wheat,Wheat,FAQ,2820,2961,2961,05 Dec 2024
+263,Vidisha,Ganjbasoda,Wheat,Wheat Mix,FAQ,2686,2829,2829,05 Dec 2024
+264,Vidisha,Ganjbasoda,Wheat,Wheat Mix,FAQ,2775,2775,2775,04 Dec 2024
+265,Mandsaur,Garoth,Wheat,Wheat,FAQ,2650,2745,2745,04 Dec 2024
+266,Indore,Gautampura,Wheat,Lokwan,FAQ,2600,2800,2800,06 Dec 2024
+267,Indore,Gautampura,Wheat,Wheat,FAQ,2500,2785,2700,05 Dec 2024
+268,Indore,Gautampura,Wheat,Wheat,FAQ,2500,2810,2810,04 Dec 2024
+269,Indore,Gautampura,Wheat,Wheat,FAQ,2640,2740,2700,07 Dec 2024
+270,Indore,Gautampura,Wheat,Wheat,FAQ,2720,2816,2816,06 Dec 2024
+271,Seoni,Ghansour,Wheat,Mill Quality,FAQ,2000,2100,2100,05 Dec 2024
+272,Bhind,Gohad,Wheat,Mill Quality,FAQ,2650,2845,2845,04 Dec 2024
+273,Bhind,Gohad,Wheat,Mill Quality,FAQ,2780,2810,2795,05 Dec 2024
+274,Bhind,Gohad,Wheat,Mill Quality,FAQ,2790,2820,2820,06 Dec 2024
+275,Bhind,Gohad,Wheat,Mill Quality,FAQ,2800,2825,2800,07 Dec 2024
+276,Dindori,Gorakhpur,Wheat,Mill Quality,FAQ,2400,2500,2500,05 Dec 2024
+277,Dindori,Gorakhpur,Wheat,Mill Quality,FAQ,2400,2600,2600,07 Dec 2024
+278,Dindori,Gorakhpur,Wheat,Mill Quality,FAQ,2600,2600,2600,08 Dec 2024
+279,Dindori,Gorakhpur,Wheat,Mill Quality,FAQ,2600,2610,2610,06 Dec 2024
+280,Narsinghpur,Gotegaon,Wheat,Wheat,FAQ,2760,2800,2775,04 Dec 2024
+281,Narsinghpur,Gotegaon,Wheat,Wheat,FAQ,2765,2825,2810,06 Dec 2024
+282,Narsinghpur,Gotegaon,Wheat,Wheat,FAQ,2775,2850,2800,05 Dec 2024
+283,Narsinghpur,Gotegaon(F&V),Wheat,Local,FAQ,2760,2800,2775,04 Dec 2024
+284,Narsinghpur,Gotegaon(F&V),Wheat,Local,FAQ,2765,2825,2810,06 Dec 2024
+285,Narsinghpur,Gotegaon(F&V),Wheat,Local,FAQ,2775,2850,2800,05 Dec 2024
+286,Guna,Guna,Wheat,Wheat,FAQ,2600,3985,3080,04 Dec 2024
+287,Guna,Guna,Wheat,Wheat,FAQ,2700,4140,3000,06 Dec 2024
+288,Guna,Guna,Wheat,Wheat,FAQ,2720,4200,3070,05 Dec 2024
+289,Guna,Guna,Wheat,Wheat,FAQ,2730,3790,3180,07 Dec 2024
+290,Dewas,Haatpipliya,Wheat,Wheat,FAQ,2400,2400,2400,08 Dec 2024
+291,Dewas,Haatpipliya,Wheat,Wheat,FAQ,2531,2976,2700,06 Dec 2024
+292,Dewas,Haatpipliya,Wheat,Wheat,FAQ,2611,2980,2776,07 Dec 2024
+293,Dewas,Haatpipliya,Wheat,Wheat,FAQ,2630,3075,2840,05 Dec 2024
+294,Rewa,Hanumana,Wheat,Mill Quality,FAQ,2600,2600,2600,04 Dec 2024
+295,Rewa,Hanumana,Wheat,Mill Quality,FAQ,2650,2650,2650,05 Dec 2024
+296,Harda,Harda,Wheat,Mill Quality,FAQ,1500,2881,2820,06 Dec 2024
+297,Harda,Harda,Wheat,Mill Quality,FAQ,2300,2869,2826,07 Dec 2024
+298,Harda,Harda,Wheat,Mill Quality,FAQ,2366,2814,2750,04 Dec 2024
+299,Harda,Harda,Wheat,Mill Quality,FAQ,2400,2839,2774,05 Dec 2024
+300,Chhatarpur,Harpalpur,Wheat,Wheat,FAQ,2680,2740,2740,04 Dec 2024
+301,Chhatarpur,Harpalpur,Wheat,Wheat,FAQ,2700,2750,2750,06 Dec 2024
+302,Chhatarpur,Harpalpur,Wheat,Wheat,FAQ,2740,2820,2811,05 Dec 2024
+303,Khandwa,Harsood,Wheat,Mill Quality,FAQ,1710,2803,2791,07 Dec 2024
+304,Khandwa,Harsood,Wheat,Mill Quality,FAQ,2701,2785,2785,05 Dec 2024
+305,Khandwa,Harsood,Wheat,Mill Quality,FAQ,2729,2786,2786,04 Dec 2024
+306,Khandwa,Harsood,Wheat,Mill Quality,FAQ,2750,2801,2801,06 Dec 2024
+307,Khandwa,Harsood,Wheat,Wheat,FAQ,2500,2500,2500,07 Dec 2024
+308,Khandwa,Harsood,Wheat,Wheat,FAQ,2650,2800,2790,04 Dec 2024
+309,Khandwa,Harsood,Wheat,Wheat,FAQ,2770,2800,2800,05 Dec 2024
+310,Khandwa,Harsood,Wheat,Wheat,FAQ,2770,2822,2822,06 Dec 2024
+311,Hoshangabad,Hoshangabad,Wheat,Mill Quality,FAQ,2640,2700,2700,06 Dec 2024
+312,Hoshangabad,Hoshangabad,Wheat,Mill Quality,FAQ,2700,2700,2700,05 Dec 2024
+313,Hoshangabad,Hoshangabad(F&V),Wheat,Wheat,FAQ,2640,2700,2650,06 Dec 2024
+314,Sehore,Ichhawar,Wheat,Wheat,FAQ,2500,2991,2510,07 Dec 2024
+315,Sehore,Ichhawar,Wheat,Wheat,FAQ,2600,2800,2725,04 Dec 2024
+316,Sehore,Ichhawar,Wheat,Wheat,FAQ,2625,3060,2831,05 Dec 2024
+317,Sehore,Ichhawar,Wheat,Wheat,FAQ,2770,2932,2851,06 Dec 2024
+318,Sehore,Ichhawar(F&V),Wheat,Lokwan,FAQ,2756,2800,2766,04 Dec 2024
+319,Sehore,Ichhawar(F&V),Wheat,Lokwan,FAQ,2836,3050,2871,05 Dec 2024
+320,Sehore,Ichhawar(F&V),Wheat,Lokwan,FAQ,2850,2911,2870,06 Dec 2024
+321,Sehore,Ichhawar(F&V),Wheat,Lokwan,FAQ,2860,2991,2875,07 Dec 2024
+322,Sehore,Ichhawar(F&V),Wheat,Mill Quality,FAQ,2692,2750,2728,04 Dec 2024
+323,Sehore,Ichhawar(F&V),Wheat,Mill Quality,FAQ,2766,2833,2820,05 Dec 2024
+324,Sehore,Ichhawar(F&V),Wheat,Mill Quality,FAQ,2800,2861,2850,07 Dec 2024
+325,Sehore,Ichhawar(F&V),Wheat,Mill Quality,FAQ,2800,2871,2860,06 Dec 2024
+326,Sehore,Ichhawar(F&V),Wheat,Other,FAQ,2600,2635,2625,04 Dec 2024
+327,Sehore,Ichhawar(F&V),Wheat,Other,FAQ,2700,2750,2730,05 Dec 2024
+328,Sehore,Ichhawar(F&V),Wheat,Other,FAQ,2700,2750,2740,07 Dec 2024
+329,Sehore,Ichhawar(F&V),Wheat,Other,FAQ,2750,2781,2771,06 Dec 2024
+330,Sehore,Ichhawar(F&V),Wheat,Sharbati,FAQ,3171,3171,3171,06 Dec 2024
+331,Indore,Indore,Wheat,Mill Quality,FAQ,2000,3280,3030,06 Dec 2024
+332,Indore,Indore,Wheat,Mill Quality,FAQ,2000,3366,2950,05 Dec 2024
+333,Indore,Indore,Wheat,Mill Quality,FAQ,2701,3308,2998,07 Dec 2024
+334,Indore,Indore,Wheat,Sujata,FAQ,2745,2745,2745,05 Dec 2024
+335,Indore,Indore,Wheat,Wheat,FAQ,1500,2923,2831,05 Dec 2024
+336,Indore,Indore,Wheat,Wheat,FAQ,2576,3500,2834,06 Dec 2024
+337,Indore,Indore,Wheat,Wheat,FAQ,2700,3025,2846,07 Dec 2024
+338,Indore,Indore,Wheat,Wheat,FAQ,2725,2725,2725,04 Dec 2024
+339,Hoshangabad,Itarsi,Wheat,Mill Quality,FAQ,2805,2831,2831,05 Dec 2024
+340,Hoshangabad,Itarsi,Wheat,Wheat,FAQ,1000,2951,2851,04 Dec 2024
+341,Hoshangabad,Itarsi,Wheat,Wheat,FAQ,1800,3015,2700,05 Dec 2024
+342,Hoshangabad,Itarsi,Wheat,Wheat,FAQ,2100,3082,2700,06 Dec 2024
+343,Hoshangabad,Itarsi,Wheat,Wheat,FAQ,2300,2853,2775,07 Dec 2024
+344,Jabalpur,Jabalpur,Wheat,Mill Quality,FAQ,2611,2650,2650,04 Dec 2024
+345,Jabalpur,Jabalpur,Wheat,Mill Quality,FAQ,2650,2790,2780,06 Dec 2024
+346,Jabalpur,Jabalpur,Wheat,Mill Quality,FAQ,2735,2788,2775,07 Dec 2024
+347,Jabalpur,Jabalpur,Wheat,Mill Quality,FAQ,2810,2810,2810,05 Dec 2024
+348,Jabalpur,Jabalpur,Wheat,Mohan Mondal,FAQ,2782,2782,2782,06 Dec 2024
+349,Jabalpur,Jabalpur,Wheat,Wheat,FAQ,2600,2861,2760,04 Dec 2024
+350,Jabalpur,Jabalpur,Wheat,Wheat,FAQ,2600,2867,2782,06 Dec 2024
+351,Jabalpur,Jabalpur,Wheat,Wheat,FAQ,2600,2871,2600,07 Dec 2024
+352,Jabalpur,Jabalpur,Wheat,Wheat,FAQ,2681,2885,2776,05 Dec 2024
+353,Jabalpur,Jabalpur,Wheat,Wheat Mix,FAQ,2642,2642,2642,07 Dec 2024
+354,Sagar,Jaisinagar,Wheat,Mill Quality,FAQ,2580,2630,2630,06 Dec 2024
+355,Sagar,Jaisinagar,Wheat,Mill Quality,FAQ,2600,2665,2665,04 Dec 2024
+356,Ratlam,Jaora,Wheat,Mill Quality,FAQ,2928,2928,2928,04 Dec 2024
+357,Ratlam,Jaora,Wheat,Wheat,FAQ,1500,3561,2980,05 Dec 2024
+358,Ratlam,Jaora,Wheat,Wheat,FAQ,2000,3623,3100,07 Dec 2024
+359,Ratlam,Jaora,Wheat,Wheat,FAQ,2350,3550,2970,04 Dec 2024
+360,Ratlam,Jaora,Wheat,Wheat,FAQ,2623,3361,3060,06 Dec 2024
+361,Ratlam,Jaora,Wheat,Wheat Mix,FAQ,3081,3081,3081,05 Dec 2024
+362,Tikamgarh,Jatara,Wheat,Mill Quality,FAQ,2660,2675,2660,04 Dec 2024
+363,Tikamgarh,Jatara,Wheat,Wheat,FAQ,2500,2500,2500,07 Dec 2024
+364,Tikamgarh,Jatara,Wheat,Wheat,FAQ,2500,2750,2500,06 Dec 2024
+365,Tikamgarh,Jatara,Wheat,Wheat,FAQ,2700,2740,2700,05 Dec 2024
+366,Tikamgarh,Jatara,Wheat,Wheat,FAQ,2810,2840,2820,04 Dec 2024
+367,Damoh,Javera,Wheat,Mill Quality,FAQ,2720,2740,2740,05 Dec 2024
+368,Damoh,Javera,Wheat,Wheat,FAQ,2680,2680,2680,05 Dec 2024
+369,Damoh,Javera,Wheat,Wheat,FAQ,2725,2725,2725,06 Dec 2024
+370,Sehore,Jawar,Wheat,Mill Quality,FAQ,2550,2800,2636,05 Dec 2024
+371,Sehore,Jawar,Wheat,Wheat,FAQ,1400,2886,2857,06 Dec 2024
+372,Sehore,Jawar,Wheat,Wheat,FAQ,2610,2821,2658,05 Dec 2024
+373,Sehore,Jawar,Wheat,Wheat,FAQ,2650,2890,2751,07 Dec 2024
+374,Rajgarh,Jeerapur,Wheat,Mill Quality,FAQ,2800,2895,2895,05 Dec 2024
+375,Rajgarh,Jeerapur,Wheat,Mill Quality,FAQ,2800,2925,2915,06 Dec 2024
+376,Rajgarh,Jeerapur,Wheat,Mill Quality,FAQ,2875,2935,2890,07 Dec 2024
+377,Rajgarh,Jeerapur,Wheat,Wheat,FAQ,2650,2920,2900,06 Dec 2024
+378,Rajgarh,Jeerapur,Wheat,Wheat,FAQ,2755,2910,2900,05 Dec 2024
+379,Rajgarh,Jeerapur,Wheat,Wheat,FAQ,2800,2940,2900,07 Dec 2024
+380,Jhabua,Jhabua,Wheat,Wheat,FAQ,2425,2500,2500,04 Dec 2024
+381,Jhabua,Jhabua,Wheat,Wheat,FAQ,2575,2701,2701,07 Dec 2024
+382,Jhabua,Jhabua(F&V),Wheat,Wheat,FAQ,2425,2500,2463,04 Dec 2024
+383,Alirajpur,Jobat,Wheat,Wheat,FAQ,2500,2700,2700,05 Dec 2024
+384,Alirajpur,Jobat,Wheat,Wheat,FAQ,2550,2700,2600,07 Dec 2024
+385,Alirajpur,Jobat,Wheat,Wheat,FAQ,2600,2700,2700,06 Dec 2024
+386,Alirajpur,Jobat,Wheat,Wheat,FAQ,2650,2800,2800,04 Dec 2024
+387,Alirajpur,Jobat(F&V),Wheat,147 Average,FAQ,2500,2700,2700,05 Dec 2024
+388,Alirajpur,Jobat(F&V),Wheat,147 Average,FAQ,2650,2800,2800,04 Dec 2024
+389,Morena,Kailaras,Wheat,Local,FAQ,2798,2800,2800,06 Dec 2024
+390,Morena,Kailaras,Wheat,Wheat,FAQ,2761,2797,2797,05 Dec 2024
+391,Morena,Kailaras,Wheat,Wheat,FAQ,2772,2779,2779,04 Dec 2024
+392,Shajapur,Kalapipal,Wheat,Mill Quality,FAQ,2775,2775,2775,05 Dec 2024
+393,Shajapur,Kalapipal,Wheat,Wheat,FAQ,2595,2775,2595,08 Dec 2024
+394,Shajapur,Kalapipal,Wheat,Wheat,FAQ,2737,3000,2890,06 Dec 2024
+395,Shajapur,Kalapipal,Wheat,Wheat,FAQ,2771,3002,2846,05 Dec 2024
+396,Dewas,Kannod,Wheat,Wheat,FAQ,2600,2870,2770,05 Dec 2024
+397,Dewas,Kannod,Wheat,Wheat,FAQ,2725,2848,2776,06 Dec 2024
+398,Dewas,Kannod,Wheat,Wheat,FAQ,2890,2901,2901,07 Dec 2024
+399,Narsinghpur,Kareli,Wheat,Local,FAQ,2813,3000,3000,05 Dec 2024
+400,Narsinghpur,Kareli,Wheat,Wheat,FAQ,2690,2690,2690,05 Dec 2024
+401,Narsinghpur,Kareli,Wheat,Wheat,FAQ,2715,2771,2740,06 Dec 2024
+402,Narsinghpur,Kareli,Wheat,Wheat,FAQ,2726,2740,2740,07 Dec 2024
+403,Narsinghpur,Kareli(F&V),Wheat,Local,FAQ,2600,2815,2708,06 Dec 2024
+404,Narsinghpur,Kareli(F&V),Wheat,Local,FAQ,2700,2770,2750,04 Dec 2024
+405,Narsinghpur,Kareli(F&V),Wheat,Local,FAQ,2700,3000,2850,05 Dec 2024
+406,Shivpuri,Karera,Wheat,Mill Quality,FAQ,2600,2600,2600,04 Dec 2024
+407,Shivpuri,Karera,Wheat,Mill Quality,FAQ,2600,2600,2600,05 Dec 2024
+408,Shivpuri,Karera,Wheat,Mill Quality,FAQ,2600,2600,2600,07 Dec 2024
+409,Shivpuri,Karera,Wheat,Wheat,FAQ,2780,2780,2780,06 Dec 2024
+410,Khargone,Karhi,Wheat,Mill Quality,FAQ,2820,2850,2850,07 Dec 2024
+411,Khargone,Karhi,Wheat,Mill Quality,FAQ,2885,2885,2885,05 Dec 2024
+412,Khargone,Karhi,Wheat,Wheat,FAQ,2700,2725,2700,04 Dec 2024
+413,Khargone,Karhi,Wheat,Wheat,FAQ,2700,2755,2755,07 Dec 2024
+414,Khargone,Karhi,Wheat,Wheat,FAQ,2725,2750,2750,05 Dec 2024
+415,Khargone,Kasrawad,Wheat,Mill Quality,FAQ,2685,2900,2900,04 Dec 2024
+416,Khargone,Kasrawad,Wheat,Mill Quality,FAQ,2750,2940,2750,05 Dec 2024
+417,Khargone,Kasrawad,Wheat,Mill Quality,FAQ,2786,2925,2900,06 Dec 2024
+418,Khargone,Kasrawad,Wheat,Mill Quality,FAQ,2850,2975,2910,07 Dec 2024
+419,Khargone,Kasrawad,Wheat,Wheat,FAQ,2785,2980,2980,04 Dec 2024
+420,Khargone,Kasrawad,Wheat,Wheat,FAQ,2800,2935,2925,06 Dec 2024
+421,Khargone,Kasrawad,Wheat,Wheat,FAQ,2830,2935,2935,05 Dec 2024
+422,Khargone,Kasrawad,Wheat,Wheat,FAQ,2875,2930,2905,07 Dec 2024
+423,Khargone,Kasrawad,Wheat,Wheat Mix,FAQ,2755,2950,2950,06 Dec 2024
+424,Khargone,Kasrawad,Wheat,Wheat Mix,FAQ,2800,2920,2920,07 Dec 2024
+425,Katni,Katni,Wheat,Mill Quality,FAQ,2251,2929,2700,04 Dec 2024
+426,Katni,Katni,Wheat,Mill Quality,FAQ,2302,2871,2800,07 Dec 2024
+427,Katni,Katni,Wheat,Mill Quality,FAQ,2500,2871,2610,06 Dec 2024
+428,Katni,Katni,Wheat,Mill Quality,FAQ,2600,2870,2800,05 Dec 2024
+429,Katni,Katni,Wheat,Mill Quality,FAQ,2610,2610,2610,08 Dec 2024
+430,Katni,Katni,Wheat,Wheat,FAQ,2730,2770,2770,06 Dec 2024
+431,Katni,Katni,Wheat,Wheat,FAQ,2750,2851,2838,04 Dec 2024
+432,Katni,Katni,Wheat,Wheat,FAQ,2755,2756,2756,08 Dec 2024
+433,Katni,Katni,Wheat,Wheat,FAQ,2800,2800,2800,07 Dec 2024
+434,Katni,Katni,Wheat,Wheat,FAQ,2827,2827,2827,05 Dec 2024
+435,Sagar,Kesli,Wheat,Wheat,FAQ,2650,2725,2695,05 Dec 2024
+436,Sagar,Kesli,Wheat,Wheat,FAQ,2670,2680,2670,07 Dec 2024
+437,Ujjain,Khachrod,Wheat,Wheat,FAQ,2550,3551,2650,04 Dec 2024
+438,Ujjain,Khachrod,Wheat,Wheat,FAQ,2850,3375,3375,06 Dec 2024
+439,Khandwa,Khandwa,Wheat,Mill Quality,FAQ,2224,2950,2852,05 Dec 2024
+440,Khandwa,Khandwa,Wheat,Mill Quality,FAQ,2725,2912,2850,07 Dec 2024
+441,Khandwa,Khandwa,Wheat,Mill Quality,FAQ,2771,2981,2876,06 Dec 2024
+442,Shivpuri,Khanyadhana,Wheat,Mill Quality,FAQ,2600,2740,2600,04 Dec 2024
+443,Shivpuri,Khanyadhana,Wheat,Mill Quality,FAQ,2670,2675,2675,06 Dec 2024
+444,Shivpuri,Khanyadhana,Wheat,Mill Quality,FAQ,2690,2750,2750,05 Dec 2024
+445,Tikamgarh,Khargapur,Wheat,Mill Quality,FAQ,2650,2690,2690,06 Dec 2024
+446,Tikamgarh,Khargapur,Wheat,Mill Quality,FAQ,2660,2700,2700,04 Dec 2024
+447,Khargone,Khargone,Wheat,Mill Quality,FAQ,2896,2896,2896,06 Dec 2024
+448,Khargone,Khargone,Wheat,Sujata,FAQ,2976,2976,2976,05 Dec 2024
+449,Khargone,Khargone,Wheat,Wheat,FAQ,2550,3030,2900,05 Dec 2024
+450,Khargone,Khargone,Wheat,Wheat,FAQ,2600,2996,2800,07 Dec 2024
+451,Khargone,Khargone,Wheat,Wheat,FAQ,2600,3101,2850,06 Dec 2024
+452,Khargone,Khargone,Wheat,Wheat,FAQ,2800,2900,2900,04 Dec 2024
+453,Khargone,Khargone,Wheat,Wheat Mix,FAQ,2775,3006,3006,06 Dec 2024
+454,Khargone,Khargone,Wheat,Wheat Mix,FAQ,2801,2801,2801,05 Dec 2024
+455,Khargone,Khargone,Wheat,Wheat Mix,FAQ,2875,2875,2875,07 Dec 2024
+456,Dewas,Khategaon,Wheat,Mill Quality,FAQ,2600,2838,2600,04 Dec 2024
+457,Dewas,Khategaon,Wheat,Mill Quality,FAQ,2600,2881,2600,06 Dec 2024
+458,Dewas,Khategaon,Wheat,Mill Quality,FAQ,2725,2825,2825,05 Dec 2024
+459,Dewas,Khategaon,Wheat,Mill Quality,FAQ,2750,2861,2780,07 Dec 2024
+460,Dewas,Khategaon,Wheat,Wheat,FAQ,2500,2862,2800,06 Dec 2024
+461,Dewas,Khategaon,Wheat,Wheat,FAQ,2591,2837,2801,07 Dec 2024
+462,Dewas,Khategaon,Wheat,Wheat,FAQ,2597,2900,2780,05 Dec 2024
+463,Dewas,Khategaon,Wheat,Wheat,FAQ,2700,2860,2726,04 Dec 2024
+464,Shivpuri,Khatora,Wheat,Wheat,FAQ,3200,3200,3200,05 Dec 2024
+465,Badwani,Khetia,Wheat,Lokwan,FAQ,2780,2780,2780,05 Dec 2024
+466,Badwani,Khetia,Wheat,Wheat,FAQ,2750,2750,2750,06 Dec 2024
+467,Rajgarh,Khilchipur,Wheat,Mill Quality,FAQ,2764,2787,2787,04 Dec 2024
+468,Rajgarh,Khilchipur,Wheat,Mill Quality,FAQ,2820,2830,2830,06 Dec 2024
+469,Rajgarh,Khilchipur,Wheat,Wheat,FAQ,2700,2756,2756,04 Dec 2024
+470,Rajgarh,Khilchipur,Wheat,Wheat,FAQ,2770,2781,2781,06 Dec 2024
+471,Rajgarh,Khilchipur,Wheat,Wheat,FAQ,2778,2801,2801,05 Dec 2024
+472,Rajgarh,Khilchipur,Wheat,Wheat,FAQ,2831,2872,2872,07 Dec 2024
+473,Harda,Khirakiya,Wheat,Mill Quality,FAQ,1540,2862,2804,06 Dec 2024
+474,Harda,Khirakiya,Wheat,Mill Quality,FAQ,2450,2870,2810,07 Dec 2024
+475,Harda,Khirakiya,Wheat,Mill Quality,FAQ,2728,2813,2771,04 Dec 2024
+476,Rajgarh,Khujner,Wheat,Mill Quality,FAQ,2190,2200,2200,06 Dec 2024
+477,Rajgarh,Khujner,Wheat,Wheat,FAQ,2674,2838,2834,04 Dec 2024
+478,Rajgarh,Khujner,Wheat,Wheat,FAQ,2721,2833,2800,05 Dec 2024
+479,Rajgarh,Khujner,Wheat,Wheat,FAQ,2725,2845,2845,06 Dec 2024
+480,Rajgarh,Khujner,Wheat,Wheat,FAQ,2780,2833,2833,07 Dec 2024
+481,Sagar,Khurai,Wheat,Sharbati,FAQ,2603,3650,3650,05 Dec 2024
+482,Sagar,Khurai,Wheat,Sharbati,FAQ,2780,3570,3570,04 Dec 2024
+483,Sagar,Khurai,Wheat,Sharbati,FAQ,3460,4170,3600,06 Dec 2024
+484,Sagar,Khurai,Wheat,Wheat,FAQ,2550,3540,2750,06 Dec 2024
+485,Sagar,Khurai,Wheat,Wheat,FAQ,2600,2882,2835,04 Dec 2024
+486,Sagar,Khurai,Wheat,Wheat,FAQ,2600,2930,2811,05 Dec 2024
+487,Shivpuri,Kolaras,Wheat,Wheat,FAQ,2500,2665,2665,04 Dec 2024
+488,Shivpuri,Kolaras,Wheat,Wheat,FAQ,2635,2675,2675,05 Dec 2024
+489,Shivpuri,Kolaras,Wheat,Wheat,FAQ,2705,2705,2705,06 Dec 2024
+490,Shivpuri,Kolaras,Wheat,Wheat,FAQ,2720,2720,2720,07 Dec 2024
+491,Dhar,Kukshi,Wheat,Lokwan,FAQ,2600,2700,2700,06 Dec 2024
+492,Dhar,Kukshi,Wheat,Mill Quality,FAQ,2500,2500,2500,07 Dec 2024
+493,Dhar,Kukshi,Wheat,Wheat,FAQ,28,2900,2800,07 Dec 2024
+494,Dhar,Kukshi,Wheat,Wheat,FAQ,2450,2800,2800,08 Dec 2024
+495,Dhar,Kukshi,Wheat,Wheat,FAQ,2650,2740,2700,04 Dec 2024
+496,Dhar,Kukshi,Wheat,Wheat,FAQ,2650,2850,2750,06 Dec 2024
+497,Dhar,Kukshi,Wheat,Wheat,FAQ,2700,2825,2825,05 Dec 2024
+498,Guna,Kumbhraj,Wheat,Mill Quality,FAQ,2225,2980,2750,06 Dec 2024
+499,Guna,Kumbhraj,Wheat,Mill Quality,FAQ,2255,2965,2750,07 Dec 2024
+500,Guna,Kumbhraj,Wheat,Mill Quality,FAQ,2505,2750,2505,04 Dec 2024
+501,Guna,Kumbhraj,Wheat,Mill Quality,FAQ,2530,2940,2940,05 Dec 2024
+502,Guna,Kumbhraj,Wheat,Wheat,FAQ,2190,2190,2190,06 Dec 2024
+503,Rajgarh,Kurawar,Wheat,Lokwan,FAQ,2940,2940,2940,07 Dec 2024
+504,Rajgarh,Kurawar,Wheat,Mill Quality,FAQ,2640,2885,2850,04 Dec 2024
+505,Rajgarh,Kurawar,Wheat,Mill Quality,FAQ,2670,2965,2915,07 Dec 2024
+506,Rajgarh,Kurawar,Wheat,Mill Quality,FAQ,2675,2995,2775,06 Dec 2024
+507,Rajgarh,Kurawar,Wheat,Wheat,FAQ,2645,2915,2815,04 Dec 2024
+508,Rajgarh,Kurawar,Wheat,Wheat,FAQ,2655,2975,2820,06 Dec 2024
+509,Rajgarh,Kurawar,Wheat,Wheat,FAQ,2700,2985,2875,07 Dec 2024
+510,Rajgarh,Kurawar,Wheat,Wheat Mix,FAQ,2640,2870,2735,04 Dec 2024
+511,Rajgarh,Kurawar,Wheat,Wheat Mix,FAQ,2680,2730,2715,07 Dec 2024
+512,Rajgarh,Kurawar,Wheat,Wheat Mix,FAQ,2695,2705,2695,06 Dec 2024
+513,Bhind,Lahar,Wheat,Local,FAQ,2715,2777,2777,04 Dec 2024
+514,Bhind,Lahar,Wheat,Local,FAQ,2750,2778,2778,06 Dec 2024
+515,Bhind,Lahar,Wheat,Local,FAQ,2779,2779,2779,05 Dec 2024
+516,Bhind,Lahar,Wheat,Local,FAQ,2809,2810,2810,07 Dec 2024
+517,Bhind,Lahar,Wheat,Mill Quality,FAQ,2710,2772,2772,04 Dec 2024
+518,Bhind,Lahar,Wheat,Mill Quality,FAQ,2770,2770,2770,05 Dec 2024
+519,Bhind,Lahar,Wheat,Mill Quality,FAQ,2799,2799,2799,07 Dec 2024
+520,Bhind,Lahar,Wheat,Wheat,FAQ,2671,2671,2671,05 Dec 2024
+521,Bhind,Lahar,Wheat,Wheat,FAQ,2794,2799,2799,04 Dec 2024
+522,Bhind,Lahar,Wheat,Wheat Mix,FAQ,2720,2790,2790,04 Dec 2024
+523,Gwalior,Lashkar,Wheat,Mill Quality,FAQ,2840,2840,2840,06 Dec 2024
+524,Gwalior,Lashkar,Wheat,Wheat,FAQ,2775,2895,2815,07 Dec 2024
+525,Gwalior,Lashkar,Wheat,Wheat,FAQ,2805,2865,2825,05 Dec 2024
+526,Gwalior,Lashkar,Wheat,Wheat,FAQ,2810,2900,2850,06 Dec 2024
+527,Gwalior,Lashkar,Wheat,Wheat,FAQ,2830,2865,2850,04 Dec 2024
+528,Gwalior,Lashkar,Wheat,Wheat Mix,FAQ,2800,2800,2800,07 Dec 2024
+529,Vidisha,Lateri,Wheat,Wheat,FAQ,2850,3000,3000,06 Dec 2024
+530,Chhatarpur,LavKush Nagar(Laundi),Wheat,Mill Quality,FAQ,2410,2660,2600,07 Dec 2024
+531,Dewas,Loharda,Wheat,Wheat,FAQ,2650,3000,3000,06 Dec 2024
+532,Dewas,Loharda,Wheat,Wheat,FAQ,2652,2652,2652,04 Dec 2024
+533,Dewas,Loharda,Wheat,Wheat,FAQ,2949,2949,2949,07 Dec 2024
+534,Shivpuri,Magroni,Wheat,Wheat,FAQ,2655,2655,2655,04 Dec 2024
+535,Shivpuri,Magroni,Wheat,Wheat,FAQ,2734,2734,2734,06 Dec 2024
+536,Ujjain,Mahidpur,Wheat,Wheat,FAQ,2650,2822,2750,06 Dec 2024
+537,Ujjain,Mahidpur,Wheat,Wheat,FAQ,2670,2980,2700,04 Dec 2024
+538,Ujjain,Mahidpur,Wheat,Wheat,FAQ,2690,3000,2830,07 Dec 2024
+539,Ujjain,Mahidpur,Wheat,Wheat,FAQ,2700,3035,2790,05 Dec 2024
+540,Ujjain,Mahidpur(F&V),Wheat,Wheat,FAQ,2650,2822,2750,06 Dec 2024
+541,Guna,Maksudangarh,Wheat,Wheat,FAQ,2695,2891,2868,07 Dec 2024
+542,Guna,Maksudangarh,Wheat,Wheat,FAQ,2700,2885,2725,06 Dec 2024
+543,Guna,Maksudangarh,Wheat,Wheat,FAQ,2781,2981,2981,05 Dec 2024
+544,Neemuch,Manasa,Wheat,Wheat,FAQ,2641,2941,2781,04 Dec 2024
+545,Neemuch,Manasa,Wheat,Wheat,FAQ,2676,2950,2931,05 Dec 2024
+546,Neemuch,Manasa,Wheat,Wheat,FAQ,2700,3043,2861,06 Dec 2024
+547,Neemuch,Manasa,Wheat,Wheat,FAQ,2700,3044,2741,07 Dec 2024
+548,Dhar,Manawar,Wheat,Mill Quality,FAQ,2600,2600,2600,05 Dec 2024
+549,Dhar,Manawar,Wheat,Wheat,FAQ,2450,2828,2495,05 Dec 2024
+550,Dhar,Manawar,Wheat,Wheat,FAQ,2580,2815,2815,07 Dec 2024
+551,Dhar,Manawar,Wheat,Wheat,FAQ,2610,2855,2855,04 Dec 2024
+552,Dhar,Manawar,Wheat,Wheat,FAQ,2700,2875,2875,06 Dec 2024
+553,Mandla,Mandla,Wheat,Local,FAQ,2400,2505,2505,05 Dec 2024
+554,Mandla,Mandla,Wheat,Local,FAQ,2698,2705,2705,07 Dec 2024
+555,Mandla,Mandla,Wheat,Mill Quality,FAQ,2350,2405,2400,05 Dec 2024
+556,Mandla,Mandla,Wheat,Mill Quality,FAQ,2350,2705,2700,04 Dec 2024
+557,Mandla,Mandla,Wheat,Mill Quality,FAQ,2400,2725,2705,07 Dec 2024
+558,Mandla,Mandla,Wheat,Mill Quality,FAQ,2700,2701,2700,06 Dec 2024
+559,Mandsaur,Mandsaur,Wheat,Lokwan,FAQ,2853,2853,2853,05 Dec 2024
+560,Mandsaur,Mandsaur,Wheat,Lokwan,FAQ,2862,2924,2924,04 Dec 2024
+561,Mandsaur,Mandsaur,Wheat,Malwa Shakti,FAQ,2740,2740,2740,05 Dec 2024
+562,Mandsaur,Mandsaur,Wheat,Malwa Shakti,FAQ,2778,2778,2778,06 Dec 2024
+563,Mandsaur,Mandsaur,Wheat,Mill Quality,FAQ,2381,2776,2737,06 Dec 2024
+564,Mandsaur,Mandsaur,Wheat,Mill Quality,FAQ,2453,2757,2757,04 Dec 2024
+565,Mandsaur,Mandsaur,Wheat,Mill Quality,FAQ,2701,2785,2763,05 Dec 2024
+566,Mandsaur,Mandsaur,Wheat,Wheat,FAQ,2480,3152,2980,06 Dec 2024
+567,Mandsaur,Mandsaur,Wheat,Wheat,FAQ,2699,3159,2900,04 Dec 2024
+568,Mandsaur,Mandsaur,Wheat,Wheat,FAQ,2700,3161,2900,07 Dec 2024
+569,Mandsaur,Mandsaur,Wheat,Wheat,FAQ,2700,3167,2940,05 Dec 2024
+570,Mandsaur,Mandsaur,Wheat,Wheat Mix,FAQ,2910,3140,3001,07 Dec 2024
+571,Mandsaur,Mandsaur,Wheat,Wheat Mix,FAQ,2914,3150,2950,06 Dec 2024
+572,Mandsaur,Mandsaur,Wheat,Wheat Mix,FAQ,2917,3195,3153,05 Dec 2024
+573,Mandsaur,Mandsaur,Wheat,Wheat Mix,FAQ,2927,3152,3152,04 Dec 2024
+574,Satna,Mehar,Wheat,Local,FAQ,2590,2700,2650,05 Dec 2024
+575,Satna,Mehar,Wheat,Local,FAQ,2600,2650,2625,07 Dec 2024
+576,Satna,Mehar,Wheat,Local,FAQ,2600,2700,2650,04 Dec 2024
+577,Satna,Mehar,Wheat,Local,FAQ,2601,2705,2700,06 Dec 2024
+578,Satna,Mehar,Wheat,Local,FAQ,2680,2700,2680,08 Dec 2024
+579,Bhind,Mehgaon,Wheat,Mill Quality,FAQ,2700,2710,2700,04 Dec 2024
+580,Indore,Mhow,Wheat,Mill Quality,FAQ,2500,2500,2500,06 Dec 2024
+581,Indore,Mhow,Wheat,Wheat,FAQ,2001,3076,2841,05 Dec 2024
+582,Indore,Mhow,Wheat,Wheat,FAQ,2731,2999,2841,06 Dec 2024
+583,Indore,Mhow,Wheat,Wheat,FAQ,2778,2877,2871,07 Dec 2024
+584,Indore,Mhow(F&V),Wheat,Wheat,FAQ,2600,3076,2881,05 Dec 2024
+585,Balaghat,Mohgaon,Wheat,Mill Quality,FAQ,2425,2425,2425,05 Dec 2024
+586,Balaghat,Mohgaon,Wheat,Mill Quality,FAQ,2425,2426,2426,04 Dec 2024
+587,Balaghat,Mohgaon,Wheat,Wheat,FAQ,2400,2450,2400,05 Dec 2024
+588,Morena,Morena,Wheat,Wheat,FAQ,2752,2800,2800,04 Dec 2024
+589,Morena,Morena,Wheat,Wheat,FAQ,2765,2765,2765,07 Dec 2024
+590,Morena,Morena,Wheat,Wheat,FAQ,2776,2796,2796,06 Dec 2024
+591,Morena,Morena,Wheat,Wheat,FAQ,2780,2815,2815,05 Dec 2024
+592,Bhind,Mow,Wheat,Mill Quality,FAQ,2590,2740,2740,04 Dec 2024
+593,Bhind,Mow,Wheat,Mill Quality,FAQ,2650,2760,2650,05 Dec 2024
+594,Khandwa,Mundi,Wheat,Wheat,FAQ,2700,2700,2700,07 Dec 2024
+595,Khandwa,Mundi,Wheat,Wheat,FAQ,2775,2901,2901,06 Dec 2024
+596,Ashoknagar,Mungawali,Wheat,Wheat,FAQ,2285,2285,2285,04 Dec 2024
+597,Ashoknagar,Mungawali,Wheat,Wheat,FAQ,2685,2695,2695,05 Dec 2024
+598,Ujjain,Nagda,Wheat,Wheat,FAQ,2250,2891,2891,04 Dec 2024
+599,Ujjain,Nagda,Wheat,Wheat,FAQ,2641,2867,2867,06 Dec 2024
+600,Ujjain,Nagda,Wheat,Wheat,FAQ,2708,2941,2871,05 Dec 2024
+601,Satna,Nagod,Wheat,Mill Quality,FAQ,2690,2720,2700,04 Dec 2024
+602,Satna,Nagod,Wheat,Mill Quality,FAQ,2700,2795,2785,06 Dec 2024
+603,Satna,Nagod,Wheat,Mill Quality,FAQ,2715,2785,2775,05 Dec 2024
+604,Satna,Nagod,Wheat,Mill Quality,FAQ,2735,2775,2771,07 Dec 2024
+605,Satna,Nagod,Wheat,Wheat,FAQ,2765,2840,2800,05 Dec 2024
+606,Satna,Nagod,Wheat,Wheat,FAQ,2780,2811,2800,07 Dec 2024
+607,Satna,Nagod,Wheat,Wheat,FAQ,2780,2816,2790,06 Dec 2024
+608,Satna,Nagod,Wheat,Wheat,FAQ,2780,2855,2805,04 Dec 2024
+609,Mandla,Nainpur,Wheat,Mill Quality,FAQ,2300,2300,2300,06 Dec 2024
+610,Mandla,Nainpur,Wheat,Mill Quality,FAQ,2580,2625,2625,07 Dec 2024
+611,Shajapur,Nalkehda,Wheat,Mill Quality,FAQ,2682,2790,2701,04 Dec 2024
+612,Shajapur,Nalkehda,Wheat,Wheat,FAQ,2634,2791,2791,04 Dec 2024
+613,Shajapur,Nalkehda,Wheat,Wheat,FAQ,2724,2811,2800,06 Dec 2024
+614,Shajapur,Nalkehda,Wheat,Wheat,FAQ,2730,2800,2730,05 Dec 2024
+615,Agar Malwa,Nalkheda(F&V),Wheat,147 Average,FAQ,2250,2811,2700,06 Dec 2024
+616,Agar Malwa,Nalkheda(F&V),Wheat,147 Average,FAQ,2500,2800,2680,05 Dec 2024
+617,Agar Malwa,Nalkheda(F&V),Wheat,147 Average,FAQ,2610,2795,2700,04 Dec 2024
+618,Agar Malwa,Nalkheda(F&V),Wheat,147 Average,FAQ,2750,2750,2750,07 Dec 2024
+619,Rajgarh,Narsinghgarh,Wheat,Lokwan,FAQ,2650,2925,2860,06 Dec 2024
+620,Rajgarh,Narsinghgarh,Wheat,Lokwan,FAQ,2660,2935,2790,05 Dec 2024
+621,Rajgarh,Narsinghgarh,Wheat,Mill Quality,FAQ,2400,2910,2790,07 Dec 2024
+622,Rajgarh,Narsinghgarh,Wheat,Mill Quality,FAQ,2600,2960,2845,06 Dec 2024
+623,Rajgarh,Narsinghgarh,Wheat,Mill Quality,FAQ,2610,2885,2705,05 Dec 2024
+624,Rajgarh,Narsinghgarh,Wheat,Wheat,FAQ,2650,2865,2835,06 Dec 2024
+625,Rajgarh,Narsinghgarh,Wheat,Wheat,FAQ,2670,2670,2670,07 Dec 2024
+626,Narsinghpur,Narsinghpur,Wheat,Mill Quality,FAQ,2371,2811,2771,04 Dec 2024
+627,Narsinghpur,Narsinghpur,Wheat,Mill Quality,FAQ,2621,2751,2700,06 Dec 2024
+628,Narsinghpur,Narsinghpur,Wheat,Mill Quality,FAQ,2650,2720,2711,07 Dec 2024
+629,Sehore,Nasrullaganj,Wheat,Wheat,FAQ,2500,2862,2791,06 Dec 2024
+630,Sehore,Nasrullaganj,Wheat,Wheat,FAQ,2525,2965,2965,05 Dec 2024
+631,Sehore,Nasrullaganj,Wheat,Wheat,FAQ,2550,2800,2765,04 Dec 2024
+632,Sehore,Nasrullaganj,Wheat,Wheat,FAQ,2600,2824,2801,07 Dec 2024
+633,Chhatarpur,Naugaon,Wheat,Wheat,FAQ,2650,2700,2700,06 Dec 2024
+634,Chhatarpur,Naugaon,Wheat,Wheat,FAQ,2690,2705,2700,07 Dec 2024
+635,Chhatarpur,Naugaon,Wheat,Wheat,FAQ,2710,2720,2720,05 Dec 2024
+636,Neemuch,Neemuch,Wheat,Mill Quality,FAQ,2750,2750,2750,08 Dec 2024
+637,Neemuch,Neemuch,Wheat,Mill Quality,FAQ,2906,2906,2906,05 Dec 2024
+638,Neemuch,Neemuch,Wheat,Wheat,FAQ,2736,3171,3171,07 Dec 2024
+639,Neemuch,Neemuch,Wheat,Wheat,FAQ,2761,3140,3101,05 Dec 2024
+640,Neemuch,Neemuch,Wheat,Wheat,FAQ,2829,3151,2950,06 Dec 2024
+641,Tikamgarh,Niwadi,Wheat,Mill Quality,FAQ,2625,2830,2810,05 Dec 2024
+642,Tikamgarh,Niwadi,Wheat,Mill Quality,FAQ,2630,2822,2800,07 Dec 2024
+643,Tikamgarh,Niwadi,Wheat,Mill Quality,FAQ,2711,2826,2790,04 Dec 2024
+644,Tikamgarh,Niwadi,Wheat,Mill Quality,FAQ,2770,2805,2770,08 Dec 2024
+645,Tikamgarh,Niwadi,Wheat,Mill Quality,FAQ,2780,2831,2813,06 Dec 2024
+646,Tikamgarh,Niwadi,Wheat,Wheat,FAQ,2680,2690,2690,04 Dec 2024
+647,Raisen,Obedullaganj,Wheat,Local,FAQ,2600,2882,2882,07 Dec 2024
+648,Raisen,Obedullaganj,Wheat,Local,FAQ,2650,2889,2875,06 Dec 2024
+649,Raisen,Obedullaganj,Wheat,Local,FAQ,2650,2912,2912,04 Dec 2024
+650,Raisen,Obedullaganj,Wheat,Local,FAQ,2675,2860,2860,05 Dec 2024
+651,Raisen,Obedullaganj,Wheat,Mill Quality,FAQ,2505,2510,2510,06 Dec 2024
+652,Raisen,Obedullaganj,Wheat,Mill Quality,FAQ,2756,2780,2780,04 Dec 2024
+653,Raisen,Obedullaganj,Wheat,Mill Quality,FAQ,2800,2810,2810,05 Dec 2024
+654,Raisen,Obedullaganj,Wheat,Wheat,FAQ,2700,2700,2700,07 Dec 2024
+655,Jabalpur,Paatan,Wheat,Mill Quality,FAQ,2525,2865,2795,04 Dec 2024
+656,Jabalpur,Paatan,Wheat,Mill Quality,FAQ,2570,2865,2865,06 Dec 2024
+657,Jabalpur,Paatan,Wheat,Mill Quality,FAQ,2600,2875,2700,05 Dec 2024
+658,Jabalpur,Paatan,Wheat,Mill Quality,FAQ,2690,2865,2705,07 Dec 2024
+659,Rajgarh,Pachaur,Wheat,Mill Quality,FAQ,2700,2790,2760,04 Dec 2024
+660,Rajgarh,Pachaur,Wheat,Mill Quality,FAQ,2705,2920,2811,05 Dec 2024
+661,Rajgarh,Pachaur,Wheat,Mill Quality,FAQ,2735,2900,2831,07 Dec 2024
+662,Rajgarh,Pachaur,Wheat,Mill Quality,FAQ,2740,2850,2850,06 Dec 2024
+663,Rajgarh,Pachaur,Wheat,Wheat,FAQ,2201,2851,2843,04 Dec 2024
+664,Rajgarh,Pachaur,Wheat,Wheat,FAQ,2600,2880,2860,06 Dec 2024
+665,Rajgarh,Pachaur,Wheat,Wheat,FAQ,2672,2918,2905,07 Dec 2024
+666,Rajgarh,Pachaur,Wheat,Wheat,FAQ,2705,3140,2850,05 Dec 2024
+667,Tikamgarh,Palera,Wheat,Mill Quality,FAQ,2650,2700,2700,06 Dec 2024
+668,Khandwa,Pandhana,Wheat,Lokwan,FAQ,2700,2700,2700,07 Dec 2024
+669,Khandwa,Pandhana,Wheat,Lokwan,FAQ,2740,2915,2915,04 Dec 2024
+670,Khandwa,Pandhana,Wheat,Lokwan,FAQ,2761,2811,2811,05 Dec 2024
+671,Khandwa,Pandhana,Wheat,Lokwan,FAQ,2777,2786,2777,06 Dec 2024
+672,Khandwa,Pandhana,Wheat,Mill Quality,FAQ,2615,2700,2700,04 Dec 2024
+673,Khandwa,Pandhana,Wheat,Wheat Mix,FAQ,2769,2769,2769,06 Dec 2024
+674,Panna,Panna,Wheat,Mill Quality,FAQ,2500,2755,2745,04 Dec 2024
+675,Panna,Panna,Wheat,Mill Quality,FAQ,2620,2640,2640,07 Dec 2024
+676,Panna,Panna,Wheat,Mill Quality,FAQ,2625,2691,2650,06 Dec 2024
+677,Panna,Panna,Wheat,Wheat,FAQ,2700,2700,2700,06 Dec 2024
+678,Damoh,Patharia,Wheat,Wheat,FAQ,2650,2804,2765,05 Dec 2024
+679,Damoh,Patharia,Wheat,Wheat,FAQ,2705,2800,2783,04 Dec 2024
+680,Damoh,Patharia,Wheat,Wheat,FAQ,2725,2808,2750,06 Dec 2024
+681,Panna,Pawai,Wheat,Mill Quality,FAQ,2600,2600,2600,06 Dec 2024
+682,Panna,Pawai,Wheat,Mill Quality,FAQ,2600,2600,2600,07 Dec 2024
+683,Jhabua,Petlawad,Wheat,Wheat,FAQ,2600,2650,2650,05 Dec 2024
+684,Jhabua,Petlawad,Wheat,Wheat,FAQ,2700,2700,2700,04 Dec 2024
+685,Jhabua,Petlawad,Wheat,Wheat,FAQ,2750,2800,2800,06 Dec 2024
+686,Hoshangabad,Pipariya,Wheat,Mill Quality,FAQ,2185,2938,2800,04 Dec 2024
+687,Hoshangabad,Pipariya,Wheat,Mill Quality,FAQ,2480,2918,2801,06 Dec 2024
+688,Hoshangabad,Pipariya,Wheat,Mill Quality,FAQ,2515,2976,2890,07 Dec 2024
+689,Hoshangabad,Pipariya,Wheat,Mill Quality,FAQ,2581,2953,2680,05 Dec 2024
+690,Hoshangabad,Pipariya,Wheat,Mill Quality,FAQ,2890,2890,2890,08 Dec 2024
+691,Mandsaur,Piplya,Wheat,Wheat,FAQ,2752,2884,2816,06 Dec 2024
+692,Mandsaur,Piplya,Wheat,Wheat,FAQ,2770,2941,2884,05 Dec 2024
+693,Mandsaur,Piplya,Wheat,Wheat,FAQ,2832,2832,2832,07 Dec 2024
+694,Shivpuri,Pohari,Wheat,Mill Quality,FAQ,2625,2625,2625,06 Dec 2024
+695,Shivpuri,Pohari,Wheat,Mill Quality,FAQ,2625,2640,2640,05 Dec 2024
+696,Balaghat,Praswada,Wheat,Wheat,FAQ,2275,2275,2275,06 Dec 2024
+697,Tikamgarh,Prithvipur,Wheat,Mill Quality,FAQ,2625,2650,2650,04 Dec 2024
+698,Tikamgarh,Prithvipur,Wheat,Mill Quality,FAQ,2640,2647,2647,05 Dec 2024
+699,Tikamgarh,Prithvipur,Wheat,Mill Quality,FAQ,2650,2655,2655,06 Dec 2024
+700,Tikamgarh,Prithvipur,Wheat,Mill Quality,FAQ,2653,2660,2660,07 Dec 2024
+701,Guna,Raghogarh,Wheat,Wheat,FAQ,2850,2850,2850,04 Dec 2024
+702,Guna,Raghogarh,Wheat,Wheat,FAQ,2895,3100,3100,05 Dec 2024
+703,Guna,Raghogarh,Wheat,Wheat,FAQ,3055,3055,3055,06 Dec 2024
+704,Sagar,Rahatgarh,Wheat,Mill Quality,FAQ,2619,2733,2683,04 Dec 2024
+705,Raisen,Raisen,Wheat,Lokwan,FAQ,2800,2805,2805,07 Dec 2024
+706,Raisen,Raisen,Wheat,Mill Quality,FAQ,2650,2650,2650,04 Dec 2024
+707,Raisen,Raisen,Wheat,Mill Quality,FAQ,2650,2650,2650,06 Dec 2024
+708,Dhar,Rajgarh,Wheat,Lokwan,FAQ,2732,3300,2901,06 Dec 2024
+709,Dhar,Rajgarh,Wheat,Lokwan,FAQ,2740,2951,2951,07 Dec 2024
+710,Dhar,Rajgarh,Wheat,Lokwan,FAQ,2750,2972,2850,05 Dec 2024
+711,Dhar,Rajgarh,Wheat,Lokwan,FAQ,2750,3036,3000,04 Dec 2024
+712,Dhar,Rajgarh,Wheat,Wheat,FAQ,2600,2955,2955,06 Dec 2024
+713,Dhar,Rajgarh,Wheat,Wheat,FAQ,2650,9201,2791,04 Dec 2024
+714,Dhar,Rajgarh,Wheat,Wheat,FAQ,2700,2811,2811,07 Dec 2024
+715,Dhar,Rajgarh,Wheat,Wheat,FAQ,2725,2944,2944,05 Dec 2024
+716,Chhatarpur,Rajnagar,Wheat,Mill Quality,FAQ,2400,2400,2400,06 Dec 2024
+717,Chhatarpur,Rajnagar,Wheat,Mill Quality,FAQ,2400,2400,2400,07 Dec 2024
+718,Chhatarpur,Rajnagar,Wheat,Wheat Mix,FAQ,2400,2500,2500,04 Dec 2024
+719,Chhatarpur,Rajnagar,Wheat,Wheat Mix,FAQ,2500,2700,2500,05 Dec 2024
+720,Chhatarpur,Rajnagar,Wheat,Wheat Mix,FAQ,2600,2600,2600,07 Dec 2024
+721,Satna,Ramnagar,Wheat,Mill Quality,FAQ,2700,2700,2700,04 Dec 2024
+722,Satna,Ramnagar,Wheat,Mill Quality,FAQ,2800,2800,2800,06 Dec 2024
+723,Satna,Ramnagar,Wheat,Sharbati,FAQ,2950,2950,2950,06 Dec 2024
+724,Ratlam,Ratlam,Wheat,Lokwan,FAQ,2600,3090,3090,05 Dec 2024
+725,Ratlam,Ratlam,Wheat,Lokwan,FAQ,2960,3135,3135,04 Dec 2024
+726,Ratlam,Ratlam,Wheat,Lokwan,FAQ,2980,3099,3099,06 Dec 2024
+727,Ratlam,Ratlam,Wheat,Lokwan,FAQ,3140,3240,3240,07 Dec 2024
+728,Ratlam,Ratlam,Wheat,Mill Quality,FAQ,2761,3050,3050,04 Dec 2024
+729,Ratlam,Ratlam,Wheat,Mill Quality,FAQ,2829,3138,3138,06 Dec 2024
+730,Ratlam,Ratlam,Wheat,Mill Quality,FAQ,2864,4225,4225,05 Dec 2024
+731,Ratlam,Ratlam,Wheat,Wheat,FAQ,2496,3600,2860,06 Dec 2024
+732,Ratlam,Ratlam,Wheat,Wheat,FAQ,2650,3469,3000,04 Dec 2024
+733,Ratlam,Ratlam,Wheat,Wheat,FAQ,2731,3400,2845,07 Dec 2024
+734,Ratlam,Ratlam,Wheat,Wheat,FAQ,2790,3550,2880,05 Dec 2024
+735,Ratlam,Ratlam,Wheat,Wheat Mix,FAQ,2800,2800,2800,07 Dec 2024
+736,Sehore,Rehati,Wheat,Mill Quality,FAQ,2475,2701,2701,05 Dec 2024
+737,Sehore,Rehati,Wheat,Mill Quality,FAQ,2677,2677,2677,04 Dec 2024
+738,Sehore,Rehati,Wheat,Mill Quality,FAQ,2705,2705,2705,06 Dec 2024
+739,Sehore,Rehati,Wheat,Wheat,FAQ,2683,2683,2683,04 Dec 2024
+740,Sehore,Rehati,Wheat,Wheat,FAQ,2700,2700,2700,06 Dec 2024
+741,Sehore,Rehati,Wheat,Wheat Mix,FAQ,2566,2566,2566,06 Dec 2024
+742,Sagar,Rehli,Wheat,Wheat,FAQ,2550,2580,2580,07 Dec 2024
+743,Sagar,Rehli,Wheat,Wheat,FAQ,2605,2638,2610,05 Dec 2024
+744,Sagar,Rehli,Wheat,Wheat,FAQ,2716,2716,2716,06 Dec 2024
+745,Rewa,Rewa,Wheat,Mill Quality,FAQ,2661,2839,2800,06 Dec 2024
+746,Rewa,Rewa,Wheat,Mill Quality,FAQ,2661,2845,2845,05 Dec 2024
+747,Rewa,Rewa,Wheat,Mill Quality,FAQ,2700,2800,2800,04 Dec 2024
+748,Rewa,Rewa,Wheat,Mill Quality,FAQ,2730,2778,2778,07 Dec 2024
+749,Rewa,Rewa,Wheat,Wheat Mix,FAQ,2680,2680,2680,06 Dec 2024
+750,Rewa,Rewa,Wheat,Wheat Mix,FAQ,2700,2700,2700,04 Dec 2024
+751,Morena,Sabalgarh,Wheat,Mill Quality,FAQ,2772,2772,2772,04 Dec 2024
+752,Morena,Sabalgarh,Wheat,Mill Quality,FAQ,2777,2779,2779,06 Dec 2024
+753,Morena,Sabalgarh,Wheat,Wheat,FAQ,2780,2780,2780,05 Dec 2024
+754,Sagar,Sagar,Wheat,Mill Quality,FAQ,2700,2715,2715,05 Dec 2024
+755,Sagar,Sagar,Wheat,Mill Quality,FAQ,2705,2770,2725,06 Dec 2024
+756,Sagar,Sagar,Wheat,Mill Quality,FAQ,2710,2900,2735,07 Dec 2024
+757,Sagar,Sagar,Wheat,Wheat,FAQ,2540,2940,2755,06 Dec 2024
+758,Sagar,Sagar,Wheat,Wheat,FAQ,2550,2575,2575,04 Dec 2024
+759,Sagar,Sagar,Wheat,Wheat,FAQ,2550,3460,2745,07 Dec 2024
+760,Sagar,Sagar,Wheat,Wheat,FAQ,2590,2940,2715,05 Dec 2024
+761,Ratlam,Sailana,Wheat,Lokwan,FAQ,2581,3500,3200,05 Dec 2024
+762,Ratlam,Sailana,Wheat,Lokwan,FAQ,2660,2936,2900,04 Dec 2024
+763,Ratlam,Sailana,Wheat,Lokwan,FAQ,2871,2933,2901,06 Dec 2024
+764,Ratlam,Sailana,Wheat,Mill Quality,FAQ,2850,2850,2850,04 Dec 2024
+765,Ratlam,Sailana,Wheat,Wheat,FAQ,2699,3321,2890,04 Dec 2024
+766,Ratlam,Sailana,Wheat,Wheat,FAQ,2750,3171,2800,06 Dec 2024
+767,Ratlam,Sailana,Wheat,Wheat,FAQ,2895,3186,3186,05 Dec 2024
+768,Ratlam,Sailana,Wheat,Wheat,FAQ,2899,3140,3140,07 Dec 2024
+769,Ratlam,Sailana(F&V),Wheat,147 Average,FAQ,2750,3171,2800,06 Dec 2024
+770,Ratlam,Sailana(F&V),Wheat,Lokwan,FAQ,2691,3325,3000,04 Dec 2024
+771,Ratlam,Sailana(F&V),Wheat,Lokwan,FAQ,2699,3321,2890,05 Dec 2024
+772,Khargone,Sanawad,Wheat,Wheat,FAQ,2711,2871,2850,05 Dec 2024
+773,Khargone,Sanawad,Wheat,Wheat,FAQ,2725,2865,2862,06 Dec 2024
+774,Khargone,Sanawad,Wheat,Wheat,FAQ,2726,2865,2854,07 Dec 2024
+775,Khargone,Sanawad,Wheat,Wheat,FAQ,2750,2750,2750,04 Dec 2024
+776,Indore,Sanwer,Wheat,Malwa Shakti,FAQ,2810,2851,2851,06 Dec 2024
+777,Indore,Sanwer,Wheat,Malwa Shakti,FAQ,2820,2840,2820,05 Dec 2024
+778,Indore,Sanwer,Wheat,Malwa Shakti,FAQ,2834,2834,2834,04 Dec 2024
+779,Indore,Sanwer,Wheat,Malwa Shakti,FAQ,2835,2835,2835,07 Dec 2024
+780,Indore,Sanwer,Wheat,Wheat,FAQ,2612,2849,2849,04 Dec 2024
+781,Indore,Sanwer,Wheat,Wheat,FAQ,2650,2861,2861,05 Dec 2024
+782,Indore,Sanwer,Wheat,Wheat,FAQ,2665,2900,2800,07 Dec 2024
+783,Indore,Sanwer,Wheat,Wheat,FAQ,2751,2900,2900,06 Dec 2024
+784,Rajgarh,Sarangpur,Wheat,Mill Quality,FAQ,2700,2779,2730,05 Dec 2024
+785,Rajgarh,Sarangpur,Wheat,Mill Quality,FAQ,2726,2726,2726,04 Dec 2024
+786,Rajgarh,Sarangpur,Wheat,Mill Quality,FAQ,2793,2800,2793,06 Dec 2024
+787,Rajgarh,Sarangpur,Wheat,Wheat,FAQ,2680,2752,2752,05 Dec 2024
+788,Rajgarh,Sarangpur,Wheat,Wheat,FAQ,2700,2801,2765,06 Dec 2024
+789,Rajgarh,Sarangpur,Wheat,Wheat,FAQ,2700,2808,2801,07 Dec 2024
+790,Satna,Satna,Wheat,Mill Quality,FAQ,2700,2700,2700,07 Dec 2024
+791,Satna,Satna,Wheat,Mill Quality,FAQ,2700,2824,2824,06 Dec 2024
+792,Satna,Satna,Wheat,Mill Quality,FAQ,2800,2800,2800,04 Dec 2024
+793,Satna,Satna,Wheat,Sujata,FAQ,2750,2750,2750,07 Dec 2024
+794,Satna,Satna,Wheat,Wheat,FAQ,2026,2856,2750,06 Dec 2024
+795,Satna,Satna,Wheat,Wheat,FAQ,2500,2817,2700,07 Dec 2024
+796,Satna,Satna,Wheat,Wheat,FAQ,2601,2851,2768,05 Dec 2024
+797,Satna,Satna,Wheat,Wheat,FAQ,2637,2880,2740,04 Dec 2024
+798,Satna,Satna,Wheat,Wheat,FAQ,2680,2750,2700,08 Dec 2024
+799,Satna,Satna,Wheat,Wheat Mix,FAQ,2763,2763,2763,06 Dec 2024
+800,Khargone,Segaon,Wheat,Wheat,FAQ,2450,2525,2500,07 Dec 2024
+801,Jabalpur,Sehora,Wheat,Mill Quality,FAQ,2394,2851,2751,05 Dec 2024
+802,Jabalpur,Sehora,Wheat,Mill Quality,FAQ,2625,2830,2736,04 Dec 2024
+803,Jabalpur,Sehora,Wheat,Mill Quality,FAQ,2700,2900,2700,06 Dec 2024
+804,Jabalpur,Sehora,Wheat,Mill Quality,FAQ,2700,2980,2817,07 Dec 2024
+805,Sehore,Sehore,Wheat,Local,FAQ,2849,2849,2849,06 Dec 2024
+806,Sehore,Sehore,Wheat,Lokwan,FAQ,2599,3120,2835,04 Dec 2024
+807,Sehore,Sehore,Wheat,Lokwan,FAQ,2630,3600,2880,06 Dec 2024
+808,Sehore,Sehore,Wheat,Lokwan,FAQ,2715,3990,2900,05 Dec 2024
+809,Sehore,Sehore,Wheat,Lokwan,FAQ,2751,3174,2900,07 Dec 2024
+810,Sehore,Sehore,Wheat,Malwa Shakti,FAQ,2700,2851,2821,06 Dec 2024
+811,Sehore,Sehore,Wheat,Malwa Shakti,FAQ,2748,2839,2839,04 Dec 2024
+812,Sehore,Sehore,Wheat,Malwa Shakti,FAQ,2799,2862,2862,05 Dec 2024
+813,Sehore,Sehore,Wheat,Malwa Shakti,FAQ,2804,2828,2828,07 Dec 2024
+814,Sehore,Sehore,Wheat,Mill Quality,FAQ,2641,3951,2761,04 Dec 2024
+815,Sehore,Sehore,Wheat,Mill Quality,FAQ,2691,3425,2769,05 Dec 2024
+816,Sehore,Sehore,Wheat,Mill Quality,FAQ,2700,3271,2900,06 Dec 2024
+817,Sehore,Sehore,Wheat,Mill Quality,FAQ,2782,3004,2878,07 Dec 2024
+818,Sehore,Sehore,Wheat,Other,FAQ,2900,2900,2900,05 Dec 2024
+819,Sehore,Sehore,Wheat,Sujata,FAQ,2806,2875,2860,06 Dec 2024
+820,Sehore,Sehore,Wheat,Sujata,FAQ,2856,2856,2856,07 Dec 2024
+821,Sehore,Sehore,Wheat,Sujata,FAQ,2911,3115,3115,04 Dec 2024
+822,Sehore,Sehore,Wheat,Wheat,FAQ,2786,2786,2786,04 Dec 2024
+823,Sehore,Sehore,Wheat,Wheat,FAQ,2961,2961,2961,05 Dec 2024
+824,Sehore,Sehore,Wheat,Wheat Mix,FAQ,2700,2796,2796,06 Dec 2024
+825,Sehore,Sehore,Wheat,Wheat Mix,FAQ,2750,2750,2750,05 Dec 2024
+826,Sehore,Sehore,Wheat,Wheat Mix,FAQ,2820,3181,3181,04 Dec 2024
+827,Hoshangabad,Semriharchand,Wheat,Mill Quality,FAQ,2600,2805,2755,04 Dec 2024
+828,Hoshangabad,Semriharchand,Wheat,Mill Quality,FAQ,2625,2625,2625,05 Dec 2024
+829,Hoshangabad,Semriharchand,Wheat,Mill Quality,FAQ,2653,2800,2700,06 Dec 2024
+830,Hoshangabad,Semriharchand,Wheat,Mill Quality,FAQ,2682,2766,2749,07 Dec 2024
+831,Hoshangabad,Semriharchand,Wheat,Wheat,FAQ,2820,2840,2840,04 Dec 2024
+832,Hoshangabad,Semriharchand,Wheat,Wheat Mix,FAQ,2785,2785,2785,06 Dec 2024
+833,Hoshangabad,Semriharchand,Wheat,Wheat-Organic,FAQ,2701,2701,2701,06 Dec 2024
+834,Badwani,Sendhwa,Wheat,Wheat,FAQ,2791,2842,2825,05 Dec 2024
+835,Badwani,Sendhwa,Wheat,Wheat,FAQ,2800,3025,2800,04 Dec 2024
+836,Badwani,Sendhwa,Wheat,Wheat,FAQ,2825,3000,2825,06 Dec 2024
+837,Badwani,Sendhwa,Wheat,Wheat,FAQ,3050,3050,3050,07 Dec 2024
+838,Seoni,Seoni,Wheat,Mill Quality,FAQ,2550,2625,2600,05 Dec 2024
+839,Seoni,Seoni,Wheat,Wheat,FAQ,2600,2650,2650,05 Dec 2024
+840,Seoni,Seoni,Wheat,Wheat,FAQ,2685,2705,2700,08 Dec 2024
+841,Seoni,Seoni,Wheat,Wheat,FAQ,2690,2700,2700,04 Dec 2024
+842,Datia,Sevda,Wheat,Mill Quality,FAQ,2670,2830,2700,04 Dec 2024
+843,Datia,Sevda,Wheat,Mill Quality,FAQ,2731,2766,2766,06 Dec 2024
+844,Datia,Sevda,Wheat,Mill Quality,FAQ,2750,2760,2760,05 Dec 2024
+845,Ashoknagar,Shadora,Wheat,Wheat,FAQ,2480,2480,2480,05 Dec 2024
+846,Sagar,Shahagarh,Wheat,Mill Quality,FAQ,2625,2725,2700,04 Dec 2024
+847,Sagar,Shahagarh,Wheat,Mill Quality,FAQ,2675,2675,2675,06 Dec 2024
+848,Sagar,Shahagarh,Wheat,Mill Quality,FAQ,2680,2700,2700,07 Dec 2024
+849,Sagar,Shahagarh,Wheat,Wheat,FAQ,2600,2660,2660,04 Dec 2024
+850,Sagar,Shahagarh,Wheat,Wheat,FAQ,2650,2660,2660,05 Dec 2024
+851,Shehdol,Shahdol,Wheat,Mill Quality,FAQ,2500,2500,2500,04 Dec 2024
+852,Shehdol,Shahdol,Wheat,Mill Quality,FAQ,2505,2516,2516,05 Dec 2024
+853,Shehdol,Shahdol,Wheat,Mill Quality,FAQ,2600,2600,2600,06 Dec 2024
+854,Shehdol,Shahdol,Wheat,Wheat,FAQ,2500,2500,2500,07 Dec 2024
+855,Jabalpur,Shahpura Bhitoni (F&V),Wheat,Mill Quality,FAQ,2590,2755,2705,05 Dec 2024
+856,Jabalpur,Shahpura Bhitoni (F&V),Wheat,Mill Quality,FAQ,2725,2730,2730,04 Dec 2024
+857,Jabalpur,Shahpura Bhitoni (F&V),Wheat,Mill Quality,FAQ,2755,2765,2765,06 Dec 2024
+858,Jabalpur,Shahpura Bhitoni (F&V),Wheat,Wheat,FAQ,2705,2705,2705,04 Dec 2024
+859,Jabalpur,Shahpura(Jabalpur),Wheat,Mill Quality,FAQ,2510,2525,2525,07 Dec 2024
+860,Jabalpur,Shahpura(Jabalpur),Wheat,Mill Quality,FAQ,2600,2650,2650,06 Dec 2024
+861,Jabalpur,Shahpura(Jabalpur),Wheat,Wheat,FAQ,2500,2600,2600,05 Dec 2024
+862,Shajapur,Shajapur,Wheat,Wheat,FAQ,2400,2952,2880,05 Dec 2024
+863,Shajapur,Shajapur,Wheat,Wheat,FAQ,2677,2996,2901,06 Dec 2024
+864,Shajapur,Shajapur,Wheat,Wheat,FAQ,2680,2971,2971,07 Dec 2024
+865,Mandsaur,Shamgarh,Wheat,Wheat,FAQ,2600,2800,2800,05 Dec 2024
+866,Mandsaur,Shamgarh,Wheat,Wheat,FAQ,2650,2815,2815,07 Dec 2024
+867,Mandsaur,Shamgarh,Wheat,Wheat,FAQ,2765,2890,2890,04 Dec 2024
+868,Mandsaur,Shamgarh,Wheat,Wheat,FAQ,2780,2825,2780,06 Dec 2024
+869,Vidisha,Shamshabad,Wheat,Mill Quality,FAQ,2650,2710,2710,07 Dec 2024
+870,Vidisha,Shamshabad,Wheat,Mill Quality,FAQ,2650,2795,2795,04 Dec 2024
+871,Vidisha,Shamshabad,Wheat,Mill Quality,FAQ,2700,2752,2700,05 Dec 2024
+872,Vidisha,Shamshabad,Wheat,Mill Quality,FAQ,2731,2781,2750,06 Dec 2024
+873,Sheopur,Sheopurbadod,Wheat,Wheat,FAQ,2701,2798,2798,04 Dec 2024
+874,Sheopur,Sheopurbadod,Wheat,Wheat,FAQ,2710,2846,2746,06 Dec 2024
+875,Sheopur,Sheopurbadod,Wheat,Wheat,FAQ,2730,2825,2750,05 Dec 2024
+876,Sheopur,Sheopurbadod,Wheat,Wheat,FAQ,2816,2830,2830,07 Dec 2024
+877,Sheopur,Sheopurkalan,Wheat,Mill Quality,FAQ,2625,2825,2825,04 Dec 2024
+878,Sheopur,Sheopurkalan,Wheat,Mill Quality,FAQ,2775,2863,2863,05 Dec 2024
+879,Sheopur,Sheopurkalan,Wheat,Mill Quality,FAQ,2886,2886,2886,06 Dec 2024
+880,Sheopur,Sheopurkalan,Wheat,Wheat,FAQ,2733,2853,2853,04 Dec 2024
+881,Sheopur,Sheopurkalan,Wheat,Wheat,FAQ,2800,2880,2880,06 Dec 2024
+882,Sheopur,Sheopurkalan,Wheat,Wheat,FAQ,2800,2881,2800,05 Dec 2024
+883,Shajapur,Shujalpur,Wheat,Wheat,FAQ,2500,2899,2761,05 Dec 2024
+884,Shajapur,Shujalpur,Wheat,Wheat,FAQ,2571,2890,2841,06 Dec 2024
+885,Shajapur,Shujalpur,Wheat,Wheat,FAQ,2650,2861,2861,07 Dec 2024
+886,Sehore,Shyampur,Wheat,Mill Quality,FAQ,2529,2741,2741,05 Dec 2024
+887,Sehore,Shyampur,Wheat,Mill Quality,FAQ,2675,2701,2675,04 Dec 2024
+888,Sehore,Shyampur,Wheat,Mill Quality,FAQ,2721,2721,2721,06 Dec 2024
+889,Sehore,Shyampur,Wheat,Wheat,FAQ,2696,2725,2725,05 Dec 2024
+890,Sehore,Shyampur,Wheat,Wheat,FAQ,2740,2740,2740,04 Dec 2024
+891,Sehore,Shyampur,Wheat,Wheat,FAQ,2750,2750,2750,06 Dec 2024
+892,Sidhi,Sidhi,Wheat,Mill Quality,FAQ,2315,2350,2320,06 Dec 2024
+893,Sidhi,Sidhi,Wheat,Mill Quality,FAQ,2315,2355,2350,04 Dec 2024
+894,Sidhi,Sidhi,Wheat,Mill Quality,FAQ,2323,2323,2323,07 Dec 2024
+895,Sidhi,Sidhi,Wheat,Wheat,FAQ,2400,2400,2400,05 Dec 2024
+896,Raisen,Silvani,Wheat,Mill Quality,FAQ,2638,2658,2651,06 Dec 2024
+897,Raisen,Silvani,Wheat,Mill Quality,FAQ,2643,2700,2700,05 Dec 2024
+898,Raisen,Silvani,Wheat,Mill Quality,FAQ,2651,2729,2729,07 Dec 2024
+899,Panna,Simariya,Wheat,Wheat,FAQ,2301,2690,2341,05 Dec 2024
+900,Panna,Simariya,Wheat,Wheat,FAQ,2575,2640,2640,06 Dec 2024
+901,Panna,Simariya,Wheat,Wheat,FAQ,2640,2710,2710,07 Dec 2024
+902,Harda,Sirali,Wheat,Mill Quality,FAQ,2440,2816,2740,06 Dec 2024
+903,Harda,Sirali,Wheat,Mill Quality,FAQ,2630,2734,2730,07 Dec 2024
+904,Harda,Sirali,Wheat,Mill Quality,FAQ,2630,2848,2760,05 Dec 2024
+905,Harda,Sirali,Wheat,Mill Quality,FAQ,2680,2840,2710,04 Dec 2024
+906,Harda,Sirali,Wheat,Wheat,FAQ,2725,2770,2726,06 Dec 2024
+907,Vidisha,Sironj,Wheat,Mill Quality,FAQ,2800,2876,2876,05 Dec 2024
+908,Vidisha,Sironj,Wheat,Wheat,FAQ,2655,3120,2738,05 Dec 2024
+909,Vidisha,Sironj,Wheat,Wheat,FAQ,2670,3555,2780,06 Dec 2024
+910,Vidisha,Sironj,Wheat,Wheat,FAQ,2700,3500,3500,07 Dec 2024
+911,Mandsaur,Sitamau(F&V),Wheat,147 Average,FAQ,2650,3020,2850,06 Dec 2024
+912,Mandsaur,Sitamau(F&V),Wheat,147 Average,FAQ,2750,2950,2850,04 Dec 2024
+913,Mandsaur,Sitmau,Wheat,Mill Quality,FAQ,2500,3032,2900,04 Dec 2024
+914,Mandsaur,Sitmau,Wheat,Mill Quality,FAQ,2700,2999,2981,05 Dec 2024
+915,Mandsaur,Sitmau,Wheat,Mill Quality,FAQ,2735,3000,2992,06 Dec 2024
+916,Dewas,Sonkatch,Wheat,Wheat,FAQ,2400,2882,2674,04 Dec 2024
+917,Dewas,Sonkatch,Wheat,Wheat,FAQ,2500,2911,2901,07 Dec 2024
+918,Dewas,Sonkatch,Wheat,Wheat,FAQ,2640,2911,2700,06 Dec 2024
+919,Dewas,Sonkatch,Wheat,Wheat,FAQ,2650,2930,2700,05 Dec 2024
+920,Shajapur,Soyatkalan,Wheat,Wheat,FAQ,2720,2840,2840,04 Dec 2024
+921,Shajapur,Soyatkalan,Wheat,Wheat,FAQ,2765,2805,2775,07 Dec 2024
+922,Shajapur,Soyatkalan,Wheat,Wheat,FAQ,2775,2800,2800,05 Dec 2024
+923,Shajapur,Susner,Wheat,Wheat,FAQ,2700,2700,2700,05 Dec 2024
+924,Shajapur,Susner,Wheat,Wheat,FAQ,2731,2741,2741,04 Dec 2024
+925,Ratlam,Taal,Wheat,Wheat,FAQ,2302,2991,2991,04 Dec 2024
+926,Ratlam,Taal,Wheat,Wheat,FAQ,2781,3107,2965,07 Dec 2024
+927,Ratlam,Taal,Wheat,Wheat,FAQ,2805,3029,3029,05 Dec 2024
+928,Ratlam,Taal,Wheat,Wheat,FAQ,2831,3100,3100,06 Dec 2024
+929,Ujjain,Tarana,Wheat,Wheat,FAQ,2300,2806,2300,07 Dec 2024
+930,Ujjain,Tarana,Wheat,Wheat,FAQ,2322,2780,2770,05 Dec 2024
+931,Ujjain,Tarana,Wheat,Wheat,FAQ,2695,2695,2695,04 Dec 2024
+932,Ujjain,Tarana,Wheat,Wheat,FAQ,2740,2865,2750,06 Dec 2024
+933,Narsinghpur,Tendukheda,Wheat,Wheat,FAQ,2700,2711,2711,07 Dec 2024
+934,Jhabua,Thandla,Wheat,Mill Quality,FAQ,2300,2600,2600,05 Dec 2024
+935,Jhabua,Thandla,Wheat,Mill Quality,FAQ,2750,2755,2750,07 Dec 2024
+936,Jhabua,Thandla,Wheat,Wheat,FAQ,2500,2500,2500,05 Dec 2024
+937,Tikamgarh,Tikamgarh,Wheat,Mill Quality,FAQ,2701,2731,2731,08 Dec 2024
+938,Tikamgarh,Tikamgarh,Wheat,Mill Quality,FAQ,2735,2765,2765,06 Dec 2024
+939,Tikamgarh,Tikamgarh,Wheat,Mill Quality,FAQ,2746,2795,2759,04 Dec 2024
+940,Tikamgarh,Tikamgarh,Wheat,Mill Quality,FAQ,2748,2780,2780,05 Dec 2024
+941,Tikamgarh,Tikamgarh,Wheat,Wheat,FAQ,2615,2826,2750,05 Dec 2024
+942,Tikamgarh,Tikamgarh,Wheat,Wheat,FAQ,2691,2790,2760,07 Dec 2024
+943,Tikamgarh,Tikamgarh,Wheat,Wheat,FAQ,2700,2820,2740,06 Dec 2024
+944,Tikamgarh,Tikamgarh,Wheat,Wheat,FAQ,2725,2801,2760,04 Dec 2024
+945,Tikamgarh,Tikamgarh,Wheat,Wheat Mix,FAQ,2819,2819,2819,06 Dec 2024
+946,Tikamgarh,Tikamgarh(F&V),Wheat,147 Average,FAQ,2615,2826,2776,05 Dec 2024
+947,Tikamgarh,Tikamgarh(F&V),Wheat,147 Average,FAQ,2625,2820,2750,06 Dec 2024
+948,Tikamgarh,Tikamgarh(F&V),Wheat,147 Average,FAQ,2650,2837,2760,04 Dec 2024
+949,Harda,Timarni,Wheat,Mill Quality,FAQ,2560,2752,2692,05 Dec 2024
+950,Harda,Timarni,Wheat,Mill Quality,FAQ,2600,2731,2731,04 Dec 2024
+951,Harda,Timarni,Wheat,Mill Quality,FAQ,2675,2695,2695,07 Dec 2024
+952,Harda,Timarni,Wheat,Mill Quality,FAQ,2700,2756,2756,06 Dec 2024
+953,Harda,Timarni,Wheat,Mill Quality,FAQ,2701,2701,2701,08 Dec 2024
+954,Harda,Timarni,Wheat,Wheat,FAQ,2400,2896,2800,04 Dec 2024
+955,Harda,Timarni,Wheat,Wheat,FAQ,2401,2920,2826,07 Dec 2024
+956,Harda,Timarni,Wheat,Wheat,FAQ,2601,2910,2789,05 Dec 2024
+957,Harda,Timarni,Wheat,Wheat,FAQ,2610,2897,2820,06 Dec 2024
+958,Raisen,Udaipura,Wheat,Mill Quality,FAQ,2600,2650,2650,07 Dec 2024
+959,Raisen,Udaipura,Wheat,Mill Quality,FAQ,2600,2705,2700,06 Dec 2024
+960,Raisen,Udaipura,Wheat,Mill Quality,FAQ,2600,2725,2600,05 Dec 2024
+961,Ujjain,Ujjain,Wheat,Wheat,FAQ,1001,3090,2750,05 Dec 2024
+962,Ujjain,Ujjain,Wheat,Wheat,FAQ,1601,2921,2816,07 Dec 2024
+963,Ujjain,Ujjain,Wheat,Wheat,FAQ,2500,3116,2750,06 Dec 2024
+964,Ujjain,Ujjain,Wheat,Wheat,FAQ,2680,2680,2680,04 Dec 2024
+965,Umariya,Umariya,Wheat,Local,FAQ,2700,2700,2700,05 Dec 2024
+966,Umariya,Umariya,Wheat,Local,FAQ,2700,2700,2700,06 Dec 2024
+967,Umariya,Umariya,Wheat,Local,FAQ,2700,2700,2700,07 Dec 2024
+968,Umariya,Umariya,Wheat,Mill Quality,FAQ,2400,2400,2400,08 Dec 2024
+969,Umariya,Umariya,Wheat,Mill Quality,FAQ,2500,2650,2600,05 Dec 2024
+970,Umariya,Umariya,Wheat,Mill Quality,FAQ,2600,2600,2600,04 Dec 2024
+971,Umariya,Umariya,Wheat,Wheat,FAQ,2325,2725,2500,07 Dec 2024
+972,Umariya,Umariya,Wheat,Wheat,FAQ,2400,2750,2700,05 Dec 2024
+973,Umariya,Umariya,Wheat,Wheat,FAQ,2480,2700,2500,06 Dec 2024
+974,Umariya,Umariya,Wheat,Wheat,FAQ,2480,2750,2750,04 Dec 2024
+975,Umariya,Umariya,Wheat,Wheat-Organic,FAQ,2410,2410,2410,07 Dec 2024
+976,Ujjain,Unhel,Wheat,Wheat,FAQ,2651,2915,2700,05 Dec 2024
+977,Ujjain,Unhel,Wheat,Wheat,FAQ,2730,2800,2761,06 Dec 2024
+978,Balaghat,Varaseoni,Wheat,Local,FAQ,2200,2200,2200,05 Dec 2024
+979,Balaghat,Varaseoni,Wheat,Wheat,FAQ,2100,2200,2200,04 Dec 2024
+980,Vidisha,Vidisha,Wheat,Mill Quality,FAQ,2750,2750,2750,05 Dec 2024
+981,Vidisha,Vidisha,Wheat,Sharbati,FAQ,3450,4060,4060,05 Dec 2024
+982,Vidisha,Vidisha,Wheat,Sharbati,FAQ,3500,3850,3850,04 Dec 2024
+983,Vidisha,Vidisha,Wheat,Sharbati,FAQ,3905,4200,4200,06 Dec 2024
+984,Vidisha,Vidisha,Wheat,Sharbati,FAQ,4205,4255,4255,07 Dec 2024
+985,Vidisha,Vidisha,Wheat,Wheat,FAQ,2400,4000,2950,04 Dec 2024
+986,Vidisha,Vidisha,Wheat,Wheat,FAQ,2600,3400,2800,05 Dec 2024
+987,Vidisha,Vidisha,Wheat,Wheat,FAQ,2615,3930,2960,06 Dec 2024
+988,Vidisha,Vidisha,Wheat,Wheat,FAQ,2752,4100,2980,07 Dec 2024
+989,Sheopur,Vijaypur,Wheat,Wheat,FAQ,2675,2700,2700,04 Dec 2024

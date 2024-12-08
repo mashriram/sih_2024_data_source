@@ -1,12 +1,16 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3200,3850,3485,13 Jul 2017,2017,Jul,13,2017-07-13
-1,1.0,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3600,4000,3800,07 Jul 2017,2017,Jul,7,2017-07-07
-2,2.0,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3700,4105,3960,11 Jul 2017,2017,Jul,11,2017-07-11
-3,3.0,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3735,4010,3940,10 Jul 2017,2017,Jul,10,2017-07-10
-4,4.0,Barnala,Tapa(Tapa Mandi),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4060,4675,4365,09 Jul 2018,2018,Jul,9,2018-07-09
-5,5.0,Barnala,Tapa(Tapa Mandi),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4130,4540,4300,02 Jul 2018,2018,Jul,2,2018-07-02
-6,6.0,Barnala,Tapa(Tapa Mandi),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4405,4900,4675,07 Jul 2018,2018,Jul,7,2018-07-07
-7,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3200,3850,3485,13 Jul 2017,2017,Jul,13,2017-07-13
-8,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3600,4000,3800,07 Jul 2017,2017,Jul,7,2017-07-07
-9,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3700,4105,3960,11 Jul 2017,2017,Jul,11,2017-07-11
-10,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3735,4010,3940,10 Jul 2017,2017,Jul,10,2017-07-10
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3200,3850,3485,13 Jul 2017,2017,Jul,13,2017-07-13
+1,1.0,1.0,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3600,4000,3800,07 Jul 2017,2017,Jul,7,2017-07-07
+2,2.0,2.0,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3700,4105,3960,11 Jul 2017,2017,Jul,11,2017-07-11
+3,3.0,3.0,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3735,4010,3940,10 Jul 2017,2017,Jul,10,2017-07-10
+4,4.0,4.0,Barnala,Tapa(Tapa Mandi),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4060,4675,4365,09 Jul 2018,2018,Jul,9,2018-07-09
+5,5.0,5.0,Barnala,Tapa(Tapa Mandi),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4130,4540,4300,02 Jul 2018,2018,Jul,2,2018-07-02
+6,6.0,6.0,Barnala,Tapa(Tapa Mandi),Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4405,4900,4675,07 Jul 2018,2018,Jul,7,2018-07-07
+7,7.0,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3200,3850,3485,13 Jul 2017,2017,Jul,13,2017-07-13
+8,8.0,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3600,4000,3800,07 Jul 2017,2017,Jul,7,2017-07-07
+9,9.0,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3700,4105,3960,11 Jul 2017,2017,Jul,11,2017-07-11
+10,10.0,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3735,4010,3940,10 Jul 2017,2017,Jul,10,2017-07-10
+11,,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3200,3850,3485,13 Jul 2017,2017,Jul,13,2017-07-13
+12,,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3600,4000,3800,07 Jul 2017,2017,Jul,7,2017-07-07
+13,,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3700,4105,3960,11 Jul 2017,2017,Jul,11,2017-07-11
+14,,,Moga,Moga,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3735,4010,3940,10 Jul 2017,2017,Jul,10,2017-07-10

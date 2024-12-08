@@ -1,290 +1,383 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2972,2972,2972,20 Jul 2017,2017,Jul,20,2017-07-20
-1,1.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3400,3400,18 Jul 2017,2017,Jul,18,2017-07-18
-2,2.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3700,3700,3700,16 Aug 2017,2017,Aug,16,2017-08-16
-3,3.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,30 Aug 2017,2017,Aug,30,2017-08-30
-4,4.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,31 Aug 2017,2017,Aug,31,2017-08-31
-5,5.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4451,4400,03 Mar 2017,2017,Mar,3,2017-03-03
-6,6.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,04 Mar 2017,2017,Mar,4,2017-03-04
-7,7.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,10 Feb 2017,2017,Feb,10,2017-02-10
-8,8.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4685,4685,4685,14 Feb 2017,2017,Feb,14,2017-02-14
-9,9.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4900,4900,4900,04 Feb 2017,2017,Feb,4,2017-02-04
-10,10.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,21 Dec 2016,2016,Dec,21,2016-12-21
-11,11.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4601,4601,4601,04 May 2017,2017,May,4,2017-05-04
-12,12.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5400,5050,23 Dec 2016,2016,Dec,23,2016-12-23
-13,13.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4701,4900,4800,14 Feb 2017,2017,Feb,14,2017-02-14
-14,14.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,4800,4800,17 Feb 2017,2017,Feb,17,2017-02-17
-15,15.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,05 Feb 2017,2017,Feb,5,2017-02-05
-16,16.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,06 Feb 2017,2017,Feb,6,2017-02-06
-17,17.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5100,4950,22 Dec 2016,2016,Dec,22,2016-12-22
-18,18.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4850,4850,4850,18 Feb 2017,2017,Feb,18,2017-02-18
-19,19.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,12 Feb 2017,2017,Feb,12,2017-02-12
-20,20.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,13 Feb 2017,2017,Feb,13,2017-02-13
-21,21.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4999,4999,4999,11 Feb 2017,2017,Feb,11,2017-02-11
-22,22.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5000,5000,01 Feb 2017,2017,Feb,1,2017-02-01
-23,23.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,14 Jan 2017,2017,Jan,14,2017-01-14
-24,24.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,15 Jan 2017,2017,Jan,15,2017-01-15
-25,25.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,16 Jan 2017,2017,Jan,16,2017-01-16
-26,26.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5505,5302,11 Jan 2017,2017,Jan,11,2017-01-11
-27,27.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,26 Jan 2017,2017,Jan,26,2017-01-26
-28,28.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,27 Jan 2017,2017,Jan,27,2017-01-27
-29,29.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5191,5191,5191,20 Dec 2016,2016,Dec,20,2016-12-20
-30,30.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,16 Dec 2016,2016,Dec,16,2016-12-16
-31,31.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,08 Jan 2017,2017,Jan,8,2017-01-08
-32,32.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,09 Jan 2017,2017,Jan,9,2017-01-09
-33,33.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5350,5526,5438,22 Mar 2017,2017,Mar,22,2017-03-22
-34,34.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,27 Dec 2016,2016,Dec,27,2016-12-27
-35,35.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5771,5610,18 Oct 2016,2016,Oct,18,2016-10-18
-36,36.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5501,5751,5626,05 Jan 2017,2017,Jan,5,2017-01-05
-37,37.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5524,5524,5524,04 Jan 2017,2017,Jan,4,2017-01-04
-38,38.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5600,5600,5600,08 Dec 2016,2016,Dec,8,2016-12-08
-39,39.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,16 Oct 2016,2016,Oct,16,2016-10-16
-40,40.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,17 Oct 2016,2016,Oct,17,2016-10-17
-41,41.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5670,5810,5740,20 Oct 2016,2016,Oct,20,2016-10-20
-42,42.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5700,5800,5750,04 Nov 2016,2016,Nov,4,2016-11-04
-43,43.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5725,6296,6010,06 Oct 2016,2016,Oct,6,2016-10-06
-44,44.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5799,5871,5835,19 Oct 2016,2016,Oct,19,2016-10-19
-45,45.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5900,5900,02 Dec 2016,2016,Dec,2,2016-12-02
-46,46.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5981,5940,19 Nov 2016,2016,Nov,19,2016-11-19
-47,47.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,09 Oct 2016,2016,Oct,9,2016-10-09
-48,48.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,10 Oct 2016,2016,Oct,10,2016-10-10
-49,49.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,09 Nov 2016,2016,Nov,9,2016-11-09
-50,50.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,10 Nov 2016,2016,Nov,10,2016-11-10
-51,51.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,11 Nov 2016,2016,Nov,11,2016-11-11
-52,52.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,12 Nov 2016,2016,Nov,12,2016-11-12
-53,53.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,13 Nov 2016,2016,Nov,13,2016-11-13
-54,54.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,14 Nov 2016,2016,Nov,14,2016-11-14
-55,55.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,15 Nov 2016,2016,Nov,15,2016-11-15
-56,56.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,16 Nov 2016,2016,Nov,16,2016-11-16
-57,57.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6000,6000,22 Nov 2016,2016,Nov,22,2016-11-22
-58,58.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6031,6412,6221,22 Oct 2016,2016,Oct,22,2016-10-22
-59,59.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6086,6200,6143,05 Oct 2016,2016,Oct,5,2016-10-05
-60,60.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6150,6615,6382,08 Oct 2016,2016,Oct,8,2016-10-08
-61,61.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6161,6271,6216,08 Nov 2016,2016,Nov,8,2016-11-08
-62,62.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6401,6551,6476,21 Oct 2016,2016,Oct,21,2016-10-21
-63,63.0,Hanumangarh,Pilibanga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,08 Oct 2016,2016,Oct,8,2016-10-08
-64,64.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3250,3250,3250,12 May 2017,2017,May,12,2017-05-12
-65,65.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3560,3560,3560,04 Nov 2016,2016,Nov,4,2016-11-04
-66,66.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3800,3800,3800,27 May 2017,2017,May,27,2017-05-27
-67,67.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4025,4025,4025,22 Feb 2017,2017,Feb,22,2017-02-22
-68,68.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4200,4200,10 Mar 2017,2017,Mar,10,2017-03-10
-69,69.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4300,4300,4300,13 Dec 2016,2016,Dec,13,2016-12-13
-70,70.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,02 Mar 2017,2017,Mar,2,2017-03-02
-71,71.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4460,4460,4460,19 Dec 2016,2016,Dec,19,2016-12-19
-72,72.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4555,4555,4555,16 Dec 2016,2016,Dec,16,2016-12-16
-73,73.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,15 Oct 2016,2016,Oct,15,2016-10-15
-74,74.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5050,5050,30 Jan 2017,2017,Jan,30,2017-01-30
-75,75.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4855,5100,5100,02 Feb 2017,2017,Feb,2,2017-02-02
-76,76.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5021,5021,5021,22 Oct 2016,2016,Oct,22,2016-10-22
-77,77.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5060,5060,5060,06 Feb 2017,2017,Feb,6,2017-02-06
-78,78.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5091,5091,5091,13 Apr 2017,2017,Apr,13,2017-04-13
-79,79.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5100,5100,28 Oct 2016,2016,Oct,28,2016-10-28
-80,80.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5151,5400,5400,21 Jan 2017,2017,Jan,21,2017-01-21
-81,81.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,23 Jan 2017,2017,Jan,23,2017-01-23
-82,82.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5255,5255,5255,21 Nov 2016,2016,Nov,21,2016-11-21
-83,83.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5341,5341,5341,19 Jan 2017,2017,Jan,19,2017-01-19
-84,84.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5355,5355,5355,12 Jan 2017,2017,Jan,12,2017-01-12
-85,85.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5371,5371,5371,24 Jan 2017,2017,Jan,24,2017-01-24
-86,86.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5375,5375,5375,23 Dec 2016,2016,Dec,23,2016-12-23
-87,87.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5415,5415,5415,27 Mar 2017,2017,Mar,27,2017-03-27
-88,88.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,09 Jan 2017,2017,Jan,9,2017-01-09
-89,89.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5550,5550,5550,04 Feb 2017,2017,Feb,4,2017-02-04
-90,90.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5655,5780,5780,08 Nov 2016,2016,Nov,8,2016-11-08
-91,91.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5915,5915,5915,26 Oct 2016,2016,Oct,26,2016-10-26
-92,92.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6405,6600,6600,06 Oct 2016,2016,Oct,6,2016-10-06
-93,93.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3381,3381,3381,25 Sep 2018,2018,Sep,25,2018-09-25
-94,94.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4001,4228,4185,11 May 2019,2019,May,11,2019-05-11
-95,95.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2500,3200,2850,28 Oct 2018,2018,Oct,28,2018-10-28
-96,96.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2500,3200,2850,29 Oct 2018,2018,Oct,29,2018-10-29
-97,97.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2985,2985,2985,05 Oct 2018,2018,Oct,5,2018-10-05
-98,98.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3000,3000,3000,30 Dec 2018,2018,Dec,30,2018-12-30
-99,99.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3000,3000,3000,31 Dec 2018,2018,Dec,31,2018-12-31
-100,100.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3010,3010,3010,18 Jan 2019,2019,Jan,18,2019-01-18
-101,101.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3151,3151,3151,28 Dec 2018,2018,Dec,28,2018-12-28
-102,102.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3200,3200,3200,31 Oct 2018,2018,Oct,31,2018-10-31
-103,103.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3251,3251,3251,22 Dec 2018,2018,Dec,22,2018-12-22
-104,104.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3500,3500,30 Nov 2018,2018,Nov,30,2018-11-30
-105,105.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3600,3600,01 Nov 2018,2018,Nov,1,2018-11-01
-106,106.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3600,3600,07 Dec 2018,2018,Dec,7,2018-12-07
-107,107.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3600,3600,08 Dec 2018,2018,Dec,8,2018-12-08
-108,108.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3650,3650,3650,05 Jan 2019,2019,Jan,5,2019-01-05
-109,109.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3926,3926,3926,17 Nov 2018,2018,Nov,17,2018-11-17
-110,110.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3926,3926,3926,18 Nov 2018,2018,Nov,18,2018-11-18
-111,111.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3926,3926,3926,19 Nov 2018,2018,Nov,19,2018-11-19
-112,112.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4350,4350,4350,16 Aug 2019,2019,Aug,16,2019-08-16
-113,113.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5040,5040,5040,01 Nov 2019,2019,Nov,1,2019-11-01
-114,114.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5080,5080,5080,03 Oct 2019,2019,Oct,3,2019-10-03
-115,115.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2790,2790,2790,09 Jan 2018,2018,Jan,9,2018-01-09
-116,116.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3850,3790,13 Sep 2017,2017,Sep,13,2017-09-13
-117,117.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4351,4351,4351,11 Sep 2017,2017,Sep,11,2017-09-11
-118,118.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2756,2756,2756,03 May 2018,2018,May,3,2018-05-03
-119,119.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2850,2850,2850,23 May 2018,2018,May,23,2018-05-23
-120,120.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2901,2901,2901,14 Apr 2018,2018,Apr,14,2018-04-14
-121,121.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3105,3105,3105,24 Jan 2018,2018,Jan,24,2018-01-24
-122,122.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3145,3145,3145,01 Mar 2018,2018,Mar,1,2018-03-01
-123,123.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3145,3145,3145,02 Mar 2018,2018,Mar,2,2018-03-02
-124,124.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3145,3145,3145,03 Mar 2018,2018,Mar,3,2018-03-03
-125,125.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3145,3145,3145,05 Mar 2018,2018,Mar,5,2018-03-05
-126,126.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3151,3151,3151,03 Jan 2018,2018,Jan,3,2018-01-03
-127,127.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3180,3180,3180,30 Jan 2018,2018,Jan,30,2018-01-30
-128,128.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3200,3200,3200,17 Nov 2017,2017,Nov,17,2017-11-17
-129,129.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3200,3200,3200,23 Jan 2018,2018,Jan,23,2018-01-23
-130,130.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3200,3300,3250,10 Jan 2018,2018,Jan,10,2018-01-10
-131,131.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3230,3230,3230,29 Jul 2018,2018,Jul,29,2018-07-29
-132,132.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3230,3230,3230,30 Jul 2018,2018,Jul,30,2018-07-30
-133,133.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3250,3250,3250,15 Nov 2017,2017,Nov,15,2017-11-15
-134,134.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3271,3425,3348,16 Feb 2018,2018,Feb,16,2018-02-16
-135,135.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3280,3280,3280,07 Oct 2017,2017,Oct,7,2017-10-07
-136,136.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3282,3282,3282,01 Feb 2018,2018,Feb,1,2018-02-01
-137,137.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3300,3300,23 Nov 2017,2017,Nov,23,2017-11-23
-138,138.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3300,3300,24 Nov 2017,2017,Nov,24,2017-11-24
-139,139.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3360,3330,05 Nov 2017,2017,Nov,5,2017-11-05
-140,140.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3360,3330,06 Nov 2017,2017,Nov,6,2017-11-06
-141,141.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,16 Oct 2017,2017,Oct,16,2017-10-16
-142,142.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,17 Oct 2017,2017,Oct,17,2017-10-17
-143,143.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,18 Oct 2017,2017,Oct,18,2017-10-18
-144,144.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,19 Oct 2017,2017,Oct,19,2017-10-19
-145,145.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,20 Oct 2017,2017,Oct,20,2017-10-20
-146,146.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,21 Oct 2017,2017,Oct,21,2017-10-21
-147,147.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3301,3301,3301,25 Aug 2018,2018,Aug,25,2018-08-25
-148,148.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3310,3310,3310,07 Mar 2018,2018,Mar,7,2018-03-07
-149,149.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3310,3436,3373,12 Oct 2017,2017,Oct,12,2017-10-12
-150,150.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3311,3311,3311,06 Mar 2018,2018,Mar,6,2018-03-06
-151,151.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3325,3455,3390,08 Nov 2017,2017,Nov,8,2017-11-08
-152,152.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3340,3340,3340,25 Jan 2018,2018,Jan,25,2018-01-25
-153,153.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3350,3375,3362,24 Feb 2018,2018,Feb,24,2018-02-24
-154,154.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3361,3501,3431,13 Oct 2017,2017,Oct,13,2017-10-13
-155,155.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3370,3370,3370,03 Nov 2017,2017,Nov,3,2017-11-03
-156,156.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3370,3451,3410,25 Nov 2017,2017,Nov,25,2017-11-25
-157,157.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3375,3375,3375,25 Feb 2018,2018,Feb,25,2018-02-25
-158,158.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3375,3375,3375,26 Feb 2018,2018,Feb,26,2018-02-26
-159,159.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3385,3385,3385,11 Nov 2017,2017,Nov,11,2017-11-11
-160,160.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3391,3589,3490,28 Dec 2017,2017,Dec,28,2017-12-28
-161,161.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3399,3399,3399,13 Jan 2018,2018,Jan,13,2018-01-13
-162,162.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3400,3400,07 Feb 2018,2018,Feb,7,2018-02-07
-163,163.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3400,3400,22 Nov 2017,2017,Nov,22,2017-11-22
-164,164.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3450,3425,11 Jan 2018,2018,Jan,11,2018-01-11
-165,165.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3426,3631,3528,28 Nov 2017,2017,Nov,28,2017-11-28
-166,166.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3446,3500,3473,19 Nov 2017,2017,Nov,19,2017-11-19
-167,167.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3446,3500,3473,20 Nov 2017,2017,Nov,20,2017-11-20
-168,168.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3450,3450,3450,03 Feb 2018,2018,Feb,3,2018-02-03
-169,169.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3451,3451,3451,21 Nov 2017,2017,Nov,21,2017-11-21
-170,170.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3460,3500,3480,09 Dec 2017,2017,Dec,9,2017-12-09
-171,171.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3485,3485,3485,10 Nov 2017,2017,Nov,10,2017-11-10
-172,172.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3500,3500,25 Oct 2017,2017,Oct,25,2017-10-25
-173,173.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3550,3670,3610,23 Dec 2017,2017,Dec,23,2017-12-23
-174,174.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3551,3551,3551,22 Oct 2017,2017,Oct,22,2017-10-22
-175,175.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3590,3590,3590,05 Jan 2018,2018,Jan,5,2018-01-05
-176,176.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3600,3600,12 Sep 2017,2017,Sep,12,2017-09-12
-177,177.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3777,3693,05 Oct 2017,2017,Oct,5,2017-10-05
-178,178.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3615,3700,3651,24 Oct 2017,2017,Oct,24,2017-10-24
-179,179.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3615,3731,3673,05 Dec 2017,2017,Dec,5,2017-12-05
-180,180.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3641,3641,3641,26 Oct 2017,2017,Oct,26,2017-10-26
-181,181.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3650,3650,3650,06 Oct 2017,2017,Oct,6,2017-10-06
-182,182.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3657,3657,3657,20 Dec 2017,2017,Dec,20,2017-12-20
-183,183.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3675,3821,3748,30 Nov 2017,2017,Nov,30,2017-11-30
-184,184.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3680,3680,3680,08 Oct 2017,2017,Oct,8,2017-10-08
-185,185.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3680,3680,3680,09 Oct 2017,2017,Oct,9,2017-10-09
-186,186.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3745,3750,3747,03 Dec 2017,2017,Dec,3,2017-12-03
-187,187.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3745,3750,3747,04 Dec 2017,2017,Dec,4,2017-12-04
-188,188.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3750,3750,3750,01 Oct 2017,2017,Oct,1,2017-10-01
-189,189.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3750,3750,3750,02 Oct 2017,2017,Oct,2,2017-10-02
-190,190.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3750,3750,3750,30 Sep 2017,2017,Sep,30,2017-09-30
-191,191.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3781,3781,3781,28 Sep 2017,2017,Sep,28,2017-09-28
-192,192.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3801,3801,3801,20 Sep 2017,2017,Sep,20,2017-09-20
-193,193.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3814,3814,3814,01 Dec 2017,2017,Dec,1,2017-12-01
-194,194.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3825,3880,3852,04 Oct 2017,2017,Oct,4,2017-10-04
-195,195.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3550,3905,3905,12 Sep 2017,2017,Sep,12,2017-09-12
-196,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2972,2972,2972,20 Jul 2017,2017,Jul,20,2017-07-20
-197,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3400,3400,18 Jul 2017,2017,Jul,18,2017-07-18
-198,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3700,3700,3700,16 Aug 2017,2017,Aug,16,2017-08-16
-199,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,30 Aug 2017,2017,Aug,30,2017-08-30
-200,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,31 Aug 2017,2017,Aug,31,2017-08-31
-201,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4451,4400,03 Mar 2017,2017,Mar,3,2017-03-03
-202,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,04 Mar 2017,2017,Mar,4,2017-03-04
-203,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,10 Feb 2017,2017,Feb,10,2017-02-10
-204,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4685,4685,4685,14 Feb 2017,2017,Feb,14,2017-02-14
-205,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4900,4900,4900,04 Feb 2017,2017,Feb,4,2017-02-04
-206,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,21 Dec 2016,2016,Dec,21,2016-12-21
-207,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4601,4601,4601,04 May 2017,2017,May,4,2017-05-04
-208,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5400,5050,23 Dec 2016,2016,Dec,23,2016-12-23
-209,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4701,4900,4800,14 Feb 2017,2017,Feb,14,2017-02-14
-210,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,4800,4800,17 Feb 2017,2017,Feb,17,2017-02-17
-211,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,05 Feb 2017,2017,Feb,5,2017-02-05
-212,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,06 Feb 2017,2017,Feb,6,2017-02-06
-213,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5100,4950,22 Dec 2016,2016,Dec,22,2016-12-22
-214,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4850,4850,4850,18 Feb 2017,2017,Feb,18,2017-02-18
-215,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,12 Feb 2017,2017,Feb,12,2017-02-12
-216,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,13 Feb 2017,2017,Feb,13,2017-02-13
-217,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4999,4999,4999,11 Feb 2017,2017,Feb,11,2017-02-11
-218,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5000,5000,01 Feb 2017,2017,Feb,1,2017-02-01
-219,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,14 Jan 2017,2017,Jan,14,2017-01-14
-220,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,15 Jan 2017,2017,Jan,15,2017-01-15
-221,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,16 Jan 2017,2017,Jan,16,2017-01-16
-222,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5505,5302,11 Jan 2017,2017,Jan,11,2017-01-11
-223,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,26 Jan 2017,2017,Jan,26,2017-01-26
-224,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,27 Jan 2017,2017,Jan,27,2017-01-27
-225,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5191,5191,5191,20 Dec 2016,2016,Dec,20,2016-12-20
-226,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,16 Dec 2016,2016,Dec,16,2016-12-16
-227,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,08 Jan 2017,2017,Jan,8,2017-01-08
-228,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,09 Jan 2017,2017,Jan,9,2017-01-09
-229,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5350,5526,5438,22 Mar 2017,2017,Mar,22,2017-03-22
-230,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,27 Dec 2016,2016,Dec,27,2016-12-27
-231,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5771,5610,18 Oct 2016,2016,Oct,18,2016-10-18
-232,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5501,5751,5626,05 Jan 2017,2017,Jan,5,2017-01-05
-233,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5524,5524,5524,04 Jan 2017,2017,Jan,4,2017-01-04
-234,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5600,5600,5600,08 Dec 2016,2016,Dec,8,2016-12-08
-235,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,16 Oct 2016,2016,Oct,16,2016-10-16
-236,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,17 Oct 2016,2016,Oct,17,2016-10-17
-237,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5670,5810,5740,20 Oct 2016,2016,Oct,20,2016-10-20
-238,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5700,5800,5750,04 Nov 2016,2016,Nov,4,2016-11-04
-239,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5725,6296,6010,06 Oct 2016,2016,Oct,6,2016-10-06
-240,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5799,5871,5835,19 Oct 2016,2016,Oct,19,2016-10-19
-241,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5900,5900,02 Dec 2016,2016,Dec,2,2016-12-02
-242,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5981,5940,19 Nov 2016,2016,Nov,19,2016-11-19
-243,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,09 Oct 2016,2016,Oct,9,2016-10-09
-244,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,10 Oct 2016,2016,Oct,10,2016-10-10
-245,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,09 Nov 2016,2016,Nov,9,2016-11-09
-246,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,10 Nov 2016,2016,Nov,10,2016-11-10
-247,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,11 Nov 2016,2016,Nov,11,2016-11-11
-248,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,12 Nov 2016,2016,Nov,12,2016-11-12
-249,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,13 Nov 2016,2016,Nov,13,2016-11-13
-250,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,14 Nov 2016,2016,Nov,14,2016-11-14
-251,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,15 Nov 2016,2016,Nov,15,2016-11-15
-252,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,16 Nov 2016,2016,Nov,16,2016-11-16
-253,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6000,6000,22 Nov 2016,2016,Nov,22,2016-11-22
-254,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6031,6412,6221,22 Oct 2016,2016,Oct,22,2016-10-22
-255,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6086,6200,6143,05 Oct 2016,2016,Oct,5,2016-10-05
-256,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6150,6615,6382,08 Oct 2016,2016,Oct,8,2016-10-08
-257,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6161,6271,6216,08 Nov 2016,2016,Nov,8,2016-11-08
-258,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6401,6551,6476,21 Oct 2016,2016,Oct,21,2016-10-21
-259,,Hanumangarh,Pilibanga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,08 Oct 2016,2016,Oct,8,2016-10-08
-260,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3250,3250,3250,12 May 2017,2017,May,12,2017-05-12
-261,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3560,3560,3560,04 Nov 2016,2016,Nov,4,2016-11-04
-262,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3800,3800,3800,27 May 2017,2017,May,27,2017-05-27
-263,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4025,4025,4025,22 Feb 2017,2017,Feb,22,2017-02-22
-264,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4200,4200,10 Mar 2017,2017,Mar,10,2017-03-10
-265,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4300,4300,4300,13 Dec 2016,2016,Dec,13,2016-12-13
-266,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,02 Mar 2017,2017,Mar,2,2017-03-02
-267,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4460,4460,4460,19 Dec 2016,2016,Dec,19,2016-12-19
-268,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4555,4555,4555,16 Dec 2016,2016,Dec,16,2016-12-16
-269,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,15 Oct 2016,2016,Oct,15,2016-10-15
-270,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5050,5050,30 Jan 2017,2017,Jan,30,2017-01-30
-271,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4855,5100,5100,02 Feb 2017,2017,Feb,2,2017-02-02
-272,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5021,5021,5021,22 Oct 2016,2016,Oct,22,2016-10-22
-273,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5060,5060,5060,06 Feb 2017,2017,Feb,6,2017-02-06
-274,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5091,5091,5091,13 Apr 2017,2017,Apr,13,2017-04-13
-275,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5100,5100,28 Oct 2016,2016,Oct,28,2016-10-28
-276,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5151,5400,5400,21 Jan 2017,2017,Jan,21,2017-01-21
-277,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,23 Jan 2017,2017,Jan,23,2017-01-23
-278,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5255,5255,5255,21 Nov 2016,2016,Nov,21,2016-11-21
-279,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5341,5341,5341,19 Jan 2017,2017,Jan,19,2017-01-19
-280,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5355,5355,5355,12 Jan 2017,2017,Jan,12,2017-01-12
-281,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5371,5371,5371,24 Jan 2017,2017,Jan,24,2017-01-24
-282,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5375,5375,5375,23 Dec 2016,2016,Dec,23,2016-12-23
-283,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5415,5415,5415,27 Mar 2017,2017,Mar,27,2017-03-27
-284,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,09 Jan 2017,2017,Jan,9,2017-01-09
-285,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5550,5550,5550,04 Feb 2017,2017,Feb,4,2017-02-04
-286,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5655,5780,5780,08 Nov 2016,2016,Nov,8,2016-11-08
-287,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5915,5915,5915,26 Oct 2016,2016,Oct,26,2016-10-26
-288,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6405,6600,6600,06 Oct 2016,2016,Oct,6,2016-10-06
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2972,2972,2972,20 Jul 2017,2017,Jul,20,2017-07-20
+1,1.0,1.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3400,3400,18 Jul 2017,2017,Jul,18,2017-07-18
+2,2.0,2.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3700,3700,3700,16 Aug 2017,2017,Aug,16,2017-08-16
+3,3.0,3.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,30 Aug 2017,2017,Aug,30,2017-08-30
+4,4.0,4.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,31 Aug 2017,2017,Aug,31,2017-08-31
+5,5.0,5.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4451,4400,03 Mar 2017,2017,Mar,3,2017-03-03
+6,6.0,6.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,04 Mar 2017,2017,Mar,4,2017-03-04
+7,7.0,7.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,10 Feb 2017,2017,Feb,10,2017-02-10
+8,8.0,8.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4685,4685,4685,14 Feb 2017,2017,Feb,14,2017-02-14
+9,9.0,9.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4900,4900,4900,04 Feb 2017,2017,Feb,4,2017-02-04
+10,10.0,10.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,21 Dec 2016,2016,Dec,21,2016-12-21
+11,11.0,11.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4601,4601,4601,04 May 2017,2017,May,4,2017-05-04
+12,12.0,12.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5400,5050,23 Dec 2016,2016,Dec,23,2016-12-23
+13,13.0,13.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4701,4900,4800,14 Feb 2017,2017,Feb,14,2017-02-14
+14,14.0,14.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,4800,4800,17 Feb 2017,2017,Feb,17,2017-02-17
+15,15.0,15.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,05 Feb 2017,2017,Feb,5,2017-02-05
+16,16.0,16.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,06 Feb 2017,2017,Feb,6,2017-02-06
+17,17.0,17.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5100,4950,22 Dec 2016,2016,Dec,22,2016-12-22
+18,18.0,18.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4850,4850,4850,18 Feb 2017,2017,Feb,18,2017-02-18
+19,19.0,19.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,12 Feb 2017,2017,Feb,12,2017-02-12
+20,20.0,20.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,13 Feb 2017,2017,Feb,13,2017-02-13
+21,21.0,21.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4999,4999,4999,11 Feb 2017,2017,Feb,11,2017-02-11
+22,22.0,22.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5000,5000,01 Feb 2017,2017,Feb,1,2017-02-01
+23,23.0,23.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,14 Jan 2017,2017,Jan,14,2017-01-14
+24,24.0,24.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,15 Jan 2017,2017,Jan,15,2017-01-15
+25,25.0,25.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,16 Jan 2017,2017,Jan,16,2017-01-16
+26,26.0,26.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5505,5302,11 Jan 2017,2017,Jan,11,2017-01-11
+27,27.0,27.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,26 Jan 2017,2017,Jan,26,2017-01-26
+28,28.0,28.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,27 Jan 2017,2017,Jan,27,2017-01-27
+29,29.0,29.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5191,5191,5191,20 Dec 2016,2016,Dec,20,2016-12-20
+30,30.0,30.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,16 Dec 2016,2016,Dec,16,2016-12-16
+31,31.0,31.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,08 Jan 2017,2017,Jan,8,2017-01-08
+32,32.0,32.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,09 Jan 2017,2017,Jan,9,2017-01-09
+33,33.0,33.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5350,5526,5438,22 Mar 2017,2017,Mar,22,2017-03-22
+34,34.0,34.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,27 Dec 2016,2016,Dec,27,2016-12-27
+35,35.0,35.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5771,5610,18 Oct 2016,2016,Oct,18,2016-10-18
+36,36.0,36.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5501,5751,5626,05 Jan 2017,2017,Jan,5,2017-01-05
+37,37.0,37.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5524,5524,5524,04 Jan 2017,2017,Jan,4,2017-01-04
+38,38.0,38.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5600,5600,5600,08 Dec 2016,2016,Dec,8,2016-12-08
+39,39.0,39.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,16 Oct 2016,2016,Oct,16,2016-10-16
+40,40.0,40.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,17 Oct 2016,2016,Oct,17,2016-10-17
+41,41.0,41.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5670,5810,5740,20 Oct 2016,2016,Oct,20,2016-10-20
+42,42.0,42.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5700,5800,5750,04 Nov 2016,2016,Nov,4,2016-11-04
+43,43.0,43.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5725,6296,6010,06 Oct 2016,2016,Oct,6,2016-10-06
+44,44.0,44.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5799,5871,5835,19 Oct 2016,2016,Oct,19,2016-10-19
+45,45.0,45.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5900,5900,02 Dec 2016,2016,Dec,2,2016-12-02
+46,46.0,46.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5981,5940,19 Nov 2016,2016,Nov,19,2016-11-19
+47,47.0,47.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,09 Oct 2016,2016,Oct,9,2016-10-09
+48,48.0,48.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,10 Oct 2016,2016,Oct,10,2016-10-10
+49,49.0,49.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,09 Nov 2016,2016,Nov,9,2016-11-09
+50,50.0,50.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,10 Nov 2016,2016,Nov,10,2016-11-10
+51,51.0,51.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,11 Nov 2016,2016,Nov,11,2016-11-11
+52,52.0,52.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,12 Nov 2016,2016,Nov,12,2016-11-12
+53,53.0,53.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,13 Nov 2016,2016,Nov,13,2016-11-13
+54,54.0,54.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,14 Nov 2016,2016,Nov,14,2016-11-14
+55,55.0,55.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,15 Nov 2016,2016,Nov,15,2016-11-15
+56,56.0,56.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,16 Nov 2016,2016,Nov,16,2016-11-16
+57,57.0,57.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6000,6000,22 Nov 2016,2016,Nov,22,2016-11-22
+58,58.0,58.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6031,6412,6221,22 Oct 2016,2016,Oct,22,2016-10-22
+59,59.0,59.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6086,6200,6143,05 Oct 2016,2016,Oct,5,2016-10-05
+60,60.0,60.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6150,6615,6382,08 Oct 2016,2016,Oct,8,2016-10-08
+61,61.0,61.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6161,6271,6216,08 Nov 2016,2016,Nov,8,2016-11-08
+62,62.0,62.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6401,6551,6476,21 Oct 2016,2016,Oct,21,2016-10-21
+63,63.0,63.0,Hanumangarh,Pilibanga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,08 Oct 2016,2016,Oct,8,2016-10-08
+64,64.0,64.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3250,3250,3250,12 May 2017,2017,May,12,2017-05-12
+65,65.0,65.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3560,3560,3560,04 Nov 2016,2016,Nov,4,2016-11-04
+66,66.0,66.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3800,3800,3800,27 May 2017,2017,May,27,2017-05-27
+67,67.0,67.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4025,4025,4025,22 Feb 2017,2017,Feb,22,2017-02-22
+68,68.0,68.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4200,4200,10 Mar 2017,2017,Mar,10,2017-03-10
+69,69.0,69.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4300,4300,4300,13 Dec 2016,2016,Dec,13,2016-12-13
+70,70.0,70.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,02 Mar 2017,2017,Mar,2,2017-03-02
+71,71.0,71.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4460,4460,4460,19 Dec 2016,2016,Dec,19,2016-12-19
+72,72.0,72.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4555,4555,4555,16 Dec 2016,2016,Dec,16,2016-12-16
+73,73.0,73.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,15 Oct 2016,2016,Oct,15,2016-10-15
+74,74.0,74.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5050,5050,30 Jan 2017,2017,Jan,30,2017-01-30
+75,75.0,75.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4855,5100,5100,02 Feb 2017,2017,Feb,2,2017-02-02
+76,76.0,76.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5021,5021,5021,22 Oct 2016,2016,Oct,22,2016-10-22
+77,77.0,77.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5060,5060,5060,06 Feb 2017,2017,Feb,6,2017-02-06
+78,78.0,78.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5091,5091,5091,13 Apr 2017,2017,Apr,13,2017-04-13
+79,79.0,79.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5100,5100,28 Oct 2016,2016,Oct,28,2016-10-28
+80,80.0,80.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5151,5400,5400,21 Jan 2017,2017,Jan,21,2017-01-21
+81,81.0,81.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,23 Jan 2017,2017,Jan,23,2017-01-23
+82,82.0,82.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5255,5255,5255,21 Nov 2016,2016,Nov,21,2016-11-21
+83,83.0,83.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5341,5341,5341,19 Jan 2017,2017,Jan,19,2017-01-19
+84,84.0,84.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5355,5355,5355,12 Jan 2017,2017,Jan,12,2017-01-12
+85,85.0,85.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5371,5371,5371,24 Jan 2017,2017,Jan,24,2017-01-24
+86,86.0,86.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5375,5375,5375,23 Dec 2016,2016,Dec,23,2016-12-23
+87,87.0,87.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5415,5415,5415,27 Mar 2017,2017,Mar,27,2017-03-27
+88,88.0,88.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,09 Jan 2017,2017,Jan,9,2017-01-09
+89,89.0,89.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5550,5550,5550,04 Feb 2017,2017,Feb,4,2017-02-04
+90,90.0,90.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5655,5780,5780,08 Nov 2016,2016,Nov,8,2016-11-08
+91,91.0,91.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5915,5915,5915,26 Oct 2016,2016,Oct,26,2016-10-26
+92,92.0,92.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6405,6600,6600,06 Oct 2016,2016,Oct,6,2016-10-06
+93,93.0,93.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3381,3381,3381,25 Sep 2018,2018,Sep,25,2018-09-25
+94,94.0,94.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4001,4228,4185,11 May 2019,2019,May,11,2019-05-11
+95,95.0,95.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2500,3200,2850,28 Oct 2018,2018,Oct,28,2018-10-28
+96,96.0,96.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2500,3200,2850,29 Oct 2018,2018,Oct,29,2018-10-29
+97,97.0,97.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2985,2985,2985,05 Oct 2018,2018,Oct,5,2018-10-05
+98,98.0,98.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3000,3000,3000,30 Dec 2018,2018,Dec,30,2018-12-30
+99,99.0,99.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3000,3000,3000,31 Dec 2018,2018,Dec,31,2018-12-31
+100,100.0,100.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3010,3010,3010,18 Jan 2019,2019,Jan,18,2019-01-18
+101,101.0,101.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3151,3151,3151,28 Dec 2018,2018,Dec,28,2018-12-28
+102,102.0,102.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3200,3200,3200,31 Oct 2018,2018,Oct,31,2018-10-31
+103,103.0,103.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3251,3251,3251,22 Dec 2018,2018,Dec,22,2018-12-22
+104,104.0,104.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3500,3500,30 Nov 2018,2018,Nov,30,2018-11-30
+105,105.0,105.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3600,3600,01 Nov 2018,2018,Nov,1,2018-11-01
+106,106.0,106.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3600,3600,07 Dec 2018,2018,Dec,7,2018-12-07
+107,107.0,107.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3600,3600,08 Dec 2018,2018,Dec,8,2018-12-08
+108,108.0,108.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3650,3650,3650,05 Jan 2019,2019,Jan,5,2019-01-05
+109,109.0,109.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3926,3926,3926,17 Nov 2018,2018,Nov,17,2018-11-17
+110,110.0,110.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3926,3926,3926,18 Nov 2018,2018,Nov,18,2018-11-18
+111,111.0,111.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3926,3926,3926,19 Nov 2018,2018,Nov,19,2018-11-19
+112,112.0,112.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4350,4350,4350,16 Aug 2019,2019,Aug,16,2019-08-16
+113,113.0,113.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5040,5040,5040,01 Nov 2019,2019,Nov,1,2019-11-01
+114,114.0,114.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5080,5080,5080,03 Oct 2019,2019,Oct,3,2019-10-03
+115,115.0,115.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2790,2790,2790,09 Jan 2018,2018,Jan,9,2018-01-09
+116,116.0,116.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3850,3790,13 Sep 2017,2017,Sep,13,2017-09-13
+117,117.0,117.0,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4351,4351,4351,11 Sep 2017,2017,Sep,11,2017-09-11
+118,118.0,118.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2756,2756,2756,03 May 2018,2018,May,3,2018-05-03
+119,119.0,119.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2850,2850,2850,23 May 2018,2018,May,23,2018-05-23
+120,120.0,120.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2901,2901,2901,14 Apr 2018,2018,Apr,14,2018-04-14
+121,121.0,121.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3105,3105,3105,24 Jan 2018,2018,Jan,24,2018-01-24
+122,122.0,122.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3145,3145,3145,01 Mar 2018,2018,Mar,1,2018-03-01
+123,123.0,123.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3145,3145,3145,02 Mar 2018,2018,Mar,2,2018-03-02
+124,124.0,124.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3145,3145,3145,03 Mar 2018,2018,Mar,3,2018-03-03
+125,125.0,125.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3145,3145,3145,05 Mar 2018,2018,Mar,5,2018-03-05
+126,126.0,126.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3151,3151,3151,03 Jan 2018,2018,Jan,3,2018-01-03
+127,127.0,127.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3180,3180,3180,30 Jan 2018,2018,Jan,30,2018-01-30
+128,128.0,128.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3200,3200,3200,17 Nov 2017,2017,Nov,17,2017-11-17
+129,129.0,129.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3200,3200,3200,23 Jan 2018,2018,Jan,23,2018-01-23
+130,130.0,130.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3200,3300,3250,10 Jan 2018,2018,Jan,10,2018-01-10
+131,131.0,131.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3230,3230,3230,29 Jul 2018,2018,Jul,29,2018-07-29
+132,132.0,132.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3230,3230,3230,30 Jul 2018,2018,Jul,30,2018-07-30
+133,133.0,133.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3250,3250,3250,15 Nov 2017,2017,Nov,15,2017-11-15
+134,134.0,134.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3271,3425,3348,16 Feb 2018,2018,Feb,16,2018-02-16
+135,135.0,135.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3280,3280,3280,07 Oct 2017,2017,Oct,7,2017-10-07
+136,136.0,136.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3282,3282,3282,01 Feb 2018,2018,Feb,1,2018-02-01
+137,137.0,137.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3300,3300,23 Nov 2017,2017,Nov,23,2017-11-23
+138,138.0,138.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3300,3300,24 Nov 2017,2017,Nov,24,2017-11-24
+139,139.0,139.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3360,3330,05 Nov 2017,2017,Nov,5,2017-11-05
+140,140.0,140.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3360,3330,06 Nov 2017,2017,Nov,6,2017-11-06
+141,141.0,141.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,16 Oct 2017,2017,Oct,16,2017-10-16
+142,142.0,142.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,17 Oct 2017,2017,Oct,17,2017-10-17
+143,143.0,143.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,18 Oct 2017,2017,Oct,18,2017-10-18
+144,144.0,144.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,19 Oct 2017,2017,Oct,19,2017-10-19
+145,145.0,145.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,20 Oct 2017,2017,Oct,20,2017-10-20
+146,146.0,146.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3300,3400,3350,21 Oct 2017,2017,Oct,21,2017-10-21
+147,147.0,147.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3301,3301,3301,25 Aug 2018,2018,Aug,25,2018-08-25
+148,148.0,148.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3310,3310,3310,07 Mar 2018,2018,Mar,7,2018-03-07
+149,149.0,149.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3310,3436,3373,12 Oct 2017,2017,Oct,12,2017-10-12
+150,150.0,150.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3311,3311,3311,06 Mar 2018,2018,Mar,6,2018-03-06
+151,151.0,151.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3325,3455,3390,08 Nov 2017,2017,Nov,8,2017-11-08
+152,152.0,152.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3340,3340,3340,25 Jan 2018,2018,Jan,25,2018-01-25
+153,153.0,153.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3350,3375,3362,24 Feb 2018,2018,Feb,24,2018-02-24
+154,154.0,154.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3361,3501,3431,13 Oct 2017,2017,Oct,13,2017-10-13
+155,155.0,155.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3370,3370,3370,03 Nov 2017,2017,Nov,3,2017-11-03
+156,156.0,156.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3370,3451,3410,25 Nov 2017,2017,Nov,25,2017-11-25
+157,157.0,157.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3375,3375,3375,25 Feb 2018,2018,Feb,25,2018-02-25
+158,158.0,158.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3375,3375,3375,26 Feb 2018,2018,Feb,26,2018-02-26
+159,159.0,159.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3385,3385,3385,11 Nov 2017,2017,Nov,11,2017-11-11
+160,160.0,160.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3391,3589,3490,28 Dec 2017,2017,Dec,28,2017-12-28
+161,161.0,161.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3399,3399,3399,13 Jan 2018,2018,Jan,13,2018-01-13
+162,162.0,162.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3400,3400,07 Feb 2018,2018,Feb,7,2018-02-07
+163,163.0,163.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3400,3400,22 Nov 2017,2017,Nov,22,2017-11-22
+164,164.0,164.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3450,3425,11 Jan 2018,2018,Jan,11,2018-01-11
+165,165.0,165.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3426,3631,3528,28 Nov 2017,2017,Nov,28,2017-11-28
+166,166.0,166.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3446,3500,3473,19 Nov 2017,2017,Nov,19,2017-11-19
+167,167.0,167.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3446,3500,3473,20 Nov 2017,2017,Nov,20,2017-11-20
+168,168.0,168.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3450,3450,3450,03 Feb 2018,2018,Feb,3,2018-02-03
+169,169.0,169.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3451,3451,3451,21 Nov 2017,2017,Nov,21,2017-11-21
+170,170.0,170.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3460,3500,3480,09 Dec 2017,2017,Dec,9,2017-12-09
+171,171.0,171.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3485,3485,3485,10 Nov 2017,2017,Nov,10,2017-11-10
+172,172.0,172.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3500,3500,3500,25 Oct 2017,2017,Oct,25,2017-10-25
+173,173.0,173.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3550,3670,3610,23 Dec 2017,2017,Dec,23,2017-12-23
+174,174.0,174.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3551,3551,3551,22 Oct 2017,2017,Oct,22,2017-10-22
+175,175.0,175.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3590,3590,3590,05 Jan 2018,2018,Jan,5,2018-01-05
+176,176.0,176.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3600,3600,12 Sep 2017,2017,Sep,12,2017-09-12
+177,177.0,177.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3600,3777,3693,05 Oct 2017,2017,Oct,5,2017-10-05
+178,178.0,178.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3615,3700,3651,24 Oct 2017,2017,Oct,24,2017-10-24
+179,179.0,179.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3615,3731,3673,05 Dec 2017,2017,Dec,5,2017-12-05
+180,180.0,180.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3641,3641,3641,26 Oct 2017,2017,Oct,26,2017-10-26
+181,181.0,181.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3650,3650,3650,06 Oct 2017,2017,Oct,6,2017-10-06
+182,182.0,182.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3657,3657,3657,20 Dec 2017,2017,Dec,20,2017-12-20
+183,183.0,183.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3675,3821,3748,30 Nov 2017,2017,Nov,30,2017-11-30
+184,184.0,184.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3680,3680,3680,08 Oct 2017,2017,Oct,8,2017-10-08
+185,185.0,185.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3680,3680,3680,09 Oct 2017,2017,Oct,9,2017-10-09
+186,186.0,186.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3745,3750,3747,03 Dec 2017,2017,Dec,3,2017-12-03
+187,187.0,187.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3745,3750,3747,04 Dec 2017,2017,Dec,4,2017-12-04
+188,188.0,188.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3750,3750,3750,01 Oct 2017,2017,Oct,1,2017-10-01
+189,189.0,189.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3750,3750,3750,02 Oct 2017,2017,Oct,2,2017-10-02
+190,190.0,190.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3750,3750,3750,30 Sep 2017,2017,Sep,30,2017-09-30
+191,191.0,191.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3781,3781,3781,28 Sep 2017,2017,Sep,28,2017-09-28
+192,192.0,192.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3801,3801,3801,20 Sep 2017,2017,Sep,20,2017-09-20
+193,193.0,193.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3814,3814,3814,01 Dec 2017,2017,Dec,1,2017-12-01
+194,194.0,194.0,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3825,3880,3852,04 Oct 2017,2017,Oct,4,2017-10-04
+195,195.0,195.0,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3550,3905,3905,12 Sep 2017,2017,Sep,12,2017-09-12
+196,196.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2972,2972,2972,20 Jul 2017,2017,Jul,20,2017-07-20
+197,197.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3400,3400,18 Jul 2017,2017,Jul,18,2017-07-18
+198,198.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3700,3700,3700,16 Aug 2017,2017,Aug,16,2017-08-16
+199,199.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,30 Aug 2017,2017,Aug,30,2017-08-30
+200,200.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,31 Aug 2017,2017,Aug,31,2017-08-31
+201,201.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4451,4400,03 Mar 2017,2017,Mar,3,2017-03-03
+202,202.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,04 Mar 2017,2017,Mar,4,2017-03-04
+203,203.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,10 Feb 2017,2017,Feb,10,2017-02-10
+204,204.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4685,4685,4685,14 Feb 2017,2017,Feb,14,2017-02-14
+205,205.0,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4900,4900,4900,04 Feb 2017,2017,Feb,4,2017-02-04
+206,206.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,21 Dec 2016,2016,Dec,21,2016-12-21
+207,207.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4601,4601,4601,04 May 2017,2017,May,4,2017-05-04
+208,208.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5400,5050,23 Dec 2016,2016,Dec,23,2016-12-23
+209,209.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4701,4900,4800,14 Feb 2017,2017,Feb,14,2017-02-14
+210,210.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,4800,4800,17 Feb 2017,2017,Feb,17,2017-02-17
+211,211.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,05 Feb 2017,2017,Feb,5,2017-02-05
+212,212.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,06 Feb 2017,2017,Feb,6,2017-02-06
+213,213.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5100,4950,22 Dec 2016,2016,Dec,22,2016-12-22
+214,214.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4850,4850,4850,18 Feb 2017,2017,Feb,18,2017-02-18
+215,215.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,12 Feb 2017,2017,Feb,12,2017-02-12
+216,216.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,13 Feb 2017,2017,Feb,13,2017-02-13
+217,217.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4999,4999,4999,11 Feb 2017,2017,Feb,11,2017-02-11
+218,218.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5000,5000,01 Feb 2017,2017,Feb,1,2017-02-01
+219,219.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,14 Jan 2017,2017,Jan,14,2017-01-14
+220,220.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,15 Jan 2017,2017,Jan,15,2017-01-15
+221,221.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,16 Jan 2017,2017,Jan,16,2017-01-16
+222,222.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5505,5302,11 Jan 2017,2017,Jan,11,2017-01-11
+223,223.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,26 Jan 2017,2017,Jan,26,2017-01-26
+224,224.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,27 Jan 2017,2017,Jan,27,2017-01-27
+225,225.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5191,5191,5191,20 Dec 2016,2016,Dec,20,2016-12-20
+226,226.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,16 Dec 2016,2016,Dec,16,2016-12-16
+227,227.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,08 Jan 2017,2017,Jan,8,2017-01-08
+228,228.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,09 Jan 2017,2017,Jan,9,2017-01-09
+229,229.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5350,5526,5438,22 Mar 2017,2017,Mar,22,2017-03-22
+230,230.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,27 Dec 2016,2016,Dec,27,2016-12-27
+231,231.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5771,5610,18 Oct 2016,2016,Oct,18,2016-10-18
+232,232.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5501,5751,5626,05 Jan 2017,2017,Jan,5,2017-01-05
+233,233.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5524,5524,5524,04 Jan 2017,2017,Jan,4,2017-01-04
+234,234.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5600,5600,5600,08 Dec 2016,2016,Dec,8,2016-12-08
+235,235.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,16 Oct 2016,2016,Oct,16,2016-10-16
+236,236.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,17 Oct 2016,2016,Oct,17,2016-10-17
+237,237.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5670,5810,5740,20 Oct 2016,2016,Oct,20,2016-10-20
+238,238.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5700,5800,5750,04 Nov 2016,2016,Nov,4,2016-11-04
+239,239.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5725,6296,6010,06 Oct 2016,2016,Oct,6,2016-10-06
+240,240.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5799,5871,5835,19 Oct 2016,2016,Oct,19,2016-10-19
+241,241.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5900,5900,02 Dec 2016,2016,Dec,2,2016-12-02
+242,242.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5981,5940,19 Nov 2016,2016,Nov,19,2016-11-19
+243,243.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,09 Oct 2016,2016,Oct,9,2016-10-09
+244,244.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,10 Oct 2016,2016,Oct,10,2016-10-10
+245,245.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,09 Nov 2016,2016,Nov,9,2016-11-09
+246,246.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,10 Nov 2016,2016,Nov,10,2016-11-10
+247,247.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,11 Nov 2016,2016,Nov,11,2016-11-11
+248,248.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,12 Nov 2016,2016,Nov,12,2016-11-12
+249,249.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,13 Nov 2016,2016,Nov,13,2016-11-13
+250,250.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,14 Nov 2016,2016,Nov,14,2016-11-14
+251,251.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,15 Nov 2016,2016,Nov,15,2016-11-15
+252,252.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,16 Nov 2016,2016,Nov,16,2016-11-16
+253,253.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6000,6000,22 Nov 2016,2016,Nov,22,2016-11-22
+254,254.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6031,6412,6221,22 Oct 2016,2016,Oct,22,2016-10-22
+255,255.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6086,6200,6143,05 Oct 2016,2016,Oct,5,2016-10-05
+256,256.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6150,6615,6382,08 Oct 2016,2016,Oct,8,2016-10-08
+257,257.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6161,6271,6216,08 Nov 2016,2016,Nov,8,2016-11-08
+258,258.0,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6401,6551,6476,21 Oct 2016,2016,Oct,21,2016-10-21
+259,259.0,,Hanumangarh,Pilibanga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,08 Oct 2016,2016,Oct,8,2016-10-08
+260,260.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3250,3250,3250,12 May 2017,2017,May,12,2017-05-12
+261,261.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3560,3560,3560,04 Nov 2016,2016,Nov,4,2016-11-04
+262,262.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3800,3800,3800,27 May 2017,2017,May,27,2017-05-27
+263,263.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4025,4025,4025,22 Feb 2017,2017,Feb,22,2017-02-22
+264,264.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4200,4200,10 Mar 2017,2017,Mar,10,2017-03-10
+265,265.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4300,4300,4300,13 Dec 2016,2016,Dec,13,2016-12-13
+266,266.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,02 Mar 2017,2017,Mar,2,2017-03-02
+267,267.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4460,4460,4460,19 Dec 2016,2016,Dec,19,2016-12-19
+268,268.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4555,4555,4555,16 Dec 2016,2016,Dec,16,2016-12-16
+269,269.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,15 Oct 2016,2016,Oct,15,2016-10-15
+270,270.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5050,5050,30 Jan 2017,2017,Jan,30,2017-01-30
+271,271.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4855,5100,5100,02 Feb 2017,2017,Feb,2,2017-02-02
+272,272.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5021,5021,5021,22 Oct 2016,2016,Oct,22,2016-10-22
+273,273.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5060,5060,5060,06 Feb 2017,2017,Feb,6,2017-02-06
+274,274.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5091,5091,5091,13 Apr 2017,2017,Apr,13,2017-04-13
+275,275.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5100,5100,28 Oct 2016,2016,Oct,28,2016-10-28
+276,276.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5151,5400,5400,21 Jan 2017,2017,Jan,21,2017-01-21
+277,277.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,23 Jan 2017,2017,Jan,23,2017-01-23
+278,278.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5255,5255,5255,21 Nov 2016,2016,Nov,21,2016-11-21
+279,279.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5341,5341,5341,19 Jan 2017,2017,Jan,19,2017-01-19
+280,280.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5355,5355,5355,12 Jan 2017,2017,Jan,12,2017-01-12
+281,281.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5371,5371,5371,24 Jan 2017,2017,Jan,24,2017-01-24
+282,282.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5375,5375,5375,23 Dec 2016,2016,Dec,23,2016-12-23
+283,283.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5415,5415,5415,27 Mar 2017,2017,Mar,27,2017-03-27
+284,284.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,09 Jan 2017,2017,Jan,9,2017-01-09
+285,285.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5550,5550,5550,04 Feb 2017,2017,Feb,4,2017-02-04
+286,286.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5655,5780,5780,08 Nov 2016,2016,Nov,8,2016-11-08
+287,287.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5915,5915,5915,26 Oct 2016,2016,Oct,26,2016-10-26
+288,288.0,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6405,6600,6600,06 Oct 2016,2016,Oct,6,2016-10-06
+289,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,2972,2972,2972,20 Jul 2017,2017,Jul,20,2017-07-20
+290,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3400,3400,3400,18 Jul 2017,2017,Jul,18,2017-07-18
+291,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3700,3700,3700,16 Aug 2017,2017,Aug,16,2017-08-16
+292,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,30 Aug 2017,2017,Aug,30,2017-08-30
+293,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3900,3900,3900,31 Aug 2017,2017,Aug,31,2017-08-31
+294,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4451,4400,03 Mar 2017,2017,Mar,3,2017-03-03
+295,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,04 Mar 2017,2017,Mar,4,2017-03-04
+296,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,10 Feb 2017,2017,Feb,10,2017-02-10
+297,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4685,4685,4685,14 Feb 2017,2017,Feb,14,2017-02-14
+298,,,Anupgarh,Gharsana,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4900,4900,4900,04 Feb 2017,2017,Feb,4,2017-02-04
+299,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4500,4500,4500,21 Dec 2016,2016,Dec,21,2016-12-21
+300,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4601,4601,4601,04 May 2017,2017,May,4,2017-05-04
+301,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5400,5050,23 Dec 2016,2016,Dec,23,2016-12-23
+302,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4701,4900,4800,14 Feb 2017,2017,Feb,14,2017-02-14
+303,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,4800,4800,17 Feb 2017,2017,Feb,17,2017-02-17
+304,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,05 Feb 2017,2017,Feb,5,2017-02-05
+305,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5004,4902,06 Feb 2017,2017,Feb,6,2017-02-06
+306,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4800,5100,4950,22 Dec 2016,2016,Dec,22,2016-12-22
+307,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4850,4850,4850,18 Feb 2017,2017,Feb,18,2017-02-18
+308,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,12 Feb 2017,2017,Feb,12,2017-02-12
+309,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4927,4927,4927,13 Feb 2017,2017,Feb,13,2017-02-13
+310,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4999,4999,4999,11 Feb 2017,2017,Feb,11,2017-02-11
+311,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5000,5000,01 Feb 2017,2017,Feb,1,2017-02-01
+312,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,14 Jan 2017,2017,Jan,14,2017-01-14
+313,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,15 Jan 2017,2017,Jan,15,2017-01-15
+314,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5000,5150,5075,16 Jan 2017,2017,Jan,16,2017-01-16
+315,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5505,5302,11 Jan 2017,2017,Jan,11,2017-01-11
+316,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,26 Jan 2017,2017,Jan,26,2017-01-26
+317,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5150,5150,5150,27 Jan 2017,2017,Jan,27,2017-01-27
+318,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5191,5191,5191,20 Dec 2016,2016,Dec,20,2016-12-20
+319,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,16 Dec 2016,2016,Dec,16,2016-12-16
+320,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,08 Jan 2017,2017,Jan,8,2017-01-08
+321,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5300,5300,5300,09 Jan 2017,2017,Jan,9,2017-01-09
+322,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5350,5526,5438,22 Mar 2017,2017,Mar,22,2017-03-22
+323,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,27 Dec 2016,2016,Dec,27,2016-12-27
+324,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5771,5610,18 Oct 2016,2016,Oct,18,2016-10-18
+325,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5501,5751,5626,05 Jan 2017,2017,Jan,5,2017-01-05
+326,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5524,5524,5524,04 Jan 2017,2017,Jan,4,2017-01-04
+327,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5600,5600,5600,08 Dec 2016,2016,Dec,8,2016-12-08
+328,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,16 Oct 2016,2016,Oct,16,2016-10-16
+329,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5650,5650,5650,17 Oct 2016,2016,Oct,17,2016-10-17
+330,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5670,5810,5740,20 Oct 2016,2016,Oct,20,2016-10-20
+331,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5700,5800,5750,04 Nov 2016,2016,Nov,4,2016-11-04
+332,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5725,6296,6010,06 Oct 2016,2016,Oct,6,2016-10-06
+333,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5799,5871,5835,19 Oct 2016,2016,Oct,19,2016-10-19
+334,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5900,5900,02 Dec 2016,2016,Dec,2,2016-12-02
+335,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5900,5981,5940,19 Nov 2016,2016,Nov,19,2016-11-19
+336,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,09 Oct 2016,2016,Oct,9,2016-10-09
+337,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5901,6131,6016,10 Oct 2016,2016,Oct,10,2016-10-10
+338,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,09 Nov 2016,2016,Nov,9,2016-11-09
+339,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,10 Nov 2016,2016,Nov,10,2016-11-10
+340,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,11 Nov 2016,2016,Nov,11,2016-11-11
+341,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,12 Nov 2016,2016,Nov,12,2016-11-12
+342,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,13 Nov 2016,2016,Nov,13,2016-11-13
+343,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,14 Nov 2016,2016,Nov,14,2016-11-14
+344,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,15 Nov 2016,2016,Nov,15,2016-11-15
+345,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5964,6100,6032,16 Nov 2016,2016,Nov,16,2016-11-16
+346,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6000,6000,6000,22 Nov 2016,2016,Nov,22,2016-11-22
+347,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6031,6412,6221,22 Oct 2016,2016,Oct,22,2016-10-22
+348,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6086,6200,6143,05 Oct 2016,2016,Oct,5,2016-10-05
+349,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6150,6615,6382,08 Oct 2016,2016,Oct,8,2016-10-08
+350,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6161,6271,6216,08 Nov 2016,2016,Nov,8,2016-11-08
+351,,,Dausa,Mandawari,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6401,6551,6476,21 Oct 2016,2016,Oct,21,2016-10-21
+352,,,Hanumangarh,Pilibanga,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,08 Oct 2016,2016,Oct,8,2016-10-08
+353,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3250,3250,3250,12 May 2017,2017,May,12,2017-05-12
+354,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3560,3560,3560,04 Nov 2016,2016,Nov,4,2016-11-04
+355,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,3800,3800,3800,27 May 2017,2017,May,27,2017-05-27
+356,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4025,4025,4025,22 Feb 2017,2017,Feb,22,2017-02-22
+357,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4200,4200,4200,10 Mar 2017,2017,Mar,10,2017-03-10
+358,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4300,4300,4300,13 Dec 2016,2016,Dec,13,2016-12-13
+359,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4400,4400,4400,02 Mar 2017,2017,Mar,2,2017-03-02
+360,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4460,4460,4460,19 Dec 2016,2016,Dec,19,2016-12-19
+361,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4555,4555,4555,16 Dec 2016,2016,Dec,16,2016-12-16
+362,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4600,4600,4600,15 Oct 2016,2016,Oct,15,2016-10-15
+363,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4700,5050,5050,30 Jan 2017,2017,Jan,30,2017-01-30
+364,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,4855,5100,5100,02 Feb 2017,2017,Feb,2,2017-02-02
+365,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5021,5021,5021,22 Oct 2016,2016,Oct,22,2016-10-22
+366,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5060,5060,5060,06 Feb 2017,2017,Feb,6,2017-02-06
+367,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5091,5091,5091,13 Apr 2017,2017,Apr,13,2017-04-13
+368,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5100,5100,5100,28 Oct 2016,2016,Oct,28,2016-10-28
+369,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5151,5400,5400,21 Jan 2017,2017,Jan,21,2017-01-21
+370,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5200,5200,5200,23 Jan 2017,2017,Jan,23,2017-01-23
+371,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5255,5255,5255,21 Nov 2016,2016,Nov,21,2016-11-21
+372,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5341,5341,5341,19 Jan 2017,2017,Jan,19,2017-01-19
+373,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5355,5355,5355,12 Jan 2017,2017,Jan,12,2017-01-12
+374,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5371,5371,5371,24 Jan 2017,2017,Jan,24,2017-01-24
+375,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5375,5375,5375,23 Dec 2016,2016,Dec,23,2016-12-23
+376,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5415,5415,5415,27 Mar 2017,2017,Mar,27,2017-03-27
+377,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5450,5450,5450,09 Jan 2017,2017,Jan,9,2017-01-09
+378,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5550,5550,5550,04 Feb 2017,2017,Feb,4,2017-02-04
+379,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5655,5780,5780,08 Nov 2016,2016,Nov,8,2016-11-08
+380,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,5915,5915,5915,26 Oct 2016,2016,Oct,26,2016-10-26
+381,,,Ganganagar,Sriganganagar (Grain),Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,6405,6600,6600,06 Oct 2016,2016,Oct,6,2016-10-06

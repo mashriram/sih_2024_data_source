@@ -1,15 +1,18 @@
-Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
-0,0.0,Koria,Baikunthpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4000,4000,30 Jan 2022,2022,Jan,30,2022-01-30
-1,1.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2200,2200,2200,19 Apr 2017,2017,Apr,19,2017-04-19
-2,2.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5300,5500,5300,03 Apr 2017,2017,Apr,3,2017-04-03
-3,3.0,Raigarh,Sarangarh,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,500,500,500,31 Mar 2017,2017,Mar,31,2017-03-31
-4,4.0,Koria,Baikunthpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3000,3000,3000,31 Dec 2018,2018,Dec,31,2018-12-31
-5,5.0,Koria,Baikunthpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4000,4000,28 Feb 2019,2019,Feb,28,2019-02-28
-6,6.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3700,3700,3700,27 Aug 2019,2019,Aug,27,2019-08-27
-7,7.0,Raigarh,Baramkela,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3500,3500,3500,04 Oct 2018,2018,Oct,4,2018-10-04
-8,8.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1575,1575,1575,10 Jan 2018,2018,Jan,10,2018-01-10
-9,9.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1600,1600,1600,25 Oct 2017,2017,Oct,25,2017-10-25
-10,10.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2100,2100,2100,23 Mar 2018,2018,Mar,23,2018-03-23
-11,,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2200,2200,2200,19 Apr 2017,2017,Apr,19,2017-04-19
-12,,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5300,5500,5300,03 Apr 2017,2017,Apr,3,2017-04-03
-13,,Raigarh,Sarangarh,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,500,500,500,31 Mar 2017,2017,Mar,31,2017-03-31
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,district_name,market_name,commodity,vareity,grade,min_rs_quintal,max_rs_quintal,modal_rs_quintal,date,year,month,day_of_month,datetime
+0,0.0,0.0,Koria,Baikunthpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4000,4000,30 Jan 2022,2022,Jan,30,2022-01-30
+1,1.0,1.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2200,2200,2200,19 Apr 2017,2017,Apr,19,2017-04-19
+2,2.0,2.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5300,5500,5300,03 Apr 2017,2017,Apr,3,2017-04-03
+3,3.0,3.0,Raigarh,Sarangarh,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,500,500,500,31 Mar 2017,2017,Mar,31,2017-03-31
+4,4.0,4.0,Koria,Baikunthpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3000,3000,3000,31 Dec 2018,2018,Dec,31,2018-12-31
+5,5.0,5.0,Koria,Baikunthpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,4000,4000,4000,28 Feb 2019,2019,Feb,28,2019-02-28
+6,6.0,6.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3700,3700,3700,27 Aug 2019,2019,Aug,27,2019-08-27
+7,7.0,7.0,Raigarh,Baramkela,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,3500,3500,3500,04 Oct 2018,2018,Oct,4,2018-10-04
+8,8.0,8.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1575,1575,1575,10 Jan 2018,2018,Jan,10,2018-01-10
+9,9.0,9.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,1600,1600,1600,25 Oct 2017,2017,Oct,25,2017-10-25
+10,10.0,10.0,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2100,2100,2100,23 Mar 2018,2018,Mar,23,2018-03-23
+11,11.0,,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2200,2200,2200,19 Apr 2017,2017,Apr,19,2017-04-19
+12,12.0,,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5300,5500,5300,03 Apr 2017,2017,Apr,3,2017-04-03
+13,13.0,,Raigarh,Sarangarh,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,500,500,500,31 Mar 2017,2017,Mar,31,2017-03-31
+14,,,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2200,2200,2200,19 Apr 2017,2017,Apr,19,2017-04-19
+15,,,Balodabazar,Balodabazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,5300,5500,5300,03 Apr 2017,2017,Apr,3,2017-04-03
+16,,,Raigarh,Sarangarh,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,500,500,500,31 Mar 2017,2017,Mar,31,2017-03-31
